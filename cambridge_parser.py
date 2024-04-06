@@ -495,12 +495,11 @@ def define(word: str,
         res.append(word_info)
     return res
 
+# if __name__ == "__main__":
+#     from pprint import pprint
 
-if __name__ == "__main__":
-    from pprint import pprint
-
-    res = define(word="test", 
-                 dictionary_type="learner-english",
-                 bilingual_vairation="")
-    pprint(res)
+#     res = define(word="test", 
+#                  dictionary_type="learner-english",
+#                  bilingual_vairation="")
+#     pprint(res)
 
