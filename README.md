@@ -8,6 +8,7 @@ Primary functionality is contained in and described by `inputprep.ipynb`.
 
 - Initial filtration of CMU dictionary words
 - Generation of all possible transcriptions into IPA of CMU dictionary pronunciations
+- Obtains all corresponding pronunciations from Cambridge dictionary in US_IPA format
 
 ### Acknowledgements
 
