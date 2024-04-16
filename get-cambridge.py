@@ -54,55 +54,78 @@ print("Obtaining Cambridge pronunciations...")
 # For each word in the dict, get its corresponding pronunciation from Cambridge;
 # if it is not in Cambridge, remove it from the dict 
 
-# list of words to eventually remove
-to_remove = []
-
-i = 1
-wps_words = str(len(wps.keys()))
+wps_keys = list(wps.keys())
+wps_words = str(len(wps_keys))
+# Four steps of iteration to prevent errors
+step = int(len(wps_keys) / 4) # TODO turn the step into a variable
+stepn = 1
+wordnum = 1
 
 # Iterate through trimmed word list 
-for word in wps.keys():
-    print(f"Obtaining pronunciations for word {word}; {i} of {wps_words} words...", end="\r")
+# This is done in several steps to reduce capacity for errors
+for i in range(0, len(wps_keys), step):
+    # Temporary dict in which to store words from this iteration
+    temp_words = {}
+    words_to_remove = []
 
-    # Grab cambridge information
-    cword = parser.define(word)
+    # todo dont hardcode 4
+    print(f"Stepping through words {wps_keys[i]} to {wps_keys[i+step]} in step {str(stepn)} of 4...")
 
-    # List of pronunciations for the word in US_IPA
-    ps = []
+    for word in wps_keys[i:min(len(wps_keys), i + step)]:
+        print(f"Obtaining pronunciations for word {word}; {str(wordnum)} of {wps_words} words...", end="\r")
 
-    # Iterate through all definitions
-    for defnum in range(len(cword)):
-        try:
-            # Obtain all pronunciations and format them correctly
-            pslist = cword[defnum][word][0]['data']['US_IPA']
-            for p in pslist:
-                # Append the formatted pronunciation to list of pronuns
-                ps.append(p[0].replace(".","").replace("/",""))
-        # if something times out we can grab it later by hand 
-        except (RuntimeError, KeyError, IndexError, TimeoutError):
-            # Continue iterating if no pronunciation present
-            continue 
+        # Grab cambridge information
+        cword = parser.define(word)
 
-    # If there are no pronunciations for the word, add the word to a list
-    # of words to be removed
-    if len(ps) == 0:
-        to_remove.append(word)
-    else:
-        wps[word] = ps
+        # List of pronunciations for the word in US_IPA in space-separated string
+        ps = ""
 
-    i += 1
+        # Iterate through all definitions
+        for defnum in range(len(cword)):
+            try:
+                # Obtain all pronunciations and format them correctly
+                pslist = cword[defnum][word][0]['data']['US_IPA']
+                for p in pslist:
+                    # Append the formatted pronunciation to space separated string of pronuns
+                    ps = ps + " " + p[0].replace(".","").replace("/","")
+            # if something times out we can grab it later by hand 
+            except (RuntimeError, KeyError, IndexError, TimeoutError):
+                # Continue iterating if error occurs; these can be cleaned up manually later
+                continue 
 
-print("")
-print("Finished obtaining pronunciations.")
+        # If there are no pronunciations for the word, add the word to a list
+        # of words to be removed
+        if len(ps) == 0:
+            words_to_remove.append(word)
+        else:
+            temp_words[word] = ps
 
-# Remove all words with no pronunciations
-for word in to_remove:
-    wps.pop(word)
+        wordnum += 1
+    # Output the words and pronunciations we have accumulated
+    print("")
+    print("Finished obtaining pronunciations for this iteration.")
+    
+    for word in words_to_remove:
+        temp_words.pop(word)
+    
+    print("Removed all words without pronunciations.")
 
-print("Removed all words without pronunciations.")
+    word_pronunciation_pairs = []
 
-# Output to csv
-df = pd.DataFrame.from_dict(wps)
-df.to_csv("cambridge_ipas.csv", index=False)
+    # Iterate through the dictionary and convert it into a list of tuples
+    for word, pronunciation in temp_words.items():
+        # Append each word-pronunciation pair as a tuple to the list
+        word_pronunciation_pairs.append((word, pronunciation))
 
-print("Output csv to cambridge_ipas.csv")
+    # Create a DataFrame from the list of tuples
+    df = pd.DataFrame(word_pronunciation_pairs, columns=['Word', 'Pronunciation'])
+
+    # Output the DataFrame to a CSV file
+    df.to_csv(f"cambridge_ipas_step{str(stepn)}.csv", index=False)
+
+    print(f"Output csv for step {str(stepn)} to cambridge_ipas_step{str(stepn)}.csv")
+    
+    stepn += 1
+
+# Now read all the results back in, concat them and make a big csv with all the
+# cambridge ipas
