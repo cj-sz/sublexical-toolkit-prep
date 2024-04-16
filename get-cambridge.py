@@ -78,7 +78,8 @@ for word in wps.keys():
             for p in pslist:
                 # Append the formatted pronunciation to list of pronuns
                 ps.append(p[0].replace(".","").replace("/",""))
-        except (RuntimeError, KeyError, IndexError):
+        # if something times out we can grab it later by hand 
+        except (RuntimeError, KeyError, IndexError, TimeoutError):
             # Continue iterating if no pronunciation present
             continue 
 
