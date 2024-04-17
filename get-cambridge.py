@@ -93,22 +93,14 @@ for i in range(0, len(wps_keys), step):
                 # Continue iterating if error occurs; these can be cleaned up manually later
                 continue 
 
-        # If there are no pronunciations for the word, add the word to a list
-        # of words to be removed
-        if len(ps) == 0:
-            words_to_remove.append(word)
-        else:
+        # If there are pronunciations for this word, add them to the dict
+        if len(ps) != 0:
             temp_words[word] = ps
 
         wordnum += 1
     # Output the words and pronunciations we have accumulated
     print("")
     print("Finished obtaining pronunciations for this iteration.")
-    
-    for word in words_to_remove:
-        temp_words.pop(word)
-    
-    print("Removed all words without pronunciations.")
 
     word_pronunciation_pairs = []
 
