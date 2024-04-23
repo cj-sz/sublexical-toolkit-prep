@@ -26,7 +26,10 @@ Clearly, there is a discrepancy here between the two that must be resolved manua
 
 {'Word': 'accepting', 'IPA Pronunciation': '', 'Cambridge Pronunciation Number': 0}
 
-I've been able to reduce the number of discrepancies to 5546 by inspection and some other transcriptions; I think the rest may need to be examined manually, though.
+I've been able to reduce the number of discrepancies to 5546 by inspection and some other transcriptions; I think the rest may need to be examined manually, though. A lot of times, it is either because the Cambridge dictionary, when searching for a plural, -ing, etc. only returns the root word. For instance, see the output for the word "titles:"
+
+CMU: ['taɪtəlz']
+Cambridge: ['taɪtəl']
 
 `get-cambridge.ipynb`: details the process for obtaining all pronunciations from the Cambridge dictionary. The outputs of this file have already been produced, so it does not need to be run again (and takes several hours to complete if so).
 
@@ -39,6 +42,8 @@ I've been able to reduce the number of discrepancies to 5546 by inspection and s
 - Initial filtration of CMU dictionary words
 - Generation of all possible transcriptions into IPA of CMU dictionary pronunciations
 - Obtains all corresponding pronunciations from Cambridge dictionary in US_IPA format and consolidates them
+- Obtains a list of words not present in the Cambridge dictionary from the trimmed CMU list and outputs them 
+- Pariwise compares words from the final CMU dictionary and the Cambridge pronunciations to check for discrepancies
 
 ### Acknowledgements
 
