@@ -36,6 +36,8 @@ Cambridge: ['taɪtəl']
 
 `cambridge_ipas.csv`: the primary output of `get-cambridge.ipynb`. Contains, for all words present in both the trimmed CMU dictionary list and the Cambridge dictionary, words and their potential pronunciations as given by the Cambridge dictionary. If multiple pronunciations are possible, they are space-separated in the second column.
 
+`discrepancies.csv`: contains all of the discrepant words among the words present in both the trimmed CMU dictionary as well as the Cambridge dictionary. Column entries are space-separated lists of all possible IPA transcriptions from both the CMU pronunciation and the Cambridge pronunciation for each discrepant word.
+
 `missing_cmu_words.csv`: contains all words in the trimmed CMU dictionary list whose pronunciations could not be obtained from the Cambridge dictionary. Also contains all possible IPA transcriptions of such words' pronunciations.
 
 ### Current Functionality
