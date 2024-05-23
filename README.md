@@ -4,6 +4,8 @@ This repository contains code and files for updating inputs to the Sublexical To
 
 Primary functionality is contained in and described by `inputprep.ipynb`.
 
+NOTE: The outputs are currently being restructured to take various issues into account (i.e. multiple valid pronunciations, mis-trimmed words) and the results are being concatenated to a single file. Updates will be reflected here when complete.
+
 ### Key Files
 
 `inputprep.ipynb`: contains the key functionality of the word prep. Trims the CMU dictionary, converts pronunciations to their potential IPA formats and compares and contrasts these potential pronunciations with pronunciations obtained from the Cambridge dictionary.
