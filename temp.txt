@@ -1,2 +1,0 @@
-- AH2? differs from AH0 and AH1 in cmu dict for some words, like "abductee"
-- sometimes just need -ing, -ly version of the word because a search for it on the cambridge dictionary just returns the root word 
