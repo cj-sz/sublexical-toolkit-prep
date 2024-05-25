@@ -365,8 +365,12 @@ def define(word: str,
         link = f"{LINK_PREFIX}/dictionary/english-{bilingual_vairation}/{word}"
     else:
         link = f"{LINK_PREFIX}/dictionary/{dictionary_type}/{word}"
+
     # will raise error if request_headers are None
-    page = requests.get(link, headers=request_headers, timeout=timeout)
+    try:
+        page = requests.get(link, headers=request_headers, timeout=timeout)
+    except Exception as e:
+        return None
 
     soup = bs4.BeautifulSoup(page.content, "html.parser")
     # Only english dictionary
