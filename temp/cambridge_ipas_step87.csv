@@ -9,8 +9,8 @@ stringy, ˈstrɪŋi ˈstrɪŋ·i,0,0
 strip, strɪp strɪp strɪp strɪp strɪp strɪp strɪp strɪp strɪp strɪp strɪp strɪp,1,0
 stripe, straɪp straɪp strɑɪp strɑɪp,0,0
 striped, straɪpt,0,0
-striper, ˌstraɪpt ˈbæs,1,0
-stripers, ˈkændi ˌstraɪpɚ,1,0
+striper,,0,1
+stripers,,0,1
 stripes, straɪp straɪp strɑɪp strɑɪp,1,0
 stripling, ˈstrɪplɪŋ,0,0
 stripped,,1,0
@@ -23,7 +23,7 @@ strive, straɪv strɑɪv,0,0
 striven,,1,0
 strives, straɪv strɑɪv,1,0
 striving,,1,0
-strivings,,0,0
+strivings,,0,1
 strobe, stroʊb,0,0
 strode, stroʊd stroʊd,0,0
 stroganoff, ˈstrɔːɡənɔːf,0,0
@@ -37,7 +37,7 @@ stroller, ˈstroʊlɚ ˈstroʊlɚ ˈstroʊ·lər,0,0
 strollers, ˈstroʊlɚ ˈstroʊlɚ ˈstroʊ·lər,1,0
 strolling, stroʊl,1,0
 strolls, stroʊl stroʊl,1,0
-strom,,0,0
+strom,,0,1
 strong, strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ,1,0
 stronger, strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ,1,0
 strongest, strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɑːŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ strɔŋ,1,0
@@ -46,10 +46,10 @@ strongholds, ˈstrɑːŋhoʊld ˈstrɑːŋhoʊld ˈstrɔŋˌhoʊld,1,0
 strongly, ˈstrɑːŋli ˈstrɑːŋli ˈstrɔŋ·li ˈstrɔŋ·li ˈstrɔŋ·li,1,0
 strongman, ˈstrɑːŋmæn ˈstrɑːŋmæn,0,0
 strontium, ˈstrɑːnʃiəm,0,0
-stroud,,0,0
-strout,,0,0
+stroud,,0,1
+strout,,0,1
 strove, stroʊv stroʊv,0,0
-strub,,0,0
+strub,,0,1
 struck, strʌk strʌk,0,0
 structural, ˈstrʌktʃɚəl ˈstrʌktʃɚəl ˈstrʌk·tʃər·əl ˈstrʌk·tʃər·əl,1,0
 structurally, ˈstrʌktʃɚəli ˈstrʌk·tʃər·ə·li ˈstrʌk·tʃər·ə·li,0,0
@@ -69,7 +69,7 @@ strut, strʌt strʌt,0,0
 struts, strʌt strʌt,1,0
 strutting, strʌt strʌt,1,0
 strychnine, ˈstrɪkniːn,0,0
-stuart,,0,0
+stuart,,0,1
 stub, stʌb stʌb,1,0
 stubbed, stʌb stʌb stʌb,1,0
 stubble, ˈstʌbəl ˈstʌbəl ˈstʌb·əl ˈstʌb·əl,0,0
@@ -77,7 +77,7 @@ stubborn, ˈstʌbɚn ˈstʌbɚn ˈstʌb·ərn ˈstʌb·ərn,0,0
 stubbornly, ˈstʌbɚnli ˈstʌbɚnli,0,0
 stubbornness, ˈstʌbɚnnəs ˈstʌbɚnnəs,0,0
 stubby, ˈstʌbi,0,0
-stuber,,0,0
+stuber,,0,1
 stubs, stʌb stʌb stʌb,1,0
 stucco, ˈstʌkoʊ ˈstʌk·oʊ,0,0
 stuck, stʌk stʌk,0,0
@@ -100,7 +100,7 @@ stuffer, ˈstʌfɚ ˈstʌfɚ ˈstʌfɚ,0,0
 stuffing, ˈstʌfɪŋ ˈstʌfɪŋ ˈstʌf·ɪŋ ˈstʌf·ɪŋ,0,0
 stuffs, stʌf stʌf stʌf stʌf stʌf stʌf stʌf stʌf,1,0
 stuffy, ˈstʌfi ˈstʌfi ˈstʌfi ˈstʌf·i ˈstʌf·i,0,0
-stull,,0,0
+stull,,0,1
 stultifying, ˈstʌltəfaɪɪŋ,0,0
 stumble, ˈstʌmbəl ˈstʌmbəl ˈstʌmbəl ˈstʌm·bəl ˈstʌm·bəl,0,0
 stumbled, ˈstʌmbəl ˈstʌmbəl ˈstʌmbəl,1,0
@@ -108,7 +108,7 @@ stumbles, ˈstʌmbəl ˈstʌmbəl ˈstʌmbəl ˈstʌm·bəl ˈstʌm·bəl,1,0
 stumbling, ˈstʌmbəlɪŋ ˈstʌmbəlɪŋ ˈstʌmbəlɪŋ,0,0
 stump, stʌmp stʌmp,0,0
 stumped, stʌmp stʌmp stʌmp stʌmp,1,0
-stumper,,0,0
+stumper,,0,1
 stumping, stʌmp stʌmp stʌmp stʌmp,1,0
 stumps,,1,0
 stun, stʌn stʌn stʌn stʌn,0,0
@@ -155,19 +155,19 @@ stylus, ˈstaɪləs ˈstaɪləs,1,0
 stymie, ˈstaɪmi ˈstɑɪ·mi,0,0
 stymied, ˈstaɪmi ˈstɑɪ·mi,1,0
 stymies, ˈstaɪmi ˈstɑɪ·mi,1,0
-styrene,,0,0
+styrene,,0,1
 styrofoam, ˈstaɪrəfoʊm ˈstɑɪ·rəˌfoʊm,1,0
-styx,,0,0
-su,,0,0
+styx,,0,1
+su,,0,1
 suave, swɑːv swɑv,0,0
 sub, sʌb sʌb sʌb sʌb sʌb sʌb sʌb sʌb sʌb,1,0
-suba,,0,0
-subassembly,,0,0
+suba,,0,1
+subassembly,,0,1
 subatomic, ˌsʌbəˈtɑːmɪk ˌsʌb·əˈtɑm·ɪk,0,0
 subbed,,1,0
 subbing,,1,0
 subchapter, ˈsʌbˌtʃæptɚ ˈsʌbˌtʃæptɚ,0,0
-subcommander,,0,0
+subcommander,,0,1
 subcommittee, ˈsʌbkəˌmɪti ˈsʌb·kəˌmɪt̬·i,1,0
 subcommittees, ˈsʌbkəˌmɪti ˈsʌb·kəˌmɪt̬·i,1,0
 subcompact, ˈsəbkəmpækt sʌbˈkɑmˌpækt,0,0
@@ -206,13 +206,13 @@ sublet, ˌsʌbˈlet ˈsʌbˈlet,1,0
 sublime, səˈblaɪm səˈblaɪm səˈblɑɪm,0,0
 subliminal, ˌsəˈblɪmənəl ˌsəˈblɪmənəl səbˈlɪm·ə·nəl,1,0
 subliminally, sʌbˈlɪmənəli,0,0
-submachine, ˌsʌbməˈʃiːŋ ɡʌn,1,0
+submachine,,0,1
 submarine," ˌsʌbməˈriːn ˈsʌb·məˌrin, ˌsʌb·məˈrin",0,0
 submarines," ˌsʌbməˈriːn ˈsʌb·məˌrin, ˌsʌb·məˈrin",1,0
 submerge, səbˈmɝːdʒ səbˈmɝːdʒ səbˈmɜrdʒ,0,0
 submerged, səbˈmɝːdʒ səbˈmɝːdʒ,1,0
-submergence,,0,0
-submerse,,0,0
+submergence,,0,1
+submerse,,0,1
 submersible, səbˈmɝːsəbəl,0,0
 submersion, səbˈmɝːʒən,0,0
 submission, səbˈmɪʃən səbˈmɪʃən səbˈmɪʃ·ən səbˈmɪʃ·ən,1,0
@@ -263,7 +263,7 @@ subsidy, ˈsʌbsədi ˈsʌb·sə·di,1,0
 subsist, səbˈsɪst səbˈsɪst,0,0
 subsistence, səbˈsɪstəns səbˈsɪstəns səbˈsɪs·təns səbˈsɪstəns,0,0
 subsoil, ˈsʌbsɔɪl ˈsʌbˌsɔɪl,0,0
-subspace,,0,0
+subspace,,0,1
 substance, ˈsʌbstəns ˈsʌbstəns ˈsʌbstəns ˈsʌb·stəns ˈsʌb·stəns,0,0
 substances, ˈsʌbstəns ˈsʌbstəns ˈsʌbstəns ˈsʌbstəns ˈsʌb·stəns ˈsʌb·stəns,1,0
 substandard, sʌbˈstændɚd sʌbˈstæn·dərd,0,0
@@ -282,7 +282,7 @@ substituting, ˈsʌbstətuːt ˈsʌbstətuːt ˈsʌbstətuːt,1,0
 substitution, ˌsʌbstəˈtuːʃən ˌsʌbstəˈtuːʃən ˌsʌb·stɪˈtu·ʃən,1,0
 substitutions, ˌsʌbstəˈtuːʃən ˌsʌbstəˈtuːʃən ˌsʌb·stɪˈtu·ʃən,1,0
 substrate, ˈsʌbstreɪt ˈsʌbstreɪt ˈsʌb·streɪt ˈsʌb·streɪt,0,0
-subsurface,,0,0
+subsurface,,0,1
 subsystem, ˈsʌbˌsɪstəm,0,0
 subsystems, ˈsʌbˌsɪstəm,1,0
 subterfuge, ˈsʌbtɚfjuːdʒ ˈsʌb·tərˌfjudʒ,0,0
@@ -306,17 +306,17 @@ suburban, səˈbɝːbən səˈbɝːbən,0,0
 suburbanite, səˈbɝːbənaɪt,0,0
 suburbanites, səˈbɝːbənaɪt,1,0
 suburbia, səˈbɝːbiə səˈbɝːbiə səˈbɜr·bi·ə,0,0
-suburbs,,1,0
+suburbs,,0,1
 subversion, səbˈvɝːʃən səbˈvɜr·ʒən,0,0
 subversive, səbˈvɝːsɪv səbˈvɜr·sɪv,0,0
-subversives,,0,0
+subversives,,0,1
 subvert, səbˈvɝːt,0,0
 subverted, səbˈvɝːt,1,0
 subverting, səbˈvɝːt,1,0
 subverts, səbˈvɝːt,1,0
 subway, ˈsʌbweɪ ˈsʌbweɪ ˈsʌb·weɪ ˈsʌb·weɪ,0,0
 subways, ˈsʌbweɪ ˈsʌbweɪ ˈsʌb·weɪ ˈsʌb·weɪ,1,0
-subzero,,0,0
+subzero,,0,1
 succeed, səkˈsiːd səkˈsiːd səkˈsiːd səkˈsid səkˈsid,1,0
 succeeded, səkˈsiːd səkˈsiːd səkˈsiːd,1,0
 succeeding, səkˈsiːd səkˈsiːd səkˈsiːd,1,0
@@ -343,18 +343,18 @@ such, sʌtʃ sʌtʃ,0,0
 suck, sʌk sʌk sʌk sʌk sʌk sʌk,0,0
 sucked, sʌk sʌk sʌk,1,0
 sucker, ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌk·ər ˈsʌk·ər ˈsʌk·ər ˈsʌk·ər,0,0
-suckered, ˈsʌkɚ ˈsʌkɚ,1,0
+suckered,,0,1
 suckers, ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌkɚ ˈsʌk·ər ˈsʌk·ər ˈsʌk·ər ˈsʌk·ər,1,0
 sucking, sʌk sʌk sʌk,1,0
 suckle, ˈsʌkəl,0,0
 suckling, ˈsʌklɪŋ,0,0
 sucks, sʌk sʌk sʌk sʌk sʌk sʌk,1,0
-sucre,,0,0
+sucre,,0,1
 sucrose, ˈsuːkroʊs,0,0
 suction, ˈsʌkʃən ˈsʌk·ʃən,0,0
 sudan, suːˈdɑːn,1,0
 sudanese, ˌsuːdənˈiːz,1,0
-sudd,,0,0
+sudd,,0,1
 sudden, ˈsʌdən ˈsʌd·ən,0,0
 suddenly, ˈsʌdənli ˈsʌd·ən·li,0,0
 suddenness, ˈsʌdənnəs,0,0
@@ -362,10 +362,10 @@ suds, sʌdz sʌdz sʌdz sʌdz,0,0
 sue, suː su,1,0
 sued, suː,1,0
 suede, sweɪd sweɪd,0,0
-suedes,,0,0
+suedes,,0,1
 sues, suː su,1,0
-suey, ˌtʃɑːp ˈsuːi,1,0
-suez,,0,0
+suey,,0,1
+suez,,0,1
 suffer, ˈsʌfɚ ˈsʌfɚ ˈsʌf·ər ˈsʌf·ər,0,0
 suffered, ˈsʌfɚ ˈsʌfɚ,1,0
 sufferer, ˈsʌfɚɚ ˈsʌf·ər·ər,0,0
@@ -389,11 +389,11 @@ suffrage, ˈsʌfrɪdʒ ˈsʌf·rɪdʒ,0,0
 suffragette, ˌsʌfrəˈdʒet,0,0
 suffragist, ˈsʌfrədʒɪst,0,0
 sugar, ˈʃʊɡɚ ˈʃʊɡɚ ˈʃʊɡɚ ˈʃʊɡ·ər,0,0
-sugarcane,,0,0
+sugarcane,,0,1
 sugared, ˈʃʊɡɚ,1,0
 sugars, ˈʃʊɡɚ ˈʃʊɡɚ ˈʃʊɡɚ ˈʃʊɡ·ər,1,0
 sugary, ˈʃʊɡɚi ˈʃʊɡɚi,0,0
-sugg,,0,0
+sugg,,0,1
 suggest," səˈdʒest səˈdʒest səˈdʒest səɡˈdʒest, sə- səɡˈdʒest, sə-",0,0
 suggested, səˈdʒest səˈdʒest səˈdʒest,1,0
 suggestible, səˈdʒestəbəl,0,0
@@ -402,12 +402,12 @@ suggestion," səˈdʒestʃən səˈdʒestʃən səˈdʒestʃən səɡˈdʒes·t�
 suggestions," səˈdʒestʃən səˈdʒestʃən səˈdʒestʃən səɡˈdʒes·tʃən, sə- səɡˈdʒes·tʃən, sə-",1,0
 suggestive," səˈdʒestɪv səˈdʒestɪv səɡˈdʒes·tɪv, sə-",0,0
 suggests," səˈdʒest səˈdʒest səˈdʒest səɡˈdʒest, sə- səɡˈdʒest, sə-",1,0
-sui, ˌsuːiː ˈdʒenərɪs,1,0
+sui,,0,1
 suicidal, ˌsuːəˈsaɪdəl ˌsuːəˈsaɪdəl ˌsuːəˈsaɪdəl ˌsu·əˈsɑɪ·dəl ˌsu·əˈsɑɪ·dəl,0,0
 suicide, ˈsuːəsaɪd ˈsuːəsaɪd ˈsuːəsaɪd ˈsu·əˌsɑɪd ˈsu·əˌsɑɪd,0,0
 suicides, ˈsuːəsaɪd ˈsuːəsaɪd ˈsuːəsaɪd ˈsu·əˌsɑɪd ˈsu·əˌsɑɪd,1,0
 suing, suː,1,0
-suisse,,0,0
+suisse,,0,1
 suit, suːt suːt suːt suːt suːt sut sut,1,0
 suitability, ˌsuːt̬əˈbɪlət̬i,0,0
 suitable, ˈsuːt̬əbəl ˈsu·t̬ə·bəl,0,0
@@ -422,12 +422,12 @@ suitor, ˈsuːt̬ɚ ˈsuːt̬ɚ ˈsut̬·ər ˈsut̬·ər,1,0
 suitors, ˈsuːt̬ɚ ˈsuːt̬ɚ ˈsut̬·ər ˈsut̬·ər,1,0
 suits, suːt suːt suːt suːt suːt sut sut,1,0
 sukiyaki, ˌsuːkiˈjɑːki,0,0
-sulfa,,0,0
+sulfa,,0,1
 sulfate, ˈsʌlfeɪt ˈsʌl·feɪt,0,0
 sulfide, ˈsʌlfaɪd ˈsʌl·fɑɪd,0,0
-sulfite,,0,0
+sulfite,,0,1
 sulfur, ˈsʌlfɚ ˈsʌl·fər,0,0
-sulfuric, sʌlˌfjʊrɪk ˈæsɪd sʌlˈfjʊər·ɪk ˈæs·ɪd,1,0
+sulfuric,,0,1
 sulk, sʌlk sʌlk,0,0
 sulked, sʌlk,1,0
 sulking, sʌlk,1,0
@@ -443,8 +443,8 @@ sultans, ˈsʌltən ˈsʌl·tən,1,0
 sultry, ˈsʌltri ˈsʌltri ˈsʌl·tri ˈsʌl·tri,0,0
 sum, sʌm sʌm sʌm sʌm sʌm,1,0
 sumac, ˈsuːmæk ˈsuːmæk,0,0
-sumatra,,0,0
-summa, ˌsʊmə kʊm ˈlaʊdeɪ,1,0
+sumatra,,0,1
+summa,,0,1
 summaries, ˈsʌmɚi ˈsʌm·ə·ri ˈsʌm·ə·ri,1,0
 summarily, ˌsʌmˈerəli,0,0
 summarize, ˈsʌməraɪz ˈsʌm·əˌrɑɪz,1,0
@@ -453,7 +453,7 @@ summarizes, ˈsʌməraɪz ˈsʌm·əˌrɑɪz,1,0
 summary, ˈsʌmɚi ˈsʌm·ə·ri,1,0
 summation, ˌsəmˈeɪʃən ˌsəmˈeɪʃən ˌsəmˈeɪʃən sʌˈmeɪ·ʃən,0,0
 summations, ˌsəmˈeɪʃən ˌsəmˈeɪʃən ˌsəmˈeɪʃən sʌˈmeɪ·ʃən,1,0
-summed, sʌm sʌm sʌm sʌm sʌm sʌm sʌm sʌm ˈsʌmʌp,1,0
+summed,,0,1
 summer, ˈsʌmɚ ˈsʌm·ər,0,0
 summers, ˈsʌmɚ ˈsʌm·ər,1,0
 summertime, ˈsʌmɚtaɪm ˈsʌm·ərˌtɑɪm,0,0
@@ -465,10 +465,10 @@ summoned, ˈsʌmən ˈsʌmən,1,0
 summoning, ˈsʌmən ˈsʌmən,1,0
 summons, ˈsʌmənz ˈsʌmənz ˈsʌm·ənz,1,0
 summonses, ˈsʌmənz ˈsʌmənz ˈsʌm·ənz,1,0
-sumner,,0,0
-sumo, ˈsuːmoʊ ˌreslɚ,1,0
+sumner,,0,1
+sumo,,0,1
 sump, sʌmp,0,0
-sumpter,,0,0
+sumpter,,0,1
 sumptuous, ˈsʌmptʃuəs ˈsʌm·tʃu·əs,0,0
 sums, sʌm sʌm sʌm sʌm sʌm sʌm sʌm sʌm,1,0
 sun, sʌn sʌn sʌn sʌn,0,0
@@ -476,9 +476,9 @@ sunbath, ˈsʌnbæθ,0,0
 sunbathe, ˈsʌnbeɪð ˈsʌnˌbeɪð,0,0
 sunbathing, ˈsʌnˌbeɪðɪŋ,0,0
 sunbeam, ˈsʌnbiːm,0,0
-sunbelt, ˈsʌnbelt,1,0
-sunbird,,0,0
-sunbirds,,0,0
+sunbelt,,0,1
+sunbird,,0,1
+sunbirds,,0,1
 sunburn, ˈsʌnbɝːn ˈsʌnˌbɜrn,0,0
 sunburned, ˈsʌnbɝːnd,0,0
 sundae," ˈsʌndeɪ ˈsʌn·deɪ, -di",0,0

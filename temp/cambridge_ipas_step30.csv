@@ -1,18 +1,18 @@
 Word,Pronunciation,Root Word Returned,Missing
-elizabeth,,0,0
+elizabeth,,0,1
 elizabethan, iˌlɪzəˈbiːθən iˌlɪzəˈbiːθən,1,0
 elk, elk elk elk,0,0
-elkhorn,,0,0
+elkhorn,,0,1
 elks, elk elk elk,1,0
-ell,,0,0
-elle,,0,0
-ellen,,0,0
-elling,,0,0
+ell,,0,1
+elle,,0,1
+ellen,,0,1
+elling,,0,1
 elliptical, iˈlɪptɪkəl iˈlɪptɪkəl ɪˈlɪp·tɪ·kəl,0,0
 elm, elm elm,0,0
-elmer,,0,0
+elmer,,0,1
 elms, elm elm,1,0
-elmwood,,0,0
+elmwood,,0,1
 elocution, ˌeləˈkjuːʃən,0,0
 elongate, ɪˈlɑːŋɡeɪt,0,0
 elongated, ɪˈlɑːŋɡeɪt̬ɪd ɪˈlɔŋˌɡeɪ·t̬ɪd,0,0
@@ -22,9 +22,9 @@ elopes, iˈloʊp ɪˈloʊp,1,0
 eloquence, ˈeləkwəns,0,0
 eloquent, ˈeləkwənt ˈel·ɪ·kwənt ˈel·ɪ·kwənt,0,0
 eloquently, ˈeləkwəntli,0,0
-els,,0,0
+els,,0,1
 else, els els,0,0
-elses,,0,0
+elses,,0,1
 elsewhere," ˈelswer ˈelsˌhweər, -ˌweər",0,0
 elucidate, iˈluːsədeɪt ɪˈlu·sɪˌdeɪt,0,0
 elude, iˈluːd iˈluːd iˈluːd ɪˈlud ɪˈlud,0,0
@@ -33,8 +33,8 @@ eludes, iˈluːd iˈluːd iˈluːd ɪˈlud ɪˈlud,1,0
 eluding, iˈluːd iˈluːd iˈluːd,1,0
 elusive, iˈluːsɪv,0,0
 elves, elvz elvz,0,0
-elvis,,0,0
-elysia,,0,0
+elvis,,0,1
+elysia,,0,1
 elysium, iˈlɪziəm,1,0
 em, əm,1,0
 emaciated, iˈmeɪsieɪt̬ɪd ɪˈmeɪ·ʃiˌeɪ·t̬ɪd,0,0
@@ -58,7 +58,7 @@ embalmed, ɪmˈbɑːm,1,0
 embalming, ɪmˈbɑːm,1,0
 embankment, ɪmˈbæŋkmənt ɪmˈbæŋk·mənt,0,0
 embankments, ɪmˈbæŋkmənt ɪmˈbæŋk·mənt,1,0
-embarcadero,,0,0
+embarcadero,,0,1
 embargo, ɪmˈbɑːrɡoʊ ɪmˈbɑr·ɡoʊ,1,0
 embargoes,,1,0
 embark, ɪmˈbɑːrk ɪmˈbɑrk,1,0
@@ -98,7 +98,7 @@ emblem, ˈembləm ˈem·bləm,1,0
 emblematic, ˌembləˈmæt̬ɪk,0,0
 embodied, ɪmˈbɑːdi ɪmˈbɑːdi,1,0
 embodies, ɪmˈbɑːdi ɪmˈbɑːdi ɪmˈbɑd·i,1,0
-embodiment, ɪmˈbɑːdimənt,1,0
+embodiment,,0,1
 embody, ɪmˈbɑːdi ɪmˈbɑːdi ɪmˈbɑd·i,0,0
 embodying, ɪmˈbɑːdi ɪmˈbɑːdi,1,0
 embolden, ɪmˈboʊldən ɪmˈboʊl·dən,0,0
@@ -107,7 +107,7 @@ embolism, ˈembəlɪzəm,0,0
 emboss, ɪmˈbɑːs,0,0
 embossed, ɪmˈbɑːs,1,0
 embrace, ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs,0,0
-embraceable,,0,0
+embraceable,,0,1
 embraced, ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs,1,0
 embraces, ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs,1,0
 embracing, ɪmˈbreɪs ɪmˈbreɪs ɪmˈbreɪs,1,0
@@ -133,7 +133,7 @@ emergent, ɪˈmɝːdʒənt ɪˈmɝːdʒənt ɪˈmɝːdʒənt ɪˈmɝːdʒənt ɪ
 emerges, ɪˈmɝːdʒ ɪˈmɝːdʒ ɪˈmɝːdʒ ɪˈmɜrdʒ ɪˈmɜrdʒ,1,0
 emerging, ɪˈmɝːdʒɪŋ ɪˈmɜr·dʒɪŋ,1,0
 emeritus, ɪˈmerət̬əs ɪˈmer·ə·t̬əs,0,0
-emerson,,0,0
+emerson,,0,1
 emery, ˈemɚi,0,0
 emetic, iˈmet̬ɪk,0,0
 emigrate, ˈeməɡreɪt ˈem·əˌɡreɪt,1,0
@@ -141,7 +141,7 @@ emigrated, ˈeməɡreɪt,1,0
 emigrating, ˈeməɡreɪt,1,0
 emigration, ˌeməˈɡreɪʃən,1,0
 emigres, ˈemɪɡreɪ,1,0
-emily,,0,0
+emily,,0,1
 eminence, ˈemənəns ˈemənəns ˈem·ə·nəns,0,0
 eminences, ˈemənəns ˈemənəns ˈemənəns ˈem·ə·nəns,1,0
 eminent, ˈemənənt ˈem·ə·nənt ˈem·ə·nənt,0,0
@@ -157,10 +157,10 @@ emits, iˈmɪt iˈmɪt,1,0
 emitted,,1,0
 emitter, ɪˈmɪt̬ɚ,0,0
 emitting,,1,0
-emma,,0,0
+emma,,0,1
 emmet, ˈemɪt ˈemɪt,0,0
 emmy, ˈemi ˈem·i,1,0
-emory,,0,0
+emory,,0,1
 emotion, ɪˈmoʊʃən ɪˈmoʊ·ʃən,1,0
 emotional, ɪˈmoʊʃənəl ɪˈmoʊʃənəl ɪˈmoʊ·ʃə·nəl,0,0
 emotionalism, ɪˈmoʊʃənəlɪzəm,0,0
@@ -197,7 +197,7 @@ employer, ɪmˈplɔɪɚ ɪmˈplɔɪ·ər,1,0
 employers, ɪmˈplɔɪɚ ɪmˈplɔɪ·ər,1,0
 employing, ɪmˈplɔɪ ɪmˈplɔɪ ɪmˈplɔɪ,1,0
 employment, ɪmˈplɔɪmənt ɪmˈplɔɪmənt ɪmˈplɔɪ·mənt ɪmˈplɔɪ·mənt,1,0
-employments,,0,0
+employments,,0,1
 employs, ɪmˈplɔɪ ɪmˈplɔɪ ɪmˈplɔɪ ɪmˈplɔɪ ɪmˈplɔɪ ɪmˈplɔɪ,1,0
 emporium, ɪmˈpɔːriəm,1,0
 empower," -ˈpaʊr ɪmˈpɑʊ·ər, -ˈpɑʊər ɪmˈpɑʊ·ər, -ˈpɑʊər",1,0
@@ -212,7 +212,7 @@ emptier, ˈempti ˈempti ˈempti ˈemp·ti ˈemp·ti ˈemp·ti,1,0
 empties,,1,0
 emptiness, ˈemptinəs ˈemptinəs ˈemptinəs ˈemp·ti·nəs ˈemp·ti·nəs,0,0
 emption, ˌpriːˈempʃən ˌpriːˈempʃən,1,0
-emptor, ˌkæviæt ˈemptɔːr,1,0
+emptor,,0,1
 empty, ˈempti ˈempti ˈempti ˈemp·ti ˈemp·ti ˈemp·ti,0,0
 emptying, ˈempti ˈempti,1,0
 emu, ˈiːmjuː,1,0
@@ -252,7 +252,7 @@ enchantment, ɪnˈtʃæntmənt ɪnˈtʃæntmənt ɪnˈtʃæntmənt ɪnˈtʃæntm
 enchilada, ˌentʃɪˈlɑːdə ˌen·tʃəˈlɑ·də,0,0
 encircle, ɪnˈsɝːkəl ɪnˈsɜr·kəl,0,0
 encircled, ɪnˈsɝːkəl,1,0
-encirclement,,0,0
+encirclement,,0,1
 encircling, ɪnˈsɝːkəl,1,0
 enclave," ˈɑːŋkleɪv ˈen·kleɪv, ˈɑn-",0,0
 enclaves," ˈɑːŋkleɪv ˈen·kleɪv, ˈɑn-",1,0
@@ -284,7 +284,7 @@ encroaches, ɪnˈkroʊtʃ,1,0
 encroaching, ɪnˈkroʊtʃ,1,0
 encroachment, ɪnˈkroʊtʃmənt ɪnˈkroʊtʃmənt,0,0
 encroachments, ɪnˈkroʊtʃmənt ɪnˈkroʊtʃmənt,1,0
-encrust,,0,0
+encrust,,0,1
 encrusted, ɪnˈkrʌstɪd ɪnˈkrʌs·tɪd,0,0
 encrypt, ɪnˈkrɪpt ɪnˈkrɪpt,1,0
 encrypted, ɪnˈkrɪpt,1,0
@@ -298,11 +298,11 @@ end, end end end end end end end end end end end end,1,0
 endanger, ɪnˈdeɪndʒɚ ɪnˈdeɪn·dʒər,0,0
 endangered, ɪnˈdeɪndʒɚd,0,0
 endangering, ɪnˈdeɪndʒɚ,1,0
-endangerment,,0,0
+endangerment,,0,1
 endangers, ɪnˈdeɪndʒɚ ɪnˈdeɪn·dʒər,1,0
-ende,,0,0
-endear, ɪnˈdɪr ɪnˈdɪr ɪnˈdɪər ɪnˈdɪər,1,0
-endeared, ɪnˈdɪr ɪnˈdɪr ɪnˈdɪər ɪnˈdɪər,1,0
+ende,,0,1
+endear,,0,1
+endeared,,0,1
 endearing, ɪnˈdɪrɪŋ ɪnˈdɪər·ɪŋ,0,0
 endearment, ɪnˈdɪrmənt,0,0
 endeavor, enˈdevɚ ɪnˈdev·ər,0,0
@@ -312,7 +312,7 @@ endeavors, enˈdevɚ ɪnˈdev·ər,1,0
 endeavour, enˈdevɚ,0,0
 ended, end,1,0
 endemic, enˈdemɪk enˈdem·ɪk,0,0
-enders, iːst ˈendɚ,1,0
+enders,,0,1
 endgame, ˈendɡeɪm ˈendɡeɪm,0,0
 ending, ˈendɪŋ ˈendɪŋ ˈen·dɪŋ ˈen·dɪŋ,0,0
 endings, ˈendɪŋ ˈendɪŋ ˈen·dɪŋ ˈen·dɪŋ,1,0
@@ -321,7 +321,7 @@ endless, ˈendləs ˈen·dləs,1,0
 endlessly, ˈendləsli,0,0
 endocrine," ˈendəkrɪn ˈen·də·krɪn, -ˌkrin",0,0
 endocrinologist, ˌendoʊkrɪˈnɑːlədʒɪst,0,0
-endocrinologists,,0,0
+endocrinologists,,0,1
 endocrinology, ˌendoʊkrɪˈnɑːlədʒi,0,0
 endogenous, enˈdɑːdʒənəs,1,0
 endometrial, ˌendoʊˈmiːtriəl,0,0
@@ -358,13 +358,13 @@ energetically, ˌenɚˈdʒet̬ɪkəli,0,0
 energies,,1,0
 energize, ˈenɚdʒaɪz ˈen·ərˌdʒɑɪz,0,0
 energized, ˈenɚdʒaɪz,1,0
-energizer,,0,0
+energizer,,0,1
 energizes, ˈenɚdʒaɪz ˈen·ərˌdʒɑɪz,1,0
 energizing, ˈenɚdʒaɪz,1,0
 energy, ˈenɚdʒi ˈenɚdʒi ˈenɚdʒi ˈen·ər·dʒi ˈen·ər·dʒi ˈen·ər·dʒi,1,0
-enfant, ˌɑ̃ːfɑ̃ː terˈiːblə,1,0
+enfant,,0,1
 enfeebled, ɪnˈfiːbəld,0,0
-enfield,,0,0
+enfield,,0,1
 enfold, ɪnˈfoʊld,0,0
 enforce," ɪnˈfɔːrs ɪnˈfɔrs, -ˈfoʊrs -ˈfɔːrs -ˈfɔːrs",0,0
 enforceable, ɪnˈfɔːrsəbəl -fɔːr-,0,0
@@ -375,14 +375,14 @@ enforcers, ɪnˈfɔːrsɚ ɪnˈfɔːrsɚ,1,0
 enforces," ɪnˈfɔːrs ɪnˈfɔrs, -ˈfoʊrs -ˈfɔːrs -ˈfɔːrs",1,0
 enforcing, ɪnˈfɔːrs,1,0
 enfranchised, ɪnˈfræntʃaɪz,1,0
-eng,,0,0
+eng,,0,1
 engage, ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ,1,0
 engaged, ɪnˈɡeɪdʒd ɪnˈɡeɪdʒd ɪnˈɡeɪdʒd ɪnˈɡeɪdʒd ɪnˈɡeɪdʒd,1,0
 engagement, ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒ·mənt ɪnˈɡeɪdʒ·mənt ɪnˈɡeɪdʒ·mənt,1,0
 engagements, ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒmənt ɪnˈɡeɪdʒ·mənt ɪnˈɡeɪdʒ·mənt ɪnˈɡeɪdʒ·mənt,1,0
 engages, ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ˌɒ̃ɡæʒˈeɪ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ ɪnˈɡeɪdʒ,1,0
 engaging, ɪnˈɡeɪdʒɪŋ ɪnˈɡeɪ·dʒɪŋ,0,0
-engelmann,,0,0
+engelmann,,0,1
 engender, ɪnˈdʒendɚ ɪnˈdʒen·dər,0,0
 engendered, ɪnˈdʒendɚ,1,0
 engenders, ɪnˈdʒendɚ ɪnˈdʒen·dər,1,0
@@ -393,14 +393,14 @@ engineering, ˌendʒɪˈnɪrɪŋ ˌen·dʒəˈnɪər·ɪŋ,1,0
 engineers, ˌendʒɪˈnɪr ˌendʒɪˈnɪr ˌendʒɪˈnɪr ˌen·dʒəˈnɪər ˌen·dʒəˈnɪər,1,0
 engines, ˈendʒɪn ˈendʒɪn ˈendʒɪn ˈen·dʒən ˈen·dʒən,1,0
 england, ˈɪŋɡlənd,1,0
-englander, ˌnuː ˈɪŋɡləndɚ,1,0
-englanders, ˌnuː ˈɪŋɡləndɚ,1,0
-engle,,0,0
+englander,,0,1
+englanders,,0,1
+engle,,0,1
 english," ˈɪŋɡlɪʃ ˈɪŋɡlɪʃ ˈɪŋ·ɡlɪʃ, -lɪʃ ˈɪŋ·ɡlɪʃ, -lɪʃ",1,0
 englishman, ˈɪŋɡlɪʃmən,1,0
 englishmen, ˈɪŋɡlɪʃmən,1,0
 englishwoman, ˈɪŋɡlɪʃˌwʊmən,1,0
-engram,,0,0
+engram,,0,1
 engrave, ɪnˈɡreɪv ɪnˈɡreɪv ɪnˈɡreɪv,0,0
 engraved, ɪnˈɡreɪv,1,0
 engraver, ɪnˈɡreɪvɚ,0,0
@@ -429,7 +429,7 @@ enjoyable, ɪnˈdʒɔɪəbəl ɪnˈdʒɔɪ·ə·bəl,0,0
 enjoyed, ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ,1,0
 enjoying, ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ,1,0
 enjoyment, ɪnˈdʒɔɪmənt ɪnˈdʒɔɪ·mənt ɪnˈdʒɔɪ·mənt,0,0
-enjoyments,,0,0
+enjoyments,,0,1
 enjoys, ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ ɪnˈdʒɔɪ,1,0
 enlarge, ɪnˈlɑːrdʒ ɪnˈlɑːrdʒ ɪnˈlɑrdʒ ɪnˈlɑrdʒ,1,0
 enlarged, ɪnˈlɑːrdʒ ɪnˈlɑːrdʒ,1,0
@@ -459,7 +459,7 @@ ennobled, ɪˈnoʊbəl ɪˈnoʊbəl,1,0
 ennobles, ɪˈnoʊbəl ɪˈnoʊbəl,1,0
 ennobling, ɪˈnoʊbəl ɪˈnoʊbəl,1,0
 ennui, ˌɑːnˈwiː,0,0
-enoch,,0,0
+enoch,,0,1
 enormity, əˈnɔːrmət̬i əˈnɔːrmət̬i ɪˈnɔr·mə·t̬i ɪˈnɔr·mə·t̬i,0,0
 enormous, əˈnɔːrməs ɪˈnɔr·məs,0,0
 enormously, əˈnɔːrməsli ɪˈnɔr·məs·li,0,0
@@ -478,7 +478,7 @@ enriched, ɪnˈrɪtʃ ɪnˈrɪtʃ ɪnˈrɪtʃ,1,0
 enriches, ɪnˈrɪtʃ ɪnˈrɪtʃ ɪnˈrɪtʃ ɪnˈrɪtʃ ɪnˈrɪtʃ,1,0
 enriching, ɪnˈrɪtʃ ɪnˈrɪtʃ ɪnˈrɪtʃ,1,0
 enrichment, ɪnˈrɪtʃmənt ɪnˈrɪtʃmənt ɪnˈrɪtʃmənt,0,0
-enright,,0,0
+enright,,0,1
 enroll, ɪnˈroʊl ɪnˈroʊl,0,0
 enrolled,,1,0
 enrollees,,1,0

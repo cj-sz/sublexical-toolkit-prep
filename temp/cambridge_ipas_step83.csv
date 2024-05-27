@@ -16,13 +16,13 @@ smallpox, ˈsmɑːlpɑːks ˈsmɔlˌpɑks,0,0
 smalls,,1,0
 smarmy, ˈsmɑːrmi,0,0
 smart, smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑrt smɑrt smɑrt,1,0
-smartass,,0,0
-smarten, ˈsmɑːrtən ˈsmɑːrtən,1,0
-smartened, ˈsmɑːrtən ˈsmɑːrtən,1,0
-smartening, ˈsmɑːrtən ˈsmɑːrtən,1,0
+smartass,,0,1
+smarten,,0,1
+smartened,,0,1
+smartening,,0,1
 smarter, smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑrt smɑrt smɑrt,1,0
 smartest, smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑrt smɑrt smɑrt,1,0
-smarties,,0,0
+smarties,,0,1
 smarting, smɑːrt smɑːrt,1,0
 smartly, ˈsmɑːrtli ˈsmɑːrtli ˈsmɑrt·li ˈsmɑrt·li,0,0
 smartness, ˈsmɑːrtnəs ˈsmɑːrtnəs ˈsmɑːrtnəs,0,0
@@ -38,7 +38,7 @@ smear, smɪr smɪr smɪər smɪər,1,0
 smeared, smɪr smɪr,1,0
 smearing, smɪr smɪr,1,0
 smears, smɪr smɪr smɪər smɪər,1,0
-smee,,0,0
+smee,,0,1
 smell, smel smel smel smel smel smel smel,0,0
 smelled, smel smel smel smel smel smel smel smel,1,0
 smelling,  -smelɪŋ,1,0
@@ -58,14 +58,14 @@ smilingly, ˈsmaɪlɪŋli,0,0
 smirk, smɝːk smɜrk,0,0
 smirking, smɝːk,1,0
 smirks, smɝːk smɜrk,1,0
-smit,,0,0
+smit,,0,1
 smith, smɪθ,0,0
-smither,,0,0
-smithereen,,0,0
+smither,,0,1
+smithereen,,0,1
 smithereens, ˌsmɪðəˈriːnz ˌsmɪð·əˈrinz,0,0
-smithers,,0,0
-smithfield, ˌsmɪθfiːld ˈhæm,1,0
-smiths, ˌɡræni ˈsmɪθ,1,0
+smithers,,0,1
+smithfield,,0,1
+smiths,,0,1
 smitten, ˈsmɪt̬ən ˈsmɪt·ən,0,0
 smock, smɑːk smɑk,0,0
 smog," smɑːɡ smɑɡ, smɔɡ",0,0
@@ -85,7 +85,7 @@ smoky, ˈsmoʊki ˈsmoʊki ˈsmoʊ·ki ˈsmoʊ·ki,0,0
 smoldering, ˈsmoʊldɚ,1,0
 smooch, smutʃ,1,0
 smooches, smutʃ,1,0
-smoot,,0,0
+smoot,,0,1
 smooth, smuːð smuːð smuːð smuːð smuð smuð smuð,1,0
 smoothed, smuːð smuːð smuːð,1,0
 smoother, smuːð smuːð smuːð smuːð smuð smuð smuð,1,0
@@ -111,8 +111,8 @@ smugly, ˈsmʌɡli,0,0
 smugness, ˈsmʌɡnəs,0,0
 smut, smʌt smʌt smʌt smʌt,0,0
 smutty, ˈsmʌt̬i,0,0
-smyrna,,0,0
-smyth,,0,0
+smyrna,,0,1
+smyth,,0,1
 snack, snæk snæk snæk,0,0
 snacked, snæk,1,0
 snacking, snæk,1,0
@@ -126,15 +126,15 @@ snags, snæɡ snæɡ snæɡ snæɡ snæɡ,1,0
 snail, sneɪl sneɪl,0,0
 snails, sneɪl sneɪl,1,0
 snake, sneɪk sneɪk,0,0
-snakebite,,0,0
-snakebites,,0,0
-snakelike,,0,0
+snakebite,,0,1
+snakebites,,0,1
+snakelike,,0,1
 snakes, sneɪk sneɪk sneɪk,1,0
 snaking, sneɪk,1,0
 snap, snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp,1,0
 snapdragon, ˈsnæpˌdræɡən ˈsnæpˌdræɡ·ən,0,0
 snapdragons, ˈsnæpˌdræɡən ˈsnæpˌdræɡ·ən,1,0
-snape,,0,0
+snape,,0,1
 snapped,,1,0
 snapper, ˈsnæpɚ ˈsnæp·ər,0,0
 snappiest, ˈsnæpi ˈsnæpi ˈsnæpi ˈsnæp·i ˈsnæp·i,1,0
@@ -159,7 +159,7 @@ snatches, snætʃ snætʃ snætʃ snætʃ snætʃ snætʃ,1,0
 snatching, snætʃ snætʃ snætʃ snætʃ,1,0
 snazzier, ˈsnæzi ˈsnæz·i,1,0
 snazzy, ˈsnæzi ˈsnæz·i,0,0
-snead,,0,0
+snead,,0,1
 sneak, sniːk sniːk snik,0,0
 sneaked, sniːk sniːk sniːk snik,1,0
 sneaker, ˈsniːkɚ ˈsni·kər,0,0
@@ -167,7 +167,7 @@ sneakers, ˈsniːkɚ ˈsni·kər,1,0
 sneaking, ˈsniːkɪŋ ˈsni·kɪŋ,0,0
 sneaks, sniːk sniːk sniːk snik,1,0
 sneaky, ˈsniːki ˈsniːki ˈsni·ki,0,0
-snee,,0,0
+snee,,0,1
 sneer, snɪr snɪər,0,0
 sneered, snɪr,1,0
 sneering, ˈsnɪrɪŋ,0,0
@@ -176,8 +176,8 @@ sneeze, sniːz sniz,0,0
 sneezed, sniːz,1,0
 sneezes, sniːz sniz,1,0
 sneezing, sniːz,1,0
-snell,,0,0
-sneller,,0,0
+snell,,0,1
+sneller,,0,1
 snicker, ˈsnɪkɚ ˈsnɪk·ər,0,0
 snickered, ˈsnɪkɚ,1,0
 snickering, ˈsnɪkɚ,1,0
@@ -206,16 +206,16 @@ snippets, ˈsnɪpɪt ˈsnɪp·ɪt,1,0
 snips, snɪp snɪp snɪp,1,0
 snitch, snɪtʃ snɪtʃ snɪtʃ snɪtʃ,0,0
 snitching, snɪtʃ snɪtʃ,1,0
-snively,,0,0
+snively,,0,1
 snob, snɑːb snɑb snɑb,0,0
 snobbery, ˈsnɑːbɚi,0,0
 snobbish, ˈsnɑːbɪʃ,0,0
 snobby, ˈsnɑːbi,0,0
 snobs, snɑːb snɑb snɑb,1,0
-snook, snʊk,1,0
+snook,,0,1
 snooker, ˈsnuːkɚ ˈsnuːkɚ,0,0
 snookered, ˈsnuːkɚ ˈsnuːkɚ ˈsnuːkɚ,1,0
-snooks,,0,0
+snooks,,0,1
 snoop, snuːp snuːp snup,0,0
 snooping, snuːp snuːp,1,0
 snoops, snuːp snuːp snup,1,0
@@ -279,7 +279,7 @@ snugly, ˈsnʌɡli ˈsnʌɡli ˈsnʌɡ·li ˈsnʌɡ·li,0,0
 so, soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ soʊ,0,0
 soak, soʊk soʊk soʊk soʊk soʊk,0,0
 soaked, soʊkt,0,0
-soaker,,0,0
+soaker,,0,1
 soaking, ˈsoʊkɪŋ,0,0
 soaks, soʊk soʊk soʊk soʊk soʊk,1,0
 soap, soʊp soʊp soʊp,0,0
@@ -290,11 +290,11 @@ soar," sɔːr sɔːr sɔːr sɔːr sɔr, soʊr sɔr, soʊr sɔr, soʊr",1,0
 soared, sɔːr sɔːr sɔːr,1,0
 soaring, ˈsɔːrɪŋ ˈsɔːrɪŋ ˈsɔːrɪŋ,1,0
 soars," sɔːr sɔːr sɔːr sɔːr sɔr, soʊr sɔr, soʊr sɔr, soʊr",1,0
-soave,,0,0
+soave,,0,1
 sob, sɑːb sɑb,0,0
 sobbed,,1,0
 sobbing,,1,0
-sobbingly,,0,0
+sobbingly,,0,1
 sober, ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊ·bər ˈsoʊ·bər,0,0
 sobered, ˈsoʊbɚ,1,0
 sobering, ˈsoʊbɚɪŋ ˈsoʊ·bər·ɪŋ,0,0
@@ -308,7 +308,7 @@ sociable, ˈsoʊʃəbəl ˈsoʊʃəbəl ˈsoʊ·ʃə·bəl,0,0
 social, ˈsoʊʃəl ˈsoʊʃəl ˈsoʊʃəl ˈsoʊ·ʃəl ˈsoʊ·ʃəl,1,0
 socialism, ˈsoʊʃəlɪzəm ˈsoʊ·ʃəˌlɪz·əm,1,0
 socialist, ˈsoʊʃəlɪst ˈsoʊ·ʃə·lɪst,1,0
-socialistic,,0,0
+socialistic,,0,1
 socialists, ˈsoʊʃəlɪst ˈsoʊ·ʃə·lɪst,1,0
 socialite, ˈsoʊʃəlaɪt,0,0
 socialites, ˈsoʊʃəlaɪt,1,0
@@ -318,7 +318,7 @@ socialized, ˈsoʊ·ʃəˌlɑɪzd,0,0
 socializing, ˈsoʊʃəlaɪzɪŋ ˈsoʊʃəlaɪzɪŋ,0,0
 socially, ˈsoʊʃəli ˈsoʊʃəli ˈsoʊ·ʃə·li ˈsoʊ·ʃə·li,0,0
 societal, səˈsaɪət̬əl səˈsɑɪ·ɪ·t̬əl,1,0
-societe,,0,0
+societe,,0,1
 societies, səˈsaɪət̬i səˈsaɪət̬i səˈsaɪət̬i səˈsaɪət̬i səˈsɑɪ·ɪ·t̬i səˈsɑɪ·ɪ·t̬i səˈsɑɪ·ɪ·t̬i,1,0
 society, səˈsaɪət̬i səˈsaɪət̬i səˈsaɪət̬i səˈsaɪət̬i səˈsɑɪ·ɪ·t̬i səˈsɑɪ·ɪ·t̬i səˈsɑɪ·ɪ·t̬i,1,0
 socioeconomic," ˌsoʊsioʊˌiːkəˈnɑːmɪk ˌsoʊ·si·oʊˌek·əˈnɑm·ɪk, ˌsou·ʃi·oʊ-, -ˌi·kə- ˌsoʊsioʊˌiːkəˈnɑːmɪk",0,0
@@ -342,15 +342,15 @@ soda, ˈsoʊdə ˈsoʊdə ˈsoʊ·də,0,0
 sodas, ˈsoʊdə ˈsoʊdə ˈsoʊ·də,1,0
 sodden, ˈsɑːdən ˈsɑd·ən,0,0
 sodium, ˈsoʊdiəm ˈsoʊ·di·əm,0,0
-sodom,,0,0
+sodom,,0,1
 sodomize, ˈsɑːdəmaɪz,0,0
 sodomized, ˈsɑːdəmaɪz,1,0
 sodomizing, ˈsɑːdəmaɪz,1,0
 sodomy, ˈsɑːdəmi,0,0
 sofa, ˈsoʊfə ˈsoʊ·fə,0,0
 sofas, ˈsoʊfə ˈsoʊ·fə,1,0
-sofer,,0,0
-sofia,,0,0
+sofer,,0,1
+sofia,,0,1
 soft, sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɔft sɔft sɔft sɔft,1,0
 softball, ˈsɑːftbɑːl ˈsɑːftbɑːl ˈsɔftˌbɔl,1,0
 softballs, ˈsɑːftbɑːl ˈsɑːftbɑːl ˈsɔftˌbɔl,1,0
@@ -370,16 +370,16 @@ soho,,1,0
 soil, sɔɪl sɔɪl sɔɪl sɔɪl,0,0
 soiled, sɔɪld,0,0
 soils, sɔɪl sɔɪl sɔɪl sɔɪl sɔɪl,1,0
-soir,,0,0
+soir,,0,1
 soiree, swɑːˈreɪ,1,0
 sojourn, ˈsoʊdʒɝːn ˈsoʊ·dʒɜrn,0,0
-sojourner,,0,0
-sok,,0,0
+sojourner,,0,1
+sok,,0,1
 sol, sɑːl,0,0
-sola,,0,0
+sola,,0,1
 solace, ˈsɑːlɪs ˈsɑl·əs,0,0
-solan,,0,0
-solano,,0,0
+solan,,0,1
+solano,,0,1
 solar, ˈsoʊlɚ ˈsoʊ·lər,1,0
 sold, soʊld soʊld,0,0
 solder, ˈsɑːdɚ ˈsɑd·ər,0,0
@@ -388,7 +388,7 @@ soldier, ˈsoʊldʒɚ ˈsoʊldʒɚ ˈsoʊl·dʒər,0,0
 soldiering, ˈsoʊldʒɚɪŋ,0,0
 soldiers, ˈsoʊldʒɚ ˈsoʊldʒɚ ˈsoʊl·dʒər,1,0
 sole, soʊl soʊl soʊl soʊl,1,0
-soleil,,0,0
+soleil,,0,1
 solely, ˈsoʊlli,0,0
 solemn, ˈsɑːləm ˈsɑl·əm,0,0
 solemnity, səˈlemnət̬i,0,0
@@ -420,8 +420,8 @@ solitude, ˈsɑːlətuːd ˈsɑl·ɪˌtud,0,0
 solo, ˈsoʊloʊ ˈsoʊloʊ ˈsoʊ·loʊ,0,0
 soloist, ˈsoʊloʊɪst,0,0
 soloists, ˈsoʊloʊɪst,1,0
-solomon, ˈsɑːləmən ˌaɪləndɚ,1,0
-solon,,0,0
+solomon,,0,1
+solon,,0,1
 solos, ˈsoʊloʊ ˈsoʊloʊ ˈsoʊ·loʊ,1,0
 solstice," ˈsɑːlstɪs ˈsɑl·stɪs, ˈsoʊl-",0,0
 soluble, ˈsɑːljəbəl,1,0
@@ -434,7 +434,7 @@ solvency, ˈsɑːlvənsi ˈsɑːl-,0,0
 solvent," ˈsɑːlvənt ˈsɑl·vənt, ˈsɔl-",1,0
 solvents," ˈsɑːlvənt ˈsɑl·vənt, ˈsɔl-",1,0
 solver,,1,0
-solvers,,0,0
+solvers,,0,1
 solves," sɑːlv sɑlv, sɔlv",1,0
 solving, sɑːlv,1,0
 soma, ˈsoʊmə ˈsoʊmə,0,0
@@ -448,7 +448,7 @@ someday, ˈsʌmdeɪ ˈsʌmˌdeɪ,0,0
 somehow, ˈsʌmhaʊ ˈsʌmhaʊ ˈsʌmhɑʊ,0,0
 someone," ˈsʌmwʌn ˈsʌmˌwʌn, -wən",0,0
 someplace, ˈsʌmpleɪs ˈsʌmˌpleɪs,0,0
-somers,,0,0
+somers,,0,1
 somersault, ˈsʌmɚsɑːlt ˈsʌm·ərˌsɔlt,0,0
 somersaulting, ˈsʌmɚsɑːlt ˈsʌmɚsɑːlt,1,0
 somersaults, ˈsʌmɚsɑːlt ˈsʌm·ərˌsɔlt,1,0
@@ -458,7 +458,7 @@ sometime, ˈsʌmtaɪm ˈsʌmˌtɑɪm,0,0
 sometimes, ˈsʌmtaɪmz ˈsʌmˌtɑɪmz,0,0
 somewhat," ˈsʌmwɑːt ˈsʌm·hwʌt, -wʌt, -hwɑt, -wɑt",0,0
 somewhere," ˈsʌmwer ˈsʌm·hwer, -weər ˈsʌm·hwer, -weər",0,0
-somewheres,,0,0
+somewheres,,0,1
 somnolent, ˈsɑːmnələnt,0,0
 son, sʌn sʌn sʌn,0,0
 sonar, ˈsoʊnɑːr ˈsoʊ·nɑr,0,0
@@ -472,13 +472,13 @@ songs, sɑːŋ sɑːŋ sɑːŋ sɔŋ sɔŋ sɔŋ,1,0
 songwriter, ˈsɑːŋˌraɪt̬ɚ ˈsɔŋˌrɑɪ·t̬ər,0,0
 songwriters, ˈsɑːŋˌraɪt̬ɚ ˈsɔŋˌrɑɪ·t̬ər,1,0
 songwriting, ˈsɑːŋˌraɪt̬ɪŋ,0,0
-songy,,0,0
+songy,,0,1
 sonic, ˈsɑːnɪk,0,0
-sonics,,0,0
+sonics,,0,1
 sonnet, ˈsɑːnɪt ˈsɑn·ɪt,0,0
 sonnets, ˈsɑːnɪt ˈsɑn·ɪt,1,0
 sonny, ˈsʌni,0,0
 sonogram, ˈsɑːnəɡræm,0,0
 sonorous, ˈsɑːnɚəs,0,0
 sons, sʌn sʌn sʌn sʌn,1,0
-sontag,,0,0
+sontag,,0,1

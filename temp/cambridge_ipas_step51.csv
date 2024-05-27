@@ -5,7 +5,7 @@ latch, lætʃ lætʃ,0,0
 latched, lætʃ,1,0
 latches, lætʃ lætʃ lætʃ,1,0
 latching, lætʃ,1,0
-latchkey, ˈlætʃkiː ˌkɪd,1,0
+latchkey,,0,1
 late, leɪt leɪt leɪt leɪt leɪt,0,0
 latecomer, ˈleɪtˌkʌmɚ ˈleɪtˌkʌm·ər,0,0
 lately, ˈleɪtli ˈleɪt·li,0,0
@@ -17,18 +17,18 @@ lateral, ˈlæt̬ɚəl ˈlæt̬ɚəl ˈlæt̬·ər·əl,1,0
 latest, ˈleɪt̬ɪst ˈleɪ·t̬ɪst,0,0
 latex, ˈleɪteks ˈleɪ·teks,0,0
 lath, læθ,0,0
-latham,,0,0
+latham,,0,1
 lathe, leɪð,0,0
 lather, ˈlæðɚ ˈlæðɚ ˈlæð·ər,0,0
 lathers, ˈlæðɚ ˈlæðɚ ˈlæð·ər,1,0
 lathes, leɪð,1,0
-latigo,,0,0
-latimer,,0,0
+latigo,,0,1
+latimer,,0,1
 latin, ˈlæt̬ɪn,1,0
-latinate,,0,0
+latinate,,0,1
 latino, ləˈtiːnoʊ læˈti·noʊ,1,0
 latinos, ləˈtiːnoʊ læˈti·noʊ,1,0
-latins,,0,0
+latins,,0,1
 latitude, ˈlæt̬ətuːd ˈlæt̬ətuːd ˈlæt̬·ɪˌtud ˈlæt̬·ɪˌtud,1,0
 latitudes,,1,0
 latrine, ləˈtriːn ləˈtriːn ləˈtrin,0,0
@@ -37,22 +37,22 @@ lats, læt,1,0
 latte, ˈlɑːteɪ,0,0
 latter, ˈlæt̬ɚ ˈlæt̬·ər,0,0
 lattice, ˈlæt̬ɪs,0,0
-lattin,,0,0
+lattin,,0,1
 latvia, ˈlætviə,1,0
 latvian, ˈlætviən,1,0
 laud, lɑːd lɔd,0,0
 laudable, ˈlɑːdəbəl,0,0
-laudanum,,0,0
-laude, ˌkʊm ˈlaʊdeɪ,1,0
+laudanum,,0,1
+laude,,0,1
 lauded, lɑːd,1,0
-lauder,,0,0
-lauderdale,,0,0
+lauder,,0,1
+lauderdale,,0,1
 lauding, lɑːd,1,0
 lauds, lɑːd lɔd,1,0
 laugh, læf læf læf,0,0
 laughable, ˈlæfəbəl ˈlæf·ə·bəl,0,0
 laughed, læf,1,0
-laugher,,0,0
+laugher,,0,1
 laughing, læf,1,0
 laughingly, ˈlæfɪŋli ˈlæfɪŋli,0,0
 laughingstock, ˈlæf·ɪŋˌstɑk,0,0
@@ -64,7 +64,7 @@ launcher, ˈlɑːntʃɚ,0,0
 launchers, ˈlɑːntʃɚ,1,0
 launches," lɑːntʃ lɑːntʃ lɑːntʃ lɑːntʃ lɔntʃ, lɑntʃ lɔntʃ, lɑntʃ",1,0
 launching, lɑːntʃ lɑːntʃ lɑːntʃ,1,0
-launchings,,0,0
+launchings,,0,1
 launder," ˈlɑːndɚ ˈlɑːndɚ ˈlɔn·dər, ˈlɑn- ˈlɔn·dər, ˈlɑn-",1,0
 laundered, ˈlɑːndɚ ˈlɑːndɚ,1,0
 launderer, ˈlɑːndɚɚ ˈlɑːndɚɚ,0,0
@@ -75,47 +75,47 @@ laundries," ˈlɑːndri ˈlɑːndri ˈlɔn·dri, ˈlɑn- ˈlɔn·dri, ˈlɑn-",1
 laundromat," ˈlɑːndroʊmæt ˈlɔn·drəˌmæt, ˈlɑn-",1,0
 laundromats," ˈlɑːndroʊmæt ˈlɔn·drəˌmæt, ˈlɑn-",1,0
 laundry," ˈlɑːndri ˈlɑːndri ˈlɔn·dri, ˈlɑn- ˈlɔn·dri, ˈlɑn-",1,0
-laura,,0,0
+laura,,0,1
 laureate," ˈlɔːriət ˈlɔr·i·ət, ˈlɑr-",0,0
 laureates," ˈlɔːriət ˈlɔr·i·ət, ˈlɑr-",1,0
 laurel," ˈlɔːrəl ˈlɔr·əl, ˈlɑr-",0,0
 laurels,,1,0
-laurence,,0,0
-laurentian,,0,0
-laury,,0,0
+laurence,,0,1
+laurentian,,0,1
+laury,,0,1
 lava," ˈlɑːvə ˈlɑv·ə, ˈlæv·ə",0,0
 lavatories," ˈlævətɔːri ˈlæv·əˌtɔr·i, -ˌtoʊr·i",1,0
 lavatory," ˈlævətɔːri ˈlæv·əˌtɔr·i, -ˌtoʊr·i",0,0
-lave,,0,0
+lave,,0,1
 lavender, ˈlævɪndɚ ˈlævɪndɚ ˈlæv·ən·dər,0,0
 laver, ˈleɪvɚ,0,0
 lavish, ˈlævɪʃ ˈlævɪʃ ˈlæv·ɪʃ,0,0
-lavished, ˈlævɪʃ ˈlævɪʃ,1,0
-lavishing, ˈlævɪʃ ˈlævɪʃ,1,0
+lavished,,0,1
+lavishing,,0,1
 lavishly, ˈlævɪʃli ˈlævɪʃli,0,0
 law, lɑː lɑː lɑː lɑː lɑː lɔ lɔ lɔ,1,0
 lawbreaker, ˈlɑːˌbreɪkɚ ˈlɔˌbreɪ·kər,0,0
 lawbreakers, ˈlɑːˌbreɪkɚ ˈlɔˌbreɪ·kər,1,0
-lawbreaking,,0,0
+lawbreaking,,0,1
 lawful, ˈlɑːfəl ˈlɔ·fəl,1,0
 lawfully, ˈlɑːfəli ˈlɑː-,0,0
 lawless, ˈlɑːləs ˈlɔ·ləs,0,0
 lawlessness, ˈlɑːləsnəs,0,0
 lawmaker, ˈlɑːˌmeɪkɚ ˈlɔˌmeɪ·kər,1,0
 lawmakers, ˈlɑːˌmeɪkɚ ˈlɔˌmeɪ·kər,1,0
-lawman,,0,0
-lawmen,,0,0
+lawman,,0,1
+lawmen,,0,1
 lawn," lɑːn lɔn, lɑn",0,0
 lawnmower," ˈlɑːnˌmoʊɚ ˈlɔnˌmoʊ·ər, ˈlɑn-",0,0
 lawns," lɑːn lɔn, lɑn",1,0
-lawrence,,0,0
-lawrencium,,0,0
+lawrence,,0,1
+lawrencium,,0,1
 laws, lɑː lɑː lɑː lɑː lɑː lɑː lɔ lɔ lɔ lɔ lɔ,1,0
 lawsuit, ˈlɑːsuːt ˈlɔˌsut,1,0
 lawsuits, ˈlɑːsuːt ˈlɔˌsut,1,0
 lawyer," ˈlɔɪjɚ ˈlɔɪ·ər, ˈlɔ·jər",1,0
-lawyering,,0,0
-lawyerly,,0,0
+lawyering,,0,1
+lawyerly,,0,1
 lawyers," ˈlɔɪjɚ ˈlɔɪ·ər, ˈlɔ·jər",1,0
 lax, læks læks læks læks læks,0,0
 laxative, ˈlæksət̬ɪv ˈlæk·sə·t̬ɪv,0,0
@@ -130,7 +130,7 @@ layers,,1,0
 laying, leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ,1,0
 layman, ˈleɪmən ˈleɪmən ˈleɪ·mən ˈleɪ·mən,0,0
 laymen, ˈleɪmən ˈleɪmən ˈleɪ·mən ˈleɪ·mən,1,0
-layne,,0,0
+layne,,0,1
 layoff, ˈleɪɑːf ˈleɪɑːf ˈleɪɑːf ˈleiˌɔf,1,0
 layoffs, ˈleɪɑːf ˈleɪɑːf ˈleɪɑːf ˈleiˌɔf,1,0
 layout, ˈleɪaʊt ˈleɪˌɑʊt,1,0
@@ -139,21 +139,21 @@ layover, ˈleɪˌoʊvɚ ˈleɪˌoʊ·vər,1,0
 laypeople, ˈleɪmən ˈleɪmən ˈleɪ·mən ˈleɪ·mən,1,0
 layperson,,1,0
 lays, leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ leɪ,1,0
-lazar,,0,0
-lazarus,,0,0
+lazar,,0,1
+lazarus,,0,1
 lazier, ˈleɪzi ˈleɪzi ˈleɪ·zi ˈleɪ·zi,1,0
 laziest, ˈleɪzi ˈleɪzi ˈleɪ·zi ˈleɪ·zi,1,0
 laziness, ˈleɪzinəs,0,0
 lazy, ˈleɪzi ˈleɪzi ˈleɪ·zi ˈleɪ·zi,1,0
 lb,,1,0
 lbs, paʊnd paʊnd paʊnd paʊnd pɑʊnd pɑʊnd pɑʊnd,1,0
-le, ləˌʃæt·əlˈjeɪz ˌprɪn·sə·pəl,1,0
+le,,0,1
 lea,,1,0
 leach, liːtʃ liːtʃ litʃ,0,0
 leached, liːtʃ liːtʃ,1,0
 leaches, liːtʃ liːtʃ litʃ,1,0
 leaching, liːtʃ liːtʃ,1,0
-leachman,,0,0
+leachman,,0,1
 lead, liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd lid lid lid lid lid lid liːd liːd liːd liːd,0,0
 leaded, ˈledɪd,0,0
 leaden, ˈledən ˈledən ˈled·ən,0,0
@@ -162,18 +162,18 @@ leaderless, ˈliːdɚləs,0,0
 leaders, ˈliːdɚ ˈliːdɚ ˈliːdɚ ˈliːdɚ ˈli·dər ˈli·dər,1,0
 leadership, ˈliːdɚʃɪp ˈliːdɚʃɪp ˈli·dərˌʃɪp ˈli·dərˌʃɪp,1,0
 leading, ˈliːdɪŋ ˈli·dɪŋ,1,0
-leadoff,,0,0
+leadoff,,0,1
 leads, liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd liːd lid lid lid lid lid lid liːd liːd liːd liːd liːd liːd liːd,1,0
 leaf, liːf liːf liːf lif lif lif,0,0
-leafed, liːf liːf,1,0
-leafing, liːf liːf,1,0
+leafed,,0,1
+leafing,,0,1
 leaflet, ˈliːflət ˈlif·lɪt,1,0
 leaflets, ˈliːflət ˈlif·lɪt,1,0
-leafs, ˈbeɪ ˌliːf ˈbeɪ ˌlif,1,0
+leafs,,0,1
 leafy, ˈliːfi ˈliːfi ˈli·fi,0,0
 league, liːɡ liːɡ liɡ liɡ liɡ,0,0
-leaguer,,0,0
-leaguers,,0,0
+leaguer,,0,1
+leaguers,,0,1
 leagues, liːɡ liːɡ liɡ liɡ liɡ liɡ,1,0
 leak, liːk liːk lik lik,1,0
 leakage, ˈliːkɪdʒ ˈliːkɪdʒ ˈli·kɪdʒ,1,0
@@ -183,7 +183,7 @@ leaking, liːk liːk,1,0
 leaks, liːk liːk lik lik,1,0
 leaky, ˈliːki,0,0
 lean, liːn lin,1,0
-leander,,0,0
+leander,,0,1
 leaned, liːn lin,1,0
 leaner, liːn lin,1,0
 leanest, liːn lin,1,0
@@ -199,7 +199,7 @@ leapfrogging," ˈliːpfrɑːɡ ˈlipˌfrɔɡ, -frɑɡ -frɑːɡ",1,0
 leaping, liːp liːp liːp liːp lip lip,1,0
 leaps, liːp liːp liːp liːp lip lip,1,0
 leapt,,1,0
-lear,,0,0
+lear,,0,1
 learn, lɝːn lɝːn lɝːn lɝːn lɜrn,0,0
 learned, ˈlɜr·nɪd,1,0
 learner, ˈlɝːnɚ,0,0
@@ -207,13 +207,13 @@ learners, ˈlɝːnɚ,1,0
 learning, ˈlɝːnɪŋ ˈlɝːnɪŋ ˈlɜr·nɪŋ,1,0
 learns, lɝːn lɝːn lɝːn lɝːn lɜrn,1,0
 learnt,,1,0
-leary,,0,0
+leary,,0,1
 leas,,1,0
 lease, liːs lis,1,0
 leased, liːs,1,0
 leases, liːs lis,1,0
 leash, liːʃ liʃ,0,0
-leashed,,0,0
+leashed,,0,1
 leashes, liːʃ liʃ,1,0
 leasing,,1,0
 least, liːst list,0,0
@@ -228,7 +228,7 @@ leaver, ˌskuːlˈliːvɚ,1,0
 leaves, liːvz livz,0,0
 leaving,,1,0
 leavings, ˈliːvɪŋz,0,0
-leavy,,0,0
+leavy,,0,1
 lebanese, ˌlebəˈniːz ˌlebəˈniːz,1,0
 lebanon, ˈlebənən,1,0
 lech, letʃ,0,0
@@ -236,7 +236,7 @@ lecher, ˈletʃɚ,0,0
 lecherous, ˈletʃɚəs ˈletʃ·ər·əs,0,0
 lecithin, ˈlesɪθɪn,0,0
 lectern, ˈlektɝːn ˈlek·tərn,0,0
-lector,,0,0
+lector,,0,1
 lecture, ˈlektʃɚ ˈlektʃɚ ˈlek·tʃər ˈlek·tʃər,0,0
 lectured, ˈlektʃɚ ˈlektʃɚ,1,0
 lecturer, ˈlektʃɚɚ,0,0
@@ -244,7 +244,7 @@ lecturers, ˈlektʃɚɚ,1,0
 lectures, ˈlektʃɚ ˈlektʃɚ ˈlek·tʃər ˈlek·tʃər,1,0
 lecturing, ˈlektʃɚ ˈlektʃɚ,1,0
 led, led led,1,0
-leda,,0,0
+leda,,0,1
 ledge, ledʒ ledʒ,0,0
 ledger, ˈledʒɚ ˈledʒ·ər,1,0
 ledgers, ˈledʒɚ ˈledʒ·ər,1,0
@@ -256,7 +256,7 @@ leeds, liːdz,1,0
 leek, liːk lik,0,0
 leeks, liːk lik,1,0
 leery, ˈlɪri,0,0
-lees,,1,0
+lees,,0,1
 leeward," ˈliːwɚd ˈli·wərd, ˈlu·ərd",0,0
 leeway, ˈliːweɪ ˈliːweɪ ˈliˌweɪ ˈliˌweɪ,0,0
 left, left left,0,0
@@ -279,24 +279,24 @@ legalize, ˈliːɡəlaɪz ˈli·ɡəˌlɑɪz,1,0
 legalized, ˈliːɡəlaɪz,1,0
 legalizing, ˈliːɡəlaɪz,1,0
 legally, ˈliːɡəli,1,0
-legals,,0,0
-legate,,0,0
+legals,,0,1
+legate,,0,1
 legato, lɪˈɡɑːtoʊ,0,0
 legend, ˈledʒənd ˈledʒənd ˈledʒənd ˈledʒ·ənd ˈledʒ·ənd ˈledʒ·ənd,0,0
 legendary, ˈledʒderi ˈledʒderi ˈledʒ·ənˌder·i ˈledʒ·ənˌder·i,0,0
 legends, ˈledʒənd ˈledʒənd ˈledʒənd ˈledʒ·ənd ˈledʒ·ənd ˈledʒ·ənd,1,0
-leger, ˈledʒɚ ˌlaɪn,1,0
+leger,,0,1
 legerdemain, ˌledʒɚdəˈmeɪn ˌledʒɚdəˈmeɪn,0,0
 legged,  -leɡɪd,1,0
 legging, ˈdɑːɡleɡ,1,0
 leggings, ˈleɡɪŋz ˈleɡɪŋz ˈleɡ·ɪŋz,0,0
 leggy, ˈleɡi ˈleɡ·i,0,0
-leghorn,,0,0
-leghorns,,0,0
+leghorn,,0,1
+leghorns,,0,1
 legible, ˈledʒəbəl ˈledʒ·ə·bəl,1,0
 legion, ˈliːdʒən ˈli·dʒən,0,0
-legionnaire,,0,0
-legionnaires, liːdʒənˈerz dɪˌziːz,1,0
+legionnaire,,0,1
+legionnaires,,0,1
 legions, ˈliːdʒən ˈliːdʒən ˈli·dʒən,1,0
 legislate, ˈledʒəsleɪt ˈledʒ·əsˌleɪt,1,0
 legislates, ˈledʒəsleɪt ˈledʒ·əsˌleɪt,1,0
@@ -320,20 +320,20 @@ legroom," ˈleɡruːm ˈleɡˌrum, -ˌrʊm",0,0
 legs, leɡ leɡ leɡ leɡ leɡ leɡ leɡ leɡ leɡ leɡ,1,0
 legumes, ˈleɡjuːm,1,0
 legwork, ˈleɡwɝːk ˈleɡˈwɜrk,0,0
-lehrman,,0,0
+lehrman,,0,1
 lei, ˈleɪiː,0,0
 leicester, ˈlestɚ,1,0
-leighton,,0,0
-leipzig,,0,0
+leighton,,0,1
+leipzig,,0,1
 leis, ˈleɪiː,1,0
 leisure," ˈliːʒɚ ˈli·ʒər, ˈleʒ·ər ˈliːʒər",0,0
 leisurely, ˈliːʒɚli,0,0
 leitmotif, ˈlaɪtmoʊt̬iːf,1,0
-lek,,0,0
+lek,,0,1
 lemma, ˈlemə,0,0
 lemming, ˈlemɪŋ,0,0
 lemmings, ˈlemɪŋ,1,0
-lemmon,,0,0
+lemmon,,0,1
 lemon, ˈlemən ˈlemən ˈlemən ˈlemən ˈlemən ˈlem·ən ˈlem·ən,0,0
 lemonade, ˌleməˈneɪd ˌleməˈneɪd ˌlem·əˈneɪd,0,0
 lemons, ˈlemən ˈlemən ˈlemən ˈlemən ˈlemən ˈlem·ən ˈlem·ən,1,0
@@ -344,8 +344,8 @@ lender, ˈlendɚ ˈlen·dər,1,0
 lenders, ˈlendɚ ˈlen·dər,1,0
 lending,,1,0
 lends, lend lend lend lend lend,1,0
-lene,,0,0
-leng,,0,0
+lene,,0,1
+leng,,0,1
 length," leŋθ leŋθ leŋθ leŋθ leŋθ leŋθ leŋθ leŋkθ, leŋθ leŋkθ, leŋθ leŋkθ, leŋθ",0,0
 lengthen," ˈleŋθən ˈleŋθən ˈleŋk·θən, ˈleŋ- ˈleŋk·θən, ˈleŋ-",0,0
 lengthened, ˈleŋθən ˈleŋθən,1,0
@@ -357,22 +357,22 @@ lengthy," ˈleŋθi ˈleŋk·θi, ˈleŋ-",0,0
 leniency, ˈliːniənsi,0,0
 lenient, ˈliːniənt ˈlin·jənt,0,0
 leniently, ˈliːniəntli,0,0
-lenin,,0,0
-leningrad,,0,0
+lenin,,0,1
+leningrad,,0,1
 leninist, ˈlenɪnɪst,1,0
-leno,,0,0
+leno,,0,1
 lens, lenz lenz lenz lenz lenz,0,0
 lenses, lenz lenz lenz lenz lenz,1,0
 lent, lent lent,0,0
 lentil, ˈlent̬əl ˈlen·təl,0,0
 lentils, ˈlent̬əl ˈlen·təl,1,0
-lento,,0,0
+lento,,0,1
 leo, ˈliːoʊ ˈliːoʊ ˈli·oʊ,1,0
-leon,,0,0
-leonard,,0,0
-leonardo,,0,0
-leone, siˌerə liˈoʊn,1,0
-leonid,,0,0
+leon,,0,1
+leonard,,0,1
+leonardo,,0,1
+leone,,0,1
+leonid,,0,1
 leopard, ˈlepɚd ˈlep·ərd,0,0
 leopards, ˈlepɚd ˈlep·ərd,1,0
 leos, ˈliːoʊ ˈliːoʊ ˈli·oʊ,1,0
@@ -383,7 +383,7 @@ lepers, ˈlepɚ ˈlepɚ ˈlep·ər,1,0
 leprechaun, ˈleprəkɑːn,0,0
 leprechauns, ˈleprəkɑːn,1,0
 leprosy, ˈleprəsi ˈlep·rə·si,0,0
-les,,0,0
+les,,0,1
 lesbian, ˈlezbiən ˈlez·bi·ən,0,0
 lesbianism, ˈlezbiənɪzəm,0,0
 lesbians, ˈlezbiən ˈlez·bi·ən,1,0
@@ -401,16 +401,16 @@ lesson, ˈlesən ˈlesən ˈles·ən ˈles·ən,0,0
 lessons, ˈlesən ˈlesən ˈles·ən ˈles·ən,1,0
 lessor, lesˈɔːr ˈlesɔr,0,0
 lest, lest lest,0,0
-lester,,0,0
+lester,,0,1
 let, let let let let let let,1,0
 letdown, ˈletdaʊn ˈletˌdɑʊn,0,0
 lethal, ˈliːθəl ˈli·θəl,0,0
-lethality,,0,0
+lethality,,0,1
 lethargic, ləˈθɑːrdʒɪk ləˈθɑr·dʒɪk,0,0
 lethargy, ˈleθɚdʒi,0,0
-leto,,0,0
+leto,,0,1
 lets, let let let let let let let  -lət let let let,1,0
-lett,,0,0
+lett,,0,1
 letter, ˈlet̬ɚ ˈlet̬ɚ ˈlet̬ɚ ˈlet̬·ər ˈlet̬·ər,1,0
 lettered, ˈlet̬ɚ ˈlet̬ɚ ˈlet̬ɚ ˈlet̬ɚ ˈlet̬·ər ˈlet̬·ər,1,0
 letterhead, ˈlet̬ɚhed ˈlet̬·ərˌhed ˈlet̬·ərˌhed ˈleṱɚ- ˈleṱɚ-,0,0
@@ -420,13 +420,13 @@ letters, ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬
 letting, ˈlet̬ɪŋ,1,0
 lettuce, ˈlet̬ɪs ˈlet̬·əs,0,0
 letup, ˈlet̬ˌʌp,0,0
-leu,,0,0
+leu,,0,1
 leukemia, luːˈkiːmiə luˈki·mi·ə,0,0
 leukocyte, ˈluːkəsaɪt,0,0
-lev,,0,0
-leva,,0,0
-levant, ləˈvænt,1,0
-leve,,0,0
+lev,,0,1
+leva,,0,1
+levant,,0,1
+leve,,0,1
 levee, ˈlevi ˈlev·i,0,0
 levees, ˈlevi ˈlev·i,1,0
 level, ˈlevəl ˈlevəl ˈlevəl ˈlevəl ˈlevəl ˈlevəl ˈlev·əl ˈlev·əl ˈlev·əl ˈlev·əl,1,0
@@ -443,25 +443,25 @@ levers," ˈlevɚ ˈlevɚ ˈlev·ər, ˈli·vər ˈlev·ər, ˈli·vər ˈlevər 
 levi, ˈliːvaɪz,1,0
 leviathan, ləˈvaɪəθən,0,0
 levied, ˈlevi,1,0
-levin,,0,0
-levins,,0,0
-levis,,0,0
+levin,,0,1
+levins,,0,1
+levis,,0,1
 levitate, ˈlevəteɪt,0,0
 levitated, ˈlevəteɪt,1,0
 levitating, ˈlevəteɪt,1,0
 levitation, ˌlevəˈteɪʃən,0,0
-leviticus,,0,0
+leviticus,,0,1
 levity, ˈlevət̬i ˈlev·ɪ·t̬i,0,0
 levy, ˈlevi ˈlev·i,1,0
 levying, ˈlevi,1,0
-lew,,0,0
+lew,,0,1
 lewd, luːd lud,0,0
-lewis, ˈluːɪs ˌæsɪd ˈlu·əs ˈæs·ɪd,1,0
-lex,,0,0
+lewis,,0,1
+lex,,0,1
 lexicon, ˈleksɪkɑːn ˈleksɪkɑːn ˈlek·sɪˌkɑn,0,0
 lexis, ˈleksɪs,0,0
-ley, ˈleɪ ˌlaɪn,1,0
-leyden,,0,0
+ley,,0,1
+leyden,,0,1
 li, ˈlaɪloʊ,1,0
 liabilities,,1,0
 liability, ˌlaɪəˈbɪlət̬i ˌlaɪəˈbɪlət̬i ˌlɑɪ·əˈbɪl·ɪ·t̬i ˌlɑɪ·əˈbɪl·ɪ·t̬i,1,0
@@ -469,8 +469,8 @@ liable, ˈlaɪəbəl ˈlaɪəbəl ˈlɑɪ·ə·bəl ˈlɑɪ·ə·bəl,1,0
 liaison," liˈeɪzɑːn liˈeɪzɑːn liˈeɪzɑːn liˈeɪzɑːn liˈeɪˌzɑn, ˈli·ə- liˈeɪˌzɑn, ˈli·ə-",0,0
 liaisons," liˈeɪzɑːn liˈeɪzɑːn liˈeɪzɑːn liˈeɪzɑːn liˈeɪˌzɑn, ˈli·ə- liˈeɪˌzɑn, ˈli·ə-",1,0
 liana,,1,0
-liane,,0,0
-liang,,0,0
+liane,,0,1
+liang,,0,1
 liar, ˈlaɪɚ ˈlɑɪ·ər,0,0
 liars, ˈlaɪɚ ˈlɑɪ·ər,1,0
 lib, lɪb,0,0

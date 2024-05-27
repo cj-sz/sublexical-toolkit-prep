@@ -1,9 +1,9 @@
 Word,Pronunciation,Root Word Returned,Missing
 durham, ˈdɜ˞əm ˈdɜ˞əm,1,0
 during, ˈdʊrɪŋ ˈdʊrɪŋ ˈdʊər·ɪŋ ˈdʊər·ɪŋ,0,0
-durn,,0,0
-durning,,0,0
-durst,,0,0
+durn,,0,1
+durning,,0,1
+durst,,0,1
 dusk, dʌsk dʌsk,0,0
 dust, dʌst dʌst,0,0
 dustbin, ˈdʌstbɪn ˈdʌstbɪn,0,0
@@ -19,10 +19,10 @@ dutchman, ˈdʌtʃmən,1,0
 duties, ˈduːt̬i ˈduːt̬i ˈduːt̬i ˈduːti ˈduːti ˈduːti ˈduːti ˈduːti ˈduːti,1,0
 dutiful, ˈduːt̬ɪfəl ˈdu·t̬ɪ·fəl,0,0
 dutifully, ˈduːt̬ɪfəli,0,0
-dutra,,0,0
+dutra,,0,1
 duty, ˈduːt̬i ˈduːt̬i ˈduːti ˈduːti ˈduːti ˈduːti,0,0
 dux, dʌks,0,0
-dvorak,,0,0
+dvorak,,0,1
 dwarf, dwɔːrf dwɔːrf dwɔrf dwɔrf,0,0
 dwarfed, dwɔːrf,1,0
 dwarfing, dwɔːrf,1,0
@@ -32,13 +32,13 @@ dwarves,,1,0
 dweeb, dwiːb dwib,0,0
 dwell, dwel dwel,0,0
 dwelled, dwel dwel,1,0
-dweller, ˈdwelɚ ˈdwel·ər,1,0
-dwellers,,0,0
+dweller, ˈdwel·ər,0,1
+dwellers,,0,1
 dwelling, ˈdwelɪŋ ˈdwel·ɪŋ,1,0
 dwellings, ˈdwelɪŋ ˈdwel·ɪŋ,1,0
 dwells, dwel dwel,1,0
 dwelt,,1,0
-dwight,,0,0
+dwight,,0,1
 dwindle, ˈdwɪndəl ˈdwɪn·dəl,1,0
 dwindled, ˈdwɪndəl,1,0
 dwindles, ˈdwɪndəl ˈdwɪn·dəl,1,0
@@ -56,7 +56,7 @@ dynamics, daɪˈnæmɪks daɪˈnæmɪks daɪˈnæmɪks daɪˈnæmɪks dɑɪˈnæ
 dynamism, ˈdaɪnəmɪzəm,0,0
 dynamite, ˈdaɪnəmaɪt ˈdaɪnəmaɪt ˈdɑɪ·nəˌmɑɪt ˈdɑɪ·nəˌmɑɪt,0,0
 dynamo, ˈdaɪnəmoʊ ˈdaɪnəmoʊ ˈdɑɪ·nəˌmoʊ,0,0
-dynamometer,,0,0
+dynamometer,,0,1
 dynastic, daɪˈnæstɪk,0,0
 dynasties," ˈdaɪnəsti ˈdɑɪ·nə·sti, -ˌnæs·ti",1,0
 dynasty," ˈdaɪnəsti ˈdɑɪ·nə·sti, -ˌnæs·ti",0,0
@@ -67,11 +67,11 @@ dysfunctions, dɪsˈfʌŋkʃən dɪsˈfʌŋk·ʃən,1,0
 dyslexia, dɪˈsleksiə dɪsˈlek·si·ə,0,0
 dyslexic, dɪˈsleksɪk,0,0
 dyspeptic, dɪˈspeptɪk dɪˈspeptɪk,0,0
-dysphoric,,0,0
+dysphoric,,0,1
 dysplasia, dɪsˈpleɪʒə,0,0
 dyspnea, ˈdɪspniːə,0,0
-dystrophy, ˌmʌskjəlɚ ˈdɪstrəfi,1,0
-e, iː iː iː iː iː iː-  i i i,1,0
+dystrophy,,0,1
+e,,0,1
 each, iːtʃ itʃ,0,0
 eager, ˈiːɡɚ ˈi·ɡər,0,0
 eagerly, ˈiːɡɚli,0,0
@@ -80,10 +80,10 @@ eagle, ˈiːɡəl ˈiːɡəl ˈi·ɡəl,1,0
 eagles, ˈiːɡəl ˈiːɡəl ˈi·ɡəl,1,0
 ear, ɪr ɪr ɪər ɪər,1,0
 eared,  -ɪrd,1,0
-earful, ˈɪrfʊl ˈɪər·fʊl,1,0
+earful, ˈɪər·fʊl,0,1
 earl, ɝːl,0,0
 earldom, ˈɝːldəm,0,0
-earless,,0,0
+earless,,0,1
 earlier,,1,0
 earliest,,1,0
 earls, ɝːl,1,0
@@ -91,7 +91,7 @@ early, ˈɝːli ˈɝːli ˈɜr·li,1,0
 earmark, ˈɪrmɑːrk ˈɪər·mɑrk,1,0
 earmarked, ˈɪrmɑːrk,1,0
 earmarks, ˈɪrmɑːrk ˈɪər·mɑrk,1,0
-earmuff,,0,0
+earmuff,,0,1
 earmuffs, ˈɪrmʌfs ˈɪərˌmʌfs,0,0
 earn, ɝːn ɝːn ɜrn,1,0
 earned, ɝːn ɝːn,1,0
@@ -142,8 +142,8 @@ easterly, ˈiːstɚli ˈi·stər·li,0,0
 eastern, ˈiːstɚn ˈi·stərn,0,0
 easterner," ˈiːstənɚ ˈiːstənɚ ˈi·stər·nər, -stə·nər",0,0
 easterners," ˈiːstənɚ ˈiːstənɚ ˈi·stər·nər, -stə·nər",1,0
-eastland,,0,0
-eastman,,0,0
+eastland,,0,1
+eastman,,0,1
 eastward, ˈiːstwɚd ˈist·wərd,0,0
 easy, ˈiːzi ˈiːzi ˈi·zi ˈi·zi,1,0
 easygoing, ˌiːziˈɡoʊɪŋ ˈi·ziˈɡoʊ·ɪŋ,0,0
@@ -156,7 +156,7 @@ eaters, ˈiːt̬ɚ,1,0
 eatery, ˈiːt̬ɚri,0,0
 eating, iːt it it,1,0
 eats, iːts,0,0
-eau, ˌoʊ də ˈniːl,1,0
+eau,,0,1
 eave, iːv,0,0
 eaves, ivz,0,0
 eavesdrop, ˈiːvzdrɑːp ˈiːvzdrɑːp ˈiːvzdrɑːp ˈivzˌdrɑp,0,0
@@ -165,11 +165,11 @@ ebb, eb eb eb,0,0
 ebbed, eb eb,1,0
 ebbing, eb eb,1,0
 ebbs, eb eb eb eb,1,0
-ebenezer,,0,0
+ebenezer,,0,1
 ebony, ˈebəni ˈebəni ˈebəni ˈeb·ə·ni,0,0
 ebullient," ɪbˈʊliənt ɪˈbʊl·jənt, ɪˈbʌl-",0,0
 eccentric," ɪkˈsentrɪk ɪkˈsentrɪk ɪkˈsen·trɪk, ek-",0,0
-eccentricities,,0,0
+eccentricities,,0,1
 eccentricity, ˌeksenˈtrɪsət̬i ˌeksenˈtrɪsət̬i,0,0
 eccentrics," ɪkˈsentrɪk ɪkˈsentrɪk ɪkˈsen·trɪk, ek-",1,0
 ecclesiastical, ɪˌkliːziˈæstɪkəl ɪˌkli·ziˈæs·tɪ·kəl,0,0
@@ -182,14 +182,14 @@ echoed, ˈekoʊ ˈekoʊ,1,0
 echoes,,1,0
 echoing, ˈekoʊ ˈekoʊ,1,0
 echolocation, ˌekoʊloʊˈkeɪʃən,0,0
-echos,,0,0
+echos,,0,1
 eclectic," ekˈlektɪk ɪˈklek·tɪk, ekˈlek-",1,0
 eclipse, ɪˈklɪps ɪˈklɪps ɪˈklɪps,1,0
 eclipsed, ɪˈklɪps ɪˈklɪps,1,0
 eclipses, ɪˈklɪps ɪˈklɪps ɪˈklɪps ɪˈklɪps ɪˈklɪps,1,0
 eclipsing, ɪˈklɪps ɪˈklɪps,1,0
 eco, iːkoʊ-,1,0
-ecole,,0,0
+ecole,,0,1
 ecological, ˌiːkəˈlɑːdʒɪkəl,1,0
 ecologically, ˌiːkəˈlɑːdʒɪkəli,0,0
 ecologist, iˈkɑːlədʒɪst ɪˈkɑl·ə·dʒɪst,0,0
@@ -221,14 +221,14 @@ eddy, ˈedi ˈedi ˈedi ˈed·i,0,0
 edelweiss, ˈeɪdəlvaɪs,0,0
 edema, ɪˈdiːmə,0,0
 eden, ˈiːdən,1,0
-edgar,,0,0
+edgar,,0,1
 edge, edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ,1,0
 edged, edʒd,0,0
 edger, ˈedʒɚ,0,0
 edges, edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ edʒ,1,0
 edgeways, ˈedʒweɪz,0,0
 edgewise, ˈedʒwaɪz,0,0
-edginess,,0,0
+edginess,,0,1
 edging, ˈedʒɪŋ,0,0
 edgy, ˈedʒi ˈedʒi ˈedʒ·i,0,0
 edible, ˈedəbəl ˈed·ə·bəl,0,0
@@ -240,10 +240,10 @@ edifice, ˈedəfɪs ˈedəfɪs ˈed·ə·fəs,0,0
 edify, ˈedəfaɪ,0,0
 edifying, ˈedəfaɪɪŋ,0,0
 edinburgh, ˈedɪnbɚə,1,0
-edison,,0,0
+edison,,0,1
 edit, ˈedɪt ˈedɪt ˈed·ət ˈed·ət,1,0
 edited, ˈedɪt ˈedɪt,1,0
-edith,,0,0
+edith,,0,1
 editing, ˈedɪt̬ɪŋ,0,0
 edition, ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃ·ən,1,0
 editions, ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃ·ən,1,0
@@ -255,7 +255,7 @@ editorializing, ˌedəˈtɔːriəlaɪz,1,0
 editorially, ˌedəˈtɔːriəli ˌedəˈtɔːriəli,0,0
 editorials," ˌedəˈtɔːriəl ˌedəˈtɔːriəl ˌed·əˈtɔr·i·əl, -ˈtoʊr-",1,0
 editors, ˈedɪt̬ɚ ˈed·ət̬·ər,1,0
-editorship,,0,0
+editorship,,0,1
 edits, ˈedɪt ˈedɪt ˈed·ət ˈed·ət,1,0
 educate, ˈedʒəkeɪt ˈedʒ·əˌkeɪt,0,0
 educated, ˈedʒəkeɪt̬ɪd,0,0
@@ -264,12 +264,12 @@ educating, ˈedʒəkeɪt,1,0
 education, ˌedʒəˈkeɪʃən ˌedʒ·əˈkeɪ·ʃən ˌedʒ·əˈkeɪ·ʃən,1,0
 educational, ˌedʒəˈkeɪʃənəl ˌedʒ·əˈkeɪ·ʃən·əl ˌedjʊˈkeɪʃənəl ˌedjʊˈkeɪʃənəl,0,0
 educationally, ˌedʒəˈkeɪʃənəli,0,0
-educations,,0,0
+educations,,0,1
 educator, ˈedʒəkeɪt̬ɚ ˈedʒ·əˌkeɪt̬·ər,1,0
 educators, ˈedʒəkeɪt̬ɚ ˈedʒ·əˌkeɪt̬·ər,1,0
-edward, ˈedwɚdz ˌsɪndroʊm,1,0
+edward,,0,1
 edwardian, edˈwɔːrdiən,1,0
-edwards, ˈedwɚdz ˌsɪndroʊm,1,0
+edwards,,0,1
 ee,  -iː  -iː,1,0
 eel, iːl il,0,0
 eels, iːl il,1,0
@@ -303,14 +303,14 @@ effusive," ɪˈfjuːsɪv ɪˈfju·sɪv, -zɪv",0,0
 effusively, ɪˈfjuːsɪvli,0,0
 egalitarian, ɪˌɡælɪˈteriən ɪˌɡæl·əˈter·i·ən,0,0
 egg," eɡ eɡ eɡ eɡ eɡ eɡ, eɪɡ eɡ, eɪɡ eɡ, eɪɡ",0,0
-eggcup,,0,0
+eggcup,,0,1
 egged, ˌoʊvɚˈeɡ,1,0
-eggers,,0,0
+eggers,,0,1
 egghead, ˈeɡhed,0,0
 eggheads, ˈeɡhed,1,0
 egging, ˌoʊvɚˈeɡ,1,0
 eggnog, ˈeɡnɑːɡ,0,0
-eggnogs,,0,0
+eggnogs,,0,1
 eggplant," ˈeɡplænt ˈeɡ·plænt, ˈeɪɡ-",0,0
 eggplants," ˈeɡplænt ˈeɡ·plænt, ˈeɪɡ-",1,0
 eggs," eɡ eɡ eɡ eɡ eɡ eɡ, eɪɡ eɡ, eɪɡ eɡ, eɪɡ",1,0
@@ -331,11 +331,11 @@ egret, ˈiːɡrət,0,0
 egypt, ˈiːdʒɪpt,1,0
 egyptian, iˈdʒɪpʃən,1,0
 egyptians, iˈdʒɪpʃən,1,0
-egyptology,,0,0
+egyptology,,0,1
 eh," eɪ eɪ, e",0,0
-eiffel, ˌaɪfəl ˈtaʊɚ,1,0
-eigenvalue,,0,0
-eigenvalues,,0,0
+eiffel,,0,1
+eigenvalue,,0,1
+eigenvalues,,0,1
 eight, eɪt eɪt,0,0
 eighteen, ˌeɪˈtiːn eɪtˈtin,0,0
 eighteenth, ˌeɪˈtiːnθ eɪtˈtinθ eɪtˈtinθ,0,0
@@ -344,11 +344,11 @@ eighth," eɪtθ eɪtθ, eɪθ eɪtθ, eɪθ",0,0
 eighths," eɪtθ eɪtθ, eɪθ eɪtθ, eɪθ",1,0
 eighties, ˈeɪt̬iz ˈeɪt̬·iz,0,0
 eightieth, ˈeɪt̬iəθ ˈeɪt̬·i·əθ ˈeɪt̬·i·əθ,0,0
-eights, ˌfɪɡjʊr ˈeɪt ˈfɪɡ·jər ˈeɪt,1,0
+eights,,0,1
 eighty, ˈeɪt̬i ˈeɪt̬·i,0,0
-einstein,,0,0
-eisenberg,,0,0
-eisenhower,,0,0
+einstein,,0,1
+eisenberg,,0,1
+eisenhower,,0,1
 either," ˈiːðɚ ˈi·ðər, ˈɑɪ-",0,0
 ejaculate, iˈdʒækjəleɪt iˈdʒækjəleɪt ɪˈdʒæk·jəˌleɪt ɪˈdʒæk·jəˌleɪt,0,0
 ejaculation, iˌdʒækjəˈleɪʃən iˌdʒækjəˈleɪʃən,0,0
@@ -357,23 +357,23 @@ ejected, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,1,0
 ejecting, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,1,0
 ejection, iˈdʒekʃən,0,0
 ejects, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt ɪˈdʒekt ɪˈdʒekt,1,0
-eke, iːk iːk,1,0
-eking, iːk iːk,1,0
-el, el ˈniːnjoʊ elˈnin·joʊ,1,0
+eke,,0,1
+eking,,0,1
+el,,0,1
 elaborate, iˈlæbɚət ɪˈlæb·ə·rət,0,0
 elaborated, iˈlæbəreɪt,1,0
 elaborately, iˈlæbɚətli,0,0
 elaborates, iˈlæbɚət ɪˈlæb·ə·rət,1,0
 elaborating, iˈlæbəreɪt,1,0
 elaboration, iˌlæbəˈreɪʃən,0,0
-elaine,,0,0
+elaine,,0,1
 elan, eɪˈlɑːn,1,0
-eland,,0,0
+eland,,0,1
 elapsed, iˈlæps,1,0
 elastic, iˈlæstɪk iˈlæstɪk ɪˈlæs·tɪk ɪˈlæs·tɪk,1,0
 elasticity, ˌilæsˈtɪsət̬i ˌilæsˈtɪsət̬i,1,0
-elastomer,,0,0
-elastomers,,0,0
+elastomer,,0,1
+elastomers,,0,1
 elated, iˈleɪt̬ɪd ɪˈleɪt̬·əd,0,0
 elating, iˈleɪt̬ɪŋ,0,0
 elation, iˈleɪʃən,0,0
@@ -385,11 +385,11 @@ elder, ˈeldɚ ˈeldɚ ˈeldɚ ˈel·dər ˈel·dər,0,0
 elderly, ˈeldɚli ˈel·dər·li,0,0
 elders, ˈeldɚ ˈeldɚ ˈeldɚ ˈeldɚ ˈeldɚ ˈeldɚ ˈel·dər ˈel·dər,1,0
 eldest, ˈeldɪst ˈel·dəst,0,0
-eldorado,,0,0
+eldorado,,0,1
 eldritch, ˈeldrɪtʃ,0,0
-eleanor,,0,0
+eleanor,,0,1
 elect, ɪˈlekt ɪˈlekt,1,0
-electability,,0,0
+electability,,0,1
 elected, iˈlekt iˈlekt,1,0
 electing, iˈlekt iˈlekt,1,0
 election, ɪˈlekʃən ɪˈlek·ʃən,1,0
@@ -400,7 +400,7 @@ electives, ɪˈlektɪv ɪˈlektɪv ɪˈlek·tɪv ɪˈlek·tɪv,1,0
 electoral, iˈlektɚəl ɪˈlek·tə·rəl,0,0
 electorate, ɪˈlektɚət ɪˈlek·tə·rət,0,0
 electors, ɪˈlektɚ ɪˈlektɚ,1,0
-electra,,0,0
+electra,,0,1
 electric, ɪˈlektrɪk ɪˈlektrɪk ɪˈlektrɪk ɪˈlek·trɪk ɪˈlek·trɪk,0,0
 electrical, iˈlektrɪkəl ɪˈlek·trɪ·kəl,1,0
 electrically, iˈlektrɪkəli,0,0
@@ -432,21 +432,21 @@ electronic, iˌlekˈtrɑːnɪk iˌlekˈtrɑːnɪk ɪˌlekˈtrɑn·ɪk,1,0
 electronically, iˌlekˈtrɑːnɪkəli,0,0
 electronics, iˌlekˈtrɑːnɪks ɪˌlekˈtrɑn·ɪks,1,0
 electrons, iˈlektrɑːn ɪˈlek·trɑn,1,0
-electrophoresis,,0,0
+electrophoresis,,0,1
 electroplate, iˈlektroʊpleɪt,0,0
 electroplating, iˈlektroʊpleɪt,1,0
-electroshock, iˌlektroʊˌʃɑːk ˈθerəpi,1,0
+electroshock,,0,1
 electrostatic, iˌlektroʊˈstæt̬ɪk ɪˌlek·troʊˈstæt̬·ɪk,0,0
 elects, ɪˈlekt ɪˈlekt ɪˈlekt ɪˈlekt ɪˈlekt,1,0
 elegance, ˈeləɡəns,0,0
 elegant, ˈeləɡənt ˈeləɡənt ˈel·ɪ·ɡənt,0,0
 elegantly, ˈeləɡəntli ˈeləɡəntli,0,0
 elegy, ˈelədʒi ˈel·ə·dʒi,0,0
-elektra,,0,0
+elektra,,0,1
 element, ˈeləmənt ˈeləmənt ˈeləmənt ˈeləmənt ˈeləmənt ˈel·ə·mənt ˈel·ə·mənt ˈel·ə·mənt,0,0
 elemental, ˌeləˈment̬əl ˌeləˈment̬əl ˌel·əˈmen·təl,0,0
 elementary," ˌeləˈment̬ɚi ˌeləˈment̬ɚi ˌel·əˈmen·tri, -ˈmen·tə·ri ˌel·əˈmen·tri, -ˈmen·tə·ri",0,0
-elements, ˈel·ə·mənts,1,0
+elements, ˈel·ə·mənts,0,1
 elephant, ˈeləfənt ˈel·ə·fənt,1,0
 elephantine, ˌeləˈfæntaɪn,0,0
 elephants, ˈeləfənt ˈel·ə·fənt,1,0
@@ -463,21 +463,21 @@ elevens, əˈlevən ɪˈlev·ən,1,0
 eleventh, əˈlevənθ ɪˈlev·ənθ ɪˈlev·ənθ,0,0
 elf, elf elf,0,0
 elfin, ˈelfɪn,0,0
-eli,,0,0
+eli,,0,1
 elicit, iˈlɪsɪt iˈlɪsɪt ɪˈlɪs·ɪt,0,0
 elicited, iˈlɪsɪt iˈlɪsɪt,1,0
 eliciting, iˈlɪsɪt iˈlɪsɪt,1,0
 elicits, iˈlɪsɪt iˈlɪsɪt ɪˈlɪs·ɪt,1,0
 eligibility, ˌelədʒəˈbɪlət̬i,1,0
 eligible, ˈelədʒəbəl ˈelədʒəbəl ˈel·ɪ·dʒə·bəl ˈel·ɪ·dʒə·bəl,1,0
-elijah,,0,0
+elijah,,0,1
 eliminate, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt ɪˈlɪm·əˌneɪt,1,0
 eliminated, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,1,0
 eliminates, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt ɪˈlɪm·əˌneɪt,1,0
 eliminating, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,1,0
 elimination, iˌlɪməˈneɪʃən,0,0
-eliminations,,0,0
-elisha,,0,0
+eliminations,,0,1
+elisha,,0,1
 elite, iˈliːt ɪˈlit,1,0
 elites, iˈliːt ɪˈlit,1,0
 elitism, iˈliːtɪzəm,0,0

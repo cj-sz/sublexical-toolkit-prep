@@ -24,7 +24,7 @@ workout, ˈwɝːkaʊt ˈwɜrkˌɑʊt,1,0
 workouts, ˈwɝːkaʊt ˈwɜrkˌɑʊt,1,0
 workplace, ˈwɝːkpleɪs ˈwɜrkˌpleɪs,1,0
 workroom, ˈwɝːkruːm,1,0
-works, wɜrks wɜrks,1,0
+works, wɜrks wɜrks,0,1
 worksheet, ˈwɝːkʃiːt,1,0
 worksheets, ˈwɝːkʃiːt,1,0
 workshop, ˈwɝːkʃɑːp ˈwɝːkʃɑːp ˈwɜrkˌʃɑp ˈwɜrkˌʃɑp,1,0
@@ -71,12 +71,12 @@ worthier, ˈwɝːði ˈwɝːði ˈwɝːði ˈwɝːði  -wɝːði  -wɝːði ˈw�
 worthies, ˈwɝːði ˈwɝːði ˈwɝːði ˈwɝːði  -wɝːði  -wɝːði ˈwɜr·ði ˈwɜr·ði,1,0
 worthiest, ˈwɝːði ˈwɝːði ˈwɝːði ˈwɝːði  -wɝːði  -wɝːði ˈwɜr·ði ˈwɜr·ði,1,0
 worthiness, ˈwɝːðinəs ˈwɝːðinəs,0,0
-worthing,,0,0
+worthing,,0,1
 worthless, ˈwɝːθləs ˈwɝːθləs ˈwɜrθ·ləs ˈwɜrθ·ləs,1,0
-worths, ˌnetˈwɝːθ,1,0
+worths,,0,1
 worthwhile," ˌwɝːθˈwaɪl wɜrθˈhwɑɪl, -ˈwɑɪl",0,0
 worthy, ˈwɝːði ˈwɝːði ˈwɜr·ði ˈwɜr·ði,0,0
-worts,,0,0
+worts,,0,1
 would," strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd",0,0
 wound, wuːnd wuːnd wɑʊnd,0,0
 wounded, ˈwuːndɪd ˈwuːndɪd,0,0
@@ -89,7 +89,7 @@ wowed, waʊ,1,0
 wowing, waʊ,1,0
 wows, waʊ wɑʊ,1,0
 wrack, ræk,0,0
-wracked,,0,0
+wracked,,0,1
 wracking, ˈnɝːvˌrækɪŋ ˈnɜrv ˌræk·ɪŋ,1,0
 wrangle, ˈræŋɡəl ˈræŋ·ɡəl,0,0
 wrangled, ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl,1,0
@@ -103,7 +103,7 @@ wrappers, ˈræpɚ ˈræpɚ ˈræpɚ ˈræp·ər,1,0
 wrapping, ˈræpɪŋ,1,0
 wraps, ræp ræp ræp ræp,1,0
 wrath, rɑːθ ræθ,0,0
-wray,,0,0
+wray,,0,1
 wreak, riːk rik,0,0
 wreaked, riːk,1,0
 wreaking, riːk,1,0
@@ -135,8 +135,8 @@ wretched, ˈretʃɪd ˈretʃɪd ˈretʃɪd ˈretʃ·ɪd ˈretʃ·ɪd,0,0
 wretchedly, ˈretʃɪdli,0,0
 wriggle, ˈrɪɡəl ˈrɪɡəl ˈrɪɡ·əl,0,0
 wright, raɪt,0,0
-wrights,,0,0
-wrigley,,0,0
+wrights,,0,1
+wrigley,,0,1
 wring, rɪŋ rɪŋ rɪŋ,0,0
 wringer, ˈrɪŋɚ,0,0
 wringing, rɪŋ rɪŋ rɪŋ rɪŋ,1,0
@@ -150,7 +150,7 @@ wristwatch," ˈrɪstwɑːtʃ ˈrɪst·wɑtʃ, -wɔtʃ",0,0
 wristwatches," ˈrɪstwɑːtʃ ˈrɪst·wɑtʃ, -wɔtʃ",1,0
 writ, rɪt rɪt rɪt,1,0
 write, raɪt raɪt raɪt raɪt raɪt raɪt raɪt rɑɪt rɑɪt rɑɪt rɑɪt,1,0
-writeoffs,,0,0
+writeoffs,,0,1
 writer, ˈraɪt̬ɚ ˈrɑɪ·t̬ər,1,0
 writers, ˈraɪt̬ɚ ˈrɑɪ·t̬ər,1,0
 writes, raɪt raɪt raɪt raɪt raɪt raɪt raɪt rɑɪt rɑɪt rɑɪt rɑɪt,1,0
@@ -175,21 +175,21 @@ wrought, rɑːt rɔt,0,0
 wrung, rʌŋ rʌŋ,0,0
 wry, raɪ rɑɪ,0,0
 wryly, ˈraɪli,0,0
-ws, ˈdʌbəljuː ˈdʌbəljuː ˈdʌbəljuː ˈdʌb·əl·ju,1,0
+ws,,0,1
 wunderkind, ˈwʊndɚkɪnt,1,0
 wurst, wɝːst,0,0
 wuss, wʊs,0,0
 wuthering, ˈwʌðərɪŋ,0,0
-wuzzy,,0,0
+wuzzy,,0,1
 wy,,1,0
-wye,,0,0
-wyke,,0,0
-wyle,,0,0
-wynn,,0,0
-wynne,,0,0
+wye,,0,1
+wyke,,0,1
+wyle,,0,1
+wynn,,0,1
+wynne,,0,1
 wyoming, waɪˈoʊmɪŋ,1,0
 x, eks eks eks eks,0,0
-xenia,,0,0
+xenia,,0,1
 xenon, ˈzenɑːn,0,0
 xenophobia, ˌzenəˈfoʊbiə,0,0
 xenophobic, ˌzenəˈfoʊbɪk,0,0
@@ -200,26 +200,26 @@ xeroxing, ˈzɪrɑːks,1,0
 xi, saɪ,0,0
 xu, suː,0,0
 xylophone, ˈzaɪləfoʊn ˈzɑɪ·ləˌfoʊn,0,0
-y, waɪ wɑɪ,1,0
+y, waɪ,0,1
 ya, jə jə,0,0
 yacht, jɑːt jɑt,0,0
 yachting, ˈjɑːt̬ɪŋ,0,0
 yachts, jɑːt jɑt,1,0
 yachtsman, ˈjɑːtsmən,0,0
 yack, jæk,0,0
-yagi,,0,0
+yagi,,0,1
 yah, jɑː,0,0
 yahoo, ˈjɑːhuː,0,0
 yahoos, ˈjɑːhuː,1,0
-yahweh,,0,0
+yahweh,,0,1
 yak, jæk jæk,0,0
-yakima,,0,0
-yale, ˈjeɪl ˌlɑːk,1,0
+yakima,,0,1
+yale,,0,1
 yam, jæm jæm jæm,0,0
 yams, jæm jæm jæm,1,0
-yan,,0,0
+yan,,0,1
 yang, jæŋ,0,0
-yangtze,,0,0
+yangtze,,0,1
 yank, jæŋk jæŋk jæŋk,0,0
 yanked, jæŋk jæŋk,1,0
 yankee, ˈjæŋki ˈjæŋki ˈjæŋ·ki,1,0
@@ -228,9 +228,9 @@ yanking, jæŋk jæŋk,1,0
 yanks, jæŋk jæŋk jæŋk jæŋk,1,0
 yap, jæp jæp jæp jæp,1,0
 yaps, jæp jæp jæp jæp,1,0
-yarborough,,0,0
+yarborough,,0,1
 yard, jɑːrd jɑːrd jɑːrd jɑːrd jɑːrd jɑrd jɑrd jɑrd,1,0
-yardage,,0,0
+yardage,,0,1
 yards, jɑːrd jɑːrd jɑːrd jɑːrd jɑːrd jɑrd jɑrd jɑrd,1,0
 yardstick, ˈjɑːrdstɪk ˈjɑːrdstɪk ˈjɑrdˌstɪk,1,0
 yardsticks, ˈjɑːrdstɪk ˈjɑːrdstɪk ˈjɑrdˌstɪk,1,0
@@ -242,7 +242,7 @@ yarrow, ˈjeroʊ,0,0
 yaw, jɑː,0,0
 yawn, jɑːn jɔn,0,0
 yawned, jɑːn,1,0
-yawner,,0,0
+yawner,,0,1
 yawning, ˈjɑːnɪŋ ˈjɑːnɪŋ,0,0
 yawns, jɑːn jɑːn jɔn,1,0
 yay, jeɪ,0,0
@@ -265,7 +265,7 @@ years,,1,0
 yeas, jeɪ,1,0
 yeast, jiːst jist,0,0
 yeasts, jiːst jist,1,0
-yee,,0,0
+yee,,0,1
 yeh, jeə,0,0
 yell, jel jel,0,0
 yelled, jel,1,0
@@ -273,27 +273,27 @@ yelling, jel,1,0
 yellow, ˈjeloʊ ˈjel·oʊ,0,0
 yellowing, ˈjeloʊ,1,0
 yellows, ˈjeloʊ ˈjel·oʊ,1,0
-yellowstone, ˌjeloʊstoʊn ˌnæʃənəl ˈpɑːrk,1,0
+yellowstone,,0,1
 yells, jel jel,1,0
 yelp, jelp jelp jelp,0,0
 yelping, jelp jelp,1,0
 yemen, ˈjemən,1,0
 yen, jen jen jen,1,0
-yeo,,0,0
+yeo,,0,1
 yeoman, ˈjoʊmən,0,0
 yep," jep jep, jʌp",0,0
 yer, jɚ,0,0
 yes, jes jes jes jes jes,0,0
 yeses, jes jes jes jes jes jes jes,1,0
-yeshiva,,0,0
-yest,,0,0
+yeshiva,,0,1
+yest,,0,1
 yesterday," ˈjestɚdeɪ ˈjes·tər·deɪ, -di",0,0
-yesterdays,,0,0
+yesterdays,,0,1
 yesteryear, ˈjestɚjɪr,0,0
 yet, jet jet jet jet jet jet jet jet,0,0
 yeti, ˈjet̬i,0,0
 yew, juː juː,0,0
-yi,,0,0
+yi,,0,1
 yiddish, ˈjɪdɪʃ,1,0
 yield, jiːld jiːld jiːld jiːld jild jild jild jild jild,1,0
 yielded, jiːld jiːld jiːld jiːld,1,0
@@ -314,31 +314,31 @@ yoke, joʊk joʊk joʊk joʊk joʊk joʊk,0,0
 yoked, joʊk joʊk,1,0
 yokel, ˈjoʊkəl ˈjoʊ·kəl,0,0
 yokes, joʊk joʊk joʊk joʊk joʊk joʊk,1,0
-yokohama,,0,0
+yokohama,,0,1
 yolk, joʊk joʊk,0,0
 yolks, joʊk joʊk,1,0
-yom," ˌjɑːm ˈkɪpɚ ˌjoʊm·kɪˈpʊər, ˌjɔm-",1,0
+yom,,0,1
 yon, ˈjɑːndɚ ˈjɑn·dər,1,0
 yonder, ˈjɑːndɚ ˈjɑn·dər,0,0
-yonker,,0,0
-yonkers,,0,0
-yore, jɔːr,1,0
+yonker,,0,1
+yonkers,,0,1
+yore,,0,1
 york, jɔːrk,1,0
 yorker, ˈjɔːrkɚ,0,0
 yorkers, ˈjɔːrkɚ,1,0
 yorkshire, ˈjɔːrkʃɚ,1,0
-yoruba,,0,0
-yosemite, joʊˌsemət̬i ˌnæʃənəl ˈpɑːrk,1,0
+yoruba,,0,1
+yosemite,,0,1
 you," juː juː ju, jə ju, jə",0,0
 young, jʌŋ jʌŋ jʌŋ,0,0
-younger,,1,0
-youngers,,0,0
+younger,,0,1
+youngers,,0,1
 youngest, jʌŋ jʌŋ jʌŋ jʌŋ jʌŋ jʌŋ,1,0
-youngs,,0,0
+youngs,,0,1
 youngster, ˈjʌŋstɚ ˈjʌŋ·stər,0,0
 youngsters, ˈjʌŋstɚ ˈjʌŋ·stər,1,0
-youngstown,,0,0
-younker,,0,0
+youngstown,,0,1
+younker,,0,1
 your," strong jʊr strong jʊr strong jʊr jʊər, jɔr, jər jʊər, jɔr, jər",0,0
 yours," jʊrz jʊrz jʊrz jʊərz, jɔrz",1,0
 yourself, strong jʊrˈself strong jʊrˈself strong jʊrˈself jərˈself jərˈself,0,0
@@ -348,8 +348,8 @@ youse, juːz,1,0
 youth, juːθ juːθ juːθ juːθ juθ juθ juθ,0,0
 youthful, ˈjuːθfəl ˈjuːθfəl ˈjuθ·fəl,0,0
 youths, juːθ juːθ juːθ juːθ juθ juθ juθ,1,0
-yow,,0,0
-yoy,,0,0
+yow,,0,1
+yoy,,0,1
 yoyo, ˈjoʊjoʊ ˈjoʊjoʊ ˈjoʊ·joʊ,1,0
 yuan, juˈɑːn,1,0
 yucca, ˈjʌkə ˈjʌk·ə,0,0
@@ -360,41 +360,41 @@ yugoslavia, ˌjuːɡoʊˈslɑːviə,1,0
 yugoslavian, ˌjuːɡoʊˈslɑːviən,1,0
 yuk, jʌk,0,0
 yukon, ˈjuːkɑːn,1,0
-yuks,,0,0
+yuks,,0,1
 yule, juːl juːl juːl jul,1,0
 yuletide, ˈjuːltaɪd,1,0
 yum, jʌm,0,0
-yummies,,0,0
+yummies,,0,1
 yummy, ˈjʌmi ˈjʌmi ˈjʌm·i,0,0
 yup, jʌp jʌp,0,0
 yuppie, ˈjʌpi ˈjʌp·i,1,0
 yuppies, ˈjʌpi ˈjʌp·i,1,0
 yurt, jɝːt,0,0
-z, ziː zi,1,0
-zachariah,,0,0
-zack,,0,0
+z,,0,1
+zachariah,,0,1
+zack,,0,1
 zaftig, ˈzæftɪɡ,0,0
 zag, ˈzɪɡzæɡ ˈzɪɡzæɡ ˈzɪɡ·zæɡ,1,0
 zagged, ˈzɪɡzæɡ ˈzɪɡzæɡ ˈzɪɡ·zæɡ,1,0
 zags, ˈzɪɡzæɡ ˈzɪɡzæɡ ˈzɪɡ·zæɡ,1,0
 zaibatsu,,1,0
 zaire, zaɪˈɪr,1,0
-zak,,0,0
+zak,,0,1
 zambia, ˈzæmbiə,1,0
-zander,,0,0
-zanders,,0,0
-zant,,0,0
+zander,,0,1
+zanders,,0,1
+zant,,0,1
 zany, ˈzeɪni ˈzeɪ·ni,0,0
-zanzibar,,0,0
+zanzibar,,0,1
 zap, zæp zæp zæp zæp zæp zæp zæp,0,0
 zapped,,1,0
 zapping,,1,0
 zaps, zæp zæp zæp zæp zæp zæp zæp,1,0
 zeal, ziːl zil,0,0
-zealand, ˌnjuː ˈziːlənd,1,0
-zealander, ˌnjuː ˈziːləndɚ,1,0
+zealand,,0,1
+zealander,,0,1
 zealot, ˈzelət,0,0
-zealotry,,0,0
+zealotry,,0,1
 zealots, ˈzelət,1,0
 zealous, ˈzeləs ˈzel·əs,0,0
 zealously, ˈzeləsli,0,0
@@ -402,23 +402,23 @@ zebra, ˈziːbrə ˈzi·brə,0,0
 zebras, ˈziːbrə ˈzi·brə,1,0
 zed, zed zed,0,0
 zee, ziː,0,0
-zeiss,,0,0
+zeiss,,0,1
 zeitgeist, ˈtsaɪtɡaɪst,0,0
-zel,,0,0
+zel,,0,1
 zen, zen zen,1,0
 zenith, ˈziːnɪθ ˈziːnɪθ ˈziːnɪθ ˈzi·nəθ,0,0
 zephyr, ˈzefɚ,0,0
 zeppelin, ˈzepəlɪn,1,0
 zero," ˈzɪroʊ ˈzɪroʊ ˈzɪər·oʊ, ˈzi·roʊ",1,0
-zeroed, ˈzɪroʊ ˈzɪroʊ ˈzɪroʊ ˈzɪroʊ,1,0
+zeroed,,0,1
 zeroes," ˈzɪroʊ ˈzɪroʊ ˈzɪər·oʊ, ˈzi·roʊ",1,0
-zeroing, ˈzɪroʊ ˈzɪroʊ ˈzɪroʊ ˈzɪroʊ,1,0
+zeroing,,0,1
 zeros," ˈzɪroʊ ˈzɪroʊ ˈzɪər·oʊ, ˈzi·roʊ",1,0
 zest, zest zest zest,0,0
 zestful, ˈzestfəl,0,0
 zeta, ˈzeɪt̬ə,0,0
 zeus, zuːs,1,0
-ziff,,0,0
+ziff,,0,1
 zig, ˈzɪɡzæɡ ˈzɪɡzæɡ ˈzɪɡ·zæɡ,1,0
 ziggurat, ˈzɪɡəræt,0,0
 zigzag, ˈzɪɡzæɡ ˈzɪɡzæɡ ˈzɪɡ·zæɡ,0,0
@@ -435,7 +435,7 @@ zines, ziːn,1,0
 zinfandel, ˈzɪnfəndel ˈzɪn·fənˌdel,0,0
 zing, zɪŋ,0,0
 zinger, ˈzɪŋɚ,0,0
-zink,,0,0
+zink,,0,1
 zinnia, ˈzɪniə,0,0
 zinnias, ˈzɪniə,1,0
 zion, ˈzaɪən ˈzaɪən ˈzaɪən,1,0
@@ -445,7 +445,7 @@ zionists, ˌæntaɪˈzaɪənɪst,1,0
 zip, zɪp zɪp zɪp zɪp zɪp,1,0
 zipped,,1,0
 zipper, ˈzɪpɚ ˈzɪp·ər,0,0
-zippered,,0,0
+zippered,,0,1
 zippers, ˈzɪpɚ ˈzɪp·ər,1,0
 zipping,,1,0
 zippy, ˈzɪpi,0,0
@@ -458,7 +458,7 @@ zlotys, ˈzlɑːt̬i,1,0
 zodiac, ˈzoʊdiæk ˈzoʊd·iˌæk,0,0
 zombie, ˈzɑːmbi ˈzɑːmbi ˈzɑːmbi ˈzɑm·bi ˈzɑm·bi,0,0
 zombies, ˈzɑːmbi ˈzɑːmbi ˈzɑːmbi ˈzɑm·bi ˈzɑm·bi,1,0
-zona,,0,0
+zona,,0,1
 zone, zoʊn zoʊn zoʊn,1,0
 zoned, zoʊn,1,0
 zones, zoʊn zoʊn zoʊn,1,0
@@ -473,13 +473,13 @@ zoomed, zuːm zuːm zuːm zuːm zum zum,1,0
 zooming, zuːm zuːm zuːm zuːm zum zum,1,0
 zooms, zuːm zuːm zuːm zuːm zum zum,1,0
 zoos, zuː zuː zu,1,0
-zorro,,0,0
-zounds,,0,0
+zorro,,0,1
+zounds,,0,1
 zucchini, zuːˈkiːni zʊˈki·ni,0,0
 zucchinis, zuːˈkiːni zʊˈki·ni,1,0
 zulu, ˈzuːluː ˈzuːluː,1,0
 zulus, ˈzuːluː ˈzuːluː,1,0
-zuni,,0,0
-zurich,,1,0
+zuni,,0,1
+zurich,,0,1
 zydeco, ˈzaɪdɪkoʊ,0,0
 zygote, ˈzaɪɡoʊt ˈzɑɪ·ɡoʊt,0,0

@@ -1,6 +1,6 @@
 Word,Pronunciation,Root Word Returned,Missing
 fried, fraɪd,0,0
-friedman,,0,0
+friedman,,0,1
 friend, frend frend frend frend frend frend,0,0
 friendlier, ˈfrendli ˈfrendli ˈfrendli ˈfrendli  -frendli  -frendli ˈfrend·li ˈfrend·li ˈfrend·li ˈfrend·li,1,0
 friendliest, ˈfrendli ˈfrendli ˈfrendli ˈfrendli  -frendli  -frendli ˈfrend·li ˈfrend·li ˈfrend·li ˈfrend·li,1,0
@@ -30,15 +30,15 @@ frilly, ˈfrɪli ˈfrɪl·i,0,0
 fringe, frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ,1,0
 fringes, frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ,1,0
 frisbee, ˈfrɪzbi ˈfrɪz·bi,1,0
-frisco,,0,0
+frisco,,0,1
 frisk, frɪsk frɪsk frɪsk frɪsk,0,0
 frisked, frɪsk frɪsk,1,0
 frisky, ˈfrɪski ˈfrɪs·ki,0,0
-frist,,0,0
+frist,,0,1
 fritter, ˈfrɪt̬ɚ ˈfrɪt̬·ər,0,0
-frittered, ˈfrɪt̬ɚ ˈfrɪt̬ɚ ˈfrɪt̬·ər ˈfrɪt̬·ər,1,0
-frittering, ˈfrɪt̬ɚ ˈfrɪt̬ɚ ˈfrɪt̬·ər ˈfrɪt̬·ər,1,0
-fritz, frɪts,1,0
+frittered,,0,1
+frittering,,0,1
+fritz,,0,1
 frivolity, frɪˈvɑːlət̬i frɪˈvɑl·ɪ·t̬i,0,0
 frivolous, ˈfrɪvələs ˈfrɪvələs ˈfrɪvələs ˈfrɪv·ə·ləs,0,0
 frivolously, ˈfrɪvələsli,0,0
@@ -67,7 +67,7 @@ frostbite, ˈfrɑːstbaɪt ˈfrɔstˌbɑɪt,0,0
 frostbitten, ˈfrɑːstˌbɪt̬ən ˈfrɔstˌbɪt·ən,0,0
 frosted, ˈfrɑːstɪd ˈfrɔ·stɪd,0,0
 frosting, ˈfrɑːstɪŋ ˈfrɔ·stɪŋ,0,0
-frostings,,0,0
+frostings,,0,1
 frosts, frɑːst frɑːst frɔst,1,0
 frosty, ˈfrɑːsti ˈfrɑːsti ˈfrɔ·sti ˈfrɔ·sti,0,0
 froth, frɑːθ frɑːθ frɔθ,0,0
@@ -103,7 +103,7 @@ fry, fraɪ frɑɪ,0,0
 fryer, ˈfraɪɚ ˈfraɪɚ,0,0
 fryers, ˈfraɪɚ ˈfraɪɚ,1,0
 frying, fraɪ,1,0
-fu, ˌkʌŋ ˈfuː ˈkʌŋ ˈfu,1,0
+fu,,0,1
 fuchsias, ˈfjuːʃə ˈfjuːʃə,1,0
 fuck, fʌk,0,0
 fucked, fʌkt fʌkt fʌkt,0,0
@@ -114,7 +114,7 @@ fucks, fʌk,1,0
 fudge, fʌdʒ fʌdʒ fʌdʒ,0,0
 fudged, fʌdʒ,1,0
 fudging, fʌdʒ,1,0
-fudgy,,0,0
+fudgy,,0,1
 fuel," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",1,0
 fueled," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",1,0
 fueling," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",1,0
@@ -124,8 +124,8 @@ fuels," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",1,0
 fugitive, ˈfjuːdʒət̬ɪv ˈfju·dʒə·t̬ɪv,0,0
 fugitives, ˈfjuːdʒət̬ɪv ˈfju·dʒə·t̬ɪv,1,0
 fugue, fjuːɡ fjuɡ,0,0
-fuhrer,,0,0
-fuji,,0,0
+fuhrer,,0,1
+fuji,,0,1
 fulani, fuːˈlɑːni,1,0
 fulcrum," ˈfʊlkrəm ˈfʊlkrəm ˈfʊl·krəm, ˈfʌl-",0,0
 fulfill, fʊlˈfɪl fʊlˈfɪl fʊlˈfɪl,1,0
@@ -139,7 +139,7 @@ fullbacks, ˈfʊlbæk ˈfʊlˌbæk ˈfʊlˌbæk,1,0
 fuller, fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl,1,0
 fullest, fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl fʊl,1,0
 fullness, ˈfʊlnəs ˈfʊlnəs ˈfʊlnəs ˈfʊlnəs ˈfʊlnəs ˈfʊl·nəs ˈfʊl·nəs,0,0
-fulltime,,0,0
+fulltime,,0,1
 fully," ˈfʊli ˈfʊli ˈfʊl·i, -li ˈfʊl·i, -li",0,0
 fulminate, ˈfʊlməneɪt,0,0
 fulsome, ˈfʊlsəm,0,0
@@ -187,19 +187,19 @@ fungicide, ˈfʌndʒɪsaɪd,0,0
 fungicides, ˈfʌndʒɪsaɪd,1,0
 fungus, ˈfʌŋɡəs ˈfʌŋ·ɡəs,0,0
 funk, fʌŋk fʌŋk fʌŋk,0,0
-funks,,0,0
+funks,,0,1
 funky, ˈfʌŋki ˈfʌŋki ˈfʌŋki ˈfʌŋ·ki ˈfʌŋ·ki,0,0
 funnel, ˈfʌnəl ˈfʌnəl ˈfʌnəl ˈfʌn·əl,0,0
 funneled, ˈfʌnəl ˈfʌnəl ˈfʌnəl ˈfʌn·əl,1,0
 funneling, ˈfʌnəl ˈfʌnəl ˈfʌnəl ˈfʌn·əl,1,0
 funnels, ˈfʌnəl ˈfʌnəl ˈfʌnəl ˈfʌn·əl,1,0
-funnest,,0,0
+funnest,,0,1
 funnier, ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌn·i ˈfʌn·i ˈfʌn·i,1,0
 funniest, ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌn·i ˈfʌn·i ˈfʌn·i,1,0
 funny, ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌni ˈfʌn·i ˈfʌn·i ˈfʌn·i,0,0
-funs,,0,0
+funs,,0,1
 fur, fɝː fɝː fɝː fɜr,0,0
-furbished,,0,0
+furbished,,0,1
 furious, ˈfʊriəs ˈfʊriəs ˈfjʊər·i·əs ˈfjʊər·i·əs,0,0
 furiously, ˈfjʊriəsli ˈfjʊriəsli ˈfjʊr·i·əs·li ˈfjʊr·i·əs·li,0,0
 furlong, ˈfɝːlɑːŋ ˈfɜr·lɔŋ,0,0
@@ -218,7 +218,7 @@ furor," ˈfjʊrɔːr ˈfjʊr·ɔr, -oʊr, -ər",0,0
 furrier, ˈfɝːiɚ,0,0
 furriers, ˈfɝːiɚ,1,0
 furrow," ˈfɝːoʊ ˈfɜr·oʊ, ˈfʌr·oʊ",0,0
-furrowed, ˈfɝːoʊd,1,0
+furrowed,,0,1
 furry," ˈfɝːi ˈfɝːi ˈfɜr·i, ˈfʌr·i",0,0
 furs, fɝː fɝː fɝː fɜr,1,0
 further, ˈfɝːðɚ ˈfɜr·ðər ˈfɜr·ðər,0,0
@@ -253,22 +253,22 @@ futuristic, ˌfjuːtʃəˈrɪstɪk ˌfju·tʃəˈrɪs·tɪk,0,0
 fuzz, fʌz fʌz fʌz,0,0
 fuzzier, ˈfʌzi ˈfʌzi ˈfʌzi ˈfʌzi ˈfʌz·i ˈfʌz·i,1,0
 fuzzy, ˈfʌzi ˈfʌzi ˈfʌzi ˈfʌzi ˈfʌz·i ˈfʌz·i,0,0
-g, dʒiː dʒiː dʒi dʒi,1,0
+g, dʒiː dʒiː,0,1
 ga,,1,0
 gab, ɡæb ɡæb,1,0
 gabardine, ˈɡæbɚdiːn ˈɡæbɚdiːn,0,0
 gabbing, ɡæb ɡæb,1,0
-gabbro,,0,0
+gabbro,,0,1
 gabby, ˈɡæbi,0,0
 gable, ˈɡeɪbəl ˈɡeɪ·bəl,0,0
-gabler,,0,0
+gabler,,0,1
 gables, ˈɡeɪbəl ˈɡeɪ·bəl,1,0
 gabon, ɡæbˈoʊn,1,0
-gabriel,,0,0
-gaby,,0,0
+gabriel,,0,1
+gaby,,0,1
 gad, ɡæd,0,0
 gadding, ɡæd,1,0
-gaddis,,0,0
+gaddis,,0,1
 gadflies, ˈɡædflaɪ ˈɡædflaɪ,1,0
 gadfly, ˈɡædflaɪ ˈɡædflaɪ,0,0
 gadget, ˈɡædʒət ˈɡædʒ·t,1,0
@@ -285,8 +285,8 @@ gage, ɡeɪdʒ,1,0
 gagged,,1,0
 gaggle, ˈɡæɡəl ˈɡæɡəl ˈɡæɡəl ˈɡæɡ·əl,0,0
 gags, ɡæɡ ɡæɡ ɡæɡ ɡæɡ ɡæɡ ɡæɡ ɡæɡ,1,0
-gail,,0,0
-gaillard,,0,0
+gail,,0,1
+gaillard,,0,1
 gaily, ˈɡeɪli ˈɡeɪli ˈɡeɪli ˈɡeɪ·li,0,0
 gain, ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn,1,0
 gained, ɡeɪn ɡeɪn ɡeɪn,1,0
@@ -301,28 +301,28 @@ gait, ɡeɪt ɡeɪt ɡeɪt,0,0
 gal, ɡæl ɡæl ɡæl,1,0
 gala," ˈɡeɪlə ˈɡeɪlə ˈɡeɪ·lə, ˈɡæl·ə",0,0
 galactic, ɡəˈlæktɪk,0,0
-galahad,,0,0
+galahad,,0,1
 galas," ˈɡeɪlə ˈɡeɪlə ˈɡeɪlə ˈɡeɪ·lə, ˈɡæl·ə",1,0
-galatea,,0,0
+galatea,,0,1
 galaxies, ˈɡæləksi ˈɡæləksi ˈɡæləksi ˈɡæl·ək·si ˈɡæl·ək·si,1,0
 galaxy, ˈɡæləksi ˈɡæl·ək·si ˈɡæl·ək·si,0,0
 gale, ɡeɪl ɡeɪl,0,0
-galea,,0,0
-galen,,0,0
-galena,,0,0
+galea,,0,1
+galen,,0,1
+galena,,0,1
 gales, ɡeɪl ɡeɪl,1,0
-gali,,0,0
-galilean,,0,0
-galilee,,0,0
-galileo,,0,0
+gali,,0,1
+galilean,,0,1
+galilee,,0,1
+galileo,,0,1
 gall, ɡɑːl ɡɑːl ɡɔl,0,0
 gallant," ˈɡælənt ˈɡælənt ˈɡæl·ənt ɡəˈlɑnt, -ˈlænt, ˈɡæl·ənt",0,0
 gallantly, ɡəˈlæntli ɡəˈlæntli,0,0
 gallantry, ˈɡæləntri ˈɡæləntri,0,0
-gallbladder, ˈɡɑːl ˌblædɚ ˈɡɔl ˌblæd·ər,1,0
+gallbladder,,0,1
 galleon, ˈɡæliən,0,0
 galleons, ˈɡæliən,1,0
-galler,,0,0
+galler,,0,1
 galleria,,1,0
 galleries, ˈɡælɚi ˈɡælɚi ˈɡælɚi ˈɡæl·ə·ri ˈɡæl·ə·ri,1,0
 gallery, ˈɡælɚi ˈɡælɚi ˈɡælɚi ˈɡæl·ə·ri ˈɡæl·ə·ri,0,0
@@ -335,24 +335,24 @@ gallons, ˈɡælən ˈɡælən ˈɡæl·ən,1,0
 gallop, ˈɡæləp ˈɡæləp ˈɡæl·əp,0,0
 galloped, ˈɡæləp ˈɡæləp,1,0
 galloping, ˈɡæləpɪŋ ˈɡæl·ə·pɪŋ,1,0
-gallow,,0,0
+gallow,,0,1
 galloway, ˈɡæləweɪ ˈɡæləweɪ,1,0
 gallows, ˈɡæloʊz ˈɡæl·oʊz,0,0
 galls, ɡɑːl ɡɑːl ɡɔl,1,0
 gallstone, ˈɡɑːlstoʊn,0,0
 gallstones, ˈɡɑːlstoʊn,1,0
-gallup, ˈɡæləp ˌpoʊl,1,0
+gallup,,0,1
 galore," ɡəˈlɔːr ɡəˈlɔr, -ˈloʊr",0,0
-galosh,,0,0
+galosh,,0,1
 galoshes, ɡəˈlɑːʃɪz ɡəˈlɑʃ·əz,0,0
 gals, ɡæl ɡæl ɡæl,1,0
-galt,,0,0
+galt,,0,1
 galvanic, ɡælˈvænɪk ɡælˈvænɪk,0,0
 galvanize, ˈɡælvənaɪz ˈɡæl·vəˌnɑɪz,0,0
 galvanized, ˈɡælvənaɪzd,0,0
 galvanizing, ˈɡælvənaɪz,1,0
-gamba,,0,0
-gambia, ˈɡæmbiə,1,0
+gamba,,0,1
+gambia,,0,1
 gambit, ˈɡæmbɪt ˈɡæmbɪt ˈɡæmbɪt ˈɡæm·bɪt,0,0
 gambits, ˈɡæmbɪt ˈɡæmbɪt ˈɡæmbɪt ˈɡæm·bɪt,1,0
 gamble, ˈɡæmbəl ˈɡæmbəl ˈɡæm·bəl ˈɡæm·bəl,1,0
@@ -361,9 +361,9 @@ gambler, ˈɡæmblɚ ˈɡæm·blər ˈɡæm·blər,0,0
 gamblers, ˈɡæmblɚ ˈɡæm·blər ˈɡæm·blər,1,0
 gambles, ˈɡæmbəl ˈɡæmbəl ˈɡæm·bəl ˈɡæm·bəl,1,0
 gambling, ˈɡæmblɪŋ,1,0
-gambone,,0,0
+gambone,,0,1
 game, ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm ɡeɪm,1,0
-gamecocks,,0,0
+gamecocks,,0,1
 gamekeeper, ˈɡeɪmˌkiːpɚ,0,0
 gamely, ˈɡeɪmli,0,0
 gamer, ˈɡeɪmɚ ˈɡeɪmɚ,0,0
@@ -374,34 +374,34 @@ gaming, ˈɡeɪmɪŋ ˈɡeɪmɪŋ ˈɡeɪ·mɪŋ ˈɡeɪ·mɪŋ,1,0
 gamma, ˈɡæmə ˈɡæmə,0,0
 gammon, ˈɡæmən ˈɡæmən,0,0
 gamut, ˈɡæmət ˈɡæmət ˈɡæm·ət,0,0
-gan,,0,0
+gan,,0,1
 gander, ˈɡændɚ ˈɡæn·dər ˈɡæn·dər,0,0
 ganders, ˈɡændɚ ˈɡændɚ ˈɡæn·dər ˈɡæn·dər,1,0
-gandhi,,0,0
+gandhi,,0,1
 gang, ɡæŋ ɡæŋ ɡæŋ ɡæŋ ɡæŋ ɡæŋ,0,0
-gangbuster,,0,0
-gangbusters, ˈɡæŋbʌstɚz,1,0
-gange,,0,0
-ganger,,0,0
-ganges, ˈɡændʒiːz,1,0
+gangbuster,,0,1
+gangbusters,,0,1
+gange,,0,1
+ganger,,0,1
+ganges,,0,1
 ganging, ˈpresɡæŋ,1,0
 ganglia,,1,0
 gangly, ˈɡæŋɡli ˈɡæŋ·ɡli,0,0
 gangplank, ˈɡæŋplæŋk ˈɡæŋˌplæŋk,0,0
 gangrene," ɡæŋˈɡriːn ˈɡæŋ·ɡrin, ɡæŋˈɡrin",0,0
 gangs, ɡæŋ ɡæŋ ɡæŋ ɡæŋ ɡæŋ ɡæŋ,1,0
-gangsta, ˈɡæŋstɚ ˌræp,1,0
+gangsta,,0,1
 gangster, ˈɡæŋstɚ ˈɡæŋ·stər,0,0
 gangsters, ˈɡæŋstɚ ˈɡæŋ·stər,1,0
-gant,,0,0
+gant,,0,1
 gantry, ˈɡæntri,0,0
-ganymede,,0,0
+ganymede,,0,1
 gap, ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp,1,0
 gape, ɡeɪp ɡeɪp ɡeɪp,0,0
 gaping, ˈɡeɪpɪŋ ˈɡeɪ·pɪŋ,0,0
 gaps, ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp ɡæp,1,0
 gar, ɡɑːr,0,0
-gara,,0,0
+gara,,0,1
 garage," ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑʒ, -ˈrɑdʒ ɡəˈrɑʒ, -ˈrɑdʒ",0,0
 garages," ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑːʒ ɡəˈrɑʒ, -ˈrɑdʒ ɡəˈrɑʒ, -ˈrɑdʒ",1,0
 garb, ɡɑːrb ɡɑrb,0,0
@@ -409,9 +409,9 @@ garbage, ˈɡɑːrbɪdʒ ˈɡɑːrbɪdʒ ˈɡɑr·bɪdʒ ˈɡɑr·bɪdʒ,0,0
 garbled, ˈɡɑːrbəld ˈɡɑr·bəld,0,0
 garbles, ˈɡɑːrbəl,1,0
 garbling, ˈɡɑːrbəl,1,0
-garbo,,0,0
-gard,,0,0
-garde," ˌævɑ̃ːˈɡɑːrd ˌævɑ̃ːˈɡɑːrd ˌɑvˌɑntˈɡɑrd, ˌævˌɔ̃ˈɡɑrd",1,0
+garbo,,0,1
+gard,,0,1
+garde,,0,1
 garden, ˈɡɑːrdən ˈɡɑːrdən ˈɡɑːrdən ˈɡɑr·dən ˈɡɑr·dən,0,0
 gardened, ˈɡɑːrdən ˈɡɑːrdən ˈɡɑːrdən ˈɡɑr·dən ˈɡɑr·dən,1,0
 gardener," ˈɡɑːrdənɚ ˈɡɑrd·nər, ˈɡɑr·dən·ər",0,0
@@ -420,43 +420,43 @@ gardenia, ɡɑːrˈdiːniə ɡɑrˈdin·jə,0,0
 gardenias, ɡɑːrˈdiːniə ɡɑrˈdin·jə,1,0
 gardening," ˈɡɑːrdənɪŋ ˈɡɑrd·nɪŋ, ˈɡɑr·dən·ɪŋ",0,0
 gardens, ˈɡɑːrdən ˈɡɑːrdən ˈɡɑːrdən ˈɡɑr·dən ˈɡɑr·dən,1,0
-gare,,0,0
-gareth,,0,0
-garfield,,0,0
+gare,,0,1
+gareth,,0,1
+garfield,,0,1
 gargantuan, ɡɑːrˈɡæntʃuən ɡɑrˈɡæn·tʃu·ən,0,0
 gargoyle, ˈɡɑːrɡɔɪl ˈɡɑr·ɡɔɪl,0,0
 gargoyles, ˈɡɑːrɡɔɪl ˈɡɑr·ɡɔɪl,1,0
-garibaldi,,0,0
+garibaldi,,0,1
 garish," ˈɡerɪʃ ˈɡær·ɪʃ, ˈɡeər-",0,0
 garland, ˈɡɑːrlənd ˈɡɑr·lənd,0,0
 garlic, ˈɡɑːrlɪk ˈɡɑr·lɪk,0,0
 garlicky, ˈɡɑːrlɪki,0,0
 garment, ˈɡɑːrmənt ˈɡɑr·mənt,0,0
 garments, ˈɡɑːrmənt ˈɡɑr·mənt,1,0
-garn,,0,0
+garn,,0,1
 garner, ˈɡɑːrnɚ ˈɡɑr·nər,0,0
 garnered, ˈɡɑːrnɚ,1,0
 garnet, ˈɡɑːrnət ˈɡɑr·nət,0,0
-garnett,,0,0
+garnett,,0,1
 garnish, ˈɡɑːrnɪʃ ˈɡɑːrnɪʃ ˈɡɑr·nɪʃ,1,0
 garnished, ˈɡɑːrnɪʃ ˈɡɑːrnɪʃ,1,0
 garnishment, ˈɡɑːrnɪʃmənt,0,0
-garon,,0,0
+garon,,0,1
 garret, ˈɡerət ˈɡær·ət,0,0
 garrets, ˈɡerət ˈɡær·ət,1,0
-garrick,,0,0
+garrick,,0,1
 garrison, ˈɡerəsən ˈɡær·ə·sən,0,0
 garrisoned, ˈɡerɪsən,1,0
 garrulous," ˈɡerələs ˈɡær·ə·ləs, ˈɡær·jə-",0,0
-garston,,0,0
-garten,,0,0
+garston,,0,1
+garten,,0,1
 garter, ˈɡɑːrt̬ɚ ˈɡɑːrt̬ɚ ˈɡɑrt̬·ər,0,0
 garters, ˈɡɑːrt̬ɚ ˈɡɑːrt̬ɚ ˈɡɑrt̬·ər,1,0
-garth,,0,0
-garvey,,0,0
-gary,,0,0
+garth,,0,1
+garvey,,0,1
+gary,,0,1
 gas, ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs,1,0
-gascon,,0,0
+gascon,,0,1
 gaseous," ˈɡæsiəs ˈɡæs·i·əs, ˈɡæʃ·əs",0,0
 gases, ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs,1,0
 gash, ɡæʃ ɡæʃ,0,0
@@ -465,7 +465,7 @@ gashes, ɡæʃ ɡæʃ,1,0
 gasification, ˌɡæsəfəˈkeɪʃən,0,0
 gasket, ˈɡæskɪt ˈɡæs·kət,0,0
 gaskets, ˈɡæskɪt ˈɡæs·kət,1,0
-gaskin,,0,0
+gaskin,,0,1
 gaslight, ˈɡæslaɪt,0,0
 gasoline," ˈɡæsəliːn ˈɡæs·əˌlin, ˌɡæs·əˈlin",1,0
 gasp, ɡæsp ɡæsp ɡæsp,0,0
@@ -473,10 +473,10 @@ gasped, ɡæsp ɡæsp,1,0
 gasping, ɡæsp ɡæsp,1,0
 gasps, ɡæsp ɡæsp ɡæsp,1,0
 gassed,,1,0
-gasser,,0,0
+gasser,,0,1
 gasses, ˈɡæsɪz,0,0
 gassing,,1,0
-gast,,0,0
+gast,,0,1
 gastric, ˈɡæstrɪk ˈɡæs·trɪk,0,0
 gastritis, ɡæsˈtraɪt̬əs,0,0
 gastrointestinal, ˌɡæstroʊɪnˈtestənəl,0,0

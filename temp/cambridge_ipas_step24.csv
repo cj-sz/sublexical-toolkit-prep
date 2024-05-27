@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
 deer, dɪr dɪər,0,0
-deerskin,,0,0
-dees,,0,0
+deerskin,,0,1
+dees,,0,1
 deface, dɪˈfeɪs dɪˈfeɪs,0,0
 defaced, dɪˈfeɪs,1,0
 defacing, dɪˈfeɪs,1,0
@@ -82,8 +82,8 @@ deflect, dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt,0,0
 deflected, dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt,1,0
 deflecting, dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt,1,0
 deflection, dɪˈflekʃən dɪˈflekʃən dɪˈflekʃən,0,0
-deflector,,0,0
-deflectors,,0,0
+deflector,,0,1
+deflectors,,0,1
 deflects, dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt dɪˈflekt,1,0
 defoliant, ˌdiːˈfoʊliənt,0,0
 defoliants, ˌdiːˈfoʊliənt,1,0
@@ -108,7 +108,7 @@ defused, ˌdiːˈfjuːz ˌdiːˈfjuːz,1,0
 defusing, ˌdiːˈfjuːz ˌdiːˈfjuːz,1,0
 defy, dɪˈfaɪ dɪˈfɑɪ,0,0
 defying, dɪˈfaɪ dɪˈfaɪ dɪˈfaɪ,1,0
-degas,,0,0
+degas,,0,1
 degeneracy, dɪˈdʒenərəsi,0,0
 degenerate, dɪˈdʒenəreɪt dɪˈdʒen·əˌreɪt,0,0
 degenerated, dɪˈdʒenəreɪt,1,0
@@ -118,32 +118,32 @@ degeneration," dɪˌdʒenəˈreɪʃən dɪˌdʒen·əˈreɪ·ʃən, ˌdi-",0,0
 degenerative, dɪˈdʒenərət̬ɪv,0,0
 degradable, dɪˈɡreɪdəbəl dɪˈɡreɪ·də·bəl,0,0
 degradation, ˌdeɡrəˈdeɪʃən ˌdeɡrəˈdeɪʃən ˌdeɡ·rəˈdeɪ·ʃən,0,0
-degradations,,0,0
+degradations,,0,1
 degrade, dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd,1,0
 degraded, dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd,1,0
 degrades, dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd dɪˈɡreɪd,1,0
 degrading, dɪˈɡreɪdɪŋ dɪˈɡreɪ·dɪŋ,0,0
 degree, dɪˈɡriː dɪˈɡriː dɪˈɡriː dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri,0,0
-degreed,,0,0
+degreed,,0,1
 degrees, dɪˈɡriː dɪˈɡriː dɪˈɡriː  -dɪɡriː dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri dɪˈɡri,1,0
-dehumanization,,0,0
+dehumanization,,0,1
 dehumanizing, ˌdiːˈhjuːmənaɪz,1,0
 dehydrate, ˌdiːhaɪˈdreɪt ˌdiˈhɑɪ·dreɪt,0,0
 dehydrated, ˌdiːhaɪˈdreɪt̬ɪd,0,0
 dehydration, ˌdiːhaɪˈdreɪʃən,0,0
 deified, ˈdiːɪfaɪ ˈdiːɪfaɪ,1,0
 deify, ˈdiːɪfaɪ ˈdiːɪfaɪ,0,0
-deign, deɪn deɪn,1,0
-deigned, deɪn deɪn,1,0
-deigning, deɪn deɪn,1,0
-deigns, deɪn deɪn,1,0
+deign, deɪn,0,1
+deigned,,0,1
+deigning,,0,1
+deigns,,0,1
 deinstitutionalization, ˌdiːɪnstɪˌtuːʃənələˈzeɪʃən,0,0
 deities," ˈdiːət̬i ˈdiːət̬i ˈdi·ɪ·t̬i, ˈdeɪ- ˈdi·ɪ·t̬i, ˈdeɪ-",1,0
 deity," ˈdiːət̬i ˈdi·ɪ·t̬i, ˈdeɪ- ˈdi·ɪ·t̬i, ˈdeɪ-",0,0
-deja, ˌdeɪʒɑː ˈvuː ˌdeɪ·ʒɑˈvu,1,0
-deject,,0,0
+deja,,0,1
+deject,,0,1
 dejected, dɪˈdʒektɪd dɪˈdʒek·tɪd,0,0
-dekle,,0,0
+dekle,,0,1
 del,,1,0
 delaware, ˈdeləwer,1,0
 delay, dɪˈleɪ dɪˈleɪ dɪˈleɪ dɪˈleɪ,0,0
@@ -162,8 +162,8 @@ deleted, dɪˈliːt,1,0
 deleterious, ˌdelɪˈtɪriəs,0,0
 deleting, dɪˈliːt,1,0
 deletion, dɪˈliːʃən dɪˈli·ʃən dɪˈli·ʃən,1,0
-delft,,0,0
-delftware,,0,0
+delft,,0,1
+delftware,,0,1
 delhi, ˈdeli,1,0
 deli, ˈdeli ˈdel·i,0,0
 deliberate, dɪˈlɪbɚət dɪˈlɪbɚət dɪˈlɪb·ər·ət dɪˈlɪb·ər·ət,0,0
@@ -187,8 +187,8 @@ delightful, dɪˈlaɪtfəl dɪˈlɑɪt·fəl,0,0
 delightfully, dɪˈlaɪtfəli,0,0
 delighting, dɪˈlaɪt,1,0
 delights, dɪˈlaɪt dɪˈlaɪt dɪˈlaɪt dɪˈlɑɪt,1,0
-delilah,,0,0
-deline,,0,0
+delilah,,0,1
+deline,,0,1
 delineate, dɪˈlɪnieɪt dɪˈlɪn·iˌeɪt dɪˈlɪn·iˌeɪt,0,0
 delineated, dɪˈlɪnieɪt,1,0
 delineating, dɪˈlɪnieɪt,1,0
@@ -210,10 +210,10 @@ delivering, dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ,1,0
 delivers, dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪvɚ dɪˈlɪv·ər dɪˈlɪv·ər dɪˈlɪv·ər dɪˈlɪv·ər,1,0
 delivery, dɪˈlɪvɚi dɪˈlɪvɚi dɪˈlɪvɚi dɪˈlɪvɚi dɪˈlɪvɚi dɪˈlɪvɚi dɪˈlɪv·ə·ri dɪˈlɪv·ə·ri dɪˈlɪv·ə·ri,1,0
 dell, del,0,0
-della,,0,0
+della,,0,1
 delouse, ˌdiːˈlaʊs,0,0
 deloused, ˌdiːˈlaʊs,1,0
-delphine,,0,0
+delphine,,0,1
 delta, ˈdelt̬ə ˈdelt̬ə ˈdel·tə,1,0
 deltas, ˈdelt̬ə ˈdelt̬ə ˈdel·tə,1,0
 delude, dɪˈluːd dɪˈlud,0,0
@@ -232,7 +232,7 @@ delving, delv delv,1,0
 demagogue, ˈdeməɡɑːɡ ˈdem·əˌɡɑɡ,0,0
 demagoguery, ˌdeməˈɡɑːɡɚi,0,0
 demagogues, ˈdeməɡɑːɡ ˈdem·əˌɡɑɡ,1,0
-demain,,0,0
+demain,,0,1
 demand, dɪˈmænd dɪˈmænd dɪˈmænd dɪˈmænd,1,0
 demanded, dɪˈmænd dɪˈmænd,1,0
 demanding, dɪˈmændɪŋ dɪˈmæn·dɪŋ,0,0
@@ -244,7 +244,7 @@ demeaning, dɪˈmiːnɪŋ,0,0
 demeanor, dɪˈmi·nər,1,0
 demeanors, dɪˈmi·nər,1,0
 demeans, dɪˈmiːn dɪˈmin,1,0
-dement,,0,0
+dement,,0,1
 demented, dɪˈment̬ɪd dɪˈment̬ɪd dɪˈment·ɪd,0,0
 dementia, dɪˈmenʃə dɪˈmen·ʃə,0,0
 demerit, ˌdiːˈmerɪt ˌdiːˈmerɪt,0,0
@@ -252,7 +252,7 @@ demerits, ˌdiːˈmerɪt ˌdiːˈmerɪt,1,0
 demeter, dɪˈmiːt̬ɚ,1,0
 demi, ˈdemi-,1,0
 demilitarized, ˌdiːˈmɪlət̬ɚaɪz,1,0
-demise, dɪˈmaɪz dɪˈmɑɪz dɪˈmɑɪz,1,0
+demise, dɪˈmaɪz dɪˈmɑɪz dɪˈmɑɪz,0,1
 demo, ˈdemoʊ ˈdemoʊ ˈdemoʊ ˈdem·oʊ,1,0
 demobilization, diːˌmoʊbələˈzeɪʃən,0,0
 demobilized, ˌdiːˈmoʊbəlaɪz,1,0
@@ -303,7 +303,7 @@ demurring, dɪˈmɝː dɪˈmɜr,1,0
 demurs, dɪˈmɝː dɪˈmɜr,1,0
 demystify, ˌdiːˈmɪstəfaɪ,0,0
 den, den den den den den den,0,0
-denarii,,0,0
+denarii,,0,1
 denatured, diːˈneɪtʃɚ,1,0
 dengue, ˈdeŋɡeɪ,0,0
 deniability, dɪˌnaɪəˈbɪlət̬i,0,0
@@ -318,9 +318,9 @@ denim, ˈdenɪm ˈden·əm,0,0
 denizen, ˈdenəzən,0,0
 denizens, ˈdenəzən,1,0
 denmark, ˈdenmɑːrk,1,0
-denning,,0,0
-dennis,,0,0
-denominated,,1,0
+denning,,0,1
+dennis,,0,1
+denominated,,0,1
 denomination, dɪˌnɑːməˈneɪʃən dɪˌnɑːməˈneɪʃən dɪˌnɑːməˈneɪʃən dɪˌnɑm·əˈneɪ·ʃən dɪˌnɑm·əˈneɪ·ʃən,1,0
 denominational, dɪˌnɑːməˈneɪʃənəl,0,0
 denominations, dɪˌnɑːməˈneɪʃən dɪˌnɑːməˈneɪʃən dɪˌnɑːməˈneɪʃən dɪˌnɑm·əˈneɪ·ʃən dɪˌnɑm·əˈneɪ·ʃən,1,0
@@ -340,7 +340,7 @@ densely, ˈdensli,0,0
 denser, dens dens dens dens dens dens,1,0
 densest, dens dens dens dens dens dens,1,0
 densities, ˈdensət̬i ˈdensət̬i ˈden·sɪ·t̬i ˈden·sɪ·t̬i,1,0
-densitometer,,0,0
+densitometer,,0,1
 density, ˈdensət̬i ˈdensət̬i ˈden·sɪ·t̬i ˈden·sɪ·t̬i,0,0
 dent, dent dent,0,0
 dental, ˈdent̬əl ˈden·təl,0,0
@@ -362,9 +362,9 @@ deny, dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ dɪˈnɑɪ dɪˈnɑɪ dɪˈnɑɪ,0
 denying, dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ dɪˈnaɪ,1,0
 deodorant, diˈoʊdɚənt diˈoʊ·də·rənt,0,0
 deodorants, diˈoʊdɚənt diˈoʊ·də·rənt,1,0
-deoxyribonucleic," diˌɑːksiˌraɪboʊnuːˌkleɪɪk ˈæsɪd diˌɑk·siˌrɑɪ·boʊ·nuˌkli·ɪk ˈæs·ɪd, -ˌkleɪ·ɪk",1,0
+deoxyribonucleic,,0,1
 dep,,1,0
-depardieu,,0,0
+depardieu,,0,1
 depart, dɪˈpɑːrt dɪˈpɑrt dɪˈpɑrt,0,0
 departed, dɪˈpɑːrt̬ɪd dɪˈpɑːrt̬ɪd,0,0
 departing, dɪˈpɑːrt,1,0
@@ -406,7 +406,7 @@ deployable, dɪˈplɔɪəbəl,0,0
 deployed, dɪˈplɔɪ dɪˈplɔɪ,1,0
 deploying, dɪˈplɔɪ dɪˈplɔɪ,1,0
 deployment, dɪˈplɔɪmənt dɪˈplɔɪmənt dɪˈplɔɪmənt,0,0
-deployments,,0,0
+deployments,,0,1
 deploys, dɪˈplɔɪ dɪˈplɔɪ dɪˈplɔɪ dɪˈplɔɪ,1,0
 depopulate, ˌdiːˈpɑːpjəleɪt,0,0
 depopulation, diːˌpɑːpjəˈleɪʃən,0,0
@@ -429,7 +429,7 @@ depository, dɪˈpɑːzətɔːri -ˈpɑːzətɔːr- -ˈpɑːzətɔːr-,0,0
 deposits, dɪˈpɑːzɪt dɪˈpɑːzɪt dɪˈpɑːzɪt dɪˈpɑz·ɪt dɪˈpɑz·ɪt dɪˈpɑz·ɪt dɪˈpɑz·ɪt dɪˈpɑz·ɪt,1,0
 depot," ˈdiːpoʊ ˈdiːpoʊ ˈdep·oʊ, ˈdi·poʊ ˈdep·oʊ, ˈdi·poʊ",1,0
 depots," ˈdiːpoʊ ˈdiːpoʊ ˈdep·oʊ, ˈdi·poʊ ˈdep·oʊ, ˈdi·poʊ",1,0
-depravation,,0,0
+depravation,,0,1
 deprave, dɪˈpreɪv,0,0
 depraved, dɪˈpreɪvd,0,0
 depravity, dɪˈprævət̬i,0,0
@@ -460,15 +460,15 @@ deprive, dɪˈpraɪv,0,0
 deprived, dɪˈpraɪvd dɪˈprɑɪvd,0,0
 deprives, dɪˈpraɪv,1,0
 depriving, dɪˈpraɪv,1,0
-deprogram,,0,0
-deprogramming,,0,0
+deprogram,,0,1
+deprogramming,,0,1
 depth, depθ depθ depθ depθ depθ depθ depθ depθ depθ depθ depθ,0,0
-depths,,1,0
+depths,,0,1
 deputies, ˈdepjət̬i ˈdep·jə·t̬i,1,0
 deputize, ˈdepjətaɪz ˈdepjətaɪz ˈdepjutaɪz ˈdepjutaɪz,0,0
 deputized, ˈdepjətaɪz,1,0
 deputy, ˈdepjət̬i ˈdep·jə·t̬i,1,0
-der,,0,0
+der,,0,1
 derail," ˌdiːˈreɪl ˌdiːˈreɪl dɪˈreɪl, di-",1,0
 derailed, ˌdiːˈreɪl ˌdiːˈreɪl,1,0
 derailing, ˌdiːˈreɪl ˌdiːˈreɪl,1,0

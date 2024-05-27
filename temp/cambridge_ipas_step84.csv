@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
 soon, suːn sun,0,0
 sooner, suːn suːn suːn sun,1,0
-sooners,,0,0
+sooners,,0,1
 soonest, suːn suːn suːn sun,1,0
 soot, sʊt sʊt,0,0
 soothe, suːð suːð suð,0,0
@@ -13,16 +13,16 @@ soothsayer, ˈsuːθˌseɪɚ,0,0
 soothsayers, ˈsuːθˌseɪɚ,1,0
 sooty, ˈsʊt̬i ˈsʊt̬i,0,0
 sop, sɑːp sɑp,1,0
-sophia,,0,0
+sophia,,0,1
 sophisticate, səˈfɪstəkət,0,0
 sophisticated, səˈfɪstəkeɪt̬ɪd səˈfɪstəkeɪt̬ɪd səˈfɪs·tɪˌkeɪ·t̬ɪd səˈfɪs·tɪˌkeɪ·t̬ɪd,0,0
 sophisticates, səˈfɪstəkət,1,0
 sophistication, səˌfɪstəˈkeɪʃən səˌfɪs·tɪˈkeɪ·ʃən səˌfɪs·tɪˈkeɪ·ʃən,0,0
-sophocles,,0,0
+sophocles,,0,1
 sophomore," ˈsɑːfəmɔːr ˈsɑfˌə·mɔr, -ˌmoʊr",0,0
 sophomores," ˈsɑːfəmɔːr ˈsɑfˌə·mɔr, -ˌmoʊr",1,0
 sophomoric," ˌsɑːfəˈmɔːrɪk sɑfˈə·mɔr·ɪk, -ˈmoʊr-",0,0
-sophy,,0,0
+sophy,,0,1
 sopping, ˈsɑːpɪŋ ˈsɑp·ɪŋ,0,0
 soprano," səˈprænoʊ səˈprænoʊ səˈpræn·oʊ, -ˈprɑ·noʊ-",0,0
 sopranos," səˈprænoʊ səˈprænoʊ səˈpræn·oʊ, -ˈprɑ·noʊ-",1,0
@@ -45,7 +45,7 @@ sorrows," ˈsɔːroʊ ˈsɑr·oʊ, ˈsɔr-",1,0
 sorry," ˈsɔːri ˈsɔːri ˈsɑr·i, ˈsɔr·i ˈsɑr·i, ˈsɔr·i ˈsɑr·i, ˈsɔr·i ˈsɑr·i, ˈsɔr·i ˈsɑr·i, ˈsɔr·i",0,0
 sort, sɔːrt sɔːrt sɔrt sɔrt,1,0
 sorted, ˈsɔːrt̬ɪd,0,0
-sorter, ˈsɔːrt̬ɚ ˈsɔːrt̬ɚ,1,0
+sorter,,0,1
 sortie, ˈsɔːrt̬i ˈsɔːrt̬i ˈsɔːrt̬i,0,0
 sorties, ˈsɔːrt̬i ˈsɔːrt̬i ˈsɔːrt̬i,1,0
 sorting, sɔːrt sɔːrt,1,0
@@ -82,21 +82,21 @@ sourcing,,1,0
 soured, saʊr saʊr,1,0
 souring, saʊr saʊr,1,0
 sours, saʊr saʊr sɑʊər sɑʊər,1,0
-sous, ˈsuː ˌʃef,1,0
+sous,,0,1
 sousaphone, ˈsuːzəfoʊn,0,0
-souter,,0,0
+souter,,0,1
 south, saʊθ sɑʊθ sɑʊθ sɑʊθ,0,0
 southbound, ˈsaʊθbaʊnd,0,0
-southdown,,0,0
+southdown,,0,1
 southeast, ˌsaʊθˈiːst ˌsɑʊθˈist,0,0
 southeastern, ˌsaʊθˈiːstɚn,0,0
-souther,,0,0
+souther,,0,1
 southerly, ˈsʌðɚli,0,0
 southern, ˈsʌðɚn,0,0
 southerner, ˈsʌðɚnɚ ˈsʌð·ər·nər,0,0
 southerners, ˈsʌðɚnɚ ˈsʌð·ər·nər,1,0
 southernmost, ˈsʌðɚnmoʊst,0,0
-southland,,0,0
+southland,,0,1
 southward, ˈsaʊθwɚd ˈsɑʊθ·wərd,0,0
 southwest, ˌsaʊθˈwest ˌsɑʊθˈwest,0,0
 southwestern, ˌsaʊθˈwestɚn,0,0
@@ -106,7 +106,7 @@ sovereign," ˈsɑːvrən ˈsɑːvrən ˈsɑv·rən, ˈsɑv·ər·ən",1,0
 sovereigns," ˈsɑːvrən ˈsɑːvrən ˈsɑːvrən ˈsɑv·rən, ˈsɑv·ər·ən",1,0
 sovereignty," ˈsɑːvrəni ˈsɑv·rən·ti, ˈsɑv·ər·ən·ti",0,0
 soviet," ˈsoʊviət ˈsoʊ·viˌet, -vi·ɪt ˈsoʊ·viˌet, -vi·ɪt",0,0
-soviets,,1,0
+soviets,,0,1
 sow, soʊ soʊ soʊ,0,0
 sowed, soʊ soʊ soʊ,1,0
 sower, ˈsoʊɚ ˈsoʊɚ,0,0
@@ -122,9 +122,9 @@ spa, spɑː spɑː spɑ,1,0
 space, speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs,1,0
 spacecraft, ˈspeɪskræft speɪsˌkræft,0,0
 spaced, speɪs,1,0
-spaceport,,0,0
+spaceport,,0,1
 spacer, ˈspeɪsɚ ˈspeɪsɚ,0,0
-spacers,,0,0
+spacers,,0,1
 spaces, speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs speɪs,1,0
 spaceship, ˈspeɪsʃɪp,0,0
 spaceships, ˈspeɪskræft speɪsˌkræft,1,0
@@ -136,20 +136,20 @@ spacing, ˈspeɪsɪŋ ˈspeɪ·sɪŋ ˈspeɪ·sɪŋ,0,0
 spacious, ˈspeɪʃəs ˈspeɪ·ʃəs,0,0
 spackle, ˈspækəl,0,0
 spade, speɪd speɪd speɪd speɪd,0,0
-spader,,0,0
+spader,,0,1
 spades, speɪdz,1,0
 spadework, ˈspeɪdwɝːk,0,0
 spaghetti, spəˈɡet̬i spəˈɡet̬·i,0,0
 spain, speɪn,1,0
 spake, speɪk,0,0
-spalding,,0,0
-spall,,0,0
+spalding,,0,1
+spall,,0,1
 spam, spæm spæm,1,0
 span, spæn spæn spæn spæn spæn,0,0
 spandex, ˈspændeks,0,0
 spangle, ˈspæŋɡəl ˈspæŋ·ɡəl,0,0
 spangled, ˈspæŋɡəld,0,0
-spangler,,0,0
+spangler,,0,1
 spaniard, ˈspænjɚd,1,0
 spaniards, ˈspænjɚd,1,0
 spaniel, ˈspænjəl ˈspæn·jəl,0,0
@@ -157,8 +157,8 @@ spanish, ˈspænɪʃ ˈspænɪʃ,1,0
 spank, spæŋk spæŋk spæŋk,0,0
 spanked, spæŋk spæŋk,1,0
 spanking, ˈspæŋkɪŋ,0,0
-spanky,,0,0
-spann,,0,0
+spanky,,0,1
+spann,,0,1
 spanned,,1,0
 spanner, ˈspænɚ ˈspæn·ər,0,0
 spanning,,1,0
@@ -185,9 +185,9 @@ sparrow, ˈsperoʊ ˈspær·oʊ,0,0
 sparrows, ˈsperoʊ ˈspær·oʊ,1,0
 sparse, spɑːrs spɑrs,0,0
 sparsely, ˈspɑːrsli,0,0
-sparta,,0,0
+sparta,,0,1
 spartan, ˈspɑːrtən ˈspɑrt·ən,0,0
-spartans,,0,0
+spartans,,0,1
 spas, spɑː spɑː spɑ,1,0
 spasm, ˈspæzəm ˈspæz·əm,0,0
 spasmodic, spæzˈmɑːdɪk,0,0
@@ -220,7 +220,7 @@ spearhead, ˈspɪrhed ˈspɪər·hed,1,0
 spearheaded, ˈspɪrhed,1,0
 spearheading, ˈspɪrhed,1,0
 spearing, spɪr spɪr,1,0
-spearman,,0,0
+spearman,,0,1
 spears, spɪr spɪr spɪər,1,0
 spec, spek spek spek,0,0
 special, ˈspeʃəl ˈspeʃəl ˈspeʃəl ˈspeʃ·əl ˈspeʃ·əl ˈspeʃ·əl,1,0
@@ -262,11 +262,11 @@ spectacularly, spekˈtækjəlɚli spekˈtækjəlɚli spekˈtæk·jə·lər·li,0
 spectator, spekˈteɪt̬ɚ ˈspekˌteɪ·t̬ər,0,0
 spectators, spekˈteɪt̬ɚ ˈspekˌteɪ·t̬ər,1,0
 specter, ˈspektɚ ˈspek·tər ˈspek·tər,0,0
-spector,,0,0
+spector,,0,1
 spectra,,1,0
 spectral, ˈspektrəl ˈspektrəl,0,0
 spectre, ˈspektɚ,0,0
-spectrograph,,0,0
+spectrograph,,0,1
 spectrometer, spekˈtrɑːmət̬ɚ,0,0
 spectrometry, spekˈtrɑːmətri,0,0
 spectroscopy, spekˈtrɑːskəpi,0,0
@@ -291,16 +291,16 @@ speed, spiːd spiːd spiːd spiːd spiːd spiːd spid spid spid,1,0
 speedboat, ˈspiːdboʊt ˈspidˌboʊt,0,0
 speedboats, ˈspiːdboʊt ˈspidˌboʊt,1,0
 speeded, spiːd spiːd spiːd spiːd spiːd spiːd spiːd spiːd spiːd spid spid spid,1,0
-speeder,,0,0
-speeders,,0,0
+speeder,,0,1
+speeders,,0,1
 speedily, ˈspiːdəli,0,0
 speeding, ˈspiːdɪŋ ˈspid·ɪŋ,0,0
 speedometer, spɪˈdɑːmət̬ɚ spɪˈdɑm·ɪ·t̬ər,0,0
 speeds, spiːd spiːd spiːd spiːd spiːd spiːd spiːd spiːd spiːd spid spid spid,1,0
-speedup,,0,0
+speedup,,0,1
 speedway, ˈspiːdweɪ,0,0
 speedy, ˈspiːdi ˈspi·di,0,0
-speer,,0,0
+speer,,0,1
 spell, spel spel spel spel,0,0
 spellbinding, ˈspelˌbaɪndɪŋ,0,0
 spellbound, ˈspelbaʊnd ˈspelˌbɑʊnd,0,0
@@ -310,20 +310,20 @@ spellers, ˈspelɚ ˈspelɚ ˈspelɚ,1,0
 spelling, ˈspelɪŋ ˈspelɪŋ ˈspel·ɪŋ,0,0
 spellings, ˈspelɪŋ ˈspelɪŋ ˈspel·ɪŋ,1,0
 spells, spel spel spel spel spel,1,0
-spelman,,0,0
+spelman,,0,1
 spelunking, spəˈlʌŋkɪŋ,0,0
-spence,,0,0
-spencer,,0,0
-spencers,,0,0
+spence,,0,1
+spencer,,0,1
+spencers,,0,1
 spend, spend spend spend spend spend spend,1,0
-spendable,,0,0
+spendable,,0,1
 spender, ˈspendɚ -dɚ,0,0
 spenders, ˈspendɚ -dɚ,1,0
 spending, ˈspendɪŋ ˈspen·dɪŋ,1,0
 spends, spend spend spend spend spend spend,1,0
 spendthrift, ˈspendθrɪft ˈspendˌθrɪft,1,0
 spent, spent spent spent,0,0
-sperling,,0,0
+sperling,,0,1
 sperm, spɝːm spɝːm spɜrm spɜrm,0,0
 sperms, spɝːm spɝːm spɜrm spɜrm,1,0
 spew, spjuː spju,0,0
@@ -337,33 +337,33 @@ sphinx, sfɪŋks sfɪŋks sfɪŋks sfɪŋks,0,0
 spic, spɪk,0,0
 spice, spaɪs spaɪs spaɪs spɑɪs spɑɪs,0,0
 spiced, spaɪs,1,0
-spicer,,0,0
+spicer,,0,1
 spices, spaɪs spaɪs spaɪs spɑɪs spɑɪs,1,0
-spicey,,0,0
+spicey,,0,1
 spicing, spaɪs,1,0
 spicy, ˈspaɪsi ˈspaɪsi ˈspɑɪ·si,0,0
 spider, ˈspaɪdɚ ˈspɑɪ·dər,0,0
-spiderman,,0,0
+spiderman,,0,1
 spiders, ˈspaɪdɚ ˈspɑɪ·dər,1,0
 spied, spaɪ spaɪ spaɪ,1,0
-spiegel,,0,0
+spiegel,,0,1
 spiel," ʃpiːl spil, ʃpil",0,0
-spieler,,0,0
+spieler,,0,1
 spies, spaɪ spaɪ spɑɪ,1,0
-spiffing, spɪf spɪf,1,0
+spiffing,,0,1
 spiffy, ˈspɪfi ˈspɪf·i,0,0
 spigot, ˈspɪɡət ˈspɪɡət ˈspɪɡ·ət,0,0
 spigots, ˈspɪɡət ˈspɪɡət ˈspɪɡ·ət,1,0
 spike, spaɪk spaɪk spɑɪk spɑɪk spɑɪk,1,0
 spiked, spaɪkt spaɪkt spaɪkt,0,0
-spiker,,0,0
+spiker,,0,1
 spikes,,1,0
 spiking, ˈspaɪkɪŋ ˈspaɪkɪŋ,0,0
 spiky, ˈspaɪki ˈspaɪki,0,0
 spill, spɪl spɪl,0,0
 spillage, ˈspɪlɪdʒ,0,0
 spilled, spɪl spɪl,1,0
-spiller,,0,0
+spiller,,0,1
 spilling, spɪl spɪl,1,0
 spillover, ˈspɪlˌoʊvɚ ˈspɪlˌoʊvɚ ˈspɪlˌoʊ·vər,0,0
 spills, spɪl spɪl,1,0
@@ -374,7 +374,7 @@ spina, ˈspaɪnə,0,0
 spinach, ˈspɪnɪtʃ ˈspɪn·ɪtʃ,0,0
 spinal, ˈspaɪnəl ˈspɑɪ·nəl,0,0
 spindle, ˈspɪndəl,0,0
-spindler,,0,0
+spindler,,0,1
 spine, spaɪn spaɪn spaɪn spɑɪn spɑɪn spɑɪn,0,0
 spineless, ˈspaɪnləs ˈspɑɪn·ləs,0,0
 spines, spaɪn spaɪn spaɪn spɑɪn spɑɪn spɑɪn,1,0
@@ -385,7 +385,7 @@ spinning, ˈspɪnɪŋ,1,0
 spins, spɪn spɪn spɪn spɪn spɪn spɪn spɪn,1,0
 spinster, ˈspɪnstɚ ˈspɪn·stər,0,0
 spiny, ˈspaɪni,0,0
-spira,,0,0
+spira,,0,1
 spiral, ˈspaɪrəl ˈspaɪrəl ˈspɑɪ·rəl,1,0
 spiraled, ˈspaɪrəl ˈspaɪrəl ˈspaɪrəl ˈspaɪrəl ˈspɑɪ·rəl,1,0
 spiraling, ˈspaɪrəl ˈspaɪrəl ˈspaɪrəl ˈspaɪrəl ˈspɑɪ·rəl,1,0
@@ -403,7 +403,7 @@ spiritualists, ˈspɪrətʃuəlɪst,1,0
 spirituality, ˌspɪrətʃuˈælət̬i,0,0
 spiritually, ˈspɪrətʃuəli,0,0
 spirituals, ˈspɪrətʃuəl ˈspɪr·ɪ·tʃu·əl,1,0
-spiro,,0,0
+spiro,,0,1
 spit, spɪt spɪt spɪt spɪt spɪt,0,0
 spitball, ˈspɪtbɑːl ˈspɪtbɑːl,0,0
 spite, spaɪt spɑɪt,0,0
@@ -412,7 +412,7 @@ spits, spɪt spɪt spɪt spɪt spɪt,1,0
 spitting,,1,0
 spittle, ˈspɪt̬əl,0,0
 spitz, spɪts,0,0
-spitzer,,0,0
+spitzer,,0,1
 splash, splæʃ splæʃ splæʃ splæʃ,0,0
 splashed, splæʃ splæʃ splæʃ,1,0
 splashes, splæʃ splæʃ splæʃ splæʃ,1,0
@@ -439,9 +439,9 @@ splintering, ˈsplɪnt̬ɚ,1,0
 splinters, ˈsplɪnt̬ɚ ˈsplɪn·tər,1,0
 splints, splɪnt splɪnt,1,0
 split, splɪt splɪt splɪt splɪt splɪt splɪt splɪt,1,0
-splits,,1,0
+splits,,0,1
 splitter, ˈsplɪtɚ ˈsplɪtɚ ˈsplɪtɚ,0,0
-splitting, ˈsplɪt̬ɪŋ ˈsplɪt̬·ɪŋ,1,0
+splitting, ˈsplɪt̬·ɪŋ,0,1
 splurge, splɝːdʒ ˈsplɜrdʒ,1,0
 splurged, splɝːdʒ,1,0
 splurging, splɝːdʒ,1,0
@@ -451,19 +451,19 @@ spoiler, ˈspɔɪlɚ ˈspɔɪlɚ ˈspɔɪlɚ,0,0
 spoilers, ˈspɔɪlɚ ˈspɔɪlɚ ˈspɔɪlɚ,1,0
 spoiling, spɔɪl spɔɪl spɔɪl spɔɪl spɔɪl spɔɪl spɔɪl spɔɪl,1,0
 spoils, spɔɪlz,1,0
-spokane,,0,0
+spokane,,0,1
 spoke, spoʊk spoʊk,0,0
 spoken, ˈspoʊkən ˈspoʊ·kən,0,0
 spokes, spoʊk spoʊk,1,0
 spokesman, ˈspoʊksmən ˈspoʊks·mən ˈspoʊks-,0,0
 spokesmen, ˈspoʊksmən ˈspoʊks·mən ˈspoʊks-,1,0
 spokesperson, ˈspoʊksˌpɝːsən ˈspoʊksˌpɜr·sən,1,0
-spokespersons,,0,0
+spokespersons,,0,1
 spokeswoman, ˈspoʊksˌwʊmən ˈspoʊksˌwʊm·ən,1,0
 sponge, spʌndʒ spʌndʒ spʌndʒ spʌndʒ,0,0
 sponged, spʌndʒ spʌndʒ,1,0
 sponges, spʌndʒ spʌndʒ spʌndʒ spʌndʒ,1,0
-spongiform,,0,0
+spongiform,,0,1
 spongy, ˈspʌndʒi ˈspʌn·dʒi,0,0
 sponsor, ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑːnsɚ ˈspɑn·sər,1,0
 sponsored, ˈspɑːnsɚd,0,0
@@ -482,4 +482,4 @@ spooks, spuːk spuːk spuk,1,0
 spooky, ˈspuːki,0,0
 spool, spuːl spul,0,0
 spoon, spuːn spuːn spuːn spun,0,0
-spooner,,0,0
+spooner,,0,1

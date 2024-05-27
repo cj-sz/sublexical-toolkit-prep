@@ -11,7 +11,7 @@ fed, fed fed fed,1,0
 federal, ˈfedɚəl ˈfedɚəl ˈfed·ər·əl,1,0
 federalize, ˈfedɚəlaɪz,0,0
 federally, ˈfedɚəli,0,0
-federals,,0,0
+federals,,0,1
 federated, ˈfedəreɪt̬ɪd ˈfedəreɪt̬ɪd,1,0
 federation, ˌfedəˈreɪʃən ˌfedəˈreɪʃən ˌfed·əˈreɪ·ʃən,1,0
 federations, ˌfedəˈreɪʃən ˌfedəˈreɪʃən ˌfed·əˈreɪ·ʃən,1,0
@@ -26,8 +26,8 @@ feeder, ˈfiːdɚ,1,0
 feeders, ˈfiːdɚ,1,0
 feeding, ˈfiːdɪŋ ˈfid·ɪŋ,0,0
 feedings, ˈfiːdɪŋ ˈfid·ɪŋ,1,0
-feedlot,,0,0
-feedlots,,0,0
+feedlot,,0,1
+feedlots,,0,1
 feeds, fiːd fiːd fiːd fiːd fiːd fiːd fiːd fiːd fid fid fid fid,1,0
 feel, fiːl fiːl fiːl fil fil fil,1,0
 feeler, ˈfiːlɚ ˈfi·lər,0,0
@@ -42,8 +42,8 @@ feign, feɪn feɪn,0,0
 feigned, feɪn,1,0
 feigning, feɪn,1,0
 feint, feɪnt feɪnt,0,0
-feis,,0,0
-feist,,0,0
+feis,,0,1
+feist,,0,1
 feisty, ˈfaɪsti ˈfɑɪ·sti,0,0
 feldspar, ˈfeldspɑːr,0,0
 felicitate, fəˈlɪsɪteɪt,0,0
@@ -51,8 +51,8 @@ felicitous, fəˈlɪsət̬əs,0,0
 felicity, fəˈlɪsət̬i fəˈlɪsət̬i fəˈlɪsət̬i,0,0
 feline, ˈfiːlaɪn ˈfiːlaɪn ˈfi·lɑɪn,0,0
 felines, ˈfiːlaɪn ˈfiːlaɪn ˈfi·lɑɪn,1,0
-felis,,0,0
-felix,,0,0
+felis,,0,1
+felix,,0,1
 fell, fel fel fel fel,0,0
 fella, ˈfelə ˈfelə ˈfel·ə,0,0
 fellas, ˈfelə ˈfelə ˈfel·ə,1,0
@@ -71,9 +71,9 @@ felonies, ˈfeləni ˈfel·ə·ni,1,0
 felonious, fəˈloʊniəs,0,0
 felons, ˈfelən ˈfel·ən,1,0
 felony, ˈfeləni ˈfel·ə·ni,1,0
-fels,,0,0
+fels,,0,1
 felt, felt felt felt,0,0
-feltman,,0,0
+feltman,,0,1
 felts, felt felt felt,1,0
 female, ˈfiːmeɪl ˈfiːmeɪl ˈfiːmeɪl ˈfiːmeɪl ˈfi·meɪl ˈfi·meɪl,1,0
 females, ˈfiːmeɪl ˈfiːmeɪl ˈfiːmeɪl ˈfiːmeɪl ˈfi·meɪl ˈfi·meɪl,1,0
@@ -90,49 +90,49 @@ fence, fens fens fens fens,0,0
 fenced, fens,1,0
 fences, fens fens fens fens,1,0
 fencing, ˈfensɪŋ ˈfensɪŋ ˈfen·sɪŋ,0,0
-fend,,1,0
-fended, fend fend fend fend,1,0
+fend,,0,1
+fended,,0,1
 fender, ˈfendɚ ˈfendɚ ˈfendɚ ˈfen·dər,0,0
 fenders, ˈfendɚ ˈfendɚ ˈfendɚ ˈfen·dər,1,0
-fending, fend fend fend fend,1,0
-fends, fend fend fend fend,1,0
-fenian,,0,0
+fending,,0,1
+fends,,0,1
+fenian,,0,1
 fennel, ˈfenəl,0,0
-fenner,,0,0
-fenster,,0,0
-fent,,0,0
-fer,,0,0
+fenner,,0,1
+fenster,,0,1
+fent,,0,1
+fer,,0,1
 feral, ˈferəl,0,0
-feria,,0,0
+feria,,0,1
 ferment, fɚˈment fərˈment,0,0
 fermentation, ˌfɝːmenˈteɪʃən ˌfɜr·menˈteɪ·ʃən,0,0
 fermented, fɚˈment,1,0
 fermenting, fɚˈment,1,0
 ferments, fɚˈment fərˈment,1,0
-fermi,,0,0
-fermium,,0,0
+fermi,,0,1
+fermium,,0,1
 fern, fɝːn fɜrn,0,0
 ferns, fɝːn fɜrn,1,0
 ferocious, fəˈroʊʃəs fəˈroʊ·ʃəs,0,0
 ferociously, fəˈroʊʃəsli fəˈroʊʃəsli,0,0
 ferocity, fəˈrɑːsət̬i,0,0
-ferrara,,0,0
-ferreiro,,0,0
-ferrel,,0,0
-ferrer,,0,0
+ferrara,,0,1
+ferreiro,,0,1
+ferrel,,0,1
+ferrer,,0,1
 ferret, ˈferət ˈfer·ɪt,0,0
 ferreting, ˈferət ˈferət,1,0
 ferrets, ˈferət ˈfer·ɪt,1,0
 ferried, ˈferi,1,0
-ferrier,,0,0
+ferrier,,0,1
 ferries, ˈferi ˈfer·i,1,0
-ferris," ˈferɪs ˌwiːl ˈfer·ɪs ˌhwil, -ˌwil",1,0
-ferrite,,0,0
+ferris,,0,1
+ferrite,,0,1
 ferrous, ˈferəs ˈferəs,0,0
 ferry, ˈferi ˈfer·i,1,0
-ferryboat,,0,0
-ferryboats,,0,0
-ferryman,,0,0
+ferryboat,,0,1
+ferryboats,,0,1
+ferryman,,0,1
 fertile, ˈfɝːt̬əl ˈfɝːt̬əl ˈfɝːt̬əl ˈfɝːt̬əl ˈfɜr·təl ˈfɜr·təl ˈfɜr·təl,0,0
 fertility, fɚˈtɪlət̬i fɚˈtɪlət̬i fɚˈtɪlət̬i fərˈtɪl·ɪ·t̬i,0,0
 fertilization, ˌfɝːt̬ələˈzeɪʃən ˌfɝːt̬ələˈzeɪʃən ˌfɜr·təl·əˈzeɪ·ʃən,0,0
@@ -146,10 +146,10 @@ fervent, ˈfɝːvənt ˈfɜr·vənt,0,0
 fervently, ˈfɝːvəntli,0,0
 fervor, ˈfɝːvɚ ˈfɜr·vər,0,0
 fescue, ˈfeskjuː,0,0
-fess, fes fes fes fes,1,0
-fessed, fes fes fes fes,1,0
-fest, fest fest ,1,0
-festa,,0,0
+fess,,0,1
+fessed,,0,1
+fest,,0,1
+festa,,0,1
 fester, ˈfestɚ ˈfestɚ ˈfes·tər ˈfes·tər,0,0
 festered, ˈfestɚ ˈfestɚ,1,0
 festering, ˈfestɚ ˈfestɚ,1,0
@@ -189,8 +189,8 @@ feverish, ˈfiːvərɪʃ ˈfiːvərɪʃ,1,0
 feverishly, ˈfiːvərɪʃli ˈfiːvərɪʃli ˈfi·vər·ɪʃ·li,0,0
 fevers, ˈfiːvɚ ˈfiːvɚ ˈfi·vər ˈfi·vər,1,0
 few, fjuː fju,0,0
-fewer, fjuː fjuː fjuː fju fju,1,0
-fewest, fjuː fjuː fjuː fju fju,1,0
+fewer,,0,1
+fewest,,0,1
 fey, feɪ,0,0
 fez, fez,0,0
 fi, ˈhaɪfaɪ ˈhaɪfaɪ ˈhɑɪˈfɑɪ,1,0
@@ -208,9 +208,9 @@ fibroids, ˈfaɪbrɔɪd,1,0
 fibrosis, faɪˈbroʊsɪs,0,0
 fibrous, ˈfaɪbrəs ˈfaɪbrəs,0,0
 fibula, ˈfɪbjələ,0,0
-fichus,,0,0
+fichus,,0,1
 fickle, ˈfɪkəl ˈfɪkəl ˈfɪk·əl ˈfɪk·əl,1,0
-fico,,0,0
+fico,,0,1
 fiction, ˈfɪkʃən ˈfɪkʃən ˈfɪk·ʃən,0,0
 fictional, ˈfɪkʃənəl,0,0
 fictionalize, ˈfɪkʃənəlaɪz,0,0
@@ -223,13 +223,13 @@ fiddler," ˈfɪdlɚ ˈfɪd·lər, ˈfɪd·əl·ər",0,0
 fiddlers," ˈfɪdlɚ ˈfɪd·lər, ˈfɪd·əl·ər",1,0
 fiddles, ˈfɪdəl ˈfɪdəl ˈfɪdəl ˈfɪd·əl,1,0
 fiddling, ˈfɪdlɪŋ,0,0
-fide," ˌboʊnə ˈfaɪdi ˈboʊ·nəˌfɑɪd, ˈbɑn·ə-, -ˌfɑɪd·i ˌboʊ-",1,0
-fidel,,0,0
+fide,,0,1
+fidel,,0,1
 fidelity, fɪˈdelət̬i fɪˈdelət̬i fəˈdel·ɪ·t̬i fəˈdel·ɪ·t̬i,1,0
-fides, ˌboʊnə ˈfaɪdiːz ˌboʊnə ˈfaɪdiːz,1,0
+fides,,0,1
 fidget, ˈfɪdʒɪt ˈfɪdʒ·ɪt,0,0
 fidgeting, ˈfɪdʒɪt,1,0
-fido,,0,0
+fido,,0,1
 fiduciary, fɪˈduːʃieri -ˈduːʃier-,0,0
 fief, ˈfiːfdəm ˈfiːfdəm,1,0
 fiefdoms, ˈfiːfdəm ˈfiːfdəm,1,0
@@ -259,17 +259,17 @@ fifties, ˈfɪftiz ˈfɪf·tiz ˈfɪf·tiz,0,0
 fiftieth, ˈfɪftiəθ ˈfɪf·ti·əθ ˈfɪf·ti·əθ,0,0
 fifty, ˈfɪfti ˈfɪf·ti,0,0
 fig, fɪɡ fɪɡ,1,0
-figaro,,0,0
+figaro,,0,1
 fight, faɪt faɪt faɪt faɪt fɑɪt fɑɪt,0,0
 fighter, ˈfaɪt̬ɚ ˈfaɪt̬ɚ ˈfaɪt̬ɚ ˈfɑɪ·t̬ər ˈfɑɪ·t̬ər,0,0
 fighters, ˈfaɪt̬ɚ ˈfaɪt̬ɚ ˈfaɪt̬ɚ ˈfɑɪ·t̬ər ˈfɑɪ·t̬ər,1,0
 fighting, ˈfaɪt̬ɪŋ,0,0
-fightings,,0,0
+fightings,,0,1
 fights, faɪt faɪt faɪt faɪt fɑɪt fɑɪt,1,0
-figment, ˈfɪɡmənt,1,0
-figments,,0,0
+figment,,0,1
+figments,,0,1
 figs, fɪɡ fɪɡ,1,0
-figura,,0,0
+figura,,0,1
 figurative, ˈfɪɡjɚətɪv ˈfɪɡjɚətɪv ˈfɪɡ·jər·ə·t̬ɪv ˈfɪɡ·jər·ə·t̬ɪv,0,0
 figuratively, ˈfɪɡjɚətɪv,0,0
 figure, ˈfɪɡjɚ ˈfɪɡjɚ ˈfɪɡjɚ ˈfɪɡjɚ ˈfɪɡjɚ ˈfɪɡ·jər ˈfɪɡ·jər ˈfɪɡ·jər ˈfɪɡ·jər ˈfɪɡ·jər,1,0
@@ -280,7 +280,7 @@ figurine, ˌfɪɡjəˈriːn,0,0
 figurines, ˌfɪɡjəˈriːn,1,0
 figuring, ˈfɪɡjɚ ˈfɪɡjɚ ˈfɪɡjɚ,1,0
 fiji, ˈfiːdʒiː,1,0
-fike,,0,0
+fike,,0,1
 filament, ˈfɪləmənt ˈfɪləmənt ˈfɪl·ə·mənt ˈfɪl·ə·mənt,0,0
 filaments, ˈfɪləmənt ˈfɪləmənt ˈfɪl·ə·mənt ˈfɪl·ə·mənt,1,0
 filbert, ˈfɪlbɚt,0,0
@@ -302,7 +302,7 @@ filing, ˈfaɪlɪŋ ˈfaɪlɪŋ ˈfɑɪ·lɪŋ,1,0
 filings,,1,0
 filipino, ˌfɪlɪˈpiːnoʊ ˌfɪlɪˈpiːnoʊ,1,0
 filipinos, ˌfɪlɪˈpiːnoʊ ˌfɪlɪˈpiːnoʊ,1,0
-filippo,,0,0
+filippo,,0,1
 fill, fɪl fɪl fɪl fɪl fɪl fɪl fɪl fɪl,1,0
 filled,  -fɪld,1,0
 filler, ˈfɪlɚ ˈfɪlɚ ˈfɪlɚ ˈfɪlɚ ˈfɪlɚ ˈfɪlɚ,0,0
@@ -312,8 +312,8 @@ filleted, ˈfɪlɪt,1,0
 fillets," ˈfɪlɪt fɪˈleɪ, ˈfɪl·eɪ",1,0
 fillies, ˈfɪli ˈfɪl·i,1,0
 filling, ˈfɪlɪŋ ˈfɪlɪŋ ˈfɪlɪŋ ˈfɪl·ɪŋ,0,0
-fillings,,0,0
-fillmore,,0,0
+fillings,,0,1
+fillmore,,0,1
 fills, fɪl fɪl fɪl fɪl fɪl fɪl fɪl fɪl,1,0
 filly, ˈfɪli ˈfɪl·i,0,0
 film, fɪlm fɪlm fɪlm fɪlm,0,0
@@ -323,7 +323,7 @@ filmmaker, ˈfɪlmˌmeɪkɚ ˈfɪlmˌmeɪ·kər,0,0
 filmmakers, ˈfɪlmˌmeɪkɚ ˈfɪlmˌmeɪ·kər,1,0
 filmmaking, ˈfɪlmˌmeɪkiŋ,0,0
 films, fɪlm fɪlm fɪlm fɪlm,1,0
-filo, ˌfiːloʊ ˈpeɪstri,1,0
+filo,,0,1
 filter, ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ ˈfɪl·tər,1,0
 filtered, ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ,1,0
 filtering, ˈfɪltɚ ˈfɪltɚ ˈfɪltɚ,1,0
@@ -342,7 +342,7 @@ finalize, ˈfaɪnəlaɪz ˈfɑɪ·nəlˌɑɪz,1,0
 finalized, ˈfaɪnəlaɪz,1,0
 finalizing, ˈfaɪnəlaɪz,1,0
 finally, ˈfaɪnəli ˈfaɪnəli ˈfaɪnəli ˈfaɪ·nəl·i,1,0
-finals,,1,0
+finals,,0,1
 finance," ˈfaɪnæns fəˈnæns, ˈfɑɪ·næns",1,0
 financed, ˈfaɪnæns,1,0
 finances,,1,0
@@ -381,7 +381,7 @@ fingerprints, ˈfɪŋɡɚprɪnt ˈfɪŋɡɚprɪnt ˈfɪŋ·ɡərˌprɪnt,1,0
 fingers, ˈfɪŋɡɚ ˈfɪŋɡɚ ˈfɪŋ·ɡər ˈfɪŋ·ɡər,1,0
 fingertip, ˈfɪŋɡɚtɪp ˈfɪŋ·ɡərˌtɪp,0,0
 fingertips, ˈfɪŋɡɚtɪp ˈfɪŋ·ɡərˌtɪp,1,0
-fini,,0,0
+fini,,0,1
 finicky, ˈfɪnɪki ˈfɪnɪki ˈfɪn·ɪ·ki,0,0
 fining, faɪn,1,0
 finish, ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪn·ɪʃ ˈfɪn·ɪʃ ˈfɪn·ɪʃ,1,0
@@ -392,14 +392,14 @@ finishes, ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪn·ɪʃ ˈfɪn·ɪʃ 
 finishing, ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ ˈfɪnɪʃ,1,0
 finite, ˈfaɪnaɪt ˈfaɪnaɪt ˈfɑɪ·nɑɪt,0,0
 fink, fɪŋk,0,0
-finkel,,0,0
+finkel,,0,1
 finks, fɪŋk,1,0
 finland, ˈfɪnlənd,1,0
 finn, fɪn,1,0
-finnan, ˌfɪnən ˈhædi,1,0
+finnan,,0,1
 finnish, ˈfɪnɪʃ,1,0
 finns, fɪn,1,0
-fino,,0,0
+fino,,0,1
 fins, fɪn fɪn fɪn,1,0
 fir, ˈfɝː ˈfɝː,0,0
 fire, faɪr faɪr faɪr faɪr faɪr fɑɪər fɑɪər fɑɪər fɑɪər,1,0
@@ -407,7 +407,7 @@ firearm, ˈfaɪrɑːrm ˈfɑɪərˌɑrm,0,0
 firearms, ˈfaɪrɑːrm ˈfɑɪərˌɑrm,1,0
 fireball, ˈfaɪrbɑːl ˈfɑɪərˌbɔl,0,0
 fireballs, ˈfaɪrbɑːl ˈfɑɪərˌbɔl,1,0
-firebird,,0,0
+firebird,,0,1
 firebomb, ˈfaɪrbɑːm ˈfɑɪərˌbɑm,0,0
 firebombed, ˈfaɪrbɑːm,1,0
 firebombing, ˈfaɪrbɑːmɪŋ,0,0
@@ -432,10 +432,10 @@ fireplace, ˈfaɪrpleɪs ˈfɑɪər·pleɪs,0,0
 fireplaces, ˈfaɪrpleɪs ˈfɑɪər·pleɪs,1,0
 firepower, ˈfaɪrpaʊɚ ˈfɑɪərˌpɑʊ·ər ˈfɑɪərˌpɑʊ·ər,1,0
 fireproof, ˈfaɪrpruːf ˈfɑɪərˌpruf,1,0
-fireproofing,,0,0
+fireproofing,,0,1
 fires, faɪr faɪr faɪr faɪr faɪr faɪr fɑɪər fɑɪər fɑɪər fɑɪər fɑɪər,1,0
 fireside, ˈfaɪrsaɪd ˈfɑɪərˌsɑɪd,0,0
-firestone,,0,0
+firestone,,0,1
 firestorm, ˈfaɪrstɔːrm ˈfɑɪər·stɔrm,0,0
 firewall, ˈfaɪəwɔːl,1,0
 fireweed, ˈfaɪrwiːd,0,0
@@ -444,9 +444,9 @@ firework, ˈfaɪrwɝːk,0,0
 fireworks, ˈfɑɪərˌwɜrks ˈfɑɪərˌwɜrks,1,0
 firing, ˈfaɪrɪŋ ˈfaɪrɪŋ,1,0
 firings, ˈfaɪrɪŋ ˈfaɪrɪŋ,1,0
-firkins,,0,0
+firkins,,0,1
 firm, fɝːm fɝːm fɝːm fɝːm fɝːm fɝːm fɜrm,1,0
-firma, ˌterə ˈfɝːmə ˌter·ə ˈfɜr·mə,1,0
+firma,,0,1
 firmed, fɝːm fɝːm,1,0
 firmer, fɝːm fɝːm fɝːm fɝːm fɝːm fɝːm fɝːm fɜrm,1,0
 firmest, fɝːm fɝːm fɝːm fɝːm fɝːm fɝːm fɝːm fɜrm,1,0
@@ -464,7 +464,7 @@ firth, fɝːθ,0,0
 fiscal, ˈfɪskəl ˈfɪs·kəl,1,0
 fiscally, ˈfɪskəli,0,0
 fish, fɪʃ fɪʃ,0,0
-fishback,,0,0
+fishback,,0,1
 fishbowl, ˈfɪʃboʊl ˈfɪʃboʊl ˈfɪʃˌboʊl,0,0
 fished, fɪʃ fɪʃ fɪʃ fɪʃ fɪʃ,1,0
 fisher, ˈfɪʃɚ,0,0
@@ -475,11 +475,11 @@ fishers, ˈfɪʃɚ,1,0
 fishery, ˈfɪʃɚi ˈfɪʃ·ə·ri ˈfɪʃ·ə·ri,1,0
 fishes,,1,0
 fishing, ˈfɪʃɪŋ ˈfɪʃ·ɪŋ,0,0
-fishman,,0,0
+fishman,,0,1
 fishmonger, ˈfɪʃˌmʌŋɡɚ,0,0
 fishy, ˈfɪʃi ˈfɪʃi ˈfɪʃ·i,0,0
 fisk, fɪsk,0,0
 fissile, ˈfɪsəl ˈfɪsəl,0,0
 fission," ˈfɪʃən ˈfɪʃən ˈfɪʃ·ən, ˈfɪʒ- ˈfɪʃ·ən, ˈfɪʒ-",1,0
-fissionable,,0,0
+fissionable,,0,1
 fissure, ˈfɪʃɚ ˈfɪʃɚ ˈfɪʃɚ ˈfɪʃ·ər,0,0

@@ -3,7 +3,7 @@ booked, bʊk bʊk,1,0
 bookend, ˈbʊkend ˈbʊkˌend,0,0
 bookends, ˈbʊkend ˈbʊkˌend,1,0
 booker, ˈbʊkɚ ˈbʊkɚ,0,0
-bookers,,0,0
+bookers,,0,1
 bookie, ˈbʊki ˈbʊk·i,0,0
 bookies, ˈbʊki ˈbʊk·i,1,0
 booking, ˈbʊkɪŋ ˈbʊkɪŋ,1,0
@@ -16,8 +16,8 @@ booklet, ˈbʊklət ˈbʊk·lɪt,0,0
 booklets, ˈbʊklət ˈbʊk·lɪt,1,0
 bookmaker, ˈbʊkˌmeɪkɚ,0,0
 bookmakers, ˈbʊki ˈbʊk·i,1,0
-bookmaking,,0,0
-bookman,,0,0
+bookmaking,,0,1
+bookman,,0,1
 bookmark, ˈbʊkmɑːrk ˈbʊkmɑːrk ˈbʊkˌmɑrk ˈbʊkˌmɑrk,1,0
 bookmarks, ˈbʊkmɑːrk ˈbʊkmɑːrk ˈbʊkˌmɑrk ˈbʊkˌmɑrk,1,0
 bookmobile, ˈbʊkˌmoʊbiːl,0,0
@@ -33,7 +33,7 @@ bookstores," ˈbʊkstɔːr ˈbʊkˌstɔr, -stoʊr",1,0
 bookworm, ˈbʊkwɝːm ˈbʊkˌwɜrm,0,0
 boolean,,1,0
 boom, buːm buːm buːm buːm buːm bum bum bum bum,1,0
-boombox,,0,0
+boombox,,0,1
 boomed, buːm buːm,1,0
 boomer, ˈbuːmɚ ˈbuːmɚ ˈbu·mər,1,0
 boomerang, ˈbuːməræŋ ˈbu·məˌræŋ,0,0
@@ -42,11 +42,11 @@ booming, ˈbuːmɪŋ ˈbuːmɪŋ,0,0
 booms, buːm buːm buːm buːm buːm bum bum bum bum,1,0
 boomtown,,1,0
 boon, buːn bun,0,0
-boondocks, ˈbuːndɑːks ˈbunˌdɑks,1,0
+boondocks, ˈbunˌdɑks,0,1
 boondoggle," ˈbuːnˌdɑːɡəl ˈbunˌdɑɡ·əl, -ˌdɔ·ɡəl",1,0
 boor, bʊr bʊər,0,0
 boorish, ˈbʊrɪʃ,0,0
-boorishness,,0,0
+boorishness,,0,1
 boors, bʊr bʊər,1,0
 boos, buː bu,1,0
 boost, buːst buːst bust bust,1,0
@@ -76,10 +76,10 @@ boozer, ˈbuːzɚ ˈbuːzɚ,0,0
 boozing, buːz,1,0
 boozy, ˈbuːzi,0,0
 bop, bɑːp bɑːp bɑp,0,0
-bopper,,0,0
-boppers,,0,0
-bora,,0,0
-borak,,0,0
+bopper,,0,1
+boppers,,0,1
+bora,,0,1
+borak,,0,1
 borax, ˈbɔːræks,0,0
 bordeaux, bɔːrˈdoʊ,1,0
 bordello, bɔːrˈdeloʊ,0,0
@@ -89,18 +89,18 @@ bordering, ˈbɔːrdɚɪŋ,0,0
 borderline, ˈbɔːrdɚlaɪn ˈbɔr·dərˌlɑɪn,0,0
 borders, ˈbɔːrdɚz,1,0
 bore," bɔːr bɔːr bɔːr bɔr, boʊr bɔr, boʊr",0,0
-borealis, əˌrɔːrə bɔːriˈælɪs,1,0
+borealis,,0,1
 bored," bɔːrd bɔrd, boʊrd",0,0
 boredom," ˈbɔːrdəm ˈbɔr·dəm, ˈboʊrd-",0,0
 borer, ˈbɔːrɚ ˈbɔːrɚ,0,0
 bores," bɔːr bɔːr bɔːr bɔːr  -bɔːr bɔr, boʊr bɔr, boʊr",1,0
 borg, bɔːrɡ bɔːrɡ,0,0
-boric,,0,0
+boric,,0,1
 boring," ˈbɔːrɪŋ ˈbɔr·ɪŋ, ˈboʊr-",0,0
 born, bɔːrn bɔːrn bɔrn,0,0
 borne," bɔːrn bɔrn, boʊrn",0,0
-borneo,,0,0
-boro,,0,0
+borneo,,0,1
+boro,,0,1
 boron, ˈbɔːrɑːn,0,0
 borough," ˈbɝːoʊ ˈbɜr·oʊ, ˈbʌr·oʊ ˈbɜr·oʊ, ˈbʌr·oʊ",0,0
 boroughs," ˈbɝːoʊ ˈbɜr·oʊ, ˈbʌr·oʊ ˈbɜr·oʊ, ˈbʌr·oʊ",1,0
@@ -111,12 +111,12 @@ borrowers, ˈbɑːroʊɚ,1,0
 borrowing, ˈbɑːroʊɪŋ ˈbɑːroʊ-,0,0
 borrowings, ˈbɑːroʊɪŋ ˈbɑːroʊ-,1,0
 borrows," ˈbɑːroʊ ˈbɑːroʊ ˈbɑːroʊ ˈbɑːroʊ ˈbɑr·oʊ, ˈbɔr-",1,0
-bors,,0,0
+bors,,0,1
 borsch, bɔːrʃt,1,0
 borscht, bɔːrʃt,0,0
-bos,,0,0
-bosch,,0,0
-bose,,0,0
+bos,,0,1
+bosch,,0,1
+bose,,0,1
 bosh, bɑːʃ,0,0
 bosom, ˈbʊzəm ˈbʊzəm ˈbʊz·əm ˈbʊz·əm,0,0
 boss," bɑːs bɑːs bɑːs bɔs, bɑs",1,0
@@ -127,8 +127,8 @@ bossy, ˈbɑːsi ˈbɑːsi,0,0
 boston, ˈbɑːstən,1,0
 bostonian, bɑːˈstoʊniən,1,0
 bostonians, bɑːˈstoʊniən,1,0
-boswell,,0,0
-botanic, bəˌtænɪk ˈɡɑːrdən,1,0
+boswell,,0,1
+botanic,,0,1
 botanical, bəˈtænɪkəl bəˈtæn·ɪ·kəl,0,0
 botanically, bəˈtænɪkəli,0,0
 botanist, ˈbɑːt̬ənɪst ˈbɑt·ən·ɪst,0,0
@@ -136,7 +136,7 @@ botanists, ˈbɑːt̬ənɪst ˈbɑt·ən·ɪst,1,0
 botany, ˈbɑːt̬əni ˈbɑt·ən·i,0,0
 botch, bɑːtʃ bɑtʃ,0,0
 botched, bɑːtʃt,0,0
-botfly,,0,0
+botfly,,0,1
 both, boʊθ boʊθ,0,0
 bother, ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ ˈbɑð·ər ˈbɑð·ər,0,0
 bothered, ˈbɑːðɚd,0,0
@@ -144,7 +144,7 @@ bothering, ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ,1,0
 bothers, ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ ˈbɑːðɚ ˈbɑð·ər ˈbɑð·ər,1,0
 bothersome, ˈbɑːðɚsəm ˈbɑð·ər·səm,0,0
 botswana, bɑːtˈswɑːnə,1,0
-bott, ˌbɑːts ˈdɑːts,1,0
+bott,,0,1
 bottle, ˈbɑːt̬əl ˈbɑːt̬əl ˈbɑːt̬əl ˈbɑt̬·əl,0,0
 bottled, ˈbɑːt̬əld,1,0
 bottleneck, ˈbɑːt̬əlnek ˈbɑːt̬əlnek ˈbɑt̬·əlˌnek ˈbɑt̬·əlˌnek,1,0
@@ -155,12 +155,12 @@ bottles, ˈbɑːt̬əl ˈbɑːt̬əl ˈbɑːt̬əl ˈbɑːt̬əl ˈbɑt̬·əl,1
 bottling, ˈbɑːt̬əlɪŋ,1,0
 bottom, ˈbɑːt̬əm ˈbɑːt̬əm ˈbɑːt̬əm ˈbɑːt̬əm ˈbɑt̬·əm ˈbɑt̬·əm ˈbɑt̬·əm ˈbɑt̬·əm,1,0
 bottomed, ˈbelˌbɑːt̬əmd ˈbelˌbɑːt̬əmd,1,0
-bottoming, ˈbɑːt̬əm ˈbɑːt̬əm,1,0
+bottoming,,0,1
 bottomless, ˈbɑːt̬əmləs ˈbɑːt̬əmləs ˈbɑːt̬əmləs ˈbɑt̬·əm·ləs,0,0
 bottoms,,1,0
 botulism, ˈbɑːtʃəlɪzəm,0,0
 bouche, əˌmuːzˈbuːʃ,1,0
-boucher,,0,0
+boucher,,0,1
 boudin, buːˈdæn,0,0
 boudoir, ˈbuːdwɑːr,0,0
 bougainvillea, ˌbuːɡənˈvɪliə,0,0
@@ -169,7 +169,7 @@ boughs, baʊ bɑʊ,1,0
 bought, bɑːt bɔt,0,0
 bougie, ˈbuːʒi,0,0
 bouillon, ˈbʊljɑːn,0,0
-boulanger,,0,0
+boulanger,,0,1
 boulder, ˈboʊldɚ ˈboʊl·dər,0,0
 boulders, ˈboʊldɚ ˈboʊl·dər,1,0
 boule, buːl buːl,0,0
@@ -180,7 +180,7 @@ bounced, baʊns baʊns baʊns baʊns,1,0
 bouncer, ˈbaʊnsɚ ˈbaʊnsɚ ˈbɑʊn·sər,0,0
 bouncers, ˈbaʊnsɚ ˈbaʊnsɚ ˈbɑʊn·sər,1,0
 bounces, baʊns baʊns baʊns baʊns bɑʊns bɑʊns,1,0
-bounciness,,0,0
+bounciness,,0,1
 bouncing, ˈbaʊnsɪŋ ˈbɑʊn·sɪŋ,0,0
 bouncy, ˈbaʊnsi ˈbaʊnsi ˈbɑʊn·si,0,0
 bound, baʊnd baʊnd baʊnd baʊnd baʊnd bɑʊnd,1,0
@@ -199,36 +199,36 @@ bouquets," boʊˈkeɪ boʊˈkeɪ boʊˈkeɪ, bu- boʊˈkeɪ, bu-",1,0
 bourbon, ˈbɝːbən ˈbɜr·bən,0,0
 bourbons, ˈbɝːbən ˈbɜr·bən,1,0
 bourgeois," ˈbʊrʒwɑː ˈbʊər·ʒwɑ, bʊərˈʒwɑ",0,0
-bourgeoisie, ˌbʊrʒwɑːˈziː ˌbʊrʒwɑːˈziː ˌbʊər·ʒwɑˈzi,1,0
+bourgeoisie, ˌbʊər·ʒwɑˈzi,0,1
 bourn, bɔːrn bɔːrn bɔːrn,1,0
 bourne, bɔːrn bɔːrn bɔːrn,0,0
 bourse, bɔːrs,1,0
 bout, baʊt baʊt bɑʊt bɑʊt,0,0
 boutique, buːˈtiːk buˈtik,1,0
 boutiques, buːˈtiːk buˈtik,1,0
-bouton,,0,0
+bouton,,0,1
 bouts, baʊt baʊt bɑʊt bɑʊt,1,0
-bouvier, ˌbuːviːeɪ deɪ ˈflɑːndrə,1,0
-bove,,0,0
+bouvier,,0,1
+bove,,0,1
 bovine, ˈboʊvaɪn ˈboʊvaɪn ˈboʊ·vɑɪn,0,0
 bow, baʊ bɑʊ,0,0
-bowden,,0,0
-bowe,,0,0
+bowden,,0,1
+bowe,,0,1
 bowed,,1,0
 bowel, ˈbaʊəl,0,0
 bowels," ˈbɑʊ·əlz, bɑʊlz ˈbɑʊ·əlz, bɑʊlz",0,0
 bower, ˈbaʊɚ,0,0
 bowers, ˈbaʊɚ,1,0
-bowery,,0,0
-bowie,,0,0
+bowery,,0,1
+bowie,,0,1
 bowing, baʊ boʊ,1,0
-bowker,,0,0
+bowker,,0,1
 bowl, boʊl boʊl boʊl boʊl boʊl boʊl boʊl boʊl boʊl,0,0
 bowled, boʊl boʊl,1,0
 bowler, ˈboʊlɚ ˈboʊlɚ,0,0
 bowlers, ˈboʊlɚ ˈboʊlɚ ˈboʊlɚ ˈboʊlɚ,1,0
-bowles,,0,0
-bowlin,,0,0
+bowles,,0,1
+bowlin,,0,1
 bowline, ˈboʊlɪn ˈboʊlɪn,0,0
 bowling, ˈboʊlɪŋ ˈboʊlɪŋ ˈboʊ·lɪŋ,0,0
 bowls,,1,0
@@ -241,7 +241,7 @@ boxcar, ˈbɑːkskɑːr ˈbɑksˌkɑr,1,0
 boxcars, ˈbɑːkskɑːr ˈbɑksˌkɑr,1,0
 boxed, bɑːks bɑːks,1,0
 boxer, ˈbɑːksɚ ˈbɑːksɚ ˈbɑk·sər ˈbɑk·sər,0,0
-boxers, ˈbɑːksɚ ˌʃɔːrts ˈbɑk·sər ˈʃɔrts,1,0
+boxers,,0,1
 boxes, bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑːks bɑks bɑks bɑks,1,0
 boxing, ˈbɑːksɪŋ ˈbɑk·sɪŋ,0,0
 boxy, ˈbɑːksi,0,0
@@ -250,12 +250,12 @@ boycott, ˈbɔɪkɑːt ˈbɔɪ·kɑt,1,0
 boycotted, ˈbɔɪkɑːt,1,0
 boycotting, ˈbɔɪkɑːt,1,0
 boycotts, ˈbɔɪkɑːt ˈbɔɪ·kɑt,1,0
-boyer,,0,0
+boyer,,0,1
 boyfriend, ˈbɔɪfrend ˈbɔɪˌfrend,0,0
 boyfriends, ˈbɔɪfrend ˈbɔɪˌfrend,1,0
 boyhood, ˈbɔɪhʊd ˈbɔɪ·hʊd,0,0
 boyish, ˈbɔɪɪʃ ˈbɔɪ·ɪʃ,0,0
-boys,,1,0
+boys,,0,1
 bozo, ˈboʊzoʊ ˈboʊ·zoʊ,0,0
 bozos, ˈboʊzoʊ ˈboʊ·zoʊ,1,0
 bra, brɑː brɑ,0,0
@@ -264,27 +264,27 @@ braced, breɪs breɪs,1,0
 bracelet, ˈbreɪslət ˈbreɪs·lɪt,0,0
 bracelets, ˈbreɪslət ˈbreɪs·lɪt,1,0
 bracer, ˈbreɪsɚ ˈbreɪsɚ,0,0
-bracero,,0,0
+bracero,,0,1
 braces, ˈbreɪ·sɪz ˈbreɪ·sɪz,1,0
-brach,,0,0
+brach,,0,1
 bracing, ˈbreɪsɪŋ ˈbreɪsɪŋ ˈbreɪsɪŋ,0,0
-brack,,0,0
+brack,,0,1
 bracken, ˈbrækən,0,0
 bracket, ˈbrækɪt ˈbrækɪt ˈbrækɪt ˈbrækɪt ˈbræk·ɪt ˈbræk·ɪt ˈbræk·ɪt,1,0
 brackets, ˈbrækɪt ˈbrækɪt ˈbrækɪt ˈbrækɪt ˈbræk·ɪt ˈbræk·ɪt ˈbræk·ɪt,1,0
 brackish, ˈbrækɪʃ ˈbræk·ɪʃ,0,0
 brad,,1,0
-bradycardia,,0,0
-brae,,0,0
+bradycardia,,0,1
+brae,,0,1
 brag, bræɡ bræɡ,0,0
 braggadocio, ˌbræɡəˈdoʊtʃioʊ,0,0
 bragged, bræɡ bræɡ,1,0
-bragger,,0,0
+bragger,,0,1
 bragging, bræɡ bræɡ,1,0
 brags, bræɡ bræɡ,1,0
-brahm,,0,0
+brahm,,0,1
 brahmin, ˈbrɑːmɪn ˈbrɑːmɪn,1,0
-brahms,,0,0
+brahms,,0,1
 braid, breɪd breɪd breɪd,0,0
 braided, breɪd,1,0
 braiding, breɪd,1,0
@@ -296,7 +296,7 @@ brained,  -breɪnd  -breɪnd,1,0
 brainer, ˌnoʊˈbreɪnɚ ˈnoʊˈbreɪ·nər,1,0
 brainless, ˈbreɪnləs ˈbreɪn·ləs,0,0
 brainpower, ˈbreɪnpaʊɚ,0,0
-brains, breɪnz breɪnz,1,0
+brains, breɪnz breɪnz,0,1
 brainstorm, ˈbreɪnstɔːrm ˈbreɪnˌstɔrm,1,0
 brainstorming, ˈbreɪnˌstɔːrmɪŋ,1,0
 brainstorms, ˈbreɪnstɔːrm ˈbreɪnˌstɔrm,1,0
@@ -319,33 +319,33 @@ branches, ˈbræntʃɪz,0,0
 branching, bræntʃ bræntʃ,1,0
 brand, brænd brænd brænd brænd brænd brænd brænd,1,0
 branded, ˈbrændɪd,1,0
-brander,,0,0
+brander,,0,1
 branding, ˈbrændɪŋ ˈbrændɪŋ,1,0
 brandish, ˈbrændɪʃ ˈbræn·dɪʃ,0,0
 brandished, ˈbrændɪʃ,1,0
 brandishing, ˈbrændɪʃ,1,0
-brandon,,0,0
+brandon,,0,1
 brands, brænd brænd brænd brænd brænd brænd brænd brænd,1,0
 brandy, ˈbrændi ˈbræn·di,0,0
-brandywine,,0,0
-brank,,0,0
-branner,,0,0
-brannigan,,0,0
-branning,,0,0
-brant,,0,0
+brandywine,,0,1
+brank,,0,1
+branner,,0,1
+brannigan,,0,1
+branning,,0,1
+brant,,0,1
 bras, brɑː brɑ,1,0
 brash, bræʃ bræʃ bræʃ bræʃ,0,0
 brasher, bræʃ bræʃ bræʃ bræʃ,1,0
 brashness, ˈbræʃnəs,0,0
-brasil,,0,0
+brasil,,0,1
 brasilia, brəˈzɪliə,1,0
 brass, bræs bræs bræs bræs bræs bræs,1,0
 brasserie, ˌbræsəˈriː,0,0
-brasses, ˈhɔːrs ˌbræs,1,0
+brasses,,0,1
 brassy, ˈbræsi ˈbræsi ˈbræsi ˈbræs·i,0,0
 brat, bræt bræt bræt bræt,0,0
 brats, bræt bræt bræt bræt,1,0
-brattle,,0,0
+brattle,,0,1
 bratwurst, ˈbrætwɝːst,0,0
 bravado, brəˈvɑːdoʊ brəˈvɑ·doʊ,0,0
 brave, breɪv breɪv,0,0
@@ -361,7 +361,7 @@ brawl, brɑːl brɔl,0,0
 brawling, brɑːl,1,0
 brawls, brɑːl brɔl,1,0
 brawn, brɑːn brɑːn brɔn,0,0
-brawner,,0,0
+brawner,,0,1
 brawny, ˈbrɑːni,0,0
 bray, breɪ breɪ breɪ,0,0
 brazen, ˈbreɪzən ˈbreɪzən ˈbreɪ·zən,0,0
@@ -376,11 +376,11 @@ breached, briːtʃ briːtʃ,1,0
 breaches, briːtʃ briːtʃ briːtʃ briːtʃ britʃ britʃ,1,0
 breaching, briːtʃ briːtʃ,1,0
 bread, bred bred bred,0,0
-breadbasket, ˈbred ˌbæskɪt ˈbred ˌbæskɪt ˈbred ˌbæskɪt,1,0
+breadbasket,,0,1
 breadbox, ˈbredbɑːks,0,0
 breaded, ˈbredɪd ˈbred·ɪd,0,0
 breadfruit, ˈbredfruːt,0,0
-breading,,0,0
+breading,,0,1
 breads, bred bred bred,1,0
 breadth," bredθ bredθ bretθ, bredθ bretθ, bredθ",0,0
 breadwinner, ˈbredˌwɪnɚ ˈbredˌwɪn·ər,1,0
@@ -424,10 +424,10 @@ breaths, breθ breθ breθ breθ breθ breθ breθ breθ breθ breθ breθ,1,0
 breathtaking, ˈbreθˌteɪkɪŋ ˈbreθˌteɪ·kɪŋ,0,0
 breathtakingly, ˈbreθˌteɪkɪŋli,0,0
 breathy, ˈbreθi,0,0
-brecht,,0,0
-breck,,0,0
+brecht,,0,1
+breck,,0,1
 bred, bred,0,0
-bree,,0,0
+bree,,0,1
 breech, briːtʃ,0,0
 breed, briːd briːd briːd brid brid,0,0
 breeder, ˈbriːdɚ ˈbriːdɚ ˈbriːdɚ,0,0
@@ -439,13 +439,13 @@ breezed, briːz briːz,1,0
 breezes, briːz briːz briz briz,1,0
 breezeway, ˈbriːzweɪ,0,0
 breezy, ˈbriːzi ˈbriːzi ˈbri·zi ˈbri·zi,0,0
-bren,,0,0
-brent,,0,0
-brest,,0,0
-bret,,0,0
+bren,,0,1
+brent,,0,1
+brest,,0,1
+bret,,0,1
 brethren, ˈbreðrən ˈbreð·rən,0,0
 breton, ˈbretən ˈbretən ˈbretən,1,0
-brett,,0,0
+brett,,0,1
 brevity, ˈbrevət̬i ˈbrev·ɪ·t̬i ˈbrev·ɪ·t̬i,0,0
 brew, bruː bruː bruː bru bru,0,0
 brewed, bruː bruː bruː,1,0
@@ -455,9 +455,9 @@ brewers, ˈbruːɚ,1,0
 brewery, ˈbrʊri ˈbru·ə·ri,1,0
 brewing, bruː bruː bruː,1,0
 brews, bruː bruː bruː bru bru,1,0
-brewster,,0,0
-brezhnev,,0,0
-brian,,0,0
+brewster,,0,1
+brezhnev,,0,1
+brian,,0,1
 briar, ˈbraɪɚ ˈbraɪɚ,0,0
 bribe, braɪb brɑɪb,1,0
 bribed, braɪb,1,0
@@ -467,12 +467,12 @@ bribing, braɪb,1,0
 brick, brɪk brɪk brɪk brɪk brɪk brɪk,0,0
 brickbat, ˈbrɪkbæt,0,0
 brickbats, ˈbrɪkbæt,1,0
-bricker,,0,0
+bricker,,0,1
 bricklayer, ˈbrɪkˌleɪɚ ˈbrɪkˌleɪ·ər,0,0
 bricklayers, ˈbrɪkˌleɪɚ ˈbrɪkˌleɪ·ər,1,0
-brickle,,0,0
+brickle,,0,1
 bricks, brɪk brɪk brɪk brɪk brɪk brɪk,1,0
-brickyard,,0,0
+brickyard,,0,1
 bridal, ˈbraɪdəl ˈbrɑɪ·dəl,0,0
 bride, braɪd brɑɪd,0,0
 bridegroom," ˈbraɪdɡruːm ˈbrɑɪdˌɡrum, -ˌɡrʊm",0,0

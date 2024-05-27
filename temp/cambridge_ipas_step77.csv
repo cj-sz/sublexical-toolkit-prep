@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
-rolando,,0,0
+rolando,,0,1
 role, roʊl roʊl roʊl roʊl,0,0
-roleplaying, ˈroʊlpleɪɪŋ ˌɡeɪm ˈroʊlpleɪɪŋ ˌɡeɪm ˈroʊlpleɪɪŋ ˌɡeɪm,1,0
+roleplaying,,0,1
 roles, roʊl roʊl roʊl roʊl,1,0
 roll, roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl,1,0
 rollback, ˈroʊlbæk,0,0
@@ -11,7 +11,7 @@ rollerblading, ˈroʊlɚˌbleɪdɪŋ,0,0
 rollers, ˈroʊlɚ ˈroʊlɚ ˈroʊlɚ ˈroʊlɚ ˈroʊ·lər ˈroʊ·lər,1,0
 rollicking, ˈrɑːlɪkɪŋ ˈrɑl·ɪ·kɪŋ,0,0
 rolling, ˈroʊlɪŋ ˈroʊlɪŋ ˈroʊ·lɪŋ,1,0
-rollings,,0,0
+rollings,,0,1
 rollout, ˈroʊlˌaʊt ˈroʊlˌaʊt ˈroʊlˌɑʊt ˈroʊlˌɑʊt,0,0
 rollover, ˈroʊloʊvɚ,1,0
 rolls, roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl roʊl,1,0
@@ -35,15 +35,15 @@ romantics, roʊˈmænt̬ɪk roʊˈmænt̬ɪk roʊˈmænt̬ɪk roʊˈmænt̬ɪk r
 rome, roʊm,1,0
 romeo, ˈroʊmioʊ,1,0
 romeos, ˈroʊmioʊ,1,0
-romero,,0,0
-romney,,0,0
+romero,,0,1
+romney,,0,1
 romp, rɑːmp rɑmp rɑmp,0,0
 romping, rɑːmp,1,0
 roms, ˌsiːdiːˈrɑːm ˌsi·diˈrɑm,1,0
-romulus,,0,0
-ronald,,0,0
-ronin,,0,0
-rood,,0,0
+romulus,,0,1
+ronald,,0,1
+ronin,,0,1
+rood,,0,1
 roof," ruːf ruf, rʊf ruf, rʊf",0,0
 roofer, ˈruːfɚ,0,0
 roofers, ˈruːfɚ,1,0
@@ -51,9 +51,9 @@ roofing," ˈruːfɪŋ ˈruːfɪŋ ˈru·fɪŋ, ˈrʊf·ɪŋ",0,0
 roofs," ruːf ruf, rʊf ruf, rʊf",1,0
 rooftop," ˈruːftɑːp ˈrufˌtɑp, ˈrʊf-",0,0
 rooftops," ˈruːftɑːp ˈrufˌtɑp, ˈrʊf-",1,0
-rooftree,,0,0
+rooftree,,0,1
 rook, rʊk rʊk rʊk rʊk,0,0
-rooker,,0,0
+rooker,,0,1
 rookie, ˈrʊki ˈrʊk·i,1,0
 rookies, ˈrʊki ˈrʊk·i,1,0
 rooks, rʊk rʊk rʊk rʊk,1,0
@@ -65,38 +65,38 @@ roommate," ˈruːmmeɪt ˈruːmmeɪt ˈrumˌmeɪt, ˈrʊm-",0,0
 roommates," ˈruːmmeɪt ˈruːmmeɪt ˈrumˌmeɪt, ˈrʊm-",1,0
 rooms,,1,0
 roomy," ˈruːmi ˈru·mi, ˈrʊm·i",0,0
-roosevelt, ˌtedi ˌroʊzəvelt ˈteriɚ,1,0
+roosevelt,,0,1
 roost, ruːst rust,0,0
 roosted, ruːst,1,0
 rooster, ˈruːstɚ ˈru·stər,0,0
 roosters, ˈruːstɚ ˈru·stər,1,0
 root," ruːt ruːt ruːt ruːt ruːt ruːt ruːt rut, rʊt rut, rʊt rut, rʊt rut, rʊt rut, rʊt",0,0
 rooted, ˈruːt̬ɪd ˈruːt̬ɪd,0,0
-rooter,,0,0
+rooter,,0,1
 rooting, ruːt ruːt,1,0
 rootless," ˈruːtləs ˈrut·ləs, ˈrʊt-",0,0
 roots," ruts, rʊts",1,0
 rope, roʊp roʊp roʊp,0,0
 roped, roʊp,1,0
-roper,,0,0
-ropers,,0,0
-ropes,,1,0
+roper,,0,1
+ropers,,0,1
+ropes,,0,1
 roping, roʊp,1,0
-roque,,0,0
-rorschach, ˈrɔːrʃɑːk ˌtest,1,0
-rory,,0,0
+roque,,0,1
+rorschach,,0,1
+rory,,0,1
 ros,,1,0
-rosa,,0,0
-rosalind,,0,0
-rosalyn,,0,0
-rosaria,,0,0
+rosa,,0,1
+rosalind,,0,1
+rosalyn,,0,1
+rosaria,,0,1
 rosaries, ˈroʊzɚi ˈroʊ·zə·ri,1,0
-rosario,,0,0
+rosario,,0,1
 rosary, ˈroʊzɚi ˈroʊ·zə·ri,0,0
-roscoe,,0,0
+roscoe,,0,1
 rose, roʊz roʊz,0,0
 rosebud, ˈroʊzbʌd,0,0
-rosebush, ˈroʊz ˌbʊʃ,1,0
+rosebush,,0,1
 rosella, roʊˈzelə roʊˈzelə roʊˈzelə,0,0
 rosemary, ˈroʊzmeri ˈroʊzˌmeər·i,0,0
 roses, roʊz roʊˈzeɪ roʊz,1,0
@@ -106,7 +106,7 @@ rosewood, ˈroʊzwʊd,0,0
 rosier, ˈroʊzi ˈroʊzi ˈroʊ·zi ˈroʊ·zi,1,0
 rosin, ˈrɑːzən,0,0
 ross,,1,0
-rosser,,0,0
+rosser,,0,1
 roster, ˈrɑːstɚ ˈrɑs·tər,1,0
 rosters, ˈrɑːstɚ ˈrɑs·tər,1,0
 rostrum, ˈrɑːstrəm ˈrɑs·trəm,0,0
@@ -121,60 +121,60 @@ rotating, ˈrəʊteɪtɪŋ,0,0
 rotation, roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪ·ʃən roʊˈteɪ·ʃən,1,0
 rotational,,1,0
 rotations, roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪʃən roʊˈteɪ·ʃən roʊˈteɪ·ʃən,1,0
-rote, roʊt roʊt,1,0
-rother,,0,0
+rote, roʊt,0,1
+rother,,0,1
 roti, ˈroʊt̬i,0,0
 rotisserie, roʊˈtɪsɚi roʊˈtɪs·ə·ri,0,0
-roto,,0,0
+roto,,0,1
 rotor, ˈroʊt̬ɚ,0,0
 rotors, ˈroʊt̬ɚ,1,0
-rototilled,,0,0
+rototilled,,0,1
 rots, rɑːt rɑt,1,0
 rotted,,1,0
 rotten, ˈrɑːtən ˈrɑːtən ˈrɑt·ən ˈrɑt·ən,0,0
 rotter, ˈrɑːt̬ɚ,0,0
-rotterdam,,0,0
+rotterdam,,0,1
 rotting,,1,0
 rotund, roʊˈtʌnd roʊˈtʌnd,0,0
 rotunda, roʊˈtʌndə roʊˈtʌn·də,0,0
 rouble, ˈruːbəl,1,0
 rouge, ruːʒ ruʒ,0,0
 rough, rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf,1,0
-roughed, rʌf rʌf,1,0
+roughed,,0,1
 rougher, rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf,1,0
 roughest, rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf rʌf,1,0
-roughing, rʌf rʌf,1,0
+roughing,,0,1
 roughly, ˈrʌfli ˈrʌfli ˈrʌfli ˈrʌf·li ˈrʌf·li,1,0
 roughneck, ˈrʌfnek ˈrʌfnek,0,0
 roughnecks, ˈrʌfnek ˈrʌfnek,1,0
 roughness, ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs ˈrʌfnəs,0,0
-roughshod, ˈrʌfʃɑːd,1,0
+roughshod,,0,1
 roulette, ruːˈlet,0,0
 round, raʊnd raʊnd raʊnd raʊnd rɑʊnd rɑʊnd,1,0
 roundabout, ˈraʊndəbaʊt ˈraʊndəbaʊt ˈraʊndəbaʊt ˈrɑʊnd·əˈbɑʊt,0,0
 rounded, ˈraʊndɪd ˈrɑʊn·dɪd,0,0
 rounder, ˈraʊndɚ ˈraʊndɚ ˈraʊndɚ ˈraʊndɚ,0,0
-roundhouse, ˌraʊndhaʊs ˈkɪk,1,0
+roundhouse,,0,1
 rounding, ˈraʊndɪŋ,1,0
 roundly, ˈraʊndli,0,0
 rounds, rɑʊndz,0,0
 roundtable, ˈrɑʊndˌteɪ·bəl,0,0
-roundtree,,0,0
+roundtree,,0,1
 roundup, ˈrɑʊndˌʌp,0,0
 roundworms, ˈraʊndwɝːm,1,0
-roundy,,0,0
+roundy,,0,1
 rouse, raʊz rɑʊz,0,0
 roused, raʊz,1,0
 rouser, ˈræbəlˌraʊzɚ ˈræb·əlˌrɑʊ·zər,1,0
 rousing, ˈraʊzɪŋ ˈrɑʊ·zɪŋ,0,0
-rousseau,,0,0
+rousseau,,0,1
 rout, raʊt raʊt rɑʊt,0,0
 route," ruːt ruːt ruːt rut, rɑʊt rut, rɑʊt ruːt, raʊt ruːt, raʊt ruːt, raʊt",0,0
 routed, ruːt ruːt,1,0
 router," ˈraʊt̬ɚ ˈrɑʊ·t̬ər ˈruːtər, ˈraʊtər",0,0
 routers," ˈraʊt̬ɚ ˈrɑʊ·t̬ər ˈruːtər, ˈraʊtər",1,0
 routes," ruːt ruːt ruːt ruːt rut, rɑʊt rut, rɑʊt ruːt, raʊt ruːt, raʊt ruːt, raʊt",1,0
-routh,,0,0
+routh,,0,1
 routine, ruːˈtiːn ruːˈtiːn ruːˈtiːn ruˈtin ruˈtin,1,0
 routinely, ruːˈtiːnli,1,0
 routines, ruːˈtiːn ruːˈtiːn ruːˈtiːn ruˈtin ruˈtin,1,0
@@ -187,22 +187,22 @@ roving, ˈroʊvɪŋ,0,0
 row, roʊ roʊ roʊ roʊ roʊ,0,0
 rowan, ˈroʊən,0,0
 rowboat, ˈroʊ ˌboʊt ˈroʊˌboʊt,0,0
-rowdies,,0,0
+rowdies,,0,1
 rowdy, ˈraʊdi ˈrɑʊ·di,0,0
 rowed, roʊ raʊ,1,0
 rower, ˈroʊɚ,0,0
 rowing, ˈroʊɪŋ,0,0
 rows, roʊ roʊ roʊ roʊ roʊ roʊ roʊ,1,0
-rox,,0,0
-roxy,,0,0
+rox,,0,1
+roxy,,0,1
 royal, ˈrɔɪəl ˈrɔɪəl ˈrɔɪəl ˈrɔɪ·əl,0,0
-royale, aɪl ˌrɔɪəl ˌnæʃənəl ˈpɑːrk,1,0
+royale,,0,1
 royalist, ˈrɔɪəlɪst,0,0
 royally, ˈrɔɪəli ˈrɔɪəli ˈrɔɪəli,0,0
 royals, ˈrɔɪəl ˈrɔɪəl ˈrɔɪəl ˈrɔɪ·əl,1,0
 royalties, ˈrɔɪəlt̬i ˈrɔɪəlt̬i ˈrɔɪ·əl·ti ˈrɔɪ·əl·ti,1,0
 royalty, ˈrɔɪəlt̬i ˈrɔɪəlt̬i ˈrɔɪ·əl·ti ˈrɔɪ·əl·ti,1,0
-royster,,0,0
+royster,,0,1
 rpm, ˌɑːrpiːˈem,1,0
 rub, rʌb rʌb,0,0
 rubbed,,1,0
@@ -212,46 +212,46 @@ rubbery, ˈrʌbɚi ˈrʌb·ə·ri ˈrʌb·ə·ri,0,0
 rubbing,,1,0
 rubbish, ˈrʌbɪʃ ˈrʌbɪʃ ˈrʌb·ɪʃ,0,0
 rubble, ˈrʌbəl ˈrʌbəl ˈrʌb·əl,0,0
-rube,,0,0
+rube,,0,1
 rubella, ruːˈbelə ruˈbel·ə,0,0
-rubens,,0,0
-rubicon, ˈruːbɪkɑːn,1,0
+rubens,,0,1
+rubicon,,0,1
 rubies, ˈruːbi ˈruːbi ˈruːbi ˈru·bi,1,0
-rubin,,0,0
+rubin,,0,1
 ruble,,1,0
 rubles,,1,0
-rubout,,0,0
+rubout,,0,1
 rubric, ˈruːbrɪk,0,0
 rubs, rʌb rʌb,1,0
 ruby, ˈruːbi ˈruːbi ˈruːbi ˈru·bi,0,0
 ruck, rʌk rʌk,0,0
-rucker,,0,0
-rucks, rʌk rʌk rʌk,1,0
+rucker,,0,1
+rucks,,0,1
 rucksack, ˈrʌksæk,0,0
 ruckus, ˈrʌkəs ˈrʌk·əs,0,0
-rud,,0,0
-rudd,,0,0
+rud,,0,1
+rudd,,0,1
 rudder, ˈrʌdɚ ˈrʌd·ər,0,0
 rudderless, ˈrʌdɚləs,0,0
-ruddle,,0,0
-ruddock,,0,0
+ruddle,,0,1
+ruddock,,0,1
 ruddy, ˈrʌdi ˈrʌd·i,0,0
 rude, ruːd ruːd ruːd ruːd rud rud,0,0
 rudely, ˈruːdli ˈruːdli ˈruːdli ˈruːdli,0,0
 rudeness, ˈruːdnəs ˈruːdnəs ˈruːdnəs,0,0
 ruder, ruːd ruːd ruːd ruːd ruːd rud rud,1,0
 rudest, ruːd ruːd ruːd ruːd ruːd rud rud,1,0
-rudiment,,0,0
+rudiment,,0,1
 rudimentary," ˌruːdəˈmentəri ˌruːdəˈmentəri ˌrud·əˈment·ə·ri, -ˈmen·tri",0,0
-rudiments, ˈruːdəmənts ˈru·də·mənts,1,0
+rudiments, ˈru·də·mənts,0,1
 rue, ruː ru,0,0
 ruff, rʌf rʌf,0,0
-ruffin,,0,0
+ruffin,,0,1
 ruffle, ˈrʌfəl ˈrʌfəl ˈrʌf·əl ˈrʌf·əl,0,0
 ruffled, ˈrʌf·əld ˈrʌf·əld,0,0
 ruffles, ˈrʌfəl ˈrʌfəl ˈrʌf·əl ˈrʌf·əl,1,0
 ruffling, ˈrʌfəl ˈrʌfəl,1,0
-rufus,,0,0
+rufus,,0,1
 rug, rʌɡ rʌɡ rʌɡ rʌɡ,0,0
 rugby, ˈrʌɡbi ˈrʌɡ·bi,0,0
 rugged, ˈrʌɡɪd ˈrʌɡɪd ˈrʌɡɪd ˈrʌɡ·ɪd ˈrʌɡ·ɪd ˈrʌɡ·ɪd,0,0
@@ -270,18 +270,18 @@ rules, ruːl ruːl rul rul,1,0
 ruling, ˈruːlɪŋ ˈru·lɪŋ,1,0
 rulings, ˈruːlɪŋ ˈru·lɪŋ,1,0
 rum, rʌm rʌm,0,0
-rumania,,0,0
-rumanian,,0,0
+rumania,,0,1
+rumanian,,0,1
 rumble, ˈrʌmbəl ˈrʌmbəl ˈrʌmbəl ˈrʌm·bəl,0,0
 rumbled, ˈrʌmbəl ˈrʌmbəl ˈrʌmbəl,1,0
 rumbles, ˈrʌmbəl ˈrʌmbəl ˈrʌmbəl ˈrʌm·bəl,1,0
 rumbling, ˈrʌmbəlɪŋ ˈrʌmbəlɪŋ,0,0
 rumblings, ˈrʌmbəlɪŋ ˈrʌmbəlɪŋ,1,0
-rumen,,0,0
+rumen,,0,1
 ruminant, ˈruːmənənt,0,0
 ruminate, ˈruːməneɪt ˈruːməneɪt ˈru·məˌneɪt,0,0
 rumination, ˌruːməˈneɪʃən ˌruːməˈneɪʃən,0,0
-ruminations,,0,0
+ruminations,,0,1
 rummage, ˈrʌmɪdʒ ˈrʌm·ɪdʒ,0,0
 rummaged, ˈrʌmɪdʒ,1,0
 rummaging, ˈrʌmɪdʒ,1,0
@@ -297,10 +297,10 @@ rumpled, ˈrʌmpəld,0,0
 rums, rʌm rʌm,1,0
 run, rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn,1,0
 runabout, ˈrʌnəbaʊt ˈrʌnəbaʊt,0,0
-runaround, ˈrʌnəraʊnd ˈrʌn·əˌrɑʊnd,1,0
+runaround, ˈrʌn·əˌrɑʊnd,0,1
 runaway, ˈrʌnəweɪ ˈrʌnəweɪ ˈrʌnəweɪ ˈrʌn·əˌweɪ,1,0
 runaways, ˈrʌnəweɪ ˈrʌnəweɪ ˈrʌnəweɪ ˈrʌn·əˌweɪ,1,0
-rundle,,0,0
+rundle,,0,1
 rundown, ˈrʌndaʊn ˈrʌndaʊn ˈrʌndaʊn ˈrʌnˌdɑʊn,0,0
 rune, ruːn,0,0
 runes, ruːn,1,0
@@ -309,8 +309,8 @@ rungs, rʌŋ rʌŋ,1,0
 runner, ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌn·ər ˈrʌn·ər,0,0
 runners, ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌnɚ ˈrʌn·ər ˈrʌn·ər,1,0
 running, ˈrʌnɪŋ ˈrʌnɪŋ ˈrʌn·ɪŋ,1,0
-runnings,,0,0
-runnion,,0,0
+runnings,,0,1
+runnion,,0,1
 runny, ˈrʌni ˈrʌni ˈrʌn·i,0,0
 runoff, ˈrʌnɑːf ˈrʌnɑːf ˈrʌnˌɔf ˈrʌnˌɔf ˈrʌnˌɔf,0,0
 runs, rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn rʌn,1,0
@@ -325,15 +325,15 @@ rural, ˈrʊrəl ˈrʊr·əl,1,0
 ruse, ruːz ruz,0,0
 rush, rʌʃ rʌʃ rʌʃ rʌʃ,1,0
 rushed, rʌʃt,0,0
-rusher,,0,0
+rusher,,0,1
 rushes, rʌʃ rʌʃ rʌʃ rʌʃ,1,0
 rushing, ˈrʌʃɪŋ,0,0
 rusk, rʌsk,0,0
-ruskin,,0,0
-russ,,0,0
-russe, ˌʃɑːrlət ˈruːs,1,0
-russel,,0,0
-russell, ˌdʒæk ˈrʌsəl,1,0
+ruskin,,0,1
+russ,,0,1
+russe,,0,1
+russel,,0,1
+russell,,0,1
 russet, ˈrʌsɪt,0,0
 russia, ˈrʌʃə,1,0
 russian, ˈrʌʃən,1,0
@@ -354,27 +354,27 @@ rusty, ˈrʌsti ˈrʌsti ˈrʌs·ti ˈrʌs·ti,0,0
 rut, rʌt rʌt rʌt,0,0
 rutabaga, ˌruːt̬əˈbeɪɡə,0,0
 rutabagas, ˌruːt̬əˈbeɪɡə,1,0
-ruth,,0,0
-rutherford,,0,0
+ruth,,0,1
+rutherford,,0,1
 ruthless, ˈruːθləs ˈruθ·ləs,0,0
 ruthlessly, ˈruːθləsli,0,0
 ruthlessness, ˈruːθləsnəs,0,0
 ruts, rʌt rʌt rʌt rʌt,1,0
-rutter,,0,0
-ryder,,0,0
+rutter,,0,1
+ryder,,0,1
 rye, raɪ raɪ rɑɪ rɑɪ,0,0
-ryen,,0,0
-s, es es  -s  -s  -s  -s  -s  -s  -s  -s  -s es,1,0
+ryen,,0,1
+s,,0,1
 sa,,1,0
-sabbath, ˈsæbəθ ˈsæb·əθ,1,0
-sabbaths, ˈsæbəθ ˈsæb·əθ,1,0
+sabbath,,0,1
+sabbaths,,0,1
 sabbatical, səˈbæt̬ɪkəl səˈbæt̬·ɪ·kəl,1,0
 saber, ˈseɪbɚ ˈseɪ·bər,0,0
 sabers, ˈseɪbɚ ˈseɪ·bər,1,0
-sabin,,0,0
-sabina,,0,0
-sabine,,0,0
-sabir,,0,0
+sabin,,0,1
+sabina,,0,1
+sabine,,0,1
+sabir,,0,1
 sable, ˈseɪbəl ˈseɪbəl ˈseɪ·bəl,0,0
 sables, ˈseɪbəl ˈseɪbəl ˈsæbleɪ ˈseɪ·bəl,1,0
 sabotage, ˈsæbətɑːʒ ˈsæbətɑːʒ ˈsæb·əˌtɑʒ,1,0
@@ -382,7 +382,7 @@ sabotaged, ˈsæbətɑːʒ ˈsæbətɑːʒ,1,0
 sabotaging, ˈsæbətɑːʒ ˈsæbətɑːʒ,1,0
 saboteur, ˌsæbəˈtɝː,0,0
 saboteurs, ˌsæbəˈtɝː,1,0
-sabra,,0,0
+sabra,,0,1
 sabre, ˈseɪbɚ ˈseɪbɚ,0,0
 sabres, ˈseɪbɚ ˈseɪbɚ,1,0
 sac, sæk sæk sæk sæk sæk,0,0
@@ -395,7 +395,7 @@ sacking, ˈsækɪŋ ˈsækɪŋ ˈsækɪŋ,0,0
 sacks, sæk sæk sæk sæk sæk sæk sæk sæk,1,0
 sacrament, ˈsækrəmənt ˈsækrəmənt ˈsæk·rə·mənt,0,0
 sacramental, ˌsækrəˈment̬əl ˌsækrəˈment̬əl,0,0
-sacramento,,0,0
+sacramento,,0,1
 sacraments, ˈsækrəmənt ˈsækrəmənt ˈsæk·rə·mənt,1,0
 sacred, ˈseɪkrɪd ˈseɪkrɪd ˈseɪkrɪd ˈseɪ·krɪd,0,0
 sacredness, ˈseɪkrɪdnəs,0,0
@@ -440,26 +440,26 @@ safes, seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf s
 safest, seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf seɪf,1,0
 safeties, ˈseɪfti ˈseɪfti ˈseɪfti ˈseɪf·ti,1,0
 safety, ˈseɪfti ˈseɪfti ˈseɪfti ˈseɪf·ti,1,0
-safeway,,0,0
+safeway,,0,1
 safflower, ˈsæflaʊɚ,0,0
 saffron, ˈsæfrən ˈsæfrən,0,0
 sag, sæɡ sæɡ sæɡ sæɡ,1,0
 saga, ˈsɑːɡə ˈsɑːɡə ˈsɑːɡə ˈsɑɡ·ə,0,0
-sagan,,0,0
+sagan,,0,1
 sagas, ˈsɑːɡə ˈsɑːɡə ˈsɑːɡə ˈsɑɡ·ə,1,0
 sage, seɪdʒ seɪdʒ,0,0
 sagebrush, ˈseɪdʒbrʌʃ,0,0
-sager,,0,0
+sager,,0,1
 sages, seɪdʒ seɪdʒ,1,0
 sagged,,1,0
 sagging,,1,0
 sagittal, ˈsædʒət̬əl ˈsædʒət̬əl ˈsædʒət̬əl,0,0
 sags, sæɡ sæɡ sæɡ sæɡ,1,0
 saguaro, səˈɡwɑːroʊ,0,0
-sahara, səˈherə ,1,0
-sai,,0,0
+sahara,,0,1
+sai,,0,1
 said, sed sed,0,0
-saigon,,0,0
+saigon,,0,1
 sail, seɪl seɪl seɪl seɪl seɪl seɪl,0,0
 sailboat, ˈseɪlboʊt ˈseɪlˌboʊt,0,0
 sailboats, ˈseɪlboʊt ˈseɪlˌboʊt,1,0
@@ -474,11 +474,11 @@ sainted, ˈseɪnt̬ɪd,0,0
 sainthood, ˈseɪnthʊd,0,0
 saintly, ˈseɪntli ˈseɪnt·li,0,0
 saints, seɪnt seɪnt seɪnt seɪnt,1,0
-sakai,,0,0
+sakai,,0,1
 sake, ˈsɑːki seɪk seɪk,0,0
-sakes, seɪk seɪk seɪk ˈsɑːki seɪk seɪk,1,0
-saki, seɪk seɪk seɪk ˈsɑːki seɪk seɪk,1,0
-sal,,0,0
-sala,,0,0
+sakes,,0,1
+saki,,0,1
+sal,,0,1
+sala,,0,1
 salaam, səˈlɑːm,0,0
 salable, ˈseɪləbəl,1,0

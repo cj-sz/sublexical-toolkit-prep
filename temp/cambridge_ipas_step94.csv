@@ -1,6 +1,6 @@
 Word,Pronunciation,Root Word Returned,Missing
 typewritten, ˈtaɪpˌrɪt̬ən,1,0
-typhoid, ˌtaɪfɔɪd ˈfiːvɚ ˈtɑɪ·fɔɪd (ˈfi·vər),1,0
+typhoid,,0,1
 typhoon, taɪˈfuːn tɑɪˈfun,0,0
 typhoons, taɪˈfuːn tɑɪˈfun,1,0
 typhus, ˈtaɪfəs ˈtɑɪ·fəs,0,0
@@ -23,12 +23,12 @@ tyrant, ˈtaɪrənt,0,0
 tyrants, ˈtaɪrənt,1,0
 tyre, taɪr tɑɪər,0,0
 tyres, taɪr tɑɪər,1,0
-tyrone,,0,0
-u, juː juː ju,1,0
+tyrone,,0,1
+u,,0,1
 ubiquitous," juːˈbɪkwət̬əs jʊˈbɪk·wɪ·t̬əs, ju-",0,0
 ubiquity, juːˈbɪkwət̬i,0,0
-udell,,0,0
-udo,,0,0
+udell,,0,1
+udo,,0,1
 ufo, ˌjuːefˈoʊ ˌju·efˈoʊ,1,0
 ufos, ˌjuːefˈoʊ ˌju·efˈoʊ,1,0
 uganda, juːˈɡændə,1,0
@@ -43,13 +43,13 @@ ukraine, juːˈkreɪn,1,0
 ukrainian, juːˈkreɪniən,1,0
 ukrainians, juːˈkreɪniən,1,0
 ukulele, ˌjuːkəˈleɪli,0,0
-ula,,0,0
+ula,,0,1
 ulcer, ˈʌlsɚ ˈʌl·sər,0,0
 ulceration, ˌʌlsəˈreɪʃən,0,0
 ulcers, ˈʌlsɚ ˈʌl·sər,1,0
 ulster, ˈʌlstɚ ˈʌlstɚ,1,0
-ulterior, ʌlˈtɪriɚ ʌlˈtɪər·i·ər,1,0
-ultima,,0,0
+ulterior, ʌlˈtɪər·i·ər,0,1
+ultima,,0,1
 ultimate, ˈʌltəmət ˈʌl·tə·mət ˈʌl·tə·mət,1,0
 ultimately, ˈʌltəmətli ˈʌltəmətli ˈʌl·tə·mət·li,0,0
 ultimatum, ˌʌltəˈmeɪt̬əm ˌʌl·təˈmeɪ·t̬əm,1,0
@@ -60,30 +60,30 @@ ultranationalist, ˌʌltrəˈnæʃənəlɪst,1,0
 ultrasonic, ˌʌltrəˈsɑːnɪk ˌʌl·trəˈsɑn·ɪk,0,0
 ultrasound, ˈʌltrəsaʊnd ˈʌltrəsaʊnd ˈʌl·trəˌsɑʊnd,0,0
 ultraviolet, ˌʌltrəˈvaɪələt ˌʌl·trəˈvɑɪ·ə·lɪt,0,0
-ulysses,,0,0
+ulysses,,0,1
 um," əm ˈʌm, əm",0,0
-umbilical, ʌmˈbɪlɪkəl ˌkɔːrd ʌmˈbɪl·ɪ·kəl,1,0
-umble,,0,0
-umbrage, ˈʌmbrɪdʒ,1,0
+umbilical,,0,1
+umble,,0,1
+umbrage,,0,1
 umbrella, ʌmˈbrelə ʌmˈbrelə ʌmˈbrel·ə ʌmˈbrel·ə,1,0
 umbrellas, ʌmˈbrelə ʌmˈbrelə ʌmˈbrel·ə ʌmˈbrel·ə,1,0
-umm,,0,0
+umm,,0,1
 umpire, ˈʌmpaɪr ˈʌm·pɑɪər,0,0
 umpires, ˈʌmpaɪr ˈʌm·pɑɪər,1,0
 umpteen, ʌmpˈtiːn,0,0
 umpteenth, ʌmpˈtiːnθ,0,0
-un, ˌjuːˈen ʌn- ˌjuːˈen ən ʌn ˈjuˈen,1,0
-una, ˌuːnə ˈkɔːrdə ˌuːnə ˈkɔːrdə,1,0
+un,,0,1
+una,,0,1
 unabashed, ˌʌnəˈbæʃt ˌʌn·əˈbæʃt,0,0
 unabashedly, ˌʌnəˈbæʃtli,0,0
 unabated, ˌʌnəˈbeɪt̬ɪd ˌʌn·əˈbeɪ·t̬ɪd,0,0
-unable, ʌnˈeɪbəl ʌnˈeɪ·bəl,1,0
+unable, ʌnˈeɪ·bəl,0,1
 unabridged, ˌʌnəˈbrɪdʒd,0,0
 unacceptable, ˌʌnəkˈsept̬əbəl ˌʌn·ɪkˈsep·tə·bəl,0,0
 unaccompanied, ˌʌnəˈkʌmpənid ˌʌnəˈkʌmpənid ˌʌnəˈkʌmpənid ˌʌnəˈkʌmpənid ˌʌn·əˈkʌm·pə·nid,0,0
 unaccountable, ˌʌnəˈkaʊnt̬əbəl ˌʌn·əˈkɑʊn·tə·bəl ˌʌn·əˈkɑʊn·tə·bəl,0,0
 unaccountably, ˌʌnəˈkaʊnt̬əbəli,0,0
-unaccounted,,1,0
+unaccounted,,0,1
 unaccustomed, ˌʌnəˈkʌstəmd ˌʌnəˈkʌstəmd ˌʌn·əˈkʌs·təmd ˌʌn·əˈkʌs·təmd,0,0
 unadorned, ˌʌnəˈdɔːrnd,0,0
 unadulterated, ˌʌnəˈdʌləreɪt̬ɪd ˌʌnəˈdʌləreɪt̬ɪd ˌʌn·əˈdʌl·təˌreɪ·t̬ɪd,0,0
@@ -95,7 +95,7 @@ unaided, ˌʌnˈeɪdɪd,0,0
 unalienable, ʌnˈeɪliənəbəl,0,0
 unalloyed, ˌʌnəˈlɔɪd,0,0
 unalterable, ʌnˈɑːltɚəbəl,0,0
-unalterably,,0,0
+unalterably,,0,1
 unaltered, ʌnˈɑːltɚd ʌnˈɑːltɚd,0,0
 unambiguous, ˌʌnæmˈbɪɡjuəs ˌʌn·æmˈbɪɡ·ju·əs,0,0
 unambiguously, ˌʌnæmˈbɪɡjuəsli,0,0
@@ -137,7 +137,7 @@ unbearably, ʌnˈberəbli ʌnˈbeər·ə·bli,0,0
 unbeatable, ʌnˈbiːt̬əbəl ʌnˈbi·t̬ə·bəl,0,0
 unbeaten, ʌnˈbiːtən ʌnˈbi·tən,0,0
 unbecoming, ˌʌnbɪˈkʌmɪŋ ˌʌnbɪˈkʌmɪŋ ʌn·bɪˈkʌm·ɪŋ,0,0
-unbeknownst, ˌʌnbɪˈnoʊnst,1,0
+unbeknownst,,0,1
 unbelievable, ˌʌnbɪˈliːvəbəl ˌʌnbɪˈliːvəbəl ˌʌn·bɪˈli·və·bəl ˌʌn·bɪˈli·və·bəl,0,0
 unbelievably, ˌʌnbɪˈliːvəbli,0,0
 unbelieving, ˌʌnbɪˈliːvɪŋ ˌʌnbɪˈliːvɪŋ,0,0
@@ -145,16 +145,16 @@ unbend, ʌnˈbend,0,0
 unbending, ʌnˈbendɪŋ,0,0
 unbiased, ʌnˈbaɪəst,1,0
 unblemished, ʌnˈblemɪʃt ʌnˈblemɪʃt,0,0
-unbolt,,0,0
+unbolt,,0,1
 unborn, ʌnˈbɔːrn ʌnˈbɔrn,0,0
 unbound, ʌnˈbaɪnd,1,0
 unbounded, ʌnˈbaʊndɪd ʌnˈbɑʊn·dɪd,0,0
-unbowed,,0,0
+unbowed,,0,1
 unbreakable, ʌnˈbreɪkəbəl,0,0
 unbridled, ʌnˈbraɪdəld ʌnˈbrɑɪ·dəld,0,0
 unbroken, ʌnˈbroʊkən,0,0
-unburden, ʌnˈbɝːdən,1,0
-unburdened,,0,0
+unburden,,0,1
+unburdened,,0,1
 unburned, ˌʌnˈbɝːnd,0,0
 unbutton, ʌnˈbʌt̬ən,0,0
 unbuttoned, ʌnˈbʌt̬ənd,0,0
@@ -180,20 +180,20 @@ unchecked, ʌnˈtʃekt ʌnˈtʃekt,0,0
 uncivil, ʌnˈsɪvəl,0,0
 uncivilized, ʌnˈsɪvəlaɪzd ʌnˈsɪv·əˌlɑɪzd,0,0
 unclaimed, ʌnˈkleɪmd ʌnˈkleɪmd,0,0
-unclassified,,0,0
+unclassified,,0,1
 uncle, ˈʌŋkəl ˈʌŋkəl ˈʌŋ·kəl,0,0
 unclean, ʌnˈkliːn ʌnˈkliːn ʌnˈklin ʌnˈklin,0,0
 unclear, ʌnˈklɪr ʌnˈklɪr ʌnˈklɪər ʌnˈklɪər,0,0
 uncles, ˈʌŋkəl ˈʌŋkəl ˈʌŋ·kəl,1,0
 uncluttered, ʌnˈklʌt̬ɚd ʌnˈklʌt̬ɚd,0,0
-uncoil,,0,0
+uncoil,,0,1
 uncollected, ˌʌnkəˈlektɪd,1,0
 uncomfortable," ʌnˈkʌmfɚt̬ə ʌnˈkʌmfɚt̬ə ʌnˈkʌm·fər·t̬ə·bəl, -ˈkʌmf·tər·bəl",0,0
 uncomfortably, ʌnˈkʌmftɚbli ʌnˈkʌmftɚbli,0,0
 uncommitted, ˌʌnkəˈmɪt̬ɪd,0,0
 uncommon, ʌnˈkɑːmən ʌnˈkɑːmən ʌnˈkɑm·ən ʌnˈkɑm·ən,0,0
 uncommonly, ʌnˈkɑːmənli,0,0
-uncomplete,,0,0
+uncomplete,,0,1
 uncompleted, ˌʌnkəmˈpliːt̬ɪd,0,0
 uncomplicated, ˌʌnˈkɑːmpləkeɪt̬ɪd ˌʌnˈkɑːmpləkeɪt̬ɪd,0,0
 uncompromising, ʌnˈkɑːmprəmaɪzɪŋ ʌnˈkɑm·prəˌmɑɪ·zɪŋ,0,0
@@ -225,7 +225,7 @@ uncork, ʌnˈkɔːrk,0,0
 uncorked, ʌnˈkɔːrk,1,0
 uncorrected, ˌʌnkəˈrektɪd,0,0
 uncorroborated, ˌʌnkəˈrɑːbəreɪt̬ɪd,0,0
-uncounted,,0,0
+uncounted,,0,1
 uncouple, ʌnˈkʌpəl,0,0
 uncouth, ʌnˈkuːθ ʌnˈkuθ,0,0
 uncover, ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌv·ər,0,0
@@ -256,7 +256,7 @@ underbid,,1,0
 underbrush, ˈʌndɚˌbrʌʃ ˈʌn·dərˌbrʌʃ,0,0
 undercarriage, ˈʌndɚˌkerɪdʒ,0,0
 underclass, ˈʌndɚklæs ˈʌn·dərˌklæs,1,0
-underclassmen,,0,0
+underclassmen,,0,1
 undercoat, ˈʌndɚkoʊt,0,0
 undercook, ˌʌndɚˈkʊk,0,0
 undercooked, ˌʌndɚˈkʊkt,0,0
@@ -268,7 +268,7 @@ undercuts, ˌʌndɚˈkʌt ˌʌndɚˈkʌt ˌʌndɚˈkʌt ˌʌn·dərˈkʌt ˌʌn�
 undercutting, ˌʌndɚˈkʌt ˌʌndɚˈkʌt ˌʌndɚˈkʌt ˌʌn·dərˈkʌt ˌʌn·dərˈkʌt,1,0
 underdeveloped, ˌʌndədɚˈveləpt -dɚ- -dɚ-,0,0
 underdog, ˈʌndɚdɑːɡ ˈʌn·dərˌdɔɡ,0,0
-underdogs, ˈʌndɚdɑːɡ ˈʌndɚdɑːɡ ˈʌn·dərˌdɔɡ,1,0
+underdogs,,0,1
 underestimate, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt ˌʌn·dəˈres·təˌmeɪt,1,0
 underestimated, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt,1,0
 underestimates, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt ˌʌn·dəˈres·təˌmeɪt,1,0
@@ -287,7 +287,7 @@ undergraduates, ˌʌndɚˈɡrædʒuət ˌʌn·dərˈɡrædʒ·u·ət,1,0
 underground, ˈʌndɚɡraʊnd ˈʌndɚɡraʊnd ˌʌn·dərˈɡrɑʊnd ˌʌn·dərˈɡrɑʊnd,0,0
 undergrowth, ˈʌndɚɡroʊθ ˈʌn·dərˌɡroʊθ,0,0
 underhanded, ˌʌndɚˈhændɪd ˌʌn·dərˈhæn·dəd,1,0
-underhill,,0,0
+underhill,,0,1
 underinsured,,1,0
 underlies, ˌʌndɚˈlaɪ ˌʌn·dərˈlɑɪ,1,0
 underline, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn ˈʌn·dərˌlɑɪn ˈʌn·dərˌlɑɪn,0,0
@@ -321,7 +321,7 @@ underscored, ˌʌndɚˈskɔːr,1,0
 underscores," ˌʌndɚˈskɔːr ˈʌn·dərˌskɔr, -ˌskoʊr",1,0
 underscoring, ˌʌndɚˈskɔːr,1,0
 undersea, ˌʌndɚˈsiː,0,0
-underseas,,0,0
+underseas,,0,1
 undersecretary, ˌʌndɚˈsekrəteri ˌʌn·dərˈsek·rɪˌter·i,0,0
 undersell, ˌʌndɚˈsel ˌʌndɚˈsel,1,0
 underselling, ˌʌndɚˈsel ˌʌndɚˈsel,1,0
@@ -361,7 +361,7 @@ underwear, ˈʌndɚwer ˈʌn·dərˌweər,0,0
 underweight, ˌʌndɚˈweɪt ˌʌn·dərˈweɪt,1,0
 underwent, ˌʌndɚˈwent ˌʌn·dərˈwent,0,0
 underwhelmed, -dɚ-,0,0
-underwood,,0,0
+underwood,,0,1
 underworld, ˈʌndɚwɝːld ˈʌn·dərˌwɜrld,0,0
 underwrite, ˈʌndɚraɪt ˈʌndɚraɪt ˈʌn·dərˌrɑɪt ˌʌndəˈraɪt ˌʌndəˈraɪt ˌʌndəˈraɪt,0,0
 underwriter, ˈʌndɚˌraɪt̬ɚ ˈʌndɚˌraɪt̬ɚ -dəraɪṱɚ -dəraɪṱɚ,0,0
@@ -381,7 +381,7 @@ undid, ʌnˈdɪd,0,0
 undignified, ʌnˈdɪɡnəfaɪd,0,0
 undiluted, ˌʌndaɪˈluːt̬ɪd ˌʌndaɪˈluːt̬ɪd,0,0
 undiminished, ˌʌndɪˈmɪnɪʃt,0,0
-undine,,0,0
+undine,,0,1
 undiplomatic, ˌʌndɪpləˈmæt̬ɪk ˌʌndɪpləˈmæt̬ɪk,0,0
 undisciplined, ˌʌnˈdɪsəplɪnd,0,0
 undisclosed, ˌʌndɪsˈkloʊzd ˌʌn·dɪˈskloʊzd,1,0
@@ -392,14 +392,14 @@ undistinguished, ˌʌndɪˈstɪŋɡwɪʃt,0,0
 undisturbed, ˌʌndɪˈstɝːbd,0,0
 undivided, ˌʌndɪˈvaɪdɪd ˌʌn·dɪˈvɑɪd·ɪd ˌʌn·dɪˈvɑɪd·ɪd,1,0
 undo, ʌnˈduː ʌnˈduː ʌnˈdu ʌnˈdu,0,0
-undock,,0,0
-undocking,,0,0
+undock,,0,1
+undocking,,0,1
 undocumented, ʌnˈdɑːkjəment̬ɪd ʌnˈdɑːkjəment̬ɪd ʌnˈdɑk·jəˌmen·tɪd,1,0
 undoing, ʌnˈduːɪŋ ʌnˈdu·ɪŋ,0,0
 undone, ʌnˈdʌn,0,0
 undoubted, ʌnˈdaʊt̬ɪd,0,0
 undoubtedly, ʌnˈdaʊt̬ɪdli ʌnˈdɑʊ·t̬ɪd·li,0,0
-undreamed, ʌnˈdriːmd əv ʌnˈdrimdˌʌv,1,0
+undreamed,,0,1
 undress, ʌnˈdres ʌnˈdres,0,0
 undressed, ʌnˈdrest,0,0
 undue, ʌnˈduː ʌnˈdu,1,0
@@ -417,12 +417,12 @@ unease,,1,0
 uneasily, ʌnˈiːzəli ʌnˈiːzəli,0,0
 uneasiness, ʌnˈiːzinəs,1,0
 uneasy, ʌnˈiːzi ʌnˈiːzi ʌnˈi·zi,0,0
-unedited,,0,0
+unedited,,0,1
 uneducated, ʌnˈedʒəkeɪt̬ɪd ʌnˈedʒ·əˌkeɪ·t̬ɪd,0,0
 unelectable, ˌʌniˈlektəbəl,0,0
 unelected, ˌʌnɪˈlektɪd,0,0
 unemotional, ˌʌnɪˈmoʊʃənəl ˌʌnɪˈmoʊʃənəl,0,0
-unemploy,,0,0
+unemploy,,0,1
 unemployable,,1,0
 unemployed, ˌʌnɪmˈplɔɪd ˌʌn·ɪmˈplɔɪd,1,0
 unemployment, ˌʌnɪmˈplɔɪmənt ˌʌnɪmˈplɔɪmənt ˌʌnɪmˈplɔɪmənt ˌʌn·ɪmˈplɔɪ·mənt,1,0
@@ -449,7 +449,7 @@ unexpired, ˌʌnɪkˈspaɪrd,1,0
 unexplainable, ˌʌnɪkˈspleɪnəbəl,0,0
 unexplained, ʌnɪkˈspleɪnd ˌʌn·ɪkˈspleɪnd,0,0
 unexploded, ˌʌnɪkˈsploʊdɪd,0,0
-unexploited,,0,0
+unexploited,,0,1
 unexplored, ʌnɪkˈsplɔːrd ʌnɪkˈsplɔːrd,0,0
 unfailing, ʌnˈfeɪlɪŋ ʌnˈfeɪ·lɪŋ,0,0
 unfailingly, ʌnˈfeɪlɪŋli,0,0
@@ -458,7 +458,7 @@ unfairly, ʌnˈferli,0,0
 unfairness, ʌnˈfernəs,0,0
 unfaithful, ʌnˈfeɪθfəl ʌnˈfeɪθ·fəl ʌnˈfeɪθ·fəl,0,0
 unfamiliar, ʌnfəˈmɪlijɚ ˌʌn·fəˈmɪl·jər,0,0
-unfamiliarity,,0,0
+unfamiliarity,,0,1
 unfashionable, ʌnˈfæʃənəbəl,0,0
 unfathomable, ʌnˈfæðəməbəl,0,0
 unfavorable, ʌnˈfeɪ·vər·ə·bəl ʌnˈfeɪ·vər·ə·bəl,1,0

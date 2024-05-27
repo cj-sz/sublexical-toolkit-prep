@@ -1,5 +1,5 @@
 Word,Pronunciation,Root Word Returned,Missing
-illumined,,0,0
+illumined,,0,1
 illusion, ɪˈluːʒən ɪˈluːʒən ɪˈlu·ʒən,0,0
 illusionary, ɪˈluːʒəneri,0,0
 illusionist, ɪˈluːʒənɪst,0,0
@@ -41,8 +41,8 @@ imbedded, ɪmˈbedɪd,0,0
 imbibe, ɪmˈbaɪb ɪmˈbaɪb ɪmˈbɑɪb,0,0
 imbibed, ɪmˈbaɪb ɪmˈbaɪb,1,0
 imbroglio, ɪmˈbroʊlioʊ,0,0
-imbue, ɪmˈbjuː ɪmˈbjuː,1,0
-imbued, ɪmˈbjuː ɪmˈbjuː,1,0
+imbue,,0,1
+imbued,,0,1
 imitate, ˈɪməteɪt ˈɪm·ɪˌteɪt,0,0
 imitated, ˈɪməteɪt,1,0
 imitates, ˈɪməteɪt ˈɪm·ɪˌteɪt,1,0
@@ -91,17 +91,17 @@ immortality, ˌɪmɔːrˈtælət̬i ˌɪmɔːrˈtælət̬i,0,0
 immortalize, ɪˈmɔːrt̬əlaɪz ɪˈmɔr·t̬əlˌɑɪz,0,0
 immortalized, ɪˈmɔːrt̬əlaɪz,1,0
 immortalizing, ɪˈmɔːrt̬əlaɪz,1,0
-immortals,,1,0
+immortals,,0,1
 immovable, ɪˈmuːvəbəl ɪˈmuːvəbəl ɪˈmu·və·bəl,1,0
 immune, ɪˈmjuːn ɪˈmjuːn ɪˈmjuːn ɪˈmjun ɪˈmjun,0,0
-immunities,,0,0
+immunities,,0,1
 immunity, ɪˈmjuːnət̬i ɪˈmju·nɪ·t̬i ɪˈmju·nɪ·t̬i,1,0
 immunization, ˌimjənəˈzeɪʃən,0,0
 immunizations, ˌimjənəˈzeɪʃən,1,0
 immunize, ˈɪmjənaɪz ˈɪm·jəˌnɑɪz,0,0
 immunized, ˈɪmjənaɪz,1,0
 immunizing, ˈɪmjənaɪz,1,0
-immunologist,,0,0
+immunologist,,0,1
 immunotherapy, ˌɪmjənoʊˈθerəpi,0,0
 immutable, ɪˈmjuːt̬əbəl ɪˈmju·t̬ə·bəl,0,0
 imp, ɪmp ɪmp,0,0
@@ -120,7 +120,7 @@ impaled, ɪmˈpeɪl,1,0
 impales, ɪmˈpeɪl ɪmˈpeɪl,1,0
 impaling, ɪmˈpeɪl,1,0
 impanel, ɪmˈpænəl,0,0
-impaneled,,0,0
+impaneled,,0,1
 impart, ɪmˈpɑːrt ɪmˈpɑːrt ɪmˈpɑrt,0,0
 imparted, ɪmˈpɑːrt ɪmˈpɑːrt,1,0
 impartial, ɪmˈpɑːrʃəl ɪmˈpɑr·ʃəl,0,0
@@ -130,7 +130,7 @@ imparting, ɪmˈpɑːrt ɪmˈpɑːrt,1,0
 imparts, ɪmˈpɑːrt ɪmˈpɑːrt ɪmˈpɑrt,1,0
 impassable, ɪmˈpæsəbəl ɪmˈpæs·ə·bəl,0,0
 impasse, ˈɪmpæs ˈɪm·pæs ˈɪmpæs,0,0
-impassion,,0,0
+impassion,,0,1
 impassioned, ɪmˈpæʃənd ɪmˈpæʃ·ənd,0,0
 impassive, ɪmˈpæsɪv ɪmˈpæs·ɪv,0,0
 impatience, ɪmˈpeɪʃəns ɪmˈpeɪʃəns,0,0
@@ -182,10 +182,10 @@ impertinent, ɪmˈpɝːt̬ənənt ɪmˈpɜr·tən·ənt,0,0
 impervious, ɪmˈpɝːviəs ɪmˈpɝːviəs ɪmˈpɜr·vi·əs,0,0
 impetuous, ɪmˈpetʃuəs ɪmˈpetʃuəs ɪmˈpetʃ·u·əs,0,0
 impetus, ˈɪmpət̬əs ˈɪm·pət·̬əs,0,0
-impinge, ɪmˈpɪndʒ ɪmˈpɪndʒ,1,0
-impinged, ɪmˈpɪndʒ ɪmˈpɪndʒ,1,0
-impinges, ɪmˈpɪndʒ ɪmˈpɪndʒ,1,0
-impinging, ɪmˈpɪndʒ ɪmˈpɪndʒ,1,0
+impinge,,0,1
+impinged,,0,1
+impinges,,0,1
+impinging,,0,1
 impious, ˈɪmpiəs,0,0
 impish, ˈɪmpɪʃ ˈɪm·pɪʃ,0,0
 implacable, ɪmˈplækəbəl ɪmˈplæk·ə·bəl,0,0
@@ -261,7 +261,7 @@ impregnable, ɪmˈpreɡnəbəl ɪmˈpreɡnəbəl ɪmˈpreɡ·nə·bəl,0,0
 impregnate, ɪmˈpreɡneɪt ɪmˈpreɡneɪt ɪmˈpreɡ·neɪt ɪmˈpreɡ·neɪt,0,0
 impregnated, ɪmˈpreɡneɪt ɪmˈpreɡneɪt,1,0
 impregnating, ɪmˈpreɡneɪt ɪmˈpreɡneɪt,1,0
-impregnation,,0,0
+impregnation,,0,1
 impresario, ˌɪmprəˈsɑːrioʊ,1,0
 impress, ɪmˈpres ɪmˈpres ɪmˈpres,0,0
 impressed, ɪmˈpres,1,0
@@ -276,7 +276,7 @@ impressionists, ɪmˈpreʃənɪst ɪmˈpreʃənɪst,1,0
 impressions, ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃən ɪmˈpreʃ·ən ɪmˈpreʃ·ən ɪmˈpreʃ·ən,1,0
 impressive, ɪmˈpresɪv ɪmˈpresɪv ɪmˈpres·ɪv,0,0
 impressively, ɪmˈpresɪvli,0,0
-impressment,,0,0
+impressment,,0,1
 imprimatur, ˌɪmprɪˈmeɪt̬ɚ,1,0
 imprint, ɪmˈprɪnt ɪmˈprɪnt ɪmˈprɪnt,1,0
 imprinted, ɪmˈprɪnt ɪmˈprɪnt,1,0
@@ -350,7 +350,7 @@ inapplicable, ˌɪnəˈplɪkəbəl,0,0
 inappropriate, ˌɪnəˈproʊpriət ˌɪn·əˈproʊ·pri·ət,1,0
 inappropriately, ˌɪnəˈproʊpriətli,0,0
 inarticulate, ˌɪnɑːrˈtɪkjələt ˌɪn·ɑrˈtɪk·jə·lət,0,0
-inasmuch, ɪnəzˈmʌtʃ əz ˌɪn·əzˈmʌtʃ əz,1,0
+inasmuch,,0,1
 inattention, ˌɪnəˈtenʃən,0,0
 inattentive, ˌɪnəˈtent̬ɪv ˌɪn·əˈten·tɪv,0,0
 inaudible, ɪˈnɑːdəbəl ɪˈnɔd·ə·bəl,0,0
@@ -360,13 +360,13 @@ inaugurated, ɪˈnɑːɡjəreɪt ɪˈnɑːɡjəreɪt ɪˈnɑːɡjəreɪt,1,0
 inaugurates, ɪˈnɑːɡjəreɪt ɪˈnɑːɡjəreɪt ɪˈnɑːɡjəreɪt ɪˈnɔɡ·jəˌreɪt,1,0
 inauguration, ɪˌnɑːɡjəˈreɪʃən ɪˌnɑːɡjəˈreɪʃən ɪˌnɑːɡjəˈreɪʃən,1,0
 inauspicious, ˌɪnɑːˈspɪʃəs ˌɪn·ɔˈspɪʃ·əs,0,0
-inboard,,0,0
+inboard,,0,1
 inborn, ˈɪnbɔːrn ˈɪnˌbɔrn,0,0
 inbound, ˈɪnbaʊnd,1,0
 inbred, ˈɪnbred ˈɪnbred ˈɪnˌbred ˈɪnˌbred,0,0
 inbreeding, ˈɪnbriːdɪŋ,0,0
 inc, ɪŋk ɪŋk,1,0
-inca, pəˌruːviən ˌɪŋkə ˈɔːrkɪd,1,0
+inca,,0,1
 incalculable, ɪnˈkælkjələbəl ɪnˈkæl·kjə·lə·bəl,1,0
 incandescent, ˌɪnkænˈdesənt ˌɪnkænˈdesənt ˌɪnkænˈdesənt ˌɪnkænˈdesənt ˌɪn·kənˈdes·ənt,0,0
 incantation, ˌɪnkænˈteɪʃən ˌɪnˌkænˈteɪ·ʃən,0,0
@@ -374,7 +374,7 @@ incapable, ɪnˈkeɪpəbəl ɪnˈkeɪ·pə·bəl,0,0
 incapacitate, ˌɪnkəˈpæsəteɪt ˌɪn·kəˈpæs·ɪˌteɪt,0,0
 incapacitated, ˌɪnkəˈpæsəteɪt,1,0
 incapacitating, ˌɪnkəˈpæsəteɪt̬ɪŋ,0,0
-incapacitation,,0,0
+incapacitation,,0,1
 incapacity, ˌɪnkəˈpæsət̬i,1,0
 incarcerate, ɪnˈkɑːrsəreɪt ɪnˈkɑːrsəreɪt ɪnˈkɑr·səˌreɪt,0,0
 incarcerated, ɪnˈkɑːrsəreɪt ɪnˈkɑːrsəreɪt,1,0
@@ -383,8 +383,8 @@ incarceration, ɪnˌkɑːrsəˈreɪʃən ɪnˌkɑːrsəˈreɪʃən,0,0
 incarnate," ɪnˈkɑːrnət ɪnˈkɑr·nət, -neɪt",0,0
 incarnation, ˌɪnkɑːrˈneɪʃən ˌɪnkɑːrˈneɪʃən ˌɪnkɑːrˈneɪʃən ˌɪnˌkɑrˈneɪ·ʃən ˌɪnˌkɑrˈneɪ·ʃən ˌɪnˌkɑrˈneɪ·ʃən,0,0
 incarnations, ˌɪnkɑːrˈneɪʃən ˌɪnkɑːrˈneɪʃən ˌɪnkɑːrˈneɪʃən ˌɪnkɑːrˈneɪʃən ˌɪnˌkɑrˈneɪ·ʃən ˌɪnˌkɑrˈneɪ·ʃən ˌɪnˌkɑrˈneɪ·ʃən,1,0
-incas,,0,0
-incase,,0,0
+incas,,0,1
+incase,,0,1
 incendiary, ɪnˈsendieri ɪnˈsendieri ɪnˈsen·diˌer·i ɪnˈsen·diˌer·i,0,0
 incense, ˈɪnsens ˈɪn·sens,0,0
 incensed, ɪnˈsenst,0,0

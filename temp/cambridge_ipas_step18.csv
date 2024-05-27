@@ -36,10 +36,10 @@ colleen, kɑːˈliːn kɑːˈliːn,0,0
 college, ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑl·ɪdʒ ˈkɑl·ɪdʒ,0,0
 colleges, ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑːlɪdʒ ˈkɑl·ɪdʒ ˈkɑl·ɪdʒ,1,0
 collegial, kəˈliːdʒiəl kəˈliːdʒiəl,0,0
-collegian,,0,0
+collegian,,0,1
 collegiate, kəˈliːdʒɪt kəˈliːdʒɪt kəˈli·dʒət,0,0
-collen,,0,0
-collet,,0,0
+collen,,0,1
+collet,,0,1
 collide, kəˈlaɪd kəˈlɑɪd,0,0
 collided, kəˈlaɪd,1,0
 collides, kəˈlaɪd kəˈlɑɪd,1,0
@@ -48,12 +48,12 @@ collie, ˈkɑːli ˈkɑl·i,0,0
 collier, ˈkɑːljɚ ˈkɑːljɚ,1,0
 colliers, ˈkɑːljɚ ˈkɑːljɚ,1,0
 collies, ˈkɑːli ˈkɑl·i,1,0
-collin,,0,0
-colling,,0,0
-collins,,0,0
+collin,,0,1
+colling,,0,1
+collins,,0,1
 collision, kəˈlɪʒən kəˈlɪʒən kəˈlɪʒ·ən,1,0
 collisions, kəˈlɪʒən kəˈlɪʒən kəˈlɪʒ·ən,1,0
-collodion,,0,0
+collodion,,0,1
 colloquial, kəˈloʊkwiəl kəˈloʊ·kwi·əl,0,0
 colloquium,,1,0
 colloquy, ˈkɑːləkwi,0,0
@@ -62,9 +62,9 @@ colluded, kəˈluːd,1,0
 colluding, kəˈluːd,1,0
 collum, ˈkɑːləm,0,0
 collusion, kəˈluːʒən kəˈlu·ʒən,1,0
-colly,,0,0
+colly,,0,1
 cologne, kəˈloʊn kəˈloʊn,0,0
-colomb,,0,0
+colomb,,0,1
 colombia, kəˈlʌmbiə,1,0
 colombian, kəˈlʌmbiən,1,0
 colombians, kəˈlʌmbiən,1,0
@@ -83,8 +83,8 @@ colonists, ˈkɑːlənist ˈkɑl·ə·nɪst,1,0
 colonization, ˌkɑːlənəˈzeɪʃən ˌkɑːlənəˈzeɪʃən ˌkɑːlənəˈzeɪʃən,0,0
 colonize, ˈkɑːlənaɪz ˈkɑːlənaɪz ˈkɑːlənaɪz,0,0
 colonized, ˈkɑːlənaɪz ˈkɑːlənaɪz ˈkɑːlənaɪz,1,0
-colonizer,,0,0
-colonizers,,0,0
+colonizer,,0,1
+colonizers,,0,1
 colony, ˈkɑːləni ˈkɑːləni ˈkɑːləni ˈkɑːləni ˈkɑːləni ˈkɑl·ə·ni ˈkɑl·ə·ni ˈkɑl·ə·ni,0,0
 color, ˈkʌlɚ ˈkʌl·ər ˈkʌl·ər ˈkʌl·ər ˈkʌl·ər,0,0
 colorado, ˌkɑːləˈrɑːdoʊ,1,0
@@ -97,8 +97,8 @@ colorfast, ˈkʌlɚfæst,0,0
 colorful, ˈkʌlɚfəl ˈkʌl·ər·fəl ˈkʌl·ər·fəl,0,0
 colorfully, ˈkʌlɚfəli ˈkʌlɚfəli,0,0
 coloring, ˈkʌlɚɪŋ ˈkʌl·ər·ɪŋ ˈkʌl·ər·ɪŋ,0,0
-colorize,,0,0
-colorized,,0,0
+colorize,,0,1
+colorized,,0,1
 colorless, ˈkʌlɚləs ˈkʌl·ər·ləs ˈkʌl·ər·ləs,0,0
 colors, ˈkʌl·ərz,0,0
 colossal, kəˈlɑːsəl kəˈlɑs·əl,0,0
@@ -110,12 +110,12 @@ coloured, ˈkʌlɚd ˈkʌlɚd ˈkʌlɚd,0,0
 colouring, ˈkʌlɚɪŋ ˈkʌlɚɪŋ,0,0
 colt, koʊlt koʊlt,0,0
 colts, koʊlt koʊlt koʊlt,1,0
-columba,,0,0
+columba,,0,1
 columbia, kəˈlʌmbiə,1,0
 columbian, ˌpriːkəˈlʌmbiən,1,0
 columbine, ˈkɑːləmbaɪn,0,0
 columbines, ˈkɑːləmbaɪn,1,0
-columbo,,0,0
+columbo,,0,1
 columbus, kəˈlʌmbəs,1,0
 column, ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm,1,0
 columnist, ˈkɑːləmnɪst ˈkɑl·əm·nɪst,0,0
@@ -123,9 +123,9 @@ columnists, ˈkɑːləmnɪst ˈkɑl·əm·nɪst,1,0
 columns, ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑːləm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm ˈkɑl·əm,1,0
 com, kɑːm- ˌdɑːtˈkɑːm dɑtˈkɑm,1,0
 coma, ˈkoʊmə ˈkoʊ·mə,0,0
-comanche,,0,0
-comanches,,0,0
-comandante,,0,0
+comanche,,0,1
+comanches,,0,1
+comandante,,0,1
 comas, ˈkoʊmə ˈkoʊ·mə,1,0
 comatose," ˈkoʊmətoʊs ˈkoʊmətoʊs ˈkoʊ·məˌtoʊs, ˈkɑm·ə-",0,0
 comb, koʊm koʊm koʊm koʊm,0,0
@@ -136,9 +136,9 @@ combating, ˈkɑːmbæt ˈkɑːmbæt ˈkɑm·bæt ˈkɑm·bæt,1,0
 combative, ˈkɑːmbət̬ɪv,0,0
 combativeness, kəmˈbæt̬ɪvnəs,0,0
 combatting,,1,0
-combe,,0,0
+combe,,0,1
 combed, koʊm koʊm,1,0
-combes,,0,0
+combes,,0,1
 combination, ˌkɑːmbəˈneɪʃən ˌkɑːmbəˈneɪʃən ˌkɑːmbəˈneɪʃən ˌkɑm·bəˈneɪ·ʃən,1,0
 combinations, ˌkɑːmbəˈneɪʃən ˌkɑːmbəˈneɪʃən ˌkɑːmbəˈneɪʃən ˌkɑm·bəˈneɪ·ʃən,1,0
 combine, kəmˈbaɪn kəmˈbaɪn kəmˈbaɪn kəmˈbɑɪn kəmˈbɑɪn,1,0
@@ -162,11 +162,11 @@ comedown, ˈkʌmdaʊn ˈkʌmˌdɑʊn,0,0
 comedy, ˈkɑːmədi ˈkɑːmədi ˈkɑm·ə·di ˈkɑm·ə·di,0,0
 comely, ˈkʌmli,0,0
 comer, ˈkʌmɚ ˈkʌmɚ,0,0
-comers, ˈɑːlˌkʌmɚz,1,0
+comers,,0,1
 comes, kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm kʌm,1,0
 comet, ˈkɑːmɪt ˈkɑm·ɪt,0,0
-cometary,,0,0
-cometh,,0,0
+cometary,,0,1
+cometh,,0,1
 comets, ˈkɑːmɪt ˈkɑm·ɪt,1,0
 comeuppance, kʌmˈʌpəns kʌmˈʌp·əns,0,0
 comfort, ˈkʌmfɚt ˈkʌmfɚt ˈkʌmfɚt ˈkʌmfɚt ˈkʌm·fərt,0,0
@@ -182,10 +182,10 @@ comfy, ˈkʌmfi,0,0
 comic, ˈkɑːmɪk ˈkɑm·ɪk,0,0
 comical, ˈkɑːmɪkəl ˈkɑm·ɪ·kəl,0,0
 comically, ˈkɑːmɪkəli,0,0
-comics,,1,0
+comics,,0,1
 coming, ˈkʌmɪŋ,0,0
-comings, ˈkʌmɪŋz,1,0
-comitatus,,0,0
+comings,,0,1
+comitatus,,0,1
 comm, ˈsaɪkɑːm,1,0
 comma, ˈkɑːmə ˈkɑm·ə,0,0
 command, kəˈmænd kəˈmænd kəˈmænd kəˈmænd kəˈmænd kəˈmænd kəˈmænd,1,0
@@ -274,8 +274,8 @@ commoner, ˈkɑːmənɚ,0,0
 commoners, ˈkɑːmənɚ,1,0
 commonly, ˈkɑːmənli ˈkɑːmənli,0,0
 commonplace, ˈkɑːmənpleɪs ˈkɑm·ənˌpleɪs,0,0
-commons, ˈkɑːmənz ˈkɑm·ənz,1,0
-commonsense,,0,0
+commons,,0,1
+commonsense,,0,1
 commonwealth, ˈkɑːmənwelθ ˈkɑːmənwelθ ˈkɑm·ənˌwelθ ˈkɑm·ənˌwelθ ˈkɑm·ənˌwelθ ˈkɑm·ənˌwelθ,1,0
 commotion, kəˈmoʊʃən kəˈmoʊ·ʃən,0,0
 communal," ˈkɑːmjənəl ˈkɑːmjənəl ˈkɑːmjənəl kəˈmju·nəl, ˈkɑm·jə·nəl",0,0
@@ -312,8 +312,8 @@ compact," kəmˈpækt kəmˈpækt, kɑm-",0,0
 compacted, kəmˈpækt,1,0
 compactor," kəmˈpæktɚ kəmˈpæk·tər, ˈkɑm·pæk-",0,0
 compacts," kəmˈpækt kəmˈpækt, kɑm-",1,0
-compagnie,,0,0
-companero,,0,0
+compagnie,,0,1
+companero,,0,1
 companies, ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌmpəni ˈkʌm·pə·ni ˈkʌm·pə·ni ˈkʌm·pə·ni ˈkʌm·pə·ni,1,0
 companion, kəmˈpænjən kəmˈpænjən kəmˈpænjən kəmˈpænjən kəmˈpæn·jən,0,0
 companions, kəmˈpænjən kəmˈpænjən kəmˈpænjən kəmˈpænjən kəmˈpæn·jən,1,0
@@ -382,8 +382,8 @@ complain, kəmˈpleɪn kəmˈpleɪn kəmˈpleɪn kəmˈpleɪn,1,0
 complainant, kəmˈpleɪnənt kəmˈpleɪnənt,0,0
 complainants, kəmˈpleɪnənt kəmˈpleɪnənt,1,0
 complained, kəmˈpleɪn kəmˈpleɪn,1,0
-complainer,,0,0
-complainers,,0,0
+complainer,,0,1
+complainers,,0,1
 complaining, kəmˈpleɪnɪŋ,0,0
 complains, kəmˈpleɪn kəmˈpleɪn kəmˈpleɪn kəmˈpleɪn,1,0
 complaint, kəmˈpleɪnt kəmˈpleɪnt kəmˈpleɪnt kəmˈpleɪnt,1,0
@@ -422,7 +422,7 @@ compliment, ˈkɑːmpləmənt ˈkɑːmpləmənt ˈkɑm·plə·mənt,0,0
 complimentary," ˌkɑːmpləˈment̬ɚi ˌkɑːmpləˈment̬ɚi ˌkɑm·pləˈmen·tə·ri, -tri ˌkɑm·pləˈmen·tə·ri, -tri",1,0
 complimented, ˈkɑːmpləmənt,1,0
 complimenting, ˈkɑːmpləmənt,1,0
-compliments,,1,0
+compliments,,0,1
 comply, kəmˈplaɪ kəmˈplɑɪ,1,0
 complying, kəmˈplaɪ,1,0
 component, kəmˈpoʊnənt kəmˈpoʊ·nənt kəmˈpoʊ·nənt,1,0
@@ -467,7 +467,7 @@ comprises, kəmˈpraɪz kəmˈpraɪz kəmˈprɑɪz,1,0
 comprising, kəmˈpraɪz kəmˈpraɪz kəmˈprɑɪz,1,0
 compromise, ˈkɑːmprəmaɪz ˈkɑm·prəˌmɑɪz,1,0
 compromised, ˈkɑːmprəmaɪz ˈkɑːmprəmaɪz ˈkɑːmprəmaɪz,1,0
-compromiser,,0,0
+compromiser,,0,1
 compromises, ˈkɑːmprəmaɪz ˈkɑm·prəˌmɑɪz,1,0
 compromising, ˈkɑːmprəmaɪzɪŋ ˈkɑm·prəˌmɑɪ·zɪŋ,0,0
 comptroller," kənˈtroʊlɚ kənˈtroʊ·lər, ˈkɑmˌtroʊ- -ˈtroʊlɚ",0,0

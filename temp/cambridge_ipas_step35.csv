@@ -2,7 +2,7 @@ Word,Pronunciation,Root Word Returned,Missing
 fissures, ˈfɪʃɚ ˈfɪʃɚ ˈfɪʃɚ ˈfɪʃ·ər,1,0
 fist, fɪst fɪst,0,0
 fisted, ˌhæmˈfɪstɪd,1,0
-fister,,0,0
+fister,,0,1
 fistful, ˈfɪstfʊl ˈfɪstfʊl ˈfɪst·fʊl,0,0
 fisticuffs, ˈfɪstikʌfs,0,0
 fists, fɪst fɪst,1,0
@@ -18,12 +18,12 @@ fittest,,1,0
 fitting, ˈfɪt̬ɪŋ ˈfɪt̬·ɪŋ,1,0
 fittingly, ˈfɪt̬ɪŋli,0,0
 fittings, ˈfɪt̬ɪŋ ˈfɪt̬·ɪŋ,1,0
-fitz,,0,0
+fitz,,0,1
 five, faɪv fɑɪv fɑɪv,0,0
 fivefold, ˈfaɪvfoʊld ˈfaɪvfoʊld,0,0
 fives, faɪv fɑɪv fɑɪv,1,0
 fix, fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks fɪks,1,0
-fixable,,0,0
+fixable,,0,1
 fixate, ˈfɪkseɪt,0,0
 fixated, ˈfɪkseɪt̬ɪd ˈfɪk·seɪ·tɪd,0,0
 fixates, ˈfɪkseɪt,1,0
@@ -51,7 +51,7 @@ flagellate, ˈflædʒəleɪt,0,0
 flageolet, ˌflædʒəˈlet ˌflædʒəˈlet,0,0
 flagged, flæɡd,0,0
 flagging, ˈflæɡɪŋ,1,0
-flagman,,0,0
+flagman,,0,1
 flagpole, ˈflæɡpoʊl ˈflæɡˌpoʊl,0,0
 flagpoles, ˈflæɡpoʊl ˈflæɡˌpoʊl,1,0
 flagrant, ˈfleɪɡrənt ˈfleɪ·ɡrənt,0,0
@@ -82,7 +82,7 @@ flamingo, fləˈmɪŋɡoʊ fləˈmɪŋ·ɡoʊ,0,0
 flamingos, fləˈmɪŋɡoʊ fləˈmɪŋ·ɡoʊ,1,0
 flammable, ˈflæməbəl ˈflæm·ə·bəl,0,0
 flan, flæn flæn,0,0
-flanders,,0,0
+flanders,,0,1
 flange, flændʒ,0,0
 flank, flæŋk flæŋk flæŋk flæŋk flæŋk,0,0
 flanked, flæŋk,1,0
@@ -108,7 +108,7 @@ flashback, ˈflæʃbæk ˈflæʃbæk ˈflæʃˌbæk,0,0
 flashbacks, ˈflæʃbæk ˈflæʃbæk ˈflæʃˌbæk,1,0
 flashbulb, ˈflæʃbʌlb,0,0
 flashbulbs, ˈflæʃbʌlb,1,0
-flashcards,,0,0
+flashcards,,0,1
 flashed, flæʃ flæʃ flæʃ flæʃ flæʃ flæʃ flæʃ,1,0
 flasher, ˈflæʃɚ,0,0
 flashers, ˈflæʃɚ,1,0
@@ -127,8 +127,8 @@ flatbed, ˈflætbed,0,0
 flatfish, ˈflætfɪʃ,0,0
 flathead, ˈflæthed,0,0
 flatheads, ˈflæthed,1,0
-flatland,,0,0
-flatlands,,0,0
+flatland,,0,1
+flatlands,,0,1
 flatly, ˈflætli ˈflætli ˈflæt·li,0,0
 flatness, ˈflætnəs ˈflætnəs,0,0
 flats, flæts flæts,1,0
@@ -142,7 +142,7 @@ flattery, ˈflæt̬əri,0,0
 flatulent, ˈflætʃələnt,0,0
 flatware, ˈflætwer ˈflætˌweər,0,0
 flatworm, ˈflætwɝːm,0,0
-flaubert,,0,0
+flaubert,,0,1
 flaunt," flɑːnt flɔnt, flɑnt",0,0
 flaunted, flɑːnt flɑːnt,1,0
 flaunting, flɑːnt flɑːnt,1,0
@@ -160,7 +160,7 @@ flawless, ˈflɑːləs ˈflɔ·ləs,0,0
 flawlessly, ˈflɑːləsli,0,0
 flaws, flɑː flɔ,1,0
 flax, flæks,0,0
-flaxman,,0,0
+flaxman,,0,1
 flaxseed, ˈflækssiːd,0,0
 flay, fleɪ fleɪ,0,0
 flayed, fleɪ fleɪ,1,0
@@ -180,22 +180,22 @@ fleeces, fliːs fliːs fliːs fliːs flis,1,0
 fleecing, fliːs,1,0
 fleecy, ˈfliːsi,0,0
 fleeing, fliː fliː fli,1,0
-fleer,,0,0
+fleer,,0,1
 flees, fliː fliː fli,1,0
 fleet, fliːt fliːt flit flit,1,0
 fleeting, ˈfliːt̬ɪŋ ˈfli·t̬ɪŋ,0,0
 fleetingly, ˈfliːt̬ɪŋli,0,0
 fleets, fliːt fliːt flit flit,1,0
-fleming,,0,0
-flemings,,0,0
+fleming,,0,1
+flemings,,0,1
 flemish, ˈflemɪʃ,1,0
 flesh, fleʃ fleʃ fleʃ,0,0
-fleshed, fleʃ fleʃ fleʃ fleʃ,1,0
+fleshed,,0,1
 fleshy, ˈfleʃi ˈfleʃ·i,0,0
-fletcher,,0,0
+fletcher,,0,1
 fleur, ˌflɝːdəˈliːs,1,0
-fleurette,,0,0
-fleury,,0,0
+fleurette,,0,1
+fleury,,0,1
 flew, fluː flu,0,0
 flex, fleks fleks fleks fleks fleks,1,0
 flexed, fleks fleks fleks fleks,1,0
@@ -210,7 +210,7 @@ flickered, ˈflɪkɚ ˈflɪkɚ,1,0
 flickering, ˈflɪkɚɪŋ ˈflɪkɚɪŋ,0,0
 flickers, ˈflɪkɚ ˈflɪkɚ ˈflɪk·ər,1,0
 flicking, flɪk,1,0
-flicks,,1,0
+flicks,,0,1
 flied, flaɪ flaɪ flaɪ flaɪ flaɪ flaɪ flaɪ flaɪ flaɪ flɑɪ flɑɪ flɑɪ,1,0
 flier, ˈflaɪɚ ˈflɑɪ·ər ˈflɑɪ·ər,1,0
 fliers, ˈflaɪɚ ˈflɑɪ·ər ˈflɑɪ·ər,1,0
@@ -225,14 +225,14 @@ flimsy, ˈflɪmzi ˈflɪmzi ˈflɪm·zi ˈflɪm·zi,0,0
 flinch, flɪntʃ flɪntʃ,0,0
 flinched, flɪntʃ,1,0
 flinching, flɪntʃ,1,0
-flinders,,0,0
+flinders,,0,1
 fling, flɪŋ flɪŋ flɪŋ flɪŋ,0,0
 flinging, flɪŋ flɪŋ flɪŋ flɪŋ,1,0
 flings, flɪŋ flɪŋ flɪŋ flɪŋ,1,0
 flint, flɪnt flɪnt flɪnt,0,0
-flintlock,,0,0
+flintlock,,0,1
 flints, flɪnt flɪnt flɪnt,1,0
-flintstone,,0,0
+flintstone,,0,1
 flinty, ˈflɪnt̬i ˈflɪnt̬i,0,0
 flip, flɪp flɪp flɪp flɪp flɪp flɪp flɪp,1,0
 flippant, ˈflɪpənt ˈflɪp·ənt,0,0
@@ -267,13 +267,13 @@ flogging, ˈflɑːɡɪŋ,0,0
 flood, flʌd flʌd flʌd flʌd flʌd,1,0
 flooded, ˈflʌdɪd ˈflʌdɪd,0,0
 floodgate, ˈflʌdɡeɪt,0,0
-floodgates,,1,0
+floodgates,,0,1
 flooding, ˈflʌdɪŋ ˈflʌd·ɪŋ,0,0
 floodlight, ˈflʌdlaɪt ˈflʌdˌlɑɪt,0,0
 floodlights, ˈflʌdlaɪt ˈflʌdˌlɑɪt,1,0
 floodplain, ˈflʌdˌpleɪn ˈflʌdˌpleɪn,0,0
 floods, flʌd flʌd flʌd flʌd flʌd flʌd flʌd flʌd,1,0
-floodwater,,0,0
+floodwater,,0,1
 floor," flɔːr flɔːr flɔːr flɔr, floʊr flɔr, floʊr flɔr, floʊr flɔr, floʊr",1,0
 floorboard," ˈflɔːrbɔːrd ˈflɔrˌbɔrd, ˈfloʊrˌboʊrd ˈflɔrˌbɔrd, ˈfloʊrˌboʊrd",0,0
 floorboards," ˈflɔːrbɔːrd ˈflɔrˌbɔrd, ˈfloʊrˌboʊrd ˈflɔrˌbɔrd, ˈfloʊrˌboʊrd",1,0
@@ -285,21 +285,21 @@ flopped,,1,0
 flopping,,1,0
 floppy, ˈflɑːpi ˈflɑp·i,1,0
 flops, flɑːps,1,0
-flor,,0,0
+flor,,0,1
 flora," ˈflɔːrə ˈflɔːrə ˈflɔr·ə, ˈfloʊr·ə",0,0
 floral," ˈflɔːrəl ˈflɔr·əl, ˈfloʊr·əl",0,0
 florence, ˈflɔːrənts,1,0
 florentine, ˈflɔːrəntiːn ˈflɔːrəntiːn,1,0
-flores,,0,0
+flores,,0,1
 florid," ˈflɔːrɪd ˈflɔːrɪd ˈflɔr·ɪd, ˈflɑr·ɪd ˈflɔr·ɪd, ˈflɑr·ɪd",0,0
 florida, ˈflɔːrɪdə,1,0
 floridian, flɔːrˈɪdiən,1,0
-floridians,,0,0
-florin,,0,0
+floridians,,0,1
+florin,,0,1
 florist," ˈflɔːrɪst ˈflɔr·ɪst, ˈflɑr-",0,0
 florists," ˈflɔːrɪst ˈflɔːrɪst ˈflɔr·ɪst, ˈflɑr-",1,0
 floss," flɑːs flɑːs flɑːs flɑs, flɔs",0,0
-flossie,,0,0
+flossie,,0,1
 flotation, floʊˈteɪʃən floʊˈteɪʃən,1,0
 flotilla, fləˈtɪlə floʊˈtɪl·ə,0,0
 flotsam, ˈflɑːt- ˈflɑːt-,0,0
@@ -363,14 +363,14 @@ fluorescent," flɔːˈresənt flɔːˈresənt ˌflʊˈres·ənt, ˌflɔ-, ˌflo�
 fluoridation, ˌflɔːrəˈdeɪʃən,0,0
 fluoride," ˈflɔːraɪd ˈflʊər·ɑɪd, ˈflɔr-, ˈfloʊr-",0,0
 fluorine, ˈflɔːriːn,0,0
-fluorite,,0,0
+fluorite,,0,1
 fluorocarbon, ˌflɔːroʊˈkɑːrbən,0,0
 fluorocarbons, ˌflɔːroʊˈkɑːrbən,1,0
-fluorometer,,0,0
-fluorspar,,0,0
+fluorometer,,0,1
+fluorspar,,0,1
 flurries," ˈflɝːi ˈflɝːi ˈflɜr·i, ˈflʌr·i ˈflɜr·i, ˈflʌr·i",1,0
 flurry," ˈflɝːi ˈflɝːi ˈflɜr·i, ˈflʌr·i ˈflɜr·i, ˈflʌr·i",0,0
-flus,,0,0
+flus,,0,1
 flush, flʌʃ flʌʃ flʌʃ flʌʃ,1,0
 flushed, flʌʃt flʌʃt,0,0
 flushes, flʌʃ flʌʃ flʌʃ flʌʃ flʌʃ flʌʃ,1,0
@@ -393,7 +393,7 @@ flyer, ˈflaɪɚ ˈflaɪɚ ˈflaɪɚ ˈflaɪɚ ˈflɑɪ·ər ˈflɑɪ·ər,1,0
 flyers, ˈflaɪɚ ˈflɑɪ·ər ˈflɑɪ·ər,1,0
 flying, ˈflaɪɪŋ,0,0
 flypaper, ˈflaɪˌpeɪpɚ,0,0
-flytrap, ˌviːnəs ˈflaɪtræp,1,0
+flytrap,,0,1
 flywheel, ˈflaɪwiːl,0,0
 fm, ˌefˈem ˌefˈem ˈefˈem,1,0
 foal, foʊl foʊl,0,0
@@ -422,9 +422,9 @@ foil, fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl,0,0
 foiled, fɔɪl,1,0
 foiling, fɔɪl,1,0
 foils, fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl fɔɪl,1,0
-foist, fɔɪst fɔɪst,1,0
-foisted, fɔɪst fɔɪst,1,0
-fokker,,0,0
+foist,,0,1
+foisted,,0,1
+fokker,,0,1
 fold, foʊld foʊld foʊld foʊld foʊld foʊld foʊld,1,0
 folded, foʊld foʊld foʊld foʊld foʊld,1,0
 folder, ˈfoʊldɚ ˈfoʊldɚ ˈfoʊl·dər,1,0
@@ -432,7 +432,7 @@ folders, ˈfoʊldɚ ˈfoʊldɚ ˈfoʊl·dər,1,0
 folding, ˈfoʊldɪŋ ˈfoʊldɪŋ ˈfoʊl·dɪŋ,0,0
 folds, foʊld foʊld foʊld foʊld foʊld foʊld  -foʊld foʊld foʊld foʊld ˌfoʊld,1,0
 foliage, ˈfoʊliɪdʒ ˈfoʊ·li·ɪdʒ,0,0
-folic, ˌfoʊlɪk ˈæsɪd,1,0
+folic,,0,1
 folk, foʊk foʊk foʊk,0,0
 folklore," ˈfoʊklɔːr ˈfoʊkˌlɔr, -loʊr",0,0
 folks, foʊks foʊks foʊks,1,0
@@ -449,12 +449,12 @@ following, ˈfɑːloʊɪŋ ˈfɑl·oʊ·ɪŋ,0,0
 followings, ˈfɑːloʊɪŋ ˈfɑːloʊɪŋ ˈfɑːloʊɪŋ ˈfɑl·oʊ·ɪŋ,1,0
 follows, ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑːloʊ ˈfɑl·oʊ ˈfɑl·oʊ ˈfɑl·oʊ ˈfɑl·oʊ ˈfɑl·oʊ ˈfɑl·oʊ ˈfɑl·oʊ,1,0
 folly, ˈfɑːli ˈfɑːli ˈfɑl·i,0,0
-folsom,,0,0
+folsom,,0,1
 foment, foʊˈment foʊˈment,0,0
 fomenting, foʊˈment,1,0
 fond, fɑːnd fɑnd,0,0
-fonder, fɑːnd fɑːnd fɑːnd fɑːnd fɑnd,1,0
-fondest, fɑːnd fɑːnd fɑːnd fɑːnd fɑnd,1,0
+fonder,,0,1
+fondest,,0,1
 fondle, ˈfɑːndəl ˈfɑn·dəl,0,0
 fondled, ˈfɑːndəl,1,0
 fondling, ˈfɑːndəl,1,0
@@ -463,7 +463,7 @@ fondness, ˈfɑːndnəs ˈfɑnd·nəs,0,0
 fondue, fɑːnˈduː,0,0
 font, fɑːnt fɑːnt fɑnt fɑnt,1,0
 fonts, fɑːnt fɑːnt fɑnt fɑnt,1,0
-foo, ˌeɡ ˌfuː ˈjʌŋ,1,0
+foo,,0,1
 food, fuːd fud fud,1,0
 foodie, ˈfuːdi,0,0
 foods, fuːd fud fud,1,0

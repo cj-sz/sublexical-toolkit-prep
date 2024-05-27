@@ -10,7 +10,7 @@ rafts, ræft ræft ræft ræft ræft ræft ræft ræft,1,0
 rag, ræɡ ræɡ ræɡ ræɡ ræɡ,0,0
 rage, reɪdʒ reɪdʒ reɪdʒ,1,0
 raged, reɪdʒ reɪdʒ,1,0
-rager,,0,0
+rager,,0,1
 rages, reɪdʒ reɪdʒ  -reɪdʒ reɪdʒ,1,0
 ragged, ˈræɡɪd ˈræɡɪd ˈræɡɪd ˈræɡɪd ˈræɡɪd ˈræɡ·ɪd ˈræɡ·ɪd,0,0
 raggedy, ˈræɡɪdi,0,0
@@ -27,7 +27,7 @@ raiders, ˈreɪdɚ,1,0
 raiding, reɪd reɪd reɪd reɪd,1,0
 raids, reɪd reɪd reɪd reɪd reɪd,1,0
 rail, reɪl reɪl reɪl reɪl reɪl reɪl,1,0
-railcar,,0,0
+railcar,,0,1
 railed, reɪl,1,0
 railing, ˈreɪlɪŋ ˈreɪlɪŋ ˈreɪ·lɪŋ,0,0
 railings, ˈreɪlɪŋ ˈreɪlɪŋ ˈreɪ·lɪŋ,1,0
@@ -46,8 +46,8 @@ raincoats, ˈreɪŋkoʊt ˈreɪnˌkoʊt,1,0
 raindrop, ˈreɪndrɑːp,0,0
 raindrops, ˈreɪndrɑːp,1,0
 rained, reɪn,1,0
-rainer,,0,0
-raines,,0,0
+rainer,,0,1
+raines,,0,1
 rainfall, ˈreɪnfɑːl ˈreɪnˌfɔl,0,0
 rainforest, ˈreɪnfɔːrɪst,0,0
 rainforests, ˈreɪnfɔːrɪst,1,0
@@ -55,7 +55,7 @@ rainier, ˈreɪni,1,0
 rainiest, ˈreɪni,1,0
 raining, reɪn,1,0
 rainmaker, ˈreɪnmeɪkɚ ˈreɪnmeɪkɚ ˈreɪnmeɪkɚ,1,0
-rains,,1,0
+rains,,0,1
 rainstorm, ˈreɪnstɔːrm ˈreɪnˌstɔrm,0,0
 rainwater," ˈreɪnˌwɑːt̬ɚ ˈreɪnˌwɔ·t̬ər, -ˌwɑt̬·ər",0,0
 rainy, ˈreɪni,0,0
@@ -67,22 +67,22 @@ raises, reɪz reɪz reɪz reɪz reɪz reɪz reɪz reɪz reɪz reɪz reɪz reɪz,
 raisin, ˈreɪzən ˈreɪ·zɪn,0,0
 raising, reɪz reɪz reɪz reɪz reɪz reɪz reɪz,1,0
 raisins, ˈreɪzən ˈreɪ·zɪn,1,0
-raison, ˌreɪzɑːn ˈdetrə,1,0
-raj, rɑːdʒ,1,0
+raison,,0,1
+raj,,0,1
 rake, reɪk reɪk reɪk reɪk,1,0
 raked, reɪkt,0,0
 rakes, reɪk reɪk reɪk reɪk,1,0
 raking, reɪk reɪk,1,0
 rakish, ˈreɪkɪʃ ˈreɪkɪʃ,0,0
-rales,,0,0
-rall,,0,0
+rales,,0,1
+rall,,0,1
 rallied, ˈræli ˈræli,1,0
 rallies, ˈræli ˈræli ˈræli ˈræli ˈræl·i ˈræl·i,1,0
 rally, ˈræli ˈræli ˈræli ˈræli ˈræl·i ˈræl·i,1,0
 rallying, ˈræliɪŋ ˈræliɪŋ,0,0
 ralph, rælf,0,0
 ram, ræm ræm,1,0
-ramada,,0,0
+ramada,,0,1
 ramadan," ˌræməˈdɑːn ˈrɑ·məˌdɑn, ˈræm·ə-",1,0
 ramble, ˈræmbəl ˈræmbəl ˈræmbəl ˈræm·bəl ˈræm·bəl,0,0
 rambled, ˈræmbəl ˈræmbəl ˈræmbəl,1,0
@@ -93,9 +93,9 @@ rambunctious, ræmˈbʌŋkʃəs ræmˈbʌŋk·ʃəs,0,0
 rami,,1,0
 ramifications, ˌræməfəˈkeɪʃənz ˌræm·ə·fɪˈkeɪ·ʃən,1,0
 rammed, ræmd,0,0
-rammer,,0,0
+rammer,,0,1
 ramming,,1,0
-ramon,,0,0
+ramon,,0,1
 ramp, ræmp ræmp ræmp ræmp ræmp ræmp,0,0
 rampage, ræmˈpeɪdʒ ˈræm·peɪdʒ,0,0
 rampages, ræmˈpeɪdʒ ˈræm·peɪdʒ,1,0
@@ -109,26 +109,26 @@ rams, ræm ræm ræm ræm,1,0
 ramshackle, ˈræmˌʃækəl ˈræmˌʃækəl ˈræmˌʃæk·əl,0,0
 ramus, ˈreɪməs,0,0
 ran, ræn ræn,1,0
-rana,,0,0
-rance,,0,0
+rana,,0,1
+rance,,0,1
 ranch, ræntʃ ræntʃ,0,0
 rancher, ˈræntʃɚ ˈræn·tʃər,0,0
-ranchero,,0,0
+ranchero,,0,1
 ranchers, ˈræntʃɚ ˈræn·tʃər,1,0
 ranches, ræntʃ ræntʃ,1,0
 ranching, ˈræntʃɪŋ,0,0
-rancho,,0,0
+rancho,,0,1
 rancid, ˈrænsɪd ˈræn·sɪd,0,0
 rancor, ˈræŋkɚ ˈræŋ·kər,0,0
 rancorous, ˈræŋkɚəs,0,0
 rand, rænd,0,0
-randall, ˌrændəl ˈlaɪnbæk,1,0
-randle,,0,0
+randall,,0,1
+randle,,0,1
 random, ˈrændəm ˈrændəm ˈrændəm ˈræn·dəm,1,0
 randomized, ˈrændəmaɪzd,0,0
 randomly, ˈrændəmli ˈrændəmli,1,0
 randomness, ˈrændəmnəs,0,0
-rands,,0,0
+rands,,0,1
 randy, ˈrændi,0,0
 rang, ræŋ ræŋ,0,0
 range, reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ,1,0
@@ -137,12 +137,12 @@ ranger, ˈreɪndʒɚ ˈreɪn·dʒər,0,0
 rangers, ˈreɪndʒɚ ˈreɪndʒɚ ˈreɪn·dʒər,1,0
 ranges, reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ reɪndʒ,1,0
 ranging, reɪndʒ reɪndʒ reɪndʒ reɪndʒ,1,0
-rangoon,,0,0
+rangoon,,0,1
 rani, ˈrɑːniː,0,0
 rank, ræŋk ræŋk ræŋk ræŋk ræŋk,1,0
 ranked, ræŋk,1,0
 ranker, ræŋk ræŋk ræŋk ræŋk ræŋk ræŋk ræŋk,1,0
-rankers,,0,0
+rankers,,0,1
 ranking, ˈrænkɪŋ ˈræŋ·kɪŋ ˈrænkɪŋ ˈrænkɪŋ ˈrænkɪŋ,0,0
 rankings, ræŋk ræŋk ræŋk ræŋk ræŋk ræŋk ræŋk,1,0
 rankled, ˈræŋkəl,1,0
@@ -160,11 +160,11 @@ rap, ræp ræp ræp ræp ræp ræp,0,0
 rapacious, rəˈpeɪʃəs,0,0
 rape, reɪp reɪp reɪp,0,0
 raped, reɪp,1,0
-raper,,0,0
-rapers,,0,0
+raper,,0,1
+rapers,,0,1
 rapes, reɪp reɪp reɪp,1,0
 rapeseed, ˈreɪpsiːd,0,0
-raphael,,0,0
+raphael,,0,1
 rapid, ˈræpɪd ˈræp·ɪd,0,0
 rapidity, rəˈpɪdət̬i,0,0
 rapidly, ˈræpɪdli,0,0
@@ -186,7 +186,7 @@ raptor, ˈræptɚ ˈræptɚ,0,0
 raptors, ˈræptɚ ˈræptɚ,1,0
 rapture, ˈræptʃɚ ˈræp·tʃər,0,0
 rapturous, ˈræptʃɚəs,0,0
-rara,,0,0
+rara,,0,1
 rare, rer rer rer reər reər,0,0
 rarefied, ˈrerəfaɪd ˈrerəfaɪd ˈreər·əˌfɑɪd,0,0
 rarely, ˈrerli ˈreər·li,0,0
@@ -204,15 +204,15 @@ raspberry," ˈræzberi ˈræzberi ˈræzˌber·i, -bə·ri",0,0
 rasps, ræsp ræsp ræsp,1,0
 raspy, ˈræspi,0,0
 rat, ræt ræt ræt ræt,0,0
-rata, ˌproʊ ˈreɪt̬ə ˌproʊˈreɪtə,1,0
+rata,,0,1
 ratatouille, ˌræt̬əˈtuːi,0,0
 ratchet, ˈrætʃɪt ˈrætʃɪt ˈrætʃɪt ˈrætʃɪt ˈrætʃ·ɪt,1,0
 ratcheting,,1,0
 rate, reɪt reɪt reɪt reɪt,1,0
 rated, reɪt reɪt reɪt,1,0
 rates,,1,0
-rath,,0,0
-rathe,,0,0
+rath,,0,1
+rathe,,0,1
 rather," ˈræðɚ ˈræðɚ ˈræðɚ ˈræð·ər, ˈrɑ·ðər ˈræð·ər, ˈrɑ·ðər",0,0
 ratification, ˌræt̬əfəˈkeɪʃən,1,0
 ratified, ˈræt̬əfaɪ,1,0
@@ -247,11 +247,11 @@ rattlesnakes, ˈræt̬əlsneɪk ˈræt̬·əlˌsneɪk,1,0
 rattling, ˈræt̬əlɪŋ ˈræt̬əlɪŋ,0,0
 ratty, ˈræt̬i ˈræt̬i,0,0
 raucous, ˈrɑːkəs ˈrɔ·kəs,0,0
-raun,,0,0
+raun,,0,1
 raunchy," ˈrɑːntʃi ˈrɔn·tʃi, ˈrɑn-",0,0
 ravage, ˈrævɪdʒ ˈræv·ɪdʒ,0,0
 ravaged, ˈrævɪdʒ,1,0
-ravages, ˈrævɪdʒɪz,1,0
+ravages,,0,1
 ravaging, ˈrævɪdʒ,1,0
 rave, reɪv reɪv reɪv,0,0
 raved, reɪv reɪv,1,0
@@ -262,39 +262,39 @@ ravenous, ˈrævənəs ˈrævənəs ˈræv·ə·nəs,0,0
 ravens, ˈreɪvən ˈreɪ·vən,1,0
 raver, ˈreɪvɚ,0,0
 raves, reɪv reɪv reɪv,1,0
-ravin,,0,0
+ravin,,0,1
 ravine, rəˈviːn rəˈvin,0,0
 ravines, rəˈviːn rəˈvin,1,0
 raving, ˈreɪvɪŋ ˈreɪ·vɪŋ,0,0
 ravioli, ˌræviˈoʊli ˌræv·iˈoʊ·li,0,0
 ravishing, ˈrævɪʃɪŋ,0,0
 raw, rɑː rɑː rɑː rɑː rɑː rɑː rɑː rɑː rɔ rɔ rɔ rɔ rɔ,1,0
-rawest,,0,0
-rawhide,,0,0
+rawest,,0,1
+rawhide,,0,1
 rawness, ˈrɑːnəs ˈrɑːnəs ˈrɑːnəs,0,0
 ray, reɪ reɪ reɪ reɪ reɪ reɪ reɪ,0,0
-raya,,0,0
+raya,,0,1
 rayon, ˈreɪɑːn ˈreɪ·ɑn,0,0
 rays, reɪ reɪ reɪ reɪ reɪ reɪ reɪ reɪ,1,0
 raze, reɪz reɪz,0,0
 razed, reɪz,1,0
 razing, reɪz,1,0
 razor, ˈreɪzɚ ˈreɪ·zər,0,0
-razorback,,0,0
-razorbacks,,0,0
+razorback,,0,1
+razorbacks,,0,1
 razors, ˈreɪzɚ ˈreɪ·zər,1,0
-razzle, ˈræzəl,1,0
+razzle,,0,1
 razzmatazz, ˈræzmətæz,0,0
 re," riː riː ri, reɪ riː riː",0,0
-rea,,0,0
+rea,,0,1
 reabsorbed, ˌriːəbˈzɔːrb,1,0
 reach, riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ ritʃ ritʃ ritʃ ritʃ ritʃ ritʃ,1,0
 reachable, ˈriːtʃəbəl ˈriːtʃəbəl,0,0
 reached, riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ,1,0
 reaches,,1,0
 reaching, riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ riːtʃ,1,0
-reacquire,,0,0
-reacquired,,0,0
+reacquire,,0,1
+reacquired,,0,1
 react, riˈækt riˈækt riˈækt riˈækt,1,0
 reacted, riˈækt riˈækt,1,0
 reacting, riˈækt riˈækt,1,0
@@ -314,9 +314,9 @@ readable, ˈriːdəbəl ˈri·də·bəl,0,0
 reader, ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈri·dər,1,0
 readers, ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈriːdɚ ˈri·dər,1,0
 readership, ˈriːdɚʃɪp,1,0
-readied,,0,0
-readier,,0,0
-readies, ˈrediz,1,0
+readied,,0,1
+readier,,0,1
+readies,,0,1
 readily, ˈredəli ˈred·əl·i ˈred·əl·i,0,0
 readiness, ˈredinəs ˈred·i·nəs,0,0
 reading, ˈriːdɪŋ ˈriːdɪŋ ˈriːdɪŋ ˈriːdɪŋ ˈriːdɪŋ ˈri·dɪŋ ˈri·dɪŋ ˈri·dɪŋ ˈri·dɪŋ,0,0
@@ -326,30 +326,30 @@ readjusted, ˌriːəˈdʒʌst,1,0
 readjusting, ˌriːəˈdʒʌst,1,0
 readjustment, ˌriːəˈdʒʌstmənt,0,0
 readjustments, ˌriːəˈdʒʌstmənt,1,0
-readmit,,0,0
-readmitted,,0,0
+readmit,,0,1
+readmitted,,0,1
 readout, ˈriːdaʊt ˈridˌɑʊt,0,0
 reads, riːd riːd riːd riːd riːd riːd riːd riːd riːd rid rid rid rid rid,1,0
 ready, ˈredi ˈredi ˈred·i ˈred·i ˈred·i,1,0
-readying,,0,0
+readying,,0,1
 reaffirm, ˌriːəˈfɝːm ˌri·əˈfɜrm,0,0
-reaffirmation,,0,0
+reaffirmation,,0,1
 reaffirmed, ˌriːəˈfɝːm,1,0
 reaffirming, ˌriːəˈfɝːm,1,0
 reaffirms, ˌriːəˈfɝːm ˌri·əˈfɜrm,1,0
-reagan,,0,0
+reagan,,0,1
 reaganomics,,1,0
 reagent, ˌriːˈeɪdʒənt,0,0
 reagents, ˌriːˈeɪdʒənt,1,0
 real," ˈriːəl ˈriːəl ˈriːəl ˈriːəl ˈriːəl ˈri·əl, ril ˈri·əl, ril ˈri·əl, ril",1,0
-realestate,,0,0
+realestate,,0,1
 realign, ˌriːəˈlaɪn,1,0
 realigned, ˌriːəˈlaɪn ˌriːəˈlaɪn,1,0
 realigning, ˌriːəˈlaɪn ˌriːəˈlaɪn,1,0
 realignment, ˌriːəˈlaɪnmənt ˌriːəˈlaɪnmənt,1,0
 realisation, ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌri·ə·ləˈzeɪ·ʃən ˌri·ə·ləˈzeɪ·ʃən ˌrɪələˈzeɪʃən ˌrɪələˈzeɪʃən,1,0
 realise, ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈri·əˌlɑɪz ˈri·əˌlɑɪz,1,0
-realised,,1,0
+realised,,0,1
 realises, ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈri·əˌlɑɪz ˈri·əˌlɑɪz,1,0
 realism, ˈriːə- ˈriːə- ˈriːə- ˈri·əˌlɪz·əm ˈri·əˌlɪz·əm,0,0
 realist, ˈriːəlɪst ˈriːəlɪst ˈriːəlɪst ˈriːəlɪst ˈri·ə·lɪst,0,0
@@ -361,10 +361,10 @@ reality, riˈælət̬i riˈælət̬i riˈælət̬i riˈæl·ɪ·t̬i,0,0
 realization, ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌri·ə·ləˈzeɪ·ʃən ˌri·ə·ləˈzeɪ·ʃən ˌrɪələˈzeɪʃən ˌrɪələˈzeɪʃən,0,0
 realizations, ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌriːələˈzeɪʃən ˌri·ə·ləˈzeɪ·ʃən ˌri·ə·ləˈzeɪ·ʃən ˌrɪələˈzeɪʃən ˌrɪələˈzeɪʃən,1,0
 realize, ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈri·əˌlɑɪz ˈri·əˌlɑɪz,1,0
-realized,,1,0
+realized,,0,1
 realizes, ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈri·əˌlɑɪz ˈri·əˌlɑɪz,1,0
 realizing, ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz ˈriːəlaɪz,1,0
-reallocation,,0,0
+reallocation,,0,1
 really," ˈriːəli ˈriːəli ˈriːəli ˈri·ə·li, ˈri·li ˈri·ə·li, ˈri·li ˈri·ə·li, ˈri·li",0,0
 realm, relm relm relm,0,0
 realms, relm relm relm,1,0
@@ -386,7 +386,7 @@ reappeared, ˌriːəˈpɪr,1,0
 reappears, ˌriːəˈpɪr,1,0
 reapply, ˌriːəˈplaɪ ˌriːəˈplaɪ ˌriːəˈplaɪ,0,0
 reappointed,,1,0
-reapportionment,,0,0
+reapportionment,,0,1
 reappraisal, ˌriːəˈpreɪzəl ˌriːəˈpreɪzəl ˌriːəˈpreɪzəl,0,0
 reappraise, ˌriːəˈpreɪz,1,0
 reaps, riːp riːp rip rip,1,0
@@ -410,28 +410,28 @@ reasoning, ˈriːzənɪŋ,0,0
 reasons, ˈriːzən ˈriːzən ˈriːzən ˈriːzən ˈri·zən ˈri·zən,1,0
 reassemble, ˌriːəˈsembəl ˌriːəˈsembəl,0,0
 reassembled, ˌriːəˈsembəl ˌriːəˈsembəl,1,0
-reassembly,,0,0
+reassembly,,0,1
 reassert, ˌriːəˈsɝːt ˌriːəˈsɝːt,0,0
 reasserts, ˌriːəˈsɝːt ˌriːəˈsɝːt ˌriːəˈsɝːt,1,0
 reassess, ˌriːəˈses,0,0
 reassessed, ˌriːəˈses,1,0
 reassessing, ˌriːəˈses,1,0
-reassessment,,0,0
+reassessment,,0,1
 reassign, ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn,1,0
 reassigned, ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn,1,0
 reassigning, ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn ˌriːəˈsaɪn,1,0
 reassignment, ˌriːəˈsaɪnmənt ˌriːəˈsaɪnmənt ˌriːəˈsaɪnmənt ˌriːəˈsaɪnmənt,1,0
-reassume,,0,0
+reassume,,0,1
 reassurance, ˌriːəˈʃʊrəns,0,0
 reassurances, ˌriːəˈʃʊrəns,1,0
 reassure, ˌriːəˈʃʊr ˌri·əˈʃʊr,0,0
 reassured, ˌriːəˈʃʊr,1,0
 reassures, ˌriːəˈʃʊr ˌri·əˈʃʊr,1,0
 reassuring, ˌriːəˈʃʊrɪŋ,0,0
-reattach,,0,0
-reattached,,0,0
-reave,,0,0
-reaver,,0,0
+reattach,,0,1
+reattached,,0,1
+reave,,0,1
+reaver,,0,1
 reawaken, ˌriːəˈweɪkən,0,0
 reawakened, ˌriːəˈweɪkən,1,0
 reawakening, ˌriːəˈweɪkən,1,0
@@ -439,7 +439,7 @@ rebalancing, ˌriːˈbæləns,1,0
 rebar, ˈriːbɑːr,0,0
 rebate, ˈriːbeɪt ˈri·beɪt,1,0
 rebates, ˈriːbeɪt ˈri·beɪt,1,0
-rebbe,,0,0
+rebbe,,0,1
 rebel, ˈrebəl ˈrebəl ˈreb·əl ˈreb·əl,0,0
 rebelled,,1,0
 rebelling,,1,0
@@ -457,7 +457,7 @@ rebound," ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd ˈri·bɑ�
 rebounded, ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd,1,0
 rebounding, ˌriːˈbaʊndɪŋ ˌriːˈbaʊndɪŋ,0,0
 rebounds," ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd ˌriːˈbaʊnd ˈri·bɑʊnd, rɪˈbɑʊnd ˈri·bɑʊnd, rɪˈbɑʊnd",1,0
-rebroadcast,,0,0
+rebroadcast,,0,1
 rebuff, rɪˈbʌf rɪˈbʌf,0,0
 rebuffed, rɪˈbʌf,1,0
 rebuffs, rɪˈbʌf rɪˈbʌf,1,0

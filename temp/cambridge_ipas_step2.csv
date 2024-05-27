@@ -12,22 +12,22 @@ adaptive, əˈdæptɪv əˈdæptɪv əˈdæp·tɪv əˈdæp·tɪv əˈdæptɪv,0
 adaptor, əˈdæptɚ əˈdæptɚ əˈdæptɚ,1,0
 adaptors, əˈdæptɚ əˈdæptɚ əˈdæptɚ,1,0
 adapts, əˈdæpt əˈdæpt əˈdæpt əˈdæpt,1,0
-adar,,0,0
+adar,,0,1
 add, æd æd æd æd æd,1,0
 added, ˈædɪd,0,0
 addendum, əˈdendəm əˈdendəm,0,0
-addendums,,0,0
+addendums,,0,1
 adder, ˈædɚ,0,0
 addict, ˈædɪkt ˈæd·ɪkt,0,0
 addicted, əˈdɪktɪd,0,0
-addicting,,0,0
+addicting,,0,1
 addiction, əˈdɪkʃən əˈdɪk·ʃən,0,0
 addictions, əˈdɪkʃən əˈdɪk·ʃən,1,0
 addictive, əˈdɪktɪv əˈdɪktɪv,0,0
 addicts, ˈædɪkt ˈæd·ɪkt,1,0
 adding, æd æd æd,1,0
-addis, ˌædɪs ˈɑːbəbə,1,0
-addison,,0,0
+addis,,0,1
+addison,,0,1
 addition, əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃ·ən əˈdɪʃ·ən,1,0
 additional, əˈdɪʃənəl əˈdɪʃ·ə·nəl,1,0
 additionally, əˈdɪʃənəli,1,0
@@ -42,12 +42,12 @@ addressee, ˌædresˈiː,1,0
 addresses," ˈædres ˈædres ˈædres ˈædres ˈædres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈædres ˈædres ˈædres ˈædres ˈædres",1,0
 addressing, əˈdres əˈdres əˈdres,1,0
 adds, æd æd æd ˌeɪdiːˈdiː æd æd,1,0
-ade,,0,0
-aden,,0,0
+ade,,0,1
+aden,,0,1
 adenine, ˈædəniːn ˈæd·əˌnin,0,0
 adenoid, ˈædənɔɪd,0,0
 adenoids, ˈædənɔɪd,1,0
-adenosine,,0,0
+adenosine,,0,1
 adept, əˈdept əˈdept,0,0
 adequacy, ˈædəkwəsi,1,0
 adequate, ˈædəkwət ˈæd·ɪ·kwət,1,0
@@ -135,8 +135,8 @@ adobe, əˈdoʊbi əˈdoʊ·bi,0,0
 adolescence, ˌædəˈlesəns,0,0
 adolescent, ˌædəˈlesənt ˌæd·əlˈes·ənt ˌæd·əlˈes·ənt,0,0
 adolescents, ˌædəˈlesənt ˌæd·əlˈes·ənt ˌæd·əlˈes·ənt,1,0
-adolf,,0,0
-adolph,,0,0
+adolf,,0,1
+adolph,,0,1
 adonis, əˈdɑːnɪs,1,0
 adopt, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑpt əˈdɑpt əˈdɑpt,1,0
 adoptable, əˈdɑːptəbəl,0,0
@@ -161,7 +161,7 @@ adorns, əˈdɔːrn əˈdɔrn,1,0
 adrenal, əˈdriːnəl,0,0
 adrenalin, əˈdrenəlɪn,0,0
 adrenaline," əˈdren·əl·ən, -ˌin",0,0
-adriatic, ˌeɪdriæt̬ɪk ˈsiː,1,0
+adriatic,,0,1
 adrift, əˈdrɪft əˈdrɪft əˈdrɪft,0,0
 adroit, əˈdrɔɪt əˈdrɔɪt,0,0
 adroitly, əˈdrɔɪtli,0,0
@@ -181,7 +181,7 @@ advanced," ədˈvænst ədˈvænst ədˈvænst ədˈvænst ədˈvænst, æd-",1,
 advancement, ədˈvænsmənt,1,0
 advancements, ədˈvænsmənt,1,0
 advances," ədˈvæns ədˈvæns ədˈvæns ədˈvæns ədˈvæns, æd-",1,0
-advancing, ədˈvænsɪŋ,1,0
+advancing,,0,1
 advantage," ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvæn·tɪdʒ, æd-",1,0
 advantaged, ədˈvænt̬ɪdʒd,0,0
 advantageous, ˌædvænˈteɪdʒəs,1,0
@@ -232,9 +232,9 @@ advocated, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,1,0
 advocates, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt ˈæd·vəˌkeɪt,1,0
 advocating, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,1,0
 ae,,1,0
-aegean, ɪˈdʒiːən ɪˈdʒiːən,1,0
-aegis, ˈiːdʒɪs,1,0
-aeneas,,0,0
+aegean,,0,1
+aegis,,0,1
+aeneas,,0,1
 aer,,1,0
 aerial," ˈeriəl ˈeriəl ˈer·i·əl, ˈær-",0,0
 aerials," ˈeriəl ˈeriəl ˈer·i·əl, ˈær-",1,0
@@ -242,19 +242,19 @@ aerie, ˈɪri,0,0
 aero, eroʊ-,1,0
 aerobatics, ˌeroʊˈbæt̬ɪks,0,0
 aerobic, erˈoʊbɪk erˈoʊbɪk,0,0
-aerobically,,0,0
+aerobically,,0,1
 aerobics, erˈoʊbɪks eəˈroʊ·bɪks,0,0
 aerodromes, ˈerədroʊm,1,0
 aerodynamic, ˌeroʊdaɪˈnæmɪk,0,0
 aerodynamically, ˌeroʊdaɪˈnæmɪkəli,0,0
 aerodynamics, ˌeroʊdaɪˈnæmɪks ˌeər·oʊ·dɑɪˈnæm·ɪks,0,0
-aerodyne,,0,0
+aerodyne,,0,1
 aeronautical, ˌerəˈnɑːt̬ɪkəl,0,0
 aeronautics, ˌerəˈnɑːt̬ɪks,1,0
 aerosol," ˈerəsɑːl ˈerəsɑːl ˈeər·əˌsɔl, -ˌsɑl",0,0
 aerosols," ˈerəsɑːl ˈerəsɑːl ˈeər·əˌsɔl, -ˌsɑl",1,0
 aerospace," ˈeroʊspeɪs ˈeər·oʊˌspeɪs, ær-",1,0
-aesop,,0,0
+aesop,,0,1
 aesthete, ˈesθiːt,0,0
 aesthetes, ˈesθiːt,1,0
 aesthetic, esˈθet̬ɪk esˈθet̬ɪk esˈθet̬ɪk esˈθet̬·ɪk,0,0
@@ -275,7 +275,7 @@ affectionately, əˈfekʃənətli,0,0
 affections,,1,0
 affective, əˈfektɪv,0,0
 affects, əˈfekt əˈfekt əˈfekt əˈfekt əˈfekt,1,0
-affiant,,0,0
+affiant,,0,1
 affidavit, ˌæfəˈdeɪvɪt ˌæf·əˈdeɪ·vɪt ˌæfəˈdeɪvɪt,0,0
 affidavits, ˌæfəˈdeɪvɪt ˌæf·əˈdeɪ·vɪt ˌæfəˈdeɪvɪt,1,0
 affiliate, əˈfɪlieɪt əˈfɪl·iˌeɪt,1,0
@@ -302,22 +302,22 @@ afflictions, əˈflɪkʃən,1,0
 afflicts, əˈflɪkt əˈflɪkt,1,0
 affluence, ˈæfluəns,1,0
 affluent," ˈæfluənt ˈæfˌlu·ənt, əˈflu-",1,0
-afford," əˈfɔːrd əˈfɔrd, əˈfoʊrd",1,0
+afford," əˈfɔːrd əˈfɔrd, əˈfoʊrd",0,1
 affordability,,1,0
 affordable," əˈfɔːrdəbəl əˈfɔːrdəbəl əˈfɔr·də·bəl, əˈfoʊr-",1,0
 afforded, əˈfɔːrd əˈfɔːrd,1,0
 affording, əˈfɔːrd əˈfɔːrd,1,0
-affords," əˈfɔːrd əˈfɔːrd əˈfɔrd, əˈfoʊrd",1,0
+affords,,0,1
 affront, əˈfrʌnt əˈfrʌnt,0,0
 affronted, əˈfrʌnt,1,0
 afghan, ˈæfɡæn,1,0
-afghani,,0,0
-afghanis,,0,0
+afghani,,0,1
+afghanis,,0,1
 afghanistan, æfˈɡænɪstæn,1,0
 afghans, ˈæfɡæn,1,0
 aficionado, əˌfɪʃiəˈnɑːdoʊ,0,0
 aficionados, əˌfɪʃiəˈnɑːdoʊ,1,0
-afield, əˈfiːld,1,0
+afield,,0,1
 afire, əˈfaɪr əˈfaɪr əˈfaɪr,0,0
 aflame, əˈfleɪm əˈfleɪm əˈfleɪm,0,0
 afloat, əˈfloʊt əˈfloʊt əˈfloʊt,1,0
@@ -325,8 +325,8 @@ aflutter, əˈflʌt̬ɚ,0,0
 afoot, əˈfʊt əˈfʊt,0,0
 aforementioned, əˈfɔːrˌmenʃənd,1,0
 aforesaid, əˈfɔːrˌmenʃənd əˈfɔːrˌmenʃənd,1,0
-aforethought,,1,0
-afoul, əˈfaʊl,1,0
+aforethought,,0,1
+afoul,,0,1
 afraid, əˈfreɪd əˈfreɪd əˈfreɪd,0,0
 afresh, əˈfreʃ əˈfreʃ,0,0
 africa, ˈæfrɪkə,1,0
@@ -337,8 +337,8 @@ afrikaner, ˌæfrəˈkɑːnɚ,1,0
 afro, ˈæfroʊ æfroʊ-,1,0
 aft, æft æft,0,0
 after, ˈæftɚ ˈæftɚ ˈæftɚ ˈæf·tər ˈæf·tər ˈæf·tər ˈæf·tər,0,0
-afterburner,,0,0
-afterburners,,0,0
+afterburner,,0,1
+afterburners,,0,1
 aftereffect, ˈæftɚəˌfekt ˈæf·tər·ɪˌfekt,0,0
 aftereffects, ˈæftɚəˌfekt ˈæf·tər·ɪˌfekt,1,0
 afterglow, ˈæftɚɡloʊ,0,0
@@ -346,11 +346,11 @@ afterimage, ˈæftɚˌɪmɪdʒ,0,0
 afterlife, ˈæftɚlaɪf ˈæf·tərˌlɑɪf,0,0
 aftermarket, ˈæftərˌmɑrkɪt,0,0
 aftermath, ˈæftɚmæθ ˈæf·tərˌmæθ,0,0
-aftermaths,,0,0
+aftermaths,,0,1
 afternoon, ˌæftɚˈnuːn ˌæf·tərˈnun,0,0
 afternoons, ˌæftɚˈnuːnz,0,0
 aftershave, ˈæftɚʃeɪv,0,0
-aftershaves,,0,0
+aftershaves,,0,1
 aftershock, ˈæftɚʃɑːk ˈæf·tərˌʃɑk,0,0
 aftershocks, ˈæftɚʃɑːk ˈæf·tərˌʃɑk,1,0
 aftertaste, ˈæftɚteɪst ˈæf·tərˌteɪst,0,0
@@ -362,13 +362,13 @@ ag,,1,0
 aga, ˈɑːɡə,1,0
 again," əˈɡen əˈɡen əˈɡen əˈɡen, əˈɡeɪn",0,0
 against," əˈɡenst əˈɡenst əˈɡenst əˈɡenst əˈɡenst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst",0,0
-agamemnon,,0,0
+agamemnon,,0,1
 agar, ˈeɪɡɑːr,0,0
 agate, ˈæɡət,0,0
 agates, ˈæɡət,1,0
 age, eɪdʒ eɪdʒ eɪdʒ eɪdʒ eɪdʒ,0,0
 aged, ˈeɪdʒɪd ˈeɪ·dʒɪd,1,0
-agee,,0,0
+agee,,0,1
 ageless, ˈeɪdʒləs ˈeɪdʒ·ləs,0,0
 agencies, ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪ·dʒən·si ˈeɪ·dʒən·si,1,0
 agency, ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪ·dʒən·si ˈeɪ·dʒən·si,1,0
@@ -376,11 +376,11 @@ agenda, əˈdʒendə əˈdʒendə əˈdʒendə əˈdʒen·də əˈdʒen·də ə�
 agendas, əˈdʒendə əˈdʒendə əˈdʒendə əˈdʒen·də əˈdʒen·də əˈdʒen·də,1,0
 agent, ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt,1,0
 agents, ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt,1,0
-ager, ˌnuːˈeɪdʒɚ,1,0
-ageratum,,0,0
+ager,,0,1
+ageratum,,0,1
 ages, ˈeɪ·dʒɪz,1,0
-aggie,,0,0
-aggies,,0,0
+aggie,,0,1
+aggies,,0,1
 agglutinate, əˈɡluːtəneɪt əˈɡluːtəneɪt,0,0
 aggrandize, əˈɡrændaɪz,0,0
 aggrandizement, əˈɡrændɪzmənt,0,0
@@ -392,9 +392,9 @@ aggravating, ˈæɡrəveɪt̬ɪŋ ˈæɡrəveɪt̬ɪŋ,0,0
 aggravation, ˌæɡrəˈveɪʃən ˌæɡrəˈveɪʃən,0,0
 aggregate, ˈæɡrəɡət ˈæɡrəɡət ˈæɡ·rɪ·ɡət,1,0
 aggregation, ˌæɡrəˈɡeɪʃən ˌæɡrəˈɡeɪʃən,1,0
-aggress,,0,0
+aggress,,0,1
 aggression, əˈɡreʃən əˈɡreʃən əˈɡreʃ·ən,0,0
-aggressions,,0,0
+aggressions,,0,1
 aggressive, əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡres·ɪv,1,0
 aggressively, əˈɡresɪvli əˈɡresɪvli əˈɡresɪvli əˈɡresɪvli,0,0
 aggressiveness, əˈɡresɪvnəs əˈɡresɪvnəs əˈɡresɪvnəs əˈɡresɪvnəs,0,0
@@ -435,19 +435,19 @@ agreements, əˈɡriːmənt əˈɡriːmənt əˈɡriːmənt əˈɡri·mənt,1,0
 agrees, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡri əˈɡri,1,0
 agribusiness, ˈæɡrəˌbɪznɪs ˈæɡriˌbɪznɪs ˈæɡriˌbɪznɪs,0,0
 agricultural, ˌæɡrəˈkʌltʃɚəl,1,0
-agriculturalist,,0,0
+agriculturalist,,0,1
 agriculture, ˈæɡrəkʌltʃɚ ˈæɡ·rɪˌkʌl·tʃər,1,0
 aground, əˈɡraʊnd əˈɡrɑʊnd,0,0
-agua,,0,0
-aguacate,,0,0
+agua,,0,1
+aguacate,,0,1
 ah, ɑː ɑ,0,0
 aha," ɑːˈhɑː ɑˈhɑ, əˈhɑ",0,0
-ahab,,0,0
+ahab,,0,1
 ahead, əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed,1,0
-aho,,0,0
-ahold, əˈhoʊld əˈhoʊld əˈhoʊld əˈhoʊld əˈhoʊld,1,0
+aho,,0,1
+ahold,,0,1
 ahoy, əˈhɔɪ əˈhɔɪ,0,0
-ahs,,0,0
+ahs,,0,1
 ai, ˌeɪˈaɪ ˌeɪˈaɪ ˌeɪˈaɪ,1,0
 aid, eɪd eɪd eɪd eɪd,1,0
 aide, eɪd eɪd,0,0
@@ -468,18 +468,18 @@ aiming, eɪm eɪm,1,0
 aimless, ˈeɪmləs ˈeɪm·ləs,0,0
 aimlessly, ˈeɪmləsli,0,0
 aims, eɪm eɪm eɪm eɪm eɪm,1,0
-ainu,,0,0
+ainu,,0,1
 air, er er er er er eər eər eər eər eər,1,0
 airbag, ˈerbæɡ,0,0
 airbags, ˈerbæɡ,1,0
 airbase, ˈerbeɪs,0,0
-airboat,,0,0
+airboat,,0,1
 airborne," ˈerbɔːrn ˈeər·bɔrn, -boʊrn",0,0
 aircraft, ˈerkræft ˈeərˌkræft,1,0
 aircrafts, ˈerkræft ˈeərˌkræft ˈeərˌkræft,1,0
 aircrew, ˈerkruː,1,0
-airdrop,,0,0
+airdrop,,0,1
 aired, er er er er,1,0
-airedale, ˌerdeɪl ˈteriɚ,1,0
-airedales,,0,0
+airedale,,0,1
+airedales,,0,1
 airfare, ˈerfer ˈeərˌfeər,1,0

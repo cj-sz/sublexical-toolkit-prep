@@ -1,29 +1,29 @@
 Word,Pronunciation,Root Word Returned,Missing
-merce,,0,0
+merce,,0,1
 mercenaries, ˈmɝːsənri ˈmɜr·səˌner·i,1,0
 mercenary, ˈmɝːsənri ˈmɜr·səˌner·i,0,0
-mercer,,0,0
+mercer,,0,1
 merchandise, ˈmɝːtʃəndaɪz ˈmɜr·tʃənˌdɑɪs,1,0
 merchandiser,,1,0
 merchandisers,,1,0
 merchandising, ˈmɝːtʃəndaɪzɪŋ ˈmɝːtʃəndaɪzɪŋ ˈmɜr·tʃənˌdɑɪ·zɪŋ,1,0
 merchant, ˈmɝːtʃənt ˈmɝːtʃənt ˈmɜr·tʃənt,1,0
-merchantmen,,0,0
+merchantmen,,0,1
 merchants, ˈmɝːtʃənt ˈmɝːtʃənt ˈmɜr·tʃənt,1,0
-merci,,0,0
-mercies,,1,0
+merci,,0,1
+mercies,,0,1
 merciful, ˈmɝːsɪfəl ˈmɝːsɪfəl ˈmɜr·sɪ·fəl,0,0
 mercifully," ˈmɝːsɪfəli ˈmɜr·sɪ·fli, -fə·li",0,0
 merciless, ˈmɝːsɪləs ˈmɜr·sɪ·ləs,0,0
 mercilessly, ˈmɝːsɪləsli,0,0
 mercurial, mɝːˈkjʊriəl mɝːˈkjʊriəl mɝːˈkjʊriəl,0,0
-mercuric,,0,0
+mercuric,,0,1
 mercury, ˈmɝːkjəri ˈmɜr·kjər·i,0,0
 mercy, ˈmɝːsi ˈmɝːsi ˈmɜr·si ˈmɜr·si,0,0
 mere, mɪr mɪr mɪər,0,0
 merely, ˈmɪrli ˈmɪrli ˈmɪər·li,0,0
-merengue,,0,0
-merest, ˈmɪrɪst,1,0
+merengue,,0,1
+merest,,0,1
 merge, mɝːdʒ mɝːdʒ mɜrdʒ,1,0
 merged, mɝːdʒ mɝːdʒ,1,0
 merger, ˈmɝːdʒɚ ˈmɜr·dʒər,1,0
@@ -37,25 +37,25 @@ merited, ˈmerɪt,1,0
 meritocracy, ˌmerəˈtɑːkrəsi,1,0
 meritorious, ˌmerəˈtɔːriəs,0,0
 merits, ˈmerɪt ˈmerɪt ˈmerɪt ˈmer·ɪt,1,0
-merk,,0,0
-merkin,,0,0
-merl,,0,0
-merle,,0,0
-merlin,,0,0
+merk,,0,1
+merkin,,0,1
+merl,,0,1
+merle,,0,1
+merlin,,0,1
 mermaid, ˈmɝːmeɪd ˈmɜrˌmeɪd,0,0
 mermaids, ˈmɝːmeɪd ˈmɜrˌmeɪd,1,0
 merman, ˈmɝːmæn,0,0
-mero,,0,0
+mero,,0,1
 merrier, ˈmer·i ˈmer·i,1,0
 merrily, ˈmerəli ˈmerəli,0,0
-merrimack,,0,0
-merrow,,0,0
+merrimack,,0,1
+merrow,,0,1
 merry, ˈmer·i,1,0
-merton,,0,0
-merv,,0,0
+merton,,0,1
+merv,,0,1
 mesa, ˈmeɪsə ˈmeɪ·sə,0,0
 mescaline, ˈmeskəliːn,0,0
-mesdames,,0,0
+mesdames,,0,1
 mesenteric, ˌmesənˈterɪk,0,0
 mesh, meʃ meʃ,0,0
 meshed, meʃ meʃ,1,0
@@ -67,7 +67,7 @@ mesmerizing, ˈmezməraɪzɪŋ,0,0
 meson," ˈmezɑːn ˈmez·ɑn, ˈmes-",0,0
 mesons," ˈmezɑːn ˈmez·ɑn, ˈmes-",1,0
 mesopotamia, ˌmesəpəˈteɪmiə,1,0
-mesopotamian,,0,0
+mesopotamian,,0,1
 mesozoic, ˌmezoʊˈzoʊɪk ˌmezoʊˈzoʊɪk,1,0
 mesquite, məˈskiːt məˈskiːt,0,0
 mess, mes mes mes mes mes mes mes mes mes mes,0,0
@@ -77,13 +77,13 @@ messaging, ˈmesɪdʒɪŋ ˈmesɪdʒɪŋ ˈmes·ə·dʒɪŋ,1,0
 messed, mes mes,1,0
 messenger, ˈmesɪndʒɚ ˈmes·ən·dʒər,1,0
 messengers, ˈmesɪndʒɚ ˈmes·ən·dʒər,1,0
-messer,,0,0
+messer,,0,1
 messes, mes mes mes mes mes mes mes mes mes mes mes,1,0
 messiah, məˈsaɪə məˈsɑɪ·ə məˈsɑɪ·ə məˈsɑɪ·ə,0,0
 messiahs, məˈsaɪə məˈsaɪə məˈsaɪə məˈsaɪə məˈsaɪə məˈsɑɪ·ə məˈsɑɪ·ə məˈsɑɪ·ə,1,0
 messianic, ˌmesiˈænɪk ˌmesiˈænɪk ˌmesiˈænɪk,0,0
 messier, ˈmesi ˈmesi ˈmesi ˈmes·i ˈmes·i,1,0
-messieurs,,0,0
+messieurs,,0,1
 messing, mes mes,1,0
 messrs, ˈmesɚz,1,0
 messy, ˈmesi ˈmesi ˈmesi ˈmes·i ˈmes·i,0,0
@@ -96,16 +96,16 @@ metabolisms, məˈtæbəlɪzəm məˈtæb·əˌlɪz·əm,1,0
 metabolize, məˈtæbəlaɪz,0,0
 metacarpal, ˌmet̬əˈkɑːrpəl,0,0
 metacarpals, ˌmet̬əˈkɑːrpəl,1,0
-metairie,,0,0
+metairie,,0,1
 metal, ˈmet̬əl ˈmet̬·əl,0,0
-metall,,0,0
+metall,,0,1
 metallic, məˈtælɪk məˈtælɪk məˈtæl·ɪk,0,0
 metallurgical, ˌmet̬əlˈɝːdʒɪkəl,0,0
 metallurgy, ˈmet̬əlɝːdʒi,0,0
 metals, ˈmet̬əl ˈmet̬·əl,1,0
 metalwork, ˈmet̬əlwɝːk ˈmet̬əlwɝːk,0,0
-metalworker,,0,0
-metalworking,,0,0
+metalworker,,0,1
+metalworking,,0,1
 metamorphic, ˌmet̬əˈmɔːrfɪk ˌmet̬·əˈmɔr·fɪk,0,0
 metamorphose, ˌmet̬əˈmɔːrfoʊz,0,0
 metamorphosis, ˌmet̬əˈmɔːrfəsɪs ˌmet̬əˈmɔːrfəsɪs ˌmet̬·əˈmɔr·fə·sɪs ˌmet̬·əˈmɔr·fə·sɪs,0,0
@@ -118,8 +118,8 @@ metaphysics, ˌmet̬əˈfɪzɪks,0,0
 metastasis, məˈtæstəsɪs,0,0
 metastasize, metˈæstəsaɪz,0,0
 metastasized, metˈæstəsaɪz,1,0
-mete, miːt miːt,1,0
-meted, miːt miːt,1,0
+mete,,0,1
+meted,,0,1
 meteor," ˈmiːt̬iɔːr ˈmi·t̬i·ər, -ˌɔr",0,0
 meteoric," ˌmiːt̬iˈɔːrɪk ˌmiːt̬iˈɔːrɪk ˌmi·t̬iˈɔr·ɪk, -ˈɑr- ˌmi·t̬iˈɔr·ɪk, -ˈɑr-",1,0
 meteorite, -t̬iəraɪt ˈmi·t̬i·əˌrɑɪt,0,0
@@ -132,7 +132,7 @@ meter, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ə
 metered, ˈmiːt̬ɚ,1,0
 metering, ˈmiːt̬ɚ,1,0
 meters, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər,1,0
-meth, ˌkrɪstəl ˈmeθ,1,0
+meth,,0,1
 methadone, ˈmeθədoʊn,0,0
 methamphetamine, ˌmeθæmˈfet̬əmiːn,0,0
 methane, ˈmiːθeɪn ˈmeθ·eɪn,0,0
@@ -145,14 +145,14 @@ methodological, ˌmeθədəlˈɑːdʒɪkəl,0,0
 methodologies, ˌmeθəˈdɑːlədʒi ˌmeθ·əˈdɑl·ə·dʒi,1,0
 methodology, ˌmeθəˈdɑːlədʒi ˌmeθ·əˈdɑl·ə·dʒi,1,0
 methods, ˈmeθəd ˈmeθ·əd,1,0
-methotrexate,,0,0
-methought,,0,0
+methotrexate,,0,1
+methought,,0,1
 methuselah, məˈθjuːzələ,1,0
 methyl, ˈmeθəl,0,0
-methylene,,0,0
+methylene,,0,1
 meticulous, məˈtɪkjələs məˈtɪk·jə·ləs,1,0
 meticulously, məˈtɪkjələsli,0,0
-metis,,0,0
+metis,,0,1
 metre, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ,1,0
 metres, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər,1,0
 metric, ˈmetrɪk ˈme·trɪk,1,0
@@ -166,10 +166,10 @@ mew, mjuː,0,0
 mexican, ˈmeksɪkən,1,0
 mexicans, ˈmeksɪkən,1,0
 mexico, ˈmeksɪkoʊ,1,0
-mezuzah,,0,0
+mezuzah,,0,1
 mezzanine," ˈmetsəniːn ˈmetsəniːn ˈmez·əˌnin, ˌmez·əˈnin ˈmetsəniːn",0,0
 mezzo, ˈmetsoʊ,0,0
-mh,,0,0
+mh,,0,1
 mi,,1,0
 mia, ˌemaɪˈeɪ ˌemaɪˈeɪ,1,0
 miami, maɪˈæmi,1,0
@@ -177,16 +177,16 @@ miasma, miˈæzmə miˈæzmə,0,0
 mib, ˈmebɪbaɪt,1,0
 mic, maɪk mɑɪk,0,0
 mica, ˈmaɪkə,0,0
-micah,,0,0
+micah,,0,1
 mice, maɪs mɑɪs,0,0
-michael,,0,0
-michelangelo,,0,0
+michael,,0,1
+michelangelo,,0,1
 michigan, ˈmɪʃɪɡən,1,0
 mick, mɪk,0,0
 mickey, ˈmɪki,0,0
-mickle,,0,0
-mickler,,0,0
-micky,,0,0
+mickle,,0,1
+mickler,,0,1
+micky,,0,1
 micro," ˈmaɪkroʊ ˌmɑɪ·kroʊ, ˌmɑɪ·krə",1,0
 microbe, ˈmaɪkroʊb ˈmɑɪ·kroʊb,0,0
 microbes, ˈmaɪkroʊb ˈmɑɪ·kroʊb,1,0
@@ -224,7 +224,7 @@ microscopes, ˈmaɪkrəskoʊp ˈmɑɪ·krəˌskoʊp,1,0
 microscopic, ˌmaɪkrəˈskɑːpɪk ˌmaɪkrəˈskɑːpɪk ˌmɑɪ·krəˈskɑp·ɪk,0,0
 microscopically, ˌmaɪkrəˈskɑːpɪkəli ˌmaɪkrəˈskɑːpɪkəli,0,0
 microscopy, maɪˈkrɑːskəpi,0,0
-microsystems,,0,0
+microsystems,,0,1
 microwavable, ˌmaɪkrəˈweɪvəbəl,0,0
 microwave, ˈmaɪkroʊweɪv ˈmaɪkroʊweɪv ˈmɑɪ·krəˌweɪv,0,0
 microwaved, ˈmaɪkroʊweɪv,1,0
@@ -232,28 +232,28 @@ microwaves, ˈmaɪkroʊweɪv ˈmaɪkroʊweɪv ˈmɑɪ·krəˌweɪv ˈmɑɪ·krə
 mid, mɪd mɪd,1,0
 midafternoon, ˌæftɚtəˈnuːn ˈmɪdˌæf·tərˈnun,0,0
 midair, ˌmɪdˈer mɪdˈeər,0,0
-midas, ˈmaɪdəs,1,0
-midcourse,,0,0
+midas,,0,1
+midcourse,,0,1
 midday," ˌmɪdˈdeɪ ˈmɪdˌdeɪ, -ˈdeɪ",0,0
 middle, ˈmɪdəl ˈmɪdəl ˈmɪd·əl ˈmɪd·əl ˈmɪd·əl,0,0
 middleman, ˈmɪdəlmæn ˈmɪdəlmæn ˈmɪd·əlˌmæn,1,0
 middlemen, ˈmɪdəlmæn ˈmɪdəlmæn ˈmɪd·əlˌmæn,1,0
 middleweight, ˈmɪdəlweɪt,0,0
 middling, ˈmɪdəlɪŋ ˈmɪd·lɪŋ,0,0
-mideast, ˌmɪdˈiːst ˌmɪdˈist,1,0
+mideast,,0,1
 midge, mɪdʒ,0,0
 midget, ˈmɪdʒɪt ˈmɪdʒ·ɪt,0,0
 midgets, ˈmɪdʒɪt ˈmɪdʒ·ɪt,1,0
 midi, ˈmɪdi ˈmɪdi,0,0
 midland, ˈmɪdlənd,1,0
-midlands, ˈmɪdləndz,1,0
+midlands,,0,1
 midlife, ˈmɪdlaɪf ˈmɪdˌlɑɪf,0,0
 midline, ˈmɪdlaɪn,0,0
 midmorning, ˌmɪdˈmɔːrnɪŋ,1,0
 midnight, ˈmɪdnaɪt ˈmɪdˌnɑɪt,0,0
 midpoint, ˈmɪdpɔɪnt ˈmɪdpɔɪnt ˈmɪdˌpɔɪnt ˈmɪdpɔɪnt,0,0
-midrange,,0,0
-midseason,,0,0
+midrange,,0,1
+midseason,,0,1
 midsection, ˈmɪdrɪf ˈmɪd·rɪf,1,0
 midshipman, ˈmɪdˌʃɪpmən,0,0
 midshipmen, ˈmɪdˌʃɪpmən,1,0
@@ -267,15 +267,15 @@ midterms, ˈmɪdtɝːm ˈmɪdˌtɜrm,1,0
 midtown, ˈmɪdˌtaʊn ˈmɪdˌtɑʊn ˈmɪdˌtaʊn,0,0
 midway," ˌmɪdˈweɪ ˌmɪdˈweɪ ˈmɪdˌweɪ, -ˈweɪ",0,0
 midweek," ˌmɪdˈwiːk ˈmɪdˌwik, -ˈwik",0,0
-midwest, ˌmɪdˈwest ˌmɪdˈwest,1,0
+midwest,,0,1
 midwestern, ˌmɪdˈwestɚn,1,0
-midwesterners,,0,0
+midwesterners,,0,1
 midwife, ˈmɪdwaɪf ˈmɪdˌwɑɪf,0,0
 midwinter, ˌmɪdˈwɪnt̬ɚ ˌmɪdˈwɪnt̬ɚ,0,0
 midwives,,1,0
 mien, miːn,0,0
 miffed, mɪft mɪft,0,0
-mig,,0,0
+mig,,0,1
 might, maɪt maɪt maɪt maɪt maɪt maɪt mɑɪt,0,0
 mightier, ˈmaɪt̬i,1,0
 mightiest, ˈmaɪt̬i,1,0
@@ -294,31 +294,31 @@ migrating, ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt,1,0
 migration, maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən mɑɪˈɡreɪ·ʃən,1,0
 migrations, maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən mɑɪˈɡreɪ·ʃən,1,0
 migratory," ˈmaɪɡrətɔːri ˈmaɪɡrətɔːri ˈmɑɪ·ɡrəˌtɔr·i, -ˌtoʊr·i",0,0
-migs,,0,0
-mikado,,0,0
+migs,,0,1
+mikado,,0,1
 mike, maɪk maɪk mɑɪk,0,0
 mikes, ˈmaɪkrəfoʊn ˈmɑɪ·krəˌfoʊn,1,0
 mil, ˌdɑːtˈmɪl,1,0
-mila,,0,0
-milady,,0,0
-milan,,0,0
-milch,,0,0
+mila,,0,1
+milady,,0,1
+milan,,0,1
+milch,,0,1
 mild, maɪld maɪld maɪld maɪld mɑɪld mɑɪld mɑɪld,0,0
 milder, maɪld maɪld maɪld maɪld mɑɪld mɑɪld mɑɪld,1,0
 mildest, maɪld maɪld maɪld maɪld mɑɪld mɑɪld mɑɪld,1,0
 mildew, ˈmɪlduː ˈmɪlˌdu,0,0
-mildews,,0,0
+mildews,,0,1
 mildly, ˈmaɪldli ˈmaɪldli ˈmɑɪld·li,0,0
-mildred,,0,0
+mildred,,0,1
 mile, maɪl maɪl maɪl mɑɪl mɑɪl,1,0
 mileage, ˈmaɪlɪdʒ ˈmaɪlɪdʒ ˈmaɪlɪdʒ ˈmɑɪ·lɪdʒ ˈmɑɪ·lɪdʒ,1,0
-miler,,0,0
+miler,,0,1
 miles,,1,0
 milestone, ˈmaɪlstoʊn ˈmaɪlstoʊn ˈmɑɪlˌstoʊn,1,0
 milestones, ˈmaɪlstoʊn ˈmaɪlstoʊn ˈmɑɪlˌstoʊn,1,0
 milieu," miːlˈjɜː mɪlˈjʊ, -ˈju",0,0
 militant, ˈmɪlətənt ˈmɪl·ɪ·tənt,0,0
-militants,,0,0
+militants,,0,1
 militaries, ˈmɪləteri ˈmɪləteri ˈmɪləteri ˈmɪl·ɪˌter·i ˈmɪl·ɪˌter·i ˈmɪl·ɪˌter·i,1,0
 militarily, ˌmɪləˈterəli ˌmɪl·əˈteər·ə·li,0,0
 militarism, ˈmɪlətɚɪzəm ˈmɪl·ɪ·təˌrɪz·əm,0,0
@@ -327,23 +327,23 @@ militarists, ˈmɪlətərɪst,1,0
 militarize, ˌriːˈmɪlətəraɪz ˌriːˈmɪlətəraɪz,1,0
 militarized, ˈmɪlətəraɪzd,0,0
 military, ˈmɪləteri ˈmɪləteri ˈmɪl·ɪˌter·i ˈmɪl·ɪˌter·i ˈmɪl·ɪˌter·i,0,0
-militate, ˈmiləteɪt ˈmiləteɪt,1,0
+militate,,0,1
 militia, məˈlɪʃə məˈlɪʃ·ə,0,0
 militias, məˈlɪʃə məˈlɪʃ·ə,1,0
 milk, mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk,1,0
 milked, mɪlk mɪlk,1,0
-milken,,0,0
+milken,,0,1
 milking, mɪlk mɪlk,1,0
 milkman, ˈmɪlkmən,0,0
-milko,,0,0
+milko,,0,1
 milks, mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk,1,0
 milkshake, ˈmɪlkʃeɪk ˈmɪlkʃeɪk ˈmɪlkˌʃeɪk,0,0
 milkweed, ˈmɪlkwiːd,0,0
 milky, ˈmɪlki ˈmɪlki ˈmɪl·ki,0,0
 mill, mɪl mɪl mɪl mɪl mɪl mɪl,1,0
-millage,,0,0
-millard,,0,0
-mille,,1,0
+millage,,0,1
+millard,,0,1
+mille,,0,1
 milled, mɪl mɪl,1,0
 millennia,,1,0
 millennial, mɪˈleniəl mɪˈleniəl,0,0
@@ -364,22 +364,22 @@ milling, ˈmɪlɪŋ,1,0
 million, ˈmɪljən ˈmɪl·jən ˈmɪljən ˈmɪljən,0,0
 millionaire, ˌmɪljəˈner ˌmɪl·jəˈneər,1,0
 millionaires, ˌmɪljəˈner ˌmɪl·jəˈneər,1,0
-millions,,1,0
+millions,,0,1
 millionth, ˈmɪljənθ ˈmɪl·jənθ,0,0
 millisecond, ˈmɪləˌsekənd,0,0
 milliseconds, ˈmɪləˌsekənd,1,0
-millman,,0,0
+millman,,0,1
 mills, mɪl mɪl mɪl mɪl mɪl mɪl,1,0
 millstone, ˈmɪlstoʊn ˈmɪlˌstoʊn,0,0
-milly,,0,0
-milner,,0,0
+milly,,0,1
+milner,,0,1
 milo, ˈmaɪloʊ,0,0
-milos,,0,0
-mils,,0,0
-milt,,0,0
-milton, ˌmɪltən ˈkiːnz,1,0
-milwaukee,,0,0
-mim,,0,0
+milos,,0,1
+mils,,0,1
+milt,,0,1
+milton,,0,1
+milwaukee,,0,1
+mim,,0,1
 mime, maɪm maɪm mɑɪm,0,0
 mimeograph, ˈmɪmiəɡræf ˈmɪmiəɡræf,0,0
 mimic, ˈmɪmɪk ˈmɪm·ɪk ˈmɪm·ɪk,0,0
@@ -389,10 +389,10 @@ mimicry, ˈmɪmɪkri,0,0
 mimics, ˈmɪmɪk ˈmɪm·ɪk ˈmɪm·ɪk,1,0
 mimosa, mɪˈmoʊsə mɪˈmoʊsə,0,0
 min,,1,0
-mina,,0,0
+mina,,0,1
 minaret, ˌmɪnəˈret,0,0
 minarets, ˌmɪnəˈret,1,0
-minas,,0,0
+minas,,0,1
 mince, mɪns mɪns,0,0
 minced, mɪnst,0,0
 mincemeat, ˈmɪnsmiːt ˈmɪnsmiːt ˈmɪnsˌmit,0,0
@@ -422,8 +422,8 @@ mines, maɪn mɑɪn,1,0
 minestrone, ˌmɪnəˈstroʊni,0,0
 minesweeper, ˈmaɪnˌswiːpɚ ˈmɑɪnˌswi·pər,0,0
 minesweepers, ˈmaɪnˌswiːpɚ ˈmɑɪnˌswi·pər,1,0
-minette,,0,0
-ming,,0,0
+minette,,0,1
+ming,,0,1
 minge, mɪndʒ,0,0
 mingle, ˈmɪŋɡəl ˈmɪŋɡəl ˈmɪŋ·ɡəl ˈmɪŋ·ɡəl,0,0
 mingled, ˈmɪŋɡəl ˈmɪŋɡəl,1,0
@@ -456,9 +456,9 @@ miniskirt, ˈmɪniskɝːt ˈmɪn·iˌskɜrt,0,0
 miniskirts, ˈmɪniskɝːt ˈmɪn·iˌskɜrt,1,0
 minister, ˈmɪnəstɚ ˈmɪnəstɚ ˈmɪnəstɚ ˈmɪn·ə·stər ˈmɪn·ə·stər,1,0
 ministerial, ˌmɪnəˈstɪriəl ˌmɪnəˈstɪriəl,1,0
-ministering, ˌmɪnəstɚɪŋ ˈeɪndʒəl,1,0
+ministering,,0,1
 ministers, ˈmɪnəstɚ ˈmɪnəstɚ ˈmɪnəstɚ ˈmɪn·ə·stər ˈmɪn·ə·stər,1,0
-ministership,,0,0
+ministership,,0,1
 ministrations, ˌmɪnəˈstreɪʃənz,0,0
 ministries, ˈmɪnəstri ˈmɪnəstri ˈmɪnəstri ˈmɪn·ə·stri ˈmɪn·ə·stri,1,0
 ministry, ˈmɪnəstri ˈmɪnəstri ˈmɪn·ə·stri ˈmɪn·ə·stri,0,0
@@ -466,19 +466,19 @@ minivan, ˈmɪnivæn ˈmɪn·iˌvæn,0,0
 minivans, ˈmɪnivæn ˈmɪn·iˌvæn,1,0
 mink, mɪŋk mɪŋk,0,0
 minks, mɪŋk mɪŋk,1,0
-minneapolis,,0,0
+minneapolis,,0,1
 minnesota, mɪnɪˈsoʊt̬ə,1,0
-minnie, ˌmoʊnɪŋ ˈmɪni,1,0
+minnie,,0,1
 minnow, ˈmɪnoʊ ˈmɪnoʊ ˈmɪn·oʊ,1,0
 minnows, ˈmɪnoʊ ˈmɪnoʊ ˈmɪn·oʊ,1,0
-minny,,0,0
-mino,,0,0
-minoan,,0,0
+minny,,0,1
+mino,,0,1
+minoan,,0,1
 minor, ˈmaɪnɚ ˈmaɪnɚ ˈmaɪnɚ ˈmɑɪ·nər ˈmɑɪ·nər,1,0
-minored,,1,0
-minoring,,1,0
+minored,,0,1
+minoring,,0,1
 minorities," maɪˈnɔːrət̬i maɪˈnɔːrət̬i məˈnɔr·ɪ·t̬i, mɑɪ-, -ˈnɑr- məˈnɔr·ɪ·t̬i (ˌɡrup), mɑɪ-, -ˈnɑr- məˈnɒrəti məˈnɒrəti",1,0
 minority," maɪˈnɔːrət̬i maɪˈnɔːrət̬i məˈnɔr·ɪ·t̬i, mɑɪ-, -ˈnɑr- məˈnɔr·ɪ·t̬i (ˌɡrup), mɑɪ-, -ˈnɑr- məˈnɒrəti məˈnɒrəti",0,0
-minors,,1,0
-minot,,0,0
-minoxidil,,0,0
+minors,,0,1
+minot,,0,1
+minoxidil,,0,1

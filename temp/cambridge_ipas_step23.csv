@@ -1,8 +1,8 @@
 Word,Pronunciation,Root Word Returned,Missing
 dado, ˈdeɪdoʊ ˈdeɪdoʊ ˈdeɪdoʊ,0,0
 dads, dæd dæd,1,0
-dae,,0,0
-daedalus,,0,0
+dae,,0,1
+daedalus,,0,1
 daemon, ˈdiːmən,0,0
 daffodil, ˈdæfədɪl ˈdæf·əˌdɪl,0,0
 daffodils, ˈdæfədɪl ˈdæf·əˌdɪl,1,0
@@ -11,12 +11,12 @@ daft, dæft,0,0
 dag, dæɡ,0,0
 dagger, ˈdæɡɚ ˈdæɡɚ ˈdæɡ·ər,0,0
 daggers, ˈdæɡɚ ˈdæɡɚ ˈdæɡ·ər,1,0
-dagon,,0,0
+dagon,,0,1
 dah, ˌlɑːdiˈdɑː,1,0
 dahlia, ˈdeɪljə,0,0
 dailies, ˈdeɪli ˈdeɪ·li,1,0
 daily, ˈdeɪli ˈdeɪ·li,1,0
-dain,,0,0
+dain,,0,1
 dainty, ˈdeɪnt̬i ˈdeɪn·ti,0,0
 daiquiri, ˈdækɚi,0,0
 dairies, ˈderi ˈdeər·i,1,0
@@ -25,34 +25,34 @@ dairymen, ˈderimən,1,0
 dais, ˈdeɪɪs,0,0
 daisies, ˈdeɪzi ˈdeɪ·zi,1,0
 daisy, ˈdeɪzi ˈdeɪ·zi,0,0
-dak,,0,0
-dakota, ˌnɔːrθ dəˈkoʊt̬ə,1,0
-dakotas,,0,0
+dak,,0,1
+dakota,,0,1
+dakotas,,0,1
 dal, dɑːl,0,0
-dalai, ˌdælaɪ ˈlɑːmə,1,0
+dalai,,0,1
 dale, deɪl,0,0
 dales, deɪl deɪl,1,0
-daleth,,0,0
-dali,,0,0
+daleth,,0,1
+dali,,0,1
 dallas, ˈdæləs,1,0
 dalliance, ˈdæliəns ˈdæliəns,0,0
 dallied, ˈdæli,1,0
 dally, ˈdæli ˈdæl·i,0,0
 dalmatian, dælˈmeɪʃən,1,0
 dalmatians, dælˈmeɪʃən,1,0
-dalton,,0,0
+dalton,,0,1
 dam, dæm dæm dæm dæm,1,0
-dama,,0,0
+dama,,0,1
 damage, ˈdæmɪdʒ ˈdæm·ɪdʒ,1,0
 damaged, ˈdæmɪdʒd,0,0
 damages, ˈdæm·ɪ·dʒɪz,1,0
 damaging, ˈdæmɪdʒɪŋ,0,0
-damas,,0,0
+damas,,0,1
 damascus, dəˈmæskəs,1,0
 damask, ˈdæməsk,0,0
 dame, deɪm deɪm deɪm,0,0
 dames, deɪm deɪm deɪm deɪm,1,0
-damme,,0,0
+damme,,0,1
 dammed,,1,0
 damming,,1,0
 dammit, ˈdæmɪt ˈdæmɪt,0,0
@@ -62,27 +62,27 @@ damned, dæmd dæmd,0,0
 damning, ˈdæmɪŋ ˈdæm·ɪŋ,0,0
 damns, dæm dæm dæm dæm dæm dæm dæm,1,0
 damocles, ˈdæməkliːz,1,0
-damon,,0,0
+damon,,0,1
 damp, dæmp dæmp,0,0
 dampen, ˈdæmpən ˈdæmpən ˈdæm·pən ˈdæm·pən,1,0
 dampened, ˈdæmpən ˈdæmpən,1,0
 dampening, ˈdæmpən ˈdæmpən,1,0
 damper, ˈdæmpɚ ˈdæmpɚ ˈdæmpɚ ˈdæmpɚ,0,0
 dampers, ˈdæmpɚ ˈdæmpɚ ˈdæmpɚ ˈdæmpɚ ˈdæmpɚ,1,0
-damping, ˌdæmpɪŋ ˈɑːf,1,0
+damping,,0,1
 dampness, ˈdæmpnəs,0,0
 dams, dæm dæm dæm dæm,1,0
 damsel, ˈdæmzəl ˈdæm·zəl,0,0
 damson, ˈdæmzən,0,0
 dan, dæn dæn,0,0
-dana,,0,0
+dana,,0,1
 dance, dæns dæns dæns dæns,0,0
 danced, dæns dæns,1,0
 dancer, ˈdænsɚ ˈdæn·sər,0,0
 dancers, ˈdænsɚ ˈdæn·sər,1,0
 dances, dæns dæns dæns dæns,1,0
 dancing, ˈdænsɪŋ,0,0
-dancy,,0,0
+dancy,,0,1
 dandelion, ˈdændəlaɪən ˈdæn·dəlˌɑɪ·ən,0,0
 dandelions, ˈdændəlaɪən ˈdæn·dəlˌɑɪ·ən,1,0
 dandruff, ˈdændrəf ˈdæn·drəf,0,0
@@ -93,34 +93,34 @@ dang, dæŋ,0,0
 danger, ˈdeɪndʒɚ ˈdeɪndʒɚ ˈdeɪn·dʒər ˈdeɪn·dʒər,0,0
 dangerous," ˈdeɪndʒɚəs ˈdeɪn·dʒər·əs, ˈdeɪndʒ·rəs",0,0
 dangerously, ˈdeɪndʒɚəsli,0,0
-dangerousness,,0,0
+dangerousness,,0,1
 dangers, ˈdeɪndʒɚ ˈdeɪndʒɚ ˈdeɪndʒɚ ˈdeɪn·dʒər ˈdeɪn·dʒər,1,0
 dangle, ˈdæŋɡəl ˈdæŋɡəl ˈdæŋɡəl ˈdæŋ·ɡəl,0,0
 dangled, ˈdæŋɡəl ˈdæŋɡəl,1,0
-dangler,,0,0
+dangler,,0,1
 dangles, ˈdæŋɡəl ˈdæŋɡəl ˈdæŋɡəl ˈdæŋ·ɡəl,1,0
 dangling, ˈdæŋɡəl ˈdæŋɡəl,1,0
-daniel,,0,0
+daniel,,0,1
 danish, ˈdeɪnɪʃ,1,0
 dank, dæŋk dæŋk dæŋk dæŋk,0,0
 danker, dæŋk dæŋk dæŋk dæŋk,1,0
-danner,,0,0
-danny,,0,0
-dante,,0,0
-danton,,0,0
-danube,,0,0
-dao,,0,0
-daphne,,0,0
+danner,,0,1
+danny,,0,1
+dante,,0,1
+danton,,0,1
+danube,,0,1
+dao,,0,1
+daphne,,0,1
 dapper, ˈdæpɚ ˈdæp·ər,0,0
-dar, ˌdɑːr es səˈlɑːm,1,0
-darby,,0,0
-darcy,,0,0
+dar,,0,1
+darby,,0,1
+darcy,,0,1
 dare, der der deər deər,0,0
 dared, der der,1,0
 daredevil, ˈderˌdevəl ˈdeərˌdev·əl,0,0
 daredevils, ˈderˌdevəl ˈdeərˌdev·əl,1,0
 dares, der der deər deər,1,0
-daresay, ˌderˈseɪ,1,0
+daresay,,0,1
 daring, ˈderɪŋ ˈdeər·ɪŋ,0,0
 darjeeling, dɑːrˈdʒiːlɪŋ,1,0
 dark, dɑːrk dɑːrk dɑːrk dɑːrk dɑːrk dɑːrk dɑrk dɑrk dɑrk dɑrk,0,0
@@ -137,25 +137,25 @@ darling, ˈdɑːrlɪŋ ˈdɑr·lɪŋ,0,0
 darlings, ˈdɑːrlɪŋ ˈdɑr·lɪŋ,1,0
 darn, dɑːrn dɑrn,0,0
 darned, dɑːrn,1,0
-darnedest,,1,0
-darnel,,0,0
+darnedest,,0,1
+darnel,,0,1
 darns, dɑːrn dɑrn,1,0
 dart, dɑːrt dɑːrt dɑːrt dɑrt,0,0
 dartboard, ˈdɑːrtbɔːrd,0,0
 darted, dɑːrt dɑːrt,1,0
-darter,,0,0
+darter,,0,1
 darting, dɑːrt dɑːrt,1,0
 darts, dɑrts,1,0
 darwin, ˈdɑːrwɪn,1,0
 darwinian, dɑːrˈwɪniən,1,0
 darwinism, ˈdɑːrwɪnɪzəm ˈdɑːrwɪnɪzəm,1,0
 das, ˌdiːˈeɪ,1,0
-dase,,0,0
+dase,,0,1
 dash, dæʃ dæʃ dæʃ dæʃ,0,0
 dashboard," ˈdæʃbɔːrd ˈdæʃbɔːrd ˈdɑʃˌbɔrd, -ˌboʊrd",0,0
 dashboards," ˈdæʃbɔːrd ˈdæʃbɔːrd ˈdɑʃˌbɔrd, -ˌboʊrd",1,0
 dashed, dæʃt,0,0
-dasher,,0,0
+dasher,,0,1
 dashes, dæʃ dæʃ dæʃ dæʃ dæʃ,1,0
 dashiki, dəˈʃiːki,0,0
 dashing, ˈdæʃɪŋ ˈdæʃ·ɪŋ,0,0
@@ -168,11 +168,11 @@ date, deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt,1,0
 dated, ˈdeɪt̬ɪd ˈdeɪ·t̬ɪd,0,0
 dateline, ˈdeɪtlaɪn,0,0
 dates, deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt deɪt,1,0
-dating,,0,0
-dato,,0,0
-datsun,,0,0
+dating, deɪt deɪt deɪt deɪt deɪt,1,0
+dato,,0,1
+datsun,,0,1
 datura, dəˈtjʊrə,0,0
-dau,,0,0
+dau,,0,1
 daub," dɑːb dɔb, dɑb",0,0
 daube, doʊb,0,0
 daughter, ˈdɑːt̬ɚ ˈdɔ·t̬ər,0,0
@@ -180,36 +180,36 @@ daughters, ˈdɑːt̬ɚ ˈdɔ·t̬ər,1,0
 daunt," dɑːnt dɔnt, dɑnt",0,0
 daunted, dɑːnt,1,0
 daunting, ˈdɑːnt̬ɪŋ,0,0
-dauphin,,0,0
-dave,,0,0
-davenport,,0,0
-david, ˌstɑːr əv ˈdeɪvɪd ˈstɑr əv ˈdeɪ·vɪd,1,0
-davies,,0,0
-davis,,0,0
-davy,,0,0
+dauphin,,0,1
+dave,,0,1
+davenport,,0,1
+david,,0,1
+davies,,0,1
+davis,,0,1
+davy,,0,1
 dawdle, ˈdɑːdəl ˈdɔ·dəl,0,0
 dawdling, ˈdɑːdəl,1,0
 dawn," dɑːn dɔn, dɑn",0,0
 dawned, dɑːn dɑːn,1,0
 dawning, ˈdɑːnɪŋ,0,0
 dawns," dɑːn dɑːn dɑːn dɔn, dɑn",1,0
-daws,,0,0
+daws,,0,1
 day, deɪ deɪ deɪ deɪ deɪ deɪ,0,0
-dayan,,0,0
+dayan,,0,1
 daybreak, ˈdeɪbreɪk ˈdeɪ·breɪk,0,0
-daycare," ˈdeɪ ˌker ˈdeɪ·ker, -kær",1,0
+daycare,,0,1
 daydream, ˈdeɪdriːm ˈdeɪˌdrim,0,0
 daydreamed, ˈdeɪdriːm,1,0
 daydreaming, ˈdeɪdriːmɪŋ,0,0
 daydreams, ˈdeɪdriːm ˈdeɪˌdrim,1,0
 daylight, ˈdeɪlaɪt ˈdeɪˌlɑɪt,0,0
-daylights,,1,0
-daylong,,0,0
-days,,1,0
+daylights,,0,1
+daylong,,0,1
+days,,0,1
 daytime, ˈdeɪtaɪm ˈdeɪ·tɑɪm,0,0
-daytimes,,0,0
-dayton,,0,0
-daze, deɪz,1,0
+daytimes,,0,1
+dayton,,0,1
+daze,,0,1
 dazed, deɪzd deɪzd,0,0
 dazzle, ˈdæzəl ˈdæzəl ˈdæz·əl ˈdæz·əl,0,0
 dazzled, ˈdæzəl ˈdæzəl,1,0
@@ -217,7 +217,7 @@ dazzling," ˈdæzəlɪŋ ˈdæzəlɪŋ ˈdæz·ə·lɪŋ, ˈdæz·lɪŋ",0,0
 dc, ˌdiːˈsiː ˌdiːˈsiː,1,0
 ddt, ˌdiːdiːˈtiː ˈdiˌdiˈti,1,0
 de, diː-,1,0
-dea,,0,0
+dea,,0,1
 deacon, ˈdiːkən ˈdiːkən ˈdi·kən,0,0
 deaconess, ˈdiːkənəs,0,0
 deacons, ˈdiːkən ˈdiːkən ˈdi·kən,1,0
@@ -229,20 +229,20 @@ deadbeats, ˈdedbiːt ˈdedbiːt ˈded·bit,1,0
 deadbolt, ˈdedboʊlt,0,0
 deaden, ˈdedən ˈded·ən,0,0
 deadening, ˈdedənɪŋ ˈdedənɪŋ,0,0
-deader,,0,0
+deader,,0,1
 deadhead, ˈdedhed,1,0
 deadheads, ˈdedhed,1,0
 deadlier, ˈdedli ˈdedli ˈdedli ˈded·li,1,0
 deadliest, ˈdedli ˈdedli ˈdedli ˈded·li,1,0
 deadline, ˈdedlaɪn ˈdedˌlɑɪn,1,0
 deadlines, ˈdedlaɪn ˈdedˌlɑɪn,1,0
-deadliness,,0,0
+deadliness,,0,1
 deadlock, ˈdedlɑːk ˈdedlɑːk ˈdedˌlɑk,1,0
 deadlocked, ˈdedlɑːkt ˈdedˌlɑkt,1,0
 deadly, ˈdedli ˈdedli ˈdedli ˈded·li,0,0
 deadpan, ˈdedpæn ˈdedˌpæn,0,0
 deadweight,,1,0
-deadwood, ˌded ˈwʊd ˈded ˌwʊd,1,0
+deadwood,,0,1
 deaf, def def def,0,0
 deafen, ˈdefən,0,0
 deafening, ˈdefənɪŋ ˈdef·ə·nɪŋ,0,0
@@ -259,17 +259,17 @@ dealt, delt,0,0
 dean, diːn diːn diːn din,0,0
 deans, diːn diːn diːn din,1,0
 dear, dɪr dɪr dɪr dɪər dɪər dɪər,1,0
-dearborn,,0,0
+dearborn,,0,1
 dearer,,1,0
 dearest, ˈdɪrɪst,0,0
 dearly, ˈdɪrli ˈdɪrli ˈdɪər·li,0,0
 dearth, dɝːθ dɜrθ,1,0
-deary,,0,0
+deary,,0,1
 death, deθ deθ,0,0
 deathbed, ˈdeθbed,0,0
 deathly, ˈdeθli ˈdeθ·li,0,0
 deaths, deθ deθ deθ deθ deθ,1,0
-deathwatch, ˌdeθwɑːtʃ ˈbiːt̬əl,1,0
+deathwatch,,0,1
 deb, deb,1,0
 debacle," dɪˈbɑːkəl dɪˈbɑk·əl, di-, -ˈbæk-",0,0
 debacles," dɪˈbɑːkəl dɪˈbɑk·əl, di-, -ˈbæk-",1,0
@@ -285,15 +285,15 @@ debaters, dɪˈbeɪt̬ɚ,1,0
 debates, dɪˈbeɪt dɪˈbeɪt dɪˈbeɪt,1,0
 debating, dɪˈbeɪt dɪˈbeɪt,1,0
 debauchery, dɪˈbɑːtʃɚi,0,0
-debbie,,0,0
-debby,,0,0
+debbie,,0,1
+debby,,0,1
 debenture, dɪˈbentʃɚ,1,0
 debentures, dɪˈbentʃɚ,1,0
 debilitated, dɪˈbɪləteɪt,1,0
 debilitating, dɪˈbɪləteɪt̬ɪŋ dɪˈbɪl·əˌteɪ·t̬ɪŋ,0,0
 debit, ˈdebɪt ˈdeb·ɪt,1,0
 debonair, ˌdebəˈner,0,0
-deborah,,0,0
+deborah,,0,1
 debrief, ˌdiːˈbriːf diˈbrif,0,0
 debriefed, ˌdiːˈbriːf,1,0
 debriefing,,1,0
@@ -309,7 +309,7 @@ debugging, ˌdiːˈbʌɡ ˌdiːˈbʌɡ diˈbʌɡ,1,0
 debunk, ˌdiːˈbʌŋk diˈbʌŋk,0,0
 debunked, ˌdiːˈbʌŋk,1,0
 debunking, ˌdiːˈbʌŋk,1,0
-debussy,,0,0
+debussy,,0,1
 debut," deɪˈbju ˈdeɪ·bju, deɪˈbju deɪˈbjuː",0,0
 debutante, ˈdebjuːtɑːnt,0,0
 debutantes, ˈdebjuːtɑːnt,1,0
@@ -330,7 +330,7 @@ decanting, dɪˈkænt,1,0
 decapitate, dɪˈkæpəteɪt dɪˈkæp·ɪˌteɪt,0,0
 decapitated, dɪˈkæpəteɪt,1,0
 decapitation, dɪˌkæpəˈteɪʃən,0,0
-decapitations,,0,0
+decapitations,,0,1
 decathlete, dɪˈkæθliːt,0,0
 decathlon, dɪˈkæθlɑːn dɪˈkæθ·lɑn,0,0
 decay, dɪˈkeɪ dɪˈkeɪ dɪˈkeɪ dɪˈkeɪ,0,0
@@ -360,7 +360,7 @@ deception, dɪˈsepʃən dɪˈsep·ʃən,1,0
 deceptions, dɪˈsepʃən dɪˈsep·ʃən,1,0
 deceptive, dɪˈsept̬ɪv,0,0
 deceptively, dɪˈsept̬ɪvli,0,0
-decertified,,0,0
+decertified,,0,1
 decibel," ˈdesɪbel ˈdes·əˌbel, -bəl",0,0
 decibels," ˈdesɪbel ˈdes·əˌbel, -bəl",1,0
 decide, dɪˈsaɪd dɪˈsaɪd dɪˈsɑɪd dɪˈsɑɪd dɪˈsɑɪd,0,0
@@ -394,7 +394,7 @@ declaim, dɪˈkleɪm,0,0
 declarant,,1,0
 declaration, ˌdekləˈreɪʃən ˌdekləˈreɪʃən ˌdek·ləˈreɪ·ʃən,1,0
 declarations, ˌdekləˈreɪʃən ˌdekləˈreɪʃən ˌdek·ləˈreɪ·ʃən,1,0
-declaratory,,0,0
+declaratory,,0,1
 declare, dɪˈkler dɪˈkler dɪˈkler dɪˈkleər,1,0
 declared, dɪˈklerd,0,0
 declares, dɪˈkler dɪˈkler dɪˈkler dɪˈkleər,1,0
@@ -404,7 +404,7 @@ decline, dɪˈklaɪn dɪˈklaɪn dɪˈklaɪn dɪˈklɑɪn dɪˈklɑɪn,1,0
 declined, dɪˈklaɪn dɪˈklaɪn dɪˈklaɪn,1,0
 declines, dɪˈklaɪn dɪˈklaɪn dɪˈklaɪn dɪˈklɑɪn dɪˈklɑɪn,1,0
 declining, dɪˈklaɪn dɪˈklaɪn dɪˈklaɪn,1,0
-deco, ˌɑːrt ˈdekoʊ,1,0
+deco,,0,1
 decode, diːˈkoʊd diːˈkoʊd diˈkoʊd,0,0
 decoded, diːˈkoʊd diːˈkoʊd,1,0
 decoder, diːˈkoʊdɚ,1,0
@@ -454,7 +454,7 @@ dedicated, ˈdedəkeɪt̬ɪd ˈdedəkeɪt̬ɪd ˈded·ɪˌkeɪt̬·ɪd,1,0
 dedicates, ˈdedəkeɪt ˈdedəkeɪt ˈdedəkeɪt ˈded·ɪˌkeɪt ˈded·ɪˌkeɪt,1,0
 dedicating, ˈdedəkeɪt ˈdedəkeɪt ˈdedəkeɪt,1,0
 dedication, ˌdedəˈkeɪʃən ˌdedəˈkeɪʃən ˌdedəˈkeɪʃən ˌded·ɪˈkeɪ·ʃən ˌded·ɪˈkeɪ·ʃən,0,0
-dedo,,0,0
+dedo,,0,1
 deduce, dɪˈduːs dɪˈdus,0,0
 deduced, dɪˈduːs,1,0
 deduct, dɪˈdʌkt dɪˈdʌkt dɪˈdʌkt,1,0
@@ -466,13 +466,13 @@ deduction, dɪˈdʌkʃən dɪˈdʌkʃən dɪˈdʌkʃən dɪˈdʌk·ʃən dɪˈd�
 deductions, dɪˈdʌkʃən dɪˈdʌkʃən dɪˈdʌkʃən dɪˈdʌk·ʃən dɪˈdʌk·ʃən,1,0
 deductive, dɪˈdʌkt̬ɪv,0,0
 deducts, dɪˈdʌkt dɪˈdʌkt dɪˈdʌkt,1,0
-dee,,0,0
+dee,,0,1
 deed, diːd diːd did did,1,0
-deeded,,0,0
+deeded,,0,1
 deeds, diːd diːd did did,1,0
 deem, diːm dim,0,0
 deemed, diːm,1,0
-deemer,,0,0
+deemer,,0,1
 deems, diːm dim,1,0
 deep, diːp diːp diːp diːp diːp diːp diːp dip,1,0
 deepen, ˈdiːpən ˈdiːpən ˈdiːpən ˈdiːpən ˈdiːpən ˈdi·pən,1,0
@@ -482,4 +482,4 @@ deepens, ˈdiːpən ˈdiːpən ˈdiːpən ˈdiːpən ˈdiːpən ˈdi·pən,1,0
 deeper, diːp diːp diːp diːp diːp diːp diːp diːp diːp dip,1,0
 deepest, diːp diːp diːp diːp diːp diːp diːp diːp diːp dip,1,0
 deeply, ˈdiːpli ˈdip·li,0,0
-deepwater,,0,0
+deepwater,,0,1

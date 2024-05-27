@@ -6,10 +6,10 @@ persuasive, pɚˈsweɪsɪv,0,0
 persuasively, pɚˈsweɪsɪvli,0,0
 persuasiveness, pɚˈsweɪsɪvnəs,0,0
 pert, pɝːt pɝːt pɜrt pɜrt pɜrt,1,0
-pertain, pɝːˈteɪn pɝːˈteɪn,1,0
-pertained, pɝːˈteɪn pɝːˈteɪn,1,0
-pertaining, pɝːˈteɪn pɝːˈteɪn,1,0
-pertains, pɝːˈteɪn pɝːˈteɪn,1,0
+pertain,,0,1
+pertained,,0,1
+pertaining,,0,1
+pertains,,0,1
 pertinent, ˈpɝːtənənt ˈpɜr·tən·ənt,0,0
 perturb, pɚˈtɝːb,0,0
 perturbation, ˌpɝːt̬ɚˈbeɪʃən ˌpɝːt̬ɚˈbeɪʃən,0,0
@@ -56,34 +56,34 @@ pests, pest pest pest pest,1,0
 pet, pet pet pet pet,0,0
 petal, ˈpet̬əl ˈpet̬əl ˈpet·əl,0,0
 petals, ˈpet̬əl ˈpet̬əl ˈpet·əl,1,0
-petard, pɪˈtɑːrd,1,0
-pete,,1,0
+petard,,0,1
+pete,,0,1
 peter, ˈpiːt̬ɚ,0,0
-petered, ˈpiːt̬ɚ ˈpiːt̬ɚ,1,0
-peterman,,0,0
+petered,,0,1
+peterman,,0,1
 peters, ˈpiːt̬ɚ,1,0
-petersburg,,0,0
-petersen,,0,0
-petit, pəˌtiː bʊrˈʒwɑː,1,0
+petersburg,,0,1
+petersen,,0,1
+petit,,0,1
 petite, pəˈtiːt pəˈtiːt pəˈtit pəˈtit,0,0
-petites,,0,0
+petites,,0,1
 petition, pəˈtɪʃən pəˈtɪʃən pəˈtɪʃ·ən,1,0
 petitioned, pəˈtɪʃən,1,0
 petitioner, pəˈtɪʃənɚ pəˈtɪʃənɚ,0,0
 petitioners, pəˈtɪʃənɚ pəˈtɪʃənɚ,1,0
 petitioning, pəˈtɪʃən,1,0
 petitions, pəˈtɪʃən pəˈtɪʃən pəˈtɪʃ·ən,1,0
-petri, ˈpiːtri ˌdɪʃ ˈpiːtri ˌdɪʃ ˈpiːtri ˌdɪʃ,1,0
-petrie,,0,0
+petri,,0,1
+petrie,,0,1
 petrified, ˈpetrəfaɪd ˈpetrəfaɪd ˈpetrəfaɪd ˈpet·rəˌfɑɪd,0,0
 petrify, ˈpetrəfaɪ ˈpetrəfaɪ,0,0
-petro,,0,0
+petro,,0,1
 petrochemical, ˌpetroʊˈkemɪkəl ˌpe·troʊˈkem·ɪ·kəl,1,0
 petrochemicals, ˌpetroʊˈkemɪkəl ˌpe·troʊˈkem·ɪ·kəl,1,0
 petrol, ˈpetrəl ˈpe·trəl,1,0
 petroleum, pəˈtroʊliəm pəˈtroʊ·li·əm,1,0
 petrology, pəˈtrɑːlədʒi,0,0
-petronella,,0,0
+petronella,,0,1
 pets, pet pet pet pet pet ˌpiːˌiːˈtiː ˌpiːˌiːˈtiː pet,1,0
 petted,,1,0
 petticoat, ˈpet̬ɪkoʊt,0,0
@@ -95,12 +95,12 @@ petulance, ˈpetʃələns,0,0
 petulant, ˈpetʃələnt ˈpetʃ·ə·lənt,0,0
 petunia, pəˈtuːnjə pɪˈtun·jə,0,0
 petunias, pəˈtuːnjə pɪˈtun·jə,1,0
-peugeot,,0,0
+peugeot,,0,1
 pew, pjuː pju,0,0
 pews, pjuː pju,1,0
 pewter, ˈpjuːt̬ɚ ˈpju·t̬ər,0,0
-peyton,,0,0
-pfennig,,0,0
+peyton,,0,1
+pfennig,,0,1
 ph, ˌpiːˈeɪtʃ ˈpiˈeɪtʃ,1,0
 phage, feɪdʒ,0,0
 phagocytes, ˈfæɡoʊsaɪt ˈfæɡ·əˌsɑɪt,1,0
@@ -128,8 +128,8 @@ phases, feɪz feɪz feɪz feɪz feɪz feɪz feɪz,1,0
 phasing, feɪz,1,0
 pheasant, ˈfezənt ˈfez·ənt,0,0
 pheasants, ˈfezənt ˈfez·ənt,1,0
-phenix,,0,0
-phenol,,0,0
+phenix,,0,1
+phenol,,0,1
 phenolphthalein," ˌfiːnoʊlˈθæliːn ˌfi·nəlˈθeɪ·li·ən, -ˈθeɪ·lin, -ˈθæl·i·ən, -ˈθæl·in",0,0
 phenom, fəˈnɑːm,0,0
 phenomena,,1,0
@@ -142,45 +142,45 @@ pheromone, ˈferəmoʊn,0,0
 pheromones, ˈferəmoʊn,1,0
 phew, fjuː fjuː fjuː,0,0
 phi, faɪ,0,0
-phil,,0,0
+phil,,0,1
 philadelphia, ˌfɪləˈdelfiə,1,0
-philadelphians,,0,0
-philander,,0,0
+philadelphians,,0,1
+philander,,0,1
 philanderer, fɪˈlændɚɚ,0,0
 philanderers, fɪˈlændɚɚ,1,0
 philandering, fɪˈlændɚɪŋ,0,0
 philanthropic, ˌfɪlænˈθrɑːpɪk,1,0
-philanthropies,,0,0
+philanthropies,,0,1
 philanthropist, fɪˈlænθrəpɪst,1,0
 philanthropists, fɪˈlænθrəpɪst,1,0
 philanthropy, fɪˈlænθrəpi fɪˈlæn·θrə·pi,0,0
 philharmonic, ˌfɪlhɑːrˈmɑːnɪk,0,0
-philip,,0,0
+philip,,0,1
 philippine, ˈfɪlɪəpiːn,1,0
-philippines, ˈfɪləpiːnz,1,0
-philistia,,0,0
+philippines,,0,1
+philistia,,0,1
 philistine," ˈfɪlɪstiːn ˈfɪl·əˌstin, fəˈlɪs·tin",0,0
 philistines," ˈfɪlɪstiːn ˈfɪlɪstiːn ˈfɪl·əˌstin, fəˈlɪs·tin",1,0
-phillippi,,0,0
+phillippi,,0,1
 philodendron, ˌfɪləˈdendrən ˌfɪl·əˈden·drən,0,0
-philomela,,0,0
+philomela,,0,1
 philosopher, fɪˈlɑːsəfɚ,0,0
 philosophers, fɪˈlɑːsəfɚ,1,0
-philosophic,,0,0
+philosophic,,0,1
 philosophical, ˌfɪləˈsɑːfɪkəl ˌfɪləˈsɑːfɪkəl ˌfɪl·əˈsɑf·ɪ·kəl ˌfɪl·əˈsɑf·ɪ·kəl,0,0
 philosophically, ˌfɪləˈsɑːfɪkəli,0,0
 philosophies, fɪˈlɑːsəfi fɪˈlɑːsəfi fɪˈlɑːsəfi fɪˈlɑːsəfi fɪˈlɑs·ə·fi fɪˈlɑs·ə·fi fɪˈlɑs·ə·fi,1,0
 philosophy, fɪˈlɑːsəfi fɪˈlɑːsəfi fɪˈlɑːsəfi fɪˈlɑs·ə·fi fɪˈlɑs·ə·fi fɪˈlɑs·ə·fi,0,0
-phlebitis,,0,0
+phlebitis,,0,1
 phlegm, flem flem flem,0,0
 phobia, ˈfoʊbiə ˈfoʊbiə ˈfoʊ·bi·ə,0,0
 phobias, ˈfoʊbiə ˈfoʊbiə -ˈfoʊbiə -ˈfoʊbiə ˈfoʊ·bi·ə,1,0
 phobic, ˈfoʊbɪk,0,0
-phoebe,,0,0
-phoebus,,0,0
-phoenicia,,0,0
-phoenician,,0,0
-phoenicians,,0,0
+phoebe,,0,1
+phoebus,,0,1
+phoenicia,,0,1
+phoenician,,0,1
+phoenicians,,0,1
 phoenix, ˈfiːnɪks,0,0
 phone, foʊn foʊn foʊn,1,0
 phoned, foʊn,1,0
@@ -197,7 +197,7 @@ phony, ˈfoʊni ˈfoʊ·ni,0,0
 phooey, ˈfuːi,0,0
 phosphate, ˈfɑːsfeɪt ˈfɑs·feɪt,0,0
 phosphates, ˈfɑːsfeɪt ˈfɑs·feɪt,1,0
-phosphor,,0,0
+phosphor,,0,1
 phosphorescence, ˌfɑːsfəˈresəns,0,0
 phosphoric, fɑːsˈfɔːrɪk,0,0
 phosphorous, fɑːsˈfɔːrɪk,1,0
@@ -210,7 +210,7 @@ photocopiers, ˈfoʊt̬oʊˌkɑːpiɚ ˈfoʊ·t̬əˌkɑp·i·ər,1,0
 photocopies, ˈfoʊt̬oʊˌkɑːpi ˈfoʊt̬·əˌkɑp·i,1,0
 photocopy, ˈfoʊt̬oʊˌkɑːpi ˈfoʊt̬·əˌkɑp·i,1,0
 photocopying, ˈfoʊt̬oʊˌkɑːpi,1,0
-photodynamic,,0,0
+photodynamic,,0,1
 photoelectric, ˌfoʊt̬oʊɪˈlektrɪk ˌfoʊ·t̬oʊ·ɪˈlek·trɪk,0,0
 photogenic, ˌfoʊt̬oʊˈdʒenɪk ˌfoʊ·t̬əˈdʒen·ɪk,0,0
 photograph, ˈfoʊt̬oʊɡræf ˈfoʊ·t̬əˌɡræf,0,0
@@ -232,10 +232,10 @@ phrased, freɪz,1,0
 phraseology, ˌfreɪziˈɑːlədʒi,0,0
 phrases, freɪz freɪz freɪz freɪz freɪz freɪz,1,0
 phrasing, ˈfreɪzɪŋ ˈfreɪzɪŋ,0,0
-phu,,0,0
-phut, fət,1,0
+phu,,0,1
+phut,,0,1
 phyla, ˈfaɪləm ˈfɑɪ·ləm,1,0
-phyllis,,0,0
+phyllis,,0,1
 phylum, ˈfaɪləm ˈfɑɪ·ləm,0,0
 physical, ˈfɪzɪkəl ˈfɪzɪkəl ˈfɪzɪkəl ˈfɪzɪkəl ˈfɪzɪkəl ˈfɪz·ɪ·kəl ˈfɪz·ɪ·kəl ˈfɪz·ɪ·kəl,1,0
 physically, ˈfɪzɪkəli ˈfɪzɪkəli ˈfɪz·ɪ·kli,0,0
@@ -252,7 +252,7 @@ physiologist, ˌfɪziˈɑːlədʒɪst,0,0
 physiology, ˌfɪziˈɑːlədʒi ˌfɪz·iˈɑl·ə·dʒi,0,0
 physique, fɪˈziːk fɪˈzik,0,0
 pi, paɪ paɪ pɑɪ,0,0
-pia,,0,0
+pia,,0,1
 pianist," ˈpiːənɪst piˈæn·ɪst, ˈpyæn·ɪst, ˈpi·ə·nɪst",0,0
 pianists," ˈpiːənɪst piˈæn·ɪst, ˈpyæn·ɪst, ˈpi·ə·nɪst",1,0
 piano," piˈænoʊ piˈæn·oʊ, ˈpyæn·oʊ",0,0
@@ -260,17 +260,17 @@ pianos," piˈænoʊ piˈæn·oʊ, ˈpyæn·oʊ",1,0
 piazza, piˈɑːtsə,0,0
 pic, pɪk,0,0
 pica, ˈpaɪkə,0,0
-picante,,0,0
-picard,,0,0
-picas,,0,0
-picasso,,0,0
+picante,,0,1
+picard,,0,1
+picas,,0,1
+picasso,,0,1
 picayune, ˌpɪkəˈjuːn,0,0
-piccadilly,,0,0
+piccadilly,,0,1
 piccolo, ˈpɪkəloʊ ˈpɪk·əˌloʊ,0,0
 pick, pɪk pɪk pɪk pɪk pɪk pɪk pɪk,1,0
 picked, pɪk pɪk pɪk pɪk pɪk pɪk,1,0
 picker, ˈpɪkɚ ˈpɪkɚ ˈpɪkɚ ˈpɪkɚ ˈpɪk·ər,1,0
-pickering,,0,0
+pickering,,0,1
 pickers, ˈpɪkɚ ˈpɪkɚ ˈpɪkɚ ˈpɪkɚ ˈpɪk·ər,1,0
 picket, ˈpɪkɪt ˈpɪkɪt ˈpɪk·ɪt,1,0
 picketed, ˈpɪkɪt,1,0
@@ -282,7 +282,7 @@ picking,,1,0
 pickings, ˈpɪkɪŋz,0,0
 pickle, ˈpɪkəl ˈpɪkəl ˈpɪkəl ˈpɪkəl ˈpɪk·əl,0,0
 pickled, ˈpɪkəld ˈpɪkəld,0,0
-pickler,,0,0
+pickler,,0,1
 pickles, ˈpɪkəl ˈpɪkəl ˈpɪkəl ˈpɪkəl ˈpɪk·əl,1,0
 pickling, ˈpɪkəlɪŋ,0,0
 pickpocket, ˈpɪkˌpɑːkɪt ˈpɪkˌpɑk·ɪt,0,0
@@ -290,7 +290,7 @@ pickpockets, ˈpɪkˌpɑːkɪt ˈpɪkˌpɑk·ɪt,1,0
 picks, pɪk pɪk pɪk pɪk pɪk pɪk pɪk pɪk pɪk pɪk,1,0
 pickup, ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkˌʌp ˈpɪkˌʌp ˈpɪkˌʌp,1,0
 pickups, ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkʌp ˈpɪkˌʌp ˈpɪkˌʌp ˈpɪkˌʌp,1,0
-pickwick,,0,0
+pickwick,,0,1
 picky, ˈpɪki ˈpɪk·i ˈpɪk·i,0,0
 picnic, ˈpɪknɪk ˈpɪk·nɪk ˈpɪk·nɪk,0,0
 picnics, ˈpɪknɪk ˈpɪk·nɪk ˈpɪk·nɪk,1,0
@@ -298,30 +298,30 @@ pico, piːkoʊ-,1,0
 pictorial," pɪkˈtɔːriəl pɪkˈtɔr·i·əl, -ˈtoʊr-",0,0
 picture, ˈpɪktʃɚ ˈpɪktʃɚ ˈpɪktʃɚ ˈpɪktʃɚ ˈpɪktʃɚ ˈpɪktʃɚ ˈpɪk·tʃər ˈpɪk·tʃər ˈpɪk·tʃər ˈpɪk·tʃər ˈpɪk·tʃər,1,0
 pictured, ˈpɪktʃɚ,1,0
-pictures,,1,0
+pictures,,0,1
 picturesque, ˌpɪktʃərˈesk ˌpɪk·tʃəˈresk,0,0
 picturing, ˈpɪktʃɚ,1,0
 piddle, ˈpɪdəl,0,0
 piddling, ˈpɪdəlɪŋ ˈpɪd·lɪŋ,0,0
 pie, paɪ paɪ pɑɪ,1,0
 piece, piːs piːs piːs piːs piːs piːs piːs piːs pis pis pis,1,0
-pieced, piːs piːs,1,0
+pieced,,0,1
 piecemeal, ˈpiːsmiːl ˈpisˌmil,0,0
 pieces, piːs piːs piːs piːs piːs piːs piːs piːs  -piːs pis pis pis,1,0
 piecework, ˈpiːswɝːk ˈpisˌwɜrk,1,0
-piecing, piːs piːs,1,0
+piecing,,0,1
 pied, paɪd,0,0
-piedmont,,0,0
-piedra,,0,0
+piedmont,,0,1
+piedra,,0,1
 pier, pɪr pɪr pɪr pɪər pɪər,0,0
 pierce, pɪrs pɪrs pɪərs,0,0
 pierced, pɪrs pɪrs,1,0
 piercing, ˈpɪrsɪŋ ˈpɪrsɪŋ ˈpɪrsɪŋ ˈpɪər·sɪŋ,0,0
-pierre,,0,0
+pierre,,0,1
 piers, pɪr pɪr pɪr pɪər pɪər,1,0
 pies, paɪ paɪ paɪ pɑɪ,1,0
-piet,,0,0
-pieties,,0,0
+piet,,0,1
+pieties,,0,1
 piety, ˈpaɪət̬i ˈpɑɪ·ɪ·t̬i,0,0
 pig, pɪɡ pɪɡ pɪɡ pɪɡ pɪɡ pɪɡ,0,0
 pigeon, ˈpɪdʒən ˈpɪdʒən ˈpɪdʒ·ən,0,0
@@ -340,20 +340,20 @@ pigments, ˈpɪɡmənt ˈpɪɡ·mənt ˈpɪɡ·mənt,1,0
 pigmy, ˈpɪɡmi,1,0
 pigs, pɪɡ pɪɡ pɪɡ pɪɡ pɪɡ pɪɡ pɪɡ,1,0
 pigskin, ˈpɪɡskɪn ˈpɪɡskɪn,0,0
-pigskins,,0,0
+pigskins,,0,1
 pigsty, ˈpɪɡstaɪ ˈpɪɡstaɪ,0,0
-pik,,0,0
+pik,,0,1
 pike, paɪk paɪk paɪk paɪk paɪk pɑɪk pɑɪk,0,0
 piker, ˈpaɪkɚ,0,0
 pikers, ˈpaɪkɚ,1,0
 pikes, paɪk paɪk paɪk paɪk paɪk pɑɪk pɑɪk,1,0
-pil,,0,0
+pil,,0,1
 pilaf, piːˈlɑːf,0,0
-pilar,,0,0
-pilasters,,0,0
-pilate,,0,0
-pilch,,0,0
-pilcher,,0,0
+pilar,,0,1
+pilasters,,0,1
+pilate,,0,1
+pilch,,0,1
+pilcher,,0,1
 pile, paɪl paɪl paɪl paɪl paɪl pɑɪl pɑɪl pɑɪl,1,0
 piled, paɪl paɪl,1,0
 piles, paɪl pɑɪl pɑɪl pɑɪl,1,0
@@ -365,9 +365,9 @@ pilfering, ˈpɪlfɚ,1,0
 pilgrim, ˈpɪlɡrɪm ˈpɪl·ɡrəm,0,0
 pilgrimage, ˈpɪlɡrəmɪdʒ ˈpɪlɡrəmɪdʒ ˈpɪl·ɡrə·mɪdʒ,0,0
 pilgrimages, ˈpɪlɡrəmɪdʒ ˈpɪlɡrəmɪdʒ ˈpɪl·ɡrə·mɪdʒ,1,0
-pilgrims, ˈpɪlɡrɪmz,1,0
+pilgrims,,0,1
 piling, paɪl paɪl,1,0
-pilings,,0,0
+pilings,,0,1
 pill, pɪl pɪl pɪl pɪl,0,0
 pillage, ˈpɪlɪdʒ ˈpɪl·ɪdʒ,0,0
 pillaged, ˈpɪlɪdʒ,1,0
@@ -375,7 +375,7 @@ pillages, ˈpɪlɪdʒ ˈpɪl·ɪdʒ,1,0
 pillaging, ˈpɪlɪdʒ,1,0
 pillar, ˈpɪlɚ ˈpɪl·ər ˈpɪl·ər,0,0
 pillars, ˈpɪlɚ ˈpɪlɚ ˈpɪl·ər ˈpɪl·ər,1,0
-piller,,0,0
+piller,,0,1
 pillion, ˈpɪljən,0,0
 pillory, ˈpɪlɚi,0,0
 pillow, ˈpɪloʊ ˈpɪloʊ ˈpɪl·oʊ,0,0
@@ -384,25 +384,25 @@ pills, pɪl pɪl pɪl pɪl pɪl,1,0
 pilot, ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpɑɪ·lət,1,0
 piloted, ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpaɪlət,1,0
 piloting, ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpaɪlət,1,0
-pilotless,,0,0
+pilotless,,0,1
 pilots, ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpaɪlət ˈpɑɪ·lət,1,0
-pilsner,,0,0
-pima, ˈpiːmə ˌkɑːt̬ən ˈpiːmə ˌkɑːt̬ən,1,0
+pilsner,,0,1
+pima,,0,1
 pimp, pɪmp pɪmp,0,0
 pimping, pɪmp pɪmp,1,0
 pimple, ˈpɪmpəl ˈpɪm·pəl,0,0
 pimples, ˈpɪmpəl ˈpɪm·pəl,1,0
 pimps, pɪmp pɪmp,1,0
 pin, pɪn pɪn pɪn pɪn pɪn pɪn pɪn pɪn pɪn pɪn pɪn,1,0
-pina, ˌpiːnə kəˈlɑːdə,1,0
+pina,,0,1
 pinball, ˈpɪnbɑːl ˈpɪnˌbɔl,0,0
 pincers,,1,0
 pinch, pɪntʃ pɪntʃ pɪntʃ,0,0
 pinched, pɪntʃt pɪntʃt pɪntʃt,0,0
 pincher,,1,0
-pinchers,,0,0
+pinchers,,0,1
 pinching, pɪntʃ pɪntʃ pɪntʃ,1,0
-pinder,,0,0
+pinder,,0,1
 pine, paɪn paɪn pɑɪn,0,0
 pineal, ˈpɪniəl,0,0
 pineapple, ˈpaɪnˌæpəl ˈpɑɪˌnæp·əl,0,0
@@ -428,8 +428,8 @@ pinky, ˈpɪŋki ˈpɪŋ·ki,1,0
 pinnacle, ˈpɪnəkəl ˈpɪnəkəl ˈpɪn·ə·kəl ˈpɪn·ə·kəl,0,0
 pinned,,1,0
 pinning,,1,0
-pino,,0,0
-pinocchio,,0,0
+pino,,0,1
+pinocchio,,0,1
 pinot, ˈpiːnoʊ ˈpiːnoʊ,1,0
 pinpoint, ˈpɪnpɔɪnt ˈpɪnpɔɪnt ˈpɪnˌpɔɪnt,0,0
 pinpointed, ˈpɪnpɔɪnt ˈpɪnpɔɪnt,1,0
@@ -444,7 +444,7 @@ pint, paɪnt paɪnt pɑɪnt,0,0
 pinta, ˈpaɪnt̬ə,0,0
 pinto, ˈpɪntoʊ ˈpɪntoʊ,0,0
 pints, paɪnt paɪnt pɑɪnt,1,0
-pion,,0,0
+pion,,0,1
 pioneer, ˌpaɪəˈnɪr ˌpaɪəˈnɪr ˌpɑɪ·əˈnɪər ˌpɑɪ·əˈnɪər,1,0
 pioneered, ˌpaɪəˈnɪr,1,0
 pioneering, ˌpaɪəˈnɪrɪŋ,1,0
@@ -461,14 +461,14 @@ pipes,,1,0
 pipette, paɪˈpet,0,0
 piping, ˈpaɪpɪŋ ˈpaɪpɪŋ ˈpaɪpɪŋ ˈpɑɪ·pɪŋ ˈpɑɪ·pɪŋ,0,0
 pipkin, ˈpɪpkɪn,0,0
-pippen,,0,0
-pippin,,0,0
-pippins,,0,0
+pippen,,0,1
+pippin,,0,1
+pippins,,0,1
 pips, pɪp pɪp pɪp,1,0
 piquant," ˈpiːkənt ˈpiːkənt ˈpi·kənt, piˈkɑnt",0,0
 pique, piːk pik,0,0
 piqued, piːkt,0,0
-piquette,,0,0
+piquette,,0,1
 piracy, ˈpaɪrəsi ˈpaɪrəsi ˈpɑɪ·rə·si,1,0
 piranha, pəˈrɑːnjə pəˈrɑn·ə,0,0
 pirate, ˈpaɪrət ˈpaɪrət ˈpɑɪ·rət,1,0
@@ -477,7 +477,7 @@ pirates, ˈpaɪrət ˈpaɪrət ˈpaɪrət ˈpɑɪ·rət,1,0
 pirating, ˈpaɪrət,1,0
 pirouette, ˌpɪruːˈet ˌpɪr·uˈet,0,0
 pirouettes, ˌpɪruːˈet ˌpɪr·uˈet,1,0
-pisa,,0,0
+pisa,,0,1
 pisces," ˈpaɪsiːz ˈpaɪsiːz ˈpɑɪ·siz, ˈpɪs·iz",1,0
 piss, pɪs pɪs,0,0
 pissed, pɪst pɪst,0,0

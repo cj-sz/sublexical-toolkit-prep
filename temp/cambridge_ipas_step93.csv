@@ -2,10 +2,10 @@ Word,Pronunciation,Root Word Returned,Missing
 trespass," ˈtrespæs ˈtrespæs ˈtresˌpæs, -pəs",1,0
 trespassing, ˈtrespæs ˈtrespæs,1,0
 tress, tres,0,0
-tressel,,0,0
+tressel,,0,1
 tresses, ˈtresɪz,0,0
 trestle, ˈtresəl ˈtresəl ˈtres·əl,0,0
-trey,,0,0
+trey,,0,1
 tri, traɪ-,1,0
 triad, ˈtraɪæd ˈtraɪæd ˈtraɪæd ˈtrɑɪ·æd,0,0
 triads, ˈtraɪæd ˈtraɪæd ˈtraɪæd ˈtrɑɪ·æd,1,0
@@ -18,14 +18,14 @@ triangular, -lɚ trɑɪˈæŋ·ɡjə·lər,0,0
 triangulation,,1,0
 triassic, traɪˈæsɪk traɪˈæsɪk,1,0
 triathlon, traɪˈæθlɑːn trɑɪˈæθ·lɑn,0,0
-trib,,0,0
+trib,,0,1
 tribal, ˈtraɪbəl ˈtrɑɪ·bəl,0,0
-tribble,,0,0
+tribble,,0,1
 tribe, traɪb traɪb trɑɪb,0,0
 tribes, traɪb traɪb trɑɪb,1,0
 tribesman, ˈtraɪbzmən,0,0
 tribesmen, ˈtraɪbzmən,1,0
-triborough,,0,0
+triborough,,0,1
 tribulation, ˌtrɪbjəˈleɪʃən,0,0
 tribulations, ˌtrɪbjəˈleɪʃən,1,0
 tribunal, traɪˈbjuːnəl trɑɪˈbju·nəl,1,0
@@ -35,7 +35,7 @@ tributaries, ˈtrɪbjəteri ˈtrɪb·jəˌter·i,1,0
 tributary, ˈtrɪbjəteri ˈtrɪb·jəˌter·i,0,0
 tribute, ˈtrɪbjuːt ˈtrɪb·jut ˈtrɪb·jut,0,0
 tributes, ˈtrɪbjuːt ˈtrɪbjuːt ˈtrɪbjuːt ˈtrɪb·jut ˈtrɪb·jut,1,0
-trice, traɪs,1,0
+trice,,0,1
 triceps, ˈtraɪseps,0,0
 triceratops, traɪˈserətɑːps,0,0
 trick, trɪk trɪk trɪk trɪk,0,0
@@ -44,15 +44,15 @@ trickery, ˈtrɪkɚi ˈtrɪk·ə·ri,0,0
 trickier, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,1,0
 trickiest, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,1,0
 tricking, trɪk,1,0
-trickle, ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,1,0
-trickled, ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,1,0
-trickles, ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,1,0
-trickling, ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,1,0
+trickle, ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,0,1
+trickled,,0,1
+trickles,,0,1
+trickling,,0,1
 tricks, trɪk trɪk trɪk trɪk trɪk trɪk trɪk,1,0
 trickster, ˈtrɪkstɚ,0,0
 tricksters, ˈtrɪkstɚ,1,0
 tricky, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,0,0
-tricuspid, traɪˈkʌspɪd ˌvælv,1,0
+tricuspid,,0,1
 tricycle," ˈtraɪsəkəl ˈtrɑɪ·sɪ·kəl, -ˌsɪk·əl",0,0
 trident, ˈtraɪdənt,0,0
 tried, traɪd trɑɪd,0,0
@@ -69,13 +69,13 @@ triggering, ˈtrɪɡɚɪŋ,0,0
 triggers, ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡ·ər,1,0
 triglyceride, traɪˈɡlɪsəraɪd,0,0
 triglycerides, traɪˈɡlɪsəraɪd,1,0
-trigo,,0,0
+trigo,,0,1
 trilby, ˈtrɪlbi,0,0
 trill, trɪl trɪl trɪl trɪl,0,0
 trilling, trɪl trɪl,1,0
 trillion, ˈtrɪljən ˈtrɪl·jən ˈtrɪljən,0,0
 trillions, ˌmʌltiˈtrɪljən,1,0
-trillo,,0,0
+trillo,,0,1
 trilogy, ˈtrɪlədʒi ˈtrɪl·ə·dʒi,0,0
 trim, trɪm trɪm trɪm trɪm trɪm trɪm,1,0
 trimester, traɪˈmestɚ traɪˈmestɚ traɪˈmestɚ trɑɪˈmes·tər trɑɪˈmes·tər,0,0
@@ -85,8 +85,8 @@ trimmers, ˈtrɪmɚ,1,0
 trimming, ˈtrɪmɪŋ,0,0
 trimmings, ˈtrɪm·ɪŋz,1,0
 trims, trɪm trɪm trɪm trɪm trɪm trɪm trɪm,1,0
-trine,,0,0
-trinidad, ˌtrɪnɪdæd ənd təˈbeɪɡoʊ,1,0
+trine,,0,1
+trinidad,,0,1
 trinity, ˈtrɪnət̬i ˈtrɪn·ɪ·t̬I,1,0
 trinket, ˈtrɪŋkɪt ˈtrɪŋ·kɪt,0,0
 trinkets, ˈtrɪŋkɪt ˈtrɪŋ·kɪt,1,0
@@ -98,25 +98,25 @@ tripled, ˈtrɪpəl,1,0
 triples, ˈtrɪpəl ˈtrɪpəl ˈtrɪp·əl,1,0
 triplet, ˈtrɪplət ˈtrɪplət ˈtrɪp·lɪt,0,0
 triplets, ˈtrɪplət ˈtrɪplət ˈtrɪp·lɪt,1,0
-triplex,,0,0
+triplex,,0,1
 triplicate, ˈtrɪpləkət ˈtrɪp·lɪ·kɪt,1,0
 tripling, ˈtrɪpəl,1,0
 tripod, ˈtraɪpɑːd ˈtrɑɪˌpɑd,0,0
 tripods, ˈtraɪpɑːd ˈtrɑɪˌpɑd,1,0
-tripoli,,0,0
+tripoli,,0,1
 tripped,,1,0
 tripper, ˈtrɪpɚ,0,0
 tripping,,1,0
-tripple,,0,0
+tripple,,0,1
 trips, trɪp trɪp trɪp trɪp trɪp trɪp trɪp,1,0
 triptych, ˈtrɪptɪk,0,0
-trisha,,0,0
-tristan,,0,0
-tristate,,0,0
-tristram,,0,0
+trisha,,0,1
+tristan,,0,1
+tristate,,0,1
+tristram,,0,1
 trite, traɪt trɑɪt,0,0
 tritium," ˈtrɪt̬iəm ˈtrɪt̬·i·əm, ˈtrɪʃ-",0,0
-triton,,0,0
+triton,,0,1
 triumph, ˈtraɪəmf ˈtrɑɪ·əmf,1,0
 triumphal, traɪˈʌmfəl,0,0
 triumphant, traɪˈʌmfənt,0,0
@@ -131,12 +131,12 @@ trivialize, ˈtrɪviəlaɪz ˈtrɪv·i·əˌlɑɪz,0,0
 trivialized, ˈtrɪviəlaɪz,1,0
 trivializes, ˈtrɪviəlaɪz ˈtrɪv·i·əˌlɑɪz,1,0
 trivializing, ˈtrɪviəlaɪz,1,0
-troche,,0,0
+troche,,0,1
 trod, trɑːd trɑd,0,0
 trodden, ˈtrɑːdən ˈtrɑd·ən,0,0
-trois, meɪˌnɑːʒ ɑː ˈtrwɑː,1,0
-trojan, ˌtroʊdʒən ˈhɔːrs ˌtroʊdʒən ˈhɔːrs,1,0
-trojans,,0,0
+trois,,0,1
+trojan,,0,1
+trojans,,0,1
 troll, troʊl troʊl troʊl troʊl,1,0
 trolley, ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑl·i,0,0
 trolleys, ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑl·i,1,0
@@ -145,7 +145,7 @@ trolls, troʊl troʊl troʊl troʊl,1,0
 trombone, trɑːmˈboʊn trɑmˈboʊn,0,0
 trombones, trɑːmˈboʊn trɑmˈboʊn,1,0
 tromp, trɑːmp trɑmp,0,0
-tron,,0,0
+tron,,0,1
 troop, truːp truːp trup trup,0,0
 trooped, truːp truːp,1,0
 trooper, ˈtruːpɚ ˈtruːpɚ ˈtru·pər,0,0
@@ -156,11 +156,11 @@ trophies, ˈtroʊfi ˈtroʊfi ˈtroʊ·fi ˈtroʊ·fi,1,0
 trophy, ˈtroʊfi ˈtroʊfi ˈtroʊ·fi ˈtroʊ·fi,0,0
 tropic, ˈtrɑːpɪk,0,0
 tropical, ˈtrɑːpɪkəl ˈtrɑːpɪkəl ˈtrɑp·ɪ·kəl,0,0
-tropics, ˈtrɑp·ɪks,1,0
-tropopause,,0,0
+tropics, ˈtrɑp·ɪks,0,1
+tropopause,,0,1
 trot, trɑːt trɑːt trɑːt trɑt trɑt,0,0
 troth, troʊθ,0,0
-trots,,1,0
+trots,,0,1
 trotted,,1,0
 trotter, ˈtrɑːt̬ɚ ˈtrɑːt̬ɚ,0,0
 trotting,,1,0
@@ -169,7 +169,7 @@ trouble, ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtr�
 troubled, ˈtrʌbəld ˈtrʌbəld ˈtrʌb·əld ˈtrʌb·əld,1,0
 troublemaker, ˈtrʌbəlˌmeɪkɚ ˈtrʌb·əlˌmeɪ·kər,0,0
 troublemakers, ˈtrʌbəlˌmeɪkɚ ˈtrʌb·əlˌmeɪ·kər,1,0
-troubles, ˈtrʌbəlz,1,0
+troubles,,0,1
 troubleshooter, ˈtrʌbəlˌʃuːt̬ɚ,1,0
 troublesome, ˈtrʌbəlsəm ˈtrʌb·əl·səm ˈtrʌb·əl·səm,0,0
 troubling, ˈtrʌbəlɪŋ ˈtrʌb·lɪŋ,0,0
@@ -183,11 +183,11 @@ troupes, truːp trup,1,0
 trouser, ˈtraʊzɚ,0,0
 trousers, ˈtraʊzɚz ˈtrɑʊ·zərz,0,0
 trout, traʊt traʊt traʊt trɑʊt,0,0
-trovatore,,0,0
+trovatore,,0,1
 trove, troʊv,0,0
-trow,,0,0
+trow,,0,1
 trowel, traʊəl traʊəl trɑʊ·əl,0,0
-troy,,0,0
+troy,,0,1
 truancy, ˈtruːənsi,0,0
 truant, ˈtruːənt ˈtru·ənt,0,0
 truce, truːs trus,0,0
@@ -204,15 +204,15 @@ trudge, trʌdʒ trʌdʒ,0,0
 trudged, trʌdʒ,1,0
 trudging, trʌdʒ,1,0
 true, truː truː truː truː truː tru tru tru tru,1,0
-truelove,,0,0
-trueman,,0,0
+truelove,,0,1
+trueman,,0,1
 truer, truː truː truː truː truː truː truː truː truː truː tru tru tru tru tru,1,0
 truest, truː truː truː truː truː truː truː truː truː truː tru tru tru tru tru,1,0
 truffle, ˈtrʌfəl ˈtrʌfəl,0,0
 truffles, ˈtrʌfəl ˈtrʌfəl,1,0
 truism, ˈtruːɪzəm ˈtru·ɪz·əm,0,0
 truly, ˈtruːli ˈtruːli ˈtruːli ˈtruːli ˈtru·li ˈtru·li ˈtru·li ˈtru·li ˈtru·li,0,0
-truman,,0,0
+truman,,0,1
 trump, trʌmp trʌmp,1,0
 trumped, trʌmp trʌmp,1,0
 trumpet, ˈtrʌmpət ˈtrʌm·pɪt,0,0
@@ -248,11 +248,11 @@ trying, ˈtraɪɪŋ ˈtrɑɪ·ɪŋ,0,0
 tryout, ˈtrɑɪˌɑʊt ˈtrɑɪˌɑʊt,0,0
 tryouts, ˈtrɑɪˌɑʊt ˈtrɑɪˌɑʊt,1,0
 tryst, trɪst,0,0
-ts, tiː ti,1,0
+ts,,0,1
 tsar," zɑːr zɑːr zɑːr zɑr, tsɑr",0,0
-tsetse, ˈtetsi ˌflaɪ,1,0
+tsetse,,0,1
 tsunami," tsuːˈnɑːmi tsuːˈnɑːmi sʊˈnɑ·mi, tsʊ-",0,0
-tu, tʊˌwɪt tʊˈwuː,1,0
+tu,,0,1
 tub, tʌb tʌb tʌb tʌb tʌb,0,0
 tuba, ˈtuːbə ˈtu·bə,0,0
 tubal, ˈtuːbəl ˈtuːbəl,0,0
@@ -261,7 +261,7 @@ tube, tuːb tuːb tuːb tuːb tub tub tub tub,1,0
 tuberculosis, tuːˌbɝːkjəˈloʊsɪs tʊˌbɜr·kjəˈloʊ·sɪs,0,0
 tubes, tuːb tuːb tuːb tuːb tuːb tuːb tub tub tub tub,1,0
 tubing, ˈtuːbɪŋ ˈtuːbɪŋ,0,0
-tubman,,0,0
+tubman,,0,1
 tubs, ˈbæθtʌb ˈbæθˌtʌb,1,0
 tubular, ˈtuːbjəlɚ,0,0
 tuck, tʌk tʌk tʌk tʌk tʌk tʌk,0,0
@@ -269,8 +269,8 @@ tucked, tʌk tʌk tʌk tʌk,1,0
 tucker, ˈtʌkɚ,0,0
 tucking, tʌk tʌk tʌk tʌk,1,0
 tucks, tʌk tʌk tʌk tʌk tʌk tʌk tʌk,1,0
-tucson,,0,0
-tucuman,,0,0
+tucson,,0,1
+tucuman,,0,1
 tudor, ˌmɑːkˈtuːdɚ,1,0
 tue, ˌtiːjuːˈiː,1,0
 tuesday," ˈtuːzdeɪ ˈtuz·deɪ, -di",1,0
@@ -286,11 +286,11 @@ tugged,,1,0
 tugging,,1,0
 tugs, tʌɡ tʌɡ,1,0
 tuition, tuːˈɪʃən tuːˈɪʃən tʊˈɪʃ·ən,1,0
-tuitions,,0,0
-tula,,0,0
+tuitions,,0,1
+tula,,0,1
 tulip, ˈtuːlɪp ˈtu·lɪp,0,0
 tulips, ˈtuːlɪp ˈtu·lɪp,1,0
-tulsa,,0,0
+tulsa,,0,1
 tumble, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl ˈtʌm·bəl,1,0
 tumbled, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl,1,0
 tumbler, -blɚ,0,0
@@ -312,18 +312,18 @@ tune, tuːn tuːn tun tun,1,0
 tuned, tuːnd,0,0
 tuner, ˈtuːnɚ ˈtuːnɚ ˈtuːnɚ ˈtu·nər,0,0
 tunes, tuːn tuːn tuːn tuːn tuːn tuːn tun tun,1,0
-tung,,0,0
+tung,,0,1
 tungsten, ˈtʌŋstən,0,0
 tunic, ˈtu·nɪk,1,0
 tuning, ˈtuːnɪŋ,0,0
-tunis,,0,0
+tunis,,0,1
 tunisia, tuːˈniːʒə,1,0
 tunisian, tuːˈniːʒən,1,0
 tunnel, ˈtʌnəl ˈtʌn·əl,0,0
 tunneling, ˈtʌnəl ˈtʌnəl ˈtʌn·əl,1,0
 tunnels, ˈtʌnəl ˈtʌnəl ˈtʌn·əl,1,0
-tunney,,0,0
-tunny,,0,0
+tunney,,0,1
+tunny,,0,1
 tupelo, ˈtuːpəloʊ,0,0
 turban, ˈtɝːbən ˈtɝːbən ˈtɜr·bən,0,0
 turbans, ˈtɝːbən ˈtɝːbən ˈtɜr·bən,1,0
@@ -337,13 +337,13 @@ turbos, ˈtɝːboʊ ˈtɝːboʊ,1,0
 turbot, ˈtɝːbət ˈtɝːbət,0,0
 turbulence, ˈtɝːbjələns ˈtɝːbjələns ˈtɜr·bjə·ləns ˈtɜr·bjə·ləns,0,0
 turbulent, ˈtɝːbjələnt ˈtɝːbjələnt ˈtɜr·bjə·lənt ˈtɜr·bjə·lənt,1,0
-turco,,0,0
+turco,,0,1
 turf, tɝːf tɝːf tɝːf tɜrf tɜrf tɜrf,1,0
 turgid, ˈtɝːdʒɪd ˈtɝːdʒɪd ˈtɝːdʒɪd ˈtɜr·dʒɪd ˈtɜr·dʒɪd,0,0
 turk, tɝːk,1,0
 turkey, ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɜr·ki,0,0
 turkeys, ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɜr·ki,1,0
-turkic,,0,0
+turkic,,0,1
 turkish, ˈtɝːkɪʃ,1,0
 turks, tɝːk,1,0
 turmoil, ˈtɝːmɔɪl ˈtɜr·mɔɪl,0,0
@@ -380,7 +380,7 @@ turtleneck, ˈtɝːt̬əlnek ˈtɝːt̬əlnek ˈtɜr·t̬əlˌnek,0,0
 turtlenecks, ˈtɝːt̬əlnek ˈtɝːt̬əlnek ˈtɜr·t̬əlˌnek,1,0
 turtles, ˈtɝːt̬əl ˈtɝːt̬əl ˈtɝːt̬əl ˈtɜr·t̬əl,1,0
 turvy, ˌtɑːpsiˈtɝːvi ˈtɑp·siˈtɜr·vi,1,0
-tuscan, ˌtʌskən ˈkeɪl,1,0
+tuscan,,0,1
 tush, tʌʃ,0,0
 tushes, tʌʃ,1,0
 tusk, tʌsk tʌsk,0,0
@@ -412,7 +412,7 @@ tweaked, twiːk twiːk,1,0
 tweaking, twiːk twiːk,1,0
 tweaks, twiːk twiːk twik twik,1,0
 tweed, twiːd twid,0,0
-tweedle,,0,0
+tweedle,,0,1
 tweedy, ˈtwiːdi ˈtwiːdi,0,0
 tween, twiːn,0,0
 tweet, twiːt twiːt,1,0
@@ -428,7 +428,7 @@ twiddle, ˈtwɪdəl ˈtwɪd·əl,0,0
 twiddling, ˈtwɪdəl,1,0
 twig, twɪɡ twɪɡ,0,0
 twigged,,1,0
-twiggy,,0,0
+twiggy,,0,1
 twigs, twɪɡ twɪɡ,1,0
 twilight, ˈtwaɪlaɪt ˈtwɑɪˌlɑɪt ˈtwɑɪˌlɑɪt,0,0
 twill, twɪl twɪl,0,0
@@ -459,19 +459,19 @@ twitched, twɪtʃ twɪtʃ twɪtʃ twɪtʃ,1,0
 twitches, twɪtʃ twɪtʃ twɪtʃ twɪtʃ twɪtʃ,1,0
 twitching, ˈtwɪtʃɪŋ ˈtwɪtʃɪŋ,0,0
 twitter, ˈtwɪt̬ɚ ˈtwɪt̬ɚ ˈtwɪt̬ɚ,1,0
-twitty,,0,0
+twitty,,0,1
 two, tuː tu tu,1,0
 twofold, ˈtuːfoʊld ˈtuːfoʊld,0,0
 twos, ˌwʌnˈtuː,1,0
 twosome, ˈtuːsəm ˈtuːsəm ˈtu·səm,0,0
 tycoon, taɪˈkuːn tɑɪˈkun,1,0
 tycoons, taɪˈkuːn tɑɪˈkun,1,0
-tye,,0,0
+tye,,0,1
 tying, ˈtaɪɪŋ ˈtɑɪ·ɪŋ,0,0
 tyke, taɪk taɪk taɪk tɑɪk,0,0
-tyler,,0,0
+tyler,,0,1
 tympanic, tɪmˈpænɪk,0,0
-tyne, ˌtaɪn ənd ˈwɪr,1,0
+tyne,,0,1
 type, taɪp taɪp taɪp tɑɪp tɑɪp,1,0
 typecast, ˈtaɪpkæst,0,0
 typecasting, ˈtaɪpkæst,1,0
@@ -482,4 +482,4 @@ typeset,,1,0
 typesetting,,1,0
 typewriter, ˈtaɪpˌraɪt̬ɚ ˈtɑɪpˌrɑɪ·t̬ər,1,0
 typewriters, ˈtaɪpˌraɪt̬ɚ ˈtɑɪpˌrɑɪ·t̬ər,1,0
-typewriting,,0,0
+typewriting,,0,1

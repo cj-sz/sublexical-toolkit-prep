@@ -34,7 +34,7 @@ extradite, ˈekstrədaɪt,0,0
 extradited, ˈekstrədaɪt,1,0
 extraditing, ˈekstrədaɪt,1,0
 extradition, ˌekstrəˈdɪʃən ˌek·strəˈdɪʃ·ən,0,0
-extralegal,,0,0
+extralegal,,0,1
 extramarital, ˌekstrəˈmerət̬əl,0,0
 extraneous, ɪkˈstreɪniəs ekˈstreɪ·ni·əs,0,0
 extraordinaire, ɪkˌstrɔːrdəˈner,0,0
@@ -47,7 +47,7 @@ extrapolation, ɪkˌstræpəˈleɪʃən,1,0
 extras, ˈekstrə ˈekstrə ekstrə- ˈek·strə,1,0
 extrasensory, ˌekstrəˈsensɚi,0,0
 extraterrestrial, ˌekstrətəˈrestriəl ˌek·strə·təˈres·tri·əl,0,0
-extraterrestrials,,0,0
+extraterrestrials,,0,1
 extravagance, ɪkˈstrævəɡəns ɪkˈstrævəɡəns ɪkˈstræv·ə·ɡəns,0,0
 extravagant, ɪkˈstrævəɡənt ɪkˈstrævəɡənt ɪkˈstræv·ə·ɡənt ɪkˈstræv·ə·ɡənt,1,0
 extravagantly, ɪkˈstrævəɡəntli ɪkˈstrævəɡəntli ɪkˈstræv·ə·ɡənt·li,0,0
@@ -77,21 +77,21 @@ exuding, ɪɡˈzuːd ɪɡˈzuːd,1,0
 exultant, ɪɡˈzʌltənt,0,0
 exulted, ɪɡˈzʌlt,1,0
 exulting, ɪɡˈzʌlt,1,0
-exxon,,0,0
+exxon,,0,1
 eye, aɪ aɪ aɪ ɑɪ ɑɪ,1,0
 eyeball, ˈaɪbɑːl ˈɑɪˌbɔl,0,0
 eyeballs,,1,0
 eyebrow, ˈaɪbraʊ ˈɑɪˌbrɑʊ,0,0
 eyebrows, ˈaɪbraʊ ˈɑɪˌbrɑʊ,1,0
 eyed,  -aɪd,1,0
-eyedrop, ˈaɪ ˌdrɑːp,1,0
-eyedropper,,0,0
-eyeglass,,0,0
+eyedrop,,0,1
+eyedropper,,0,1
+eyeglass,,0,1
 eyeglasses, ˈaɪˌɡlæsɪz ˈɑɪˌɡlæs·əz,0,0
 eyeing, ˈaɪɪŋ,0,0
 eyelash, ˈaɪlæʃ ˈɑɪˌlæʃ,0,0
 eyelashes, ˈaɪlæʃ ˈɑɪˌlæʃ,1,0
-eyeless,,0,0
+eyeless,,0,1
 eyelets, ˈaɪlət ˈaɪlət,1,0
 eyelid, ˈaɪlɪd ˈɑɪˌlɪd,0,0
 eyelids, ˈaɪlɪd ˈɑɪˌlɪd,1,0
@@ -104,13 +104,13 @@ eyestrain, ˈaɪstreɪn,0,0
 eyewear, ˈaɪwer,1,0
 eyewitness, ˈaɪˌwɪtnəs ˈɑɪˈwɪt·nəs,0,0
 eyewitnesses, ˈaɪˌwɪtnəs ˈɑɪˈwɪt·nəs,1,0
-eyre,,0,0
+eyre,,0,1
 eyrie, ˈɪri ˈɪri,0,0
-ezekiel,,0,0
-ezra,,0,0
-f, ef ef ef ef ef ef ef,1,0
+ezekiel,,0,1
+ezra,,0,1
+f,,0,1
 fab, fæb fæb,0,0
-fabian,,0,0
+fabian,,0,1
 fable, ˈfeɪbəl ˈfeɪ·bəl,0,0
 fabled, ˈfeɪbəld ˈfeɪ·bəld,0,0
 fables, ˈfeɪbəl ˈfeɪ·bəl,1,0
@@ -121,19 +121,19 @@ fabricates, ˈfæbrɪkeɪt ˈfæbrɪkeɪt ˈfæb·rɪˌkeɪt,1,0
 fabricating, ˈfæbrɪkeɪt ˈfæbrɪkeɪt,1,0
 fabrication, ˌfæbrəˈkeɪʃən ˌfæbrəˈkeɪʃən,0,0
 fabrications, ˌfæbrəˈkeɪʃən ˌfæbrəˈkeɪʃən,1,0
-fabricators,,0,0
+fabricators,,0,1
 fabrics, ˈfæbrɪk ˈfæbrɪk ˈfæb·rɪk ˈfæb·rɪk,1,0
 fabulous, ˈfæbjələs ˈfæbjələs ˈfæb·jə·ləs ˈfæb·jə·ləs,0,0
 fabulously, ˈfæbjələsli ˈfæb·jə·ləs·li ˈfæb·jə·ləs·li,0,0
-fac,,0,0
+fac,,0,1
 facade, fəˈsɑːd fəˈsɑːd fəˈsɑd fəˈsɑd,1,0
 facades, fəˈsɑːd fəˈsɑːd fəˈsɑd fəˈsɑd,1,0
 face, feɪs feɪs feɪs feɪs feɪs feɪs feɪs feɪs,0,0
 faced,  -feɪst,1,0
-facedown,,0,0
+facedown,,0,1
 faceless, ˈfeɪsləs ˈfeɪs·ləs,0,0
 facelift, ˈfeɪslɪft ˈfeɪslɪft,1,0
-facer,,0,0
+facer,,0,1
 faces, feɪs feɪs feɪs feɪs feɪs feɪs feɪs feɪs feɪs feɪs,1,0
 facet, ˈfæsət ˈfæsət ˈfæsət ˈfæs·ɪt,0,0
 facetious, fəˈsiːʃəs fəˈsi·ʃəs,0,0
@@ -141,7 +141,7 @@ facetiously, fəˈsiːʃəsli,0,0
 facets, ˈfæsət ˈfæsət ˈfæsət ˈfæs·ɪt,1,0
 facial, ˈfeɪʃəl ˈfeɪ·ʃəl,0,0
 facials, ˈfeɪʃəl ˈfeɪ·ʃəl,1,0
-facie, ˌpraɪmə ˈfeɪʃi,1,0
+facie,,0,1
 facile, ˈfæsəl ˈfæs·əl,0,0
 facilitate, fəˈsɪləteɪt fəˈsɪl·əˌteɪt,1,0
 facilitated, fəˈsɪləteɪt,1,0
@@ -159,7 +159,7 @@ fact, fækt fækt,0,0
 faction, ˈfækʃən ˈfæk·ʃən,0,0
 factions, ˈfækʃən ˈfæk·ʃən,1,0
 factitious, fækˈtɪʃəs,0,0
-facto," ˌdɪ ˈfæktoʊ dɪˈfæk·toʊ, deɪ-",1,0
+facto,,0,1
 factor, ˈfæktɚ ˈfæktɚ ˈfæktɚ ˈfæk·tər ˈfæk·tər ˈfæk·tər,1,0
 factored, ˈfæktɚ ˈfæktɚ ˈfæktɚ ˈfæktɚ ˈfæk·tər ˈfæk·tər ˈfæk·tər,1,0
 factories," ˈfæktɚi ˈfæk·tə·ri, ˈfæk·tri",1,0
@@ -174,14 +174,14 @@ faculty, ˈfækəlt̬i ˈfækəlt̬i ˈfækəlt̬i ˈfækəlt̬i ˈfæk·əl·ti
 fad, fæd fæd,0,0
 fade, feɪd feɪd feɪd feɪd,0,0
 faded, ˈfeɪdɪd,0,0
-faden,,0,0
-fader,,0,0
+faden,,0,1
+fader,,0,1
 fades, feɪd feɪd feɪd feɪd feɪd,1,0
 fading, feɪd feɪd,1,0
 fads, fæd fæd,1,0
 fag, fæɡ fæɡ fæɡ,0,0
 faggot, ˈfæɡət ˈfæɡət ˈfæɡət,0,0
-fagin,,0,0
+fagin,,0,1
 fags, fæɡ fæɡ fæɡ fæɡ,1,0
 fahrenheit, ˈferənhaɪt ˈfær·ənˌhɑɪt,1,0
 fail, feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl,1,0
@@ -189,7 +189,7 @@ failed, feɪld feɪld,0,0
 failing, ˈfeɪlɪŋ ˈfeɪ·lɪŋ,0,0
 failings, ˈfeɪlɪŋ ˈfeɪ·lɪŋ,1,0
 fails, feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl feɪl,1,0
-failsafe,,0,0
+failsafe,,0,1
 failure, ˈfeɪljɚ ˈfeɪljɚ ˈfeɪljɚ ˈfeɪl·jər ˈfeɪl·jər ˈfeɪl·jər,1,0
 failures, ˈfeɪljɚ ˈfeɪljɚ ˈfeɪljɚ ˈfeɪl·jər ˈfeɪl·jər ˈfeɪl·jər,1,0
 fain, feɪn,0,0
@@ -202,7 +202,7 @@ fainting, feɪnt,1,0
 faintly, ˈfeɪntli ˈfeɪnt·li,0,0
 faintness, ˈfeɪntnəs ˈfeɪntnəs,0,0
 fair, fer fer fer fer fer fer fer fer fer feər feər feər feər feər feər feər feər,1,0
-fairbanks,,0,0
+fairbanks,,0,1
 faire," ˌleɪseɪˈfer ˌleɪseɪˈfer ˌles·eɪˈfeər, ˌleɪ·seɪ-",1,0
 fairer," fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer feər feər feər feər feər feər feər feər fer, fær fer, fær",1,0
 fairest," fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer fer feər feər feər feər feər feər feər feər fer, fær fer, fær",1,0
@@ -216,7 +216,7 @@ fairway, ˈferweɪ,0,0
 fairways, ˈferweɪ,1,0
 fairy, ˈferi ˈferi ˈfeər·i,0,0
 fairyland, ˈferilænd ˈferilænd ˈferilænd,0,0
-fait, ˌoʊ ˈfeɪ,1,0
+fait,,0,1
 faith, feɪθ feɪθ feɪθ feɪθ feɪθ,1,0
 faithful, ˈfeɪθfəl ˈfeɪθfəl ˈfeɪθfəl ˈfeɪθfəl ˈfeɪθ·fəl ˈfeɪθ·fəl ˈfeɪθ·fəl,0,0
 faithfully, ˈfeɪθfəli ˈfeɪθfəli ˈfeɪθ·fə·li,1,0
@@ -235,7 +235,7 @@ falcon," ˈfɑːlkən ˈfæl·kən, ˈfɔl-",0,0
 falconer, ˈfɑːlkənɚ,0,0
 falconry, ˈfɑːlkənri,0,0
 falcons," ˈfɑːlkən ˈfæl·kən, ˈfɔl-",1,0
-falk,,0,0
+falk,,0,1
 fall, fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɑːl fɔl fɔl fɔl fɔl fɔl fɔl fɔl fɔl fɔl,1,0
 fallacies, ˈfæləsi ˈfæl·ə·si,1,0
 fallacious, fəˈleɪʃəs,0,0
@@ -246,13 +246,13 @@ faller, ˈfɑːlɚ ˈfɑːlɚ ˈfɑːlɚ,1,0
 fallibility, ˌfæləˈbɪlət̬i,0,0
 fallible, ˈfæləbəl ˈfæləbəl ˈfæl·ə·bəl,0,0
 falling, ˈfɑːlɪŋ,0,0
-fallopian, fəˌloʊpiən ˈtuːb,1,0
+fallopian,,0,1
 fallout, ˈfɑːlaʊt ˈfɑːlaʊt ˈfɔlˌɑʊt ˈfɔlˌɑʊt,1,0
 fallow, ˈfæloʊ ˈfæloʊ,1,0
 falls, fɔlz,1,0
 false, fɑːls fɑːls fɑːls fɑːls fɑːls fɔls fɔls fɔls,1,0
 falsehood, ˈfɑːlshʊd ˈfɑːlshʊd ˈfɔls·hʊd,0,0
-falsehoods,,0,0
+falsehoods,,0,1
 falsely, ˈfɑːlsli ˈfɑːlsli ˈfɑːlsli,0,0
 falsetto, fɑːlˈset̬oʊ fɔlˈset̬·oʊ,0,0
 falsification, ˌfɑːlsəfəˈkeɪʃən,0,0
@@ -293,14 +293,14 @@ fancy, ˈfænsi ˈfænsi ˈfænsi ˈfæn·si,0,0
 fandango, fænˈdæŋɡoʊ,0,0
 fanfare, ˈfænfer ˈfænfer ˈfæn·feər,0,0
 fang, fæŋ fæŋ,0,0
-fangled,,0,0
+fangled,,0,1
 fangs, fæŋ fæŋ,1,0
 fanned,,1,0
 fanning,,1,0
 fanny, ˈfæni ˈfæni ˈfæn·i,0,0
 fans, fæn fæn fæn fæn fæn,1,0
-fant,,0,0
-fantail,,0,0
+fant,,0,1
+fantail,,0,1
 fantasia, fænˈteɪziə,0,0
 fantasies, ˈfæntəsi ˈfæntəsi ˈfæntəsi ˈfæn·tə·si ˈfæn·tə·si,1,0
 fantasize, ˈfæntəsaɪz,0,0
@@ -320,10 +320,10 @@ fared, fer,1,0
 fares, fer fer fer feər feər,1,0
 farewell, ˌferˈwel ˌfeərˈwel,0,0
 farewells, ˌferˈwel ˌfeərˈwel,1,0
-farfetched,,0,0
+farfetched,,0,1
 farina, fəˈriːnə,0,0
 faring, fer,1,0
-farley,,0,0
+farley,,0,1
 farm, fɑːrm fɑːrm fɑːrm fɑrm fɑrm,1,0
 farmed, fɑːrm,1,0
 farmer, ˈfɑːrmɚ ˈfɑr·mər,1,0
@@ -338,17 +338,17 @@ farmlands, ˈfɑːrmlænd ˈfɑrmˌlænd,1,0
 farms, fɑːrm fɑːrm fɑːrm fɑrm fɑrm,1,0
 farmstead, ˈfɑːrmsted,0,0
 farmyard, ˈfɑːrmjɑːrd,0,0
-faro,,0,0
-farrel,,0,0
+faro,,0,1
+farrel,,0,1
 farrier, ˈferiɚ,0,0
-farris,,0,0
-farrow,,0,0
+farris,,0,1
+farrow,,0,1
 farsighted, ˈfɑːrˌsaɪt̬ɪd ˈfɑːrˌsaɪt̬ɪd ˈfɑrˌsɑɪ·t̬ɪd ˈfɑrˌsɑɪ·t̬ɪd,0,0
 fart, fɑːrt,0,0
 farther, ˈfɑːrðɚ ˈfɑr·ðər,0,0
 farthest, ˈfɑːrðɪst ˈfɑr·ðəst,0,0
 farthing, ˈfɑːrðɪŋ,0,0
-farthingale,,0,0
+farthingale,,0,1
 farting, fɑːrt,1,0
 fascinate, ˈfæsəneɪt ˈfæs·əˌneɪt,0,0
 fascinated, ˈfæsəneɪtɪd,0,0
@@ -391,8 +391,8 @@ fatally, ˈfeɪt̬əli ˈfeɪt̬əli,0,0
 fate, feɪt feɪt feɪt feɪt,0,0
 fated, ˈfeɪt̬ɪd,0,0
 fateful, ˈfeɪtfəl ˈfeɪt·fəl,0,0
-fates,,1,0
-fath,,0,0
+fates,,0,1
+fath,,0,1
 father, ˈfɑːðɚ ˈfɑːðɚ ˈfɑːðɚ ˈfɑð·ər ˈfɑð·ər,0,0
 fathered, ˈfɑːðɚ,1,0
 fatherhood, ˈfɑːðɚhʊd,0,0
@@ -408,8 +408,8 @@ fatigued, fəˈtiːɡd,0,0
 fatigues, fəˈtiɡz,1,0
 fatiguing, fəˈtiːɡɪŋ,0,0
 fats, fæt fæt fæt fæt fæt fæt fæt,1,0
-fatten, ˈfæt̬ən ˈfæt̬ən,1,0
-fattened, ˈfæt̬ən ˈfæt̬ən,1,0
+fatten,,0,1
+fattened,,0,1
 fattening, ˈfæt̬ənɪŋ ˈfæt·ən·ɪŋ,0,0
 fatter,,1,0
 fattest,,1,0
@@ -419,15 +419,15 @@ fatuous, ˈfætʃuəs ˈfætʃ·u·əs,0,0
 fatwa, ˈfætwɑː,0,0
 faucet," ˈfɑːsət ˈfɑːsət ˈfɔ·sɪt, ˈfɑs·ət",0,0
 faucets," ˈfɑːsət ˈfɑːsət ˈfɔ·sɪt, ˈfɑs·ət",1,0
-faulkner,,0,0
+faulkner,,0,1
 fault, fɑːlt fɑːlt fɑːlt fɑːlt fɑːlt fɔlt fɔlt fɔlt,1,0
 faulted, fɑːlt fɑːlt,1,0
 faulting, fɑːlt fɑːlt,1,0
 faults, fɑːlt fɑːlt fɑːlt fɑːlt fɑːlt fɑːlt fɑːlt fɔlt fɔlt fɔlt,1,0
 faulty, ˈfɑːlt̬i ˈfɔl·ti,1,0
 fauna, ˈfɑːnə ˈfɔ·nə,0,0
-fauntleroy,,0,0
-faust,,0,0
+fauntleroy,,0,1
+faust,,0,1
 faustian, ˈfaʊstiən,1,0
 faux, foʊ foʊ,0,0
 fave, feɪv,0,0
@@ -450,11 +450,11 @@ fax, fæks fæks fæks fæks,1,0
 faxed, fæks,1,0
 faxes, fæks fæks fæks fæks,1,0
 faxing, fæks,1,0
-fay,,0,0
-fayed,,0,0
+fay,,0,1
+fayed,,0,1
 faze, feɪz feɪz,0,0
 fazed, feɪz,1,0
-fbi, ˌefbiːˈaɪ ˈefˌbiˈɑɪ,1,0
+fbi,,0,1
 fe, aɪrn aɪrn aɪrn aɪrn ˈɑɪ·ərn ˈɑɪ·ərn,1,0
 fealty, ˈfiːlti,0,0
 fear, fɪr fɪər,0,0
@@ -475,7 +475,7 @@ feather, ˈfeðɚ ˈfeð·ər,0,0
 featherbed, ˌfeðɚˈbed ˌfeðɚˈbed,0,0
 feathered, ˈfeðɚd ˈfeðɚd ˈfeðɚd ˈfeðɚd,0,0
 feathering, ˈfeðɚ,1,0
-featherless,,0,0
+featherless,,0,1
 feathers, ˈfeðɚ ˈfeð·ər,1,0
 featherweight, ˈfeðɚweɪt,0,0
 feathery, ˈfeðɚi,0,0

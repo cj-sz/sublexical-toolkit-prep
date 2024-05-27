@@ -1,5 +1,5 @@
 Word,Pronunciation,Root Word Returned,Missing
-oohs,,0,0
+oohs,,0,1
 oolong, ˈuːlɑːŋ,0,0
 oomph, ʊmf,0,0
 oops," uːps ʊps, ups",0,0
@@ -10,13 +10,13 @@ oozing, uːz,1,0
 op, ɑːp ɑːp,1,0
 opacity, oʊˈpæsət̬i əʊˈpæsəti,0,0
 opal, ˈoʊpəl,0,0
-opaline,,0,0
+opaline,,0,1
 opaque, oʊˈpeɪk oʊˈpeɪk oʊˈpeɪk oʊˈpeɪk,1,0
 opec, ˈoʊpek,1,0
 open, ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊ·pən,1,0
 opened, ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən,1,0
 opener, ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊ·pə·nər ˈoʊ·pə·nər,0,0
-openers, ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊpənɚ ˈoʊ·pə·nər ˈoʊ·pə·nər,1,0
+openers,,0,1
 opening, ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ,1,0
 openings, ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊpnɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ ˈoʊ·pə·nɪŋ,1,0
 openly, ˈoʊpənli,1,0
@@ -24,7 +24,7 @@ openness, ˈoʊpənnəs,0,0
 opens, ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊpən ˈoʊ·pən,1,0
 opera," ˈɑːpɚə ˈɑp·ər·ə, ˈɑp·rə",0,0
 operable, ˈɑːpɚəbəl ˈɑːpɚəbəl,1,0
-operandi, ˌmoʊdəs ˌoʊpəˈrɑːndi,1,0
+operandi,,0,1
 operas," ˈɑːpɚə ˈɑp·ər·ə, ˈɑp·rə",1,0
 operate, ˈɑːpəreɪt ˈɑːpəreɪt ˈɑp·əˌreɪt ˈɑp·əˌreɪt,1,0
 operated, ˈɑːpəreɪt ˈɑːpəreɪt,1,0
@@ -40,7 +40,7 @@ operator, ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑːpəreɪ
 operators, ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑːpəreɪt̬ɚ ˈɑp·əˌreɪt̬·ər ˈɑp·əˌreɪt̬·ər ˈɑp·əˌreɪt̬·ər,1,0
 operetta, ˌɑːpəˈret̬ə ˌɑp·əˈret̬·ə,0,0
 operettas, ˌɑːpəˈret̬ə ˌɑp·əˈret̬·ə,1,0
-ophelia,,0,0
+ophelia,,0,1
 ophthalmic, ɑːfˈθælmɪk,0,0
 ophthalmologist," ˌɑːfθælˈmɑːlədʒɪst ˌɑf·θəlˈmɑl·ə·dʒɪst, ˌɑp-",0,0
 ophthalmology, ˌɑːfθælˈmɑːlədʒi,0,0
@@ -53,7 +53,7 @@ opinionated, əˈpɪnjəneɪt̬ɪd əˈpɪn·jəˌneɪ·t̬ɪd,0,0
 opinions, əˈpɪnjən əˈpɪnjən əˈpɪnjən əˈpɪnjən əˈpɪn·jən,1,0
 opium, ˈoʊpiəm ˈoʊ·pi·əm,0,0
 opossum, əˈpɑːsəm əˈpɑs·əm,0,0
-opp,,0,0
+opp,,0,1
 opponent, əˈpoʊnənt əˈpoʊnənt əˈpoʊ·nənt əˈpoʊ·nənt,0,0
 opponents, əˈpoʊnənt əˈpoʊnənt əˈpoʊ·nənt əˈpoʊ·nənt,1,0
 opportune, ˌɑːpɚˈtuːn ˌɑp·ərˈtun,0,0
@@ -70,7 +70,7 @@ opposing, əˈpoʊzɪŋ,0,0
 opposite," ˈɑːpəzɪt ˈɑːpəzɪt ˈɑːpəzɪt ˈɑːpəzɪt ˈɑp·ə·zɪt, -sɪt",1,0
 opposites," ˈɑːpəzɪt ˈɑːpəzɪt ˈɑːpəzɪt ˈɑːpəzɪt ˈɑːpəzɪt ˈɑp·ə·zɪt, -sɪt",1,0
 opposition, ˌɑːpəˈzɪʃən ˌɑp·əˈzɪʃ·ən,0,0
-oppositions,,0,0
+oppositions,,0,1
 oppress, əˈpres əˈpres əˈpres əˈpres,0,0
 oppressed, əˈprest əˈprest,0,0
 oppresses, əˈpres əˈpres əˈpres əˈpres,1,0
@@ -99,8 +99,8 @@ optimum, ˈɑːptəməm ˈɑp·tə·məm,1,0
 opting, ɑːpt,1,0
 option, ˈɑːpʃən ˈɑːpʃən ˈɑp·ʃən ˈɑp·ʃən,1,0
 optional, ˈɑːpʃənəl ˈɑp·ʃə·nəl,1,0
-optioned,,0,0
-optioning,,0,0
+optioned,,0,1
+optioning,,0,1
 options, ˈɑːpʃən ˈɑːpʃən ˈɑːpʃən ˈɑp·ʃən ˈɑp·ʃən,1,0
 optometrist, ɑːpˈtɑːmətrɪst ɑpˈtɑm·ə·trɪst,0,0
 optometrists, ɑːpˈtɑːmətrɪst ɑpˈtɑm·ə·trɪst,1,0
@@ -110,7 +110,7 @@ opulence, ˈɑːpjələns,0,0
 opulent, ˈɑːpjələnt ˈɑp·jə·lənt,0,0
 opus, ˈoʊpəs ˈoʊpəs,0,0
 or," strong ɔːr strong ɔːr strong ɔːr strong ɔːr ɔr, ər ɔr, ər ɔr, ər",1,0
-ora,,0,0
+ora,,0,1
 oracle, ˈɔːrəkəl ˈɔːrəkəl,0,0
 oracles, ˈɔːrəkəl ˈɔːrəkəl,1,0
 oral," ˈɔːrəl ˈɔːrəl ˈɔr·əl, ˈoʊr- ˈɔr·əl, ˈoʊr-",1,0
@@ -130,7 +130,7 @@ orbit, ˈɔːrbɪt ˈɔr·bɪt ˈɔr·bɪt ˈɔr·bɪt,0,0
 orbital, ˈɔːrbɪt̬əl ˈɔːrbɪt̬əl ˈɔr·bɪ·təl,0,0
 orbited, ˈɔːrbɪt,1,0
 orbiter, ˈɔːrbɪ-t̬ɚ,0,0
-orbiters,,0,0
+orbiters,,0,1
 orbiting, ˈɔːrbɪt,1,0
 orbits, ˈɔːrbɪt ˈɔr·bɪt ˈɔr·bɪt ˈɔr·bɪt,1,0
 orca, ˈɔːrkə,0,0
@@ -161,7 +161,7 @@ orderly, ˈɔːrdɚli ˈɔːrdɚli ˈɔrd·dər·li,0,0
 orders, ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔːrdɚ ˈɔr·dər ˈɔr·dər ˈɔr·dər ˈɔr·dər ˈɔr·dər ˈɔr·dər ˈɔr·dər ˈɔr·dər,1,0
 ordinance, ˈɔːrdənəns ˈɔr·dən·əns,1,0
 ordinances, ˈɔːrdənəns ˈɔr·dən·əns,1,0
-ordinaries,,0,0
+ordinaries,,0,1
 ordinarily, ˈɔːrdənerəli ˌɔr·dənˈeər·ə·li,0,0
 ordinary, ˈɔːrdəneri ˈɔr·dənˌer·i,0,0
 ordination, ˌɔːrdənˈeɪʃən ˌɔr·dənˈeɪ·ʃən,0,0
@@ -171,17 +171,17 @@ oregano, ɔːˈreɡənoʊ əˈreɡ·əˌnoʊ,0,0
 oregon, ˈɔːrɪɡən,1,0
 oregonian, ˌɔːrɪˈɡoʊniən,1,0
 ores," ɔːr ɔr, oʊr",1,0
-orestes,,0,0
-orf,,0,0
+orestes,,0,1
+orf,,0,1
 org," ɔːrɡ ɔːrɡ ˈoʊˌɑrˈdʒi, ɔrɡ",1,0
 organ, ˈɔːrɡən ˈɔːrɡən ˈɔr·ɡən ˈɔr·ɡən,1,0
 organic, ɔːrˈɡænɪk ɔːrˈɡænɪk ɔːrˈɡænɪk ɔːrˈɡænɪk ɔːrˈɡænɪk ɔːrˈɡænɪk ɔrˈɡæn·ɪk ɔrˈɡæn·ɪk ɔrˈɡæn·ɪk,1,0
 organically, ɔːrˈɡænɪkəli ɔːrˈɡænɪkəli ɔːrˈɡænɪkəli ɔːrˈɡænɪkəli,0,0
-organics,,0,0
+organics,,0,1
 organisation, ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən,1,0
 organisations, ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən,1,0
 organism, ˈɔːr- ˈɔr·ɡəˌnɪz·əm,0,0
-organismic,,0,0
+organismic,,0,1
 organisms, ˈɔːr- ˈɔr·ɡəˌnɪz·əm,1,0
 organist, ˈɔːrɡənɪst ˈɔr·ɡə·nɪst,0,0
 organization, ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔːrɡənəˈzeɪʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ˌɔr·ɡə·nəˈzeɪ·ʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən ɔːrɡənəˈzeɪʃən,0,0
@@ -198,9 +198,9 @@ orgasm, ˈɔːrɡæzəm ˈɔr·ɡæz·əm,0,0
 orgasms, ˈɔːrɡæzəm ˈɔr·ɡæz·əm,1,0
 orgies, ˈɔːrdʒi ˈɔːrdʒi,1,0
 orgy, ˈɔːrdʒi,0,0
-orient," ˈɔːriənt ˈɔr·i·ənt, ˈoʊr-, -ˌent ˈɔr·i·ənt, ˈoʊr-, -ˌent",1,0
+orient," ˈɔr·i·ənt, ˈoʊr-, -ˌent ˈɔr·i·ənt, ˈoʊr-, -ˌent",0,1
 oriental, ˌɔːriˈent̬əl,0,0
-orientals,,0,0
+orientals,,0,1
 orientated, ˌɔːrienˈteɪt̬ɪd,1,0
 orientation," ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔr·i·ənˈteɪ·ʃən, ˌoʊr- ˌɔr·i·ənˈteɪ·ʃən, ˌoʊr-",1,0
 orientations," ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔːrienˈteɪʃən ˌɔr·i·ənˈteɪ·ʃən, ˌoʊr- ˌɔr·i·ənˈteɪ·ʃən, ˌoʊr-",1,0
@@ -223,9 +223,9 @@ origins,,1,0
 oriole," ˈɔːrioʊl ˈɔr·iˌoʊl, ˈoʊr-",0,0
 orioles," ˈɔːrioʊl ˈɔr·iˌoʊl, ˈoʊr-",1,0
 orion, əˈraɪən əˈraɪən,1,0
-orlean,,0,0
-orleans, ˌnuː ˈɔːrlənz,1,0
-orly,,0,0
+orlean,,0,1
+orleans,,0,1
+orly,,0,1
 ornament, ˈɔːrnəmənt ˈɔːrnəmənt ˈɔr·nə·mənt,0,0
 ornamental, ˌɔːrnəˈment̬əl,0,0
 ornamentation, ˌɔːrnəmenˈteɪʃən,0,0
@@ -239,14 +239,14 @@ orphanage, ˈɔːrfənɪdʒ ˈɔr·fə·nɪdʒ,0,0
 orphanages, ˈɔːrfənɪdʒ ˈɔr·fə·nɪdʒ,1,0
 orphaned, ˈɔːrfənd,0,0
 orphans, ˈɔːrfən ˈɔr·fən,1,0
-orpheum,,0,0
+orpheum,,0,1
 orpheus, ˈɔːrfiəs,1,0
-orphic,,0,0
-orris,,0,0
+orphic,,0,1
+orris,,0,1
 ort, ɔːrt,0,0
 orth, ˈpeniwɚθ ˈpeniwɚθ,1,0
-ortho,,0,0
-orthoclase,,0,0
+ortho,,0,1
+orthoclase,,0,1
 orthodontic, ˌɔːrθoʊˈdɑːnt̬ɪk,0,0
 orthodontics, ˌɔːrθoʊˈdɑːnt̬ɪks,0,0
 orthodontist, ˌɔːrθoʊˈdɑːnt̬ɪst ˌɔr·θəˈdɑn·tɪst,0,0
@@ -256,14 +256,14 @@ orthodoxy, ˈɔːrθədɑːksi ˈɔːrθədɑːksi ˈɔːrθədɑːksi,0,0
 orthography, ɔːˈθɑːɡrəfi,0,0
 orthopedic, ˌɔːrθəˈpiːdɪk ˌɔːrθəˈpiːdɪk,0,0
 orthopedist, ˌɔːrθəˈpiːdɪst,0,0
-orthopedists,,0,0
-orwell,,0,0
+orthopedists,,0,1
+orwell,,0,1
 orwellian, ɔːrˈweliən,1,0
-ory,,0,0
+ory,,0,1
 oryx, ˈɔːrrɪks,0,0
 os, ɑːs ˈoʊˌes,1,0
-osage, ˌoʊseɪdʒ ˈɔːrɪndʒ,1,0
-osaka,,0,0
+osage,,0,1
+osaka,,0,1
 oscar, ˈɑːskɚ ˈɑs·kər,1,0
 oscars, ˈɑːskɚ ˈɑs·kər,1,0
 oscillate, ˈɑːsəleɪt ˈɑːsəleɪt ˈɑːsəleɪt ˈɑs·əˌleɪt,1,0
@@ -271,13 +271,13 @@ oscillated, ˈɑːsəleɪt ˈɑːsəleɪt ˈɑːsəleɪt,1,0
 oscillates, ˈɑːsəleɪt ˈɑːsəleɪt ˈɑːsəleɪt ˈɑs·əˌleɪt,1,0
 oscillating, ˈɑːsəleɪt ˈɑːsəleɪt ˈɑːsəleɪt,1,0
 oscillation, ˌɑːsəlˈeɪʃən ˌɑːsəlˈeɪʃən ˌɑːsəlˈeɪʃən,0,0
-oscillator,,0,0
-oscillators,,0,0
+oscillator,,0,1
+oscillators,,0,1
 oscilloscope, əˈsɪləskoʊp,0,0
-ose,,0,0
+ose,,0,1
 oslo, ˈɑːzloʊ,1,0
-osmium,,0,0
-osmond,,0,0
+osmium,,0,1
+osmond,,0,1
 osmosis," ɑːzˈmoʊsɪs ɑːzˈmoʊsɪs ɑzˈmoʊ·sɪs, ɑs- ɑzˈmoʊ·sɪs, ɑs-",0,0
 osmotic, ɑːzˈmɑːt̬ɪk,0,0
 osprey, ˈɑːspri,0,0
@@ -295,9 +295,9 @@ ostracize, ˈɑːstrəsaɪz ˈɑs·trəˌsɑɪz,0,0
 ostracized, ˈɑːstrəsaɪz,1,0
 ostrich," ˈɑːstrɪtʃ ˈɑːstrɪtʃ ˈɔ·strɪtʃ, ˈɑs·trɪtʃ",0,0
 ostriches," ˈɑːstrɪtʃ ˈɑːstrɪtʃ ˈɔ·strɪtʃ, ˈɑs·trɪtʃ",1,0
-oswego,,0,0
-ot, ɑːkjəˌpeɪʃənəl ˈθerəpɪst,1,0
-othello,,0,0
+oswego,,0,1
+ot,,0,1
+othello,,0,1
 other, ˈʌðɚ ˈʌðɚ ˈʌðɚ ˈʌð·ər,1,0
 otherness, ˈʌðɚnəs,0,0
 others, ˈʌð·ərz,0,0
@@ -306,11 +306,11 @@ otherworldly, ˌʌðɚˈwɝːldli,0,0
 ottawa, ˈɑːt̬əwə,1,0
 otter, ˈɑːt̬ɚ ˈɑt̬·ər,0,0
 otters, ˈɑːt̬ɚ ˈɑt̬·ər,1,0
-otto,,0,0
+otto,,0,1
 ottoman, ˈɑːt̬əmən ˈɑːt̬əmən,0,0
 ouch, aʊtʃ aʊtʃ ɑʊtʃ,0,0
 ought, ɔt ɔt,0,0
-oui,,0,0
+oui,,0,1
 ounce, aʊns aʊns ɑʊns ɑʊns ɑʊns,1,0
 ounces, aʊns aʊns ɑʊns ɑʊns ɑʊns,1,0
 our," ˈaʊɚ ɑʊər, ɑr",0,0
@@ -324,10 +324,10 @@ ousting, aʊst,1,0
 out, aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt aʊt ɑʊt ɑʊt ɑʊt ɑʊt,1,0
 outage, ˈaʊt̬ɪdʒ,1,0
 outages, ˈaʊt̬ɪdʒ,1,0
-outback, ˈaʊtbæk,1,0
+outback,,0,1
 outbid, ˌaʊtˈbɪd,1,0
 outbids, ˌaʊtˈbɪd,1,0
-outboard, ˌaʊtbɔːrd ˈmoʊt̬ɚ ˌaʊtbɔːrd ˈmoʊt̬ɚ,1,0
+outboard,,0,1
 outbound, ˈaʊtbaʊnd,1,0
 outbreak, ˈaʊtbreɪk ˈɑʊtˌbreɪk,0,0
 outbreaks, ˈaʊtbreɪk ˈɑʊtˌbreɪk,1,0
@@ -355,7 +355,7 @@ outdoorsman, aʊtˈdɔːrzmən,0,0
 outed, aʊt,1,0
 outer, ˈaʊt̬ɚ ˈɑʊt·tər,0,0
 outermost, ˈaʊt̬ɚmoʊst ˈɑʊ·tərˌmoʊst,0,0
-outerwear,,0,0
+outerwear,,0,1
 outfield, ˈaʊtfiːld ˈɑʊtˌfild,0,0
 outfielder, ˈaʊtˌfiːldɚ,0,0
 outfielders, ˈaʊtˌfiːldɚ,1,0
@@ -369,7 +369,7 @@ outflank, ˌaʊtˈflæŋk ˌaʊtˈflæŋk,1,0
 outflanked, ˌaʊtˈflæŋk ˌaʊtˈflæŋk,1,0
 outflow, ˈaʊtfloʊ ˈɑʊtˌfloʊ,1,0
 outfox, ˌaʊtˈfɑːks,0,0
-outfoxed,,0,0
+outfoxed,,0,1
 outgo, ˈaʊtɡoʊ,0,0
 outgoing, ˈɑʊtˌɡoʊ·ɪŋ ˈɑʊtˌɡoʊ·ɪŋ ˈaʊtɡəʊɪŋ ˈaʊtɡəʊɪŋ,1,0
 outgrew,,1,0
@@ -378,8 +378,8 @@ outgrowing, ˌaʊtˈɡroʊ ˌaʊtˈɡroʊ ɑʊtˈɡroʊ,1,0
 outgrown,,1,0
 outgrows, ˌaʊtˈɡroʊ ˌaʊtˈɡroʊ ɑʊtˈɡroʊ,1,0
 outgrowth, ˈaʊtɡroʊθ ˈaʊtɡroʊθ ˈɑʊtˌɡroʊθ,0,0
-outguess,,0,0
-outguessed,,0,0
+outguess,,0,1
+outguessed,,0,1
 outgun, ˌaʊtˈɡʌn ˌaʊtˈɡʌn,1,0
 outgunned, ˌaʊtˈɡʌn ˌaʊtˈɡʌn,1,0
 outhouse, ˈaʊthaʊs ˈaʊthaʊs ˈɑʊtˌhɑʊs,0,0
@@ -393,7 +393,7 @@ outlasts, ˌaʊtˈlæst ˌɑʊtˈlæst,1,0
 outlaw, ˈaʊtlɑː ˈɑʊtˌlɔ,0,0
 outlawed, ˈaʊtlɑː,1,0
 outlawing, ˈaʊtlɑː,1,0
-outlawry,,0,0
+outlawry,,0,1
 outlaws, ˈaʊtlɑː ˈɑʊtˌlɔ,1,0
 outlay, ˈaʊtleɪ ˈɑʊtˌleɪ,1,0
 outlays, ˈaʊtleɪ ˈɑʊtˌleɪ,1,0
@@ -413,7 +413,7 @@ outmaneuver, ˌaʊtməˈnuːvɚ ˌɑʊt·məˈnu·vər,0,0
 outmaneuvered, ˌaʊtməˈnuːvɚ ˌɑʊt·məˈnu·vər,1,0
 outmaneuvering, ˌaʊtməˈnuːvɚ ˌɑʊt·məˈnu·vər,1,0
 outmanned, ˌaʊtˈmæn,1,0
-outmode,,0,0
+outmode,,0,1
 outmoded, ˌaʊtˈmoʊdɪd ˌɑʊtˈmoʊ·dɪd,0,0
 outnumber, ˌaʊtˈnʌmbɚ ˌɑʊtˈnʌm·bər,0,0
 outnumbered, ˌaʊtˈnʌmbɚ,1,0
@@ -428,7 +428,7 @@ outperformed, ˌaʊtpɚˈfɔːrm,1,0
 outplacement,,1,0
 outpost, ˈaʊtpoʊst ˈaʊtpoʊst ˈɑʊtˌpoʊst,1,0
 outposts, ˈaʊtpoʊst ˈaʊtpoʊst ˈɑʊtˌpoʊst,1,0
-outpour,,0,0
+outpour,,0,1
 outpouring," ˈaʊtˌpɔːrɪŋ ˈaʊtˌpɔːrɪŋ ˈɑʊtˌpɔr·ɪŋ, -ˌpoʊr·ɪŋ",0,0
 output, ˈaʊtpʊt ˈaʊtpʊt ˈɑʊtˌpʊt,1,0
 outputs, ˈaʊtpʊt ˈaʊtpʊt ˈɑʊtˌpʊt,1,0
@@ -436,7 +436,7 @@ outrage, ˈaʊtreɪdʒ ˈaʊtreɪdʒ ˈɑʊtˌreɪdʒ,0,0
 outraged, ˈaʊtreɪdʒd,0,0
 outrageous, ˌaʊtˈreɪdʒəs ˌaʊtˈreɪdʒəs ɑʊtˈreɪ·dʒəs,0,0
 outrageously, ˌaʊtˈreɪdʒəsli,0,0
-outrageousness,,0,0
+outrageousness,,0,1
 outrages, ˈaʊtreɪdʒ ˈaʊtreɪdʒ ˈɑʊtˌreɪdʒ,1,0
 outran, ˌaʊtˈræn,0,0
 outreach, ˈaʊtriːtʃ ˈɑʊtˌritʃ,1,0
@@ -453,7 +453,7 @@ outscoring, ˌaʊtˈskɔːr,1,0
 outsell, ˌaʊtˈsel ˌaʊtˈsel ˌaʊtˈsel,0,0
 outselling, ˌaʊtˈsel ˌaʊtˈsel ˌaʊtˈsel,1,0
 outsells, ˌaʊtˈsel ˌaʊtˈsel ˌaʊtˈsel,1,0
-outset, ˈaʊtset ˈɑʊtˌset,1,0
+outset, ˈɑʊtˌset,0,1
 outshine, ˌaʊtˈʃaɪn,0,0
 outshines, ˌaʊtˈʃaɪn,1,0
 outshining,,1,0
@@ -464,7 +464,7 @@ outsiders, ˌaʊtˈsaɪdɚ ˌaʊtˈsaɪdɚ ˌaʊtˈsaɪdɚ ˌɑʊtˈsɑɪ·dər,
 outsides," ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˌaʊtˈsaɪd ˈɑʊtˈsɑɪd, ˈɑʊtˌsɑɪd ˌɑʊtˈsɑɪd, ˈɑʊtˌsɑɪd",1,0
 outsize, ˈaʊtsaɪz,0,0
 outsized,,1,0
-outskirts, ˈaʊtskɝːts ˈɑʊtˌskɜrts,1,0
+outskirts, ˈɑʊtˌskɜrts,0,1
 outsmart, ˌaʊtˈsmɑːrt ˌɑʊtˈsmɑrt,0,0
 outsmarted, ˌaʊtˈsmɑːrt,1,0
 outsmarting, ˌaʊtˈsmɑːrt,1,0
@@ -475,7 +475,7 @@ outsourced, ˈaʊtsɔːrs,1,0
 outsourcing, ˈaʊtˌsɑːsɪŋ,1,0
 outspend, ˌaʊtˈspend,0,0
 outspoken, ˌaʊtˈspoʊkən ˌɑʊtˈspoʊ·kən,0,0
-outspokenness,,0,0
+outspokenness,,0,1
 outstanding," ˌaʊtˈstændɪŋ ˌaʊtˈstændɪŋ ˌɑʊtˈstæn·dɪŋ, ˈɑʊtˌstæn- ˌɑʊtˈstæn·dɪŋ, ˈɑʊtˌstæn-",1,0
 outstandingly, ˌaʊtˈstændɪŋli,0,0
 outstretched, ˌaʊtˈstretʃt ˌɑʊtˈstretʃt,0,0

@@ -1,9 +1,9 @@
 Word,Pronunciation,Root Word Returned,Missing
-bridgeman,,0,0
-bridgeport,,0,0
-bridger,,0,0
+bridgeman,,0,1
+bridgeport,,0,1
+bridger,,0,1
 bridges, brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ brɪdʒ,1,0
-bridgewater,,0,0
+bridgewater,,0,1
 bridging, brɪdʒ brɪdʒ,1,0
 bridle, ˈbraɪdəl ˈbrɑɪ·dəl,0,0
 bridled, ˈbraɪdəl ˈbraɪdəl,1,0
@@ -36,18 +36,18 @@ brilliance, ˈbrɪljəns ˈbrɪljəns ˈbrɪl·jəns ˈbrɪl·jəns,0,0
 brilliant, ˈbrɪljənt ˈbrɪljənt ˈbrɪljənt ˈbrɪl·jənt ˈbrɪl·jənt,0,0
 brilliantly, ˈbrɪljəntli ˈbrɪljəntli,0,0
 brim, brɪm brɪm brɪm brɪm,0,0
-brimmer,,0,0
+brimmer,,0,1
 brimming, brɪm brɪm brɪm brɪm,1,0
 brimstone, ˈbrɪmstoʊn,0,0
-brin,,0,0
-brindle, ˌtriːɪŋ ˌtenəsi ˈbrɪndəl,1,0
+brin,,0,1
+brindle,,0,1
 brine, braɪn brɑɪn,0,0
 bring, brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ,1,0
 bringing, brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ,1,0
 brings, brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ brɪŋ,1,0
-brining,,0,0
+brining,,0,1
 brink, brɪŋk brɪŋk brɪŋk,1,0
-brinks,,0,0
+brinks,,0,1
 brinksmanship, ˈbrɪŋks·mənˌʃɪp,0,0
 brio, ˈbriːoʊ,0,0
 brioche, ˈbriɑːʃ,0,0
@@ -55,7 +55,7 @@ brisbane, ˈbrɪzbən,1,0
 brisk, brɪsk brɪsk,1,0
 brisket, ˈbrɪskɪt,0,0
 briskly, ˈbrɪskli,0,0
-brisky,,0,0
+brisky,,0,1
 bristle, ˈbrɪsəl ˈbrɪsəl ˈbrɪs·əl,0,0
 bristled, ˈbrɪsəl ˈbrɪsəl,1,0
 bristles, ˈbrɪsəl ˈbrɪsəl ˈbrɪs·əl,1,0
@@ -64,15 +64,15 @@ bristol, ˈbrɪstəl,1,0
 brit, brɪt brɪt,1,0
 britain, ˈbrɪtən,1,0
 britannia, brɪˈtænjə brɪˈtænjə brɪˈtænjə,1,0
-britannica,,0,0
+britannica,,0,1
 britches, ˈbrɪtʃɪz ˈbrɪtʃ·əz,0,0
-brite,,0,0
+brite,,0,1
 british, ˈbrɪt̬ɪʃ ˈbrɪt̬ɪʃ ˈbrɪt̬·ɪʃ,1,0
 briton, ˈbrɪt̬ən ˈbrɪt·ən,1,0
 britons, ˈbrɪt̬ən ˈbrɪt·ən,1,0
 brits, brɪt brɪt,1,0
-britt,,0,0
-britten,,0,0
+britt,,0,1
+britten,,0,1
 brittle, ˈbrɪt̬əl ˈbrɪt̬əl ˈbrɪt̬əl ˈbrɪt̬əl ˈbrɪt̬·əl,0,0
 bro, broʊ broʊ broʊ,0,0
 broach, broʊtʃ broʊtʃ broʊtʃ,0,0
@@ -95,18 +95,18 @@ broadest, brɑːd brɑːd brɑːd brɑːd brɑːd brɑːd brɔd brɔd,1,0
 broadly, ˈbrɑːdli ˈbrɑːdli ˈbrɔd·li,0,0
 broadside, ˈbrɑːdsaɪd ˈbrɑːdsaɪd ˈbrɔdˌsɑɪd,0,0
 broadsided, ˈbrɑːdsaɪd ˈbrɑːdsaɪd ˈbrɔdˌsɑɪd,1,0
-broadsword,,0,0
+broadsword,,0,1
 broadway, ˈbrɑːdweɪ ˈbrɔd·weɪ,1,0
-brobdingnagian,,0,0
+brobdingnagian,,0,1
 brocade, brəˈkeɪd broʊˈkeɪd,0,0
-brocades,,0,0
+brocades,,0,1
 broccoli," ˈbrɑːkəli ˈbrɑ·kə·li, ˈbrɑk·li",0,0
 brochure, broʊˈʃʊr broʊˈʃʊər brəʊˈʃʊr,0,0
 brochures, broʊˈʃʊr broʊˈʃʊər brəʊˈʃʊr,1,0
-brock, ˈbrɑːks dɪˌziːz,1,0
-brod,,0,0
-brodie,,0,0
-brogan,,0,0
+brock,,0,1
+brod,,0,1
+brodie,,0,1
+brogan,,0,1
 broil, brɔɪl brɔɪl,0,0
 broiled, brɔɪld,0,0
 broiler, ˈbrɔɪlɚ ˈbrɔɪlɚ ˈbrɔɪ·lər ˈbrɔɪ·lər,0,0
@@ -123,13 +123,13 @@ brolly, ˈbrɑːli,0,0
 bromide, ˈbroʊmaɪd ˈbroʊmaɪd,0,0
 bromides, ˈbroʊmaɪd ˈbroʊmaɪd,1,0
 bromine," ˈbroʊmiːn ˈbroʊˌmin, -ˌmɑɪn",0,0
-bronc,,0,0
+bronc,,0,1
 bronchial, ˈbrɑːŋkiəl,0,0
 bronchitis, brɑːŋˈkaɪt̬əs brɑŋˈkɑɪ·t̬ɪs,0,0
 bronco, ˈbrɑːŋkoʊ ˈbrɑŋ·koʊ,0,0
 broncos, ˈbrɑːŋkoʊ ˈbrɑŋ·koʊ,1,0
 brontosaurus, ˌbrɑːnt̬əˈsɔːrəs,0,0
-bronx, ˌbrɑːŋks ˈtʃɪr,1,0
+bronx,,0,1
 bronze, brɑːnz brɑːnz brɑːnz brɑːnz brɑnz,0,0
 bronzed, brɑːnzd brɑnzd,0,0
 bronzes, brɑːnz brɑːnz brɑːnz brɑːnz brɑnz,1,0
@@ -140,7 +140,7 @@ brooding, ˈbruːdɪŋ ˈbruːdɪŋ ˈbrud·ɪŋ,0,0
 broody, ˈbruːdi ˈbruːdi ˈbruːdi,0,0
 brook, brʊk brʊk,0,0
 brooking, brʊk brʊk brʊk,1,0
-brooklyn,,0,0
+brooklyn,,0,1
 brooks, brʊk brʊk brʊk,1,0
 broom," bruːm bruːm bruːm bruːm brum, brʊm",0,0
 brooms," bruːm bruːm bruːm bruːm brum, brʊm",1,0
@@ -153,8 +153,8 @@ brother, ˈbrʌðɚ ˈbrʌðɚ ˈbrʌðɚ ˈbrʌðɚ ˈbrʌð·ər ˈbrʌð·ər
 brotherhood, ˈbrʌðɚhʊd ˈbrʌðɚhʊd ˈbrʌð·ərˌhʊd ˈbrʌð·ərˌhʊd,0,0
 brotherly, ˈbrʌðɚli ˈbrʌð·ər·li,0,0
 brothers, ˈbrʌðɚ ˈbrʌðɚ ˈbrʌðɚ ˈbrʌðɚ ˈbrʌð·ər ˈbrʌð·ər ˈbrʌð·ər,1,0
-broths,,0,0
-brough,,0,0
+broths,,0,1
+brough,,0,1
 brougham, bruːm,0,0
 brought, brɑːt brɔt,0,0
 brouhaha, ˈbruːhɑːhɑː ˈbruˌhɑˌhɑ,0,0
@@ -176,9 +176,9 @@ browse, braʊz braʊz braʊz brɑʊz,1,0
 browser, ˈbraʊzɚ ˈbraʊzɚ ˈbrɑʊ·zər,1,0
 browsers, ˈbraʊzɚ ˈbraʊzɚ ˈbrɑʊ·zər,1,0
 browsing, braʊz braʊz braʊz,1,0
-bruce,,0,0
-bruin,,0,0
-bruins,,0,0
+bruce,,0,1
+bruin,,0,1
+bruins,,0,1
 bruise, bruːz bruz,0,0
 bruised, bruːzd bruːzd,0,0
 bruises, bruːz bruz,1,0
@@ -188,16 +188,16 @@ brunches, brʌntʃ brʌntʃ,1,0
 brunet, bruˈnet,0,0
 brunette, bruˈnet bruˈnet,0,0
 brunettes, bruˈnet bruˈnet,1,0
-brunswick, ˌbrʌnzwɪk ˈstuː,1,0
-brunt, brʌnt,1,0
+brunswick,,0,1
+brunt,,0,1
 brush, brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ,0,0
 brushed, brʌʃt,0,0
 brushes, brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ brʌʃ,1,0
-brushfire, ˈbrʌʃ ˌfaɪr ˈbrʌʃ ˌfaɪr,1,0
+brushfire,,0,1
 brushing, brʌʃ brʌʃ brʌʃ,1,0
 brushwork, ˈbrʌʃwɝːk,0,0
 brusque, brʌsk brʌsk,0,0
-brussel,,0,0
+brussel,,0,1
 brussels, ˈbrʌsəlz ,1,0
 brut, bruːt,0,0
 brutal, ˈbruːt̬əl ˈbruːt̬əl ˈbru·t̬əl ˈbru·t̬əl ˈbru·t̬əl,0,0
@@ -210,9 +210,9 @@ brutalizing, -t̬əl-,1,0
 brutally, ˈbruːt̬əli ˈbruːt̬əli ˈbruːt̬əli,0,0
 brute, bruːt bruːt brut brut brut,0,0
 brutish, ˈbruːt̬ɪʃ,0,0
-brutus,,0,0
-bryan,,0,0
-bt,,0,0
+brutus,,0,1
+bryan,,0,1
+bt,,0,1
 bub, bʌb bʌb,0,0
 bubba, ˈbʌbə ˈbʌbə,0,0
 bubble, ˈbʌbəl ˈbʌbəl ˈbʌbəl ˈbʌbəl ˈbʌb·əl,1,0
@@ -220,11 +220,11 @@ bubbled, ˈbʌbəl ˈbʌbəl ˈbʌbəl,1,0
 bubbles, ˈbʌbəl ˈbʌbəl ˈbʌbəl ˈbʌbəl ˈbʌb·əl,1,0
 bubbling, ˈbʌbəl ˈbʌbəl ˈbʌbəl,1,0
 bubbly, ˈbʌbli ˈbʌb·li ˈbʌb·li,0,0
-bubonic, bjuːˌbɑːnɪk ˈpleɪɡ,1,0
+bubonic,,0,1
 buccal, ˈbʌkəl,0,0
 buccaneer, ˌbʌkəˈnɪr,1,0
 buccaneers, ˌbʌkəˈnɪr,1,0
-buchanan,,0,0
+buchanan,,0,1
 bucharest, ˈbuːkərest,1,0
 buck, bʌk bʌk bʌk bʌk bʌk bʌk bʌk bʌk,1,0
 bucked, bʌk,1,0
@@ -232,21 +232,21 @@ bucket, ˈbʌkɪt ˈbʌk·ɪt,0,0
 buckets, ˈbʌk·ɪts,0,0
 buckeye, ˈbʌkaɪ,1,0
 buckeyes, ˈbʌkaɪ,1,0
-buckhorn,,0,0
+buckhorn,,0,1
 bucking, bʌk,1,0
-buckland,,0,0
+buckland,,0,1
 buckle, ˈbʌkəl ˈbʌkəl ˈbʌk·əl,0,0
 buckled, ˈbʌkəld ˈbʌkəld,0,0
 buckler, ˈbʌklɚ,0,0
 buckles, ˈbʌkəl ˈbʌkəl ˈbʌkəl ˈbʌk·əl,1,0
 buckling, ˈbʌkəl ˈbʌkəl ˈbʌkəl,1,0
-bucko,,0,0
+bucko,,0,1
 bucks, bʌk bʌk bʌk bʌk bʌk bʌk bʌk bʌk,1,0
 buckshot, ˈbʌkʃɑːt,0,0
 buckskin, ˈbʌkskɪn ˈbʌkskɪn,0,0
 buckskins, ˈbʌkskɪn ˈbʌkskɪn,1,0
 buckwheat, ˈbʌkwiːt,0,0
-bucky,,0,0
+bucky,,0,1
 bucolic, bjuˈkɑːlɪk,0,0
 bud, bʌd bʌd bʌd bʌd,0,0
 budapest, ˌbuːdəˈpest,1,0
@@ -254,7 +254,7 @@ buddha," ˈbʊdə ˈbʊdə ˈbu·də, ˈbʊd·ə",1,0
 buddhism," ˈbʊdɪzəm ˈbuˌdɪz·əm, ˈbʊd-",1,0
 buddhist," ˈbʊdɪst ˈbu·dɪst, ˈbʊd-",1,0
 buddhists," ˈbʊdɪst ˈbu·dɪst, ˈbʊd-",1,0
-buddie,,0,0
+buddie,,0,1
 buddies, ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌd·i,1,0
 budding, ˈbʌdɪŋ ˈbʌd·ɪŋ,0,0
 buddy, ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌdi ˈbʌd·i,0,0
@@ -267,11 +267,11 @@ budgeting,,1,0
 budgets, ˈbʌdʒɪt ˈbʌdʒɪt ˈbʌdʒɪt ˈbʌdʒɪt ˈbʌdʒ·ɪt ˈbʌdʒ·ɪt,1,0
 budging, bʌdʒ bʌdʒ,1,0
 buds, bʌd bʌd bʌd bʌd bʌd,1,0
-bueno,,0,0
-buenos, ˌbweɪnəs ˈeriːz,1,0
+bueno,,0,1
+buenos,,0,1
 buff, bʌf bʌf bʌf,0,0
 buffalo, ˈbʌfəloʊ ˈbʌfəloʊ ˈbʌf·əˌloʊ,0,0
-buffalos,,0,0
+buffalos,,0,1
 buffer, ˈbʌfɚ ˈbʌfɚ ˈbʌfɚ ˈbʌfɚ ˈbʌfɚ ˈbʌf·ər,1,0
 buffered, ˈbʌfɚ ˈbʌfɚ,1,0
 buffering, ˈbʌfɚ ˈbʌfɚ,1,0
@@ -280,12 +280,12 @@ buffet," bəˈfeɪ bəˈfeɪ bəˈfeɪ, bu-",0,0
 buffeted, ˈbʌfɪt,1,0
 buffeting, ˈbʌfɪt,1,0
 buffets," bəˈfeɪ bəˈfeɪ bəˈfeɪ, bu-",1,0
-buffo,,0,0
+buffo,,0,1
 buffoon, bəˈfuːn bəˈfun,0,0
 buffs, bʌf bʌf bʌf bʌf,1,0
-buffy,,0,0
+buffy,,0,1
 bug, bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ,1,0
-bugaboo,,0,0
+bugaboo,,0,1
 bugged,,1,0
 bugger, ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ,0,0
 buggers, ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ ˈbʌɡɚ,1,0
@@ -294,10 +294,10 @@ bugging,,1,0
 buggy, ˈbʌɡi ˈbʌɡi ˈbʌɡi ˈbʌɡ·i,0,0
 bugle, ˈbjuːɡəl ˈbjuːɡəl ˈbju·ɡəl,0,0
 bugles, ˈbjuːɡəl ˈbjuːɡəl ˈbju·ɡəl,1,0
-bugling,,0,0
+bugling,,0,1
 bugs, bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ bʌɡ,1,0
-buick,,0,0
-buicks,,0,0
+buick,,0,1
+buicks,,0,1
 build, bɪld bɪld bɪld bɪld,1,0
 builder, ˈbɪldɚ,1,0
 builders, ˈbɪldɚ,1,0
@@ -315,7 +315,7 @@ bulgarian, bʊlˈɡeriən,1,0
 bulgarians, bʊlˈɡeriən,1,0
 bulge, bʌldʒ bʌldʒ bʌldʒ,0,0
 bulged, bʌldʒ,1,0
-bulger,,0,0
+bulger,,0,1
 bulges, bʌldʒ bʌldʒ bʌldʒ,1,0
 bulging, ˈbʌldʒɪŋ,0,0
 bulimia, buːˈliːmiə,0,0
@@ -335,7 +335,7 @@ bulldozer, ˈbʊlˌdoʊzɚ ˈbʊlˌdoʊ·zər,0,0
 bulldozers, ˈbʊlˌdoʊzɚ ˈbʊlˌdoʊ·zər,1,0
 bulldozes, ˈbʊldoʊz ˈbʊldoʊz,1,0
 bulldozing, ˈbʊldoʊz ˈbʊldoʊz,1,0
-buller,,0,0
+buller,,0,1
 bullet, ˈbʊlɪt ˈbʊlɪt ˈbʊl·ɪt,0,0
 bulletin," ˈbʊlət̬ɪn ˈbʊl·ɪ·tən, -ɪ·tən",1,0
 bulletins," ˈbʊlət̬ɪn ˈbʊl·ɪ·tən, -ɪ·tən",1,0
@@ -347,8 +347,8 @@ bullfighting, ˈbʊlˌfaɪt̬ɪŋ,0,0
 bullfights, ˈbʊlfaɪt ˈbʊl·fɑɪt,1,0
 bullfrog, ˈbʊlfrɑːɡ,0,0
 bullfrogs, ˈbʊlfrɑːɡ,1,0
-bullhead,,0,0
-bullheads,,0,0
+bullhead,,0,1
+bullheads,,0,1
 bullhorn, ˈbʊlhɔːrn ˈbʊl·hɔrn,0,0
 bullhorns, ˈbʊlhɔːrn ˈbʊl·hɔrn,1,0
 bullied, ˈbʊli,1,0
@@ -383,18 +383,18 @@ bumps, bʌmp bʌmp bʌmp bʌmp bʌmp bʌmp bʌmp bʌmp,1,0
 bumpy, ˈbʌmpi ˈbʌm·pi,0,0
 bums, bʌm bʌm bʌm bʌm,1,0
 bun, bʌn bʌn bʌn bʌn bʌn bʌn,0,0
-bunce,,0,0
+bunce,,0,1
 bunch, bʌntʃ bʌntʃ bʌntʃ,0,0
 bunched, bʌntʃ bʌntʃ bʌntʃ bʌntʃ bʌntʃ,1,0
 bunches,,1,0
 bunching, bʌntʃ bʌntʃ bʌntʃ bʌntʃ bʌntʃ,1,0
-bunchy,,0,0
-bund,,0,0
+bunchy,,0,1
+bund,,0,1
 bundle, ˈbʌndəl ˈbʌn·dəl ˈbʌn·dəl,1,0
 bundled, ˈbʌndəl ˈbʌndəl,1,0
 bundles, ˈbʌndəl ˈbʌn·dəl ˈbʌn·dəl,1,0
 bundling, ˈbʌndlɪŋ,0,0
-bundy,,0,0
+bundy,,0,1
 bung, bʌŋ bʌŋ,1,0
 bungalow, ˈbʌŋɡəloʊ ˈbʌŋ·ɡəˌloʊ,0,0
 bungalows, ˈbʌŋɡəloʊ ˈbʌŋ·ɡəˌloʊ,1,0
@@ -408,20 +408,20 @@ bunker, ˈbʌŋkɚ ˈbʌŋkɚ ˈbʌŋ·kər,0,0
 bunkers, ˈbʌŋkɚ ˈbʌŋkɚ ˈbʌŋ·kər,1,0
 bunks, bʌŋk bʌŋk bʌŋk bʌŋk bʌŋk bʌŋk bʌŋk,1,0
 bunnies, ˈbʌni,1,0
-bunning,,0,0
+bunning,,0,1
 bunny, ˈbʌni,0,0
 buns, bʌnz,0,0
 bunt, bʌnt,0,0
 bunting, ˈbʌnt̬ɪŋ ˈbʌnt̬ɪŋ ˈbʌnt̬ɪŋ ˈbʌnt̬ɪŋ,0,0
-bunton,,0,0
-bunyan,,0,0
+bunton,,0,1
+bunyan,,0,1
 buoy," bɔɪ ˈbu·i, bɔɪ",1,0
 buoyancy," ˈbɔɪənsi ˈbɔɪənsi ˈbɔɪənsi ˈbɔɪ·ən·si, ˈbu·jən-",1,0
 buoyant, ˈbɔɪənt ˈbɔɪənt ˈbɔɪənt,1,0
 buoyed, bɔɪ bɔɪ bɔɪ,1,0
 buoys," bɔɪ ˈbu·i, bɔɪ",1,0
 bur, bɝː,0,0
-burbank,,0,0
+burbank,,0,1
 burble, ˈbɝːbəl ˈbɝːbəl,0,0
 burbled, ˈbɝːbəl ˈbɝːbəl,1,0
 burbles, ˈbɝːbəl ˈbɝːbəl,1,0
@@ -430,7 +430,7 @@ burden, ˈbɝːdən ˈbɝːdən ˈbɜr·dən,1,0
 burdened, ˈbɝːdən,1,0
 burdens, ˈbɝːdən ˈbɝːdən ˈbɜr·dən,1,0
 burdensome, ˈbɝːdənsəm,0,0
-burdon,,0,0
+burdon,,0,1
 bureau, ˈbjʊroʊ ˈbjʊroʊ ˈbjʊroʊ ˈbjʊroʊ ˈbjʊər·oʊ ˈbjʊər·oʊ,1,0
 bureaucracies, bjʊˈrɑːkrəsi bjʊˈrɑk·rə·si bjʊˈrɑk·rə·si,1,0
 bureaucracy, bjʊˈrɑːkrəsi bjʊˈrɑk·rə·si bjʊˈrɑk·rə·si,1,0
@@ -438,11 +438,11 @@ bureaucrat, ˈbjʊrəkræt ˈbjʊər·əˌkræt,1,0
 bureaucratic, ˌbjʊrəˈkræt̬ɪk ˌbjʊrəˈkræt̬ɪk ˌbjʊr·əˈkræt̬·ɪk,1,0
 bureaucrats, ˈbjʊrəkræt ˈbjʊər·əˌkræt,1,0
 bureaus, ˈbjʊroʊ ˈbjʊroʊ ˈbjʊroʊ ˈbjʊroʊ ˈbjʊər·oʊ ˈbjʊər·oʊ,1,0
-burg,,0,0
+burg,,0,1
 burgeoning, ˈbɝːdʒənɪŋ ˈbɜr·dʒə·nɪŋ,1,0
 burger, ˈbɝːɡɚ ˈbɜr·ɡər,0,0
 burgers, ˈbɝːɡɚ ˈbɜr·ɡər,1,0
-burgess,,0,0
+burgess,,0,1
 burgher, ˈbɝːɡɚ,0,0
 burglar, ˈbɝːɡlɚ ˈbɜr·ɡlər,1,0
 burglaries, ˈbɝːɡlɚi ˈbɜr·ɡlə·ri,1,0
@@ -451,23 +451,23 @@ burglarized, ˈbɝːɡlɚaɪz ˈbɜr·ɡləˌrɑɪz,1,0
 burglars, ˈbɝːɡlɚ ˈbɜr·ɡlər,1,0
 burglary, ˈbɝːɡlɚi ˈbɜr·ɡlə·ri,1,0
 burgling, ˈbɝːɡəl,1,0
-burgomaster,,0,0
-burgundian,,0,0
+burgomaster,,0,1
+burgundian,,0,1
 burgundy, ˈbɝːɡəndi ˈbɝːɡəndi,0,0
-buri,,0,0
+buri,,0,1
 burial, ˈberiəl ˈber·i·əl,0,0
 burials, ˈberiəl ˈber·i·əl,1,0
-burian,,0,0
+burian,,0,1
 buried, ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi,1,0
 buries, ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈber·i ˈber·i ˈber·i,1,0
 burk, bɝːk,0,0
-burke,,0,0
-burkes,,0,0
+burke,,0,1
+burkes,,0,1
 burks, bɝːk,1,0
 burl, bɝːl,0,0
 burlap, ˈbɝːlæp ˈbɜr·læp,0,0
 burlesque, bɝːˈlesk bɝːˈlesk bɝːˈlesk,0,0
-burley,,0,0
+burley,,0,1
 burly, ˈbɝːli ˈbɜr·li,0,0
 burma, ˈbɝːmə,1,0
 burmese, bɝːˈmiːz,1,0
@@ -476,10 +476,10 @@ burned, bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn b�
 burner, ˈbɝːnɚ ˈbɝːnɚ ˈbɜr·nər,0,0
 burners, ˈbɝːnɚ ˈbɝːnɚ ˈbɜr·nər,1,0
 burning, ˈbɝːnɪŋ ˈbɝːnɪŋ ˈbɝːnɪŋ ˈbɝːnɪŋ ˈbɜr·nɪŋ ˈbɜr·nɪŋ,0,0
-burnings,,0,0
+burnings,,0,1
 burnished, ˈbɝːnɪʃt ˈbɝːnɪʃt ˈbɝːnɪʃt,0,0
 burnout, ˈbɝːnaʊt ˈbɜrnˌɑʊt,1,0
 burns, bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɝːn bɜrn bɜrn bɜrn bɜrn,1,0
-burnside,,0,0
+burnside,,0,1
 burnt, bɝːnt bɜrnt,0,0
 burp, bɝːp bɝːp bɜrp bɜrp,0,0

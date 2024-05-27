@@ -27,7 +27,7 @@ applications, ˌæpləˈkeɪʃən ˌæpləˈkeɪʃən ˌæpləˈkeɪʃən ˌæpl
 applicator, ˈæpləkeɪt̬ɚ,0,0
 applied, əˈplaɪd əˈplɑɪd,0,0
 applies, əˈplaɪ əˈplaɪ əˈplaɪ əˈplaɪ əˈplaɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ,1,0
-appling,,0,0
+appling,,0,1
 apply, əˈplaɪ əˈplaɪ əˈplaɪ əˈplaɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ əˈplɑɪ,1,0
 applying, əˈplaɪ əˈplaɪ əˈplaɪ əˈplaɪ əˈplaɪ,1,0
 appoint, əˈpɔɪnt əˈpɔɪnt əˈpɔɪnt,1,0
@@ -59,7 +59,7 @@ apprehend, ˌæprəˈhend ˌæprəˈhend ˌæp·rɪˈhend,0,0
 apprehended, ˌæprəˈhend ˌæprəˈhend,1,0
 apprehending, ˌæprəˈhend ˌæprəˈhend,1,0
 apprehension, ˌæprəˈhenʃən ˌæprəˈhenʃən ˌæprəˈhenʃən ˌæp·rɪˈhen·ʃən ˌæp·rɪˈhen·ʃən,0,0
-apprehensions,,0,0
+apprehensions,,0,1
 apprehensive, ˌæprəˈhensɪv ˌæp·rɪˈhen·sɪv,0,0
 apprentice, əˈprent̬ɪs əˈpren·tɪs,1,0
 apprenticed, əˈprent̬ɪs,1,0
@@ -106,7 +106,7 @@ aptitude, ˈæptətuːd ˈæp·tɪˌtud ˈæptɪtuːd,0,0
 aptitudes, ˈæptətuːd ˈæp·tɪˌtud ˈæptɪtuːd,1,0
 aptly, ˈæptli,0,0
 aqua," ˈɑːkwə ˈɑːkwə ˈæk·wə, ˈɑk-",0,0
-aqualung,,0,0
+aqualung,,0,1
 aquamarine, ˌækwəməˈriːn ˌækwəməˈriːn,0,0
 aquarium, əˈkweriəm əˈkweriəm əˈkweər·i·əm,0,0
 aquariums, əˈkweriəm əˈkweriəm əˈkweər·i·əm,1,0
@@ -116,11 +116,11 @@ aqueduct, ˈækwədʌkt ˈæk·wəˌdʌkt,0,0
 aqueducts, ˈækwədʌkt ˈæk·wəˌdʌkt,1,0
 aqueous, ˈeɪkwiəs ˈæk·wi·əs,0,0
 aquifer, ˈɑːkwəfɚ,0,0
-aquila,,0,0
-aquilino,,0,0
-aquinas,,0,0
+aquila,,0,1
+aquilino,,0,1
+aquinas,,0,1
 ar,,1,0
-ara,,0,0
+ara,,0,1
 arab, ˈerəb ˈerəb ˈær·əb,1,0
 arabia, əˈreɪbiə,1,0
 arabian, əˈreɪbiən,1,0
@@ -130,8 +130,8 @@ arable, ˈerəbəl ˈær·ə·bəl,1,0
 arabs, ˈerəb ˈerəb ˈær·əb,1,0
 arachnid, əˈræknɪd,0,0
 arachnids, əˈræknɪd,1,0
-arango,,0,0
-arapaho,,0,0
+arango,,0,1
+arapaho,,0,1
 arb,,1,0
 arbiter, ˈɑːrbət̬ɚ ˈɑr·bɪ·t̬ər ˈɑr·bɪ·t̬ər,1,0
 arbiters, ˈɑːrbət̬ɚ ˈɑr·bɪ·t̬ər ˈɑr·bɪ·t̬ər,1,0
@@ -143,7 +143,7 @@ arbitrary, ˈɑːrbətreri ˈɑːrbətreri ˈɑr·bɪˌtrer·i,0,0
 arbitrate, ˈɑːrbətreɪt ˈɑr·bɪˌtreɪt,1,0
 arbitrates, ˈɑːrbətreɪt ˈɑr·bɪˌtreɪt,1,0
 arbitration, ˌɑːrbəˈtreɪʃən ˌɑr·bɪˈtreɪ·ʃən,1,0
-arbitrations,,0,0
+arbitrations,,0,1
 arbitrator, ˈɑːrbətreɪt̬ɚ ˈɑːrbɪtreɪṱɚ,0,0
 arbor, ˈɑːrbɚ,0,0
 arboreal, ɑːrˈbɔːriəl,0,0
@@ -154,10 +154,10 @@ arc, ɑːrk ɑːrk ɑːrk ɑrk,0,0
 arcade, ɑːrˈkeɪd ɑːrˈkeɪd ɑrˈkeɪd ɑrˈkeɪd,1,0
 arcades, ɑːrˈkeɪd ɑːrˈkeɪd ɑrˈkeɪd ɑrˈkeɪd,1,0
 arcadia, ɑːrˈkeɪdiə,1,0
-arcadians,,0,0
-arcana,,0,0
+arcadians,,0,1
+arcana,,0,1
 arcane, ɑːrˈkeɪn ɑrˈkeɪn,0,0
-arcanum,,0,0
+arcanum,,0,1
 arch, ɑːrtʃ ɑːrtʃ ɑːrtʃ ɑːrtʃ ɑrtʃ ɑrtʃ,0,0
 archaeological, ˌɑːrkiəˈlɑːdʒɪkəl,0,0
 archaeologist, ˌɑːrkiˈɑːlədʒɪst,0,0
@@ -170,7 +170,7 @@ archbishop," ˌɑːrtʃˈbɪʃəp ˌɑrtʃˈbɪʃ·əp, ˈɑrtʃˌbɪʃ-",0,0
 archdiocese," ˌɑːrtʃˈdaɪəsɪs ˌɑrtʃˈdɑɪ·ə·sɪs, -ˌsiz",0,0
 archduke, ˌɑːrtʃˈduːk,0,0
 arched, ɑːrːtʃt,0,0
-archenemy,,0,0
+archenemy,,0,1
 archeological, ˌɑːrkiəˈlɑːdʒɪkəl,1,0
 archeology, ˌɑːrkiˈɑːlədʒi,0,0
 archer, ˈɑːrtʃɚ ˈɑr·tʃər,0,0
@@ -180,7 +180,7 @@ arches, ɑːrtʃ ɑːrtʃ ɑːrtʃ ɑːrtʃ ɑːrtʃ- ɑːrtʃ- ɑrtʃ ɑrtʃ,1,
 archetypal, ˌɑːrkəˈtaɪpəl,0,0
 archetype, ˈɑːrkətaɪp ˈɑr·kɪˌtɑɪp,0,0
 archetypes, ˈɑːrkətaɪp ˈɑr·kɪˌtɑɪp,1,0
-archie,,0,0
+archie,,0,1
 archimedes, ˌɑːrkəˈmiːdiːz,1,0
 arching, ɑːrtʃ,1,0
 archipelago," ˌɑːrkəˈpeləɡoʊ ˌɑr·kəˈpel·əˌɡoʊ, ˌɑr·tʃə-",0,0
@@ -189,7 +189,7 @@ architects, ˈɑːrkətekt ˈɑːrkətekt ˈɑr·kɪˌtekt,1,0
 architectural, ˌɑːrkəˈtektʃɚəl,1,0
 architecturally, ˌɑːrkəˈtektʃɚəli,0,0
 architecture, ˈɑːrkətektʃɚ ˈɑːrkətektʃɚ ˈɑr·kɪˌtek·tʃər,1,0
-architectures,,0,0
+architectures,,0,1
 architrave, ˈɑːrkətreɪv,0,0
 archival, ˌɑːrˈkaɪvəl,0,0
 archive, ˈɑːrkaɪv ˈɑːrkaɪv ˈɑːrkaɪv ˈɑr·kɑɪv,1,0
@@ -197,10 +197,10 @@ archives, ˈɑːrkaɪv ˈɑːrkaɪv ˈɑːrkaɪv ˈɑr·kɑɪv,1,0
 archivist, ˈɑːrkəvɪst,0,0
 archivists, ˈɑːrkəvɪst,1,0
 archway, ˈɑːrtʃweɪ,0,0
-arco,,0,0
+arco,,0,1
 arcs, ɑːrk ɑːrk ɑːrk ɑrk,1,0
-arctic, ˈɑːrktɪk ˈɑːrktɪk ˈɑːrktɪk ˈɑrk·tɪk,1,0
-arcturus,,0,0
+arctic, ˈɑrk·tɪk,0,1
+arcturus,,0,1
 ardent, ˈɑːrdənt ˈɑr·dənt,0,0
 ardently, ˈɑːrdəntli,0,0
 ardor, ˈɑːrdɚ ˈɑr·dər,0,0
@@ -211,18 +211,18 @@ areas, ˈeriə ˈeriə ˈeriə ˈeriə ˈeriə ˈeriə ˈeər·i·ə ˈeər·i·
 aren, ɑːrnt ɑːrnt ˈɑr·ənt,1,0
 arena, əˈriːnə əˈriːnə əˈri·nə əˈri·nə,1,0
 arenas, əˈriːnə əˈriːnə əˈri·nə əˈri·nə,1,0
-arent,,0,0
+arent,,0,1
 ares, ˈeriːz,1,0
 argent, ˈɑːrdʒənt ˈɑːrdʒənt,0,0
 argentina, ˌɑːrdʒənˈtiːnə,1,0
 argentine, ˌɑːrdʒənˈtɪniən,1,0
-argentines,,0,0
-argh,,0,0
-argo,,0,0
+argentines,,0,1
+argh,,0,1
+argo,,0,1
 argon, ˈɑːrɡɑːn ˈɑr·ɡɑn,0,0
-argonaut,,0,0
-argonauts,,0,0
-argosy,,0,0
+argonaut,,0,1
+argonauts,,0,1
+argosy,,0,1
 argot, ˈɑːrɡoʊ,0,0
 arguably, ˈɑːrɡjuəbli ˈɑr·ɡju·ə·bli,0,0
 argue, ˈɑːrɡjuː ˈɑːrɡjuː ˈɑːrɡjuː ˈɑr·ɡju ˈɑr·ɡju ˈɑr·ɡju,0,0
@@ -232,33 +232,33 @@ arguing, ˈɑːrɡjuː ˈɑːrɡjuː ˈɑːrɡjuː ˈɑːrɡjuː,1,0
 argument, ˈɑːrɡjəmənt ˈɑːrɡjəmənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt,0,0
 argumentative, ˌɑːrɡjəˈment̬ət̬ɪv ˌɑr·ɡjəˈmen·tə·t̬ɪv,0,0
 arguments, ˈɑːrɡjəmənt ˈɑːrɡjəmənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt ˈɑr·ɡjə·mənt,1,0
-argus,,0,0
+argus,,0,1
 argyle, ɑːrˈɡaɪl,0,0
 argyll, ɑːrˈɡaɪl,1,0
 aria, ˈɑːriə ˈɑr·i·ə,0,0
-ariadne,,0,0
+ariadne,,0,1
 arias, ˈɑːriə ˈɑr·i·ə,1,0
 arid, ˈerɪd ˈerɪd ˈerɪd ˈær·ɪd,0,0
-ariel,,0,0
+ariel,,0,1
 aries," ˈeriːz ˈeriːz ˈeər·iz, ˈeər·iˌIz",1,0
 arise, əˈraɪz əˈraɪz əˈrɑɪz əˈrɑɪz,0,0
 arisen,,1,0
 arises, əˈraɪz əˈraɪz əˈraɪz əˈrɑɪz əˈrɑɪz,1,0
 arising,,1,0
-arista,,0,0
+arista,,0,1
 aristocracy, ˌerəˈstɑːkrəsi ˌær·əˈstɑk·rə·si ˌær·əˈstɑk·rə·si,0,0
 aristocrat, əˈrɪsstəkræt,0,0
 aristocratic, ˌerəstəˈkræt̬ɪk,0,0
 aristocrats, əˈrɪsstəkræt,1,0
-aristotelian,,0,0
+aristotelian,,0,1
 aristotle, ˈærəstɑːt̬əl,1,0
 arithmetic, əˈrɪθmətɪk əˈrɪθmətɪk əˈrɪθ·məˌtɪk,0,0
 arizona, ˌerɪˈzoʊnə,1,0
-arizonans,,0,0
-arjun,,0,0
-ark, ɑːrk ɑːrk,1,0
+arizonans,,0,1
+arjun,,0,1
+ark,,0,1
 arkansas, ˈɑːrkənsɑː,1,0
-arlington,,0,0
+arlington,,0,1
 arm, ɑːrm ɑːrm ɑːrm ɑːrm ɑːrm ɑːrm ɑrm ɑrm ɑrm,1,0
 armada, ɑːrˈmɑːdə,0,0
 armadillo, ˌɑːrməˈdɪloʊ ˌɑr·məˈdɪl·oʊ,0,0
@@ -274,10 +274,10 @@ armed, ɑːrmd ɑrmd ɑrmd,0,0
 armenia, ɑːrˈmiːniə,1,0
 armenian, ɑːrˈmiːniən,1,0
 armenians, ɑːrˈmiːniən,1,0
-armies, ˈɑːrmi ˈɑːrmi ˈɑːrmi ˈɑːrmi ˈɑr·mi ˈɑr·mi,1,0
+armies,,0,1
 arming, ɑːrm ɑːrm,1,0
 armistice, ˈɑːrməstɪs ˈɑr·mə·stɪs,0,0
-armoire,,0,0
+armoire,,0,1
 armor, ˈɑːrmɚ ˈɑr·mər ˈɑr·mər,0,0
 armored, ˈɑːrmɚd ˈɑr·mərd ˈɑr·mərd,0,0
 armory, ˈɑːrmɚi ˈɑr·mə·ri ˈɑr·mə·ri,0,0
@@ -287,10 +287,10 @@ armpits, ˈɑːrmpɪt ˈɑrmˌpɪt,1,0
 armrest, ˈɑːrmrest,0,0
 armrests, ˈɑːrmrest,1,0
 arms, ɑːrmz ɑrmz,0,0
-armstrong,,0,0
+armstrong,,0,1
 army, ˈɑːrmi ˈɑːrmi ˈɑːrmi ˈɑr·mi ˈɑr·mi,0,0
-arn,,0,0
-arnold, ˌɑːrnəld ˈpɑːlmɚ,1,0
+arn,,0,1
+arnold,,0,1
 aroma, əˈroʊmə əˈroʊ·mə,0,0
 aromas, əˈroʊmə əˈroʊ·mə,1,0
 aromatherapy, əˌroʊməˈθerəpi,0,0
@@ -313,7 +313,7 @@ arrangements, əˈreɪndʒmənt əˈreɪndʒmənt əˈreɪndʒmənt əˈreɪndʒ
 arranger, əˈreɪndʒɚ əˈreɪndʒɚ əˈreɪndʒɚ,0,0
 arranges, əˈreɪndʒ əˈreɪndʒ əˈreɪndʒ əˈreɪndʒ əˈreɪndʒ əˈreɪndʒ,1,0
 arranging, əˈreɪndʒ əˈreɪndʒ əˈreɪndʒ,1,0
-arrant, ˈerənt,1,0
+arrant,,0,1
 array, əˈreɪ əˈreɪ,1,0
 arrayed, əˈreɪd,0,0
 arrays, əˈreɪ əˈreɪ,1,0
@@ -359,8 +359,8 @@ arthritic, ɑːrˈθrɪt̬ɪk,0,0
 arthritis, ɑːrˈθraɪt̬əs ɑrˈθrɑɪ·t̬əs,0,0
 arthropod, ˈɑːrθrəpɑːd ˈɑr·θrəˌpɑd,0,0
 arthropods, ˈɑːrθrəpɑːd ˈɑr·θrəˌpɑd,1,0
-arthur,,0,0
-arthurian,,0,0
+arthur,,0,1
+arthurian,,0,1
 artichoke, ˈɑːrt̬ətʃoʊk ˈɑːrt̬ətʃoʊk ˈɑrt̬·ɪˌtʃoʊk,0,0
 artichokes, ˈɑːrt̬ətʃoʊk ˈɑːrt̬ətʃoʊk ˈɑrt̬·ɪˌtʃoʊk,1,0
 article, ˈɑːrt̬ɪkəl ˈɑːrt̬ɪkəl ˈɑːrt̬ɪkəl ˈɑːrt̬ɪkəl ˈɑrt̬·ɪ·kəl ˈɑrt̬·ɪ·kəl ˈɑrt̬·ɪ·kəl,1,0
@@ -384,20 +384,20 @@ artistic, ɑːrˈtɪstɪk ɑːrˈtɪstɪk ɑːrˈtɪstɪk ɑrˈtɪs·tɪk,0,0
 artistically, ɑːrˈtɪstɪkəli ɑːrˈtɪstɪkəli ɑːrˈtɪstɪkəli,0,0
 artistry, ˈɑːrt̬əstri ˈɑr·t̬ə·stri,0,0
 artists, ˈɑːrt̬ɪst ˈɑːrt̬ɪst ˈɑːrt̬ɪst ˈɑr·t̬ɪst ˈɑr·t̬ɪst,1,0
-arts, ɑrts,1,0
+arts, ɑrts,0,1
 artsy, ˈɑːrtsi,0,0
 artwork, ˈɑːrtwɝːk ˈɑrtˌwɜrk ˈɑrtˌwɜrk,0,0
 artworks, ˈɑːrtwɝːk ˈɑrtˌwɜrk ˈɑrtˌwɜrk,1,0
 arty, ˈɑːrt̬i ˈɑr·t̬i,0,0
-arx,,0,0
-ary,,0,0
+arx,,0,1
+ary,,0,1
 aryan, ˈeriən ˈeriən,1,0
 as," strong æz æz, əz",1,0
 asap," ˌeɪeseɪˈpiː ˌeɪˌesˌeɪˈpi, ˈeɪˌsæp",1,0
 asbestos," æsˈbestɑːs æsˈbes·təs, æz-",0,0
 ascend, əˈsend əˈsend əˈsend,0,0
 ascendancy, əˈsendənsi,0,0
-ascendant, əˈsendənt,1,0
+ascendant,,0,1
 ascended, əˈsend əˈsend,1,0
 ascending, əˈsendɪŋ əˈsendɪŋ,0,0
 ascends, əˈsend əˈsend əˈsend,1,0
@@ -407,19 +407,19 @@ ascertain, ˌæsɚˈteɪn ˌæsɚˈteɪn ˌæs·ərˈteɪn,0,0
 ascertained, ˌæsɚˈteɪn ˌæsɚˈteɪn,1,0
 ascertaining, ˌæsɚˈteɪn ˌæsɚˈteɪn,1,0
 ascetic, əˈset̬ɪk əˈset̬·ɪk,0,0
-ascorbic, əˌskɔːrbɪk ˈæsɪd,1,0
+ascorbic,,0,1
 ascot, ˈæskɑːt,0,0
-ascribe, əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb,1,0
-ascribed, əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb əˈskraɪb,1,0
+ascribe,,0,1
+ascribed,,0,1
 asexual, ˌeɪˈsekʃuəl ˌeɪˈsekʃuəl ˌeɪˈsekʃuəl,0,0
-asgard,,0,0
+asgard,,0,1
 ash, æʃ æʃ æʃ æʃ æʃ æʃ,0,0
 ashamed, əˈʃeɪmd əˈʃeɪmd,0,0
 ashen, ˈæʃən ˈæʃ·ən,0,0
-asher,,0,0
+asher,,0,1
 ashes, ˈæʃ·əz,1,0
 ashkenazi, ˌɑːʃkəˈnɑːzi,1,0
-ashman,,0,0
+ashman,,0,1
 ashore," əˈʃɔːr əˈʃɔr, əˈʃoʊr",0,0
 ashtray, ˈæʃtreɪ ˈæʃˌtreɪ,0,0
 ashtrays, ˈæʃtreɪ ˈæʃˌtreɪ,1,0
@@ -432,14 +432,14 @@ aside, əˈsaɪd əˈsɑɪd,0,0
 asides, əˈsaɪd əˈsaɪd əˈsaɪd əˈsaɪd əˈsɑɪd,1,0
 asinine, ˈæsənaɪn ˈæs·əˌnɑɪn,0,0
 ask, æsk æsk æsk æsk æsk æsk,1,0
-askance, əˈskæns,1,0
+askance,,0,1
 asked, æsk æsk æsk æsk æsk,1,0
-asker,,0,0
+asker,,0,1
 askew, əˈskjuː əˈskju,0,0
 asking, æsk æsk æsk æsk æsk,1,0
 asks, æsk æsk æsk æsk æsk æsk æsk,1,0
 asleep, əˈsliːp əˈsliːp əˈslip əˈslip,0,0
-asmodeus,,0,0
+asmodeus,,0,1
 asp, æsp,0,0
 asparagus, əˈsperəɡəs əˈspær·ə·ɡəs,0,0
 aspect, ˈæspekt ˈæspekt ˈæspekt ˈæspekt ˈæspekt ˈæs·pekt,0,0
@@ -463,7 +463,7 @@ aspire,,1,0
 aspired,,1,0
 aspires,,1,0
 aspirin," ˈæsprɪn ˈæs·prən, -pər·ən",0,0
-aspiring, əˈspaɪrɪŋ əˈspɑɪ·rɪŋ,1,0
+aspiring, əˈspɑɪ·rɪŋ,0,1
 ass, æs æs æs æs æs æs,0,0
 assail, əˈseɪl əˈseɪl əˈseɪl,0,0
 assailant, əˈseɪlənt əˈseɪ·lənt,0,0
@@ -481,4 +481,4 @@ assassins, əˈsæsən əˈsæs·ən,1,0
 assault, əˈsɑːlt əˈsɑːlt əˈsɔlt,0,0
 assaulted, əˈsɑːlt,1,0
 assaulting, əˈsɑːlt,1,0
-assaultive,,0,0
+assaultive,,0,1

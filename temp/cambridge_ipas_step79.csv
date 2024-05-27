@@ -3,12 +3,12 @@ schoolwork, ˈskuːlwɝːk ˈskulˌwɜrk,0,0
 schoolyard, ˈskuːljɑːrd,0,0
 schooner, ˈskuːnɚ ˈsku·nər,0,0
 schooners, ˈskuːnɚ ˈsku·nər,1,0
-schrank,,0,0
-schreiner,,0,0
+schrank,,0,1
+schreiner,,0,1
 schtick, ʃtɪk ʃtɪk,1,0
-schubert,,0,0
-schultz,,0,0
-schwarz,,0,0
+schubert,,0,1
+schultz,,0,1
+schwarz,,0,1
 sci,,1,0
 science, ˈsaɪəns ˈsaɪəns ˈsaɪəns ˈsɑɪ·əns ˈsɑɪ·əns ˈsɑɪ·əns,1,0
 sciences, ˈsaɪəns ˈsaɪəns ˈsaɪəns ˈsaɪəns ˈsɑɪ·əns ˈsɑɪ·əns ˈsɑɪ·əns,1,0
@@ -18,15 +18,15 @@ scientist, ˈsaɪəntɪst ˈsɑɪ·ən·tɪst,0,0
 scientists, ˈsaɪəntɪst ˈsɑɪ·ən·tɪst,1,0
 scientologist, ˌsaɪənˈtɑːlədʒɪst,1,0
 scientology, ˌsaɪənˈtɑːlədʒi,1,0
-scintilla, sɪnˈtɪlə,1,0
+scintilla,,0,1
 scion, ˈsaɪən ˈsɑɪ·ən,0,0
 scissor, ˈsɪzɚ,0,0
 scissors, ˈsɪzɚz ˈsɪz·ərz,0,0
-scleroderma,,0,0
+scleroderma,,0,1
 sclerosis, skləˈroʊsɪs skləˈroʊ·sɪs,0,0
 scoff," skɑːf skɑːf skɔf, skɑf",0,0
 scoffed, skɑːf skɑːf,1,0
-scofflaws,,0,0
+scofflaws,,0,1
 scoffs," skɑːf skɑːf skɔf, skɑf",1,0
 scold, skoʊld skoʊld,0,0
 scolded, skoʊld,1,0
@@ -48,7 +48,7 @@ scoots, skuːt skuːt skut skut,1,0
 scope, skoʊp skoʊp skoʊp skoʊp skoʊp,1,0
 scopes, skoʊp skoʊp  -skoʊp skoʊp skoʊp skoʊp,1,0
 scoping, skoʊp skoʊp  -skoʊp skoʊp skoʊp skoʊp,1,0
-scopolamine,,0,0
+scopolamine,,0,1
 scorch, skɔːrtʃ skɔːrtʃ skɔrtʃ,0,0
 scorched, skɔːrtʃt,0,0
 scorcher, ˈskɔːrtʃɚ ˈskɔr·tʃər,0,0
@@ -60,7 +60,7 @@ scorecards, ˈskɔːrkɑːrd,1,0
 scored, skɔːr skɔːr skɔːr skɔːr skɔːr skɔːr skɔːr skɔːr skɔːr skɔːr,1,0
 scorekeeper, ˈskɔːrkiːpɚ,0,0
 scorekeepers, ˈskɔːrkiːpɚ,1,0
-scorekeeping,,0,0
+scorekeeping,,0,1
 scoreless," ˈskɔːrləs ˈskɔr·ləs, ˈskoʊr-",0,0
 scorer," ˈskɔːrɚ ˈskɔːrɚ ˈskɔr·ər, ˈskoʊr-",0,0
 scorers," ˈskɔːrɚ ˈskɔːrɚ ˈskɔr·ər, ˈskoʊr-",1,0
@@ -76,11 +76,11 @@ scorpions, ˈskɔːrpiən ˈskɔr·pi·ən,1,0
 scot, skɑːt,1,0
 scotch, skɑːtʃ skɑtʃ,0,0
 scotches, skɑːtʃ skɑːtʃ skɑtʃ,1,0
-scotia, ˌnoʊvə ˈskoʊʃə,1,0
+scotia,,0,1
 scotland, ˈskɑːtlənd,1,0
 scots, skɑːts,1,0
 scotsman, ˈskɑːtsmən,1,0
-scott,,0,0
+scott,,0,1
 scottie, ˈskɑːt̬i,1,0
 scottish, ˈskɑːt̬ɪʃ,1,0
 scoundrel, ˈskaʊndrəl ˈskɑʊn·drəl,0,0
@@ -95,9 +95,9 @@ scours, ˈskaʊɚ ˈskaʊɚ ˈskaʊɚ skɑʊər skɑʊər,1,0
 scout, skaʊt skaʊt skɑʊt skɑʊt skɑʊt,0,0
 scouted, skaʊt,1,0
 scouting, ˈskaʊt̬ɪŋ,0,0
-scoutmaster, ˈskaʊt ˌliːdɚ,1,0
-scouts,,1,0
-scow,,0,0
+scoutmaster,,0,1
+scouts,,0,1
+scow,,0,1
 scowl, skaʊl skɑʊl,0,0
 scowling, ˈskaʊlɪŋ,0,0
 scrabble, ˈskræbəl ˈskræbəl ˈskræbəl ˈskræb·əl,0,0
@@ -172,7 +172,7 @@ scribes, skraɪb skraɪb skrɑɪb,1,0
 scrimmage, ˈskrɪmɪdʒ ˈskrɪmɪdʒ,0,0
 scrimp, skrɪmp skrɪmp,0,0
 scrimping, skrɪmp skrɪmp,1,0
-scrimshaw,,0,0
+scrimshaw,,0,1
 scrip, skrɪp,1,0
 script, skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt skrɪpt,1,0
 scripted, ˈskrɪptɪd ˈskrɪp·tɪd,0,0
@@ -207,9 +207,9 @@ scrutinize, ˈskruːt̬ənaɪz ˈskru·tənˌɑɪz,1,0
 scrutinized, ˈskruːt̬ənaɪz,1,0
 scrutinizing, ˈskruːt̬ənaɪz,1,0
 scrutiny, ˈskruːt̬əni ˈskru·tən·i,1,0
-scuba, ˈskuːbə ˌdaɪvɪŋ ˈsku·bə ˌdɑɪ·vɪŋ,1,0
+scuba,,0,1
 scud, skʌd,0,0
-scudder,,0,0
+scudder,,0,1
 scuds, skʌd,1,0
 scuff, skʌf skʌf skʌf skʌf skʌf,0,0
 scuffed, skʌft,0,0
@@ -242,12 +242,12 @@ scuttle, ˈskʌt̬əl ˈskʌt̬əl ˈskʌt̬əl ˈskʌt̬·əl ˈskʌt̬·əl ˈ
 scuttlebutt, ˈskʌt̬əlbʌt ˈskʌt̬·əlˌbʌt,0,0
 scuttled, ˈskʌt̬əl ˈskʌt̬əl ˈskʌt̬əl,1,0
 scuttling, ˈskʌt̬əl ˈskʌt̬əl ˈskʌt̬əl,1,0
-scylla,,0,0
+scylla,,0,1
 scythe, saɪð sɑɪð,0,0
-scythian,,0,0
+scythian,,0,1
 se,,1,0
 sea, siː siː si si,0,0
-seabed, ˈsiːbed ˈsiˌbed,1,0
+seabed, ˈsiˌbed,0,1
 seaboard," ˈsiːbɔːrd ˈsiˌbɔrd, -ˌboʊrd",0,0
 seaborne, ˈsiːbɔːrn,0,0
 seacoast, ˈsiːkoʊst ˈsi·koʊst,0,0
@@ -263,10 +263,10 @@ seal, siːl siːl siːl siːl sil sil sil sil,1,0
 sealant, ˈsiːlənt,0,0
 sealants, ˈsiːlənt,1,0
 sealed, siːld,0,0
-sealer,,0,0
+sealer,,0,1
 sealing, ˈsiːlɪŋ,0,0
 seals, siːl siːl siːl siːl siːl sil sil sil sil,1,0
-sealy,,0,0
+sealy,,0,1
 seam, siːm siːm siːm sim sim,0,0
 seaman, ˈsiːmən ˈsi·mən ˈsi·mən,0,0
 seamen, ˈsiːmən ˈsi·mən ˈsi·mən,1,0
@@ -282,8 +282,8 @@ seaports," ˈsiːpɔːrt ˈsiˌpɔrt, -ˌpoʊrt",1,0
 sear, sɪr sɪr sɪr sɪər,0,0
 search, sɝːtʃ sɝːtʃ sɝːtʃ sɝːtʃ sɜrtʃ,1,0
 searched, sɝːtʃ sɝːtʃ sɝːtʃ sɝːtʃ,1,0
-searcher,,0,0
-searchers,,0,0
+searcher,,0,1
+searchers,,0,1
 searches, sɝːtʃ sɝːtʃ sɝːtʃ sɝːtʃ sɝːtʃ sɜrtʃ,1,0
 searching, ˈsɝːtʃɪŋ ˈsɜr·tʃɪŋ,0,0
 searchlight, ˈsɝːtʃlaɪt ˈsɜrtʃˌlɑɪt,0,0
@@ -294,9 +294,9 @@ sears, sɪr sɪr sɪr sɪər,1,0
 seas, siː siː siː siː si si,1,0
 seashell, ˈsiːʃel ˈsiˌʃel,0,0
 seashells, ˈsiːʃel ˈsiˌʃel,1,0
-seashore," ˈsiːʃɔːr ˈsiˌʃɔr, -ˌʃoʊr",1,0
+seashore," ˈsiˌʃɔr, -ˌʃoʊr",0,1
 seasick, ˈsiːsɪk ˈsiˌsɪk,0,0
-seaside, ˈsiːsaɪd ˈsiˌsɑɪd,1,0
+seaside, ˈsiˌsɑɪd,0,1
 season, ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsi·zən ˈsi·zən,1,0
 seasonable, ˈsiːzənəbəl ˈsi·zə·nə·bəl,0,0
 seasonal, ˈsiːzənəl si·zə·nəl si·zə·nəl,1,0
@@ -306,19 +306,19 @@ seasoning, ˈsiːzənɪŋ ˈsi·zə·nɪŋ,0,0
 seasonings, ˈsiːzənɪŋ ˈsi·zə·nɪŋ,1,0
 seasons, ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsiːzən ˈsi·zən ˈsi·zən ˈsi·zən,1,0
 seat, siːt siːt siːt siːt siːt siːt siːt siːt sit sit sit sit,1,0
-seatbelt, ˈsiːt ˌbelt ˈsit ˌbelt,1,0
+seatbelt,,0,1
 seated, ˈsiːt̬ɪd,0,0
 seater,  -siːt̬ɚ,1,0
 seating, ˈsiːt̬ɚ ˈsiːt̬ɚ ˈsi·t̬ɪŋ,0,0
-seatings,,0,0
+seatings,,0,1
 seats, siːt siːt siːt siːt siːt siːt siːt siːt siːt  -siːt sit sit sit sit,1,0
 seattle, siˈæt̬əl,1,0
-seaward,,0,0
-seawater,,0,0
-seaway,,0,0
+seaward,,0,1
+seawater,,0,1
+seaway,,0,1
 seaweed, ˈsiːwiːd ˈsiˌwid,0,0
 seaworthy, ˈsiːˌwɝːði,0,0
-sebaceous, sɪˈbeɪʃəs ˌɡlænd,1,0
+sebaceous,,0,1
 sec, sek,1,0
 secede, sɪˈsiːd sɪˈsid,0,0
 seceded, sɪˈsiːd,1,0
@@ -361,7 +361,7 @@ sectors, ˈsektɚ ˈsektɚ ˈsek·tər ˈsek·tər,1,0
 sects, sekt sekt sekt,1,0
 secular, ˈsekjəlɚ ˈsek·jə·lər,0,0
 secularist, ˈsekjələrɪst,0,0
-secunda,,0,0
+secunda,,0,1
 secure, səˈkjʊr səˈkjʊr səˈkjʊr səˈkjʊr səˈkjʊr səˈkjʊr sɪˈkjʊər sɪˈkjʊər sɪˈkjʊər sɪˈkjʊər,1,0
 secured,,1,0
 securely, səˈkjʊrli səˈkjʊrli sɪˈkjʊər·li,0,0
@@ -378,7 +378,7 @@ sedating, səˈdeɪt,1,0
 sedation, səˈdeɪʃen,0,0
 sedative, ˈsedət̬ɪv ˈsed·ə·t̬ɪv,0,0
 sedentary, ˈsedənteri ˈsedənteri ˈsed·ənˌter·i,0,0
-seder,,0,0
+seder,,0,1
 sedge, sedʒ,0,0
 sediment, ˈsedəmənt ˈsed·ə·mənt,0,0
 sedimentary," ˌsedəˈment̬ɚi ˌsed·əˈmen·tə·ri, -ˈmen·tri",0,0
@@ -399,7 +399,7 @@ seeded, ˈsiːdɪd ˈsiːdɪd ˈsiːdɪd ˈsi·dɪd ˈsi·dɪd,0,0
 seeding, siːd siːd siːd siːd siːd siːd,1,0
 seedling, ˈsiːdlɪŋ,0,0
 seedlings, ˈsiːdlɪŋ,1,0
-seedpod, ˈsiːd ˌpɑːd,1,0
+seedpod,,0,1
 seeds, siːd siːd siːd siːd siːd siːd sid sid sid,1,0
 seedy, ˈsiːdi ˈsi·di,0,0
 seeing, siː siː siː siː siː siː siː siː siː siː siː si si si si si si si si,1,0
@@ -408,8 +408,8 @@ seeker, ˈsiːkɚ ˈsi·kər,1,0
 seekers, ˈsiːkɚ ˈsi·kər,1,0
 seeking,  -siːkɪŋ,1,0
 seeks, siːk siːk siːk sik sik sik,1,0
-seel,,0,0
-seeling,,0,0
+seel,,0,1
+seeling,,0,1
 seem, siːm sim,0,0
 seemed, siːm,1,0
 seeming, ˈsiːmɪŋ ˈsi·mɪŋ,0,0
@@ -427,7 +427,7 @@ sees, siː siː siː siː siː siː siː siː siː siː siː si si si si si si s
 seesaw, ˈsiːsɑː ˈsiˌsɔ,0,0
 seethe, siːð siːð siːð sið,0,0
 seething, ˈsiːðɪŋ ˈsiːðɪŋ,0,0
-sefton,,0,0
+sefton,,0,1
 segment, ˈseɡmənt ˈseɡmənt ˈseɡmənt ˈseɡmənt ˈseɡ·mənt ˈseɡ·mənt ˈseɡ·mənt ˈseɡ·mənt,1,0
 segmentation, ˌseɡmenˈteɪʃən ˌseɡmenˈteɪʃən,0,0
 segmented, ˈseɡment,1,0
@@ -436,11 +436,11 @@ segregate, ˈseɡrəɡeɪt ˈseɡrəɡeɪt ˈseɡrəɡeɪt ˈseɡ·rɪˌɡeɪt,0
 segregated, ˈseɡrəɡeɪt̬ɪd ˈseɡrəɡeɪt̬ɪd,0,0
 segregation, ˌseɡrəˈɡeɪʃən ˌseɡrəˈɡeɪʃən ˌseɡrəˈɡeɪʃən,0,0
 segue, ˈseɡweɪ,0,0
-seidel,,0,0
+seidel,,0,1
 seine, seɪn,0,0
-seis,,0,0
+seis,,0,1
 seismic, ˈsaɪzmɪk ˈsaɪzmɪk ˈsɑɪz·mɪk,0,0
-seismological,,0,0
+seismological,,0,1
 seismologist, saɪzˈmɑːlədʒɪst,0,0
 seismologists, saɪzˈmɑːlədʒɪst,1,0
 seismology, saɪzˈmɑːlədʒi,0,0
@@ -450,8 +450,8 @@ seizes, siːz siːz siːz siːz siz siz siz,1,0
 seizing, siːz siːz siːz siːz,1,0
 seizure, ˈsiːʒɚ ˈsiːʒɚ ˈsiːʒɚ ˈsi·ʒər ˈsi·ʒər,1,0
 seizures, ˈsiːʒɚ ˈsiːʒɚ ˈsiːʒɚ ˈsi·ʒər ˈsi·ʒər,1,0
-sel,,0,0
-selden,,0,0
+sel,,0,1
+selden,,0,1
 seldom, ˈseldəm ˈsel·dəm,0,0
 select, səˈlekt səˈlekt,1,0
 selected, səˈlekt,1,0
@@ -462,18 +462,18 @@ selective, səˈlekt̬ɪv səˈlekt̬ɪv səˈlek·tɪv,1,0
 selectively, səˈlekt̬ɪvli,0,0
 selectivity, səˌlekˈtɪvət̬i,0,0
 selects, səˈlekt səˈlekt,1,0
-selene,,0,0
-selenite,,0,0
+selene,,0,1
+selenite,,0,1
 selenium, səˈliːniəm səˈli·ni·əm,0,0
 self, self self self,1,0
 selfish, ˈselfɪʃ ˈsel·fɪʃ,0,0
 selfishness, ˈselfɪʃnəs,0,0
 selfless, ˈselfləs ˈself·ləs,0,0
 selflessness, ˈselfləsnəs,0,0
-selfs,,0,0
+selfs,,0,1
 sell, sel sel sel sel sel,1,0
-sella,,0,0
-selle,,0,0
+sella,,0,1
+selle,,0,1
 seller, ˈselɚ ˈselɚ ˈsel·ər ˈsel·ər,1,0
 sellers, ˈselɚ ˈselɚ ˈsel·ər ˈsel·ər,1,0
 selling,,1,0
@@ -481,4 +481,4 @@ sellout, ˈselaʊt ˈselaʊt ˈselˌɑʊt ˈselˌɑʊt,0,0
 sellouts, ˈselaʊt ˈselaʊt ˈselˌɑʊt ˈselˌɑʊt,1,0
 sells, sel sel sel sel sel,1,0
 seltzer, ˈseltsɚ ˈselt·sər,0,0
-selva,,0,0
+selva,,0,1

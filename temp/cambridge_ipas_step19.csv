@@ -8,9 +8,9 @@ computes, kəmˈpjuːt kəmˈpjut kəmˈpjuːt kəmˈpjuːt,1,0
 computing, kəmˈpjuːt̬ɪŋ kəmˈpju·t̬ɪŋ,1,0
 comrade, ˈkɑːmræd ˈkɑːmræd ˈkɑm·ræd,0,0
 comrades, ˈkɑːmræd ˈkɑːmræd ˈkɑm·ræd,1,0
-coms, ˈrɑːm kɑːm,1,0
-comsat,,0,0
-comstock,,0,0
+coms,,0,1
+comsat,,0,1
+comstock,,0,1
 con, kɑːn kɑn,1,0
 concatenate, kənˈkæt̬əneɪt,0,0
 concatenated, kənˈkæt̬əneɪt,1,0
@@ -106,7 +106,7 @@ condense, kənˈdens kənˈdens kənˈdens kənˈdens kənˈdens,0,0
 condensed, kənˈdenst kənˈdenst kənˈdenst kənˈdenst,0,0
 condenser, kənˈdensɚ,0,0
 condensing, kənˈdens kənˈdens kənˈdens,1,0
-condescend, ˌkɑːndəˈsend ˌkɑn·dəˈsend,1,0
+condescend, ˌkɑn·dəˈsend,0,1
 condescending, ˌkɑːndəˈsendɪŋ ˌkɑn·dəˈsen·dɪŋ,0,0
 condescension, ˌkɑːnˈdəsenʃən,0,0
 condiment, ˈkɑːndəmənt ˈkɑn·də·mənt,0,0
@@ -145,9 +145,9 @@ conducts, kənˈdʌkt kənˈdʌkt kənˈdʌkt kənˈdʌkt kənˈdʌkt kənˈdʌk
 conduit, ˈkɑːnduːɪt ˈkɑːnduːɪt ˈkɑːnduːɪt ˈkɑːnduː- ˈkɑːnduː- ˈkɑːnduː-,0,0
 conduits, ˈkɑːnduːɪt ˈkɑːnduːɪt ˈkɑːnduːɪt ˈkɑːnduː- ˈkɑːnduː- ˈkɑːnduː-,1,0
 cone, koʊn koʊn koʊn koʊn koʊn koʊn koʊn koʊn,0,0
-conehead,,0,0
+conehead,,0,1
 cones, koʊn koʊn koʊn koʊn koʊn koʊn koʊn koʊn,1,0
-conestoga,,0,0
+conestoga,,0,1
 coney, ˈkoʊni,0,0
 confabulation, kənfæbjəˈleɪʃən kənfæbjəˈleɪʃən kənfæbjəˈleɪʃən kənfæbjəˈleɪʃən,0,0
 confection, kənˈfekʃən kənˈfekʃən,0,0
@@ -214,10 +214,10 @@ conflicted, kənˈflɪktɪd,0,0
 conflicting, kənˈflɪktɪŋ,1,0
 conflicts, ˈkɑːnflɪkt ˈkɑːnflɪkt ˈkɑːnflɪkt ˈkɑːnflɪkt ˈkɑn·flɪkt ˈkɑn·flɪkt ˈkɑn·flɪkt ˈkɑn·flɪkt ˈkɑn·flɪkt,1,0
 confluence, ˈkɑːnfluːəns ˈkɑːnfluːəns,0,0
-confluent,,0,0
+confluent,,0,1
 conform, kənˈfɔːrm kənˈfɔːrm kənˈfɔrm,1,0
 conformance, kənˈfɔːrməns,0,0
-conformational,,0,0
+conformational,,0,1
 conformed, kənˈfɔːrm kənˈfɔːrm,1,0
 conforming, kənˈfɔːrm kənˈfɔːrm,1,0
 conformist, kənˈfɔːrmɪst kənˈfɔr·mɪst,0,0
@@ -227,8 +227,8 @@ confound," kənˈfaʊnd kənˈfaʊnd kənˈfɑʊnd, kɑn-",0,0
 confounded, kənˈfaʊndɪd,0,0
 confounding, kənˈfaʊnd,1,0
 confounds," kənˈfaʊnd kənˈfaʊnd kənˈfɑʊnd, kɑn-",1,0
-confrere,,0,0
-confreres,,0,0
+confrere,,0,1
+confreres,,0,1
 confront, kənˈfrʌnt kənˈfrʌnt kənˈfrʌnt,0,0
 confrontation, ˌkɑːnfrənˈteɪʃən ˌkɑn·frənˈteɪ·ʃən,1,0
 confrontational, ˌkɑːnfrənˈteɪʃənəl,1,0
@@ -245,14 +245,14 @@ confuses, kənˈfjuːz kənˈfjuːz kənˈfjuz kənˈfjuz,1,0
 confusing, kənˈfjuːzɪŋ,0,0
 confusion, kənˈfjuːʒən kənˈfjuːʒən kənˈfju·ʒən,0,0
 confusions, kənˈfjuːʒən kənˈfjuːʒən kənˈfju·ʒən,1,0
-cong,,0,0
+cong,,0,1
 conga, ˈkɑːŋɡə ˈkɑːŋɡə,0,0
 congeal, kənˈdʒiːl kənˈdʒil,0,0
 congealed, kənˈdʒiːld,0,0
 congenial, kənˈdʒiːniəl kənˈdʒin·jəl,0,0
 congeniality, kənˌdʒiːniˈælət̬i,0,0
 congenital, kənˈdʒenət̬əl kənˈdʒenət̬əl kənˈdʒen·ɪ·t̬əl,0,0
-conger, ˌkɑŋɡɚ ˈiːl,1,0
+conger,,0,1
 congest, kənˈdʒest,0,0
 congested, kənˈdʒestɪd kənˈdʒestɪd kənˈdʒestɪd kənˈdʒestɪd kənˈdʒes·tɪd kənˈdʒes·tɪd,0,0
 congestion, kənˈdʒestʃən kənˈdʒestʃən kənˈdʒestʃən kənˈdʒestʃən,0,0
@@ -260,7 +260,7 @@ congestive, kənˈdʒəstɪv,0,0
 conglomerate, kənˈɡlɑːmɚət kənˈɡlɑːmɚət kənˈɡlɑm·ər·ət,1,0
 conglomerates, kənˈɡlɑːmɚət kənˈɡlɑːmɚət kənˈɡlɑm·ər·ət,1,0
 conglomeration, kənˌɡlɑːmɚˈeɪʃən kənˌɡlɑm·əˈreɪ·ʃən,0,0
-congo, ˈkɑːŋɡoʊ ˈkɑːŋɡoʊ ˈkɑːŋɡoʊ,1,0
+congo,,0,1
 congolese, ˌkɑːŋɡəˈliːz,1,0
 congrats, kənˈɡræts,0,0
 congratulate," kənˈɡrætʃəleɪt kənˈɡrætʃ·əˌleɪt, -ˈɡrædʒ-",0,0
@@ -269,7 +269,7 @@ congratulating, kənˈɡrætʃəleɪt,1,0
 congratulation, kənˌɡrætʃəˈleɪʃən,0,0
 congratulations," kənˌɡrætʃ·əˈleɪ·ʃənz, -ˌɡrædʒ-",1,0
 congratulatory, kənˈɡrætʃələtɔːri,0,0
-congregants,,0,0
+congregants,,0,1
 congregate, ˈkɑːŋɡrəɡeɪt ˈkɑŋ·ɡrɪˌɡeɪt,0,0
 congregated, ˈkɑːŋɡrəɡeɪt,1,0
 congregation, ˌkɑːŋɡrəˈɡeɪʃən ˌkɑŋ·ɡrɪˈɡeɪ·ʃən,0,0
@@ -299,7 +299,7 @@ conjures, ˈkʌndʒɚ ˈkɑn·dʒər,1,0
 conjuring, ˈkʌndʒɚ ˈkɑn·dʒər,1,0
 conjuror, ˈkʌndʒɚɚ,1,0
 conk," kɑːŋk kɑŋk, kɔŋk",0,0
-conn,,0,0
+conn,,0,1
 connect, kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt,1,0
 connected, kəˈnektɪd kəˈnektɪd kəˈnektɪd kəˈnektɪd kəˈnek·tɪd kəˈnek·tɪd kəˈnek·tɪd,0,0
 connecticut, kəˈnet̬ɪkət,1,0
@@ -311,12 +311,12 @@ connectivity, ˌkɑːnekˈtɪvət̬i,1,0
 connector, kəˈnektɚ kəˈnektɚ,0,0
 connects, kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt kəˈnekt,1,0
 conned,,1,0
-conner,,0,0
-conners,,0,0
-connexions,,0,0
-connie,,0,0
+conner,,0,1
+conners,,0,1
+connexions,,0,1
+connie,,0,1
 conning,,1,0
-conniption, kəˈnɪpʃən,1,0
+conniption,,0,1
 connivance, kəˈnaɪvəns,0,0
 connive, kəˈnaɪv kəˈnaɪv,0,0
 conniving, kəˈnaɪvɪŋ kəˈnɑɪ·vɪŋ,0,0
@@ -383,20 +383,20 @@ considerably, kənˈsɪdɚəbli,0,0
 considerate, kənˈsɪdɚət kənˈsɪd·ər·ət,0,0
 consideration, kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪd·əˈreɪ·ʃən kənˌsɪd·əˈreɪ·ʃən,1,0
 considerations, kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪdəˈreɪʃən kənˌsɪd·əˈreɪ·ʃən kənˌsɪd·əˈreɪ·ʃən,1,0
-considered, kənˈsɪdɚd,1,0
+considered,,0,1
 considering, kənˈsɪdɚɪŋ kənˈsɪd·ər·ɪŋ,0,0
 considers, kənˈsɪdɚ kənˈsɪdɚ kənˈsɪdɚ kənˈsɪdɚ kənˈsɪdɚ kənˈsɪd·ər kənˈsɪd·ər kənˈsɪd·ər,1,0
 consign, kənˈsaɪn kənˈsɑɪn,1,0
 consigned, kənˈsaɪn,1,0
 consignment, kənˈsaɪnmənt kənˈsɑɪn·mənt kənˈsɑɪn·mənt,1,0
-consist, kənˈsɪst kənˈsɪst,1,0
-consisted, kənˈsɪst kənˈsɪst,1,0
+consist,,0,1
+consisted,,0,1
 consistence, kənˈsɪstənsi kənˈsɪstənsi kənˈsɪs·tən·si kənˈsɪs·tən·si,1,0
 consistency, kənˈsɪstənsi kənˈsɪstənsi kənˈsɪs·tən·si kənˈsɪs·tən·si,0,0
 consistent, kənˈsɪstənt kənˈsɪstənt kənˈsɪs·tənt kənˈsɪs·tənt,0,0
 consistently, kənˈsɪstəntli kənˈsɪs·tənt·li,0,0
-consisting, kənˈsɪst kənˈsɪst,1,0
-consists, kənˈsɪst kənˈsɪst,1,0
+consisting,,0,1
+consists,,0,1
 consolation, ˌkɑːnsəˈleɪʃən ˌkɑn·sə'leɪ·ʃən,0,0
 consolations, ˌkɑːnsəˈleɪʃən ˌkɑn·sə'leɪ·ʃən,1,0
 console, kənˈsoʊl kənˈsoʊl,0,0
@@ -428,7 +428,7 @@ conspiring, kənˈspaɪr,1,0
 constable, ˈkɑːnstəbəl ˈkɑn·stə·bəl,0,0
 constables, ˈkɑːnstəbəl ˈkɑn·stə·bəl,1,0
 constabulary, kənˈstæbjeleri,0,0
-constance,,0,0
+constance,,0,1
 constancy, ˈkɑːnstənsi ˈkɑːnstənsi,0,0
 constant, ˈkɑːnstənt ˈkɑːnstənt ˈkɑːnstənt ˈkɑn·stənt ˈkɑn·stənt,0,0
 constantinople, ˌkɑːnstæntənˈoʊpəl,1,0
@@ -474,8 +474,8 @@ constructively, kənˈstrʌkt̬ɪvli,0,0
 constructor, kənˈstrʌkt̬ɚ,0,0
 constructors, kənˈstrʌkt̬ɚ,1,0
 constructs, kənˈstrʌkt kənˈstrʌkt kənˈstrʌkt,1,0
-construe, kənˈstruː kənˈstru,1,0
-construed, kənˈstruː kənˈstru,1,0
+construe, kənˈstru,0,1
+construed,,0,1
 consul, ˈkɑːnsəl ˈkɑn·səl,1,0
 consular, ˈkɑːnsjəlɚ,0,0
 consulate, ˈkɑːnsjələt ˈkɑn·sə·lət,1,0

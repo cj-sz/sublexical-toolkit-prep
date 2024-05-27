@@ -27,7 +27,7 @@ reportedly," rɪˈpɔːrt̬ɪdli rɪˈpɔr·t̬ɪd·li, -ˈpoʊr-",0,0
 reporter," rɪˈpɔːrt̬ɚ rɪˈpɔr·t̬ər, -ˈpoʊr·t̬ər",0,0
 reporters," rɪˈpɔːrt̬ɚ rɪˈpɔr·t̬ər, -ˈpoʊr·t̬ər",1,0
 reporting, rɪˈpɔːrt̬ɪŋ rɪˈpɔːrt̬ɪŋ rɪˈpɔːrt̬ɪŋ,0,0
-reportorial,,0,0
+reportorial,,0,1
 reports,,1,0
 repose, rɪˈpoʊz,0,0
 reposition, ˌriːpəˈzɪʃən ˌriːpəˈzɪʃən,1,0
@@ -53,7 +53,7 @@ repress, rɪˈpres rɪˈpres rɪˈpres,0,0
 repressed, rɪˈprest,0,0
 repressing, rɪˈpres rɪˈpres,1,0
 repression, rɪˈpreʃən rɪˈpreʃən,0,0
-repressions,,0,0
+repressions,,0,1
 repressive, rɪˈpresɪv rɪˈpresɪv,0,0
 repricing,,1,0
 reprieve, rɪˈpriːv rɪˈpriːv rɪˈpriv rɪˈpriv,0,0
@@ -78,16 +78,16 @@ reproducing, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs,1,0
 reproduction, ˌriːprəˈdʌkʃən ˌriːprəˈdʌkʃən ˌri·prəˈdʌk·ʃən,1,0
 reproductions, ˌriːprəˈdʌkʃən ˌriːprəˈdʌkʃən ˌri·prəˈdʌk·ʃən,1,0
 reproductive, ˌriːprəˈdʌkt̬ɪv ˌri·prəˈdʌk·tɪv,0,0
-reprogram,,0,0
-reprogrammed,,0,0
-reprogramming,,0,0
+reprogram,,0,1
+reprogrammed,,0,1
+reprogramming,,0,1
 reps, rep rep rep rep rep rep rep,1,0
 reptile," ˈreptaɪl ˈrep·təl, -tɑɪl",0,0
 reptiles," ˈreptaɪl ˈrep·təl, -tɑɪl",1,0
 reptilian, repˈtɪliən repˈtɪliən,0,0
-reptilians,,0,0
+reptilians,,0,1
 republic, rəˈpʌblɪk rɪˈpʌb·lɪk,1,0
-republica,,0,0
+republica,,0,1
 republican, rəˈpʌblɪkən rɪˈpʌb·lɪ·kən,1,0
 republicans, rəˈpʌblɪkən rəˈpʌblɪkən rəˈpʌblɪkən rɪˈpʌb·lɪ·kən,1,0
 republics, rəˈpʌblɪk rɪˈpʌb·lɪk,1,0
@@ -106,7 +106,7 @@ repurchasing,,1,0
 reputable, ˈrepjət̬əbəl ˈrep·jə·t̬ə·bəl,1,0
 reputation, ˌrepjəˈteɪʃən ˌrep·jəˈteɪ·ʃən,1,0
 reputations, ˌrepjəˈteɪʃən ˌrep·jəˈteɪ·ʃən,1,0
-repute, rɪˈpjuːt,1,0
+repute,,0,1
 reputed, rɪˈpjuːt̬ɪd rɪˈpjuːt̬ɪd rɪˈpju·t̬ɪd,0,0
 reputedly, rɪˈpjuːt̬ɪdli,0,0
 request, rɪˈkwest rɪˈkwest rɪˈkwest,1,0
@@ -131,7 +131,7 @@ rerouted, ˌriːˈraʊt,1,0
 rerouting, ˌriːˈraʊt,1,0
 rerun, ˌriːˈrʌn riˈrʌn,0,0
 reruns, ˌriːˈrʌn riˈrʌn,1,0
-res, ˌdez ˈrez,1,0
+res,,0,1
 resale, ˈriːˌseɪl,0,0
 reschedule," ˌriːˈskedʒuːl ˌriːˈskedʒuːl riˈskedʒ·ul, -ʊl, -u·əl riːˈskedʒuːl riːˈskedʒuːl",0,0
 rescheduled, ˌriːˈskedʒuːl ˌriːˈskedʒuːl,1,0
@@ -154,8 +154,8 @@ researcher, ˈriːsɝːtʃɚ,1,0
 researchers, ˈriːsɝːtʃɚ,1,0
 researches," ˈriːsɝːtʃ ˈri·sɜrtʃ, rɪˈsɜrtʃ",1,0
 researching, ˈriːsɝːtʃ,1,0
-reseda,,0,0
-reseed,,0,0
+reseda,,0,1
+reseed,,0,1
 resell, ˌriːˈsel riˈsel ˌriːˈsel,0,0
 reselling, ˌriːˈsel riˈsel ˌriːˈsel,1,0
 resemblance, rɪˈzembləns,0,0
@@ -175,7 +175,7 @@ reservation, ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈv
 reservations, ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən,1,0
 reserve, rɪˈzɝːv rɪˈzɝːv rɪˈzɜrv rɪˈzɜrv,1,0
 reserved, rɪˈzɝːvd rɪˈzɝːvd rɪˈzɜrvd,0,0
-reserves,,1,0
+reserves,,0,1
 reserving, rɪˈzɝːv rɪˈzɝːv,1,0
 reservist, rɪˈzɝːvɪst,0,0
 reservists, rɪˈzɝːvɪst,1,0
@@ -215,7 +215,7 @@ resilience, rɪˈzɪljəns rɪˈzɪljəns rɪˈzɪljəns,0,0
 resiliency, rɪˈzɪljəns rɪˈzɪljəns rɪˈzɪljəns,1,0
 resilient, rɪˈzɪljənt rɪˈzɪljənt rɪˈzɪl·jənt rɪˈzɪljənt,0,0
 resin, ˈrezɪn ˈrez·ɪn,0,0
-resins, ɪˌpɑːksi ˈrezɪn,1,0
+resins,,0,1
 resist, rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst,1,0
 resistance, rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪs·təns,1,0
 resistant, rɪˈzɪstənt rɪˈzɪstənt rɪˈzɪs·tənt,0,0
@@ -239,8 +239,8 @@ resonated, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,1,0
 resonates, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrez·əˌneɪt ˈrez·əˌneɪt,1,0
 resonating, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,1,0
 resort, rɪˈzɔːrt rɪˈzɔːrt rɪˈzɔrt,1,0
-resorted, rɪˈzɔːrt rɪˈzɔːrt,1,0
-resorting, rɪˈzɔːrt rɪˈzɔːrt,1,0
+resorted,,0,1
+resorting,,0,1
 resorts, rɪˈzɔːrt rɪˈzɔːrt rɪˈzɔrt,1,0
 resound, rɪˈzaʊnd rɪˈzɑʊnd,0,0
 resounding, rɪˈzaʊndɪŋ rɪˈzaʊndɪŋ rɪˈzɑʊn·dɪŋ,0,0
@@ -277,7 +277,7 @@ response, rɪˈspɑːns rɪˈspɑːns rɪˈspɑns rɪˈspɑns,1,0
 responses, rɪˈspɑːns rɪˈspɑːns rɪˈspɑns rɪˈspɑns,1,0
 responsibilities, rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i,1,0
 responsibility, rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i,1,0
-responsible, rɪˈspɑːnsəbəl rɪˈspɑːnsəbəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl,1,0
+responsible, rɪˈspɑːnsəbəl rɪˈspɑːnsəbəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl,0,1
 responsibly, rɪˈspɑːnsəbli rɪˈspɑn·sə·bli,0,0
 responsive, rɪˈspɑːnsɪv rɪˈspɑːnsɪv rɪˈspɑn·sɪv,1,0
 responsiveness, rɪˈspɑːnsɪvnəs rɪˈspɑːnsɪvnəs,1,0
@@ -293,12 +293,12 @@ restatement, ˌriːˈsteɪtmənt,0,0
 restates, ˌriːˈsteɪt ˌriːˈsteɪt,1,0
 restating, ˌriːˈsteɪt,1,0
 restaurant," ˈrestərɑːnt ˈres·tər·ənt, -təˌrɑnt",1,0
-restauranteur,,0,0
+restauranteur,,0,1
 restaurants," ˈrestərɑːnt ˈres·tər·ənt, -təˌrɑnt",1,0
 restaurateur, ˌrestɚəˈtɝː ˌres·tə·rəˈtɜr,0,0
 restaurateurs, ˌrestɚəˈtɝː ˌres·tə·rəˈtɜr,1,0
 rested, ˈrestɪd,0,0
-rester,,0,0
+rester,,0,1
 restful, ˈrestfəl ˈrest·fəl,0,0
 resting, rest rest rest rest rest,1,0
 restitution, ˌrestəˈtuːʃən ˌrestəˈtuːʃən ˌres·tɪˈtu·ʃən ˌrestɪˈtuːʃən ˌrestɪˈtuːʃən,0,0
@@ -336,7 +336,7 @@ restructuring, ˌriːˈstrʌktʃɚɪŋ,1,0
 rests, rest rest rest rest rest rest rest rest rest rest rest rest rest,1,0
 restyled,,1,0
 resubmit, ˌriːsəbˈmɪt,0,0
-resubmitted,,0,0
+resubmitted,,0,1
 result, rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt,1,0
 resultant, rɪˈzʌltənt rɪˈzʌl·tənt,0,0
 resulted, rɪˈzʌlt,1,0
@@ -352,7 +352,7 @@ resurface, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːf�
 resurfaced, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,1,0
 resurfacing, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,1,0
 resurgence, rɪˈsɝːdʒəns rɪˈsɜr·dʒəns,1,0
-resurging,,0,0
+resurging,,0,1
 resurrect, ˌrezəˈrekt ˌrezəˈrekt ˌrez·əˈrekt,0,0
 resurrected, ˌrezəˈrekt ˌrezəˈrekt,1,0
 resurrecting, ˌrezəˈrekt ˌrezəˈrekt,1,0
@@ -361,7 +361,7 @@ resuscitate, rɪˈsʌsəteɪt rɪˈsʌs·ɪˌteɪt,0,0
 resuscitated, rɪˈsʌsəteɪt,1,0
 resuscitating, rɪˈsʌsəteɪt,1,0
 resuscitation, rɪˌsʌsəˈteɪʃən rɪˌsʌsəˈteɪʃən,0,0
-ret,,0,0
+ret,,0,1
 retail, ˈriːteɪl ˈri·teɪl,1,0
 retailer, ˈriːteɪlɚ,1,0
 retailers, ˈriːteɪlɚ,1,0
@@ -388,7 +388,7 @@ retarded, rɪˈtɑːrdɪd rɪˈtɑr·dɪd,0,0
 retarding, rɪˈtɑːrd,1,0
 retards, rɪˈtɑːrd rɪˈtɑrd,1,0
 retell, ˌriːˈtel ˌriːˈtel,0,0
-retelling,,0,0
+retelling,,0,1
 retention, rɪˈtenʃən rɪˈten·ʃən,1,0
 retest,,1,0
 retested,,1,0
@@ -400,7 +400,7 @@ reticence, ˈret̬əsəns,0,0
 reticent, ˈret̬əsənt ˈret̬·ə·sənt,0,0
 retina, ˈretənə ˈret·ə·nə,0,0
 retinal, ˈretənəl,0,0
-retinoblastoma,,0,0
+retinoblastoma,,0,1
 retire, rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtɑɪər rɪˈtɑɪər rɪˈtɑɪər,1,0
 retired, rɪˈtaɪrd,1,0
 retiree, rɪˈtaɪriː rɪtaɪˈriː,0,0
@@ -451,10 +451,10 @@ retro, ˈretroʊ ˈre·troʊ,1,0
 retroactive, ˌretroʊˈæktɪv ˌre·troʊˈæk·tɪv,1,0
 retroactively, ˌretroʊˈæktɪvli,1,0
 retrofit, ˈretrəfɪt,1,0
-retrofitted,,0,0
+retrofitted,,0,1
 retrofitting,,1,0
 retrograde, ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd,0,0
-retrospect, ˈretrəspekt ˈre·trəˌspekt,1,0
+retrospect, ˈre·trəˌspekt,0,1
 retrospective, ˌretrəˈspektɪv ˌre·trəˈspek·tɪv ˌretrəˈspektɪv,0,0
 retrovirus, ˌretroʊˈvaɪrəs,0,0
 retroviruses, ˌretroʊˈvaɪrəs,1,0

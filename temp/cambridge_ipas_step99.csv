@@ -23,48 +23,48 @@ whisky, ˈwɪski,0,0
 whisper," ˈwɪspɚ ˈwɪspɚ ˈhwɪs·pər, ˈwɪs-",0,0
 whispered, ˈwɪspɚ ˈwɪspɚ,1,0
 whisperer, ˈwɪspɚɚ ˈwɪspɚɚ ˈwɪspɚɚ,0,0
-whisperers,,0,0
+whisperers,,0,1
 whispering, ˈwɪspɚ ˈwɪspɚ,1,0
 whispers," ˈwɪspɚ ˈwɪspɚ ˈhwɪs·pər, ˈwɪs-",1,0
 whistle," ˈwɪsəl ˈwɪsəl ˈwɪsəl ˈhwɪs·əl, ˈwɪs-",0,0
 whistled, ˈwɪsəl ˈwɪsəl ˈwɪsəl,1,0
-whistler,,0,0
-whistlers,,0,0
+whistler,,0,1
+whistlers,,0,1
 whistles," ˈwɪsəl ˈwɪsəl ˈwɪsəl ˈhwɪs·əl, ˈwɪs-",1,0
 whistling, ˈwɪsəl ˈwɪsəl ˈwɪsəl,1,0
-whit, wɪt,1,0
+whit,,0,1
 white," waɪt waɪt waɪt waɪt waɪt hwɑɪt, wɑɪt hwɑɪt, wɑɪt",0,0
-whited,,0,0
+whited,,0,1
 whitefish, ˈwaɪtfɪʃ,0,0
 whitehall,,1,0
-whitehead,,0,0
-whitely,,0,0
+whitehead,,0,1
+whitely,,0,1
 whiten," ˈwaɪt̬ən ˈhwɑɪ·tən, ˈwɑɪ-",0,0
 whiteness, ˈwaɪtnəs,0,0
 whitening, ˈwaɪt̬ənɪŋ,0,0
 whiter," waɪt waɪt waɪt waɪt waɪt waɪt waɪt waɪt hwɑɪt, wɑɪt hwɑɪt, wɑɪt",1,0
 whites,,1,0
 whitest," waɪt waɪt waɪt waɪt waɪt waɪt waɪt waɪt hwɑɪt, wɑɪt hwɑɪt, wɑɪt",1,0
-whitestone,,0,0
-whitetail,,0,0
+whitestone,,0,1
+whitetail,,0,1
 whitewash," ˈwaɪtwɑːʃ ˈwaɪtwɑːʃ ˈwaɪtwɑːʃ ˈhwɑɪtˌwɑʃ, ˈwɑɪt-, -ˌwɔʃ ˈhwɑɪtˌwɑʃ, ˈwɑɪt-, -ˌwɔʃ",0,0
 whitewashed, ˈwaɪtwɑːʃ ˈwaɪtwɑːʃ ˈwaɪtwɑːʃ,1,0
 whitewater, ˈwaɪtwɑːt̬ɚ,0,0
 whitey, ˈwaɪt̬i,0,0
-whitfield,,0,0
+whitfield,,0,1
 whither, ˈwɪðɚ,0,0
 whiting, ˈwaɪt̬ɪŋ,0,0
 whitish, ˈwaɪt̬ɪʃ,0,0
-whitlow,,0,0
-whitman,,0,0
-whitney,,0,0
+whitlow,,0,1
+whitman,,0,1
+whitney,,0,1
 whittle," ˈwɪt̬əl ˈhwɪt̬·əl, ˈwɪt̬-",0,0
 whittled, ˈwɪt̬əl,1,0
 whittling, ˈwɪt̬əl,1,0
-whitworth,,0,0
+whitworth,,0,1
 whiz," wɪz hwɪz, wɪz",0,0
 whizzed, wɪz,1,0
-whizzer,,0,0
+whizzer,,0,1
 whizzes," wɪz hwɪz, wɪz",1,0
 whizzing, wɪz,1,0
 who, huː huː huː hu hu,0,0
@@ -79,14 +79,14 @@ wholeness, ˈhoʊlnəs,0,0
 wholesale, ˈhoʊlseɪl ˈhoʊlseɪl ˈhoʊlˌseɪl,1,0
 wholesaler, ˈhoʊlˌseɪlɚ,1,0
 wholesalers, ˈhoʊlˌseɪlɚ,1,0
-wholesales,,0,0
+wholesales,,0,1
 wholesome, ˈhoʊlsəm ˈhoʊl·səm,0,0
 wholesomeness, ˈhoʊlsəmnəs,0,0
 wholly, ˈhoʊlli ˈhoʊl·li,0,0
 whom, huːm hum hum,0,0
 whomever, huːˈmevɚ humˈev·ər,0,0
-whomsoever,,0,0
-whoo, tʊˌwɪt tʊˈwuː,1,0
+whomsoever,,0,1
+whoo,,0,1
 whoop," wuːp hwup, wup, hwʊp, wʊp",0,0
 whooped, wuːp,1,0
 whoopee, ˈwuːpi,0,0
@@ -104,20 +104,20 @@ whorls, wɝːl,1,0
 whose, huːz huz huz,0,0
 whosoever, ˌhuːsoʊˈevɚ,0,0
 why," waɪ wɑɪ, hwɑɪ",0,0
-whys,,1,0
+whys,,0,1
 wicca, ˈwɪkə,1,0
-wich,,0,0
-wichita,,0,0
+wich,,0,1
+wichita,,0,1
 wick, wɪk wɪk,0,0
 wicked, ˈwɪkɪd ˈwɪkɪd ˈwɪkɪd ˈwɪk·ɪd ˈwɪk·ɪd ˈwɪk·ɪd,0,0
 wickedly, ˈwɪkɪdli ˈwɪkɪdli ˈwɪkɪdli,0,0
 wickedness, ˈwɪkɪdnəs,0,0
 wicker, ˈwɪkɚ ˈwɪk·ər,0,0
-wickers,,0,0
+wickers,,0,1
 wicket, ˈwɪkɪt ˈwɪkɪt ˈwɪkɪt,0,0
 wickets, ˈwɪkɪt ˈwɪkɪt ˈwɪkɪt ˈwɪkɪt ˈwɪkɪt,1,0
 wicks, wɪk wɪk,1,0
-widdle,,0,0
+widdle,,0,1
 wide, waɪd waɪd waɪd wɑɪd wɑɪd wɑɪd,0,0
 widely, ˈwaɪdli ˈwɑɪd·li,0,0
 widen, ˈwaɪdən ˈwaɪdən ˈwɑɪ·dən ˈwɑɪ·dən,0,0
@@ -143,7 +143,7 @@ wiener, ˈwiːnɚ,0,0
 wieners, ˈwiːnɚ,1,0
 wife, waɪf wɑɪf,0,0
 wig, wɪɡ wɪɡ,0,0
-wigger,,0,0
+wigger,,0,1
 wiggle, ˈwɪɡəl ˈwɪɡ·əl,0,0
 wiggling, ˈwɪɡəl,1,0
 wiggly, ˈwɪɡəli,0,0
@@ -151,44 +151,44 @@ wight, waɪt,0,0
 wigs, wɪɡ wɪɡ,1,0
 wigwam, ˈwɪɡwæm ˈwɪɡwæm ˈwɪɡ·wɑm,0,0
 wiki, ˈwɪki ˈwɪk·i,1,0
-wilcoxon,,0,0
+wilcoxon,,0,1
 wild, waɪld waɪld waɪld waɪld wɑɪld,0,0
-wildcard, ˈwaɪld ˌkɑːrd ˈwaɪld ˌkɑːrd ˈwaɪld ˌkɑːrd ˈwaɪld ˌkɑːrd ˈwɑɪld ˌkɑrd ˈwɑɪld ˌkɑrd,1,0
+wildcard,,0,1
 wildcat, ˈwaɪldˌkæt,1,0
 wildcats, ˈwaɪldˌkæt,1,0
 wildcatter, ˈwaɪldˌkæt,1,0
-wildcatters,,0,0
-wildcatting,,0,0
+wildcatters,,0,1
+wildcatting,,0,1
 wilder, waɪld waɪld waɪld waɪld waɪld waɪld waɪld wɑɪld,1,0
 wilderness, ˈwɪldɚnəs ˈwɪldɚnəs ˈwɪl·dər·nəs,1,0
 wildest, waɪld waɪld waɪld waɪld waɪld waɪld waɪld wɑɪld,1,0
 wildfire, ˈwaɪldfaɪr ˈwɑɪld·fɑɪər,0,0
 wildflower," ˈwaɪldˌflaʊɚ ˈwɑɪldˌflɑʊ·ər, -ˌflɑʊər",0,0
 wildflowers," ˈwaɪldˌflaʊɚ ˈwɑɪldˌflɑʊ·ər, -ˌflɑʊər",1,0
-wilding,,0,0
+wilding,,0,1
 wildlife, ˈwaɪldlaɪf ˈwɑɪld·lɑɪf,0,0
 wildly, ˈwaɪldli ˈwɑɪld·li,0,0
 wildness, ˈwaɪldnəs ˈwaɪldnəs,0,0
-wilds,,1,0
-wildwood,,0,0
-wile,,0,0
+wilds,,0,1
+wildwood,,0,1
+wile,,0,1
 wiles, waɪlz wɑɪlz,0,0
 wilfully, ˈwɪlfəli,0,0
-wiling,,0,0
-wilk,,0,0
+wiling,,0,1
+wilk,,0,1
 will," wɪl wɪl wɪl wɪl wɪl wɪl wɪl wɪl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl",1,0
 willed, wɪl wɪl wɪl,1,0
-willer,,0,0
-willers,,0,0
-willes,,0,0
-willet,,0,0
-willets,,0,0
-willey,,0,0
+willer,,0,1
+willers,,0,1
+willes,,0,1
+willet,,0,1
+willets,,0,1
+willey,,0,1
 willful, ˈwɪlfəl ˈwɪl·fəl,0,0
 willfully, ˈwɪlfəli,0,0
-willi,,0,0
-william, ˌswiːt ˈwɪljəm,1,0
-williams, ˌswiːt ˈwɪljəm,1,0
+willi,,0,1
+william,,0,1
+williams,,0,1
 willie, ˈwɪli,0,0
 willing, ˈwɪlɪŋ ˈwɪl·ɪŋ,0,0
 willingly, ˈwɪlɪŋli ˈwɪl·ɪŋ·li,0,0
@@ -199,11 +199,11 @@ willowy, ˈwɪloʊi ˈwɪl·oʊ·i,0,0
 willpower, ˈwɪlpaʊɚ ˈwɪlˌpɑʊ·ər,0,0
 wills," wɪl wɪl wɪl wɪl wɪl wɪl wɪl wɪl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl wɪl, wəl",1,0
 willy, ˈwɪli,0,0
-wilson, ˈwɪlsənz dɪˌziːz,1,0
+wilson,,0,1
 wilt, wɪlt wɪlt,0,0
 wilted, wɪlt,1,0
 wilting, wɪlt,1,0
-wilton,,0,0
+wilton,,0,1
 wilts, wɪlt wɪlt,1,0
 wiltshire, ˈwɪltʃɚ,1,0
 wily, ˈwaɪli ˈwɑɪ·li,0,0
@@ -214,7 +214,7 @@ win, wɪn wɪn wɪn,1,0
 wince, wɪns wɪns,0,0
 winced, wɪns,1,0
 winch, wɪntʃ wɪntʃ,0,0
-winchester,,0,0
+winchester,,0,1
 wincing, wɪns,1,0
 wind, wɪnd wɪnd wɪnd wɪnd wɪnd wɪnd,0,0
 windchill," ˈwɪndtʃɪl ˈwɪndˌtʃɪl, ˈwɪn-",0,0
@@ -224,7 +224,7 @@ windfall, ˈwɪndfɑːl ˈwɪndfɑːl ˈwɪndˌfɔl,1,0
 windfalls, ˈwɪndfɑːl ˈwɪndfɑːl ˈwɪndˌfɔl,1,0
 winding, ˈwaɪndɪŋ ˈwaɪndɪŋ,0,0
 windlass, ˈwɪndləs,0,0
-windle,,0,0
+windle,,0,1
 windmill, ˈwɪndmɪl ˈwɪndmɪl ˈwɪndmɪl ˈwɪnd·mɪl,0,0
 windmills, ˈwɪndmɪl ˈwɪndmɪl ˈwɪndmɪl ˈwɪnd·mɪl,1,0
 window, ˈwɪndoʊ ˈwɪndoʊ ˈwɪndoʊ ˈwɪndoʊ ˈwɪndoʊ ˈwɪndoʊ ˈwɪn·doʊ ˈwɪn·doʊ ˈwɪn·doʊ ˈwɪn·doʊ,1,0
@@ -236,30 +236,30 @@ winds, wɪnd wɪnd wɪnd wɪnd wɪnd wɪnd wɪnd,1,0
 windshield, ˈwɪndʃiːld ˈwɪndˌʃild,0,0
 windshields, ˈwɪndʃiːld ˈwɪndˌʃild,1,0
 windsor, ˈwɪndzɚ ˈwɪndzɚ,1,0
-windstorm,,0,0
+windstorm,,0,1
 windswept, ˈwɪndswept ˈwɪndswept ˈwɪndˌswept,0,0
-windup, waɪnd waɪnd waɪnd waɪnd waɪnd waɪnd waɪnd waɪnd waɪnd waɪnd ˈwaɪndʌp ˈwaɪndʌp wɑɪnd wɑɪnd wɑɪnd wɑɪnd,1,0
+windup,,0,1
 windward, ˈwɪndwɚd ˈwɪnd·wərd,0,0
 windy, ˈwɪndi,0,0
 wine, waɪn wɑɪn,0,0
-wined,,0,0
-winer,,0,0
+wined,,0,1
+winer,,0,1
 wineries, ˈwaɪnɚi ˈwɑɪ·nə·ri,1,0
 winery, ˈwaɪnɚi ˈwɑɪ·nə·ri,0,0
 wines, waɪn waɪn wɑɪn,1,0
 wing, wɪŋ wɪŋ wɪŋ wɪŋ wɪŋ wɪŋ wɪŋ wɪŋ wɪŋ,0,0
-wingate,,0,0
+wingate,,0,1
 winged, wɪŋd wɪŋd,0,0
 winger, ˈwɪŋɚ,0,0
 wingers, ˈwɪŋɚ,1,0
-winging,,0,0
+winging,,0,1
 wingman, ˈwɪŋmən ˈwɪŋmən ˈwɪŋmən,0,0
-wings, wɪŋz,1,0
+wings, wɪŋz,0,1
 wingspan, ˈwɪŋspæn ˈwɪŋspæn ˈwɪŋˌspæn,0,0
-wining,,0,0
+wining,,0,1
 wink, wɪŋk wɪŋk wɪŋk,0,0
 winked, wɪŋk wɪŋk,1,0
-winker,,0,0
+winker,,0,1
 winking, wɪŋk wɪŋk,1,0
 winkle, ˈwɪŋkəl,0,0
 winkles, ˈwɪŋkəl,1,0
@@ -270,15 +270,15 @@ winners, ˈwɪnɚ ˈwɪnɚ ˈwɪnɚ ˈwɪn·ər ˈwɪn·ər,1,0
 winning, ˈwɪnɪŋ ˈwɪnɪŋ ˈwɪn·ɪŋ,1,0
 winningest, ˈwɪnɪŋɪst,0,0
 winnings, ˈwɪnɪŋz ˈwɪn·ɪŋz,0,0
-winnipeg,,0,0
+winnipeg,,0,1
 winnowed, ˈwɪnoʊ ˈwɪnoʊ,1,0
 winnowing, ˈwɪnoʊ ˈwɪnoʊ,1,0
 wino, ˈwaɪnoʊ,0,0
 winos, ˈwaɪnoʊ,1,0
 wins, wɪn wɪn wɪn,1,0
-winslow,,0,0
+winslow,,0,1
 winsome, ˈwɪnsəm ˈwɪn·səm,0,0
-wint,,0,0
+wint,,0,1
 winter, ˈwɪnt̬ɚ ˈwɪn·tər,0,0
 wintered, ˈwɪnt̬ɚ,1,0
 winterize, ˈwɪnt̬əraɪz ,0,0
@@ -288,7 +288,7 @@ wintertime, ˈwɪnt̬ɚtaɪm ˈwɪn·tərˌtɑɪm,0,0
 wintry, ˈwɪntri ˈwɪntri ˈwɪn·tri,0,0
 wipe, waɪp wɑɪp,1,0
 wiped, waɪp,1,0
-wipeout,,0,0
+wipeout,,0,1
 wiper, ˈwaɪpɚ ˈwɑɪ·pər,0,0
 wipers, ˈwaɪpɚ ˈwɑɪ·pər,1,0
 wipes, waɪp wɑɪp,1,0
@@ -296,24 +296,24 @@ wiping, waɪp,1,0
 wire, waɪr waɪr waɪr waɪr wɑɪər wɑɪər,1,0
 wired, waɪrd waɪrd waɪrd waɪrd,0,0
 wireless, ˈwaɪrləs ˈwɑɪər·ləs,1,0
-wireman,,0,0
+wireman,,0,1
 wires, ˈteləɡræm ˈtel·əˌɡræm,1,0
 wiretap, ˈwaɪrtæp ˈwɑɪərˌtæp,0,0
 wiretapping, ˈwaɪrˌtæpɪŋ,0,0
 wiretaps, ˈwaɪrtæp ˈwɑɪərˌtæp,1,0
 wiring, ˈwaɪrɪŋ ˈwɑɪər·ɪŋ,0,0
 wiry, ˈwaɪri ˈwaɪri ˈwɑɪər·i ˈwɑɪər·i,0,0
-wis,,0,0
+wis,,0,1
 wisconsin, wɪˈskɑːnsən,1,0
 wisdom, ˈwɪzdəm ˈwɪz·dəm ˈwɪz·dəm,0,0
 wise, waɪz wɑɪz,0,0
 wisecrack, ˈwaɪzkræk ˈwɑɪzˌkræk,0,0
 wisecracking, ˈwaɪzkrækɪŋ,0,0
 wisecracks, ˈwaɪzkræk ˈwɑɪzˌkræk,1,0
-wised, waɪz waɪz,1,0
-wiseguy,,0,0
+wised,,0,1
+wiseguy,,0,1
 wisely, ˈwaɪzli,0,0
-wiseman,,0,0
+wiseman,,0,1
 wiser, waɪz waɪz  -waɪz  -waɪz wɑɪz ˌwɑɪz,1,0
 wisest, waɪz waɪz  -waɪz  -waɪz wɑɪz ˌwɑɪz,1,0
 wish, wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ,0,0
@@ -325,21 +325,21 @@ wishes, ˈwɪʃ·əz,1,0
 wishful, ˈwɪʃfəl,0,0
 wishing, wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ wɪʃ,1,0
 wishy," ˈwɪʃiˌwɑːʃi ˈwɪʃ·iˌwɑʃ·i, -ˌwɔ·ʃi",1,0
-wisp, wɪsp wɪsp wɪsp,1,0
+wisp, wɪsp,0,1
 wispy, ˈwɪspi,0,0
-wist,,0,0
+wist,,0,1
 wistful, ˈwɪstfəl ˈwɪst·fəl,0,0
 wistfully, ˈwɪstfəli,0,0
 wistfulness, ˈwɪstfəlnəs,0,0
 wit, wɪt wɪt wɪt,0,0
 witch, wɪtʃ wɪtʃ wɪtʃ,0,0
 witchcraft, ˈwɪtʃkræft ˈwɪtʃˌkræft,0,0
-witcher,,0,0
+witcher,,0,1
 witches, wɪtʃ wɪtʃ wɪtʃ,1,0
-witching,,1,0
-witchy,,0,0
+witching,,0,1
+witchy,,0,1
 with," wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð wɪθ, wɪð",0,0
-witham,,0,0
+witham,,0,1
 withdraw," wɪðˈdrɑː wɪðˈdrɑː wɪθˈdrɔ, wɪð-",1,0
 withdrawal," wɪðˈdrɑːəl wɪðˈdrɑːəl wɪðˈdrɑːəl wɪðˈdrɑːəl wɪθˈdrɔ·əl, wɪð- wɪθˈdrɔ·əl, wɪð-",1,0
 withdrawals," wɪðˈdrɑːəl wɪðˈdrɑːəl wɪðˈdrɑːəl wɪðˈdrɑːəl wɪθˈdrɔ·əl, wɪð- wɪθˈdrɔ·əl, wɪð-",1,0
@@ -367,7 +367,7 @@ witnessed, ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs,1,0
 witnesses, ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs ˈwɪt·nəs ˈwɪt·nəs ˈwɪt·nəs ˈwɪt·nəs,1,0
 witnessing, ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs ˈwɪtnəs,1,0
 wits, wɪts,1,0
-witten,,0,0
+witten,,0,1
 witter, ˈwɪt̬ɚ,0,0
 witters, ˈwɪt̬ɚ,1,0
 wittily, ˈwɪt̬əli,0,0
@@ -378,7 +378,7 @@ wizard, ˈwɪzɚd ˈwɪzɚd ˈwɪzɚd ˈwɪz·ərd ˈwɪz·ərd,1,0
 wizardry, ˈwɪzɚdri ˈwɪzɚdri,0,0
 wizards, ˈwɪzɚd ˈwɪzɚd ˈwɪzɚd ˈwɪz·ərd ˈwɪz·ərd,1,0
 wizened, ˈwɪzənd ˈwɪz·ənd,0,0
-wo,,0,0
+wo,,0,1
 wobble, ˈwɑːbəl ˈwɑːbəl ˈwɑb·əl,1,0
 wobbled, ˈwɑːbəl ˈwɑːbəl,1,0
 wobbling, ˈwɑːbəl ˈwɑːbəl,1,0
@@ -395,7 +395,7 @@ woks, wɑːk wɑk,1,0
 wold, woʊld,0,0
 wolf, wʊlf wʊlf wʊlf,0,0
 wolfing, wʊlf,1,0
-wolfman,,0,0
+wolfman,,0,1
 wolfram, ˈwʊlfrəm,0,0
 wolverine, ˌwʊlvəˈriːn,0,0
 wolves,,1,0
@@ -413,45 +413,45 @@ wonder, ˈwʌndɚ ˈwʌndɚ ˈwʌndɚ ˈwʌn·dər,0,0
 wondered, ˈwʌndɚ ˈwʌndɚ ˈwʌndɚ,1,0
 wonderful, ˈwʌndɚfəl ˈwʌn·dər·fəl,0,0
 wonderfully, ˈwʌndɚfəli,0,0
-wonderfulness,,0,0
+wonderfulness,,0,1
 wondering, ˈwʌndɚ ˈwʌndɚ ˈwʌndɚ,1,0
 wonderland, ˈwʌndɚlænd,0,0
 wonderment, ˈwʌndɚmənt,0,0
 wonders, ˈwʌndɚ ˈwʌndɚ ˈwʌndɚ ˈwʌn·dər,1,0
 wondrous, ˈwʌndrəs,0,0
-wong,,0,0
+wong,,0,1
 wonk," wɑːŋk wɔŋk, wɑŋk",1,0
 wonks," wɑːŋk wɔŋk, wɑŋk",1,0
-wont," woʊnt woʊnt wɔnt, woʊnt",1,0
+wont," wɔnt, woʊnt",0,1
 woo, wuː wuː wu wu,1,0
 wood, wʊd wʊd wʊd wʊd wʊd,0,0
-woodbury,,0,0
-woodcarver,,0,0
-woodcarvers,,0,0
+woodbury,,0,1
+woodcarver,,0,1
+woodcarvers,,0,1
 woodchuck, ˈwʊdtʃʌk ˈwʊdˌtʃʌk,0,0
 woodchucks," ˈɡraʊndhɑːɡ ˈɡrɑʊndˌhɔɡ, -ˌhɑɡ",1,0
 woodcock, ˈwʊdkɑːk ˈwʊdkɑːk,0,0
 wooded, ˈwʊdɪd,0,0
 wooden, ˈwʊdən ˈwʊdən ˈwʊd·ən ˈwʊd·ən,0,0
-woodhouse,,0,0
-woodie,,0,0
+woodhouse,,0,1
+woodie,,0,1
 woodland," ˈwʊdlənd ˈwʊd·lənd, -ˌlænd",1,0
 woodlands," ˈwʊdlənd ˈwʊd·lənd, -ˌlænd",1,0
-woodman,,0,0
+woodman,,0,1
 woodpecker, ˈwʊdˌpekɚ ˈwʊdˌpek·ər,0,0
 woodpeckers, ˈwʊdˌpekɚ ˈwʊdˌpek·ər,1,0
 woodpile, ˈwʊdpaɪl,0,0
-woodrow,,0,0
+woodrow,,0,1
 woodruff, ˈwʊdrəf,0,0
 woods, wʊdz,0,0
 woodshed, ˈwʊdʃed ˈwʊdˌʃed,0,0
-woodside,,0,0
-woodsman,,0,0
-woodsmen,,0,0
-woodward,,0,0
+woodside,,0,1
+woodsman,,0,1
+woodsmen,,0,1
+woodward,,0,1
 woodwind, ˈwʊdwɪnd ˈwʊdˌwɪnd,0,0
 woodwork, ˈwʊdwɝːk ˈwʊdwɝːk ˈwʊdwɝːk ˈwʊdˌwɜrk,0,0
-woodworkers,,0,0
+woodworkers,,0,1
 woodworking, ˈwʊdwɝːkɪŋ ˈwʊdˌwɜr·kɪŋ,0,0
 woody, ˈwʊdi ˈwʊdi ˈwʊdi,0,0
 wooed, wuː wuː wu wu,1,0
@@ -462,19 +462,19 @@ wooing, wuː wuː wu wu,1,0
 wool, wʊl wʊl wʊl,0,0
 woolen, ˈwʊlən,0,0
 woolens, ˈwʊlənz ˈwʊl·ənz,0,0
-woolf,,0,0
+woolf,,0,1
 woollen, ˈwʊlən,0,0
 woolly, ˈwʊli ˈwʊli,0,0
-wools,,0,0
-woolsey,,0,0
-woolworth,,0,0
+wools,,0,1
+woolsey,,0,1
+woolworth,,0,1
 wooly, ˈwʊli ˈwʊli,1,0
 woos, wuː wuː wu wu,1,0
-wooster,,0,0
+wooster,,0,1
 woozy, ˈwuːzi ˈwu·zi,0,0
 wop, wɑːp,0,0
 wops, wɑːp,1,0
-worcester, ˌwʊstɚʃɚ ˈsɑːs,1,0
+worcester,,0,1
 worcestershire, ˈwʊstɚʃɚ,1,0
 word, wɝːd wɝːd wɝːd wɝːd wɝːd wɜrd wɜrd wɜrd wɜrd wɜrd,1,0
 worded, ˈwɝːdɪd,0,0

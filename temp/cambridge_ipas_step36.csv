@@ -8,17 +8,17 @@ foothills, ˈfʊthɪl ˈfʊtˌhɪl,1,0
 foothold, ˈfʊthoʊld ˈfʊthoʊld ˈfʊtˌhoʊld ˈfʊtˌhoʊld,1,0
 footing, ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬·ɪŋ ˈfʊt̬·ɪŋ,1,0
 footings, ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬ɪŋ ˈfʊt̬·ɪŋ ˈfʊt̬·ɪŋ,1,0
-footlight,,0,0
+footlight,,0,1
 footlights, ˈfʊtlaɪts ˈfʊtˌlɑɪts,0,0
 footloose, ˈfʊtluːs ˈfʊtˌlus,0,0
 footman, ˈfʊtmən,0,0
 footnote, ˈfʊtnoʊt ˈfʊtnoʊt ˈfʊtˌnoʊt,0,0
-footnoted,,0,0
+footnoted,,0,1
 footnotes, ˈfʊtnoʊt ˈfʊtnoʊt ˈfʊtˌnoʊt,1,0
 footpath, ˈfʊtpæθ ˈfʊtˌpæθ,0,0
 footprint, ˈfʊtprɪnt ˈfʊtprɪnt ˈfʊtprɪnt ˈfʊtˌprɪnt ˈfʊtˌprɪnt,1,0
 footprints, ˈfʊtprɪnt ˈfʊtprɪnt ˈfʊtprɪnt ˈfʊtˌprɪnt ˈfʊtˌprɪnt,1,0
-footrace,,0,0
+footrace,,0,1
 footstep, ˈfʊtstep ˈfʊtˌstep,0,0
 footsteps,,1,0
 footwear, ˈfʊtwer ˈfʊtˌweər,1,0
@@ -43,7 +43,7 @@ forced," fɔːrst fɔːrst fɔːrst fɔrst, foʊrst fɔrst, foʊrst fɔrst, foʊ
 forceful," ˈfɔːrsfəl ˈfɔrs·fəl, ˈfoʊrs-",0,0
 forcefully, ˈfɔːrsfəli ˈfɔːrsfəli,0,0
 forceps," ˈfɔːrseps ˈfɔr·səps, -seps",0,0
-forces,,1,0
+forces,,0,1
 forcible," ˈfɔːrsəbəl ˈfɔːrsəbəl ˈfɔr·sə·bəl, ˈfoʊr- ˈfɔr·sə·bəl, ˈfoʊr-",0,0
 forcibly," ˈfɔːrsəbli ˈfɔːrsəbli ˈfɔːrsəbli ˈfɔr·sə·bli, ˈfoʊr-",0,0
 forcing, fɔːrs fɔːrs fɔːrs fɔːrs fɔːrs fɔːrs,1,0
@@ -71,7 +71,7 @@ forefather, ˈfɔːrˌfɑːðɚ,0,0
 forefathers," ˈfɔrˌfɑð·ərz, ˈfoʊr-",0,0
 forefinger," ˈfɔːrˌfɪŋɡɚ ˈfɔrˌfɪŋ·ɡər, ˈfoʊr-",0,0
 forefingers," ˈfɔːrˌfɪŋɡɚ ˈfɔrˌfɪŋ·ɡər, ˈfoʊr-",1,0
-forefront," ˈfɔːrfrʌnt ˈfɔrfrʌnt, ˈfoʊr-",1,0
+forefront," ˈfɔrfrʌnt, ˈfoʊr-",0,1
 forego, fɔːrˈɡoʊ,0,0
 foregoing, ˈfɔːrɡoʊɪŋ,0,0
 foregone, fɔːrˈɡoʊ,1,0
@@ -82,14 +82,14 @@ foreheads," ˈfɑːrɪd ˈfɑr·əd, ˈfɔr-",1,0
 foreign," ˈfɔːrən ˈfɔːrən ˈfɔr·ən, ˈfɑr-",1,0
 foreigner," ˈfɔːrənɚ ˈfɔr·ə·nər, ˈfɑr-",0,0
 foreigners," ˈfɔːrənɚ ˈfɔr·ə·nər, ˈfɑr-",1,0
-forelimb,,0,0
+forelimb,,0,1
 foreman," ˈfɔːrmən ˈfɔːrmən ˈfɔr·mən, ˈfoʊr- ˈfɔr·mən, ˈfoʊr-",1,0
 foremen," ˈfɔːrmən ˈfɔːrmən ˈfɔr·mən, ˈfoʊr- ˈfɔr·mən, ˈfoʊr-",1,0
 foremost," ˈfɔːrmoʊst ˈfɔrˌmoʊst, ˈfoʊr-",0,0
 forensic, fəˈren·sɪk,1,0
 forensically, fəˈrenzɪkəli fəˈrenzɪkəli,0,0
 forensics, fəˈrenzɪks fəˈrenzɪks,0,0
-foreperson,,0,0
+foreperson,,0,1
 foreplay, ˈfɔːrpleɪ,0,0
 forerunner," ˈfɔːrˌrʌnɚ ˈfɔrˌrʌn·ər, ˈfoʊr-",0,0
 foresaw,,1,0
@@ -109,7 +109,7 @@ forester, ˈfɔːrəstɚ,0,0
 foresters, ˈfɔːrəstɚ,1,0
 forestry," ˈfɔːrəstri ˈfɔr·ə·stri, ˈfɑr-",1,0
 forests," ˈfɔːrɪst ˈfɔr·əst, ˈfɑr-",1,0
-foret,,0,0
+foret,,0,1
 foretaste," ˈfɔːrteɪst ˈfɔrˌteɪst, ˈfoʊr-",0,0
 foretell, fɔːrˈtel,0,0
 foretelling, fɔːrˈtel,1,0
@@ -151,8 +151,8 @@ forgoing," fɔːrˈɡoʊ fɔrˈɡoʊ, foʊr-",1,0
 forgone," fɔːrˈɡoʊ fɔrˈɡoʊ, foʊr-",1,0
 forgot," fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fərˈɡet, fɔr- fərˈɡet, fɔr-",1,0
 forgotten," fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fɚˈɡet fərˈɡet, fɔr- fərˈɡet, fɔr-",1,0
-forint,,0,0
-forints,,0,0
+forint,,0,1
+forints,,0,1
 fork, fɔːrk fɔːrk fɔːrk fɔrk fɔrk,0,0
 forked, fɔːrkt,0,0
 forking, fɔːrk fɔːrk fɔːrk,1,0
@@ -161,7 +161,7 @@ forklifts, ˈfɔrkˌlift,1,0
 forks, fɔːrk fɔːrk fɔːrk fɔrk fɔrk,1,0
 forlorn," fɚˈlɔːrn fɚˈlɔːrn fɚˈlɔːrn fɔrˈlɔrn, fər-",0,0
 form, fɔːrm fɔːrm fɔːrm fɔːrm fɔrm fɔrm fɔrm,1,0
-forma, ˌproʊ ˈfɔːrmə,1,0
+forma,,0,1
 formal, ˈfɔːrməl ˈfɔːrməl ˈfɔːrməl ˈfɔːrməl ˈfɔːrməl ˈfɔr·məl ˈfɔr·məl ˈfɔr·məl ˈfɔr·məl,1,0
 formaldehyde, fɔːrˈmældəhaɪd,0,0
 formalism, ˈfɔːrməlɪzəm,0,0
@@ -179,7 +179,7 @@ formats, ˈfɔːrmæt ˈfɔːrmæt ˈfɔr·mæt,1,0
 formed, fɔːrm fɔːrm fɔːrm fɔːrm,1,0
 former, ˈfɔːrmɚ ˈfɔr·mər,1,0
 formerly, ˈfɔːrmɚli ˈfɔr·mər·li,1,0
-formic, ˌfɔːrmɪk ˈæsɪd,1,0
+formic,,0,1
 formica, fɔːrˈmaɪkə,1,0
 formidable," fɔːrˈmɪdəbəl ˈfɔr·mɪ·də·bəl, fɔrˈmɪd·ə-, fərˈmɪd-",0,0
 formidably, fɔːrˈmɪdəbli,0,0
@@ -187,7 +187,7 @@ forming, fɔːrm fɔːrm fɔːrm fɔːrm,1,0
 forms, fɔːrm fɔːrm fɔːrm fɔːrm fɔːrm fɔːrm fɔːrm fɔrm fɔrm fɔrm,1,0
 formula, ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔr·mjə·lə ˈfɔr·mjə·lə ˈfɔr·mjə·lə ˈfɔr·mjə·lə,1,0
 formulaic, ˌfɔːrmjəˈleɪɪk,0,0
-formulary,,0,0
+formulary,,0,1
 formulas, ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔːrmjələ ˈfɔr·mjə·lə ˈfɔr·mjə·lə ˈfɔr·mjə·lə ˈfɔr·mjə·lə,1,0
 formulate, ˈfɔːrmjəleɪt ˈfɔr·mjəˌleɪt,1,0
 formulated, ˈfɔːrmjəleɪt,1,0
@@ -198,7 +198,7 @@ formulations, ˌfɔːrmjəˈleɪʃən ˌfɔr·mjəˈleɪ·ʃən ˌfɔr·mjəˈle
 forsake," fɔːrˈseɪk fɔːrˈseɪk fərˈseɪk, fɔr-",0,0
 forsaken,,1,0
 forsaking,,1,0
-forsee,,0,0
+forsee,,0,1
 forsook,,1,0
 forswear, fɔːrˈswer,0,0
 forsworn, fɔːrˈswer,1,0
@@ -210,7 +210,7 @@ forthright," ˈfɔːrθraɪt ˈfɔrθˌrɑɪt, ˈfoʊrθ-",0,0
 forthrightly, ˈfɔːrθraɪtli,0,0
 forthrightness, ˈfɔːrθraɪtnəs,0,0
 forthwith, ˌfɔːrθˈwɪθ,0,0
-fortier,,0,0
+fortier,,0,1
 forties, ˈfɔːrt̬iz ˈfɔːrt̬iz ˈfɔr·t̬iz,0,0
 fortieth, ˈfɔːrt̬iəθ ˈfɔr·t̬i·əθ ˈfɔr·t̬i·əθ,0,0
 fortification, ˌfɔːrt̬əfəˈkeɪʃən ˌfɔːrt̬əfəˈkeɪʃən ˌfɔr·t̬ə·fɪˈkeɪ·ʃən ˌfɔr·t̬ə·fɪˈkeɪ·ʃən,0,0
@@ -218,7 +218,7 @@ fortifications, ˌfɔːrt̬əfəˈkeɪʃən ˌfɔːrt̬əfəˈkeɪʃən ˌfɔr·
 fortified, ˈfɔr·t̬əˌfɑɪd ˈfɔr·t̬əˌfɑɪd,0,0
 fortify, ˈfɔːrt̬əfaɪ ˈfɔr·t̬əˌfɑɪ,0,0
 fortifying, ˈfɔːrt̬əfaɪ,1,0
-fortin,,0,0
+fortin,,0,1
 fortis, ˈfɔːrt̬ɪs,0,0
 fortitude, ˈfɔːrt̬ətuːd ˈfɔr·t̬ɪˌtud,0,0
 fortnight," ˈfɔːrtnaɪt ˈfɔrtˌnɑɪt, ˈfoʊrt-",0,0
@@ -239,8 +239,8 @@ forwarded, ˈfɔːrwɚd,1,0
 forwarder,,1,0
 forwarding,,1,0
 forwards, ˈfɔːrwɚdz,0,0
-foss,,0,0
-fosse,,0,0
+foss,,0,1
+fosse,,0,1
 fossil, ˈfɑːsəl ˈfɑːsəl ˈfɑs·əl,0,0
 fossilized, ˈfɑːsəlaɪzd ˈfɑːsəlaɪzd ˈfɑːsəlaɪzd,0,0
 fossils, ˈfɑːsəl ˈfɑːsəl ˈfɑs·əl,1,0
@@ -252,7 +252,7 @@ fought, fɑːt fɔt,0,0
 foul, faʊl faʊl faʊl faʊl fɑʊl,0,0
 fouled, faʊl faʊl faʊl,1,0
 fouling, faʊl faʊl faʊl,1,0
-foulness,,0,0
+foulness,,0,1
 fouls, faʊl faʊl faʊl faʊl fɑʊl,1,0
 found, faʊnd faʊnd faʊnd faʊnd fɑʊnd,1,0
 foundation, faʊnˈdeɪʃən faʊnˈdeɪʃən faʊnˈdeɪʃən faʊnˈdeɪʃən faʊnˈdeɪʃən fɑʊnˈdeɪ·ʃən fɑʊnˈdeɪ·ʃən fɑʊnˈdeɪ·ʃən fɑʊnˈdeɪ·ʃən,1,0
@@ -269,28 +269,28 @@ foundry, ˈfaʊndri ˈfɑʊn·dri,1,0
 fountain, ˈfaʊntən ˈfɑʊn·tən,0,0
 fountains, ˈfaʊntən ˈfɑʊn·tən,1,0
 four," fɔːr fɔr, foʊr fɔr, foʊr",0,0
-fourier,,0,0
+fourier,,0,1
 fours," fɔːr fɔr, foʊr fɔr, foʊr",1,0
 foursome, ˈfɔːrsəm ˈfɔːrsəm,0,0
-foursquare,,0,0
+foursquare,,0,1
 fourteen," ˌfɔːrˈtiːn fɔrtˈtin, foʊrt-",0,0
-fourteens,,0,0
+fourteens,,0,1
 fourteenth," ˌfɔːrˈtiːnθ fɔrˈtinθ, foʊr- fɔrˈtinθ, foʊr-",0,0
 fourth," fɔːrθ fɔrθ, foʊrθ fɔrθ, foʊrθ",1,0
-fourthly,,0,0
+fourthly,,0,1
 fourths," fɔːrθ fɔrθ, foʊrθ fɔrθ, foʊrθ",1,0
 fowl, faʊl faʊl fɑʊl,0,0
-fowler,,0,0
+fowler,,0,1
 fox, fɑːks fɑːks fɑːks fɑːks fɑks,0,0
 foxes, fɑːks fɑːks fɑːks fɑːks fɑks,1,0
-foxfire,,0,0
+foxfire,,0,1
 foxglove, ˈfɑːksɡlʌv,0,0
 foxhole, ˈfɑːkshoʊl ˈfɑːkshoʊl ˈfɑksˌhoʊl,0,0
 foxholes, ˈfɑːkshoʊl ˈfɑːkshoʊl ˈfɑksˌhoʊl,1,0
 foxhound, ˈfɑːkshaʊnd,0,0
 foxtrot, ˈfɑːkstrɑːt,0,0
 foxy, ˈfɑːksi ˈfɑːksi ˈfɑːksi ˈfɑk·si,0,0
-foy,,0,0
+foy,,0,1
 foyer," ˈfɔɪɚ ˈfɔɪɚ ˈfɔɪ·ər, ˈfɔɪ·eɪ ˈfɔɪ·ər, ˈfɔɪ·eɪ",0,0
 fracas," ˈfreɪkəs ˈfreɪ·kəs, ˈfræk·əs",0,0
 fractal, ˈfræktəl,0,0
@@ -316,54 +316,54 @@ fragrant, ˈfreɪɡrənt,0,0
 frail, freɪl freɪl,0,0
 frailties," ˈfreɪlt̬i ˈfreɪlt̬i ˈfreɪl·ti, ˈfreɪ·əl- ˈfreɪl·ti, ˈfreɪ·əl-",1,0
 frailty," ˈfreɪlt̬i ˈfreɪlt̬i ˈfreɪl·ti, ˈfreɪ·əl- ˈfreɪl·ti, ˈfreɪ·əl-",0,0
-fraiser,,0,0
+fraiser,,0,1
 frame, freɪm freɪm freɪm freɪm freɪm freɪm freɪm freɪm freɪm freɪm,0,0
 framed, freɪmd,0,0
-framer,,0,0
-framers,,0,0
+framer,,0,1
+framers,,0,1
 frames, freɪmz,1,0
 framework, ˈfreɪmwɝːk ˈfreɪmwɝːk ˈfreɪmˌwɜrk ˈfreɪmˌwɜrk,1,0
 framing, ˈfreɪmɪŋ ˈfreɪmɪŋ ˈfreɪmɪŋ ˈfreɪmɪŋ ˈfreɪmɪŋ ˈfreɪmɪŋ ˈfreɪmɪŋ,0,0
 franc, fræŋk,0,0
 france, fræns,1,0
-frances,,0,0
+frances,,0,1
 franchise, ˈfræntʃaɪz ˈfræntʃaɪz ˈfræn·tʃɑɪz ˈfræn·tʃɑɪz,1,0
 franchised, ˈfræntʃaɪz,1,0
 franchisee, ˌfræntʃaɪˈziː,1,0
 franchises, ˈfræntʃaɪz ˈfræntʃaɪz ˈfræntʃaɪz ˈfræn·tʃɑɪz ˈfræn·tʃɑɪz,1,0
 franchising, ˈfræntʃaɪzɪŋ,1,0
-francis,,0,0
+francis,,0,1
 franciscan, frænˈsɪskən,1,0
 franciscans, frænˈsɪskən,1,0
-francisco, ˌsæn frænˈsɪskoʊ,1,0
+francisco,,0,1
 franco, fræŋkoʊ-,1,0
 francs, fræŋk,1,0
 frank, fræŋk fræŋk,1,0
 frankenstein, ˈfræŋkənstaɪn,1,0
 frankfort, ˈfræŋkfɚt,1,0
-frankfurt, ˌfræŋkfɜ˞ːt æm ˈmaɪn,1,0
+frankfurt,,0,1
 frankfurter, ˈfræŋkfɝːt̬ɚ ˈfræŋkˌfɜr·t̬ər,0,0
 frankfurters, ˈfræŋkfɝːt̬ɚ ˈfræŋkˌfɜr·t̬ər,1,0
 frankincense, ˈfræŋkɪnsens,0,0
 franking, fræŋk,1,0
-frankish,,0,0
-franklin,,0,0
+frankish,,0,1
+franklin,,0,1
 frankly, ˈfræŋkli ˈfræŋkli ˈfræŋk·li ˈfræŋk·li,0,0
 frankness, ˈfræŋknəs,0,0
 franks, fræŋk fræŋk,1,0
 frantic, ˈfrænt̬ɪk ˈfrænt̬ɪk ˈfræn·tɪk ˈfræn·tɪk,1,0
 frantically, ˈfrænt̬ɪkəli ˈfrænt̬ɪkəli ˈfræn·tɪk·li ˈfræn·tɪk·li,0,0
-franz,,0,0
-frap,,0,0
-frase,,0,0
-fraser, ˈfreɪʒɚ ˌfɝː,1,0
-frasier,,0,0
+franz,,0,1
+frap,,0,1
+frase,,0,1
+fraser,,0,1
+frasier,,0,1
 fraternal, frəˈtɝːnəl frəˈtɝːnəl frəˈtɜr·nəl,0,0
 fraternities, frəˈtɝːnət̬i frəˈtɝːnət̬i frəˈtɝːnət̬i frəˈtɜr·nɪ·t̬i frəˈtɜr·nɪ·t̬i,1,0
 fraternity, frəˈtɝːnət̬i frəˈtɝːnət̬i frəˈtɝːnət̬i frəˈtɜr·nɪ·t̬i frəˈtɜr·nɪ·t̬i,0,0
 fraternize, ˈfræt̬ɚnaɪz ˈfræt̬·ərˌnɑɪz,0,0
 fraternizing, ˈfræt̬ɚnaɪz,1,0
-frau,,0,0
+frau,,0,1
 fraud, frɑːd frɑːd frɔd frɔd,1,0
 frauds, frɑːd frɑːd frɔd frɔd,1,0
 fraudulent, ˈfrɑːdʒələnt ˈfrɑːdʒələnt ˈfrɔ·dʒə·lənt ˈfrɔ·dʒə·lənt,1,0
@@ -372,8 +372,8 @@ fraught, frɑːt frɔt,0,0
 fray, freɪ freɪ freɪ,0,0
 frayed, freɪd freɪd,0,0
 fraying, freɪ freɪ,1,0
-frayne,,0,0
-frazer,,0,0
+frayne,,0,1
+frazer,,0,1
 frazzle, ˈfræzəl ˈfræzəl,0,0
 frazzled, ˈfræzəld ˈfræzəld ˈfræz·əld,0,0
 freak, friːk frik,0,0
@@ -381,16 +381,16 @@ freaked, friːk,1,0
 freaking, ˈfriːkɪŋ,0,0
 freaks, friːk friːk frik,1,0
 freaky, ˈfriːki,0,0
-freck,,0,0
+freck,,0,1
 freckle, ˈfrekəl ˈfrek·əl,0,0
 freckled, ˈfrekəld,0,0
 freckles, ˈfrekəl ˈfrek·əl,1,0
-fred,,0,0
-frederick,,0,0
+fred,,0,1
+frederick,,0,1
 free, friː friː friː friː fri fri fri fri,1,0
 freebie, ˈfriːbi ˈfri·bi,1,0
 freebies, ˈfriːbi ˈfri·bi,1,0
-freeborn,,0,0
+freeborn,,0,1
 freed, friː friː friː friː,1,0
 freedman," ˈfriːdmæn ˈfrid·mən, -mæn",0,0
 freedom, ˈfriːdəm ˈfriːdəm ˈfriːdəm ˈfri·dəm ˈfri·dəm ˈfri·dəm,0,0
@@ -409,13 +409,13 @@ freeman, ˈfriːmən,0,0
 freemason, ˈfriːˌmeɪsən,1,0
 freemasonry, ˈfriːˌmeɪsənri ˈfriːˌmeɪsənri,1,0
 freemen, ˈfriːmən,1,0
-freen,,0,0
-freeport,,0,0
+freen,,0,1
+freeport,,0,1
 freer, friː friː friː friː friː friː friː  -friː  -friː fri fri fri fri fri,1,0
 frees, friː friː friː friː friː friː friː  -friː  -friː fri fri fri fri fri,1,0
 freest, friː friː friː friː friː friː friː  -friː  -friː fri fri fri fri fri,1,0
 freestanding, ˌfriːˈstændɪŋ ˈfriˌstæn·dɪŋ,0,0
-freestone,,0,0
+freestone,,0,1
 freestyle, ˈfriːstaɪl ˈfriːstaɪl ˈfriːstaɪl ˈfriːstaɪl ˈfriˌstɑɪl,0,0
 freethinker, ˌfriːˈθɪŋkɚ,0,0
 freethinkers, ˌfriːˈθɪŋkɚ,1,0
@@ -431,7 +431,7 @@ freezing, ˈfriːzɪŋ ˈfri·zɪŋ,0,0
 freight, freɪt freɪt freɪt freɪt,1,0
 freighter, ˈfreɪt̬ɚ ˈfreɪt̬ɚ ˈfreɪ·t̬ər,1,0
 freighters, ˈfreɪt̬ɚ ˈfreɪt̬ɚ ˈfreɪ·t̬ər,1,0
-fremitus,,0,0
+fremitus,,0,1
 french, frentʃ frentʃ,1,0
 frenchman, ˈfrentʃmən,1,0
 frenchmen, ˈfrentʃmən,1,0
@@ -440,7 +440,7 @@ frenulum, ˈfrenjələm,0,0
 frenzied, ˈfrenziːd,0,0
 frenzies, ˈfrenzi ˈfren·zi,1,0
 frenzy, ˈfrenzi ˈfren·zi,0,0
-freon,,0,0
+freon,,0,1
 frequencies, ˈfriːkwənsi ˈfriːkwənsi ˈfriːkwənsi ˈfri·kwən·si ˈfri·kwən·si,1,0
 frequency, ˈfriːkwənsi ˈfriːkwənsi ˈfriːkwənsi ˈfri·kwən·si ˈfri·kwən·si,1,0
 frequent, ˈfriːkwənt ˈfri·kwənt,1,0
@@ -448,15 +448,15 @@ frequented, friːˈkwent,1,0
 frequenting, friːˈkwent,1,0
 frequently, ˈfriːkwəntli,0,0
 frequents, ˈfriːkwənt ˈfri·kwənt,1,0
-frere,,0,0
-freres,,0,0
+frere,,0,1
+freres,,0,1
 fresco, ˈfreskoʊ,0,0
 frescoes,,1,0
 fresh, freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ,0,0
 freshen, ˈfreʃən ˈfreʃən ˈfreʃən ˈfreʃ·ən ˈfreʃ·ən ˈfreʃ·ən,0,0
 freshened, ˈfreʃən ˈfreʃən ˈfreʃən,1,0
 freshener, ˈfreʃənɚ,0,0
-fresheners, ˈer ˌfreʃənɚ,1,0
+fresheners,,0,1
 freshening, ˈfreʃən ˈfreʃən ˈfreʃən,1,0
 fresher, ˈfreʃɚ,0,0
 freshest, freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ- freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ freʃ,1,0
@@ -465,20 +465,20 @@ freshman, ˈfreʃmən ˈfreʃmən ˈfreʃ·mən,0,0
 freshmen, ˈfreʃmən ˈfreʃmən ˈfreʃ·mən,1,0
 freshness, ˈfreʃnəs ˈfreʃnəs ˈfreʃnəs ˈfreʃnəs ˈfreʃnəs ˈfreʃnəs,0,0
 freshwater," ˈfreʃˌwɑːt̬ɚ ˈfreʃˌwɔt̬·ər, -ˌwɑt̬·ər",0,0
-fresno,,0,0
+fresno,,0,1
 fret, fret fret,0,0
 fretful, ˈfretfəl,0,0
 frets, fret fret,1,0
 fretting,,1,0
-freud,,0,0
+freud,,0,1
 freudian, ˈfrɔɪdiən ˈfrɔɪ·di·ən,1,0
-frey,,0,0
-freya,,0,0
+frey,,0,1
+freya,,0,1
 friar," fraɪr ˈfrɑɪ·ər, frɑɪər",0,0
 friars," fraɪr ˈfrɑɪ·ər, frɑɪər",1,0
 friction, ˈfrɪkʃən ˈfrɪkʃən ˈfrɪk·ʃən ˈfrɪk·ʃən,0,0
 frictionless, ˈfrɪkʃənləs ˈfrɪkʃənləs,0,0
-frictions,,0,0
+frictions,,0,1
 friday," ˈfraɪdeɪ ˈfrɑɪ·deɪ, -di",1,0
 fridays," ˈfraɪdeɪ ˈfrɑɪ·deɪ, -di",1,0
 fridge, frɪdʒ frɪdʒ,0,0

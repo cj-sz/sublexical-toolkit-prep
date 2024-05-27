@@ -6,13 +6,13 @@ tops, tɑːps tɑːps tɑps,0,0
 topsoil, ˈtɑːpsɔɪl ˈtɑpˌsɔɪl,0,0
 topsy, ˌtɑːpsiˈtɝːvi ˈtɑp·siˈtɜr·vi,1,0
 tor, tɔːr,0,0
-torah," ˈtɔːrə ˈtɔr·ə, ˈtoʊ·rə",1,0
+torah,,0,1
 torch, tɔːrtʃ tɔːrtʃ tɔːrtʃ tɔrtʃ tɔrtʃ tɔrtʃ,0,0
 torched, tɔːrtʃ,1,0
 torches, tɔːrtʃ tɔːrtʃ tɔːrtʃ tɔrtʃ tɔrtʃ tɔrtʃ,1,0
 torching, tɔːrtʃ,1,0
 tore," tɔːr tɔr, toʊr",0,0
-tori,,0,0
+tori,,0,1
 tories," ˈtɔːri ˈtɔːri ˈtɔːri ˈtɔr·i, toʊr·i ˈtɔr·i, toʊr·i ˈtɔr·i, toʊr·i",1,0
 torment, ˈtɔːrment ˈtɔːrment ˈtɔr·ment,0,0
 tormented, tɔːrˈment,1,0
@@ -23,7 +23,7 @@ torments,,1,0
 torn," tɔːrn tɔrn, toʊrn",0,0
 tornado, tɔːrˈneɪdoʊ tɔrˈneɪ·doʊ,0,0
 tornadoes,,1,0
-toro,,0,0
+toro,,0,1
 toronto, təˈrɑːnt̬oʊ,1,0
 torpedo, tɔːrˈpiːdoʊ tɔrˈpi·doʊ,0,0
 torpedoed, tɔːrˈpiːdoʊ tɔːrˈpiːdoʊ,1,0
@@ -53,9 +53,9 @@ torturers, ˈtɔːrtʃərɚ,1,0
 tortures, ˈtɔːrtʃɚ ˈtɔːrtʃɚ ˈtɔr·tʃər ˈtɔr·tʃər,1,0
 torturing, ˈtɔːrtʃɚ ˈtɔːrtʃɚ,1,0
 torturous, ˈtɔːrtʃərəs,0,0
-toru,,0,0
+toru,,0,1
 tory," ˈtɔːri ˈtɔːri ˈtɔːri ˈtɔr·i, toʊr·i ˈtɔr·i, toʊr·i ˈtɔr·i, toʊr·i",1,0
-tosca,,0,0
+tosca,,0,1
 tosh, tɑːʃ,0,0
 toss, tɑːs tɑːs tɑːs tɑːs tɑːs tɔs tɔs tɔs,0,0
 tossed, tɑːs tɑːs tɑːs tɑːs tɑːs tɑːs tɑːs,1,0
@@ -80,7 +80,7 @@ totes, toʊts,0,0
 toting, toʊt,1,0
 toto, ˈtoʊt̬oʊ,0,0
 tots, tɑːt tɑːt tɑt,1,0
-totten,,0,0
+totten,,0,1
 totter, ˈtɑːt̬ɚ ˈtɑːt̬ɚ ˈtɑːt̬ɚ ˈtɑt̬·ər,0,0
 tottering, ˈtɑːt̬ɚɪŋ ˈtɑːt̬ɚɪŋ ˈtɑːt̬ɚɪŋ,0,0
 totty, ˈtɑːt̬i,0,0
@@ -94,7 +94,7 @@ touching, ˈtʌtʃɪŋ ˈtʌtʃ·ɪŋ,0,0
 touchstone, ˈtʌtʃstoʊn ˈtʌtʃˌstoʊn,0,0
 touchy, ˈtʌtʃi ˈtʌtʃi ˈtʌtʃ·i ˈtʌtʃ·i,0,0
 tough, tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf,0,0
-toughed, tʌf tʌf tʌf tʌf,1,0
+toughed,,0,1
 toughen, ˈtʌfən ˈtʌfən ˈtʌf·ən,0,0
 toughened, ˈtʌfən ˈtʌfən,1,0
 toughening, ˈtʌfən ˈtʌfən,1,0
@@ -107,7 +107,7 @@ toughs, tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf tʌf,1,0
 toupee, tuːˈpeɪ tuˈpeɪ,1,0
 tour, tʊr tʊr tʊr tʊr tʊr tʊr,1,0
 toured, tʊr tʊr,1,0
-tourette,,0,0
+tourette,,0,1
 touring, ˈtʊrɪŋ ˈtʊrɪŋ,0,0
 tourism, ˈtʊrɪzəm ˈtʊrˌɪz·əm,1,0
 tourist, ˈtʊrɪst ˈtʊrɪst ˈtʊr·ɪst,1,0
@@ -122,8 +122,8 @@ tout, taʊt taʊt taʊt tɑʊt tɑʊt,1,0
 touted, taʊt taʊt taʊt,1,0
 touting, taʊt taʊt taʊt,1,0
 touts, taʊt taʊt taʊt tɑʊt tɑʊt,1,0
-tov, ˈmɑːzəl ˌtɑːv,1,0
-tovar,,0,0
+tov,,0,1
+tovar,,0,1
 tow, toʊ toʊ toʊ,0,0
 toward," tɔːrd tɔːrd tɔːrd tɔːrd tɔrd, toʊrd, twɔrd, twoʊrd tɔrd, toʊrd, twɔrd, twoʊrd tɔrd, toʊrd, twɔrd, twoʊrd tɔrd, toʊrd, twɔrd, twoʊrd",0,0
 towards, tɔːrdz tɔːrdz tɔːrdz tɔːrdz,0,0
@@ -143,23 +143,23 @@ towns, taʊn taʊn taʊn taʊn taʊn taʊn tɑʊn tɑʊn tɑʊn tɑʊn,1,0
 townsfolk, ˈtaʊnzˌpiːpəl ˈtaʊnzˌpiːpəl ˈtɑʊnzˌpi·pəl,1,0
 township, ˈtaʊnʃɪp ˈtaʊnʃɪp ˈtɑʊnˌʃɪp,0,0
 townships, ˈtaʊnʃɪp ˈtaʊnʃɪp ˈtɑʊnˌʃɪp,1,0
-townsman,,0,0
+townsman,,0,1
 townspeople, ˈtaʊnzˌpiːpəl ˈtaʊnzˌpiːpəl ˈtɑʊnzˌpi·pəl,0,0
-towson,,0,0
+towson,,0,1
 toxic, ˈtɑːksɪk ˈtɑːksɪk ˈtɑːksɪk ˈtɑk·sɪk,1,0
 toxicity, taːkˈsisət̬i tɑkˈsɪs·ɪ·t̬i,1,0
-toxicological,,0,0
+toxicological,,0,1
 toxicologist, ˌtɑːksɪˈkɑːlədʒɪst,0,0
 toxicologists, ˌtɑːksɪˈkɑːlədʒɪst,1,0
 toxicology, ˌtɑːksɪˈkɑːlədʒi,0,0
 toxin, ˈtɑːksɪn ˈtɑk·sɪn,0,0
 toxins, ˈtɑːksɪn ˈtɑk·sɪn,1,0
 toy, tɔɪ tɔɪ tɔɪ,0,0
-toyed, tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ,1,0
-toying, tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ tɔɪ,1,0
+toyed,,0,1
+toying,,0,1
 toymaker,,1,0
-toyo,,0,0
-toyota,,1,0
+toyo,,0,1
+toyota,,0,1
 toys, tɔɪ tɔɪ tɔɪ,1,0
 trace, treɪs treɪs treɪs treɪs treɪs treɪs treɪs treɪs treɪs treɪs,1,0
 traceable, ˈtreɪsəbəl ˈtreɪ·sə·bəl,1,0
@@ -194,7 +194,7 @@ traders, ˈtreɪdɚ ˈtreɪdɚ ˈtreɪ·dər,1,0
 trades, treɪd treɪd treɪd treɪd treɪd treɪd treɪd treɪd treɪd treɪd,1,0
 tradesmen, ˈtreɪdzmən ˈtreɪdzmən,1,0
 trading, ˈtreɪdɪŋ ˈtreɪdɪŋ ˈtreɪdɪŋ ˈtreɪdɪŋ,0,0
-tradings,,0,0
+tradings,,0,1
 tradition, trəˈdɪʃən trəˈdɪʃ·ən,0,0
 traditional, trəˈdɪʃənəl trəˈdɪʃ·ən·əl,0,0
 traditionalist, trəˈdɪʃənəlɪst trəˈdɪʃ·ən·əl·əst,0,0
@@ -234,8 +234,8 @@ traitors, ˈtreɪt̬ɚ ˈtreɪ·t̬ər,1,0
 traits, treɪt treɪt treɪt,1,0
 trajectory, trəˈdʒektɚi trəˈdʒek·tə·ri,0,0
 tram, træm træm træm,0,0
-tramell,,0,0
-trammel,,0,0
+tramell,,0,1
+trammel,,0,1
 tramp, træmp træmp træmp træmp træmp,0,0
 tramped, træmp,1,0
 tramping, træmp,1,0
@@ -269,7 +269,7 @@ transcends, trænˈsend trænˈsend,1,0
 transcontinental, ˌtrænˌskɑːnt̬ənˈent̬əl ˈtrænsˌkɑn·tənˈen·təl,1,0
 transcribe, trænˈskraɪb trænˈskraɪb trænˈskrɑɪb,0,0
 transcribed, trænˈskraɪb trænˈskraɪb,1,0
-transcriber,,0,0
+transcriber,,0,1
 transcribing, trænˈskraɪb trænˈskraɪb,1,0
 transcript, ˈtrænskrɪpt ˈtræn·skrɪpt,1,0
 transcription, trænˈskrɪpʃən trænˈskrɪpʃən,0,0
@@ -278,8 +278,8 @@ transcripts, ˈtrænskrɪpt ˈtræn·skrɪpt,1,0
 transducer, trɑːnsˈduːsɚ,0,0
 transducers, trɑːnsˈduːsɚ,1,0
 transect, trænˈsekt,0,0
-transected,,0,0
-transection,,0,0
+transected,,0,1
+transection,,0,1
 transfer," ˈtrænsfɝː ˈtrænsfɝː ˈtrænsfɝː ˈtrænsfɝː trænsˈfɜr, ˈtræns·fər trænsˈfɜr, ˈtræns·fər",1,0
 transferable, trænsˈfɝːəbəl trænsˈfɝːəbəl trænsˈfɝːəbəl -ˈfɝːə- -ˈfɝːə- -ˈfɝːə-,0,0
 transference," ˈtrænsfɚəns ˈtrænsfɚəns trænsˈfɜr·əns, ˈtræns·fər·əns trænsˈfɜr·əns, ˈtræns·fər·əns",0,0
@@ -298,7 +298,7 @@ transformers, trænsˈfɔːrmɚ trænsˈfɔr·mər,1,0
 transforming, trænsˈfɔːrm,1,0
 transforms, trænsˈfɔːrm trænsˈfɔrm,1,0
 transfuse, trænsˈfjuːz trænsˈfjuːz trænsˈfjuːz trænsˈfjuːz,0,0
-transfused,,0,0
+transfused,,0,1
 transfusion, trænsˈfjuːʒən trænsˈfju·ʒən,0,0
 transfusions, trænsˈfjuːʒən trænsˈfjuːʒən trænsˈfju·ʒən,1,0
 transgender, trænzˈdʒendɚ trænzˈdʒendɚ,0,0
@@ -311,7 +311,7 @@ transgressor, trænzˈɡresɚ,0,0
 transience, ˈtrænziəns ˈtrænziəns,0,0
 transient," ˈtrænziənt ˈtræn·ʃənt, -dʒənt, -zi·ənt ˈtræn·ʃənt, -dʒənt, -zi·ənt",1,0
 transients," ˈtrænziənt ˈtræn·ʃənt, -dʒənt, -zi·ənt ˈtræn·ʃənt, -dʒənt, -zi·ənt",1,0
-transillumination,,0,0
+transillumination,,0,1
 transistor, trænˈzɪstɚ trænˈzɪstɚ trænˈzɪs·tər,1,0
 transistors, trænˈzɪstɚ trænˈzɪstɚ trænˈzɪs·tər,1,0
 transit," ˈtrænzɪt ˈtræn·zɪt, -sɪt",1,0
@@ -372,11 +372,11 @@ transpose, trænˈspoʊz trænˈspoʊz trænsˈpoʊz,0,0
 transposed, trænˈspoʊz trænˈspoʊz,1,0
 transsexual, trænzˈsekʃuəl trænzˈsekʃuəl,0,0
 transsexuals, trænzˈsekʃuəl trænzˈsekʃuəl,1,0
-transvaal,,0,0
+transvaal,,0,1
 transverse, trænsˈvɝːs,0,0
 transvestite," trænsˈvestaɪt trænsˈves·tɑɪt, trænz-",0,0
 transvestites," trænsˈvestaɪt trænsˈves·tɑɪt, trænz-",1,0
-trant,,0,0
+trant,,0,1
 trap, træp træp træp træp træp træp træp træp træp,0,0
 trapeze, trəˈpiːz træˈpiz,0,0
 trapped,,1,0
@@ -384,7 +384,7 @@ trapper, ˈtræpɚ ˈtræp·ər,0,0
 trappers, ˈtræpɚ ˈtræp·ər,1,0
 trapping,,1,0
 trappings, ˈtræpɪŋz ˈtræp·ɪŋz,0,0
-trappist, ˌtræpɪst ˈmʌŋk,1,0
+trappist,,0,1
 traps, træp træp træp træp træp træp træp træp træp træp træp,1,0
 trash, træʃ træʃ træʃ træʃ,0,0
 trashed, træʃ træʃ træʃ,1,0
@@ -403,7 +403,7 @@ traveled, ˈtrævəld,0,0
 traveler, ˈtrævəlɚ,1,0
 travelers, ˈtrævəlɚ,1,0
 traveling, ˈtrævəlɪŋ,1,0
-travelled, ˈtrævəld ˈtrævəld,1,0
+travelled,,0,1
 traveller, ˈtrævəlɚ ˈtrævəlɚ,1,0
 travellers, ˈtrævəlɚ ˈtrævəlɚ,1,0
 travelling, ˈtrævəlɪŋ,1,0
@@ -414,7 +414,7 @@ traversed, trəˈvɝːs,1,0
 traversing, trəˈvɝːs,1,0
 travesties, ˈtrævəsti ˈtræv·ə·sti,1,0
 travesty, ˈtrævəsti ˈtræv·ə·sti,0,0
-travis,,0,0
+travis,,0,1
 trawler, ˈtrɑːlɚ ˈtrɔ·lər,0,0
 trawlers, ˈtrɑːlɚ ˈtrɔ·lər,1,0
 tray, treɪ treɪ treɪ,0,0
@@ -428,18 +428,18 @@ treadmills, ˈtredmɪl ˈtredmɪl ˈtredmɪl ˈtredˌmɪl ˈtredˌmɪl,1,0
 treads, tred tred tred tred,1,0
 treason, ˈtriːzən ˈtri·zən,0,0
 treasonous, ˈtriːzənəbəl,1,0
-treasons,,0,0
+treasons,,0,1
 treasure, ˈtreʒɚ ˈtreʒɚ ˈtreʒɚ ˈtreʒ·ər ˈtreʒ·ər,0,0
 treasured, ˈtreʒɚ,1,0
 treasurer, ˈtreʒɚɚ ˈtreʒ·ər·ər,1,0
 treasurers, ˈtreʒɚɚ ˈtreʒ·ər·ər,1,0
 treasures,,1,0
-treasury, ˈtreʒɚi ˈtreʒ·ə·ri,1,0
+treasury, ˈtreʒ·ə·ri,0,1
 treat, triːt triːt triːt triːt trit trit trit trit,1,0
 treatable, ˈtriːtəbəl,0,0
 treated, triːt triːt triːt triːt,1,0
-treater,,0,0
-treaters,,0,0
+treater,,0,1
+treaters,,0,1
 treaties, ˈtriːt̬i ˈtri·t̬i,1,0
 treating, triːt triːt triːt triːt,1,0
 treatise, ˈtriːt̬ɪs ˈtri·t̬ɪs,0,0
@@ -451,10 +451,10 @@ treaty, ˈtriːt̬i ˈtri·t̬i,1,0
 treble, ˈtrebəl ˈtreb·əl,1,0
 trebled, ˈtrebəl,1,0
 tree, triː triː tri,0,0
-treeless,,0,0
+treeless,,0,1
 trees," ˈsɪkəmɔːr ˈsɪk·əˌmɔr, -ˌmoʊr",1,0
 treetop, ˈtriːtɑːp,0,0
-treetops, ˈtriːtɑːps,1,0
+treetops,,0,1
 trek, trek trek,0,0
 trekked,,1,0
 trekking, ˈtrekɪŋ,0,0
@@ -465,14 +465,14 @@ trembled, ˈtrembəl ˈtrembəl,1,0
 trembling, ˈtremblɪŋ ˈtremblɪŋ,0,0
 tremendous, trɪˈmendəs trəˈmen·dəs trəˈmen·dəs,0,0
 tremendously, trɪˈmendəsli trəˈmen·dəs·li,0,0
-tremens, dɪˌlɪriəm ˈtremənz,1,0
+tremens,,0,1
 tremor, ˈtremɚ ˈtremɚ ˈtrem·ər ˈtrem·ər,0,0
 tremors, ˈtremɚ ˈtremɚ ˈtrem·ər ˈtrem·ər,1,0
 tremulous, ˈtremjələs,0,0
 trench, trentʃ trentʃ trentʃ trentʃ,0,0
 trenchant, ˈtrentʃənt ˈtren·tʃənt,0,0
 trencher, ˈtrentʃɚ ˈtrentʃɚ,0,0
-trenches,,1,0
+trenches,,0,1
 trend, trend trend trend,1,0
 trendier, ˈtrendi ˈtren·di,1,0
 trendiest, ˈtrendi ˈtren·di,1,0
@@ -480,5 +480,5 @@ trending, trend trend trend trend,1,0
 trends, trend trend trend trend,1,0
 trendsetter, ˈtrendˌset̬ɚ,1,0
 trendy, ˈtrendi ˈtren·di,0,0
-trenton,,0,0
+trenton,,0,1
 trepidation, ˌtrepəˈdeɪʃən ˌtrep·ɪˈdeɪ·ʃən,0,0

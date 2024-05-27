@@ -1,14 +1,14 @@
 Word,Pronunciation,Root Word Returned,Missing
 mush, mʌʃ mʌʃ mʌʃ mʌʃ,0,0
 musher, ˈmʌʃɚ,0,0
-mushers,,0,0
+mushers,,0,1
 mushroom," ˈmʌʃruːm ˈmʌʃruːm ˈmʌʃ·rum, -rʊm",1,0
 mushroomed, ˈmʌʃruːm,1,0
 mushrooming, ˈmʌʃruːm,1,0
 mushrooms," ˈmʌʃruːm ˈmʌʃruːm ˈmʌʃ·rum, -rʊm",1,0
 mushy, ˈmʌʃi ˈmʌʃi,0,0
 music, ˈmjuːzɪk ˈmjuːzɪk ˈmjuːzɪk ˈmju·zɪk,0,0
-musica,,0,0
+musica,,0,1
 musical, ˈmjuːzɪkəl ˈmjuːzɪkəl ˈmju·zɪ·kəl,0,0
 musicality, mjuːzɪˈkælət̬i,0,0
 musically, ˈmjuːzɪkəli ˈmjuːzɪkəli,0,0
@@ -17,41 +17,41 @@ musician, mjuːˈzɪʃən mjʊˈzɪʃ·ən,0,0
 musicians, mjuːˈzɪʃən mjʊˈzɪʃ·ən,1,0
 musicianship, mjuːˈzɪʃənʃɪp,0,0
 musicologist, ˌmjuːzɪˈkɑːlədʒɪst,0,0
-musics,,0,0
+musics,,0,1
 musing, mjuːz,1,0
 musings, ˈmjuːzɪŋz,0,0
 musk, mʌsk mʌsk,0,0
 musket, ˈmʌskɪt ˈmʌs·kɪt,0,0
 musketeer, ˌmʌskəˈtɪr ˌmʌskəˈtɪr,0,0
 musketeers, ˌmʌskəˈtɪr ˌmʌskəˈtɪr,1,0
-muskie,,0,0
-muskogee,,0,0
-muskrat,,0,0
-muskrats,,0,0
+muskie,,0,1
+muskogee,,0,1
+muskrat,,0,1
+muskrats,,0,1
 musky, ˈmʌski,0,0
 muslim," ˈmɑːzlem ˈmʌz·lɪm, ˈmʊs-, ˈmʊz-",1,0
 muslims," ˈmɑːzlem ˈmʌz·lɪm, ˈmʊs-, ˈmʊz-",1,0
 muslin, ˈmʌzlɪn ˈmʌzlɪn ˈmʌzlɪn ˈmʌz·lɪn,0,0
 mussel, ˈmʌsəl ˈmʌs·əl,0,0
 mussels, ˈmʌsəl ˈmʌs·əl,1,0
-mussolini,,0,0
+mussolini,,0,1
 must," strong mʌst strong mʌst strong mʌst strong mʌst strong mʌst mʌst, məst mʌst, məst mʌst, məst mʌst, məst",0,0
 mustache," ˈmʌstæʃ ˈmʌs·tæʃ, məˈstæʃ",0,0
-mustached,,0,0
+mustached,,0,1
 mustaches," ˈmʌstæʃ ˈmʌs·tæʃ, məˈstæʃ",1,0
 mustachio, məˈstæʃioʊ,0,0
 mustachioed, məˈstæʃioʊd,0,0
 mustang, ˈmʌstæŋ,0,0
 mustangs, ˈmʌstæŋ,1,0
 mustard, ˈmʌstɚd ˈmʌstɚd ˈmʌstɚd ˈmʌs·tərd,0,0
-mustards,,0,0
+mustards,,0,1
 muster, ˈmʌstɚ ˈmʌstɚ ˈmʌs·tər ˈmʌs·tər,0,0
 mustered, ˈmʌstɚ ˈmʌstɚ,1,0
 mustering, ˈmʌstɚ ˈmʌstɚ,1,0
 musters, ˈmʌstɚ ˈmʌstɚ ˈmʌs·tər ˈmʌs·tər,1,0
 musty, ˈmʌsti ˈmʌs·ti,0,0
 mutable, ˈmjuːt̬əbəl,0,0
-mutagen,,0,0
+mutagen,,0,1
 mutant, ˈmjuːtənt ˈmjuːtənt ˈmju·t̬ənt,0,0
 mutants, ˈmjuːtənt ˈmjuːtənt ˈmju·t̬ənt,1,0
 mutate, mjuːˈteɪt mjuːˈteɪt ˈmju·teɪt,0,0
@@ -62,7 +62,7 @@ mutations, mjuːˈteɪʃən mjuːˈteɪʃən mjuˈteɪ·ʃən,1,0
 mute, mjuːt mjuːt mjut,0,0
 muted, ˈmjuːt̬ɪd ˈmjuːt̬ɪd ˈmjuːt̬ɪd ˈmju·t̬ɪd ˈmju·t̬ɪd,0,0
 mutes, mjuːt mjuːt mjuːt mjut,1,0
-muth,,0,0
+muth,,0,1
 mutilate, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt ˈmju·təlˌeɪt,0,0
 mutilated, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,1,0
 mutilating, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,1,0
@@ -92,7 +92,7 @@ muzzled, ˈmʌzəl ˈmʌzəl,1,0
 muzzles, ˈmʌzəl ˈmʌzəl ˈmʌzəl ˈmʌz·əl ˈmʌz·əl,1,0
 muzzy, ˈmʌzi,0,0
 my, maɪ maɪ maɪ mɑɪ,0,0
-mycenaean,,0,0
+mycenaean,,0,1
 myelin, ˈmaɪəlɪn,0,0
 mylar, ˈmaɪlɑːr,1,0
 myocardial, ˌmaɪoʊˈkɑːrdiəl,0,0
@@ -102,7 +102,7 @@ myopic," maɪˈɑːpɪk maɪˈɑːpɪk mɑɪˈɑp·ɪk, -ˈoʊ·pɪk",0,0
 myriad, ˈmɪriəd ˈmɪr·i·əd,0,0
 myrmidon, ˈmɜ˞mədɑːn,0,0
 myrmidons, ˈmɜ˞mədɑːn,1,0
-myron,,0,0
+myron,,0,1
 myrrh, mɝː,0,0
 myrtle, ˈmɝːt̬əl,0,0
 myself, maɪˈself maɪˈself maɪˈself mɑɪˈself mɑɪˈself mɑɪˈself,0,0
@@ -125,7 +125,7 @@ mythical, ˈmɪθɪkəl ˈmɪθɪkəl ˈmɪθ·ɪ·kəl,0,0
 mythological, ˌmɪθəˈlɑːdʒɪkəl,0,0
 mythology, mɪˈθɑːlədʒi mɪˈθɑːlədʒi mɪˈθɑl·ə·dʒi,0,0
 myths, mɪθ mɪθ mɪθ mɪθ,1,0
-n, en en en en,1,0
+n, en en en,0,1
 na, ˈsoʊdiəm ˈsoʊ·di·əm,1,0
 nab, næb næb,0,0
 nabbed,,1,0
@@ -135,30 +135,30 @@ nabobs, ˈneɪbɑːb,1,0
 nabs, næb næb,1,0
 nacho, ˈnɑːtʃoʊ,0,0
 nachos, ˈnɑːtʃoʊz,0,0
-nad,,0,0
-nada,,0,0
+nad,,0,1
+nada,,0,1
 nadir, ˈneɪdɚ ˈneɪdɚ ˈneɪdɚ,0,0
 naff, næf,0,0
 nag, næɡ næɡ,0,0
-nagasaki,,0,0
-nagel,,0,0
+nagasaki,,0,1
+nagel,,0,1
 nagged,,1,0
 nagging, ˈnæɡɪŋ ˈnæɡɪŋ ˈnæɡ·ɪŋ,0,0
 nags, næɡ næɡ,1,0
 nah," næː næ, nɑ",0,0
-naik,,0,0
+naik,,0,1
 nail, neɪl neɪl neɪl neɪl,1,0
 nailed, neɪl neɪl neɪl neɪl,1,0
 nailing, neɪl neɪl neɪl neɪl,1,0
 nails, neɪl neɪl neɪl neɪl,1,0
-naira,,0,0
-nairobi,,0,0
-naish,,0,0
+naira,,0,1
+nairobi,,0,1
+naish,,0,1
 naive, naɪˈiːv nɑˈiv,0,0
 naively, naɪˈiːvli,0,0
 naivete, naɪˈiːvət̬i,1,0
 naked, ˈneɪkɪd ˈneɪkɪd ˈneɪkɪd ˈneɪ·kɪd,0,0
-nam, ˌnɑːm ˈplɑː,1,0
+nam,,0,1
 name, neɪm neɪm neɪm neɪm neɪm neɪm,1,0
 named, neɪm neɪm neɪm,1,0
 nameless, ˈneɪmləs ˈneɪm·ləs,0,0
@@ -172,27 +172,27 @@ nan, næn nɑːn,0,0
 nana, ˈnænə,0,0
 nance, ˈnænsi,1,0
 nancy, ˈnænsi,0,0
-nanking,,0,0
+nanking,,0,1
 nannies, ˈnæni ˈnæni ˈnæn·i,1,0
 nanny, ˈnæni ˈnæni ˈnæn·i,0,0
 nanograms, ˈnænəˌɡræm,1,0
 nanosecond, ˈnænoʊˌsekənd,1,0
 nanoseconds, ˈnænoʊˌsekənd,1,0
 nanotechnology, ˌnænoʊtekˈnɑːlədʒi ˈnæn·oʊ·tekˌnɑl·ə·dʒi,1,0
-nantz,,0,0
-naomi,,0,0
+nantz,,0,1
+naomi,,0,1
 nap, næp næp næp,0,0
-napa, ˌnæpə ˈkæbɪdʒ,1,0
+napa,,0,1
 napalm, ˈneɪpɑːm,0,0
-naphtha,,0,0
-napier,,0,0
+naphtha,,0,1
+napier,,0,1
 napkin, ˈnæpkɪn ˈnæp·kɪn,0,0
 napkins, ˈnæpkɪn ˈnæp·kɪn,1,0
 naples, ˈneɪpəlz,1,0
 napoleon, nəˈpoʊliən,0,0
-napoleonic,,0,0
+napoleonic,,0,1
 napped,,1,0
-napper,,0,0
+napper,,0,1
 napping,,1,0
 naps, næp næp næp,1,0
 narc, nɑːrk nɑːrk,1,0
@@ -200,12 +200,12 @@ narcissism, ˈnɑːrsəsɪzəm,0,0
 narcissist, ˈnɑːrsəsɪst,0,0
 narcissistic, ˌnɑːrsəˈsɪstɪk,0,0
 narcissus, nɑːrˈsɪsəs,0,0
-narco,,0,0
+narco,,0,1
 narcolepsy, ˈnɑːrkəlepsi,0,0
-narcos,,0,0
+narcos,,0,1
 narcotic, nɑːrˈkɑːt̬ɪk nɑːrˈkɑːt̬ɪk nɑrˈkɑt̬·ɪk,0,0
 narcotics, nɑːrˈkɑːt̬ɪk nɑːrˈkɑːt̬ɪk nɑrˈkɑt̬·ɪk,1,0
-nard,,0,0
+nard,,0,1
 narrate," nəˈreɪt ˈnær·eɪt, næˈreɪt",0,0
 narrated, nəˈreɪt,1,0
 narration, nerˈeɪʃən nerˈeɪʃən næˈreɪ·ʃən næˈreɪʃən,0,0
@@ -221,22 +221,22 @@ narrowing, ˈneroʊ ˈneroʊ,1,0
 narrowly, ˈneroʊli ˈneroʊli ˈneroʊli ˈnær·ə·li,0,0
 narrowness, ˈneroʊnəs ˈneroʊnəs ˈneroʊnəs,0,0
 narrows, ˈneroʊz ˈneroʊz,0,0
-nary, ˈneri,1,0
+nary,,0,1
 nasa, ˈnæsə ˈnæs·ə,1,0
 nasal, ˈneɪzəl ˈneɪzəl ˈneɪ·zəl ˈneɪ·zəl,0,0
 nasally, ˈneɪzəli ˈneɪzəli,0,0
 nascent, ˈneɪsənt ˈneɪ·sənt,0,0
-nash,,0,0
+nash,,0,1
 nashville, ˈnæʃvɪl,1,0
 nasopharynx, ˌneɪzoʊˈferɪŋks,0,0
-nast,,0,0
+nast,,0,1
 nastier, ˈnæsti ˈnæsti ˈnæsti ˈnæsti ˈnæsti ˈnæs·ti,1,0
 nastiest, ˈnæsti ˈnæsti ˈnæsti ˈnæsti ˈnæsti ˈnæs·ti,1,0
 nastiness, ˈnæstinəs ˈnæstinəs ˈnæstinəs,0,0
 nasty, ˈnæsti ˈnæsti ˈnæsti ˈnæsti ˈnæs·ti,0,0
 nat, næt,1,0
 natal, ˈneɪt̬əl ˈneɪt̬əl,0,0
-natale,,0,0
+natale,,0,1
 nation, ˈneɪʃən ˈneɪʃən ˈneɪ·ʃən ˈneɪ·ʃən,1,0
 national, ˈnæʃənəl ˈnæʃ·ə·nəl,1,0
 nationalism, ˈnæʃənəlɪzəm ˈnæʃənəlɪzəm ˈnæʃ·ə·nəlˌɪz·əm ˈnæʃ·ə·nəlˌɪz·əm,0,0
@@ -254,7 +254,7 @@ nationwide, ˌneɪʃənˈwaɪd ˈneɪ·ʃənˈwɑɪd ˈneɪʃənˌwaɪd,0,0
 native, ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪ·t̬ɪv ˈneɪ·t̬ɪv,0,0
 natives, ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪt̬ɪv ˈneɪ·t̬ɪv ˈneɪ·t̬ɪv,1,0
 nativist, ˈneɪt̬ɪvɪst,0,0
-nativity, nəˈtɪvət̬i nəˈtɪvət̬i nəˈtɪv·ɪ·t̬i,1,0
+nativity, nəˈtɪvət̬i nəˈtɪvət̬i,0,1
 nato, ˈneɪt̬oʊ ˈneɪ·t̬oʊ,1,0
 natter, ˈnæt̬ɚ,0,0
 nattering, ˈnæt̬ɚ,1,0
@@ -273,16 +273,16 @@ natures, ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪ·tʃ
 naught," nɑːt nɑːt nɔt, nɑt",0,0
 naughty," ˈnɑːt̬i ˈnɑːt̬i ˈnɑːt̬i ˈnɔ·t̬i, ˈnɑt̬·i",0,0
 nausea," ˈnɑːʒə ˈnɔ·zi·ə, ˈnɔ·ʒə, ˈnɔ·ʃə",0,0
-nauseam, ˌæd ˈnɑːziæm,1,0
+nauseam,,0,1
 nauseate, ˈnɑːzieɪt,0,0
 nauseated, ˈnɔ·ziˌeɪ·t̬ɪd,0,0
 nauseating, ˈnɑːzieɪt̬ɪŋ ˈnɑːzieɪt̬ɪŋ ˈnɔ·ziˌeɪ·t̬ɪŋ,0,0
 nauseous," ˈnɑːʃəs ˈnɑːʃəs ˈnɔ·ʃəs, ˈnɔ·zi·əs",0,0
 nautical," ˈnɑːt̬ikəl ˈnɔ·t̬ɪ·kəl, ˈnɑt̬·ɪ-",1,0
-nautilus,,0,0
+nautilus,,0,1
 nav,,1,0
-navajo,,0,0
-navajos,,0,0
+navajo,,0,1
+navajos,,0,1
 naval, ˈneɪvəl ˈneɪ·vəl,0,0
 nave, neɪv,0,0
 navel, ˈneɪvəl ˈneɪ·vəl,0,0
@@ -297,17 +297,17 @@ navigational, ˌnævəˈɡeɪʃənəl ˌnævəˈɡeɪʃənəl,1,0
 navigator, ˈnævəɡeɪt̬ɚ ˈnæv·ɪˌɡeɪ·t̬ər,0,0
 navigators, ˈnævəɡeɪt̬ɚ ˈnæv·ɪˌɡeɪ·t̬ər,1,0
 navy, ˈneɪvi ˈneɪvi ˈneɪ·vi,0,0
-naw,,0,0
+naw,,0,1
 nay, neɪ neɪ,0,0
 nays, neɪ neɪ,1,0
 naysayer, ˈneɪˌseɪɚ,0,0
 naysayers, ˈneɪˌseɪɚ,1,0
-nazareth,,0,0
+nazareth,,0,1
 nazi," ˈnɑːtsi ˈnɑːtsi ˈnɑt·si, ˈnæt-",1,0
 nazis," ˈnɑːtsi ˈnɑːtsi ˈnɑt·si, ˈnæt-",1,0
 nazism, ˈnɑːtsɪzəm,1,0
 ne,,1,0
-neal,,0,0
+neal,,0,1
 neanderthal," niːˈændɚˌtɑːl niːˈændɚˌtɑːl niˈæn·dərˌtɔl, -ˌθɔl niˈæn·dərˌtɔl, -ˌθɔl",1,0
 neanderthals," niːˈændɚˌtɑːl niːˈændɚˌtɑːl niːˈændɚˌtɑːl niˈæn·dərˌtɔl, -ˌθɔl niˈæn·dərˌtɔl, -ˌθɔl",1,0
 neapolitan, ˌniːəˈpɑːlət̬ən,1,0
@@ -327,7 +327,7 @@ neatest, niːt niːt niːt niːt niːt nit nit nit nit nit,1,0
 neatly, ˈniːtli ˈniːtli ˈnit·li,0,0
 neatness, ˈniːtnəs ˈnit·nəs,0,0
 nebraska, nəˈbræskə,1,0
-nebraskans,,0,0
+nebraskans,,0,1
 nebula, ˈnebjələ ˈneb·jə·lə,0,0
 nebulizer, ˈnebjəlaɪzɚ,0,0
 nebulous, ˈnebjələs ˈneb·jə·ləs,0,0
@@ -341,14 +341,14 @@ necessities, nəˈsesət̬i nəˈsesət̬i nəˈses·ɪ·t̬i,1,0
 necessity, nəˈsesət̬i nəˈsesət̬i nəˈses·ɪ·t̬i,0,0
 neck, nek nek nek nek nek nek nek nek,0,0
 necked,  -nekt,1,0
-necker,,0,0
+necker,,0,1
 necklace, ˈnekləs ˈnek·lɪs,0,0
 necklaces, ˈnekləs ˈnek·lɪs,1,0
 necks, nek nek nek nek nek nek nek nek,1,0
 necktie, ˈnektaɪ ˈnekˌtɑɪ,1,0
 neckties, ˈnektaɪ ˈnekˌtɑɪ,1,0
-neckwear,,0,0
-necrology,,0,0
+neckwear,,0,1
+necrology,,0,1
 necromancer, ˈnekrəmænsɚ,0,0
 necromancy, ˈnekrəmænsi,0,0
 necropolis, nekˈrɑːəlɪs,0,0
@@ -358,12 +358,12 @@ nee, neɪ neɪ,1,0
 need, niːd niːd niːd nid nid nid nid,1,0
 needed, ˈniːdɪd,0,0
 needful, ˈniːdfəl ˈniːdfəl,0,0
-needham,,0,0
+needham,,0,1
 neediest, ˈniːdi ˈniːdi ˈniːdi ˈnid·i,1,0
 needing, niːd niːd niːd niːd niːd niːd niːd,1,0
 needle, ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl,0,0
 needled, ˈniːdəl,1,0
-needleman,,0,0
+needleman,,0,1
 needlepoint, ˈniːdəlpɔɪnt ˈniːdəlpɔɪnt,0,0
 needles, ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl,1,0
 needless, ˈniːdləs ˈnid·ləs,0,0
@@ -372,7 +372,7 @@ needlework, ˈniːdəlwɝːk,0,0
 needling, ˈniːdəl,1,0
 needs, nidz,0,0
 needy, ˈniːdi ˈniːdi ˈnid·i,0,0
-neer,,0,0
+neer,,0,1
 neet, niːt niːt,1,0
 nefarious, nəˈferiəs,0,0
 neg, neɡ,0,0
@@ -407,10 +407,10 @@ negotiators, nɪˈɡoʊʃieɪt̬ɚ nɪˈɡoʊ·ʃiˌeɪ·t̬ər,1,0
 negro, ˈniːɡroʊ ˈni·ɡroʊ,1,0
 negroes, ˈniːɡroʊ ˈni·ɡroʊ,1,0
 negroid, ˈniːɡrɔɪd,0,0
-negros,,0,0
-negus,,0,0
-nehemiah,,0,0
-nehru, ˈneɪruː ˌdʒækɪt,1,0
+negros,,0,1
+negus,,0,1
+nehemiah,,0,1
+nehru,,0,1
 neighbor, ˈneɪ·bər,1,0
 neighborhood, ˈneɪbɚhʊd ˈneɪ·bərˌhʊd ˈneɪ·bərˌhʊd,0,0
 neighborhoods, ˈneɪbɚhʊd ˈneɪ·bərˌhʊd ˈneɪ·bərˌhʊd,1,0
@@ -423,29 +423,29 @@ neighbourhoods, ˈneɪbɚhʊd,1,0
 neighbouring, ˈneɪbərɪŋ,0,0
 neighbourly, ˈneɪbɚli,0,0
 neighbours, ˈneɪbɚ ˈneɪbɚ,1,0
-nein,,0,0
+nein,,0,1
 neither," ˈnaɪðɚ ˈni·ðər, ˈnɑɪ-",0,0
-nelly, ˈneli,1,0
-nelson, ˌfʌl ˈnelsən ˌfʌl ˈnelsən,1,0
+nelly,,0,1
+nelson,,0,1
 nematodes, ˈnemətoʊd,1,0
-nemean,,0,0
+nemean,,0,1
 nemesis, ˈneməsɪs ˈneməsɪs,0,0
-nemo,,0,0
-nene,,0,0
+nemo,,0,1
+nene,,0,1
 neo, niːoʊ- ˌeniːˈoʊ,1,0
-neoclassic,,0,0
+neoclassic,,0,1
 neoclassical, ˌniːoʊˈklæsɪkəl,0,0
 neoconservative, ˌniːoʊkənˈsɝːvət̬ɪv,0,0
 neon, ˈniːɑːn ˈni·ɑn,0,0
 neonatal, ˌniːoʊˈneɪt̬əl ˌni·oʊˈneɪ·t̬əl,0,0
-neons,,0,0
+neons,,0,1
 neophyte, ˈniːoʊfaɪt ˈni·əˌfɑɪt,0,0
 neophytes, ˈniːoʊfaɪt ˈni·əˌfɑɪt,1,0
-neoplatonic,,0,0
+neoplatonic,,0,1
 neoprene, ˈniːoʊpriːn,0,0
 nepal, nəˈpɔːl,1,0
 nepalese, ˌnepəlˈiːz,1,0
-nepenthe,,0,0
+nepenthe,,0,1
 nephew, ˈnefjuː ˈnef·ju,0,0
 nephews, ˈnefjuː ˈnef·ju,1,0
 nepotism, ˈnepətɪzəm ˈnep·əˌtɪz·əm,1,0
@@ -455,7 +455,7 @@ nerds, nɝːd nɝːd nɜrd,1,0
 nerdy, ˈnɝːdi ˈnɝːdi,0,0
 nerve, nɝːv nɝːv nɝːv nɜrv nɜrv nɜrv,0,0
 nerves, nɜrvz,1,0
-nervosa, ænəˌreksiə nɚˈvoʊsə ˌæn·əˈrek·si·ə (nɜrˈvoʊ·sə),1,0
+nervosa,,0,1
 nervous, ˈnɝːvəs ˈnɝːvəs ˈnɜr·vəs ˈnɜr·vəs,0,0
 nervously, ˈnɝːvəsli ˈnɜr·vəs·li,0,0
 nervousness, ˈnɝːvəsnəs ˈnɜr·vəs·nəs,0,0
@@ -468,11 +468,11 @@ nesters,,1,0
 nesting, ˈnestɪŋ ˈnestɪŋ,0,0
 nestle, ˈnesəl ˈnesəl ˈnes·əl,0,0
 nestled, ˈnesəl ˈnesəl,1,0
-nestor,,0,0
+nestor,,0,1
 nests, nest nest nest nest nest,1,0
 net, net net net net,1,0
 nether, ˈneðɚ,0,0
-netherlands, ˈneðɚləndz,1,0
+netherlands,,0,1
 netherworld, ˈneðɚwɝːld,0,0
 nets, net net net ˈnet ˌdɑːtˈnet net net net,1,0
 netted,,1,0

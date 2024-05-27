@@ -13,14 +13,14 @@ magnum, ˈmæɡnəm,0,0
 magpie, ˈmæɡpaɪ ˈmæɡpaɪ ˈmæɡ·pɑɪ,0,0
 magpies, ˈmæɡpaɪ ˈmæɡpaɪ ˈmæɡ·pɑɪ,1,0
 mags,,1,0
-magyar,,0,0
-magyars,,0,0
-mahal,,0,0
+magyar,,0,1
+magyars,,0,1
+mahal,,0,1
 maharaja, ˌmɑːhəˈrɑːdʒə,0,0
-mahatma,,0,0
-mahdi,,0,0
+mahatma,,0,1
+mahdi,,0,1
 mahogany, məˈhɑːɡəni məˈhɑːɡəni məˈhɑ·ɡə·ni,0,0
-mahone,,0,0
+mahone,,0,1
 maid, meɪd meɪd meɪd,0,0
 maiden, ˈmeɪdən ˈmeɪdən ˈmeɪ·dən,1,0
 maidens, ˈmeɪdən ˈmeɪdən ˈmeɪ·dən,1,0
@@ -45,34 +45,34 @@ maine, meɪn,1,0
 mainframe, ˈmeɪnfreɪm ˈmeɪnˌfreɪm,1,0
 mainframes, ˈmeɪnfreɪm ˈmeɪnˌfreɪm,1,0
 mainland, ˈmeɪnlænd ˈmeɪn·lənd,1,0
-mainlander,,0,0
-mainlanders,,0,0
+mainlander,,0,1
+mainlanders,,0,1
 mainline, ˈmeɪnlaɪn ˈmeɪnlaɪn,0,0
 mainly, ˈmeɪnli ˈmeɪn·li,0,0
 mains,,1,0
-mainstay, ˈmeɪnsteɪ ˈmeɪnˌsteɪ,1,0
-mainstays, ˈmeɪnsteɪ ˈmeɪnˌsteɪ,1,0
+mainstay, ˈmeɪnˌsteɪ,0,1
+mainstays,,0,1
 mainstream, ˈmeɪnstriːm ˈmeɪnstriːm ˈmeɪnˌstrim,1,0
 maintain, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintained, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintaining, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintains, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintenance, ˈmeɪntənəns ˈmeɪntənəns ˈmeɪntənəns ˈmeɪn·tən·əns ˈmeɪn·tən·əns,1,0
-maire,,0,0
-maison,,0,0
-maitre, ˌmeɪt̬ɚ ˈdiː,1,0
+maire,,0,1
+maison,,0,1
+maitre,,0,1
 maize, meɪz meɪz,0,0
 majestic, məˈdʒestɪk məˈdʒes·tɪk,0,0
 majestically, məˈdʒestɪkəli,0,0
 majesty, ˈmædʒəsti ˈmædʒ·ə·sti,0,0
-majeure,,1,0
+majeure,,0,1
 majolica, məˈdʒɑːlɪkə,0,0
 major, ˈmeɪdʒɚ ˈmeɪdʒɚ ˈmeɪdʒɚ ˈmeɪ·dʒər ˈmeɪ·dʒər,1,0
 majordomo, ˌmeɪdʒɚˈdoʊmoʊ ˌmeɪdʒɚˈdoʊmoʊ,0,0
-majored,,1,0
-majoring,,1,0
+majored,,0,1
+majoring,,0,1
 majority," məˈdʒɔːrət̬i məˈdʒɔːrət̬i məˈdʒɔːrət̬i məˈdʒɔr·ɪ·t̬i, -ˈdʒɑr- məˈdʒɔr·ɪ·t̬i, -ˈdʒɑr-",1,0
-majors,,1,0
+majors,,0,1
 make, meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk,1,0
 makeover, ˈmeɪkˌoʊvɚ ˈmeɪkˌoʊ·vər,1,0
 makeovers, ˈmeɪkˌoʊvɚ ˈmeɪkˌoʊ·vər,1,0
@@ -81,28 +81,28 @@ makers, ˈmeɪkɚ ˈmeɪkɚ ˈmeɪkɚ ˈmeɪkɚ,1,0
 makes, meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk meɪk,1,0
 makeshift, ˈmeɪkʃɪft ˈmeɪk·ʃɪft,0,0
 makeup, ˈmeɪkʌp ˈmeɪkʌp ˈmeɪkˌʌp ˈmeɪkˌʌp,0,0
-maki,,0,0
+maki,,0,1
 making, ˈmeɪkɪŋ,1,0
 makings, ˈmeɪ·kɪŋz,0,0
-mako,,0,0
-makos,,0,0
+mako,,0,1
+makos,,0,1
 mal, mæl-,1,0
-mala,,1,0
-malacca,,0,0
+mala,,0,1
+malacca,,0,1
 maladies, ˈmælədi ˈmælədi ˈmæl·ə·di,1,0
 maladjusted, ˌmæləˈdʒʌstɪd,0,0
 malady, ˈmælədi ˈmælədi ˈmæl·ə·di,0,0
-malaga,,0,0
+malaga,,0,1
 malaise," məlˈeɪz məˈleɪz, mæ-, -ˈlez",0,0
-malamute, əˌlæskən ˈmæləmjuːt,1,0
+malamute,,0,1
 malaria, məˈleriə məˈleər·i·ə,0,0
 malarial, məˈleriəl məˈleriəl,0,0
 malarkey, məˈlɑːrki,0,0
-malathion,,0,0
+malathion,,0,1
 malawi, məˈlɑːwi,1,0
 malay, məˈleɪ,1,0
-malayan,,0,0
-malays,,0,0
+malayan,,0,1
+malays,,0,1
 malaysia, məˈleɪʒə,1,0
 malaysian, məˈleɪʒən,1,0
 malaysians, məˈleɪʒən,1,0
@@ -129,20 +129,20 @@ malign, məˈlaɪn məˈlɑɪn,0,0
 malignancy, məˈlɪɡnənsi məˈlɪɡnənsi məˈlɪɡ·nən·si,0,0
 malignant, məˈlɪɡnənt məˈlɪɡnənt məˈlɪɡ·nənt,0,0
 maligned, məˈlaɪn,1,0
-malik,,0,0
-maline,,0,0
-malkin,,0,0
+malik,,0,1
+maline,,0,1
+malkin,,0,1
 mall, mɑːl mɔl mɔl,1,0
 mallard, ˈmælɑːrd ˈmæl·ərd,0,0
 mallards, ˈmælɑːrd ˈmæl·ərd,1,0
 malleability, ˌmæliəˈbɪlət̬i ˌmæliəˈbɪlət̬i,0,0
 malleable, ˈmæliəbəl ˈmæliəbəl ˈmæl·i·ə·bəl ˈmæl·i·ə·bəl,0,0
 mallet, ˈmælɪt ˈmælɪt ˈmæl·ət,0,0
-malloseismic,,0,0
+malloseismic,,0,1
 malls, mɑːl mɔl mɔl,1,0
 malnourished," ˌmælˈnɝːɪʃt mælˈnɜr·ɪʃt, -ˈnʌr·ɪʃt",0,0
 malnutrition, ˌmælnuːˈtrɪʃən ˌmæl·nuˈtrɪʃ·ən,0,0
-malo,,0,0
+malo,,0,1
 malpractice, ˌmælˈpræktɪs mælˈpræk·tɪs,1,0
 malt, mɑːlt mɑːlt mɑːlt mɔlt,0,0
 malta, ˈmɑːltə,1,0
@@ -152,13 +152,13 @@ malting, mɑːlt,1,0
 maltreated, ˌmælˈtriːt,1,0
 maltreatment, ˌmælˈtriːtmənt,0,0
 malts, mɑːlt mɑːlt mɑːlt mɔlt,1,0
-malvin,,0,0
+malvin,,0,1
 mam, mæm,0,0
 mama, ˈmɑːmə ˈmɑːmə ˈmɑ·mə,0,0
 mamas, ˈmɑːmə ˈmɑːmə ˈmɑ·mə,1,0
 mamba, ˈmæmbə,0,0
 mambo, ˈmɑːmboʊ,0,0
-mamie,,0,0
+mamie,,0,1
 mamma, ˈmɑːmə ˈmɑːmə ˈmɑ·mə,1,0
 mammal, ˈmæməl ˈmæm·əl,0,0
 mammalian, məˈmeɪliən,0,0
@@ -168,12 +168,12 @@ mammogram, ˈmæməɡræm ˈmæm·əˌɡræm,0,0
 mammoth, ˈmæməθ ˈmæm·əθ,0,0
 mammoths, ˈmæməθ ˈmæm·əθ,1,0
 man, mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn,1,0
-mana,,0,0
+mana,,0,1
 manage, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmæn·ɪdʒ ˈmæn·ɪdʒ,1,0
 manageable, ˈmænədʒəbəl ˈmæn·ɪdʒ·ə·bəl,1,0
 managed, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,1,0
 management, ˈmænədʒmənt ˈmænədʒmənt ˈmæn·ɪdʒ·mənt ˈmæn·ɪdʒ·mənt,1,0
-managements,,1,0
+managements,,0,1
 manager, ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmæn·ɪ·dʒər,1,0
 managerial, ˌmænəˈdʒɪriəl,1,0
 managers, ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmæn·ɪ·dʒər,1,0
@@ -182,23 +182,23 @@ managing, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,1,0
 manatee, ˌmænəˈtiː,0,0
 manatees, ˌmænəˈtiː,1,0
 manchester, ˈmæntʃestɚ,0,0
-manchu,,0,0
-manchuria,,0,0
-mandala,,0,0
+manchu,,0,1
+manchuria,,0,1
+mandala,,0,1
 mandarin, ˈmændɚɪn ˈmændɚɪn,0,0
 mandarins, ˈmændɚɪn ˈmændɚɪn ˈmændɚɪn,1,0
 mandate, ˈmændeɪt ˈmændeɪt ˈmæn·deɪt,1,0
 mandated, ˈmændeɪt ˈmændeɪt,1,0
 mandates, ˈmændeɪt ˈmændeɪt ˈmæn·deɪt,1,0
 mandatory," ˈmændətɔːri ˈmæn·dəˌtɔr·i, -ˌtoʊr·i ˈmændəˌtɔri",0,0
-mandi,,0,0
+mandi,,0,1
 mandible, ˈmændəbəl ˈmændəbəl,0,0
 mandolin, ˌmændəˈlɪn ˌmæn·dəˈlɪn,0,0
 mandrake, ˈmændreɪk,0,0
 mandrill, ˈmændrɪl,0,0
 mane, meɪn meɪn meɪn,0,0
 manes, meɪn meɪn meɪn,1,0
-manet,,0,0
+manet,,0,1
 maneuver, məˈnuːvɚ məˈnu·vər məˈnu·vər,1,0
 maneuverability,,1,0
 maneuverable, məˈnuːvrəbəl,0,0
@@ -207,7 +207,7 @@ maneuvering, məˈnuːvɚɪŋ,0,0
 maneuverings, məˈnuːvɚɪŋ,1,0
 maneuvers, məˈnu·vərz,0,0
 manfully, ˈmænfəli,0,0
-mang,,0,0
+mang,,0,1
 manga, ˈmæŋɡə,0,0
 manganese, ˈmæŋɡəniːz,0,0
 mange, meɪndʒ,0,0
@@ -259,39 +259,39 @@ manipulators, məˈnɪpjəleɪt̬ɚ,1,0
 manitoba, ˌmænəˈtoʊbə,1,0
 mankind, mænˈkaɪnd ˈmænˈkɑɪnd,0,0
 manly, ˈmænli ˈmæn·li,0,0
-manmade,,0,0
+manmade,,0,1
 manna, ˈmænə,0,0
 manned,,1,0
 mannequin, ˈmænəkɪn ˈmænəkɪn ˈmæn·ɪ·kɪn,0,0
 mannequins, ˈmænəkɪn ˈmænəkɪn ˈmæn·ɪ·kɪn,1,0
 manner, ˈmænɚ ˈmænɚ ˈmænɚ ˈmæn·ər ˈmæn·ər,0,0
 mannered, ˈmænɚd ˈmæn·ərd ˈmæn·ərd,0,0
-mannering,,0,0
+mannering,,0,1
 mannerism, ˈmænɚɪzəm ˈmæn·əˌrɪz·əm,0,0
 mannerisms, ˈmænɚɪzəm ˈmænɚɪzəm ˈmæn·əˌrɪz·əm,1,0
 mannerist, ˈmænɚɪst,1,0
 manners, ˈmæn·ərz,1,0
 manning,,1,0
-manny,,0,0
-mano, ˌmɑːnoʊ ɑː ˈmɑːnoʊ ˌmɑːnoʊ ɑː ˈmɑːnoʊ,1,0
+manny,,0,1
+mano,,0,1
 manor, ˈmænɚ ˈmænɚ,0,0
 manors, ˈmænɚ ˈmænɚ,1,0
-manos, ˌmɑːnoʊ ɑː ˈmɑːnoʊ ˌmɑːnoʊ ɑː ˈmɑːnoʊ,1,0
+manos,,0,1
 manpower, ˈmænpaʊɚ ˈmænˌpɑʊ·ər,1,0
 mans, mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn  -mæn mæn mæn mæn mæn mæn mæn mæn,1,0
-manship,,0,0
+manship,,0,1
 mansion, ˈmænʃən ˈmæn·ʃən,0,0
 mansions, ˈmænʃənz,1,0
 manslaughter, ˈmænˌslɑːt̬ɚ ˈmænˌslɔ·t̬ər,0,0
-manta, ˈmæntə ˌreɪ,1,0
+manta,,0,1
 mantel, ˈmæntəlpiːs ˈmæn·təlˌpis,1,0
-mantilla,,0,0
+mantilla,,0,1
 mantis, ˈmænt̬ɪs,0,0
 mantle, ˈmæntəl ˈmæntəl ˈmæntəl ˈmæntəl ˈmæn·təl ˈmæn·təl ˈmæn·təl,0,0
 mantles, ˈmæntəl ˈmæntəl ˈmæntəl ˈmæntəl ˈmæn·təl ˈmæn·təl ˈmæn·təl,1,0
-manton,,0,0
+manton,,0,1
 mantra," ˈmæntrə ˈmæntrə ˈmæn·trə, ˈmɑn- ˈmæn·trə, ˈmɑn-",1,0
-mantua,,0,0
+mantua,,0,1
 manual, ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmæn·ju·əl ˈmæn·ju·əl,1,0
 manually, ˈmænjuəli ˈmænjuəli ˈmænjuəli,0,0
 manuals, ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmæn·ju·əl ˈmæn·ju·əl,1,0
@@ -307,9 +307,9 @@ manuscript, ˈmænjəskrɪpt ˈmænjəskrɪpt ˈmæn·jəˌskrɪpt,0,0
 manuscripts, ˈmænjəskrɪpt ˈmænjəskrɪpt ˈmæn·jəˌskrɪpt,1,0
 manx, mæŋks,1,0
 many, ˈmeni ˈmen·i,0,0
-mao,,0,0
+mao,,0,1
 maoist, ˈmaʊɪst,1,0
-maoists,,0,0
+maoists,,0,1
 maori, ˈmaʊri ˈmaʊri,1,0
 maoris, ˈmaʊri ˈmaʊri,1,0
 map, mæp mæp mæp mæp mæp,1,0
@@ -319,43 +319,43 @@ mapped,,1,0
 mapping, ˈmæpɪŋ ˈmæpɪŋ ˈmæpɪŋ ˈmæpɪŋ,0,0
 maps, mæp mæp mæp mæp mæp,1,0
 mar, mɑːr mɑr,1,0
-mara,,0,0
-marabou,,0,0
-marais,,0,0
+mara,,0,1
+marabou,,0,1
+marais,,0,1
 maraschino, ˌmerəˈʃiːnoʊ,0,0
 marathon, ˈmerəθɑːn ˈmerəθɑːn ˈmær·əˌθɑn ˈmær·əˌθɑn,0,0
 marathons, ˈmerəθɑːn ˈmerəθɑːn ˈmær·əˌθɑn ˈmær·əˌθɑn,1,0
-maraud,,0,0
+maraud,,0,1
 marauder, məˈrɑːdɚ,0,0
 marauders, məˈrɑːdɚ,1,0
 marauding, məˈrɑːdɪŋ,0,0
 marble, ˈmɑːrbəl ˈmɑːrbəl ˈmɑr·bəl ˈmɑr·bəl,0,0
 marbled, ˈmɑːrbəld,0,0
-marblehead,,0,0
-marbles, ˈmɑr·bəlz,1,0
-marc,,0,0
-marcel, ˌmɑːrsel ˈweɪv,1,0
-marcella,,0,0
-marcello,,0,0
+marblehead,,0,1
+marbles, ˈmɑr·bəlz,0,1
+marc,,0,1
+marcel,,0,1
+marcella,,0,1
+marcello,,0,1
 march, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑrtʃ mɑrtʃ,0,0
-marchand,,0,0
+marchand,,0,1
 marched, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,1,0
 marcher, ˈmɑːrtʃɚ,0,0
 marchers, ˈmɑːrtʃɚ,1,0
 marches, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑrtʃ mɑrtʃ mɑrtʃ,1,0
 marching, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,1,0
 marchioness, ˌmɑːrʃənˈes,0,0
-marchman,,0,0
-marco,,0,0
-marconi,,0,0
-mardi," ˌmɑːrdi ˈɡrɑː ˈmɑrd·iˌɡrɑ, -ˌɡrɔ",1,0
+marchman,,0,1
+marco,,0,1
+marconi,,0,1
+mardi,,0,1
 mare, mer mer mer meər,0,0
 mares, mer mer mer meər,1,0
-margaret,,0,0
+margaret,,0,1
 margarine, ˈmɑːrdʒɚɪn ˈmɑr·dʒə·rɪn,0,0
 margarita, ˌmɑːɡəˈriːt̬ə,0,0
 margaritas, ˌmɑːɡəˈriːt̬ə,1,0
-margaux,,0,0
+margaux,,0,1
 marge, ˈmɑːrdʒɚɪn ˈmɑr·dʒə·rɪn,1,0
 margin, ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn,1,0
 marginal, ˈmɑːrdʒɪnəl ˈmɑːrdʒɪnəl ˈmɑr·dʒɪ·nəl,1,0
@@ -366,12 +366,12 @@ marginalizing, ˈmɑːrdʒɪnəlaɪz,1,0
 marginally, ˈmɑːrdʒɪnəli,1,0
 margins, ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn,1,0
 marguerite, ˌmɑːrɡəˈriːt ˌmɑːrɡəˈriːt,0,0
-maria, ˌblæk məˈraɪə,1,0
+maria,,0,1
 mariachi, ˌmɑːriˈɑːtʃi ˌmɑːriˈɑːtʃi ˌmɑːriˈɑːtʃi,0,0
 marian, ˈmeriən ˈmeriən,1,0
-mariana,,0,0
-marianna,,0,0
-marianne,,0,0
+mariana,,0,1
+marianna,,0,1
+marianne,,0,1
 marie, ˌbænməˈriː,1,0
 marigold, ˈmerɪɡoʊld ˈmær·əˌɡoʊld,0,0
 marigolds, ˈmerɪɡoʊld ˈmerɪɡoʊld ˈmær·əˌɡoʊld,1,0
@@ -389,12 +389,12 @@ marine, məˈriːn məˈrin,1,0
 mariner, ˈmerənɚ ˈmær·ə·nər,0,0
 mariners, ˈmerənɚ ˈmær·ə·nər,1,0
 marines, məˈriːn məˈrin məˈrin,1,0
-mariposa, ˌmeripoʊsə ˈlɪli,1,0
-maris,,0,0
+mariposa,,0,1
+maris,,0,1
 marital, ˈmerɪt̬əl ˈmær·ɪ·t̬əl,0,0
 maritime, ˈmerətaɪm ˈmerətaɪm ˈmær·ɪˌtɑɪm,1,0
-maritimes,,0,0
-marjorie,,0,0
+maritimes,,0,1
+marjorie,,0,1
 mark, mɑːrk mɑːrk mɑːrk mɑːrk mɑːrk mɑːrk mɑːrk mɑːrk mɑrk mɑrk mɑrk mɑrk mɑrk mɑrk,1,0
 markdowns, ˈmɑːrkdaʊn ˈmɑrkˌdɑʊn,1,0
 marked, mɑːrkt mɑrkt,1,0
@@ -421,11 +421,11 @@ marksmanship, ˈmɑːrksmənʃɪp ˈmɑrks·mənˌʃɪp,0,0
 marksmen, ˈmɑːrksmən ˈmɑrks·mən,1,0
 markup, ˈmɑːrkʌp ˈmɑrkˌʌp,0,0
 marlin, ˈmɑːrlɪn,0,0
-marlins,,0,0
+marlins,,0,1
 marmalade, ˈmɑːrməleɪd ˈmɑr·məˌleɪd,0,0
-marmalades,,0,0
+marmalades,,0,1
 marmoset, ˈmɑːrməset,0,0
-maro,,0,0
+maro,,0,1
 maroon, məˈruːn məˈrun,0,0
 marooned, məˈruːnd məˈrund,0,0
 marque, mɑːrk,1,0
@@ -445,15 +445,15 @@ marry, ˈmeri ˈmeri ˈmeri ˈmær·i ˈmær·i,0,0
 marrying, ˈmeri ˈmeri ˈmeri,1,0
 mars, mɑːrz mɑːrz mɑrz,1,0
 marsala, mɑːrˈsɑːlɑː,1,0
-marse,,0,0
-marseille,,0,0
-marseilles,,0,0
+marse,,0,1
+marseille,,0,1
+marseilles,,0,1
 marsh, mɑːrʃ mɑrʃ,0,0
 marshal, ˈmɑːrʃəl ˈmɑr·ʃəl,0,0
 marshaled, ˈmɑːrʃəl ˈmɑr·ʃəl,1,0
 marshaling, ˈmɑːrʃəl ˈmɑr·ʃəl,1,0
-marshall, ˈmɑːrʃəl ˌaɪləndz,1,0
-marshalls,,0,0
+marshall,,0,1
+marshalls,,0,1
 marshals, ˈmɑːrʃəl ˈmɑr·ʃəl,1,0
 marshes,,1,0
 marshland, ˈmɑːrʃlænd,0,0
@@ -464,16 +464,16 @@ marshy, ˈmɑːrʃi,0,0
 marsupial, mɑːrˈsuːpiəl mɑrˈsu·pi·əl,0,0
 marsupials, mɑːrˈsuːpiəl mɑrˈsu·pi·əl,1,0
 mart, mɑːrt mɑrt,1,0
-martel,,0,0
+martel,,0,1
 marten, ˈmɑːrtən,0,0
 martens, ˈmɑːrtən,1,0
-martha,,0,0
+martha,,0,1
 martial, ˈmɑːrʃəl ˈmɑr·ʃəl,0,0
 martian, ˈmɑːrʃən ˈmɑr·ʃən,1,0
 martians, ˈmɑːrʃən ˈmɑr·ʃən,1,0
 martin, ˈmɑːrt̬ən,0,0
-martinez,,0,0
-martingale,,0,0
+martinez,,0,1
+martingale,,0,1
 martini, mɑːrˈtiːni mɑrˈti·ni,0,0
 martinis, mɑːrˈtiːni mɑːrˈtiːni mɑrˈti·ni,1,0
 martins, ˈmɑːrt̬ən,1,0

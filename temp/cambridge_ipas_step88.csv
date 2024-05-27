@@ -8,14 +8,14 @@ sunfish, ˈsʌnfɪʃ ˈsʌnfɪʃ,0,0
 sunflower," ˈsʌnˌflaʊɚ ˈsʌnˌflɑʊ·ər, -flɑʊər",0,0
 sunflowers," ˈsʌnˌflaʊɚ ˈsʌnˌflɑʊ·ər, -flɑʊər",1,0
 sung, sʌŋ sʌŋ,0,0
-sunglass,,0,0
+sunglass,,0,1
 sunglasses, ˈsʌnˌɡlæsɪz ˈsʌnˌɡlæs·əs,0,0
 sunk, sʌŋk sʌŋk,0,0
 sunken, ˈsʌŋkən ˈsʌŋkən ˈsʌŋkən ˈsʌŋ·kən,0,0
 sunlight, ˈsʌnlaɪt ˈsʌnˌlɑɪt,0,0
 sunlit, ˈsʌnlɪt ˈsʌnˌlɪt,0,0
 sunni," ˈsʊni ˈsʊn·i, ˈsu·ni",1,0
-sunning,,0,0
+sunning,,0,1
 sunny, ˈsʌni ˈsʌni ˈsʌn·i ˈsʌn·i,0,0
 sunrise, ˈsʌnraɪz ˈsʌnraɪz ˈsʌnˌrɑɪz ˈsʌnˌrɑɪz,0,0
 sunroof, ˈsʌnruːf,0,0
@@ -26,7 +26,7 @@ sunscreens, ˈsʌnskriːn ˈsʌnˌskrin,1,0
 sunset, ˈsʌnset ˈsʌnset ˈsʌnˌset ˈsʌnˌset,0,0
 sunsets, ˈsʌnset ˈsʌnset ˈsʌnˌset ˈsʌnˌset,1,0
 sunshine, ˈsʌnʃaɪn ˈsʌnʃaɪn ˈsʌnʃaɪn ˈsʌnˌʃɑɪn,0,0
-sunshiny,,0,0
+sunshiny,,0,1
 sunspot, ˈsʌnspɑːt,0,0
 sunspots, ˈsʌnspɑːt,1,0
 suntan, ˈsʌntæn ˈsʌnˌtæn,0,0
@@ -40,16 +40,16 @@ supercharged, ˈsuːpɚtʃɑːrdʒd ˈsuːpɚtʃɑːrdʒd,0,0
 supercilious, ˌsuːpɚˈsɪliəs,0,0
 supercomputer,,1,0
 supercomputers,,1,0
-superconducting,,0,0
+superconducting,,0,1
 superconductivity, ˌsuːpɚkɑːndʌkˈtɪvət̬i,0,0
 superconductor, ˈsuːpɚkənˌdʌktɚ,0,0
 superconductors, ˈsuːpɚkənˌdʌktɚ,1,0
-supercool,,0,0
+supercool,,0,1
 supercooled, ˌsuːpəˈkuːld,0,0
 superficial, ˌsuːpɚˈfɪʃəl ˌsuːpɚˈfɪʃəl ˌsuːpɚˈfɪʃəl ˌsuːpɚˈfɪʃəl ˌsu·pərˈfɪʃ·əl ˌsu·pərˈfɪʃ·əl ˌsu·pərˈfɪʃ·əl ˌsu·pərˈfɪʃ·əl,0,0
 superficially, ˌsuːpɚˈfɪʃəli ˌsuːpɚˈfɪʃəli ˌsuːpɚˈfɪʃəli ˌsu·pərˈfɪʃ·ə·li ˌsu·pərˈfɪʃ·ə·li,0,0
 superfluous, suːˈpɝːfluəs sʊˈpɜr·flu·əs,0,0
-superheated,,0,0
+superheated,,0,1
 superhero, ˈsuːpɚˌhɪroʊ ˈsuːpɚˌhɪroʊ ˈsu·pərˌhɪəɛr·oʊ ˈsu·pərˌhɪəɛr·oʊ,0,0
 superheroes,,1,0
 superhighway, ˈsuːpɚˌhaɪweɪ ˌsu·pərˈhɑɪˌweɪ,1,0
@@ -57,7 +57,7 @@ superhighways, ˈsuːpɚˌhaɪweɪ ˌsu·pərˈhɑɪˌweɪ,1,0
 superhuman," ˌsuːpɚˈhjuːmən ˌsu·pərˈhju·mən, -ˈju-",0,0
 superimpose, ˌsuːpɚɪmˈpoʊz,0,0
 superimposed, ˌsuːpɚɪmˈpoʊz,1,0
-superintendant,,0,0
+superintendant,,0,1
 superintendent," ˌsuːpɚɪnˈtendənt ˌsuːpɚɪnˈtendənt ˌsu·pər·ɪnˈten·dənt, ˌsu·prɪn- ˌsu·pər·ɪnˈten·dənt, ˌsu·prɪn-",1,0
 superintendents," ˌsuːpɚɪnˈtendənt ˌsuːpɚɪnˈtendənt ˌsu·pər·ɪnˈten·dənt, ˌsu·prɪn- ˌsu·pər·ɪnˈten·dənt, ˌsu·prɪn-",1,0
 superior, səˈpɪriɚ səˈpɪriɚ səˈpɪriɚ səˈpɪriɚ sʊˈpɪər·i·ər sʊˈpɪər·i·ər sʊˈpɪər·i·ər,1,0
@@ -72,7 +72,7 @@ supermodel, ˈsuːpɚˌmɑːdəl,0,0
 supermodels, ˈsuːpɚˌmɑːdəl,1,0
 supernatural, ˌsuːpɚˈnætʃɚəl ˌsu·pərˈnætʃ·ər·əl,0,0
 supernova, ˌsuːpɚˈnoʊvə,0,0
-superoxide,,0,0
+superoxide,,0,1
 superpower, ˈsuːpɚˌpaʊɚ ˈsu·pərˌpɑʊ·ər,1,0
 superpowers, ˈsuːpɚˌpaʊɚ ˈsu·pərˌpɑʊ·ər,1,0
 supers, ˈsuːpɚ suːpɚ- suːpɚ- ˈsu·pər,1,0
@@ -82,7 +82,7 @@ superseded, ˌsuːpɚˈsiːd,1,0
 supersedes, ˌsuːpɚˈsiːd ˌsu·pərˈsid,1,0
 superseding, ˌsuːpɚˈsiːd,1,0
 supersonic, ˌsuːpɚˈsɑːnɪk ˌsu·pərˈsɑn·ɪk,0,0
-supersonics,,0,0
+supersonics,,0,1
 superstar, ˈsuːpɚstɑːr ˈsu·pərˌstɑr,0,0
 superstars, ˈsuːpɚstɑːr ˈsu·pərˌstɑr,1,0
 superstition, ˌsuːpɚˈstɪʃən ˌsu·pərˈstɪʃ·ən,0,0
@@ -92,7 +92,7 @@ superstore, ˈsuːpɚstɔːr,1,0
 superstructure, ˈsuːpɚˌstrʌktʃɚ ˈsuːpɚˌstrʌktʃɚ ˈsuːpɚˌstrʌktʃɚ ˈsu·pərˌstrʌk·tʃər,0,0
 supertanker, ˈsuːpɚˌtæŋkɚ,1,0
 supertankers, ˈsuːpɚˌtæŋkɚ,1,0
-supervalue,,0,0
+supervalue,,0,1
 supervise, ˈsuːpɚvaɪz ˈsu·pərˌvɑɪz,1,0
 supervised, ˈsuːpɚvaɪz,1,0
 supervises, ˈsuːpɚvaɪz ˈsu·pərˌvɑɪz,1,0
@@ -128,7 +128,7 @@ supportable, səˈpɔːrt̬əbəl səˈpɔːrt̬əbəl səˈpɔːrt̬əbəl -ˈp
 supported, səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt,1,0
 supporter," səˈpɔːrt̬ɚ səˈpɔːrt̬ɚ səˈpɔr·t̬ər, -ˈpoʊr·t̬ər səˈpɔr·t̬ər, -ˈpoʊr·t̬ər",0,0
 supporters," səˈpɔːrt̬ɚ səˈpɔːrt̬ɚ səˈpɔr·t̬ər, -ˈpoʊr·t̬ər səˈpɔr·t̬ər, -ˈpoʊr·t̬ər",1,0
-supporting, səˈpɔːrt̬ɪŋ,1,0
+supporting,,0,1
 supportive," səˈpɔːrt̬ɪv səˈpɔːrt̬ɪv səˈpɔr·t̬ɪv, -ˈpoʊr·t̬ɪv səˈpɔr·t̬ɪv, -ˈpoʊr·t̬ɪv",0,0
 supports," səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔːrt səˈpɔrt, -ˈpoʊrt səˈpɔrt, -ˈpoʊrt səˈpɔrt, -ˈpoʊrt səˈpɔrt, -ˈpoʊrt səˈpɔrt, -ˈpoʊrt",1,0
 suppose, səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz,0,0
@@ -139,7 +139,7 @@ supposing, səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz səˈpoʊz,1,0
 supposition, ˌsʌpəˈzɪʃən ˌsʌp·əˈzɪʃ·ən,0,0
 suppositions, ˌsʌpəˈzɪʃən ˌsʌp·əˈzɪʃ·ən,1,0
 suppress, səˈpres səˈpres səˈpres səˈpres,1,0
-suppressant,,0,0
+suppressant,,0,1
 suppressed, səˈpres səˈpres,1,0
 suppresses, səˈpres səˈpres səˈpres səˈpres,1,0
 suppressing, səˈpres səˈpres,1,0
@@ -151,9 +151,9 @@ supremacy," suːˈpreməsi suːˈpreməsi səˈprem·ə·si, su-",0,0
 supreme," suːˈpriːm suːˈpriːm səˈprim, su-",0,0
 supremely, suːˈpriːmli,0,0
 sur, sɝː,1,0
-sura,,0,0
-surat,,0,0
-surcease,,0,0
+sura,,0,1
+surat,,0,1
+surcease,,0,1
 surcharge, ˈsɝːtʃɑːrdʒ ˈsɜrˌtʃɑrdʒ,1,0
 sure, ʃʊr ʃʊr ʃʊər ʃʊər,0,0
 surely, ˈʃʊrli ˈʃʊrli ˈʃʊər·li ˈʃʊər·li,0,0
@@ -183,7 +183,7 @@ surges, sɝːdʒ sɝːdʒ sɝːdʒ sɜrdʒ,1,0
 surgical, ˈsɝːdʒɪkəl ˈsɝːdʒɪkəl ˈsɝːdʒɪkəl,0,0
 surgically, ˈsɝːʤɪkəli,0,0
 surging, sɝːdʒ sɝːdʒ sɝːdʒ,1,0
-surinam,,0,0
+surinam,,0,1
 surly, ˈsɝːli ˈsɜr·li,0,0
 surmise, sɚˈmaɪz sərˈmɑɪz,0,0
 surmised, sɚˈmaɪz,1,0
@@ -217,7 +217,7 @@ surrey, ˈsɝːi,0,0
 surrogacy, ˈsɝːəɡəsi,0,0
 surrogate," ˈsɝːəɡət ˈsɜr·ə·ɡɪt, -ˌɡeɪt",0,0
 surrogates," ˈsɝːəɡət ˈsɜr·ə·ɡɪt, -ˌɡeɪt",1,0
-surrogation,,0,0
+surrogation,,0,1
 surround, səˈraʊnd səˈrɑʊnd səˈrɑʊnd,0,0
 surrounded, səˈraʊnd,1,0
 surrounding, səˈraʊndɪŋ,0,0
@@ -243,7 +243,7 @@ survives, sɚˈvaɪv sɚˈvaɪv sərˈvɑɪv sərˈvɑɪv,1,0
 surviving, sɚˈvaɪvɪŋ,0,0
 survivor, sɚˈvaɪvɚ sɚˈvaɪvɚ sɚˈvaɪvɚ sərˈvɑɪ·vər sərˈvɑɪ·vər,1,0
 survivors, sɚˈvaɪvɚ sɚˈvaɪvɚ sɚˈvaɪvɚ sərˈvɑɪ·vər sərˈvɑɪ·vər,1,0
-susan, ˌleɪzi ˈsuːzən,1,0
+susan,,0,1
 susceptibility, səˌseptəˈbɪləi,0,0
 susceptible, səˈseptəbəl səˈseptəbəl səˈseptəbəl səˈsep·tə·bəl,0,0
 sushi, ˈsuːʃi ˈsu·ʃi,0,0
@@ -274,15 +274,15 @@ sustained, səˈsteɪnd səˈsteɪnd səˈsteɪnd,1,0
 sustaining, səˈsteɪn səˈsteɪn səˈsteɪn səˈsteɪn,1,0
 sustains, səˈsteɪn səˈsteɪn səˈsteɪn səˈsteɪn səˈsteɪn səˈsteɪn səˈsteɪn,1,0
 sustenance, ˈsʌstənəns ˈsʌstənəns ˈsʌstənəns ˈsʌs·tə·nəns,0,0
-sutor,,0,0
-sutter,,0,0
+sutor,,0,1
+sutter,,0,1
 suture, ˈsuːtʃɚ,0,0
 sutured, ˈsuːtʃɚ,1,0
 sutures, ˈsuːtʃɚ,1,0
 suturing, ˈsuːtʃɚ,1,0
-suzanne,,0,0
-suzette, ˌkrep suːˈzet,1,0
-suzuki,,0,0
+suzanne,,0,1
+suzette,,0,1
+suzuki,,0,1
 svelte, svelt,0,0
 swab, swɑːb swɑːb swɑb,0,0
 swabs, swɑːb swɑːb swɑb,1,0
@@ -349,7 +349,7 @@ swede, swiːd,0,0
 sweden, ˈswiːdən,1,0
 swedes, swiːd swiːd,1,0
 swedish, ˈswiːdɪʃ,1,0
-sweeny,,0,0
+sweeny,,0,1
 sweep, swiːp swiːp swiːp swiːp swiːp swiːp swiːp swip swip swip swip,0,0
 sweeper, ˈswiːpɚ ˈswiːpɚ,0,0
 sweepers, ˈswiːpɚ ˈswiːpɚ,1,0
@@ -369,11 +369,11 @@ sweetest, swiːt swiːt swiːt swiːt swiːt swit swit swit swit,1,0
 sweetheart, ˈswiːthɑːrt ˈswiːthɑːrt ˈswiːthɑːrt ˈswitˌhɑrt ˈswitˌhɑrt,0,0
 sweethearts, ˈswiːthɑːrt ˈswiːthɑːrt ˈswiːthɑːrt ˈswitˌhɑrt ˈswitˌhɑrt,1,0
 sweetie, ˈswiːt̬i ˈswiːt̬i ˈswiːt̬i,0,0
-sweeting,,0,0
+sweeting,,0,1
 sweetly, ˈswiːtli,0,0
 sweetness, ˈswiːtnəs,0,0
 sweets, swits,0,0
-sweetwater,,0,0
+sweetwater,,0,1
 swell, swel swel swel,0,0
 swelled, swel swel swel,1,0
 swelling, ˈswelɪŋ,0,0
@@ -414,8 +414,8 @@ swinger, ˈswɪŋɚ,0,0
 swingers, ˈswɪŋɚ,1,0
 swinging, ˈswɪŋɪŋ ˈswɪŋ·ɪŋ,0,0
 swings, swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ swɪŋ,1,0
-swink,,0,0
-swinney,,0,0
+swink,,0,1
+swinney,,0,1
 swipe, swaɪp swaɪp swaɪp swaɪp swɑɪp swɑɪp,1,0
 swiped, swaɪp swaɪp swaɪp swaɪp,1,0
 swipes, swaɪp swaɪp swaɪp swaɪp swɑɪp swɑɪp,1,0
@@ -435,7 +435,7 @@ switchblades, ˈswɪtʃbleɪd ˈswɪtʃˌbleɪd,1,0
 switchboard," ˈswɪtʃbɔːrd ˈswɪtʃˌbɔrd, -ˌboʊrd",1,0
 switchboards," ˈswɪtʃbɔːrd ˈswɪtʃˌbɔrd, -ˌboʊrd",1,0
 switched, swɪtʃ swɪtʃ,1,0
-switcher,,0,0
+switcher,,0,1
 switches, swɪtʃ swɪtʃ swɪtʃ swɪtʃ,1,0
 switching, swɪtʃ swɪtʃ,1,0
 switzerland, ˈswɪtsɚlənd,1,0
@@ -454,7 +454,7 @@ swoops, swuːp swuːp swup,1,0
 swoosh, swuːʃ,0,0
 sword," sɔːrd sɔrd, soʊrd",0,0
 swordfish," ˈsɔːrdfɪʃ ˈsɔrdˌfɪʃ, ˈsoʊrd-",0,0
-swordplay,,0,0
+swordplay,,0,1
 swords," sɔːrd sɔrd, soʊrd",1,0
 swore," swɔːr swɔr, swoʊr",0,0
 sworn," swɔːrn swɔrn, swoʊrn",1,0
@@ -463,15 +463,15 @@ swung, swʌŋ swʌŋ,0,0
 sycamore," ˈsɪkəmɔːr ˈsɪk·əˌmɔr, -ˌmoʊr",0,0
 sycophantic, ˌsɪkəˈfæntɪk,0,0
 sydney, ˈsɪdni,1,0
-syed,,0,0
-sykes,,0,0
+syed,,0,1
+sykes,,0,1
 syllable, ˈsɪləbəl ˈsɪl·ə·bəl,0,0
 syllables, ˈsɪləbəl ˈsɪl·ə·bəl,1,0
 syllabus, ˈsɪləbəs ˈsɪl·ə·bəs,0,0
 sylvan, ˈsɪlvən,1,0
-sylvester,,0,0
-sylvia,,0,0
-sym,,0,0
+sylvester,,0,1
+sylvia,,0,1
+sym,,0,1
 symbiosis," ˌsɪmbaɪˈoʊsɪs ˌsɪmbaɪˈoʊsɪs ˌsɪmˌbiˈoʊ·sɪs, ˌsɪm·bɑɪ-",0,0
 symbiotic, ˌsɪmbaɪˈɑːt̬ɪk ˌsɪmbaɪˈɑːt̬ɪk,0,0
 symbol, ˈsɪmbəl ˈsɪmbəl ˈsɪmbəl ˈsɪmbəl ˈsɪm·bəl ˈsɪm·bəl,1,0

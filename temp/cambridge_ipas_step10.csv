@@ -1,24 +1,24 @@
 Word,Pronunciation,Root Word Returned,Missing
 blames, bleɪm bleɪm bleɪm bleɪm bleɪm bleɪm,1,0
 blaming, bleɪm bleɪm bleɪm,1,0
-blan,,0,0
-blanc, ˈbɝː ˈblɑːŋk,1,0
-blanca,,0,0
+blan,,0,1
+blanc,,0,1
+blanca,,0,1
 blanch, blæntʃ blæntʃ blæntʃ blæntʃ blæntʃ,0,0
-blanche, ˌkɑːrt ˈblɑːnʃ,1,0
-blanco, ˌkeɪsoʊ ˈblɑːnkoʊ,1,0
+blanche,,0,1
+blanco,,0,1
 bland, blænd blænd,0,0
 blander, blænd blænd,1,0
 blandishments, ˈblændɪʃmənts,0,0
 blandly, ˈblændli,0,0
 blandness, ˈblændnəs,0,0
 blank, blæŋk blæŋk blæŋk blæŋk blæŋk,1,0
-blanked, blæŋk blæŋk blæŋk blæŋk,1,0
+blanked,,0,1
 blanket, ˈblæŋkɪt ˈblæŋ·kɪt,1,0
 blanketed, ˈblæŋkɪt,1,0
 blanketing, ˈblæŋkɪt,1,0
 blankets, ˈblæŋkɪt ˈblæŋ·kɪt,1,0
-blanking, blæŋk blæŋk blæŋk blæŋk,1,0
+blanking,,0,1
 blankly, ˈblæŋkli ˈblæŋkli ˈblæŋk·li,0,0
 blanks, blæŋk blæŋk blæŋk blæŋk blæŋk,1,0
 blare, bler bleər,0,0
@@ -68,16 +68,16 @@ blender, ˈblendɚ ˈblendɚ ˈblendɚ ˈblen·dər,0,0
 blenders, ˈblendɚ ˈblendɚ ˈblendɚ ˈblen·dər,1,0
 blending, blend blend blend,1,0
 blends, blend blend blend,1,0
-blenheim,,0,0
+blenheim,,0,1
 bless, bles bles,0,0
 blessed, ˈbles·ɪd ˈbles·ɪd,1,0
 blessedly, ˈblesɪdli,0,0
-blessedness,,0,0
+blessedness,,0,1
 blesses, bles bles,1,0
 blessing, ˈblesɪŋ ˈblesɪŋ ˈbles·ɪŋ ˈbles·ɪŋ ˈbles·ɪŋ,0,0
 blessings, ˈblesɪŋ ˈblesɪŋ ˈblesɪŋ ˈbles·ɪŋ ˈbles·ɪŋ ˈbles·ɪŋ,1,0
 blest,,1,0
-bleu, ˌkɔːrdɑ̃ː ˈbluː ˌkɔːrdɑ̃ː ˈbluː ˌkɔːrdɑ̃ː ˈbluː,1,0
+bleu,,0,1
 blew, bluː blu,0,0
 blight, blaɪt blaɪt blɑɪt blɑɪt,0,0
 blighted, blaɪt,1,0
@@ -111,7 +111,7 @@ blisters, ˈblɪstɚ ˈblɪstɚ ˈblɪs·tər ˈblɪs·tər,1,0
 blithe," blaɪð blɑɪð, blɑɪθ",0,0
 blithely, ˈblaɪðli,0,0
 blitz, blɪts blɪts blɪts blɪts blɪts blɪts,1,0
-blitzed,,0,0
+blitzed,,0,1
 blitzes, blɪts blɪts blɪts blɪts blɪts blɪts blɪts,1,0
 blitzkrieg, ˈblɪtskriːɡ,0,0
 blizzard, ˈblɪzɚd ˈblɪzɚd ˈblɪz·ərd,0,0
@@ -121,7 +121,7 @@ bloated, ˈbloʊt̬ɪd ˈbloʊt̬ɪd ˈbloʊ·t̬ɪd,1,0
 bloating, ˈbloʊt̬ɪŋ,0,0
 bloats, bloʊt,1,0
 blob, blɑːb blɑːb blɑːb blɑb,0,0
-blobby,,0,0
+blobby,,0,1
 blobs, blɑːb blɑːb blɑːb blɑb,1,0
 bloc, blɑːk blɑk,1,0
 block, blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑk blɑk blɑk blɑk blɑk,1,0
@@ -138,8 +138,8 @@ blocker, ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ,0,0
 blockers, ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ ˈblɑːkɚ,1,0
 blockhead, ˈblɑːkhed,0,0
 blockheads, ˈblɑːkhed,1,0
-blockhouse,,0,0
-blockhouses,,0,0
+blockhouse,,0,1
+blockhouses,,0,1
 blocking, ˈblɑːkɪŋ ˈblɑːkɪŋ ˈblɑːkɪŋ ˈblɑːkɪŋ,0,0
 blocks, blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑk blɑk blɑk blɑk blɑk,1,0
 blocs, blɑːk blɑk,1,0
@@ -151,9 +151,9 @@ bloke, bloʊk bloʊk,0,0
 blokes, bloʊk bloʊk,1,0
 blond, blɑːnd blɑːnd blɑnd,0,0
 blonde, blɑːnd blɑːnd,0,0
-blonder,,0,0
+blonder,,0,1
 blondes, blɑːnd blɑːnd,1,0
-blondest,,0,0
+blondest,,0,1
 blonds, blɑːnd blɑːnd blɑnd,1,0
 blood, blʌd blʌd blʌd blʌd,0,0
 bloodbath, ˈblʌdbæθ ˈblʌdbæθ ˈblʌdˌbæθ,0,0
@@ -172,11 +172,11 @@ bloodshed, ˈblʌdʃed ˈblʌd·ʃed,0,0
 bloodstain, ˈblʌdsteɪn ˈblʌdˌsteɪn,0,0
 bloodstained, ˈblʌdsteɪnd ˈblʌdsteɪnd,0,0
 bloodstains, ˈblʌdsteɪn ˈblʌdˌsteɪn,1,0
-bloodstone,,0,0
+bloodstone,,0,1
 bloodstream, ˈblʌdstriːm ˈblʌdˌstrim,0,0
 bloodsucker, ˈblʌdsʌkɚ,0,0
 bloodsuckers, ˈblʌdsʌkɚ,1,0
-bloodsucking,,0,0
+bloodsucking,,0,1
 bloodthirsty, ˈblʌdˌθɝːsti ˈblʌdˌθɜr·sti,0,0
 bloody, ˈblʌdi ˈblʌd·i ˈblʌd·i,0,0
 bloom, bluːm bluːm blum,0,0
@@ -193,9 +193,9 @@ blossoming, ˈblɑːsəm ˈblɑːsəm,1,0
 blossoms, ˈblɑːsəm ˈblɑːsəm ˈblɑs·əm,1,0
 blot, blɑːt blɑt blɑt,0,0
 blotch, blɑːtʃ blɑtʃ,0,0
-blotched,,0,0
+blotched,,0,1
 blotches, blɑːtʃ blɑtʃ,1,0
-blotching,,0,0
+blotching,,0,1
 blotchy, ˈblɑːtʃi,0,0
 blots, blɑːt blɑt blɑt,1,0
 blotted,,1,0
@@ -213,7 +213,7 @@ blowhard, ˈbloʊhɑːrd,0,0
 blowhards, ˈbloʊhɑːrd,1,0
 blowhole, ˈbloʊhoʊl ˈbloʊhoʊl,0,0
 blowing, bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ bloʊ,1,0
-blowjob,,0,0
+blowjob,,0,1
 blown, bloʊn,0,0
 blowout, ˈbloʊaʊt ˈbloʊaʊt ˈbloʊaʊt ˈbloʊaʊt ˈbloʊˌɑʊt ˈbloʊˌɑʊt,1,0
 blowouts, ˈbloʊaʊt ˈbloʊaʊt ˈbloʊaʊt ˈbloʊaʊt ˈbloʊˌɑʊt ˈbloʊˌɑʊt,1,0
@@ -228,20 +228,20 @@ bludgeon, ˈblʌdʒən ˈblʌdʒən ˈblʌdʒ·ən,0,0
 bludgeoned, ˈblʌdʒən ˈblʌdʒən,1,0
 bludgeoning, ˈblʌdʒən ˈblʌdʒən,1,0
 blue, bluː bluː bluː bluː blu,0,0
-bluebeard,,0,0
+bluebeard,,0,1
 bluebell, ˈbluːbel ˈbluːbel ˈbluːbel,0,0
 bluebells, ˈbluːbel ˈbluːbel ˈbluːbel,1,0
 blueberries, ˈbluːˌbəri ˈbluˌber·i,1,0
 blueberry, ˈbluːˌbəri ˈbluˌber·i,0,0
 bluebird, ˈbluːbɝːd,0,0
 bluebirds, ˈbluːbɝːd,1,0
-blueblood,,0,0
+blueblood,,0,1
 bluebonnet, ˈbluːˌbɑːnɪt,0,0
 bluebottle, ˈbluːˌbɑːt̬əl,0,0
 bluegrass, ˈbluːɡræs ˈbluːɡræs ˈbluˌɡræs,0,0
 blueish, ˈbluːɪʃ,1,0
 bluejay, ˈbluːdʒeɪ ˈbluˌdʒeɪ,0,0
-bluejeans,,0,0
+bluejeans,,0,1
 blueness, ˈbluːnəs,0,0
 blueprint, ˈbluːprɪnt ˈbluːprɪnt ˈbluˌprɪnt ˈbluˌprɪnt,1,0
 blueprints, ˈbluːprɪnt ˈbluːprɪnt ˈbluˌprɪnt ˈbluˌprɪnt,1,0
@@ -255,9 +255,9 @@ bluffed, blʌf blʌf,1,0
 bluffer, blʌf blʌf blʌf,1,0
 bluffing, blʌf blʌf,1,0
 bluffs, blʌf blʌf blʌf,1,0
-bluing,,0,0
+bluing,,0,1
 bluish, ˈbluːɪʃ,0,0
-blume,,0,0
+blume,,0,1
 blunder, ˈblʌndɚ ˈblʌn·dər,0,0
 blundered, ˈblʌndɚ ˈblʌndɚ,1,0
 blundering, ˈblʌndɚɪŋ,0,0
@@ -274,9 +274,9 @@ blurred, blɝːd blɝːd blɝːd,0,0
 blurring, blɝː blɝː blɜr blɜr,1,0
 blurry, ˈblɜ˞ːi ˈblɜ˞ːi ˈblɜ˞ːi,0,0
 blurs, blɝː blɝː blɜr blɜr,1,0
-blurt, blɝːt blɝːt blɜrt blɜrt,1,0
-blurted, blɝːt blɝːt blɜrt blɜrt,1,0
-blurts, blɝːt blɝːt blɜrt blɜrt,1,0
+blurt,,0,1
+blurted,,0,1
+blurts,,0,1
 blush, blʌʃ blʌʃ,0,0
 blushed, blʌʃ,1,0
 blushes, blʌʃ blʌʃ,1,0
@@ -293,10 +293,10 @@ boarded, bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd,1,0
 boarder," ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔrd·ər, ˈboʊrd-",0,0
 boarders," ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔrd·ər, ˈboʊrd-",1,0
 boarding, ˈbɔːrdɪŋ ˈbɔːrdɪŋ ˈbɔːrdɪŋ ˈbɔːrdɪŋ,0,0
-boardinghouse,,0,0
-boardman,,0,0
+boardinghouse,,0,1
+boardman,,0,1
 boardroom, ˈbɔːrdruːm,1,0
-boards,,1,0
+boards,,0,1
 boardwalk," ˈbɔːrdwɑːk ˈbɔrdˌwɔk, ˈboʊrd-",0,0
 boardwalks," ˈbɔːrdwɑːk ˈbɔrdˌwɔk, ˈboʊrd-",1,0
 boas, ˈboʊə ˈboʊə,1,0
@@ -314,10 +314,10 @@ boatloads, ˈboʊtloʊd ˈboʊtloʊd,1,0
 boatman, ˈboʊtmən,0,0
 boats, boʊt boʊt boʊt,1,0
 boatswain, ˈboʊsən,0,0
-boatwright,,0,0
+boatwright,,0,1
 boatyard, ˈboʊtjɑːrd,0,0
 bob, bɑːb bɑːb bɑb,0,0
-bobbie,,0,0
+bobbie,,0,1
 bobbin, ˈbɑːbɪn ˈbɑːbɪn,0,0
 bobbing,,1,0
 bobble, ˈbɑːbəl ˈbɑːbəl ˈbɑːbəl,0,0
@@ -325,17 +325,17 @@ bobbling, ˈbɑːbəl ˈbɑːbəl,1,0
 bobby, ˈbɑːbi,0,0
 bobcat, ˈbɑːbˌkæt ˈbɑbˌkæt,0,0
 bobcats, ˈbɑːbˌkæt ˈbɑbˌkæt,1,0
-bobo,,0,0
+bobo,,0,1
 bobsled, ˈbɑːbsled ˈbɑːbsled,0,0
-boca,,0,0
+boca,,0,1
 bocce, ˈbɑːtʃi,0,0
-boche,,0,0
-boches,,0,0
-bock,,0,0
+boche,,0,1
+boches,,0,1
+bock,,0,1
 bode, boʊd boʊd,0,0
 bodega, boʊˈdeɪɡə boʊˈdeɪɡə boʊˈdeɪ·ɡə,0,0
 bodegas, boʊˈdeɪɡə boʊˈdeɪɡə boʊˈdeɪ·ɡə,1,0
-boden,,0,0
+boden,,0,1
 bodes, boʊd boʊd,1,0
 bodice, ˈbɑːdɪs ˈbɑːdɪs ˈbɑd·ɪs,0,0
 bodied,  -bɑːdid  -bɑːdid,1,0
@@ -346,34 +346,34 @@ bodkins, ˈbɑːdkɪn,1,0
 body, ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑːdi ˈbɑd·i ˈbɑd·i ˈbɑd·i ˈbɑd·i ˈbɑd·i ˈbɑd·i ˈbɑd·i,0,0
 bodyguard, ˈbɑːdiɡɑːrd ˈbɑd·iˌɡɑrd,0,0
 bodyguards, ˈbɑːdiɡɑːrd ˈbɑd·iˌɡɑrd,1,0
-boe,,1,0
-boeing,,0,0
+boe,,0,1
+boeing,,0,1
 boer, bɔːr,1,0
 boers, bɔːr,1,0
-boff,,0,0
-boffo,,0,0
+boff,,0,1
+boffo,,0,1
 bog," bɑːɡ bɑːɡ bɑɡ, bɔɡ",0,0
 bogart, ˈboʊɡɑːrt,0,0
 bogey," ˈboʊɡi ˈboʊɡi ˈboʊɡi ˈbʊɡ·i, ˈboʊ·ɡi, ˈbu·ɡi",0,0
 bogeyman, ˈboʊɡimæn,0,0
 bogeymen, ˈboʊɡimæn,1,0
-bogged,,1,0
-bogging,,1,0
+bogged,,0,1
+bogging,,0,1
 boggle, ˈbɑːɡəl ˈbɑːɡəl ˈbɑɡ·əl,0,0
 boggled, ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl,1,0
 boggles, ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑɡ·əl,1,0
 boggling, ˈbɑːɡəlɪŋ,0,0
 bogie, ˈboʊɡi ˈboʊɡi ˈboʊɡi ˈboʊɡi,0,0
-bogle,,0,0
+bogle,,0,1
 bogota, ˌboʊɡəˈtɑː,1,0
 bogs," bɑːɡ bɑːɡ bɑɡ, bɔɡ",1,0
 bogus, ˈboʊɡəs ˈboʊ·ɡəs,1,0
-bohemia,,0,0
+bohemia,,0,1
 bohemian, boʊˈhiːmiən boʊˈhi·mi·ən,0,0
 boil, bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl,0,0
 boiled, bɔɪld,0,0
 boiler, ˈbɔɪlɚ ˈbɔɪlɚ ˈbɔɪ·lər,0,0
-boilermaker,,0,0
+boilermaker,,0,1
 boilerplate, ˈbɔɪlɚpleɪt ˈbɔɪlɚpleɪt ˈbɔɪlɚpleɪt,1,0
 boilers, ˈbɔɪlɚ ˈbɔɪlɚ ˈbɔɪ·lər,1,0
 boiling, ˈbɔɪlɪŋ ˈbɔɪ·lɪŋ ˈbɔɪ·lɪŋ ˈbɔɪ·lɪŋ,0,0
@@ -381,9 +381,9 @@ boils, bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl bɔɪl,1,0
 boise, ˈbɔɪsi,1,0
 boisterous," ˈbɔɪstɚəs ˈbɔɪ·stər·əs, -strəs",0,0
 bol,,1,0
-bola,,0,0
+bola,,0,1
 bold, boʊld boʊld boʊld boʊld boʊld boʊld,0,0
-bolden,,0,0
+bolden,,0,1
 bolder, boʊld boʊld boʊld boʊld boʊld boʊld boʊld,1,0
 boldest, boʊld boʊld boʊld boʊld boʊld boʊld boʊld,1,0
 boldface, ˈboʊldfeɪs,0,0
@@ -391,12 +391,12 @@ boldly, ˈboʊldli,0,0
 boldness, ˈboʊldnəs,0,0
 bolero, bəˈleroʊ bəˈleroʊ,0,0
 boles, boʊl,1,0
-bolivar,,0,0
+bolivar,,0,1
 bolivia, bəˈlɪviə,1,0
 bolivian, bəˈlɪviən,1,0
 bolivians, bəˈlɪviən,1,0
 boll, boʊl,0,0
-bolling,,0,0
+bolling,,0,1
 bologna, bəˈloʊni bəˈloʊ·ni,0,0
 bolshevik," ˈboʊlʃəvɪk ˈboʊl·ʃəˌvɪk, ˈbɔl-",1,0
 bolsheviks," ˈboʊlʃəvɪk ˈboʊl·ʃəˌvɪk, ˈbɔl-",1,0
@@ -421,7 +421,7 @@ bombardment, bɑːmˈbɑːrdmənt bɑːmˈbɑːrdmənt,0,0
 bombardments, bɑːmˈbɑːrdmənt bɑːmˈbɑːrdmənt,1,0
 bombast, ˈbɑːmbæst,0,0
 bombastic, bɑːmˈbæstɪk,0,0
-bombay, ˌbɑːmbeɪ ˈmɪks,1,0
+bombay,,0,1
 bombed, bɑːmd,0,0
 bomber, ˈbɑːmɚ ˈbɑːmɚ ˈbɑːmɚ ˈbɑm·ər ˈbɑm·ər,0,0
 bombers, ˈbɑːmɚ ˈbɑːmɚ ˈbɑːmɚ ˈbɑm·ər ˈbɑm·ər,1,0
@@ -430,14 +430,14 @@ bombings, ˈbɑːmɪŋ,1,0
 bombs, bɑːm bɑːm bɑːm bɑːm bɑːm bɑːm bɑːm bɑm bɑm,1,0
 bombshell, ˈbɑːmʃel ˈbɑːmʃel ˈbɑmˌʃel,0,0
 bombshells, ˈbɑːmʃel ˈbɑːmʃel ˈbɑmˌʃel,1,0
-bon, ˌbɑːn vwaɪˈɑːʒ,1,0
-bona," ˌboʊnə ˈfaɪdi ˈboʊ·nəˌfɑɪd, ˈbɑn·ə-, -ˌfɑɪd·i ˌboʊ-",1,0
+bon,,0,1
+bona,,0,1
 bonanza, bəˈnænzə bəˈnænzə bəˈnæn·zə,1,0
-bonaventure,,0,0
+bonaventure,,0,1
 bond, bɑːnd bɑːnd bɑːnd bɑːnd bɑːnd bɑːnd bɑnd bɑnd,1,0
 bondage, ˈbɑːndɪdʒ ˈbɑːndɪdʒ ˈbɑn·dɪdʒ,0,0
 bonded, ˈbɑːndɪd ˈbɑːndɪd ˈbɑːndɪd ˈbɑːndɪd ˈbɑːndɪd ˈbɑːndɪd,1,0
-bonderman,,0,0
+bonderman,,0,1
 bonding, ˈbɑːndɪŋ ˈbɑn·dɪŋ,0,0
 bonds,,1,0
 bone, boʊn boʊn boʊn,0,0
@@ -453,20 +453,20 @@ bongo, ˈbɑːŋɡoʊ ˌdrʌm,0,0
 bongos, ˈbɑːŋɡoʊ ˌdrʌm,1,0
 bonier, ˈboʊni ˈboʊni ˈboʊni ˈboʊ·ni ˈboʊ·ni,1,0
 boning, boʊn boʊn,1,0
-bonita,,0,0
+bonita,,0,1
 bonito, bəˈniːt̬oʊ bəˈniːt̬oʊ,0,0
-bonjour,,0,0
+bonjour,,0,1
 bonk, bɑːŋk bɑːŋk bɑːŋk,0,0
 bonkers," ˈbɑːŋkɚz ˈbɑŋ·kərz, ˈbɔŋ-",0,0
-bonne,,0,0
-bonnes,,0,0
+bonne,,0,1
+bonnes,,0,1
 bonnet, ˈbɑːnɪt ˈbɑːnɪt ˈbɑn·ɪt,0,0
-bonnie,,0,0
+bonnie,,0,1
 bonny, ˈbɑːni,0,0
-bono, ˌproʊ ˈboʊnoʊ,1,0
-bons, ˌbɑːn ˈmoʊ,1,0
+bono,,0,1
+bons,,0,1
 bonsai, ˌbɑːnˈsaɪ,0,0
-bonum,,0,0
+bonum,,0,1
 bonus, ˈboʊnəs ˈboʊnəs ˈboʊ·nəs ˈboʊ·nəs,1,0
 bonuses, ˈboʊnəs ˈboʊnəs ˈboʊ·nəs ˈboʊ·nəs,1,0
 bony, ˈboʊni ˈboʊni ˈboʊni ˈboʊ·ni ˈboʊ·ni,0,0
@@ -475,7 +475,7 @@ boob, buːb buːb buːb,0,0
 boobs, buːb buːb buːb,1,0
 booby, ˈbuːbi ˈbuːbi ˈbuːbi,0,0
 boodle, ˈbuːdəl,0,0
-boodles,,0,0
+boodles,,0,1
 booed, buː bu,1,0
 boogie, ˈbʊɡi,0,0
 booing, buː bu,1,0

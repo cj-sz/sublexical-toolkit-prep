@@ -7,21 +7,21 @@ glottis, ˈɡlɑːt̬ɪs,0,0
 gloucester, ˈɡlɑːstɚ,1,0
 glove, ɡlʌv ɡlʌv,0,0
 gloved,,1,0
-glover,,0,0
+glover,,0,1
 gloves, ɡlʌv ɡlʌv,1,0
 glow, ɡloʊ ɡloʊ ɡloʊ ɡloʊ ɡloʊ,0,0
 glowed, ɡloʊ ɡloʊ ɡloʊ,1,0
 glowering, ˈɡlaʊɚ,1,0
 glowing, ˈɡloʊɪŋ ˈɡloʊ·ɪŋ,0,0
 glows, ɡloʊ ɡloʊ ɡloʊ ɡloʊ ɡloʊ ɡloʊ,1,0
-gluck,,0,0
+gluck,,0,1
 glucose, ˈɡluːkoʊs ˈɡlu·koʊs,0,0
 glue, ɡluː ɡlu,0,0
 glued, ɡluː ɡlu,1,0
 glues, ɡluː ɡlu,1,0
 glum, ɡlʌm ɡlʌm ɡlʌm,0,0
 glut, ɡlʌt ɡlʌt,1,0
-glutamate, ˌmɑːnəˌsoʊdiəm ˈɡluːt̬əmeɪt ˌmɑn·əˈsoʊ·di·əm ˈɡlu·t̬əˌmeɪt,1,0
+glutamate,,0,1
 gluten, ˈɡluːt̬ən,0,0
 gluts, ɡlʌt ɡlʌt,1,0
 glutted, ɡlʌt ɡlʌt,1,0
@@ -32,8 +32,8 @@ glycerol," ˈɡlɪsərɑːl ˈɡlis·əˌrɔl, -ˌroʊl",0,0
 glycine, ˈɡlaɪsiːn,0,0
 glycogen, ˈɡlaɪkoʊdʒən ˈɡlɑɪ·kə·dʒən,0,0
 glycol," ˈɡlaɪkɑːl ˈɡlɑɪ·kɔl, -koʊl",0,0
-glycoside,,0,0
-glyn,,0,0
+glycoside,,0,1
+glyn,,0,1
 gnarled, nɑːrld nɑrld,0,0
 gnarly, ˈnɑːrli ˈnɑːrli ˈnɑːrli,0,0
 gnash, næʃ,0,0
@@ -50,7 +50,7 @@ gnomes, noʊm noʊm noʊm noʊm noʊm,1,0
 gnosticism, ˈnɑːstɪsɪzəm,1,0
 gnu, nuː,0,0
 go, ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ ɡoʊ,1,0
-goa,,0,0
+goa,,0,1
 goad, ɡoʊd ɡoʊd ɡoʊd,0,0
 goaded, ɡoʊd ɡoʊd,1,0
 goading, ɡoʊd ɡoʊd,1,0
@@ -66,8 +66,8 @@ gob, ɡɑːb ɡɑb,0,0
 gobble, ˈɡɑːbəl ˈɡɑːbəl ˈɡɑb·əl ˈɡɑb·əl,0,0
 gobbled, ˈɡɑːbəl ˈɡɑːbəl,1,0
 gobbledygook," ˈɡɑb·əl·diˌɡʊk, -ˌɡuk",0,0
-gobbler,,0,0
-gobblers,,0,0
+gobbler,,0,1
+gobblers,,0,1
 gobbles, ˈɡɑːbəl ˈɡɑːbəl ˈɡɑb·əl ˈɡɑb·əl,1,0
 gobbling, ˈɡɑːbəl ˈɡɑːbəl,1,0
 gobi, ˈɡoʊbi,0,0
@@ -80,53 +80,53 @@ goddam, ˌɡɑːdˈdæm,1,0
 goddammit, ˌɡɑːdˈdæmɪt ˌɡɑːdˈdæmɪt,0,0
 goddamn, ˌɡɑːdˈdæm,0,0
 goddamned, ˌɡɑːdˈdæm,1,0
-goddard,,0,0
+goddard,,0,1
 goddess, ˈɡɑːdes,0,0
 goddesses, ɡɑːd ɡɑːd ɡɑːd ɡɑːd ɡɑd ɡɑd ɡɑd,1,0
 godfather, ˈɡɑːdˌfɑːðɚ ˈɡɑːdˌfɑːðɚ ˈɡɑdˌfɑð·ər ˈɡɑdˌfɑð·ər,0,0
 godfathers, ˈɡɑːdˌfɑːðɚ ˈɡɑːdˌfɑːðɚ ˈɡɑdˌfɑð·ər ˈɡɑdˌfɑð·ər,1,0
-godhead,,0,0
-godiva,,0,0
-godkin,,0,0
+godhead,,0,1
+godiva,,0,1
+godkin,,0,1
 godless, ˈɡɑːdləs ˈɡɑːdləs ˈɡɑd·ləs,0,0
 godly, ˈɡɑːdli,0,0
 godmother, ˈɡɑːdˌmʌðɚ ˈɡɑdˌmʌð·ər,0,0
 godmothers, ˈɡɑːdˌmʌðɚ ˈɡɑdˌmʌð·ər,1,0
 godown, ˈɡoʊdaʊn,1,0
-gods,,1,0
+gods,,0,1
 godsend, ˈɡɑːdsend ˈɡɑdˌsend,0,0
 godspeed, ˌɡɑːdˈspiːd,0,0
-goebbels,,0,0
-goen,,0,0
+goebbels,,0,1
+goen,,0,1
 goer, ˈɡoʊɚ ˌɡoʊ·ər,1,0
 goes, ɡoʊz ɡoʊz,0,0
-goethe,,0,0
-goff,,0,0
+goethe,,0,1
+goff,,0,1
 goggle, ˈɡɑːɡəl,0,0
 goggles, ˈɡɑːɡəlz ˈɡɑɡ·əlz,0,0
-gogo,,0,0
+gogo,,0,1
 going, ˈɡoʊɪŋ ˈɡoʊɪŋ ˈɡoʊɪŋ ˈɡoʊɪŋ ˈɡoʊ·ɪŋ ˈɡoʊ·ɪŋ,0,0
-goings, ˈkʌm·ɪŋz ən ˈɡoʊ·ɪŋz,1,0
+goings,,0,1
 goiter, ˈɡɔɪt̬ɚr,0,0
-gola,,0,0
+gola,,0,1
 gold, ɡoʊld ɡoʊld ɡoʊld ɡoʊld,1,0
 golden, ˈɡoʊldən ˈɡoʊldən ˈɡoʊldən ˈɡoʊl·dən ˈɡoʊl·dən ˈɡoʊl·dən,0,0
-goldeneye,,0,0
+goldeneye,,0,1
 goldenrod, ˈɡoʊldənrɑːd,0,0
 goldfield, ˈɡoʊldfiːld,1,0
 goldfields, ˈɡoʊldfiːld,1,0
 goldfinch, ˈɡoʊldfɪntʃ,0,0
 goldfinches, ˈɡoʊldfɪntʃ,1,0
 goldfish, ˈɡoʊldfɪʃ ˈɡoʊldˌfɪʃ,0,0
-goldie,,0,0
+goldie,,0,1
 goldilocks, ˈɡoʊldilɑːks,1,0
-golding,,0,0
+golding,,0,1
 goldmine,,1,0
 golds,,1,0
 goldsmith, ˈɡoʊldsmɪθ,0,0
-goldstone,,0,0
-goldwater,,0,0
-goldy,,0,0
+goldstone,,0,1
+goldwater,,0,1
+goldy,,0,1
 golem, ˈɡoʊləm ˈɡoʊləm,0,0
 golf," ɡɑːlf ɡɑlf, ɡɔlf",0,0
 golfer, ˈɡɑːlfɚ,0,0
@@ -135,10 +135,10 @@ golfing, ˈɡɑːlfɪŋ,0,0
 golfs," ɡɑːlf ɡɑlf, ɡɔlf",1,0
 goliath, ɡəˈlaɪəθ ɡəˈlaɪəθ,1,0
 goliaths, ɡəˈlaɪəθ ɡəˈlaɪəθ,1,0
-goll,,0,0
+goll,,0,1
 golly, ˈɡɑːli ˈɡɑl·i,0,0
-gomer,,0,0
-gomorrah,,0,0
+gomer,,0,1
+gomorrah,,0,1
 gonad, ˈɡoʊnæd,0,0
 gonads, ˈɡoʊnæd,1,0
 gondola," ˈɡɑːndələ ˈɡɑːndələ ˈɡɑn·də·lə, ɡɑnˈdoʊ- ˈɡɑn·də·lə, ɡɑnˈdoʊ-",1,0
@@ -150,26 +150,26 @@ gong," ɡɑːŋ ɡɑːŋ ɡɑŋ, ɡɔŋ",0,0
 gongs," ɡɑːŋ ɡɑːŋ ɡɑŋ, ɡɔŋ",1,0
 gonna," ˈɡɑːnə ˌɡɔ·nə, ˌɡɑn·ə, ɡən·ə",0,0
 gonorrhea, ˌɡɑːnəˈriːə ˌɡɑn·əˈri·ə,0,0
-gonzalo,,0,0
+gonzalo,,0,1
 gonzo, ˈɡɑːnzoʊ,0,0
 goo, ɡuː ɡu,0,0
 good, ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd ɡʊd,1,0
-goodby,,0,0
+goodby,,0,1
 goodbye, ɡʊdˈbaɪ ɡʊdˈbɑɪ,0,0
 goodbyes, ɡʊdˈbaɪ ɡʊdˈbɑɪ,1,0
 gooder, ˈduːɡʊdɚ,1,0
-goodie,,0,0
+goodie,,0,1
 goodies, ˈɡʊdi ˈɡʊdi ˈɡʊd·i,1,0
-gooding,,0,0
+gooding,,0,1
 goodly, ˈɡʊdli,0,0
-goodman,,0,0
+goodman,,0,1
 goodness, ˈɡʊdnəs ˈɡʊdnəs ˈɡʊd·nəs ˈɡʊd·nəs,0,0
-goodnight,,0,0
-goodrich,,0,0
+goodnight,,0,1
+goodrich,,0,1
 goods, ɡʊdz,1,0
 goodwill, ɡʊdˈwɪl ɡʊdˈwɪl ˈɡʊdˈwɪl,1,0
 goody, ˈɡʊdi ˈɡʊdi ˈɡʊd·i,0,0
-goodyear,,0,0
+goodyear,,0,1
 gooey, ˈɡuːi ˈɡu·i,0,0
 goof, ɡuːf ɡuf,0,0
 goofed, ɡuːf,1,0
@@ -179,19 +179,19 @@ goofy, ˈɡuːfi ˈɡu·fi,0,0
 google, ˈɡuːɡəl,0,0
 googled, ˈɡuːɡəl ˈɡuːɡəl,1,0
 googling, ˈɡuːɡəl ˈɡuːɡəl,1,0
-gook,,0,0
+gook,,0,1
 goon, ɡuːn ɡuːn ɡuːn ɡun,0,0
 goons, ɡuːn ɡuːn ɡuːn ɡun,1,0
 goop, ɡuːp ɡup,0,0
-goos,,0,0
+goos,,0,1
 goose, ɡuːs ɡuːs ɡus,1,0
 gooseberries, ˈɡʊzbəri,1,0
 gooseberry, ˈɡʊzbəri,0,0
 goosey, ˈɡuːsi ˈɡuːsi ˈɡuːsi,0,0
 gopher, ˈɡoʊfɚ ˈɡoʊ·fər,1,0
 gophers, ˈɡoʊfɚ ˈɡoʊ·fər,1,0
-gora,,0,0
-goran,,0,0
+gora,,0,1
+goran,,0,1
 gore," ɡɔːr ɡɔːr ɡɔr, ɡoʊr",0,0
 gored, ɡɔːrd,0,0
 gores," ɡɔːr ɡɔːr ɡɔr, ɡoʊr",1,0
@@ -202,31 +202,31 @@ gorgon, ˈɡɔːrɡən,0,0
 gorilla, ɡəˈrɪlə ɡəˈrɪl·ə,0,0
 gorillas, ɡəˈrɪlə ɡəˈrɪl·ə,1,0
 goring, ɡɔːr,1,0
-gorki,,0,0
-gorman,,0,0
+gorki,,0,1
+gorman,,0,1
 gory," ˈɡɔːri ˈɡɔr·i, ˈɡoʊr·i",0,0
 gosh," ɡɑːʃ ɡɑʃ, ɡɔʃ",0,0
-goshen,,0,0
+goshen,,0,1
 gospel, ˈɡɑːspəl ˈɡɑːspəl ˈɡɑːspəl ˈɡɑːspəl ˈɡɑs·pəl ˈɡɑs·pəl ˈɡɑs·pəl,0,0
 gospels, ˈɡɑːspəl ˈɡɑːspəl ˈɡɑːspəl ˈɡɑːspəl ˈɡɑːspəl ˈɡɑs·pəl ˈɡɑs·pəl ˈɡɑs·pəl,1,0
-goss,,0,0
+goss,,0,1
 gossamer, ˈɡɑːsəmɚ,0,0
 gossip, ˈɡɑːsəp ˈɡɑːsəp ˈɡɑs·p ˈɡɑs·p,0,0
-gossipers,,0,0
+gossipers,,0,1
 gossiping, ˈɡɑːsəp,1,0
 gossips, ˈɡɑːsəp ˈɡɑːsəp ˈɡɑs·p ˈɡɑs·p,1,0
 gossipy, ˈɡɑːsəpi ˈɡɑːsəpi,0,0
 got, ɡɑːt ɡɑt ɡɑt,0,0
 gotcha, ˈɡɑːtʃə ˈɡɑtʃ·ə ˈɡɑtʃ·ə,0,0
 goth, ˈɡɑːθ ˈɡɑːθ,0,0
-gotham,,0,0
+gotham,,0,1
 gothic, ˈɡɑːθɪk ˈɡɑːθɪk ˈɡɑθ·ɪk,1,0
-goto,,0,0
+goto,,0,1
 gotta, ˈɡɑːt̬ə ˈɡɑt̬·ə,0,0
 gotten, ˈɡɑːt̬ən ˈɡɑt·ən ˈɡɑt·ən,0,0
 gouge, ɡaʊdʒ ɡaʊdʒ ɡɑʊdʒ ɡɑʊdʒ,0,0
 gouged, ɡaʊdʒ ɡaʊdʒ,1,0
-gouger,,0,0
+gouger,,0,1
 gouging, ˈɡaʊdʒɪŋ ˈɡaʊdʒɪŋ,0,0
 goulash, ˈɡuːlæʃ ˈɡu·lɑʃ,0,0
 gourd," ɡɔːrd ɡɔrd, ɡoʊrd, ɡʊərd",0,0
@@ -236,7 +236,7 @@ gourmets," ˈɡʊrmeɪ ˈɡʊrmeɪ ˈɡʊər·meɪ, ɡʊrˈmeɪ",1,0
 gout, ɡaʊt ɡɑʊt,0,0
 gouty, ˈɡaʊt̬i,0,0
 gov," ˌdɑːtˈɡʌv ˌdʒiˌoʊˈvi, ɡʌv",1,0
-gove,,0,0
+gove,,0,1
 govern, ˈɡʌvɚn ˈɡʌvɚn ˈɡʌv·ərn ˈɡʌv·ərn,1,0
 governance, ˈɡʌvɚnəns ˈɡʌv·ər·nəns ˈɡʌvənənts,0,0
 governed, ˈɡʌvɚn ˈɡʌvɚn,1,0
@@ -250,19 +250,19 @@ governor," ˈɡʌvɚnɚ ˈɡʌvɚnɚ ˈɡʌv·ə·nər, -ər·nər",1,0
 governors," ˈɡʌvɚnɚ ˈɡʌvɚnɚ ˈɡʌv·ə·nər, -ər·nər",1,0
 governorship, ˈɡʌvɚnɚʃɪp,0,0
 governs, ˈɡʌvɚn ˈɡʌvɚn ˈɡʌv·ərn ˈɡʌv·ərn,1,0
-gowans,,0,0
-gowdy,,0,0
+gowans,,0,1
+gowdy,,0,1
 gown, ɡaʊn ɡaʊn ɡɑʊn,0,0
 gowns, ɡaʊn ɡaʊn ɡɑʊn,1,0
-goy,,0,0
-goyim,,0,0
+goy,,0,1
+goyim,,0,1
 gps, ˌdʒiːpiːˈes,1,0
 grab, ɡræb ɡræb ɡræb,0,0
 grabbed,,1,0
 grabber, ˈɡræbɚ ˈɡræbɚ ˈɡræbɚ,0,0
 grabbers, ˈɡræbɚ ˈɡræbɚ ˈɡræbɚ,1,0
 grabbing,  -ɡræbɪŋ,1,0
-graben,,0,0
+graben,,0,1
 grabs, ɡræb ɡræb ɡræb ɡræb,1,0
 grace, ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs ɡreɪs,1,0
 graced, ɡreɪs ɡreɪs,1,0
@@ -270,13 +270,13 @@ graceful, ˈɡreɪsfəl ˈɡreɪsfəl,0,0
 gracefully, ˈɡreɪsfəli ˈɡreɪsfəli,0,0
 graceless, ˈɡreɪsləs ˈɡreɪsləs ˈɡreɪsləs,0,0
 graces,,1,0
-gracias,,0,0
+gracias,,0,1
 gracing, ɡreɪs ɡreɪs,1,0
 gracious, ˈɡreɪʃəs ˈɡreɪʃəs ˈɡreɪ·ʃəs ˈɡreɪ·ʃəs,0,0
 graciously, ˈɡreɪʃəsli ˈɡreɪ·ʃəs·li,0,0
 graciousness, ˈɡreɪʃəsnəs ˈɡreɪʃəsnəs,0,0
-grackle,,0,0
-gracy,,0,0
+grackle,,0,1
+gracy,,0,1
 grad, ɡræd ɡræd ɡræd,0,0
 gradation," ɡreɪˈdeɪʃən ɡreɪˈdeɪʃən ɡreɪˈdeɪ·ʃən, ɡrə-",0,0
 gradations," ɡreɪˈdeɪʃən ɡreɪˈdeɪʃən ɡreɪˈdeɪ·ʃən, ɡrə-",1,0
@@ -296,30 +296,30 @@ graduates, ˈɡrædʒuət ˈɡrædʒuət ˈɡrædʒ·u·ɪt,1,0
 graduating, ˈɡrædʒueɪt ˈɡrædʒueɪt ˈɡrædʒueɪt,1,0
 graduation, ˌɡrædʒuˈeɪʃən ˌɡrædʒ·uˈeɪ·ʃən,1,0
 graduations, ˌɡrædʒuˈeɪʃən ˌɡrædʒ·uˈeɪ·ʃən,1,0
-graf,,0,0
-graff,,0,0
+graf,,0,1
+graff,,0,1
 graffiti, ɡrəˈfiːt̬i ɡrəˈfit̬·i,0,0
 graft, ɡræft ɡræft ɡræft ɡræft ɡræft ɡræft,1,0
 grafted, ɡræft ɡræft ɡræft,1,0
 grafting, ɡræft ɡræft ɡræft,1,0
 grafts, ɡræft ɡræft ɡræft ɡræft ɡræft ɡræft,1,0
-graham, ˈɡræm ˌkrækɚ,1,0
-grahams,,0,0
-grail, ˈɡreɪl ɡreɪl,1,0
+graham,,0,1
+grahams,,0,1
+grail, ˈɡreɪl,0,1
 grain, ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn,1,0
 grained,  -ɡreɪnd ɡreɪnd,1,0
 grains, ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn ɡreɪn,1,0
 grainy, ˈɡreɪni ˈɡreɪ·ni,0,0
 gram, ɡræm ɡræm ɡræm,1,0
-grama,,0,0
+grama,,0,1
 gramercy, ɡrəˈmɜ˞ːsi,0,0
 grammar, ˈɡræmɚ ˈɡræmɚ ˈɡræm·ər,0,0
 grammatical, ɡrəˈmæt̬ɪkəl,0,0
 grammy, ˈɡræmi ˈɡræm·i,1,0
 grams, ɡræm ɡræm ɡræm ɡræm,1,0
 gran, ɡræn,0,0
-granada,,0,0
-granado,,0,0
+granada,,0,1
+granado,,0,1
 grand, ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd,1,0
 grandad, ˈɡrændæd ˈɡrændæd,0,0
 grandbaby, ˈɡrænˌbeɪbi,0,0
@@ -329,13 +329,13 @@ granddad, ˈɡrænfɑːðɚ ˈɡrændˌfɑð·ər,1,0
 granddaddy, ˈɡrændædi,1,0
 granddaughter, ˈɡrændɑːt̬ɚ ˈɡrænˌdɔt̬·ər,0,0
 granddaughters, ˈɡrændɑːt̬ɚ ˈɡrænˌdɔt̬·ər,1,0
-grande, ˌɡrɑːnd ˈdɑːm,1,0
+grande,,0,1
 grander, ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd,1,0
 grandest, ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd ɡrænd,1,0
 grandeur," ˈɡrændʒɚ ˈɡræn·dʒər, -ˌdʒʊər",0,0
 grandfather, ˈɡrænfɑːðɚ ˈɡrændˌfɑð·ər,0,0
 grandfathered,,1,0
-grandfathering,,1,0
+grandfathering,,0,1
 grandfathers, ˈɡrænfɑːðɚ ˈɡrændˌfɑð·ər,1,0
 grandiose," ˈɡrændioʊs ˈɡræn·diˌoʊs, ˌɡræn·diˈoʊs",0,0
 grandly, ˈɡrændli ˈɡrændli,0,0
@@ -349,17 +349,17 @@ grandpa, ˈɡrænpɑː,0,0
 grandparent," ˈɡrænperənt ˈɡrændˌpær·ənt, -ˌpeər-",0,0
 grandparents," ˈɡrænperənt ˈɡrændˌpær·ənt, -ˌpeər-",1,0
 grandpas, ˈɡrænpɑː,1,0
-grands, ˌɡrɑːn ˈpriː,1,0
+grands,,0,1
 grandson, ˈɡrænsʌn ˈɡrændˌsʌn,0,0
 grandsons, ˈɡrænsʌn ˈɡrændˌsʌn,1,0
 grandstand," ˈɡrænstænd ˈɡrænˌstænd, ˈɡrænd-",0,0
 grandstanding," ˈɡrænˌstændɪŋ ˈɡrænˌstæn·dɪŋ, ˈɡrænd-",0,0
 grange, ˈɡreɪndʒ ˈɡreɪndʒ,0,0
-granger,,0,0
+granger,,0,1
 granite, ˈɡrænɪt ˈɡræn·ɪt,0,0
 grannies, ˈɡrænmʌðɚ ˈɡrændˌmʌð·ər,1,0
 granny, ˈɡræni ˈɡræni ˈɡræn·i,0,0
-grano,,0,0
+grano,,0,1
 granola, ɡrəˈnoʊlə ɡrəˈnoʊlə ɡrəˈnoʊ·lə,0,0
 grant, ɡrænt ɡrænt ɡrænt,1,0
 granted, ˈɡrænt̬ɪd,0,0
@@ -387,14 +387,14 @@ grapple, ˈɡræpəl ˈɡræp·əl,0,0
 grappled, ˈɡræpəl,1,0
 grapples, ˈɡræpəl ˈɡræp·əl,1,0
 grappling, ˈɡræpəl,1,0
-gras," ˌmɑːrdi ˈɡrɑː ˈmɑrd·iˌɡrɑ, -ˌɡrɔ",1,0
+gras,,0,1
 grasp, ɡræsp ɡræsp ɡræsp ɡræsp ɡræsp,0,0
 grasped, ɡræsp ɡræsp ɡræsp,1,0
 grasping, ˈɡræspɪŋ ˈɡræs·pɪŋ,0,0
 grasps, ɡræsp ɡræsp ɡræsp ɡræsp ɡræsp,1,0
 grass, ɡræs ɡræs ɡræs ɡræs ɡræs,0,0
-grassed, ɡræs ɡræs,1,0
-grassers,,0,0
+grassed,,0,1
+grassers,,0,1
 grasses, ɡræs ɡræs ɡræs ɡræs ɡræs ɡræs,1,0
 grasshopper, ˈɡræsˌhɑːpɚ ˈɡræsˌhɑp·ər,0,0
 grasshoppers, ˈɡræsˌhɑːpɚ ˈɡræsˌhɑp·ər,1,0
@@ -402,7 +402,7 @@ grassland," ˈɡræslænd ˈɡræsˌlænd, -lənd",0,0
 grasslands," ˈɡræslænd ˈɡræsˌlænd, -lənd",1,0
 grassroots, ˈɡræsruːts ˈɡræsruːts,0,0
 grassy, ˈɡræsi,0,0
-grata, pɚˌsoʊnə nɑːn ˈɡrɑːt̬ə pɚˌsoʊnə nɑːn ˈɡrɑːt̬ə,1,0
+grata,,0,1
 grate, ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt,0,0
 grated, ɡreɪt ɡreɪt ɡreɪt,1,0
 grateful, ˈɡreɪtfəl ˈɡreɪt·fəl,0,0
@@ -425,7 +425,7 @@ grave, ɡreɪv ɡreɪv,0,0
 gravel, ˈɡrævəl ˈɡræv·əl,0,0
 gravelly, ˈɡrævəli ˈɡrævəli ˈɡræv·ə·li,0,0
 gravely, ˈɡreɪvli,0,0
-graven, ˌɡreɪvən ˈɪmɪdʒ,1,0
+graven,,0,1
 graver, ɡreɪv ɡreɪv,1,0
 graves, ɡreɪv ɡreɪv,1,0
 graveside, ˈɡreɪvsaɪd,0,0
@@ -443,14 +443,14 @@ gravitational, ˌɡrævəˈteɪʃənəl ˌɡræv·ɪˈteɪ·ʃə·nəl,0,0
 gravity, ˈɡrævət̬i ˈɡrævət̬i ˈɡræv·ɪ·t̬i,0,0
 gravy, ˈɡreɪvi ˈɡreɪ·vi ˈɡreɪ·vi,1,0
 gray, ɡreɪ ɡreɪ ɡreɪ ɡreɪ ɡreɪ,1,0
-graybeards,,0,0
+graybeards,,0,1
 grayer, ɡreɪ ɡreɪ ɡreɪ ɡreɪ ɡreɪ,1,0
 graying, ˈɡreɪɪŋ,1,0
 grayish, ˈɡreɪɪʃ,0,0
 grays, ɡreɪ ɡreɪ ɡreɪ ɡreɪ ɡreɪ,1,0
 graze, ɡreɪz ɡreɪz ɡreɪz ɡreɪz ɡreɪz ɡreɪz,0,0
 grazed, ɡreɪz ɡreɪz ɡreɪz ɡreɪz,1,0
-grazer,,0,0
+grazer,,0,1
 grazing, ˈɡreɪzɪŋ,0,0
 grease, ɡriːs ɡris ɡris,1,0
 greased, ɡriːs,1,0
@@ -464,7 +464,7 @@ greatest, ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt- ɡre�
 greatly, ˈɡreɪtli ˈɡreɪt·li,0,0
 greatness, ˈɡreɪtnəs ˈɡreɪtnəs ˈɡreɪtnəs,0,0
 greats, ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt ɡreɪt- ɡreɪt ɡreɪt ɡreɪt ˌɡreɪt,1,0
-greaves,,0,0
+greaves,,0,1
 grecian, ˈɡriːʃən,1,0
 greco, ɡrekoʊ-,1,0
 greece, ɡriːs,1,0
@@ -474,7 +474,7 @@ greediest, ˈɡriːdi ˈɡriːdi,1,0
 greedily, ˈɡriːdəli,0,0
 greedy, ˈɡriːdi ˈɡriːdi,0,0
 greek, ɡriːk,1,0
-greeks,,0,0
+greeks,,0,1
 green, ɡriːn ɡriːn ɡriːn ɡriːn ɡriːn ɡrin,1,0
 greenback, ˈɡriːnbæk ˈɡrinˌbæk ˈɡriːnbæk,0,0
 greenbacks, ˈɡriːnbæk ˈɡrinˌbæk ˈɡriːnbæk,1,0

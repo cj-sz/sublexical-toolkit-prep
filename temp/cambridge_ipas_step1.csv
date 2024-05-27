@@ -3,11 +3,11 @@ a, weak ə weak ə weak ə weak ə weak ə weak ə weak ə weak ə weak ə weak 
 aa, ˌeɪˈeɪ ˌeɪˈeɪ ˌeɪˈeɪ ˌeɪˈeɪ,1,0
 aah, ɑː,0,0
 aardvark, ˈɑːrdvɑːrk,0,0
-aargh,,0,0
-aaron,,0,0
+aargh,,0,1
+aaron,,0,1
 ab, ˌeɪˈbiː ˌeɪˈbiː ˌeɪˈbiː,1,0
 aba,,1,0
-aback, əˈbæk,1,0
+aback,,0,1
 abacus," ˈæbəkəs ˈæbəkəs ˈæb·ə·kəs, əˈbæk·əs",0,0
 abalone, æbəˈloʊni,0,0
 abalones, æbəˈloʊni,1,0
@@ -21,17 +21,17 @@ abated, əˈbeɪt,1,0
 abatement, əˈbeɪtmənt,1,0
 abates, əˈbeɪt əˈbeɪt,1,0
 abating, əˈbeɪt,1,0
-abba,,0,0
-abbas,,0,0
-abbe,,0,0
+abba,,0,1
+abbas,,0,1
+abbe,,0,1
 abbey, ˈæbi ˈæb·i,0,0
 abbot, ˈæbət,0,0
-abbott,,0,0
+abbott,,0,1
 abbreviate, əˈbriːvieɪt əˈbri·viˌeɪt,0,0
 abbreviated, əˈbriːvieɪt̬ɪd əˈbriːvieɪt̬ɪd,0,0
 abbreviation, əˌbriːviˈeɪʃən əˌbri·viˈeɪ·ʃən,0,0
 abbreviations, əˌbriːviˈeɪʃən əˌbri·viˈeɪ·ʃən,1,0
-abby,,0,0
+abby,,0,1
 abc, ˌeɪbiːˈsiː ˌeɪbiːˈsiː ˌeɪbiːˈsiː ˌeɪbiːˈsiː,1,0
 abdicate, ˈæbdəkeɪt ˈæb·dɪˌkeɪt,0,0
 abdicated, ˈæbdəkeɪt ˈæbdəkeɪt,1,0
@@ -50,12 +50,12 @@ abductions, æbˈdʌkʃən æbˈdʌkʃən,1,0
 abductor, æbˈdʌktɚ æbˈdʌktɚ,0,0
 abductors, æbˈdʌktɚ æbˈdʌktɚ,1,0
 abducts," æbˈdʌkt æbˈdʌkt æbˈdʌkt, əb-",1,0
-abed,,0,0
-abel,,0,0
-abele,,0,0
-abend,,0,0
+abed,,0,1
+abel,,0,1
+abele,,0,1
+abend,,0,1
 aberdeen, æbɚˈdiːn,1,0
-abernethy,,0,0
+abernethy,,0,1
 aberrant, ˈæbərənt,0,0
 aberration, ˌæbəˈreɪʃən ˌæb·əˈreɪ·ʃən,0,0
 aberrations, ˌæbəˈreɪʃən ˌæb·əˈreɪ·ʃən,1,0
@@ -69,20 +69,20 @@ abhorrent, æbˈhɔːrənt,0,0
 abhors," æbˈhɔːr æbˈhɔr, əb-",1,0
 abide, əˈbaɪd,0,0
 abided, əˈbaɪd əˈbaɪd,1,0
-abides, əˈbaɪd əˈbaɪd,1,0
+abides,,0,1
 abiding, əˈbaɪdɪŋ əˈbɑɪd·ɪŋ,0,0
-abigail,,0,0
-abilene,,0,0
+abigail,,0,1
+abilene,,0,1
 abilities, əˈbɪlət̬i  -əbɪlət̬i əˈbɪl·ɪ·t̬i,1,0
 ability, əˈbɪlət̬i əˈbɪl·ɪ·t̬i,1,0
 abject, ˈæbdʒekt ˈæb·dʒekt,0,0
 ablaze, əˈbleɪz əˈbleɪz əˈbleɪz əˈbleɪz,0,0
 able, ˈeɪbəl ˈeɪ·bəl ˈeɪ·bəl,0,0
-abler, ˈeɪbəl ˈeɪbəl ˈeɪbəl  -əbəl  -əbəl ˈeɪ·bəl ˈeɪ·bəl,1,0
-ablest, ˈeɪbəl ˈeɪbəl ˈeɪbəl  -əbəl  -əbəl ˈeɪ·bəl ˈeɪ·bəl,1,0
-abloom,,0,0
+abler,,0,1
+ablest,,0,1
+abloom,,0,1
 ably, ˈeɪbli,0,0
-abner,,0,0
+abner,,0,1
 abnormal," æbˈnɔːrməl æbˈnɔr·məl, əb-",0,0
 abnormalities, ˌæbnɔːrˈmælət̬i,1,0
 abnormality, ˌæbnɔːrˈmælət̬i,0,0
@@ -95,7 +95,7 @@ abolished, əˈbɑːlɪʃ,1,0
 abolishes, əˈbɑːlɪʃ əˈbɑl·ɪʃ,1,0
 abolishing, əˈbɑːlɪʃ,1,0
 abolition, ˌæbəˈlɪʃən ˌæb·əˈlɪʃ·ən ˌæb·əˈlɪʃ·ən,1,0
-abolitionism,,0,0
+abolitionism,,0,1
 abolitionist, ˌæbəˈlɪʃənɪst ˌæb·əˈlɪʃ·ə·nɪst,0,0
 abolitionists, ˌæbəˈlɪʃənɪst ˌæb·əˈlɪʃ·ə·nɪst,1,0
 abominable, əˈbɑːmənəbəl əˈbɑm·ə·nə·bəl,0,0
@@ -121,12 +121,12 @@ about, əˈbaʊt əˈbaʊt əˈbaʊt əˈbɑʊt,0,0
 above, əˈbʌv əˈbʌv əˈbʌv əˈbʌv əˈbʌv əˈbʌv əˈbʌv,0,0
 aboveboard," əˈbʌvˌbɔːrd əˈbʌvˌbɔrd, -ˌboʊrd",0,0
 abracadabra, ˌæbrəkəˈdæbrə,0,0
-abraham,,0,0
+abraham,,0,1
 abrasion, əˈbreɪʒən əˈbreɪʒən əˈbreɪ·ʒən,0,0
-abrasions,,0,0
+abrasions,,0,1
 abrasive," əˈbreɪsɪv əˈbreɪsɪv əˈbreɪ·sɪv, -zɪv əˈbreɪ·sɪv, -zɪv",0,0
 abrasives," əˈbreɪsɪv əˈbreɪsɪv əˈbreɪ·sɪv, -zɪv əˈbreɪ·sɪv, -zɪv",1,0
-abraxas,,0,0
+abraxas,,0,1
 abreast, əˈbrest əˈbrest əˈbrest,0,0
 abridge, əˈbrɪdʒ əˈbrɪdʒ əˈbrɪdʒ,0,0
 abridged, əˈbrɪdʒd,0,0
@@ -140,7 +140,7 @@ abrupt, əˈbrʌpt əˈbrʌpt əˈbrʌpt əˈbrʌpt,0,0
 abruptly, əˈbrʌptli əˈbrʌptli,0,0
 abruptness, əˈbrʌptnəs əˈbrʌptnəs,0,0
 abs, æbz,1,0
-abscam,,0,0
+abscam,,0,1
 abscess, ˈæbses ˈæb·ses,0,0
 abscond," æbˈskɑːnd æbˈskɑːnd əbˈskɑnd, æb-",0,0
 absconded, æbˈskɑːnd æbˈskɑːnd,1,0
@@ -151,22 +151,22 @@ absent, ˈæbsənt ˈæbsənt ˈæbsənt,1,0
 absentee, ˌæbsənˈtiː ˌæb·sənˈti,1,0
 absenteeism, ˌæbsənˈtiːɪzəm,1,0
 absentees, ˌæbsənˈtiː ˌæbsənˈtiː ˌæb·sənˈti,1,0
-absentia, ˌɪn æbˈsentiə,1,0
+absentia,,0,1
 absinthe, ˈæbsæ̃θ,0,0
 absolute," ˈæbsəluːt ˈæbsəluːt ˈæbsəluːt ˈæbsəluːt ˈæb·səˌlut, ˌæb·səˈlut ˈæb·səˌlut, ˌæb·səˈlut",1,0
 absolutely," ˌæbsəˈluːtli ˌæbsəˈluːtli ˌæbsəˈluːtli ˈæb·səˌlut·li, ˌæb·səˈlut·li ˈæb·səˌlut·li, ˌæb·səˈlut·li ˈæb·səˌlut·li, ˌæb·səˈlut·li",0,0
-absoluteness,,0,0
-absolutes,,0,0
+absoluteness,,0,1
+absolutes,,0,1
 absolution, ˌæbsəˈluːʃən,0,0
 absolve," əbˈzɑːlv əbˈzɑlv, æb-, -ˈzɔlv",0,0
 absolved, əbˈzɑːlv,1,0
 absolves," əbˈzɑːlv əbˈzɑlv, æb-, -ˈzɔlv",1,0
 absolving, əbˈzɑːlv,1,0
 absorb," əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈzɔrb, -ˈsɔrb əbˈzɔrb, -ˈsɔrb əbˈzɔrb, -ˈsɔrb",1,0
-absorbed, əbˈzɔːrbd,1,0
+absorbed,,0,1
 absorbent," əbˈzɔːrbənt əbˈzɔr·bənt, æb-, -ˈsɔr-",0,0
-absorber," ˈʃɑːk əbˌzɔːrbɚ ˈʃɑk əbˈzɔr·bər, -ˈsɔr-",1,0
-absorbers," ˈʃɑːk əbˌzɔːrbɚ ˈʃɑk əbˈzɔr·bər, -ˈsɔr-",1,0
+absorber,,0,1
+absorbers,,0,1
 absorbing, əbˈzɔːrbɪŋ,0,0
 absorbs," əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈsɔːrb əbˈzɔrb, -ˈsɔrb əbˈzɔrb, -ˈsɔrb əbˈzɔrb, -ˈsɔrb",1,0
 absorption," əbˈzɔːrpʃən əbˈzɔːrpʃən əbˈzɔːrpʃən əbˈzɔːrpʃən əbˈzɔrp·ʃən, æb-, -ˈsɔrp- əbˈzɔrp·ʃən, æb-, -ˈsɔrp-",1,0
@@ -184,12 +184,12 @@ abstractions, æbˈstrækʃən æbˈstrækʃən æbˈstrækʃən æbˈstræk·ʃ
 abstracts," ˈæbstrækt ˈæbstrækt ˈæbstrækt ˈæbstrækt æbˈstrækt, ˈæb·strækt æbˈstrækt, ˈæb·strækt æbˈstrækt, ˈæb·strækt",1,0
 abstruse, æbˈstruːs,0,0
 absurd," əbˈsɝːd əbˈsɜrd, æb-, -ˈzɜrd",0,0
-absurdist,,0,0
+absurdist,,0,1
 absurdities, əbˈsɝːdət̬i əbˈsɝːdət̬i,1,0
 absurdity, əbˈsɝːdət̬i əbˈsɝːdət̬i,0,0
 absurdly, əbˈsɝːdli,0,0
-abt,,0,0
-abu, ˌɑːbuːˈdɑːbi,1,0
+abt,,0,1
+abu,,0,1
 abundance, əˈbʌndəns əˈbʌn·dəns əˈbʌn·dəns,0,0
 abundant, əˈbʌndənt əˈbʌn·dənt,0,0
 abundantly, əˈbʌndəntli əˈbʌndəntli əˈbʌn·dənt·li,0,0
@@ -207,7 +207,7 @@ abuzz, əˈbʌz,0,0
 abysmal, əˈbɪzməl əˈbɪzməl əˈbɪz·məl,0,0
 abysmally, əˈbɪzməli,0,0
 abyss, əˈbɪs əˈbɪs,0,0
-abyssinia,,0,0
+abyssinia,,0,1
 abyssinian, ˌæbəˈsɪniən,1,0
 ac, ˌeɪˈsiː ˌeɪˈsiː dɑːtˈæk,1,0
 acacia, əˈkeɪʃə,0,0
@@ -219,10 +219,10 @@ academician, əˌkædəˈmɪʃən əˌkædəˈmɪʃən,0,0
 academics, ˌæk·əˈdem·ɪks,1,0
 academies, əˈkædəmi əˈkædəmi əˈkædəmi əˈkæd·ə·mi,1,0
 academy, əˈkædəmi əˈkædəmi əˈkædəmi əˈkæd·ə·mi,0,0
-acadia, əˌkeɪdiə ˌnæʃənəl ˈpɑːrk,1,0
-acapulco,,0,0
-accede, əkˈsiːd əkˈsiːd əkˈsiːd əkˈsiːd,1,0
-acceded, əkˈsiːd əkˈsiːd əkˈsiːd əkˈsiːd,1,0
+acadia,,0,1
+acapulco,,0,1
+accede,,0,1
+acceded,,0,1
 accelerant, ekˈselɚənt,0,0
 accelerate," ekˈselɚeɪt ekˈselɚeɪt ekˈselɚeɪt ɪkˈsel·əˌreɪt, æk- ɪkˈsel·əˌreɪt, æk-",1,0
 accelerated,,1,0
@@ -258,7 +258,7 @@ accessory," əkˈsesəri əkˈsesəri ɪkˈses·ə·ri, æk- ɪkˈses·ə·ri, �
 accident," ˈæksədənt ˈæksədənt ˈæk·sə·dənt, -ˌdent ˈæk·sə·dənt, -ˌdent",0,0
 accidental, ˌæksəˈdent̬əl,0,0
 accidentally, ˌæksəˈdent̬əli,0,0
-accidently,,0,0
+accidently,,0,1
 accidents," ˈæksədənt ˈæksədənt ˈæk·sə·dənt, -ˌdent ˈæk·sə·dənt, -ˌdent",1,0
 acclaim, əˈkleɪm əˈkleɪm,0,0
 acclaimed, əˈkleɪmd,0,0
@@ -281,7 +281,7 @@ accompaniment, əˈkʌmpənɪmənt əˈkʌmpənɪmənt əˈkʌm·pə·ni·mənt 
 accompanist, əˈkʌmpənɪst,0,0
 accompany, əˈkʌmpəni əˈkʌmpəni əˈkʌmpəni əˈkʌmpəni əˈkʌm·pə·ni əˈkʌm·pə·ni,0,0
 accompanying, əˈkʌmpəniɪŋ,0,0
-accompli, ˌfeɪt əkɑːmˈpliː,1,0
+accompli,,0,1
 accomplice, əˈkɑːmplɪs əˈkɑm·plɪs,0,0
 accomplices, əˈkɑːmplɪs əˈkɑm·plɪs,1,0
 accomplish, əˈkɑːmplɪʃ əˈkɑm·plɪʃ,0,0
@@ -291,7 +291,7 @@ accomplishing, əˈkɑːmplɪʃ,1,0
 accomplishment, əˈkɑːmplɪʃmənt əˈkɑːmplɪʃmənt əˈkɑːmplɪʃmənt əˈkɑm·plɪʃ·mənt,0,0
 accomplishments, əˈkɑːmplɪʃmənt əˈkɑːmplɪʃmənt əˈkɑːmplɪʃmənt əˈkɑm·plɪʃ·mənt,1,0
 accord, əˈkɔːrd əˈkɔrd əˈkɔrd,0,0
-accordance, əˈkɔːrdəns əˈkɔr·dəns,1,0
+accordance,,0,1
 accorded, əˈkɔːrd,1,0
 according, əˈkɔːrd,1,0
 accordingly, əˈkɔːrdɪŋli əˈkɔr·dɪŋ·li,0,0
@@ -310,7 +310,7 @@ accountants, əˈkaʊnt̬ənt əˈkɑʊn·tənt,1,0
 accounted, əˈkaʊnt,1,0
 accounting, əˈkaʊnt̬ɪŋ əˈkaʊnt̬ɪŋ əˈkɑʊn·tɪŋ -ṱɪŋ -ṱɪŋ -ṱɪŋ,0,0
 accounts, əˈkaʊnts,1,0
-accoutrement,,0,0
+accoutrement,,0,1
 accoutrements, əˈkuːt̬ɚmənts,0,0
 accra, əˈkrɑː,1,0
 accreditation," əˌkredəˈteɪʃən əˌkred·əˈteɪ·ʃən, -ət̬ˈeɪ·ʃən",1,0
@@ -336,7 +336,7 @@ accusation, ˌækjəˈzeɪʃən,0,0
 accusations, ˌækjəˈzeɪʃən,1,0
 accusatory, əˈkjuːzətɔːri,0,0
 accuse, əˈkjuːz əˈkjuz,1,0
-accused, əˈkjuːzd əˈkjuzd,1,0
+accused, əˈkjuzd,0,1
 accuser, əˈkjuːzɚ,0,0
 accusers, əˈkjuːzɚ,1,0
 accuses, əˈkjuːz əˈkjuːz əˈkjuz,1,0
@@ -349,9 +349,9 @@ acerbic, əˈsɝːbɪk,0,0
 aces, eɪs eɪs eɪs eɪs eɪs eɪs eɪs,1,0
 acetaminophen, əˌsiːt̬əˈmɪnəfen,0,0
 acetate, ˈæsəteɪt,1,0
-acetic, əˌsiːt̬ɪk ˈæsɪd,1,0
+acetic,,0,1
 acetone, ˈæsət̬oʊn,0,0
-acetylcholine,,0,0
+acetylcholine,,0,1
 acetylene, əˈset̬əliːn,0,0
 ache, eɪk eɪk eɪk eɪk,0,0
 ached, eɪk,1,0
@@ -361,11 +361,11 @@ achieve, əˈtʃiːv əˈtʃiv,1,0
 achieved, əˈtʃiːv,1,0
 achievement, əˈtʃiːvmənt əˈtʃiv·mənt,1,0
 achievements, əˈtʃiːvmənt əˈtʃiv·mənt,1,0
-achiever, əˈtʃiːvɚ,1,0
-achievers, əˈtʃiːvɚ,1,0
+achiever,,0,1
+achievers,,0,1
 achieves, əˈtʃiːv əˈtʃiv,1,0
 achieving, əˈtʃiːv,1,0
-achilles, əˌkɪliːz ˈhiːl əˌkɪl·iz ˈhil,1,0
+achilles,,0,1
 aching, eɪk,1,0
 achingly, ˈeɪkɪŋli,0,0
 achoo, əˈtʃuː,0,0
@@ -373,10 +373,10 @@ achy, ˈeɪki,0,0
 acid, ˈæsɪd ˈæsɪd ˈæs·ɪd,0,0
 acidic," əˈsɪdɪk əˈsɪdɪk əˈsɪd·ɪk, æ-",0,0
 acidity," əˈsɪdət̬i əˈsɪd·ɪ·t̬i, æ-",0,0
-acidosis,,0,0
+acidosis,,0,1
 acids, ˈæsɪd ˈæsɪd ˈæs·ɪd,1,0
-ack,,0,0
-acker,,0,0
+ack,,0,1
+acker,,0,1
 acknowledge," əkˈnɑːlɪdʒ əkˈnɑːlɪdʒ ɪkˈnɑl·ɪdʒ, æk-",1,0
 acknowledged," ɪkˈnɑl·ɪdʒd, æk-",0,0
 acknowledgement,,1,0
@@ -384,17 +384,17 @@ acknowledgements," ɪkˈnɑl·ɪdʒ·mənts, æk-",1,0
 acknowledges," əkˈnɑːlɪdʒ əkˈnɑːlɪdʒ əkˈnɑːlɪdʒ ɪkˈnɑl·ɪdʒ, æk-",1,0
 acknowledging, əkˈnɑːlɪdʒ əkˈnɑːlɪdʒ əkˈnɑːlɪdʒ,1,0
 acknowledgment," əkˈnɑːlɪdʒmənt əkˈnɑːlɪdʒmənt əkˈnɑːlɪdʒmənt ɪkˈnɑl·ɪdʒ·mənt, æk-",0,0
-acme, ˈækmi ˈæk·mi,1,0
+acme, ˈæk·mi,0,1
 acne, ˈækni ˈæk·ni,0,0
 acolyte, ˈækəlaɪt,0,0
 acolytes, ˈækəlaɪt,1,0
 acorn," ˈeɪkɔːrn ˈeɪ·kɔrn, -kərn",1,0
 acorns," ˈeɪkɔːrn ˈeɪ·kɔrn, -kərn",1,0
 acoustic, əˈkuːstɪk əˈkuːstɪk əˈku·stɪk əˈku·stɪk əˈku·stɪk,0,0
-acoustical,,0,0
+acoustical,,0,1
 acoustically, əˈkuːstɪkəli əˈkuːstɪkəli,0,0
 acoustics, əˈkuːstɪks əˈku·stɪks,0,0
-acquaint, əˈkweɪnt əˈkweɪnt,1,0
+acquaint,,0,1
 acquaintance, əˈkweɪntəns əˈkweɪntəns əˈkweɪntəns əˈkweɪn·təns əˈkweɪn·təns,0,0
 acquaintances, əˈkweɪntəns əˈkweɪntəns əˈkweɪntəns əˈkweɪn·təns əˈkweɪn·təns,1,0
 acquaintanceship, əˈkweɪntənsʃɪp,0,0
@@ -431,10 +431,10 @@ acronyms, ˈækrənɪm ˈæk·rəˌnɪm,1,0
 acropolis, əˈkrɑːpəlɪs,0,0
 across," əˈkrɑːs əˈkrɔs, əˈkrɑs əˈkrɔs, əˈkrɑs",0,0
 acrylic, əˈkrɪlɪk əˈkrɪlɪk əˈkrɪl·ɪk,0,0
-acrylics,,0,0
+acrylics,,0,1
 act, ækt ækt ækt ækt ækt ækt,1,0
 acted, ækt ækt ækt ækt ækt ækt ækt,1,0
-actin,,0,0
+actin,,0,1
 acting, ˈæktɪŋ ˈæk·tɪŋ,1,0
 action, ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈækʃən ˈæk·ʃən ˈæk·ʃən ˈæk·ʃən ˈæk·ʃən ˈæk·ʃən,1,0
 actionable, ˈækʃənəbəl,1,0
@@ -444,16 +444,16 @@ activated, ˈæktəveɪt ˈæktəveɪt,1,0
 activates, ˈæktəveɪt ˈæktəveɪt ˈæk·təˌveɪt ˈæk·təˌveɪt,1,0
 activating, ˈæktəveɪt ˈæktəveɪt,1,0
 activation, ˌæktəˈveɪʃən,0,0
-activator,,0,0
+activator,,0,1
 active, ˈæktɪv ˈæktɪv ˈæktɪv ˈæktɪv ˈæk·tɪv ˈæk·tɪv ˈæk·tɪv,1,0
 actively, ˈæktɪvli,0,0
-actives,,0,0
+actives,,0,1
 activism, ˈæk·təˌvɪz·əm,1,0
 activist, ˈæktəvɪst,0,0
 activists, ˈæktəvɪst,1,0
 activities, ækˈtɪvət̬i ækˈtɪvət̬i ækˈtɪvət̬i ækˈtɪv·ɪ·t̬i,1,0
 activity, ækˈtɪvət̬i ækˈtɪvət̬i ækˈtɪvət̬i ækˈtɪv·ɪ·t̬i,1,0
-acton,,0,0
+acton,,0,1
 actor, ˈæktɚ ˈæktɚ ˈæk·tər,0,0
 actors, ˈæktɚ ˈæktɚ ˈæk·tər,1,0
 actress, ˈæktrəs,0,0
@@ -468,14 +468,14 @@ actuaries, ˈæktʃueri -eri,1,0
 actuary, ˈæktʃueri -eri,0,0
 actuate, ˈæktʃueɪt,0,0
 actuator, ˈæktʃueɪt̬ɚ,0,0
-actuators,,0,0
+actuators,,0,1
 acuity, əˈkjuːət̬i,0,0
 acumen," əˈkjuːmən əˈkju·mən, ˈæk·jə·mən",1,0
 acupuncture, ˈækjəpʌŋktʃɚ ˈæk·jəˌpʌŋk·tʃər,0,0
 acute, əˈkjuːt əˈkjuːt əˈkjuːt əˈkjuːt əˈkjut əˈkjut əˈkjut əˈkjut,1,0
 acutely, əˈkjuːtli əˈkjuːtli,0,0
 acuteness, əˈkjuːtnəs əˈkjuːtnəs,0,0
-acyclovir,,0,0
+acyclovir,,0,1
 ad, æd æd,1,0
 adage, ˈædɪdʒ ˈæd·ɪdʒ,0,0
 adagio, əˈdɑːdʒioʊ,0,0

@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
 vexed, vekst vekst,0,0
 vexing, ˈveksɪŋ,0,0
-vi,,0,0
+vi,,0,1
 via," ˈvaɪə ˈvaɪə ˌvɑɪ·ə, ˌvi·ə",0,0
 viability, ˌvaɪəˈbɪlət̬i ˌvaɪəˈbɪlət̬i,1,0
 viable, ˈvaɪəbəl ˈvaɪəbəl ˈvɑɪ·ə·bəl,1,0
@@ -10,7 +10,7 @@ viaducts, ˈvaɪədʌkt ˈvɑɪ·əˌdʌkt,1,0
 vial," vaɪl ˈvɑɪ·əl, vɑɪl",0,0
 vials," vaɪl ˈvɑɪ·əl, vɑɪl",1,0
 viatical,,1,0
-viator,,0,0
+viator,,0,1
 vibe, vaɪb,0,0
 vibes, vɑɪbz,1,0
 vibrant, ˈvaɪbrənt ˈvaɪbrənt ˈvɑɪ·brənt,1,0
@@ -21,7 +21,7 @@ vibration, vaɪˈbreɪʃən,0,0
 vibrations, vaɪˈbreɪʃən,1,0
 vibrato, vɪˈbrɑːt̬oʊ,0,0
 vibrator, ˈvaɪbreɪt̬ɚ,0,0
-vic,,0,0
+vic,,0,1
 vicar, ˈvɪkɚ,0,0
 vicarious, vɪˈkeriəs vɑɪˈkeər·i·əs,0,0
 vicariously, vɪˈkeriəsli vɪˈkeriəsli,0,0
@@ -29,15 +29,15 @@ vicars, ˈvɪkɚ,1,0
 vice, vaɪs vɑɪs vɑɪs,1,0
 viceroy, ˈvaɪsrɔɪ,0,0
 vices, vaɪs vɑɪs vɑɪs,1,0
-vichy, ˈvɪʃi wɑːt̬ɚ,1,0
+vichy,,0,1
 vichyssoise, ˌviːʃiˈswɑːz,0,0
 vicinity, vəˈsɪnət̬i vɪˈsɪn·ɪ·t̬i,0,0
 vicious, ˈvɪʃəs ˈvɪʃəs ˈvɪʃ·əs,0,0
 viciously, ˈvɪʃəsli ˈvɪʃəsli,0,0
 viciousness, ˈvɪʃəsnəs ˈvɪʃəsnəs,0,0
-vicissitude,,0,0
+vicissitude,,0,1
 vicissitudes, vɪˈsɪsətuːdz,0,0
-vicomte,,0,0
+vicomte,,0,1
 victim, ˈvɪktəm ˈvɪk·təm,0,0
 victimization, ˌvɪktəməˈzeɪʃən,0,0
 victimize, ˈvɪktəmaɪz,0,0
@@ -48,12 +48,12 @@ victor, ˈvɪktɚ ˈvɪk·tər,0,0
 victoria, vɪkˈtɔːriə vɪkˈtɔːriə vɪkˈtɔːriə vɪkˈtɔːriə,1,0
 victorian, vɪkˈtɔːriən vɪkˈtɔːriən vɪkˈtɔːriən vɪkˈtɔr·i·ən vɪkˈtɔr·i·ən,1,0
 victorians, vɪkˈtɔːriən vɪkˈtɔːriən vɪkˈtɔːriən vɪkˈtɔr·i·ən vɪkˈtɔr·i·ən,1,0
-victorias,,0,0
+victorias,,0,1
 victories," ˈvɪktɚi ˈvɪktɚi ˈvɪk·tə·ri, -tri",1,0
 victorious, vɪkˈtɔːriəs,0,0
 victors, ˈvɪktɚ ˈvɪk·tər,1,0
 victory," ˈvɪktɚi ˈvɪk·tə·ri, -tri",0,0
-vicuna,,0,0
+vicuna,,0,1
 vide, ˈvaɪdi,0,0
 video, ˈvɪdioʊ ˈvɪdioʊ ˈvɪdioʊ ˈvɪd·iˌoʊ ˈvɪd·iˌoʊ,1,0
 videocassette, ˌvɪdioʊkəˈset ˈvɪd·iˌoʊ·kəˌset,0,0
@@ -68,9 +68,9 @@ videotaping, ˈvɪdioʊteɪp,1,0
 vie, vaɪ vɑɪ,0,0
 vied, vaɪ vɑɪ,1,0
 vienna, viˈenə,1,0
-viennese, viːəˌniːz ˈwɝːl,1,0
+viennese,,0,1
 vies, vaɪ vɑɪ,1,0
-vietcong,,0,0
+vietcong,,0,1
 vietnam, ˌvjetˈnæm,1,0
 vietnamese, ˌvjetnəˈmiːz,1,0
 view, vjuː vjuː vjuː vjuː vju vju,0,0
@@ -96,7 +96,7 @@ vigorous, ˈvɪɡɚəs ˈvɪɡɚəs,0,0
 vigorously, ˈvɪɡɚəsli ˈvɪɡɚəsli,0,0
 viking, ˈvaɪkɪŋ,1,0
 vikings, ˈvaɪkɪŋ,1,0
-vila,,0,0
+vila,,0,1
 vile, vaɪl vaɪl vɑɪl vɑɪl,0,0
 vilified, ˈvɪləfaɪ,1,0
 vilify, ˈvɪləfaɪ ˈvɪl·əˌfɑɪ,0,0
@@ -112,26 +112,26 @@ villas, ˈvɪlə ˈvɪl·ə,1,0
 ville, -vɪl,1,0
 villi,,1,0
 vim, vɪm,0,0
-vin, ˌkoʊk oʊ ˈvɑ̃,1,0
-vina,,0,0
-vincent, sənt ˌvɪnsənt ənd ðə ˌɡrenəˈdiːnz,1,0
-vinci,,0,0
+vin,,0,1
+vina,,0,1
+vincent,,0,1
+vinci,,0,1
 vindicate, ˈvɪndəkeɪt ˈvɪndəkeɪt ˈvɪn·dɪˌkeɪt,0,0
 vindicated, ˈvɪndəkeɪt ˈvɪndəkeɪt,1,0
 vindicates, ˈvɪndəkeɪt ˈvɪndəkeɪt ˈvɪn·dɪˌkeɪt,1,0
 vindication, ˌvɪndəˈkeɪʃən ˌvɪndəˈkeɪʃən,0,0
-vindicator,,0,0
+vindicator,,0,1
 vindictive, vɪnˈdɪktɪv vɪnˈdɪk·tɪv,0,0
 vindictiveness, vɪnˈdɪktɪvnəs,0,0
 vine, vaɪn vaɪn vɑɪn,0,0
 vinegar, ˈvɪnəɡɚ ˈvɪn·ɪ·ɡər,0,0
-vinegars,,0,0
-vineland,,0,0
+vinegars,,0,1
+vineland,,0,1
 vines, vaɪn vaɪn vɑɪn,1,0
 vineyard, ˈvɪnjɚd ˈvɪn·jərd,0,0
 vineyards, ˈvɪnjɚd ˈvɪn·jərd,1,0
-vining,,0,0
-vinny,,0,0
+vining,,0,1
+vinny,,0,1
 vintage, ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪn·tɪdʒ,0,0
 vintages, ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪnt̬ɪdʒ ˈvɪn·tɪdʒ,1,0
 vinyl, ˈvaɪnəl ˈvaɪnəl ˈvɑɪ·nəl,0,0
@@ -150,7 +150,7 @@ violent, ˈvaɪələnt ˈvaɪələnt ˈvaɪələnt ˈvaɪələnt ˈvɑɪ·ə·l�
 violently, ˈvaɪələntli ˈvaɪələntli ˈvɑɪ·ə·lənt·li ˈvɑɪ·ə·lənt·li,0,0
 violet, ˈvaɪələt ˈvɑɪ·ə·lət,0,0
 violets, ˈvaɪələt ˈvɑɪ·ə·lət,1,0
-violette,,0,0
+violette,,0,1
 violin, ˌvaɪəˈlɪn ˌvɑɪ·əˈlɪn,0,0
 violinist, ˌvaɪəˈlɪnɪst,0,0
 violinists, ˌvaɪəˈlɪnɪst,1,0
@@ -159,20 +159,20 @@ vip, ˌviːaɪˈpiː ˈviˌɑɪˈpi,1,0
 viper, ˈvaɪpɚ ˈvaɪpɚ ˈvɑɪ·pər,0,0
 vipers, ˈvaɪpɚ ˈvaɪpɚ ˈvɑɪ·pər,1,0
 viral, ˈvaɪrəl ˈvaɪrəl ˈvɑɪ·rəl,1,0
-virge,,0,0
-virgil,,0,0
+virge,,0,1
+virgil,,0,1
 virgin, ˈvɝːdʒɪn ˈvɝːdʒɪn ˈvɜr·dʒɪn,0,0
 virginal, ˈvɝːdʒɪnəl ˈvɝːdʒɪnəl ˈvɝːdʒɪnəl,0,0
 virginia, vɚˈdʒɪnjə,1,0
 virginian, vɚˈdʒɪnjən,1,0
-virginians,,0,0
+virginians,,0,1
 virginity, vɚˈdʒɪnət̬i vɚˈdʒɪnət̬i,0,0
 virgins, ˈvɝːdʒɪn ˈvɝːdʒɪn ˈvɜr·dʒɪn,1,0
 virgo, ˈvɝːɡoʊ ˈvɝːɡoʊ ˈvɜr·ɡoʊ,1,0
 virile," ˈvɪrəl ˈvɪrəl ˈvɪr·əl, -ɑɪl",0,0
 virility, vəˈrɪlət̬i vəˈrɪlət̬i,0,0
 virologist, vaɪˈrɑːlədʒɪst,0,0
-virologists,,0,0
+virologists,,0,1
 virology, vaɪˈrɑːlədʒi,0,0
 virtual, ˈvɝːtʃuəl ˈvɝːtʃuəl ˈvɝːtʃuəl ˈvɜr·tʃu·əl,1,0
 virtually, ˈvɝːtʃuəli ˈvɝːtʃuəli,0,0
@@ -194,11 +194,11 @@ viscount, ˈvaɪkaʊnt,0,0
 viscounts, ˈvaɪkaʊnt,1,0
 viscous, ˈvɪskəs ˈvɪs·kəs,0,0
 vise, vaɪs vɑɪs,0,0
-vishnu,,0,0
+vishnu,,0,1
 visibility, ˌvɪzəˈbɪlət̬i ˌvɪzəˈbɪlət̬i ˌvɪz·əˈbɪl·ɪ·t̬i,1,0
 visible, ˈvɪzəbəl ˈvɪzəbəl ˈvɪz·ə·bəl ˈvɪz·ə·bəl,0,0
 visibly, ˈvɪzəbli ˈvɪz·ə·bli,0,0
-visigoth,,0,0
+visigoth,,0,1
 vision, ˈvɪʒən ˈvɪʒən ˈvɪʒən ˈvɪʒən ˈvɪʒən ˈvɪʒ·ən ˈvɪʒ·ən ˈvɪʒ·ən ˈvɪʒ·ən ˈvɪʒ·ən,1,0
 visionaries, ˈvɪʒeri ˈvɪʒeri ˈvɪʒ·əˌner·i ˈvɪʒəneri,1,0
 visionary, ˈvɪʒeri ˈvɪʒeri ˈvɪʒ·əˌner·i ˈvɪʒəneri,0,0
@@ -221,9 +221,9 @@ visualize, ˈvɪʒuəlaɪz ˈvɪʒuəlaɪz ˈvɪʒ·u·əˌlɑɪz,0,0
 visualized, ˈvɪʒuəlaɪz ˈvɪʒuəlaɪz,1,0
 visualizing, ˈvɪʒuəlaɪz ˈvɪʒuəlaɪz,1,0
 visually, ˈvɪʒuəli,0,0
-visuals,,0,0
-vita,,0,0
-vitae, ˌlɪɡnəm ˈvaɪt̬i ˌlɪɡnəm ˈvaɪt̬i,1,0
+visuals,,0,1
+vita,,0,1
+vitae,,0,1
 vital, ˈvaɪt̬əl ˈvaɪt̬əl ˈvaɪt̬əl ˈvɑɪ·t̬əl,0,0
 vitality, vaɪˈtælət̬i vɑɪˈtæl·ɪ·t̬i,0,0
 vitally, ˈvaɪt̬əli ˈvaɪt̬əli,0,0
@@ -234,20 +234,20 @@ vitreous, ˈvɪtriəs,0,0
 vitriol, ˈvɪtriəl,0,0
 vitriolic, ˌvɪtriˈɑːlɪk ˌvɪ·triˈɑl·ɪk,0,0
 vitro, ˈviːtroʊ,0,0
-vitry,,0,0
+vitry,,0,1
 vittles, ˈvɪt̬əlz,1,0
 viva, ˈvaɪvə,0,0
 vivacious," vɪˈveɪʃəs vəˈveɪ·ʃəs, vɑɪ-",0,0
-vive,,0,0
-vivian,,0,0
+vive,,0,1
+vivian,,0,1
 vivid, ˈvɪvɪd ˈvɪvɪd ˈvɪv·ɪd,0,0
 vividly, ˈvɪvɪdli ˈvɪvɪdli,0,0
 vividness, ˈvɪvɪdnəs ˈvɪvɪdnəs,0,0
-vivo, ˌeks ˈviːvoʊ,1,0
+vivo,,0,1
 vixen, ˈvɪksən ˈvɪksən,0,0
-vlach,,0,0
-vo,,0,0
-vobis,,0,0
+vlach,,0,1
+vo,,0,1
+vobis,,0,1
 vocabulary, voʊˈkæbjəleri voʊˈkæbjəleri voʊˈkæb·jəˌler·i,0,0
 vocal, ˈvoʊkəl ˈvoʊkəl ˈvoʊ·kəl ˈvoʊ·kəl,0,0
 vocalist, ˈvoʊkəlɪst ˈvoʊ·kə·lɪst,0,0
@@ -258,7 +258,7 @@ vocals, ˈvoʊkəl ˈvoʊkəl ˈvoʊ·kəl ˈvoʊ·kəl,1,0
 vocation, voʊˈkeɪʃən voʊˈkeɪ·ʃən,1,0
 vocational, voʊˈkeɪʃənəl voʊˈkeɪ·ʃə·nəl,1,0
 vocations, voʊˈkeɪʃən voʊˈkeɪ·ʃən,1,0
-vociferating,,0,0
+vociferating,,0,1
 vociferous, vəˈsɪfɚəs voʊˈsɪf·ər·əs,0,0
 vodka, ˈvɑːdkə ˈvɑd·kə,0,0
 vodkas, ˈvɑːdkə ˈvɑd·kə,1,0
@@ -273,26 +273,26 @@ void, vɔɪd vɔɪd vɔɪd,1,0
 voided, vɔɪd,1,0
 voids, vɔɪd vɔɪd vɔɪd vɔɪd,1,0
 voila, ˌvwɑːˈlɑː,1,0
-volante,,0,0
+volante,,0,1
 volatile, ˈvɑːlət̬əl ˈvɑːlət̬əl ˈvɑːlət̬əl ˈvɑl·ə·t̬əl ˈvɑl·ə·t̬əl ˈvɑːlətəl,0,0
 volatility, ˌvɑːləˈtɪlət̬i ˌvɑːləˈtɪlət̬i ˌvɑːləˈtɪlət̬i,0,0
 volcanic, vɑːlˈkænɪk vɑːlˈkænɪk,0,0
-volcanically,,0,0
+volcanically,,0,1
 volcano," vɑːlˈkeɪnoʊ vɑlˈkeɪ·noʊ, vɔl-",0,0
 volcanoes,,1,0
 volcanos," vɑːlˈkeɪnoʊ vɑlˈkeɪ·noʊ, vɔl-",1,0
-volga,,0,0
+volga,,0,1
 volition," vəˈlɪʃən vəˈlɪʃ·ən, voʊ-",0,0
-volkswagen,,0,0
-volkswagens,,0,0
+volkswagen,,0,1
+volkswagens,,0,1
 volley, ˈvɑːli ˈvɑːli ˈvɑːli ˈvɑl·i ˈvɑl·i ˈvɑl·i,0,0
 volleyball, ˈvɑːlibɑːl ˈvɑːlibɑːl ˈvɑl·iˌbɔl,0,0
 volleys, ˈvɑːli ˈvɑːli ˈvɑːli ˈvɑl·i ˈvɑl·i ˈvɑl·i,1,0
 volt, voʊlt voʊlt,0,0
-volta,,0,0
+volta,,0,1
 voltage, ˈvoʊlt̬ɪdʒ,0,0
 voltages, ˈvoʊlt̬ɪdʒ,1,0
-voltaire,,0,0
+voltaire,,0,1
 volts, voʊlt voʊlt,1,0
 voluble, ˈvɑːljəbəl ˈvɑːljəbəl,0,0
 volume," ˈvɑːljuːm ˈvɑːljuːm ˈvɑːljuːm ˈvɑːljuːm ˈvɑːljuːm ˈvɑl·jəm, -jum ˈvɑl·jəm, -jum ˈvɑl·jəm, -jum ˈvɑl·jəm, -jum",1,0
@@ -308,7 +308,7 @@ volunteers, ˌvɑːlənˈtɪr ˌvɑl·ənˈtɪr,1,0
 voluptuous, vəˈlʌptʃuəs vəˈlʌptʃuəs vəˈlʌp·tʃu·əs,0,0
 vomit, ˈvɑːmɪt ˈvɑm·ɪt,0,0
 vomiting, ˈvɑːmɪt̬ɪŋ,0,0
-von,,0,0
+von,,0,1
 voodoo, ˈvuːduː ˈvuːduː ˈvud·u,0,0
 voracious," vəˈreɪʃəs vəˈreɪ·ʃəs, vɔ-",0,0
 vortex, ˈvɔːrteks ˈvɔːrteks ˈvɔr·teks,0,0
@@ -329,7 +329,7 @@ vowel, vaʊəl vaʊəl ˈvɑʊ·əl ˈvɑʊ·əl,0,0
 vowels, vaʊəl vaʊəl ˈvɑʊ·əl ˈvɑʊ·əl,1,0
 vowing, vaʊ,1,0
 vows, vaʊ vɑʊ,1,0
-vox, ˌvɑːks ˈpɑːp ˌvɑːks ˈpɑːp,1,0
+vox,,0,1
 voyage, ˈvɔɪɪdʒ ˈvɔɪ·ɪdʒ,0,0
 voyager, ˈvɔɪɪdʒɚ,0,0
 voyagers, ˈvɔɪɪdʒɚ,1,0
@@ -340,7 +340,7 @@ voyeuristic, ˌvɔɪːjəˈrɪstɪk,0,0
 vp, ˌviːˈpiː,1,0
 vroom, vruːm,0,0
 vs,,1,0
-vulcan,,0,0
+vulcan,,0,1
 vulgar, ˈvʌlɡɚ ˈvʌlɡɚ ˈvʌl·ɡər ˈvʌl·ɡər,0,0
 vulgarity, vʌlˈɡerət̬i vʌlˈɡerət̬i,0,0
 vulnerabilities, ˌvʌlnɚəˈbɪlət̬i,1,0
@@ -350,13 +350,13 @@ vulture, ˈvʌltʃɚ ˈvʌltʃɚ ˈvʌl·tʃər ˈvʌl·tʃər,0,0
 vultures, ˈvʌltʃɚ ˈvʌltʃɚ ˈvʌl·tʃər ˈvʌl·tʃər,1,0
 vulva, ˈvʌlvə,0,0
 vying, ˈvaɪɪŋ ˈvɑɪ·ɪŋ,0,0
-w, ˈdʌbəljuː ˈdʌbəljuː ˈdʌbəljuː ˈdʌb·əl·ju,1,0
+w,,0,1
 wa,,1,0
 wack, wæk wæk,0,0
-wacker,,0,0
+wacker,,0,1
 wacko, ˈwækoʊ ˈwæk·oʊ,0,0
 wackos, ˈwækoʊ ˈwæk·oʊ,1,0
-wacks,,0,0
+wacks,,0,1
 wacky, ˈwæki ˈwæk·i,0,0
 wad, wɑːd wɑd,0,0
 wadded, wɑːd wɑd,1,0
@@ -388,26 +388,26 @@ wages, ˈweɪ·dʒəz,1,0
 wagged, wæɡ wæɡ wæɡ wæɡ,1,0
 wagging, wæɡ wæɡ wæɡ wæɡ,1,0
 waggling, ˈwæɡəl,1,0
-waggoner,,0,0
-waggy,,0,0
+waggoner,,0,1
+waggy,,0,1
 waging, weɪdʒ,1,0
-wagner,,0,0
+wagner,,0,1
 wagnerian, vɑːɡˈnɪriən vɑːɡˈnɪriən,1,0
 wagon, ˈwæɡən ˈwæɡən ˈwæɡən ˈwæɡ·ən,0,0
-wagoneer,,0,0
-wagoner,,0,0
+wagoneer,,0,1
+wagoner,,0,1
 wagons, ˈwæɡən ˈwæɡən ˈwæɡən ˈwæɡ·ən,1,0
 wags, wæɡ wæɡ wæɡ wæɡ,1,0
 wah, ˈwɑːwɑː,1,0
-wahine,,0,0
-wahines,,0,0
+wahine,,0,1
+wahines,,0,1
 wahoo, wɑːˈhuː wɑːˈhuː,0,0
 waif, weɪf weɪf,0,0
 wail, weɪl weɪl weɪl,0,0
 wailing, weɪl weɪl,1,0
 wails, weɪl weɪl weɪl,1,0
 wain, weɪn,0,0
-wainwright,,0,0
+wainwright,,0,1
 waist, weɪst weɪst weɪst,0,0
 waistline, ˈweɪstlaɪn ˈweɪst·lɑɪn ˈweɪst·lɑɪn,0,0
 waists, weɪst weɪst weɪst,1,0
@@ -426,12 +426,12 @@ waivers, ˈweɪvɚ ˈweɪ·vər ˈweɪ·vər,1,0
 waives, weɪv weɪv,1,0
 waiving, weɪv,1,0
 wake, weɪk weɪk,0,0
-wakeman,,0,0
+wakeman,,0,1
 waken, ˈweɪkən,0,0
 wakes, weɪk weɪk,1,0
-wakeup,,0,0
+wakeup,,0,1
 waking, ˈweɪkɪŋ,0,0
-waldorf, ˌwɑːldɔːrf ˈsæləd,1,0
+waldorf,,0,1
 wales, weɪlz,1,0
 walk, wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɔk wɔk wɔk,1,0
 walked, wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk,1,0
@@ -442,22 +442,22 @@ walking, ˈwɑːkɪŋ ˈwɑːkɪŋ,0,0
 walkout, ˈwɑːkaʊt ˈwɔkˌɑʊt,1,0
 walkouts, ˈwɑːkaʊt ˈwɔkˌɑʊt,1,0
 walks, wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɑːk wɔk wɔk wɔk,1,0
-walkup,,0,0
+walkup,,0,1
 walkway, ˈwɑːkweɪ,0,0
 walkways, ˈwɑːkweɪ,1,0
 wall, wɑːl wɑːl wɑːl wɑːl wɑːl wɑːl wɔl wɔl,1,0
-walla,,0,0
+walla,,0,1
 wallaby, ˈwɑːləbi,0,0
 wallboard," ˈwɑːlbɔːrd ˈwɔlˌbɔrd, -ˌboʊrd",0,0
 walled, wɑːld,0,0
-waller,,0,0
+waller,,0,1
 wallet," ˈwɑːlɪt ˈwɑːlɪt ˈwɑːlɪt ˈwɑl·ɪt, ˈwɔ·lɪt",1,0
 wallets," ˈwɑːlɪt ˈwɑːlɪt ˈwɑːlɪt ˈwɑl·ɪt, ˈwɔ·lɪt",1,0
 walleye, ˈwɑːlaɪ,0,0
 wallflower, ˈwɑːlˌflaʊɚ ˈwɑːlˌflaʊɚ,1,0
-wallie,,0,0
-walling, wɑːl wɑːl,1,0
-wallman,,0,0
+wallie,,0,1
+walling,,0,1
+wallman,,0,1
 wallop, ˈwɑːləp ˈwɑːləp ˈwɑl·əp,0,0
 walloping, ˈwɑːləpɪŋ,0,0
 wallops, ˈwɑːləp ˈwɑːləp ˈwɑl·əp,1,0
@@ -473,13 +473,13 @@ walnut," ˈwɑːlnʌt ˈwɑːlnʌt ˈwɑːlnʌt ˈwɔl·nət, -ˌnʌt",0,0
 walnuts," ˈwɑːlnʌt ˈwɑːlnʌt ˈwɑːlnʌt ˈwɔl·nət, -ˌnʌt",1,0
 walrus, ˈwɑːlrəs ˈwɔl·rəs,0,0
 walruses,,1,0
-walsh,,0,0
-walt,,0,0
-walter, ˌwɑːltɚ ˈmɪt̬i,1,0
+walsh,,0,1
+walt,,0,1
+walter,,0,1
 waltz," wɑːls wɔlts, wɔls",0,0
-waltzer,,0,0
+waltzer,,0,1
 waltzes," wɑːls wɔlts, wɔls",1,0
 waltzing, wɑːls wɑːls,1,0
-wampum,,0,0
+wampum,,0,1
 wan, wɑːn wɑn,1,0
 wand, wɑːnd wɑːnd wɑːnd wɑːnd wɑːnd wɑnd,0,0

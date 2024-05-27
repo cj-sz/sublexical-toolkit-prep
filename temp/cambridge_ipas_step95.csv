@@ -1,8 +1,8 @@
 Word,Pronunciation,Root Word Returned,Missing
 unforgivable, ˌʌnfɚˈɡɪvəbəl,0,0
-unforgiven,,0,0
+unforgiven,,0,1
 unforgiving, ˌʌnfɚˈɡɪvɪŋ ˌʌnfɚˈɡɪvɪŋ ˌʌnfɚˈɡɪvɪŋ,0,0
-unformed,,0,0
+unformed,,0,1
 unfortunate, ʌnˈfɔːrtʃənət ʌnˈfɔːrtʃənət ʌnˈfɔr·tʃə·nət ʌnˈfɔr·tʃə·nət,0,0
 unfortunately, ʌnˈfɔːrtʃənətli,0,0
 unfortunates, ʌnˈfɔːrtʃənət ʌnˈfɔːrtʃənət ʌnˈfɔr·tʃə·nət ʌnˈfɔr·tʃə·nət,1,0
@@ -13,10 +13,10 @@ unfulfilled, ˌʌnfʊlˈfɪld ˌʌnfʊlˈfɪld,1,0
 unfurl, ʌnˈfɝːl ʌnˈfɜrl,0,0
 unfurled, ʌnˈfɝːl,1,0
 unfurling, ʌnˈfɝːl,1,0
-ung,,0,0
+ung,,0,1
 ungainly, ʌnˈɡeɪnli ʌnˈɡeɪn·li,0,0
 unglamorous, ʌnˈɡlæməəs,0,0
-unglued, ʌnˈɡluːd ʌnˈɡluːd,1,0
+unglued,,0,1
 ungodly, ʌnˈɡɑːdli,0,0
 ungovernable, ʌnˈɡʌvɚnəbəl,0,0
 ungrateful, ʌnˈɡreɪtfəl ʌnˈɡreɪt·fəl,0,0
@@ -26,17 +26,17 @@ unhappiness, ʌnˈhæpinəs,0,0
 unhappy, ʌnˈhæpi ʌnˈhæp·i ʌnˈhæp·i,0,0
 unharmed, ʌnˈhɑːrmd,0,0
 unhealthy, ʌnˈhelθi ʌnˈhelθi ʌnˈhelθi ʌnˈhel·θi ʌnˈhel·θi,0,0
-unheard, ʌnˈhɝːd,1,0
+unheard,,0,1
 unheeded, ˌʌnˈhiːdɪd,0,0
 unhelpful, ʌnˈhelpfəl ʌnˈhelpfəl,0,0
-unhesitatingly,,0,0
+unhesitatingly,,0,1
 unhindered, ʌnˈhɪndɚd,0,0
 unhinge, ʌnˈhɪndʒ,0,0
 unhinged, ʌnˈhɪndʒd,0,0
-unhitch,,0,0
+unhitch,,0,1
 unholy, ʌnˈhoʊli ʌnˈhoʊli ʌnˈhoʊli,0,0
-unhook,,0,0
-unhorsed,,0,0
+unhook,,0,1
+unhorsed,,0,1
 unhurt, ʌnˈhɝːt,0,0
 uni, ˈjuːni,0,0
 unicellular, ˌjuːnɪˈseljəlɚ ˌju·nəˈsel·jə·lər,0,0
@@ -62,7 +62,7 @@ unimpeded, ˌʌnɪmˈpiːdɪd,0,0
 unimportant, ˌʌnɪmˈpɔːrt̬ənt ˌʌn·ɪmˈpɔr·tənt,0,0
 unimpressed, ˌʌnɪmˈprest,0,0
 unimpressive, ˌʌnɪmˈpresɪv,0,0
-unimproved,,0,0
+unimproved,,0,1
 unindicted, ˌʌnɪnˈdaɪt̬ɪd,0,0
 uninfected, ˌʌnɪnˈfekt̬ɪd,0,0
 uninformed, ˌʌnɪnˈfɔːrmd,0,0
@@ -108,7 +108,7 @@ unity, ˈjuːnət̬i ˈju·nɪ·t̬i ˈju·nɪ·t̬i,0,0
 universal, ˌjuːnəˈvɝːsəl ˌju·nəˈvɜr·səl,1,0
 universally, ˌjuːnəˈvɝːsəli,0,0
 universe, ˈjuːnəvɝːs ˈjuːnəvɝːs ˈjuːnəvɝːs ˈju·nəˌvɜrs,1,0
-universes,,0,0
+universes,,0,1
 universities, ˌjuːnəˈvɝːsət̬i ˌju·nəˈvɜr·sɪ·t̬i,1,0
 university, ˌjuːnəˈvɝːsət̬i ˌju·nəˈvɜr·sɪ·t̬i,0,0
 unix,,1,0
@@ -119,7 +119,7 @@ unjustly, ʌnˈdʒʌstli,0,0
 unkempt, ʌnˈkempt ʌnˈkempt,0,0
 unkind, ʌnˈkaɪnd ʌnˈkɑɪnd,0,0
 unkindest, ʌnˈkaɪnd ʌnˈkɑɪnd,1,0
-unknowable,,0,0
+unknowable,,0,1
 unknowing, ʌnˈnoʊɪŋ,0,0
 unknowingly, ʌnˈnoʊɪŋli ʌnˈnoʊ·ɪŋ·li,0,0
 unknown, ʌnˈnoʊn ʌnˈnoʊn,0,0
@@ -157,7 +157,7 @@ unmasked, ʌnˈmæsk,1,0
 unmatched, ʌnˈmætʃt,0,0
 unmentionable, ʌnˈmenʃənəbəl,0,0
 unmentioned, ˌʌnˈmenʃənd,0,0
-unmerciful,,0,0
+unmerciful,,0,1
 unmet, ʌnˈmet,0,0
 unmistakable, ˌʌnmɪˈsteɪkəbəl ˌʌn·məˈsteɪ·kə·bəl,0,0
 unmistakably, ˌʌnmɪˈsteɪkəbli,0,0
@@ -182,7 +182,7 @@ unofficial, ˌʌnəˈfɪʃəl ˌʌn·əˈfɪʃ·əl,1,0
 unofficially, ˌʌnəˈfɪʃəli,0,0
 unopened, ʌnˈoʊpənd,0,0
 unopposed, ˌʌnəˈpoʊzd,0,0
-unorganized,,0,0
+unorganized,,0,1
 unorthodox, ʌnˈɔːrθədɑːks ʌnˈɔr·θəˌdɑks,1,0
 unpack, ʌnˈpæk ʌnˈpæk ʌnˈpæk,0,0
 unpacked, ʌnˈpæk ʌnˈpæk,1,0
@@ -208,7 +208,7 @@ unpredictability, ˌʌnprɪˌdɪktəˈbɪlət̬i,0,0
 unpredictable, ˌʌnprɪˈdɪktəbəl ˌʌn·prɪˈdɪk·tə·bəl,1,0
 unpredictably, ˌʌnprɪˈdɪktəbli,0,0
 unprepared, ˌʌnprɪˈperd ˌʌn·prɪˈpeərd,0,0
-unpreserved,,0,0
+unpreserved,,0,1
 unpretentious, ˌʌnprɪˈtenʃəs,0,0
 unprincipled, ʌnˈprɪnsəpəld ʌnˈprɪn·sə·pəld,0,0
 unprintable, ʌnˈprɪnt̬əbəl,0,0
@@ -235,7 +235,7 @@ unraveled, ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈræv·əl ʌ
 unraveling, ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈræv·əl ʌnˈræv·əl,1,0
 unravels, ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈrævəl ʌnˈræv·əl ʌnˈræv·əl,1,0
 unreachable, ˌʌnˈriːtʃəbəl ˌʌnˈriːtʃəbəl ˌʌnˈriːtʃəbəl,0,0
-unread,,0,0
+unread,,0,1
 unreadable, ʌnˈriːdəbəl ʌnˈriːdəbəl,0,0
 unreal, ʌnˈriːl ʌnˈriːl ʌnˈril ʌnˈril,0,0
 unrealistic, ˌʌnriːəˈlɪstɪk ʌnˌri·əˈlɪs·tɪk,0,0
@@ -250,17 +250,17 @@ unreconstructed, ˌʌnriːkənˈstrʌktɪd,0,0
 unrecorded, ˌʌnrɪˈkɔːrdɪd ˌʌnrɪˈkɔːrdɪd,0,0
 unredeemed, ˌʌnrɪˈdiːmd ˌʌnrɪˈdiːmd ˌʌnrɪˈdiːmd,1,0
 unrefined, ˌʌnrɪˈfaɪnd,0,0
-unrefuted,,0,0
+unrefuted,,0,1
 unregistered, ʌnˈredʒɪstɚd,1,0
 unregulated, ʌnˈreɡjəleɪt̬ɪd ʌnˈreɡ·jəˌleɪ·t̬ɪd -ṱɪd,0,0
 unrehearsed, ˌʌnrɪˈhɝːst,0,0
 unrelated, ˌʌnrɪˈleɪt̬ɪd ˌʌn·rɪˈleɪ·t̬ɪd ˌʌn·rɪˈleɪ·t̬ɪd,0,0
-unreleased,,0,0
+unreleased,,0,1
 unrelenting, ˌʌnrɪˈlent̬ɪŋ ˌʌn·rɪˈlen·tɪŋ,0,0
 unreliable, ˌʌnrɪˈlaɪəbəl ˌʌn·rɪˈlɑɪ·ə·bəl,0,0
 unrelieved, ˌʌnrɪˈliːvd,0,0
 unremarkable, ˌʌnrɪˈmɑːrkəbəl,0,0
-unremarked,,0,0
+unremarked,,0,1
 unremitting, ˌʌnrɪˈmɪt̬ɪŋ,0,0
 unrepentant, ˌʌnrɪˈpentənt,0,0
 unreported, ˌʌnrɪˈpɔːrt̬ɪd ˌʌnrɪˈpɔːrt̬ɪd,0,0
@@ -271,7 +271,7 @@ unresponsive, ˌʌnrɪˈspɑːnsɪv ˌʌnrɪˈspɑːnsɪv ˌʌn·rɪˈspɑn·sɪ
 unrest, ʌnˈrest ʌnˈrest,0,0
 unrestrained, ˌʌnrɪˈstreɪnd ˌʌn·rɪˈstreɪnd,0,0
 unrestricted, ˌʌnrɪˈstrɪkt̬ɪd ˌʌn·rɪˈstrɪk·təd,0,0
-unring,,0,0
+unring,,0,1
 unrivaled, ʌnˈraɪvəld ʌnˈrɑɪ·vəld,0,0
 unroll, ʌnˈroʊl ʌnˈroʊl,0,0
 unrolled, ʌnˈroʊl,1,0
@@ -294,8 +294,8 @@ unscientific, ˌʌnsaɪənˈtɪfɪk,0,0
 unscramble, ʌnˈskræmbəl,0,0
 unscripted, ʌnˈskrɪptɪd,0,0
 unscrupulous, ʌnˈskruːpjələs ʌnˈskru·pjə·ləs,1,0
-unseal,,0,0
-unsealed,,0,0
+unseal,,0,1
+unsealed,,0,1
 unseasonably, ʌnˈsiːzənəbli,0,0
 unseat, ʌnˈsiːt ʌnˈsiːt ʌnˈsit,0,0
 unseated, ʌnˈsiːt ʌnˈsiːt,1,0
@@ -307,8 +307,8 @@ unset, ʌnˈset ʌnˈset,0,0
 unsettle, ʌnˈset̬əl ʌnˈset̬əl,0,0
 unsettled, ʌnˈset̬əld ʌnˈset̬əld ʌnˈset̬·əld ʌnˈset̬·əld,0,0
 unsettling," ʌnˈset̬əlɪŋ ʌnˈset̬əlɪŋ ʌnˈset·lɪŋ, -ˈset̬·əl·ɪŋ ʌnˈset·lɪŋ, -ˈset̬·əl·ɪŋ",0,0
-unshackle,,0,0
-unshackled,,0,0
+unshackle,,0,1
+unshackled,,0,1
 unshakable,,1,0
 unshakeable, ʌnˈʃeɪkəbəl,0,0
 unshaken, ʌnˈʃeɪkən ʌnˈʃeɪkən,0,0
@@ -380,17 +380,17 @@ untraceable, ʌnˈtreɪsəbəl ʌnˈtreɪsəbəl ʌnˈtreɪsəbəl,0,0
 untraditional, ˌʌntrəˈdɪʃənəl,0,0
 untrained, ʌnˈtreɪnd ʌnˈtreɪnd ʌnˈtreɪnd,0,0
 untrammeled, ʌnˈtræməld,0,0
-untreatable,,0,0
+untreatable,,0,1
 untreated, ʌnˈtriːt̬ɪd ʌnˈtriːt̬ɪd ʌnˈtri·t̬ɪd ʌnˈtri·t̬ɪd,0,0
 untried, ʌnˈtraɪd,0,0
-untroubled,,0,0
+untroubled,,0,1
 untrue, ʌnˈtruː ʌnˈtru,0,0
 untrustworthy, ʌnˈtrʌstˌwɝːði,0,0
 untruth, ʌnˈtruːθ ʌnˈtruːθ,0,0
 untruthful, ʌnˈtruːθfəl,0,0
 untruths, ʌnˈtruːθ ʌnˈtruːθ,1,0
-unturned,,1,0
-unum,,0,0
+unturned,,0,1
+unum,,0,1
 unusable, ʌnˈjuːzəbəl,0,0
 unused, ʌnˈjuːzd ʌnˈjuzd,0,0
 unusual, ʌnˈjuːʒuəl ʌnˈju·ʒu·əl,0,0
@@ -401,7 +401,7 @@ unveiled, ʌnˈveɪl ʌnˈveɪl,1,0
 unveiling, ʌnˈveɪl ʌnˈveɪl,1,0
 unveils, ʌnˈveɪl ʌnˈveɪl ʌnˈveɪl,1,0
 unverifiable, ˌʌnverəˈfaɪəbəl,0,0
-unverified,,0,0
+unverified,,0,1
 unwanted," ʌnˈwɑːnt̬ɪd ʌnˈwɔn·tɪd, -ˈwɑn-, -ˈwʌnt-",1,0
 unwarranted," ʌnˈwɔːrənt̬ɪd ʌnˈwɑr·ən·tɪd, -ˈwɔr-",0,0
 unwary, ʌnˈweri,0,0
@@ -409,9 +409,9 @@ unwashed, ʌnˈwɑːʃt,0,0
 unwavering, ʌnˈweɪvərɪŋ ʌnˈweɪvərɪŋ,0,0
 unwed, ʌnˈwed,0,0
 unwelcome, ʌnˈwelkəm ʌnˈwel·kəm,0,0
-unwelcomed,,0,0
+unwelcomed,,0,1
 unwell, ʌnˈwel,0,0
-unwieldiness,,0,0
+unwieldiness,,0,1
 unwieldy, ʌnˈwiːldi ʌnˈwiːldi ʌnˈwil·di ʌnˈwil·di,0,0
 unwilling, ʌnˈwɪlɪŋ ʌnˈwɪl·ɪŋ,0,0
 unwillingly, ʌnˈwɪlɪŋli,0,0
@@ -441,7 +441,7 @@ update, ʌpˈdeɪt ʌpˈdeɪt ˌʌpˈdeɪt ˌʌpˈdeɪt,1,0
 updated, ʌpˈdeɪt ʌpˈdeɪt,1,0
 updates, ʌpˈdeɪt ʌpˈdeɪt ˌʌpˈdeɪt ˌʌpˈdeɪt,1,0
 updating, ʌpˈdeɪt ʌpˈdeɪt,1,0
-updraft,,0,0
+updraft,,0,1
 upfront, ʌpˈfrʌnt ˈʌpˈfrʌnt ˈʌpˈfrʌnt,1,0
 upgrade, ʌpˈɡreɪd ʌpˈɡreɪd ˌʌpˈɡreɪd,1,0
 upgraded, ʌpˈɡreɪd ʌpˈɡreɪd ˌʌpˈɡreɪd,1,0
@@ -478,7 +478,7 @@ upping,,1,0
 uppity, ˈʌpət̬i ˈʌp·ɪ·t̬i,0,0
 upright, ˈʌpraɪt ˈʌpraɪt ˈʌpraɪt ˈʌpˌrɑɪt,0,0
 uprights, ˈʌpraɪt ˈʌpraɪt ˈʌpraɪt ˈʌpˌrɑɪt,1,0
-uprise,,0,0
+uprise,,0,1
 uprising, ˈʌpˌraɪzɪŋ ˈʌpˌrɑɪ·zɪŋ,0,0
 uprisings, ˈʌpˌraɪzɪŋ ˈʌpˌrɑɪ·zɪŋ,1,0
 upriver, ˌʌpˈrɪvɚ,0,0

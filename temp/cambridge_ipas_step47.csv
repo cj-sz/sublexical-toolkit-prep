@@ -71,7 +71,7 @@ insistent, ɪnˈsɪstənt,0,0
 insistently, ɪnˈsɪstəntli,0,0
 insisting, ɪnˈsɪst,1,0
 insists, ɪnˈsɪst ɪnˈsɪst,1,0
-insofar," ˌɪnsəˈfɑːr əz ˌɪn·soʊˈfɑr ˌæz, əz",1,0
+insofar,,0,1
 insolence, ˈɪnsələns,0,0
 insolent, ˈɪnsələnt ˈɪn·sə·lənt,0,0
 insoluble, ɪnˈsɑːljəbəl ɪnˈsɑːljəbəl ɪnˈsɑl·jə·bəl ɪnˈsɑl·jə·bəl,0,0
@@ -176,7 +176,7 @@ insupportable, ˌɪnsəˈpɔːrt̬əbəl,0,0
 insurance, ɪnˈʃɝːəns ɪnˈʃɝːəns ɪnˈʃʊər·əns,1,0
 insurances, ɪnˈʃɝːəns ɪnˈʃɝːəns ɪnˈʃʊər·əns,1,0
 insure, ɪnˈʃʊr ɪnˈʃʊr ɪnˈʃʊər ɪnˈʃʊər,1,0
-insured, ɪnˈʃʊrd ɪnˈʃʊərd,1,0
+insured, ɪnˈʃʊərd,0,1
 insurers, ɪnˈʃʊrɚ -ˈʃʊrɚ,1,0
 insures, ɪnˈʃʊr ɪnˈʃʊr ɪnˈʃʊər ɪnˈʃʊər,1,0
 insurgency, ɪnˈsɝːdʒənsi ɪnˈsɜr·dʒən·si,0,0
@@ -186,7 +186,7 @@ insuring, ɪnˈʃʊr ɪnˈʃʊr,1,0
 insurmountable, ˌɪnsɚˈmaʊnt̬əbəl ˌɪn·sərˈmɑʊn·tə·bəl,0,0
 insurrection, ˌɪnsɚˈekʃən ˌɪn·səˈrek·ʃən,0,0
 intact, ɪnˈtækt ɪnˈtækt ɪnˈtækt ɪnˈtækt,0,0
-intaglio, ɪnˈtɑːlioʊ ˌprɪnt̬ɪŋ,1,0
+intaglio,,0,1
 intake, ˈɪnteɪk ˈɪnteɪk ˈɪnteɪk ˈɪnteɪk ˈɪnˌteɪk,0,0
 intangible, ɪnˈtændʒəbəl ɪnˈtæn·dʒə·bəl,1,0
 intangibles, ɪnˈtændʒəbəl ɪnˈtæn·dʒə·bəl,1,0
@@ -210,7 +210,7 @@ intellectuals, ˌɪnt̬əlˈektʃuəl ˌɪnt̬əlˈektʃuəl ˌɪnt·əlˈek·t�
 intelligence, ɪnˈtelədʒəns ɪnˈtelədʒəns ɪnˈtel·ɪ·dʒəns ɪnˈtel·ɪ·dʒəns,1,0
 intelligent, ɪnˈtelədʒənt ɪnˈtel·ɪ·dʒənt,1,0
 intelligently, ɪnˈtelədʒəntli,0,0
-intelligentsia, ɪnˌteləˈdʒentsiə,1,0
+intelligentsia,,0,1
 intelligible, ɪnˈtelədʒəbəl ɪnˈtel·ɪ·dʒə·bəl,0,0
 intemperate, ɪnˈtempɚət,0,0
 intend, ɪnˈtend ɪnˈtend,0,0
@@ -233,7 +233,7 @@ intentionally, ɪnˈtenʃənəli,0,0
 intentioned,  -ɪntenʃənd,1,0
 intentions, ɪnˈtenʃən ɪnˈten·ʃən,1,0
 intently, ɪnˈtentli ɪnˈtent·li,0,0
-intents,,1,0
+intents,,0,1
 inter, ɪnˈtɝː ɪnˈtɜr,1,0
 interact, ˌɪnt̬ɚˈækt ˌɪnt̬ɚˈækt ˌɪn·tərˈækt,1,0
 interacted, ˌɪnt̬ɚˈækt,1,0
@@ -305,7 +305,7 @@ intermarry, ˌɪnt̬ɚˈmeri ˌɪnt̬ɚˈmeri,0,0
 intermediaries, ˌɪnt̬ɚˈmiːdiəri ˌɪn·tərˈmid·iˌer·i,1,0
 intermediary, ˌɪnt̬ɚˈmiːdiəri ˌɪn·tərˈmid·iˌer·i,1,0
 intermediate, ˌɪnt̬ɚˈmiːdiət ˌɪn·tərˈmid·i·ət,1,0
-intermediates,,0,0
+intermediates,,0,1
 interminable, ɪnˈtɝːmɪnəbəl ɪnˈtɜr·mə·nə·bəl,0,0
 interminably, ɪnˈtɝːmɪnəbli,0,0
 intermingle, ˌɪnt̬ɚˈmɪŋɡəl ˌɪn·tərˈmɪŋ·ɡəl,0,0
@@ -360,9 +360,9 @@ interrogating, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt,1,0
 interrogation, ɪnˌterəˈɡeɪʃən ɪnˌterəˈɡeɪʃən,0,0
 interrogations, ɪnˌterəˈɡeɪʃən ɪnˌterəˈɡeɪʃən,1,0
 interrogator, ɪnˈterəɡeɪt̬ɚ,0,0
-interrogatories,,0,0
+interrogatories,,0,1
 interrogators, ɪnˈterəɡeɪt̬ɚ,1,0
-interrogatory,,0,0
+interrogatory,,0,1
 interrupt, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt ˌɪn·təˈrʌpt,0,0
 interrupted, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,1,0
 interrupting, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,1,0
@@ -377,7 +377,7 @@ intersection, ˌɪnt̬ɚˈsekʃən ˌɪnt̬ɚˈsekʃən ˈɪn·tərˌsek·ʃən 
 intersections, ˌɪnt̬ɚˈsekʃən ˌɪnt̬ɚˈsekʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən,1,0
 intersects, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪn·tərˈsekt ˌɪn·tərˈsekt,1,0
 intersperse, ˌɪnt̬ɚˈspɝːs ˌɪnt·ərˈspɜrs,0,0
-interspersed, ˌɪnt̬ɚˈspɝːs,1,0
+interspersed,,0,1
 interstate, ˈɪnt̬ɚsteɪt ˌɪnt·ərˈsteɪt,1,0
 interstates, ˈɪnt̬ɚsteɪt ˌɪnt·ərˈsteɪt,1,0
 interstellar, ˌɪnt̬ɚˈstelɚ,0,0
@@ -390,7 +390,7 @@ intervene, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn ˌɪn·tərˈvin ˌɪn·tərˈvin
 intervened, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn,1,0
 intervenes, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn ˌɪn·tərˈvin ˌɪn·tərˈvin,1,0
 intervening, ˌɪnt̬ɚˈviːnɪŋ,0,0
-intervenor,,0,0
+intervenor,,0,1
 intervention, ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪn·tərˈven·ʃən,1,0
 interventionist, ˌɪnt̬ɚˈvenʃənɪst -ṱɚ-,0,0
 interventionists, ˌɪnt̬ɚˈvenʃənɪst -ṱɚ-,1,0
@@ -439,7 +439,7 @@ intramural, ˌɪntrəˈmjʊrəl ˌɪn·trəˈmjʊər·əl,0,0
 intransigence, ɪnˈtrænsədʒəns,0,0
 intransigent," ɪnˈtrænsədʒənt ɪnˈtræn·sɪ·dʒənt, -zɪ-",0,0
 intraocular, ˌɪntrəˈɑːkjəlɚ,0,0
-intraparty,,0,0
+intraparty,,0,1
 intrastate,,1,0
 intrauterine, ˌɪntrəˈjuːt̬ɚɪn,0,0
 intravenous, ˌɪntrəˈviːnəs ˌɪn·trəˈvi·nəs,0,0

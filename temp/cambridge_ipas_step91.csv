@@ -8,15 +8,15 @@ thoughtfully, ˈθɑːtfəli ˈθɑːtfəli ˈθɑːtfəli ˈθɔt·fə·li,0,0
 thoughtfulness, ˈθɑːtfəlnəs ˈθɑːtfəlnəs ˈθɑːtfəlnəs ˈθɔt·fəl·nəs,0,0
 thoughtless, ˈθɑːtləs ˈθɔt·ləs,0,0
 thoughts, θɑːt θɔt,1,0
-thous,,0,0
+thous,,0,1
 thousand, ˈθaʊzənd ˈθɑʊ·zənd,1,0
-thousands,,1,0
+thousands,,0,1
 thousandth, ˈθaʊzənθ ˈθɑʊ·zənθ ˈθɑʊ·zənθ,0,0
 thousandths, ˈθaʊzənθ ˈθɑʊ·zənθ ˈθɑʊ·zənθ,1,0
-thrall, θrɑːl,1,0
+thrall,,0,1
 thrash, θræʃ θræʃ θræʃ θræʃ θræʃ θræʃ θræʃ,0,0
 thrashed, θræʃ θræʃ θræʃ θræʃ,1,0
-thrasher,,0,0
+thrasher,,0,1
 thrashes, θræʃ θræʃ θræʃ θræʃ θræʃ θræʃ θræʃ,1,0
 thrashing, ˈθræʃɪŋ ˈθræʃɪŋ ˈθræʃɪŋ,0,0
 thread, θred θred θred θred θred θred θred θred,0,0
@@ -35,7 +35,7 @@ threefold, ˈθriːfoʊld ˈθriːfoʊld,0,0
 threes, θriː θri θri,1,0
 threesome, ˈθriːsəm ˈθriːsəm ˈθri·səm,0,0
 thresh, θreʃ θreʃ,0,0
-thresher,,0,0
+thresher,,0,1
 threshold," ˈθreʃhoʊld ˈθreʃhoʊld ˈθreʃˌoʊld, ˈθreʃˌhoʊld ˈθreʃˌoʊld, ˈθreʃˌhoʊld",1,0
 thresholds," ˈθreʃhoʊld ˈθreʃhoʊld ˈθreʃˌoʊld, ˈθreʃˌhoʊld ˈθreʃˌoʊld, ˈθreʃˌhoʊld",1,0
 threw, θruː θru,0,0
@@ -58,8 +58,8 @@ throats, θroʊt θroʊt,1,0
 throaty, ˈθroʊt̬i ˈθroʊ·t̬i,0,0
 throb, θrɑːb θrɑːb θrɑb,0,0
 throbbing,,1,0
-throes, θroʊz θroʊz,1,0
-thrombolysis,,0,0
+throes, θroʊz,0,1
+thrombolysis,,0,1
 thrombosis, θrɑːmˈboʊsɪs,0,0
 throne, θroʊn θroʊn,0,0
 throng," θrɑːŋ θrɔŋ, θrɑŋ",0,0
@@ -75,16 +75,16 @@ throughway, ˈθruːweɪ ˈθruˌweɪ,0,0
 throw, θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ,1,0
 throwaway, ˈθroʊəweɪ ˈθroʊ·əˌweɪ,1,0
 throwback, ˈθroʊbæk ˈθroʊˌbæk,0,0
-thrower,,0,0
-throwers, ˈsnoʊ ˌθroʊɚ,1,0
+thrower,,0,1
+throwers,,0,1
 throwing, θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ,1,0
 thrown, θroʊn θroʊn,0,0
 throws, θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ θroʊ,1,0
 thru, θruː,0,0
 thrush, θrʌʃ θrʌʃ θrʌʃ,0,0
 thrust, θrʌst θrʌst,0,0
-thruster,,0,0
-thrusters,,0,0
+thruster,,0,1
+thrusters,,0,1
 thrusting, θrʌst θrʌst,1,0
 thrusts, θrʌst θrʌst,1,0
 thruway, ˈθruːweɪ ˈθruˌweɪ,0,0
@@ -94,7 +94,7 @@ thuggery, ˈθʌɡɚi,0,0
 thugs, θʌɡ θʌɡ,1,0
 thumb, θʌm θʌm,1,0
 thumbed, ˌɡriːn ˈθʌmd,1,0
-thumbing, θʌm θʌm θʌm θʌm,1,0
+thumbing,,0,1
 thumbnail, ˈθʌmneɪl ˈθʌmneɪl ˈθʌmˌneɪl ˈθʌmˌneɪl,0,0
 thumbs, θʌm θʌm θʌm θʌm,1,0
 thump, θʌmp θʌmp θʌmp,0,0
@@ -103,14 +103,14 @@ thumper, ˈbaɪbəlˌθʌmpɚ,1,0
 thumping, ˈθʌmpɪŋ,0,0
 thumps, θʌmp θʌmp θʌmp θʌmp θʌmp,1,0
 thunder, ˈθʌndɚ ˈθʌndɚ ˈθʌn·dər,0,0
-thunderbird,,0,0
+thunderbird,,0,1
 thunderbolt, ˈθʌndɚboʊlt ˈθʌndɚboʊlt ˈθʌn·dərˌboʊlt,0,0
 thundered, ˈθʌndɚ ˈθʌndɚ ˈθʌndɚ,1,0
 thundering, ˈθʌndɚɪŋ,0,0
 thunderous, ˈθʌndɚəs ˈθʌn·dər·əs,0,0
 thunders, ˈθʌndɚ ˈθʌndɚ ˈθʌn·dər,1,0
-thundershower,,0,0
-thundershowers,,0,0
+thundershower,,0,1
+thundershowers,,0,1
 thunderstorm, ˈθʌndɚstɔːrm ˈθʌn·dərˌstɔrm,0,0
 thunderstorms, ˈθʌndɚstɔːrm ˈθʌn·dərˌstɔrm,1,0
 thunderstruck, ˈθʌndɚstrʌk,0,0
@@ -128,8 +128,8 @@ thyself, ðaɪˈself,0,0
 ti, tiː,1,0
 tiara," tiˈerə tiˈær·ə, -ˈɑr·ə, -ˈeər·ə",0,0
 tiaras," tiˈerə tiˈær·ə, -ˈɑr·ə, -ˈeər·ə",1,0
-tibby,,0,0
-tiber,,0,0
+tibby,,0,1
+tiber,,0,1
 tibet, tɪˈbet,1,0
 tibetan, tɪˈbetən,1,0
 tibetans, tɪˈbetən,1,0
@@ -156,34 +156,34 @@ tiddly, ˈtɪdəli ˈtɪdəli,0,0
 tiddlywinks, ˈtɪdəliwɪŋks,0,0
 tide, taɪd taɪd tɑɪd tɑɪd,0,0
 tides, taɪd taɪd  -taɪd tɑɪd tɑɪd,1,0
-tidewater,,0,0
+tidewater,,0,1
 tidings, ˈtaɪdɪŋz,0,0
 tidy, ˈtaɪdi ˈtaɪdi ˈtɑɪ·di ˈtɑɪ·di,0,0
 tie, taɪ taɪ taɪ taɪ tɑɪ tɑɪ,1,0
 tied, taɪ taɪ taɪ taɪ taɪ tɑɪ tɑɪ,1,0
-tieing,,0,0
-tien,,0,0
+tieing,,0,1
+tien,,0,1
 tier, tɪr tɪər,1,0
-tierce,,0,0
+tierce,,0,1
 tiered,  -tɪrd,1,0
 tiers, tɪr tɪər,1,0
 ties,,1,0
 tiff, tɪf tɪf,0,0
-tiffany,,0,0
+tiffany,,0,1
 tiffin, ˈtɪfɪn,0,0
-tift,,0,0
-tig,,0,0
+tift,,0,1
+tig,,0,1
 tiger, ˈtaɪɡɚ ˈtaɪɡɚ ˈtɑɪ·ɡər,0,0
 tigers, ˈtaɪɡɚ ˈtaɪɡɚ ˈtɑɪ·ɡər,1,0
 tight, taɪt tɑɪt tɑɪt tɑɪt,1,0
 tighten, ˈtaɪtən ˈtɑɪt·ən ˈtɑɪt·ən ˈtɑɪt·ən,1,0
 tightened, ˈtaɪtən,1,0
 tightening,,1,0
-tightenings,,0,0
+tightenings,,0,1
 tightens, ˈtaɪtən ˈtɑɪt·ən ˈtɑɪt·ən ˈtɑɪt·ən,1,0
 tighter, taɪt tɑɪt tɑɪt tɑɪt,1,0
 tightest, taɪt tɑɪt tɑɪt tɑɪt,1,0
-tightfisted,,0,0
+tightfisted,,0,1
 tightly, ˈtaɪtli ˈtɑɪt·li ˈtɑɪt·li,0,0
 tightness, ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs ˈtaɪtnəs,0,0
 tightrope, ˈtaɪtroʊp ˈtɑɪtˌroʊp,1,0
@@ -194,24 +194,24 @@ tike, taɪk,0,0
 tikes, taɪk,1,0
 tiki, ˈtiːki,0,0
 til,,1,0
-tilbury,,0,0
-tilden,,0,0
+tilbury,,0,1
+tilden,,0,1
 tile, taɪl tɑɪl,0,0
 tiled, taɪld,0,0
 tiles, taɪl tɑɪl,1,0
 till," tɪl tɪl, təl",1,0
 tiller, ˈtɪlɚ,0,0
 tilling, tɪl,1,0
-tillman,,0,0
-tilly,,0,0
+tillman,,0,1
+tilly,,0,1
 tilt, tɪlt tɪlt tɪlt,0,0
 tilted, tɪlt,1,0
 tilting, tɪlt,1,0
 tilts, tɪlt tɪlt tɪlt,1,0
-tim,,0,0
+tim,,0,1
 timber, ˈtɪmbɚ ˈtɪmbɚ ˈtɪmbɚ ˈtɪm·bər,1,0
-timberland,,0,0
-timberlands,,0,0
+timberland,,0,1
+timberlands,,0,1
 timberline, ˈtɪmbɚlaɪn ˈtɪmbɚlaɪn,0,0
 timbers, ˈtɪmbɚ ˈtɪmbɚ ˈtɪmbɚ ˈtɪm·bər,1,0
 timbre," ˈtæmbɚ ˈtæm·bər, ˈtɪm·bər",0,0
@@ -232,10 +232,10 @@ timid, ˈtɪmɪd ˈtɪm·ɪd,0,0
 timidity, tɪˈmɪdət̬i,0,0
 timidly, ˈtɪmɪdli,0,0
 timing, ˈtaɪmɪŋ ˈtaɪmɪŋ ˈtaɪmɪŋ ˈtɑɪ·mɪŋ,1,0
-timmer,,0,0
-timon,,0,0
-timor, ˌiːst ˈtiːmɔːr,1,0
-timothy,,0,0
+timmer,,0,1
+timon,,0,1
+timor,,0,1
+timothy,,0,1
 timpani, ˈtɪmpəni,0,0
 tin, tɪn tɪn tɪn tɪn tɪn tɪn tɪn tɪn,0,0
 tincture, ˈtɪŋktʃɚ,0,0
@@ -247,34 +247,34 @@ ting, tɪŋ,0,0
 tinge, tɪndʒ tɪndʒ,0,0
 tinged, tɪndʒd,0,0
 tingle, ˈtɪŋɡəl ˈtɪŋɡəl ˈtɪŋ·ɡəl,0,0
-tingler,,0,0
+tingler,,0,1
 tingling, ˈtɪŋɡəl ˈtɪŋɡəl,1,0
 tinier, ˈtaɪni ˈtɑɪ·ni,1,0
 tiniest, ˈtaɪni ˈtɑɪ·ni,1,0
 tinker, ˈtɪŋkɚ ˈtɪŋ·kər,0,0
 tinkered, ˈtɪŋkɚ,1,0
-tinkerer,,0,0
+tinkerer,,0,1
 tinkering, ˈtɪŋkɚ,1,0
 tinkle, ˈtɪŋkəl ˈtɪŋkəl ˈtɪŋ·kəl ˈtɪŋ·kəl,0,0
 tinkled, ˈtɪŋkəl ˈtɪŋkəl,1,0
-tinkler,,0,0
+tinkler,,0,1
 tinkling, ˈtɪŋkəl ˈtɪŋkəl,1,0
-tinman,,0,0
+tinman,,0,1
 tinny, ˈtɪni ˈtɪni ˈtɪn·i,0,0
 tins, tɪn tɪn tɪn tɪn tɪn tɪn tɪn tɪn,1,0
 tinsel, ˈtɪnsəl ˈtɪnsəl ˈtɪn·səl,0,0
 tint, tɪnt tɪnt tɪnt,0,0
 tinted, ˈtɪnt̬ɪd,0,0
 tints, tɪnt tɪnt tɪnt,1,0
-tintype,,0,0
+tintype,,0,1
 tiny, ˈtaɪni ˈtɑɪ·ni,0,0
 tip, tɪp tɪp tɪp tɪp tɪp tɪp tɪp tɪp tɪp tɪp,1,0
-tipoff,,0,0
+tipoff,,0,1
 tipped,,1,0
-tipper, ˈtɪpɚ,1,0
-tippers, ˈtɪpɚ ˈtɪpɚ,1,0
+tipper, ˈtɪpɚ,0,1
+tippers,,0,1
 tippet, ˈtɪpɪt,0,0
-tippets,,0,0
+tippets,,0,1
 tipping,,1,0
 tipple, ˈtɪpəl,0,0
 tippy, ˈtɪpi,0,0
@@ -294,18 +294,18 @@ tirelessly, ˈtaɪrləsli,0,0
 tires, taɪr tɑɪər tɑɪər,1,0
 tiresome, ˈtaɪrsəm ˈtɑɪər·səm,0,0
 tiring, ˈtaɪrɪŋ ˈtɑɪər·ɪŋ,0,0
-tiros,,0,0
+tiros,,0,1
 tis, tɪz,1,0
 tissue, ˈtɪʃuː ˈtɪʃuː ˈtɪʃuː ˈtɪʃ·u ˈtɪʃ·u,0,0
 tissues, ˈtɪʃuː ˈtɪʃuː ˈtɪʃuː ˈtɪʃ·u ˈtɪʃ·u,1,0
 tit, tɪt tɪt tɪt,0,0
 titan, ˈtaɪtən,0,0
-titania,,0,0
+titania,,0,1
 titanic, taɪˈtænɪk,1,0
 titanium, taɪˈteɪniəm tɑɪˈteɪ·ni·əm,1,0
 titans, ˈtaɪtən,1,0
 tithe, taɪð,0,0
-tithing,,0,0
+tithing,,0,1
 titian, ˈtɪʃən,1,0
 titillate, ˈtɪt̬əleɪt ˈtɪt̬·əlˌeɪt,0,0
 titillated, ˈtɪt̬əleɪt,1,0
@@ -318,11 +318,11 @@ tits, tɪt tɪt tɪt,1,0
 titter, ˈtɪt̬ɚ ˈtɪt̬·ər,0,0
 tittle, ˈtɪt̬əl ˈtɪt̬əl,0,0
 titular, ˈtɪtʃəlɚ,0,0
-tivoli,,0,0
+tivoli,,0,1
 tizzy, ˈtɪzi ˈtɪz·i,0,0
-tlingit,,0,0
+tlingit,,0,1
 to," strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː strong tuː tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə tu, tʊ, tə",0,0
-toa,,0,0
+toa,,0,1
 toad, toʊd toʊd toʊd,0,0
 toads, toʊd toʊd toʊd,1,0
 toast, toʊst toʊst toʊst toʊst,0,0
@@ -330,18 +330,18 @@ toasted, toʊst toʊst toʊst,1,0
 toaster, ˈtoʊstɚ ˈtoʊ·stər,0,0
 toasters, ˈtoʊstɚ ˈtoʊ·stər,1,0
 toasting, toʊst toʊst toʊst,1,0
-toastmaster,,0,0
+toastmaster,,0,1
 toasts, toʊst toʊst toʊst toʊst,1,0
 tobacco, təˈbækoʊ təˈbæk·oʊ,0,0
-tobaccos, ˌflaʊɚɪŋ təˈbækoʊ,1,0
-tobe,,0,0
+tobaccos,,0,1
+tobe,,0,1
 toboggan, təˈbɑːɡən təˈbɑɡ·ən,0,0
 toboggans, təˈbɑːɡən təˈbɑɡ·ən,1,0
-toby, ˈtoʊbi ˌdʒʌɡ,1,0
+toby,,0,1
 tock, ˈtɪkˌtɑːk,1,0
-tod, tɑːd,1,0
+tod,,0,1
 today, təˈdeɪ təˈdeɪ təˈdeɪ təˈdeɪ,0,0
-todays,,0,0
+todays,,0,1
 toddle, ˈtɑːdəl ˈtɑːdəl ˈtɑd·əl,0,0
 toddler, ˈtɑːdlɚ ˈtɑd·lər,0,0
 toddlers, ˈtɑːdlɚ ˈtɑd·lər,1,0
@@ -349,7 +349,7 @@ toddling, ˈtɑːdəl ˈtɑːdəl,1,0
 toe, toʊ toʊ toʊ toʊ,1,0
 toed,  -toʊd,1,0
 toehold, ˈtoʊhoʊld ˈtoʊhoʊld ˈtoʊˌhoʊld,1,0
-toeing,,1,0
+toeing,,0,1
 toenail, ˈtoʊneɪl ˈtoʊˌneɪl,0,0
 toenails, ˈtoʊneɪl ˈtoʊˌneɪl,1,0
 toes, toʊ toʊ toʊ toʊ toʊ,1,0
@@ -359,7 +359,7 @@ tofu, ˈtoʊfuː ˈtoʊ·fu,0,0
 toga, ˈtoʊɡə,0,0
 together, təˈɡeðɚ təˈɡeðɚ təˈɡeðɚ təˈɡeðɚ təˈɡeðɚ,0,0
 togetherness, təˈɡeðɚnəs təˈɡeð·ər·nəs,0,0
-togethers, ɡet ɡet ɡet ɡet ˈɡettəˌɡeðɚ ɡet ɡet ˈɡet·təˌɡeð·ər,1,0
+togethers,,0,1
 toggle, ˈtɑːɡəl ˈtɑːɡəl,0,0
 togo, ˈtoʊɡoʊ,1,0
 togs, tɑːɡ tɑːɡ,0,0
@@ -367,7 +367,7 @@ toil, tɔɪl tɔɪl,1,0
 toiled, tɔɪl tɔɪl,1,0
 toilet, ˈtɔɪlət ˈtɔɪlət ˈtɔɪlət ˈtɔɪ·lɪt,0,0
 toiletries, ˈtɔɪlətriz ˈtɔɪ·lɪ·triz,0,0
-toiletry, ˈtɔɪlətri ˌbæɡ,1,0
+toiletry,,0,1
 toilets,,1,0
 toiling, tɔɪl tɔɪl,1,0
 toils, tɔɪl tɔɪl,1,0
@@ -375,11 +375,11 @@ toity, ˌhɔɪt̬iˈtɔɪt̬i,1,0
 token, ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊ·kən ˈtoʊ·kən,1,0
 tokens, ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊkən ˈtoʊ·kən ˈtoʊ·kən,1,0
 tokyo, ˈtoʊkioʊ,1,0
-tol,,0,0
-tolan,,0,0
+tol,,0,1
+tolan,,0,1
 told, toʊld toʊld,0,0
-tole,,0,0
-toledo,,0,0
+tole,,0,1
+toledo,,0,1
 tolerable, ˈtɑːlɚəbəl ˈtɑl·ər·ə·bəl,0,0
 tolerance, ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑl·ər·əns ˈtɑl·ər·əns,0,0
 tolerances, ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑːlɚəns ˈtɑl·ər·əns ˈtɑl·ər·əns,1,0
@@ -391,10 +391,10 @@ tolerating, ˈtɑːləreɪt ˈtɑːləreɪt,1,0
 toll, toʊl toʊl toʊl toʊl toʊl,1,0
 tollbooth, ˈtoʊlbuːθ 'toʊlˌbuθ,0,0
 tolled, toʊld,0,0
-toller,,0,0
+toller,,0,1
 tolling, ˈtoʊlɪŋ,1,0
 tolls, toʊl toʊl toʊl toʊl toʊl,1,0
-tolstoy,,0,0
+tolstoy,,0,1
 tom, tɑːm,0,0
 tomahawk, ˈtɑːməhɑːk ˈtɑːməhɑːk ˈtɑːməhɑːk ˈtɑm·əˌhɔk,0,0
 tomahawks, ˈtɑːməhɑːk ˈtɑːməhɑːk ˈtɑːməhɑːk ˈtɑm·əˌhɔk,1,0
@@ -408,9 +408,9 @@ tombstones, ˈtuːmstoʊn ˈtumˌstoʊn,1,0
 tomcat, ˈtɑːmkæt ˈtɑmˌkæt,0,0
 tome, toʊm toʊm,0,0
 tomes, toʊm toʊm,1,0
-tomkin,,0,0
-tommy, ˈtɑːmi ɡʌn,1,0
-tomographic,,0,0
+tomkin,,0,1
+tommy,,0,1
+tomographic,,0,1
 tomography, təˈmɑːɡrəfi,0,0
 tomorrow," təˈmɔːroʊ təˈmɑr·oʊ, -ˈmɔr-",0,0
 tomorrows," təˈmɔːroʊ təˈmɑr·oʊ, -ˈmɔr-",1,0
@@ -433,17 +433,17 @@ tonics, ˈtɑːnɪk ˈtɑːnɪk ˈtɑːnɪk ˈtɑːnɪk ˈtɑn·ɪk ˈtɑn·ɪk,
 toniest, ˈtoʊni ˈtoʊni ˈtoʊ·ni,1,0
 tonight, təˈnaɪt təˈnɑɪt,0,0
 toning, toʊn,1,0
-tonite,,0,0
+tonite,,0,1
 tonk, tɑːŋk tɑːŋk,0,0
-tonka, ˈtɑːŋkə ˌbiːn,1,0
-tonkin,,0,0
+tonka,,0,1
+tonkin,,0,1
 tonnage, ˈtʌnɪdʒ ˈtʌnɪdʒ ˈtʌnɪdʒ,0,0
 tonne, tʌn,1,0
 tonnes, tʌn,1,0
 tons,,1,0
 tonsil, ˈtɑːnsəlz ˈtɑːnsəlz,0,0
-tonsillectomies,,0,0
-tonsillectomy,,0,0
+tonsillectomies,,0,1
+tonsillectomy,,0,1
 tonsils, ˈtɑn·səlz,0,0
 tony, ˈtoʊni ˈtoʊ·ni,1,0
 too, tuː tuː tuː tuː tuː tu tu tu,0,0
@@ -453,7 +453,7 @@ toolbox, ˈtuːlbɑːks,0,0
 tooled, tuːld,0,0
 tooling,,1,0
 tools, tuːl tuːl tuːl tuːl tuːl tuːl tul tul,1,0
-toon,,0,0
+toon,,0,1
 toot, tuːt,0,0
 tooth, tuːθ tuːθ tuθ,0,0
 toothbrush, ˈtuːθbrʌʃ ˈtuθˌbrʌʃ,0,0
@@ -468,7 +468,7 @@ toots, tuːt,1,0
 tootsie, ˈtʊtsi ˈtʊtsi,0,0
 top, tɑːp tɑːp tɑːp tɑːp tɑːp tɑːp tɑːp tɑp tɑp tɑp tɑp tɑp,1,0
 topaz, ˈtoʊpæz,0,0
-topeka,,0,0
+topeka,,0,1
 topiary, ˈtoʊpier,0,0
 topic, ˈtɑːpɪk ˈtɑp·ɪk,0,0
 topical, ˈtɑːpɪkəl ˈtɑːpɪkəl ˈtɑp·ɪ·kəl,0,0

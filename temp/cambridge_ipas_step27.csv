@@ -1,9 +1,9 @@
 Word,Pronunciation,Root Word Returned,Missing
-dispose, dɪˈspoʊz dɪˈspoʊz,1,0
-disposed, dɪˈspoʊzd dɪˈspoʊzd dɪˈspoʊzd dɪˈspoʊzd,1,0
-disposer,,0,0
-disposes, dɪˈspoʊz dɪˈspoʊz,1,0
-disposing, dɪˈspoʊz dɪˈspoʊz,1,0
+dispose, dɪˈspoʊz,0,1
+disposed, dɪˈspoʊzd dɪˈspoʊzd,0,1
+disposer,,0,1
+disposes,,0,1
+disposing,,0,1
 disposition, ˌdɪspəˈzɪʃən ˌdɪspəˈzɪʃən ˌdɪs·pəˈzɪʃ·ən,1,0
 dispositions, ˌdɪspəˈzɪʃən ˌdɪspəˈzɪʃən ˌdɪs·pəˈzɪʃ·ən,1,0
 dispositive, dɪsˈpɑːzət̬ɪv,0,0
@@ -13,7 +13,7 @@ disproportionate, ˌdɪsprəˈpɔːrʃənət ˌdɪs·prəˈpɔr·ʃə·nət,0,0
 disproportionately, ˌdɪsprəˈpɔːrʃənətli,0,0
 disprove, dɪˈspruːv dɪˈspruv,0,0
 disproved, dɪˈspruːv,1,0
-disproven,,0,0
+disproven,,0,1
 disproves, dɪˈspruːv dɪˈspruv,1,0
 dispute, dɪˈspjuːt dɪˈspjut,1,0
 disputed, dɪˈspjuːt̬ɪd,0,0
@@ -26,7 +26,7 @@ disqualify, dɪˈskwɑːləfaɪ dɪsˈkwɑl·əˌfɑɪ,1,0
 disqualifying, dɪˈskwɑːləfaɪ,1,0
 disquiet, dɪˈskwaɪət,0,0
 disquieting, dɪˈskwaɪət̬ɪŋ dɪsˈkwɑɪ·ɪ·t̬ɪŋ,0,0
-disraeli,,0,0
+disraeli,,0,1
 disregard, ˌdɪsrɪˈɡɑːrd ˌdɪs·rɪˈɡɑrd,0,0
 disregarded, ˌdɪsrɪˈɡɑːrd,1,0
 disregarding, ˌdɪsrɪˈɡɑːrd,1,0
@@ -72,7 +72,7 @@ disservice, ˌdɪsˈsɝːvɪs dɪsˈsɜr·vɪs,0,0
 dissident, ˈdɪsədənt ˈdɪs·ə·dənt,0,0
 dissidents, ˈdɪsədənt ˈdɪs·ə·dənt,1,0
 dissimilar, ˌdɪsˈsɪməlɚ dɪsˈsɪm·ə·lər,0,0
-dissimilarity,,0,0
+dissimilarity,,0,1
 dissing, dɪs dɪs- dɪs,1,0
 dissipate, ˈdɪsəpeɪt ˈdɪs·əˌpeɪt,0,0
 dissipated, ˈdɪsəpeɪt̬ɪd,0,0
@@ -92,9 +92,9 @@ dissuade, dɪˈsweɪd dɪˈsweɪd,0,0
 dissuaded, dɪˈsweɪd,1,0
 distal, ˈdɪstəl,0,0
 distance, ˈdɪstəns ˈdɪstəns ˈdɪs·təns,0,0
-distanced, ˈdɪstəns ˈdɪstəns,1,0
+distanced,,0,1
 distances, ˈdɪstəns ˈdɪstəns ˈdɪstəns ˈdɪstəns ˈdɪs·təns ˈdɪs·təns ˈdɪs·təns,1,0
-distancing, ˌfɪzɪkəl ˈdɪstənsɪŋ,1,0
+distancing,,0,1
 distant, ˈdɪstənt ˈdɪstənt ˈdɪstənt ˈdɪs·tənt ˈdɪs·tənt,0,0
 distaste, dɪsˈteɪst dɪsˈteɪst,0,0
 distasteful, dɪsˈteɪstfəl dɪsˈteɪstfəl,0,0
@@ -125,7 +125,7 @@ distort, dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔrt,1,0
 distorted, dɪˈstɔːrt̬ɪd dɪˈstɔːrt̬ɪd dɪˈstɔːrt̬ɪd dɪˈstɔːrt̬ɪd,0,0
 distorting, dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt,1,0
 distortion, dɪˈstɔːrʃən dɪˈstɔːrʃən dɪˈstɔːrʃən,0,0
-distortions,,0,0
+distortions,,0,1
 distorts, dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔːrt dɪˈstɔrt,1,0
 distract, dɪˈstrækt dɪˈstrækt,0,0
 distracted, dɪˈstræktɪd,0,0
@@ -238,37 +238,37 @@ divulged, daɪˈvʌldʒ,1,0
 divulging, daɪˈvʌldʒ,1,0
 divvied, ˈdɪvi,1,0
 divvy, ˈdɪvi,1,0
-dix,,0,0
+dix,,0,1
 dixie, ˈdɪksi ˈdɪk·si,1,0
 dixieland, ˈdɪksilænd,1,0
 dizziness, ˈdɪzinəs ˈdɪzinəs,0,0
 dizzy, ˈdɪzi ˈdɪzi ˈdɪzi ˈdɪz·i,0,0
 dizzying, ˈdɪziɪŋ ˈdɪziɪŋ,0,0
-djakarta,,0,0
+djakarta,,0,1
 djibouti, dʒɪˈbuːt̬i,1,0
-dk,,0,0
+dk,,0,1
 do, də də də də də du du du du,0,0
 doable, ˈduːəbəl ˈdu·ə·bəl,1,0
-dob,,1,0
-dobbin,,0,0
-dobbins,,0,0
+dob,,0,1
+dobbin,,0,1
+dobbins,,0,1
 doberman, ˈdoʊbɚmən,1,0
-dobie,,0,0
-dobson,,0,0
-doby,,0,0
+dobie,,0,1
+dobson,,0,1
+doby,,0,1
 doc, dɑːk dɑk,0,0
 docent, ˈdoʊsənt ˈdoʊsənt,0,0
 docile," ˈdɑːsəl ˈdɑs·əl, -ˌɑɪl",0,0
 docility, dɑːˈsɪlət̬i,0,0
 dock, dɑːk dɑːk dɑːk dɑːk dɑk dɑk,1,0
-docked,,0,0
-docken,,0,0
+docked,,0,1
+docken,,0,1
 docker, ˈdɑːkɚ,1,0
 dockers, ˈdɑːkɚ,1,0
 docket, ˈdɑːkɪt ˈdɑːkɪt ˈdɑk·ɪt,1,0
 docking, dɑːk dɑːk,1,0
 docks,,1,0
-dockside, ˈdɑːksaɪd,1,0
+dockside,,0,1
 dockworker,,1,0
 dockworkers,,1,0
 dockyard, ˈdɑːkjɑːrd,1,0
@@ -277,7 +277,7 @@ doctor, ˈdɑːktɚ ˈdɑːktɚ ˈdɑk·tər ˈdɑk·tər,1,0
 doctoral, ˈdɑːktɚəl ˈdɑk·tər·əl,0,0
 doctorate, ˈdɑːktɚət ˈdɑk·tər·ət,0,0
 doctorates, ˈdɑːktɚət ˈdɑk·tər·ət,1,0
-doctored,,0,0
+doctored,,0,1
 doctoring, ˈdɑːktɚ ˈdɑːktɚ ˈdɑːktɚ ˈdɑːktɚ,1,0
 doctors, ˈdɑːktɚ ˈdɑːktɚ ˈdɑːktɚ ˈdɑk·tər ˈdɑk·tər,1,0
 doctrinaire, ˌdɑːktrəˈner,0,0
@@ -289,13 +289,13 @@ document, ˈdɑːkjəmənt ˈdɑːkjəmənt ˈdɑk·jə·mənt ˈdɑk·jə·mən
 documentaries, ˌdɑːkjəˈment̬ɚi ˌdɑk·jəˈmen·tə·ri,1,0
 documentary, ˌdɑːkjəˈment̬ɚi ˌdɑk·jəˈmen·tə·ri,0,0
 documentation, ˌdɑːkjəmenˈteɪʃən ˌdɑːkjəmenˈteɪʃən ˌdɑk·jə·menˈteɪ·ʃən ˌdɑk·jə·menˈteɪ·ʃən,1,0
-documented,,0,0
+documented,,0,1
 documenting, ˈdɑːkjəment,1,0
 documents, ˈdɑːkjəmənt ˈdɑːkjəmənt ˈdɑk·jə·mənt ˈdɑk·jə·mənt,1,0
-dodd,,0,0
+dodd,,0,1
 doddering, ˈdɑːdɚi,1,0
 dodge, dɑːdʒ dɑːdʒ dɑdʒ dɑdʒ,1,0
-dodged,,0,0
+dodged,,0,1
 dodger, ˈdɑːdʒɚ ˈdɑːdʒɚ,0,0
 dodgers, ˈdɑːdʒɚ ˈdɑːdʒɚ,1,0
 dodges, dɑːdʒ dɑːdʒ dɑdʒ dɑdʒ,1,0
@@ -330,31 +330,31 @@ dogwoods, ˈdɑːɡwʊd ˈdɔɡˌwʊd,1,0
 doh, doʊ,0,0
 doilies, ˈdɔɪli,1,0
 doily, ˈdɔɪli,0,0
-doing, ˈduːɪŋ ˈduːɪŋ ˈduːɪŋ ˈduːɪŋ ˈdu·ɪŋ,1,0
-doings, ˈduːɪŋ ˈduːɪŋ ˈdu·ɪŋ,1,0
+doing, ˈdu·ɪŋ,0,1
+doings, ˈduːɪŋ ˈduːɪŋ,0,1
 doke, ˌoʊkiˈdoʊk,1,0
 dol,,1,0
-dolce,,0,0
-doldrums," ˈdoʊldrəmz ˈdoʊldrəmz ˈdoʊldrəmz ˈdoʊl·drəmz, ˈdɔl-, ˈdɑl-",1,0
-dole, doʊl,1,0
-doled, doʊl doʊl doʊl doʊl,1,0
-doles, doʊl doʊl doʊl doʊl,1,0
-dolf,,0,0
-doling, doʊl doʊl doʊl doʊl,1,0
+dolce,,0,1
+doldrums," ˈdoʊl·drəmz, ˈdɔl-, ˈdɑl-",0,1
+dole,,0,1
+doled,,0,1
+doles,,0,1
+dolf,,0,1
+doling,,0,1
 doll," dɑːl dɑl, dɔl dɑl, dɔl",0,0
 dollar, ˈdɑːlɚ ˈdɑl·ər,1,0
 dollars, ˈdɑːlɚ ˈdɑːlɚ ˈdɑl·ər,1,0
-dolled, ˌdɑːld ˈʌp,1,0
-dolley,,0,0
+dolled,,0,1
+dolley,,0,1
 dollhouse, ˈdɑːlˌhaʊs,0,0
 dollhouses, ˈdɑːlˌhaʊs,1,0
-dollie,,0,0
+dollie,,0,1
 dollop, ˈdɑːləp ˈdɑl·əp,0,0
 dolls," dɑːl dɑl, dɔl dɑl, dɔl",1,0
 dolly," ˈdɑːli ˈdɑːli ˈdɑːli ˈdɑːli ˈdɑːli ˈdɑl·i, ˈdɔ·li",0,0
-dolomite,,0,0
-dolomites,,0,0
-dolores,,0,0
+dolomite,,0,1
+dolomites,,0,1
+dolores,,0,1
 dolphin," ˈdɑːlfɪn ˈdɑl·fən, ˈdɔl-",0,0
 dolphins," ˈdɑːlfɪn ˈdɑl·fən, ˈdɔl-",1,0
 dom, ˌnɑːnˈdɑːm,1,0
@@ -376,27 +376,27 @@ dominated, ˈdɑːməneɪt ˈdɑːməneɪt ˈdɑm·əˌneɪt,1,0
 dominates, ˈdɑːməneɪt ˈdɑːməneɪt ˈdɑm·əˌneɪt,1,0
 dominating, ˈdɑːməneɪt̬ɪŋ ˈdɑːməneɪt̬ɪŋ,0,0
 domination, ˌdɑːməˈneɪʃən ˌdɑm·əˈneɪ·ʃən,0,0
-domine,,0,0
-domineer,,0,0
+domine,,0,1
+domineer,,0,1
 domineering, ˌdɑːməˈnɪrɪŋ ˌdɑm·əˈnɪər·ɪŋ,0,0
-domini, ˌænoʊˈdɑːməni ˌænoʊˈdɑːməni,1,0
+domini,,0,1
 dominica, ˌdɑːmɪˈniːkə ,1,0
 dominican,,1,0
 dominicans,,1,0
-dominick,,0,0
+dominick,,0,1
 dominion, dəˈmɪnjən dəˈmɪnjən dəˈmɪnjən dəˈmɪn·jən,0,0
-dominique,,0,0
+dominique,,0,1
 domino, ˈdɑːmənoʊ ˈdɑm·əˌnoʊ,0,0
 dominoes, ˈdɑm·əˌnoʊz,1,0
-dominos,,0,0
-dominus,,0,0
+dominos,,0,1
+dominus,,0,1
 don, dɑːn,0,0
-dona,,0,0
-donald,,0,0
-donar,,0,0
-donat,,0,0
+dona,,0,1
+donald,,0,1
+donar,,0,1
+donat,,0,1
 donate," ˈdoʊneɪt ˈdoʊneɪt ˈdoʊ·neɪt, doʊˈneɪt",1,0
-donated,,0,0
+donated,,0,1
 donates," ˈdoʊneɪt ˈdoʊneɪt ˈdoʊ·neɪt, doʊˈneɪt",1,0
 donating, ˈdoʊneɪt ˈdoʊneɪt,1,0
 donation, doʊˈneɪʃən,1,0
@@ -405,16 +405,16 @@ done, dʌn dʌn dʌn,1,0
 dong," ˈdɪŋdɑːŋ ˈdɪŋdɑːŋ ˈdɪŋ·dɔŋ, -dɑŋ",1,0
 donkey," ˈdɑːŋki ˈdɑŋ·ki, ˈdʌŋ-, ˈdɔŋ-",0,0
 donkeys," ˈdɑːŋki ˈdɑŋ·ki, ˈdʌŋ-, ˈdɔŋ-",1,0
-donna," ˌpriːmə ˈdɑːnə ˌpriːmə ˈdɑːnə ˈprim·əˈdɑn·ə, ˈpri·mə-",1,0
-donnas," ˌpriːmə ˈdɑːnə ˌpriːmə ˈdɑːnə ˈprim·əˈdɑn·ə, ˈpri·mə-",1,0
-donne,,0,0
+donna,,0,1
+donnas,,0,1
+donne,,0,1
 donned,,1,0
 donning,,1,0
-donny,,0,0
-donnybrook,,0,0
+donny,,0,1
+donnybrook,,0,1
 donor, ˈdoʊnɚ ˈdoʊnɚ ˈdoʊ·nər ˈdoʊ·nər,1,0
 donors, ˈdoʊnɚ ˈdoʊnɚ ˈdoʊ·nər ˈdoʊ·nər,1,0
-donovan,,0,0
+donovan,,0,1
 dons, dɑːn,1,0
 donut," ˈdoʊnʌt ˈdoʊ·nʌt, -nət",0,0
 donuts," ˈdoʊnʌt ˈdoʊ·nʌt, -nət",1,0
@@ -423,13 +423,13 @@ doodad, ˈduːdæd ˈduˌdæd,0,0
 doodads, ˈduːdæd ˈduˌdæd,1,0
 doodle, ˈduːdəl ˈdu·dəl,0,0
 doodles, ˈduːdəl ˈdu·dəl,1,0
-dooley,,0,0
+dooley,,0,1
 doom, duːm dum,0,0
 doomed, duːmd,0,0
-dooming,,0,0
+dooming,,0,1
 dooms, duːm dum,1,0
 doomsayer, ˈduːmseɪɚ,0,0
-doomsayers,,0,0
+doomsayers,,0,1
 doomsday, ˈduːmzdeɪ ˈdumzˌdeɪ ˈdumzˌdeɪ,0,0
 door," dɔːr dɔːr dɔr, doʊr dɔr, doʊr",0,0
 doorbell," ˈdɔːrbel ˈdɔrˌbel, ˈdoʊr-",0,0
@@ -446,20 +446,20 @@ doorsteps," ˈdɔːrstep ˈdɔːrstep ˈdɔrˌstep, ˈdoʊr-",1,0
 doorway," ˈdɔːrweɪ ˈdɔrˌweɪ, ˈdoʊr-",0,0
 doorways," ˈdɔːrweɪ ˈdɔrˌweɪ, ˈdoʊr-",1,0
 doozy, ˈduːzi,0,0
-dopa,,0,0
+dopa,,0,1
 dopamine, ˈdoʊpəˌmiːn,0,0
 dope, doʊp doʊp doʊp doʊp doʊp doʊp,0,0
-doped,,0,0
+doped,,0,1
 dopey, ˈdoʊpi ˈdoʊpi,0,0
-doppler, ˈdɑːplɚ ɪˌfekt ˈdɑp·lər ɪˌfekt,1,0
-dora,,0,0
+doppler,,0,1
+dora,,0,1
 dorado, dəˈrɑːdoʊ dəˈrɑːdoʊ,0,0
-dorcas,,0,0
-dorey,,0,0
-doria,,0,0
+dorcas,,0,1
+dorey,,0,1
+doria,,0,1
 dorian, ˈdɔːriən,1,0
 doric, ˈdɔːrɪk,1,0
-doris,,0,0
+doris,,0,1
 dorm, dɔːrm dɔːrm,0,0
 dormancy, ˈdɔːrmənsi,0,0
 dormant, ˈdɔːrmənt ˈdɔr·mənt,1,0
@@ -468,13 +468,13 @@ dormitories," ˈdɔːrmətɔːri ˈdɔːrmətɔːri ˈdɔr·məˌtɔr·i, -ˌto�
 dormitory," ˈdɔːrmətɔːri ˈdɔːrmətɔːri ˈdɔr·məˌtɔr·i, -ˌtoʊr·i",1,0
 dormouse, ˈdɔːrmaʊs,0,0
 dorms, dɔːrm dɔːrm,1,0
-dorn,,0,0
-dorothy,,0,0
+dorn,,0,1
+dorothy,,0,1
 dorsal, ˈdɔːrsəl,0,0
-dorsi,,1,0
-dort,,0,0
+dorsi,,0,1
+dort,,0,1
 dory, ˈdɔːri,0,0
-dos, duːz dɑːs dɑːs,1,0
+dos,,0,1
 dosage, ˈdoʊsɪdʒ ˈdoʊ·sɪdʒ,0,0
 dosages, ˈdoʊsɪdʒ ˈdoʊ·sɪdʒ,1,0
 dose, doʊs doʊs doʊs doʊs doʊs,0,0

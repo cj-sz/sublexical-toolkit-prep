@@ -7,33 +7,33 @@ derisive, dɪˈraɪsɪv,0,0
 derivation, ˌderəˈveɪʃən ˌder·əˈveɪ·ʃən,0,0
 derivative, dɪˈrɪvət̬ɪv dɪˈrɪv·ə·t̬ɪv,1,0
 derivatives, dɪˈrɪvət̬ɪv dɪˈrɪv·ə·t̬ɪv,1,0
-derive, dɪˈraɪv dɪˈrɑɪv,1,0
+derive, dɪˈrɑɪv,0,1
 derived,,1,0
-derives, dɪˈraɪv dɪˈrɑɪv,1,0
-deriving, dɪˈraɪv dɪˈrɑɪv,1,0
-derk,,0,0
+derives,,0,1
+deriving,,0,1
+derk,,0,1
 derma, ˈdɜ˞ːmə-,1,0
 dermal, ˈdɝːməl,0,0
-dermatological,,0,0
+dermatological,,0,1
 dermatologist, ˌdɝːməˈtɑːlədʒɪst,0,0
 dermatologists, ˌdɝːməˈtɑːlədʒɪst,1,0
 dermatology, ˌdɝːməˈtɑːlə-,0,0
 dermis, ˈdɝːmɪs,0,0
-dern,,0,0
+dern,,0,1
 derogatory," dɪˈrɑːɡətɔːri dɪˈrɑɡ·əˌtɔr·i, -ˌtoʊr·i",0,0
 derrick, ˈderɪk ˈderɪk ˈder·ɪk,1,0
-derringer,,0,0
-derry,,0,0
+derringer,,0,1
+derry,,0,1
 dervish, ˈdɝːvɪʃ,0,0
 des,,1,0
-desalinization,,0,0
-descartes,,0,0
+desalinization,,0,1
+descartes,,0,1
 descend, dɪˈsend dɪˈsend dɪˈsend dɪˈsend dɪˈsend,0,0
 descendant, dɪˈsendənt dɪˈsendənt dɪˈsendənt dɪˈsen·dənt,0,0
 descendants, dɪˈsendənt dɪˈsendənt dɪˈsendənt dɪˈsen·dənt,1,0
 descended, dɪˈsend dɪˈsend dɪˈsend dɪˈsend,1,0
-descendent,,0,0
-descendents,,0,0
+descendent,,0,1
+descendents,,0,1
 descending, dɪˈsendɪŋ,0,0
 descends, dɪˈsend dɪˈsend dɪˈsend dɪˈsend dɪˈsend,1,0
 descent, dɪˈsent dɪˈsent dɪˈsent dɪˈsent dɪˈsent dɪˈsent dɪˈsent,0,0
@@ -49,7 +49,7 @@ desecrate, ˈdesəkreɪt ˈdes·ɪˌkreɪt,0,0
 desecrated, ˈdesəkreɪt,1,0
 desecrates, ˈdesəkreɪt ˈdes·ɪˌkreɪt,1,0
 desecration, ˌdesəˈkreɪʃən,0,0
-desecrations,,0,0
+desecrations,,0,1
 desegregate, ˌdiːˈseɡrəɡeɪt diˈseɡ·rɪˌɡeɪt,0,0
 desegregated, ˌdiːˈseɡrəɡeɪt,1,0
 desegregation, ˌdiːseɡrəˈɡeɪʃən,0,0
@@ -63,7 +63,7 @@ deserters, dɪˈzɝːt̬ɚ dɪˈzɜr·t̬ər,1,0
 deserting, dɪˈzɝːt dɪˈzɝːt dɪˈzɝːt,1,0
 desertion, dɪˈzɝːʃən dɪˈzɝːʃən dɪˈzɜr·ʃən dɪˈzɜr·ʃən,0,0
 desertions, dɪˈzɝːʃən dɪˈzɝːʃən dɪˈzɜr·ʃən dɪˈzɜr·ʃən,1,0
-deserts, dɪˈzɝːts,1,0
+deserts,,0,1
 deserve, dɪˈzɝːv dɪˈzɜrv,0,0
 deserved, dɪˈzɝːvd,0,0
 deservedly, dɪˈzɝːvɪdli,0,0
@@ -73,7 +73,7 @@ desi, ˈdeɪsi,0,0
 desiccate, ˈdesɪkeɪt ˈdesɪkeɪt,0,0
 desiccated, ˈdesəkeɪt̬ɪd ˈdesəkeɪt̬ɪd,0,0
 desiccation, ˌdesəˈkeɪʃən,0,0
-desiderata,,0,0
+desiderata,,0,1
 design, dɪˈzaɪn dɪˈzaɪn dɪˈzɑɪn dɪˈzɑɪn,1,0
 designate, ˈdezɪɡneɪt ˈdezɪɡneɪt ˈdez·ɪɡˌneɪt,1,0
 designated, ˈdezɪɡneɪt ˈdezɪɡneɪt,1,0
@@ -82,7 +82,7 @@ designating, ˈdezɪɡneɪt ˈdezɪɡneɪt,1,0
 designation, ˌdezɪɡˈneɪʃən ˌdezɪɡˈneɪʃən ˌdez·ɪɡˈneɪ·ʃən,1,0
 designations, ˌdezɪɡˈneɪʃən ˌdezɪɡˈneɪʃən ˌdez·ɪɡˈneɪ·ʃən,1,0
 designed, dɪˈzaɪn dɪˈzaɪn,1,0
-designee,,0,0
+designee,,0,1
 designer, dɪˈzaɪnɚ dɪˈzɑɪ·nər,1,0
 designers, dɪˈzaɪnɚ dɪˈzɑɪ·nər,1,0
 designing, dɪˈzaɪnɪŋ,0,0
@@ -124,7 +124,7 @@ destabilization, diːˌsteɪbələˈzeɪʃən,0,0
 destabilize, ˌdiːˈsteɪbəlaɪz,0,0
 destabilized, ˌdiːˈsteɪbəlaɪz,1,0
 destabilizing, ˌdiːˈsteɪbəlaɪzɪŋ,0,0
-destin,,0,0
+destin,,0,1
 destination, ˌdestəˈneɪʃən ˌdes·təˈneɪ·ʃən,1,0
 destinations, ˌdestəˈneɪʃən ˌdes·təˈneɪ·ʃən,1,0
 destined, ˈdestɪnd ˈdestɪnd ˈdestɪnd ˈdes·tənd ˈdes·tənd,0,0
@@ -139,7 +139,7 @@ destroyers, dɪˈstrɔɪɚ dɪˈstrɔɪɚ dɪˈstrɔɪ·ər,1,0
 destroying, dɪˈstrɔɪ dɪˈstrɔɪ,1,0
 destroys, dɪˈstrɔɪ dɪˈstrɔɪ dɪˈstrɔɪ,1,0
 destruct, ˌselfdɪˈstrʌkt ˌselfdɪˈstrʌkt,1,0
-destructed,,0,0
+destructed,,0,1
 destruction, dɪˈstrʌkʃən dɪˈstrʌk·ʃən,0,0
 destructive, dɪˈstrʌktɪv,0,0
 desultory, ˈdesəltɔːri,0,0
@@ -213,7 +213,7 @@ detours, ˈdiːtʊr ˈdiːtʊr ˈdiːtʊr ˈdi·tʊər,1,0
 detox, ˈdiːtɑːks ˈdiːtɑːks,0,0
 detoxification, diːˌtɑːksəfəˈkeɪʃən diˌtɑk·sə·fɪˈkeɪ·ʃən diˌtɑk·sə·fɪˈkeɪ·ʃən,0,0
 detoxify, diːˈtɑːksəfaɪ diːˈtɑːksəfaɪ diːˈtɑːksəfaɪ diˈtɑk·sə·ˌfɑɪ,0,0
-detract, dɪˈtrækt dɪˈtrækt,1,0
+detract,,0,1
 detractors, dɪˈtræktɚ dɪˈtræk·tər,1,0
 detriment, ˈdetrəmənt ˈde·trə·mənt,0,0
 detrimental, ˌdetrəˈment̬əl,0,0
@@ -221,15 +221,15 @@ detritus, dɪˈtraɪt̬əs dɪˈtraɪt̬əs,0,0
 detroit, dəˈtrɔɪt,1,0
 deuce, duːs duːs,0,0
 deuterium, dʒuːˈtɪətɪrəm duˈtɪər·i·əm,0,0
-deuterons,,0,0
-deutsche,,1,0
-deutschland,,0,0
-deux, ˌpɑː də ˈdɜː,1,0
-dev,,0,0
-deva,,0,0
-devall,,0,0
-devaluate,,0,0
-devaluated,,0,0
+deuterons,,0,1
+deutsche,,0,1
+deutschland,,0,1
+deux,,0,1
+dev,,0,1
+deva,,0,1
+devall,,0,1
+devaluate,,0,1
+devaluated,,0,1
 devaluation, ˌdiːvæljuˈeɪʃən ˌdiːvæljuˈeɪʃən,1,0
 devalue, ˌdiːˈvæljuː ˌdiːˈvæljuː,1,0
 devalued, ˌdiːˈvæljuː ˌdiːˈvæljuː,1,0
@@ -245,7 +245,7 @@ developers, dɪˈveləpɚ dɪˈveləpɚ dɪˈveləpɚ dɪˈveləpɚ dɪˈvel·ə
 developing, dɪˈveləpɪŋ dɪˈveləpɪŋ dɪˈvel·ə·pɪŋ dɪˈvel·ə·pɪŋ dɪˈveləpɪŋ,0,0
 development, dɪˈveləpmənt dɪˈveləpmənt dɪˈveləpmənt dɪˈveləpmənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt,1,0
 developmental, dɪˌveləpˈment̬əl dɪˌvel·əpˈmen·təl,0,0
-developmentally,,0,0
+developmentally,,0,1
 developments, dɪˈveləpmənt dɪˈveləpmənt dɪˈveləpmənt dɪˈveləpmənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt dɪˈvel·əp·mənt,1,0
 develops, dɪˈveləp dɪˈveləp dɪˈveləp dɪˈveləp dɪˈveləp dɪˈveləp dɪˈvel·əp dɪˈvel·əp dɪˈvel·əp dɪˈvel·əp dɪˈvel·əp,1,0
 deviance, ˈdiːviəns,0,0
@@ -269,22 +269,22 @@ devise, dɪˈvaɪz dɪˈvɑɪz,1,0
 devised, dɪˈvaɪz,1,0
 devises, dɪˈvaɪz dɪˈvɑɪz,1,0
 devising, dɪˈvaɪz,1,0
-devoid, dɪˈvɔɪd dɪˈvɔɪd,1,0
+devoid,,0,1
 devolution, ˌdiːvəˈluːʃən,1,0
 devolve, dɪˈvɑːlv,1,0
 devolved, dɪˈvɑːlv,1,0
 devon, ˈdevən ˈdevən,1,0
 devonian, dɪˈvoʊniən dɪˈvoʊniən dɪˈvoʊniən,1,0
-devonshire, ˌdevənʃɚ ˈkriːm,1,0
-devote, dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt,1,0
+devonshire,,0,1
+devote,,0,1
 devoted, dɪˈvoʊt̬ɪd dɪˈvoʊ·t̬ɪd,0,0
 devotee," ˌdevəˈtiː ˌdev·əˈti, -ˈteɪ",0,0
 devotees," ˌdevəˈtiː ˌdev·əˈti, -ˈteɪ",1,0
-devotes, dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt,1,0
-devoting, dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt dɪˈvoʊt,1,0
+devotes,,0,1
+devoting,,0,1
 devotion, dɪˈvoʊʃən dɪˈvoʊʃən,1,0
 devotional, dɪˈvoʊʃənəl,0,0
-devoto,,0,0
+devoto,,0,1
 devour, dɪˈvaʊɚ dɪˈvaʊɚ dɪˈvaʊɚ dɪˈvɑʊər,0,0
 devoured, dɪˈvaʊɚ dɪˈvaʊɚ dɪˈvaʊɚ,1,0
 devouring, dɪˈvaʊɚɪŋ,0,0
@@ -292,25 +292,25 @@ devours, dɪˈvaʊɚ dɪˈvaʊɚ dɪˈvaʊɚ dɪˈvɑʊər,1,0
 devout, dɪˈvaʊt dɪˈvɑʊt,0,0
 devoutly, dɪˈvaʊtli dɪˈvaʊtli,0,0
 dew," duː du, dju",0,0
-dewar,,0,0
+dewar,,0,1
 dewberry, ˈduːˌberi ˈduːˌberi,0,0
-dewitt,,0,0
-dews,,0,0
+dewitt,,0,1
+dews,,0,1
 dewy, ˈduːi,0,0
 dex, deks,0,0
 dexter, ˈdekstɚ,1,0
 dexterity, dekˈsterət̬i dekˈsterət̬i dekˈster·ɪ·t̬i,0,0
 dextrose, ˈdekstroʊs,0,0
-dey,,0,0
-dharma,,0,0
-dhole,,0,0
-dhows,,0,0
+dey,,0,1
+dharma,,0,1
+dhole,,0,1
+dhows,,0,1
 di, ˌdiːˈaɪ,1,0
-dia,,0,0
+dia,,0,1
 diabetes," ˌdaɪəˈbiːt̬iːz ˌdɑɪ·əˈbi·t̬ɪs, -tiz",0,0
 diabetic, ˌdaɪəˈbet̬ɪk ˌdɑɪ·əˈbet̬·ɪk,0,0
 diabetics, ˌdaɪəˈbet̬ɪk ˌdɑɪ·əˈbet̬·ɪk,1,0
-diablo,,0,0
+diablo,,0,1
 diabolical, ˌdaɪəˈbɑːlɪkəl ˌdaɪəˈbɑːlɪkəl ˌdɑɪ·əˈbɑl·ɪ·kəl,0,0
 diadem, ˈdaɪədem,0,0
 diagnose," ˌdaɪəɡˈnoʊs ˈdɑɪ·ɪɡˌnoʊs, -ˌnoʊz",0,0
@@ -324,7 +324,7 @@ diagonal, daɪˈæɡənəl daɪˈæɡənəl dɑɪˈæɡ·ə·nəl,0,0
 diagonally, daɪˈæɡənəli,0,0
 diagonals, daɪˈæɡənəl daɪˈæɡənəl dɑɪˈæɡ·ə·nəl,1,0
 diagram, ˈdaɪəɡræm ˈdɑɪ·əˌɡræm,1,0
-diagrammed,,0,0
+diagrammed,,0,1
 diagrams, ˈdaɪəɡræm ˈdɑɪ·əˌɡræm,1,0
 dial, ˈdaɪəl dɑɪl,1,0
 dialect, ˈdaɪəlekt ˈdɑɪ·əˌlekt,0,0
@@ -343,12 +343,12 @@ diameter, daɪˈæmət̬ɚ dɑɪˈæm·ɪ·t̬ər,0,0
 diametrically, ˌdaɪəˈmetrɪkəli ˌdɑɪ·əˈme·trɪk·li,0,0
 diamond," ˈdaɪəmənd ˈdaɪəmənd ˈdaɪəmənd ˈdaɪəmənd ˈdɑɪ·mənd, -ə·mənd ˈdɑɪ·mənd, -ə·mənd ˈdɑɪ·mənd, -ə·mənd",0,0
 diamonds,,1,0
-dian,,0,0
+dian,,0,1
 diana, daɪˈænə,1,0
-diane,,0,0
+diane,,0,1
 dianetics, ˌdaɪəˈnet̬ɪks,1,0
 diaper," ˈdaɪpɚ ˈdɑɪ·pər, ˈdɑɪ·ə·pər",0,0
-diapering,,0,0
+diapering,,0,1
 diapers," ˈdaɪpɚ ˈdɑɪ·pər, ˈdɑɪ·ə·pər",1,0
 diaphanous, daɪˈæfənəs,0,0
 diaphragm, ˈdaɪəfræm ˈdaɪəfræm ˈdaɪəfræm ˈdɑɪ·əˌfræm,0,0
@@ -356,30 +356,30 @@ diaries," ˈdaɪri ˈdaɪri ˈdɑɪ·ə·ri, ˈdɑɪ·ri",1,0
 diarrhea, ˌdaɪəˈriːə ˌdɑɪ·əˈri·ə,0,0
 diarrhoea, ˌdaɪəˈriːə,0,0
 diary," ˈdaɪri ˈdaɪri ˈdɑɪ·ə·ri, ˈdɑɪ·ri",1,0
-dias,,0,0
+dias,,0,1
 diaspora, daɪˈæspɚə dɑɪˈæs·pər·ə dɑɪˈæs·pər·ə dɑɪˈæs·pər·ə,0,0
 diastolic, ˌdaɪəˈstɑːlɪk,0,0
-diatoms,,0,0
+diatoms,,0,1
 diatonic, daɪəˈtɑːnɪk,0,0
 diatribe, ˈdaɪətraɪb,0,0
 diatribes, ˈdaɪətraɪb,1,0
 dibble, ˈdɪbəl,0,0
-dibs, dɪbz,1,0
+dibs,,0,1
 dice, daɪs daɪs daɪs dɑɪs,0,0
 diced, daɪs daɪs,1,0
 dicey, ˈdaɪsi ˈdɑɪ·si,0,0
 dichotomy, daɪˈkɑːt̬əmi dɑɪˈkɑt̬·ə·mi,0,0
-dichromate,,0,0
+dichromate,,0,1
 dicier,,1,0
 dicing, daɪs daɪs,1,0
 dick, dɪk dɪk dɪk,0,0
-dickens, ˈdɪkɪnz,1,0
+dickens,,0,1
 dickensian, dɪˈkenziən dɪˈkenziən,1,0
 dicker, ˈdɪkɚ ˈdɪk·ər,0,0
 dickering, ˈdɪkɚ,1,0
 dickey, ˈdɪki,0,0
 dickhead, ˈdɪkhed,0,0
-dickie,,0,0
+dickie,,0,1
 dicks, dɪk dɪk dɪk,1,0
 dicky, ˈdɪki,0,0
 dictaphone, ˈdɪktəfoʊn,1,0
@@ -399,24 +399,24 @@ dictionary, ˈdɪkʃəneri ˈdɪkʃəneri ˈdɪkʃəneri ˈdɪk·ʃəˌner·i,0,
 dictum, ˈdɪktəm,0,0
 did, dɪd dɪd,1,0
 didactic, daɪˈdækt̬ɪk daɪˈdækt̬ɪk dɑɪˈdæk·tɪk,0,0
-diddy,,0,0
-dido,,0,0
+diddy,,0,1
+dido,,0,1
 die, daɪ daɪ daɪ dɑɪ dɑɪ,0,0
 died, daɪ daɪ daɪ daɪ dɑɪ dɑɪ dɑɪ,1,0
-diego, ˌsæn diˈeɪɡoʊ,1,0
+diego,,0,1
 diehard, ˈdaɪhɑːrd ˈdɑɪˌhɑrd,0,0
-diel,,0,0
-diem,,1,0
-dienes,,0,0
-dier,,0,0
+diel,,0,1
+diem,,0,1
+dienes,,0,1
+dier,,0,1
 dies, daɪ daɪ daɪ daɪ dɑɪ dɑɪ dɑɪ,1,0
 diesel, ˈdiːzəl ˈdiːzəl ˈdi·zəl ˈdi·zəl,0,0
-diesels,,0,0
+diesels,,0,1
 diet, ˈdaɪət ˈdaɪət ˈdaɪət ˈdɑɪ·ɪt ˈdɑɪ·ɪt,0,0
 dietary, ˈdaɪəteri,0,0
 dieter, ˈdaɪət̬ɚ,0,0
 dieters, ˈdaɪət̬ɚ,1,0
-dietetic,,0,0
+dietetic,,0,1
 dietician, ˌdaɪəˈtɪʃən,1,0
 dieting, ˈdaɪət,1,0
 dietitian, ˌdaɪəˈtɪʃən,0,0

@@ -1,21 +1,21 @@
 Word,Pronunciation,Root Word Returned,Missing
-caudillo,,0,0
+caudillo,,0,1
 caught, kɑːt kɔt,1,0
 cauldron, ˈkɑːldrən,0,0
 cauliflower," ˈkɑːləˌflaʊɚ ˈkɑl·ɪˌflɑʊ·ər, ˈkɔ·lɪ-, -ˌflɑʊər",0,0
 caulk, kɑːk,0,0
 caulking, ˈkɑːkɪŋ ˈkɑːkɪŋ ˈkɑːkɪŋ,0,0
-causal, ˈkɑːzəl,1,0
-causalities,,0,0
+causal,,0,1
+causalities,,0,1
 causality, kɑːˈzælət̬i,0,0
 causation, kɑːˈzeɪʃən,0,0
 causative, ˈkɑːzət̬ɪv,0,0
 cause, kɑːz kɑːz kɑːz kɔz kɔz kɔz,0,0
 caused, kɑːz,1,0
-causer,,0,0
+causer,,0,1
 causes, kɑːz kɑːz kɑːz kɔz kɔz kɔz,1,0
 causeway, ˈkɑːzweɪ ˈkɔzˌweɪ,0,0
-causey,,0,0
+causey,,0,1
 causing, kɑːz,1,0
 caustic, ˈkɑːstɪk ˈkɑːstɪk ˈkɔ·stɪk ˈkɔ·stɪk,0,0
 cauterization, ˌkɑːt̬ɚəˈzeɪʃən ˌkɑːt̬ɚəˈzeɪʃən,0,0
@@ -32,8 +32,8 @@ cautiousness, ˈkɑːʃəsnəs,0,0
 cava, ˈkɑːvə,0,0
 cavalcade, ˌkævəlˈkeɪd,0,0
 cavalier, ˌkævəlˈɪr ˌkæv·əˈlɪr,0,0
-cavaliere,,0,0
-cavalieri,,0,0
+cavaliere,,0,1
+cavalieri,,0,1
 cavalierly, ˌkævəˈlɪrli,0,0
 cavaliers, ˌkævəlˈɪr ˌkævəlˈɪr ˌkæv·əˈlɪr,1,0
 cavalry, ˈkævəlri ˈkæv·əl·ri,0,0
@@ -42,24 +42,24 @@ caveat," ˈkæviæt ˈkæv·iˌæt, ˈkɑ·viˌɑt",1,0
 caveats," ˈkæviæt ˈkæv·iˌæt, ˈkɑ·viˌɑt",1,0
 caved, keɪv keɪv,1,0
 caveman, ˈkeɪvmæn ˈkeɪvmæn ˈkeɪvˌmæn,0,0
-cavendish,,0,0
+cavendish,,0,1
 cavern, ˈkævɚn ˈkæv·ərn,0,0
 cavernous, ˈkævɚnəs ˈkæv·ər·nəs,0,0
 caverns, ˈkævɚn ˈkæv·ərn,1,0
 cavers, ˈkeɪvɚ,1,0
 caves, keɪv keɪv,1,0
-cavey,,0,0
+cavey,,0,1
 caviar," ˈkæviɑːr ˈkæv·iˌɑr, ˈkɑ·vi-",0,0
-cavin,,0,0
+cavin,,0,1
 caving, ˈkeɪvɪŋ,0,0
 cavities, ˈkævət̬i ˈkævət̬i ˈkævət̬i ˈkæv·ə·t̬i ˈkæv·ə·t̬i,1,0
 cavity, ˈkævət̬i ˈkævət̬i ˈkævət̬i ˈkæv·ə·t̬i ˈkæv·ə·t̬i,0,0
 cavort, kəˈvɔːrt kəˈvɔrt,0,0
 cavorting, kəˈvɔːrt,1,0
 caw, kɑː,0,0
-caxton,,0,0
+caxton,,0,1
 cay, kiː,0,0
-cayenne, ˌkaɪen ˈpepɚ,1,0
+cayenne,,0,1
 cayman, ˈkeɪmən,0,0
 caymans, ˈkeɪmən,1,0
 cc, ˌsiːˈsiː ˌsiːˈsiː ˌsiˈsi,1,0
@@ -71,7 +71,7 @@ ceaseless, ˈsiːsləs ˈsis·ləs,0,0
 ceaselessly, ˈsiːsləsli,0,0
 ceases, siːs siːs sis,1,0
 ceasing, siːs,1,0
-cecil,,0,0
+cecil,,0,1
 cedar, ˈsiːdɚ ˈsiːdɚ ˈsi·dər,0,0
 cedars, ˈsiːdɚ ˈsiːdɚ ˈsi·dər,1,0
 cede, siːd sid,1,0
@@ -79,7 +79,7 @@ ceded, siːd,1,0
 ceding, siːd,1,0
 ceiling, ˈsiːlɪŋ ˈsiːlɪŋ ˈsi·lɪŋ ˈsi·lɪŋ,1,0
 ceilings, ˈsiːlɪŋ ˈsiːlɪŋ ˈsi·lɪŋ ˈsi·lɪŋ,1,0
-celadon,,0,0
+celadon,,0,1
 celeb, səˈleb səˈleb,0,0
 celebrant, ˈseləbrənt ˈseləbrənt,0,0
 celebrate, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt ˈsel·əˌbreɪt,0,0
@@ -89,27 +89,27 @@ celebrating, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt,1,0
 celebration, ˌseləˈbreɪʃən ˌseləˈbreɪʃən ˌseləˈbreɪʃən,0,0
 celebrations, ˌseləˈbreɪʃən ˌseləˈbreɪʃən ˌseləˈbreɪʃən,1,0
 celebratory, ˌseləˈbreɪt̬ɚi,0,0
-celebre, ˌkɑːz selˈebrə,1,0
+celebre,,0,1
 celebrities, səˈlebrət̬i səˈlebrət̬i səˈleb·rɪ·t̬i,1,0
 celebrity, səˈlebrət̬i səˈlebrət̬i səˈleb·rɪ·t̬i,0,0
 celebs, səˈleb səˈleb,1,0
 celery, ˈselɚi ˈsel·ə·ri,0,0
-celesta,,0,0
-celeste,,0,0
+celesta,,0,1
+celeste,,0,1
 celestial, sɪˈlestʃəl səˈles·tʃəl,0,0
-celestina,,0,0
-celestine,,0,0
+celestina,,0,1
+celestine,,0,1
 celibacy, ˈseləbəsi ˈsel·ə·bə·si,0,0
 celibate, ˈseləbət,0,0
 cell, sel sel sel sel sel sel,1,0
-cella,,0,0
+cella,,0,1
 cellar, ˈselɚ ˈsel·ər,0,0
 cellars, ˈselɚ ˈsel·ər,1,0
 cellist, ˈtʃelɪst,0,0
 cello, ˈtʃeloʊ ˈtʃel·oʊ,0,0
 cellophane, ˈseləfeɪn ˈsel·əˌfeɪn,1,0
-cellphone, ˈsel foʊn -foʊn,1,0
-cellphones, ˈsel foʊn -foʊn,1,0
+cellphone,,0,1
+cellphones,,0,1
 cells, sel sel sel sel sel sel,1,0
 cellular, ˈseljəlɚ ˈseljəlɚ ˈsel·jə·lər,1,0
 celluloid, ˈseljəlɔɪd ˈseljəlɔɪd ˈsel·jəˌlɔɪd,0,0
@@ -133,9 +133,9 @@ censured, ˈsenʃɚ,1,0
 census, ˈsensəs ˈsen·səs,1,0
 cent, sent sent sent,1,0
 centaur, ˈsentɔːr,0,0
-centauri,,0,0
+centauri,,0,1
 centaurs, ˈsentɔːr,1,0
-centavos,,0,0
+centavos,,0,1
 centenary, ˈsenteneri,0,0
 centennial, senˈteniəl senˈten·i·əl,0,0
 center, ˈsent̬ɚ ˈsen·tər ˈsen·tər ˈsen·tər ˈsen·tər,1,0
@@ -146,8 +146,8 @@ centerpiece, ˈsent̬ɚpiːs ˈsen·tərˌpis,0,0
 centers, ˈsent̬ɚ ˈsen·tər ˈsen·tər ˈsen·tər ˈsen·tər,1,0
 centigrade, ˈsent̬əɡreɪd ˈsen·tɪˌɡreɪd,0,0
 centigram, ˈsent̬əɡræm,0,0
-centime,,0,0
-centimes,,0,0
+centime,,0,1
+centimes,,0,1
 centimeter, ˈsent̬əˌmiːt̬ɚ ˈsent·əˌmi·t̬ər,0,0
 centimeters, ˈsent̬əˌmiːt̬ɚ ˈsent·əˌmi·t̬ər,1,0
 centimetre, ˈsent̬əˌmiːt̬ɚ,1,0
@@ -161,18 +161,18 @@ centralizing, ˈsentrəlaɪz,1,0
 centrally, ˈsentrəli ˈsentrəli ˈsen·trə·li,0,0
 centre, ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ,1,0
 centres, ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ,1,0
-centrex,,0,0
+centrex,,0,1
 centrifugal, senˈtrɪfjəɡəl,0,0
 centrifuge, ˈsentrəfjuːdʒ,0,0
 centrifuges, ˈsentrəfjuːdʒ,1,0
 centrist, ˈsentrɪst ˈsen·trɪst,0,0
-centro,,0,0
+centro,,0,1
 cents, sent sent sent,1,0
 centuries, ˈsentʃəri ˈsentʃəri ˈsentʃəri ˈsentʃəri ˈsen·tʃə·ri ˈsen·tʃə·ri,1,0
 centurion, senˈtʊriən,0,0
 century, ˈsentʃəri ˈsentʃəri ˈsentʃəri ˈsen·tʃə·ri ˈsen·tʃə·ri,0,0
 cephalopod, ˈsefələpɑːd,0,0
-cera,,0,0
+cera,,0,1
 ceramic, səˈræmɪk,0,0
 ceramics, səˈræmɪks səˈræmɪks səˈræm·ɪks,0,0
 cereal, ˈsɪriəl ˈsɪriəl ˈsɪər·i·əl ˈsɪər·i·əl,0,0
@@ -183,7 +183,7 @@ ceremonial, ˌserəˈmoʊniəl,0,0
 ceremonies, ˈserəmoʊni ˈserəmoʊni ˈser·əˌmoʊ·ni,1,0
 ceremony, ˈserəmoʊni ˈserəmoʊni ˈser·əˌmoʊ·ni,0,0
 ceres, ˈsɪriːz,1,0
-cern,,0,0
+cern,,0,1
 certain, ˈsɝːtən ˈsɝːtən ˈsɝːtən ˈsɝːtən ˈsɜr·tən ˈsɜr·tən ˈsɜr·tən,1,0
 certainly, ˈsɝːtənli ˈsɝːtənli ˈsɝːtənli ˈsɜr·tən·li,0,0
 certainties, ˈsɝːtənti ˈsɝːtənti ˈsɝːtənti ˈsɜr·tən·ti ˈsɜr·tən·ti,1,0
@@ -197,21 +197,21 @@ certifies, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ ˈsərt̬·əˌfɑɪ,1,0
 certify, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ ˈsərt̬·əˌfɑɪ,1,0
 certifying, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ,1,0
 certitude, ˈsɝːt̬ətuːd,0,0
-cervantes,,0,0
+cervantes,,0,1
 cervical, ˈsɝːvɪkəl ˈsɝːvɪkəl,0,0
 cervix, ˈsɝːvɪks ˈsɜr·vɪks,0,0
-cesar, ˌsiːzɚ ˈsæləd,1,0
-cesare,,0,0
+cesar,,0,1
+cesare,,0,1
 cesium, ˈsiːziəm,0,0
 cessation, sesˈeɪʃən seˈseɪ·ʃən,1,0
 cesspool, ˈsespuːl ˈsespuːl ˈsesˌpul,0,0
 cetacean, sɪˈteɪʃən,0,0
-cetera, ɪt ˈset̬ɚə,1,0
-cetus,,0,0
-ceylon,,0,0
+cetera,,0,1
+cetus,,0,1
+ceylon,,0,1
 cha, ˌtʃɑːtʃɑːˈtʃɑː,1,0
-chablis,,0,0
-chabot,,0,0
+chablis,,0,1
+chabot,,0,1
 chad, tʃæd,0,0
 chafe, tʃeɪf tʃeɪf tʃeɪf tʃeɪf tʃeɪf,0,0
 chafed, tʃeɪf tʃeɪf tʃeɪf,1,0
@@ -249,8 +249,8 @@ challenger, ˈtʃælɪndʒɚ ˈtʃæl·ən·dʒər,0,0
 challengers, ˈtʃælɪndʒɚ ˈtʃæl·ən·dʒər,1,0
 challenges, ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃæl·əndʒ ˈtʃæl·əndʒ ˈtʃæl·əndʒ,1,0
 challenging, ˈtʃælɪndʒɪŋ,1,0
-challis,,0,0
-cham,,0,0
+challis,,0,1
+cham,,0,1
 chamber, ˈtʃeɪmbɚ ˈtʃeɪmbɚ ˈtʃeɪmbɚ ˈtʃeɪmbɚ ˈtʃeɪmbɚ ˈtʃeɪm·bər ˈtʃeɪm·bər ˈtʃeɪm·bər,0,0
 chambered, ˌmʌltiˈtʃeɪmbɚd ˌmʌltiˈtʃeɪmbɚd,1,0
 chamberlain, ˈtʃeɪmbɚlɪn ˈtʃeɪmbɚlɪn,0,0
@@ -258,8 +258,8 @@ chambers, ˈtʃeɪm·bərz,0,0
 chameleon, kəˈmiːliən kəˈmiːliən kəˈmil·jən kəˈmil·jən,0,0
 champ, tʃæmp,0,0
 champagne, ʃæmˈpeɪn ʃæmˈpeɪn ʃæmˈpeɪn ʃæmˈpeɪn,0,0
-champagnes,,0,0
-champaign,,0,0
+champagnes,,0,1
+champaign,,0,1
 champion, ˈtʃæmpiən ˈtʃæmpiən ˈtʃæm·pi·ən ˈtʃæm·pi·ən,0,0
 championed, ˈtʃæmpiən,1,0
 championing, ˈtʃæmpiən,1,0
@@ -267,7 +267,7 @@ champions, ˈtʃæmpiən ˈtʃæmpiən ˈtʃæm·pi·ən ˈtʃæm·pi·ən,1,0
 championship, ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæm·pi·ənˌʃɪp,0,0
 championships, ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæm·pi·ənˌʃɪp,1,0
 champs, tʃæmp,1,0
-chan,,0,0
+chan,,0,1
 chance, tʃæns tʃæns tʃæns tʃæns tʃæns tʃæns tʃæns tʃæns,0,0
 chancellor, ˈtʃænsəlɚ ˈtʃænsəlɚ ˈtʃæn·sə·lər,1,0
 chancellors, ˈtʃænsəlɚ ˈtʃænsəlɚ ˈtʃæn·sə·lər,1,0
@@ -277,14 +277,14 @@ chancy, ˈtʃænsi ˈtʃæn·si,0,0
 chandelier, ˌʃændəˈlɪr ˌʃæn·dəˈlɪər,0,0
 chandeliers, ˌʃændəˈlɪr ˌʃæn·dəˈlɪər,1,0
 chandler, ˈtʃændlɚ ˈtʃændlɚ ˈtʃændlɚ,0,0
-chang,,0,0
+chang,,0,1
 change, tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ,1,0
 changeable, ˈtʃeɪndʒəbəl ˈtʃeɪndʒəbəl ˈtʃeɪn·dʒə·bəl,0,0
-changed, tʃeɪndʒd tʃeɪndʒd,1,0
+changed, tʃeɪndʒd,0,1
 changeover, ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊ·vər,1,0
 changeovers, ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊvɚ ˈtʃeɪndʒˌoʊ·vər,1,0
-changer, ˈɡeɪm ˌtʃeɪndʒɚ ˈɡeɪm ˌtʃeɪndʒɚ,1,0
-changers, ˈɡeɪm ˌtʃeɪndʒɚ ˈɡeɪm ˌtʃeɪndʒɚ,1,0
+changer,,0,1
+changers,,0,1
 changes, tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ tʃeɪndʒ,1,0
 changing, ˈtʃeɪndʒɪŋ,0,0
 channel, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl,1,0
@@ -293,24 +293,24 @@ channeling, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn
 channels, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl,1,0
 chant, tʃænt tʃænt tʃænt,0,0
 chanted, tʃænt tʃænt,1,0
-chantilly,,0,0
+chantilly,,0,1
 chanting, tʃænt tʃænt,1,0
 chants, tʃænt tʃænt tʃænt,1,0
 chanukah," ˈhɑːnəkə ˈhɑ·nə·kə, ˈxɑ-",1,0
-chao,,0,0
+chao,,0,1
 chaos, ˈkeɪɑːs ˈkeɪ·ɑs,0,0
 chaotic, keɪˈɑːt̬ɪk,0,0
 chap, tʃæp,0,0
-chaparral,,0,0
+chaparral,,0,1
 chapel, ˈtʃæpəl ˈtʃæpəl ˈtʃæp·əl,0,0
 chaperone, ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn,0,0
 chaperones, ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn,1,0
 chaperoning, ˈʃæpɚoʊn ˈʃæpɚoʊn,1,0
-chapin,,0,0
+chapin,,0,1
 chaplain, ˈtʃæplɪn ˈtʃæp·lən,0,0
 chaplains, ˈtʃæplɪn ˈtʃæp·lən,1,0
-chaplin,,0,0
-chapman,,0,0
+chaplin,,0,1
+chapman,,0,1
 chappie, ˈtʃæpi,0,0
 chaps," tʃæps tʃæps, ʃæps",1,0
 chapter, ˈtʃæptɚ ˈtʃæptɚ ˈtʃæptɚ ˈtʃæptɚ ˈtʃæp·tər ˈtʃæp·tər ˈtʃæp·tər,1,0
@@ -331,7 +331,7 @@ characters, ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerək
 charade, ʃəˈreɪd ʃəˈreɪd,0,0
 charades, ʃəˈreɪdz,1,0
 charcoal, ˈtʃɑːrkoʊl ˈtʃɑrˌkoʊl ˈtʃɑrˌkoʊl,0,0
-charcoals,,0,0
+charcoals,,0,1
 chard, tʃɑːrd,0,0
 chardonnay, ˈʃɑːdəneɪ,1,0
 chardonnays, ˈʃɑːdəneɪ,1,0
@@ -351,14 +351,14 @@ charities, ˈtʃerət̬i ˈtʃerət̬i ˈtʃerət̬i ˈtʃær·ɪ·t̬i ˈtʃær
 charity, ˈtʃerət̬i ˈtʃerət̬i ˈtʃerət̬i ˈtʃær·ɪ·t̬i ˈtʃær·ɪ·t̬i,1,0
 charlatan," ˈʃɑːrlət̬ən ˈʃɑr·lə·tən, -tən",0,0
 charlatans," ˈʃɑːrlət̬ən ˈʃɑr·lə·tən, -tən",1,0
-charlemagne,,0,0
-charles, ˌkævəlɪr ˌkɪŋ ˌtʃɑːrlz ˈspænjəl,1,0
+charlemagne,,0,1
+charles,,0,1
 charleston, ˈtʃɑːrlstən,0,0
-charlet,,0,0
-charley, ˈtʃɑːrli ˌhɔːrs ˈtʃɑr·liˌhɔrs,1,0
+charlet,,0,1
+charley,,0,1
 charlie, ˈtʃɑːrli,0,0
 charlotte, ˈʃɑːrlət,0,0
-charlottesville,,0,0
+charlottesville,,0,1
 charm, tʃɑːrm tʃɑːrm tʃɑːrm tʃɑrm tʃɑrm,0,0
 charmed, tʃɑːrmd,0,0
 charmer, ˈtʃɑːrmɚ ˈtʃɑːrmɚ,0,0
@@ -366,7 +366,7 @@ charmers, ˈtʃɑːrmɚ ˈtʃɑːrmɚ,1,0
 charming, ˈtʃɑːrmɪŋ ˈtʃɑːrmɪŋ ˈtʃɑːrmɪŋ,0,0
 charmingly, ˈtʃɑːrmɪŋli,0,0
 charms, tʃɑːrm tʃɑːrm tʃɑːrm tʃɑrm tʃɑrm,1,0
-charon,,0,0
+charon,,0,1
 charred, tʃɑːrd tʃɑrd,0,0
 charring, tʃɑːr tʃɑːr,1,0
 chart, tʃɑːrt tʃɑːrt tʃɑrt,1,0
@@ -377,7 +377,7 @@ chartering, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ,1,0
 charters, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ ˈtʃɑr·t̬ər ˈtʃɑr·t̬ər,1,0
 charting, tʃɑːrt tʃɑːrt tʃɑːrt tʃɑːrt,1,0
 chartreuse, ʃɑːrˈtruːz,1,0
-charts,,1,0
+charts,,0,1
 charwoman, ˈtʃɑːrˌwʊmən,0,0
 chase, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,0,0
 chased, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
@@ -386,7 +386,7 @@ chasers, ˈtʃeɪsɚ ˈtʃeɪsɚ,1,0
 chases, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
 chasing, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
 chasm, ˈkæzəm ˈkæzəm ˈkæz·əm,0,0
-chasse,,0,0
+chasse,,0,1
 chassis," ˈtʃæsi ˈtʃæs·i, ˈʃæs·i",0,0
 chaste, tʃeɪst tʃeɪst tʃeɪst,0,0
 chasten, ˈtʃeɪsən ˈtʃeɪ·sən,0,0
@@ -400,24 +400,24 @@ chat, tʃæt tʃæt tʃæt,1,0
 chateau, ʃætˈoʊ ʃæˈtoʊ,0,0
 chateaux,,1,0
 chats, tʃæt tʃæt tʃæt,1,0
-chattanooga,,0,0
+chattanooga,,0,1
 chatted, tʃæt tʃæt tʃæt,1,0
 chattel, ˈtʃæt̬əl,1,0
 chatter, ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬·ər ˈtʃæt̬·ər ˈtʃæt̬·ər,0,0
 chattering, ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬ɚ,1,0
 chatting, tʃæt tʃæt tʃæt,1,0
 chatty, ˈtʃæt̬i ˈtʃæt̬i,0,0
-chaucer,,0,0
+chaucer,,0,1
 chauffeur," ʃoʊˈfɝː ˈʃoʊ·fər, ʃoʊˈfɜr",0,0
 chauffeured, ʃoʊˈfɝː,1,0
 chauffeurs," ʃoʊˈfɝː ˈʃoʊ·fər, ʃoʊˈfɜr",1,0
-chautauqua,,0,0
+chautauqua,,0,1
 chauvinism, ˈʃoʊvənɪzəm ˈʃoʊvənɪzəm ˈʃoʊ·vəˌnɪz·əm,0,0
 chauvinist, ˈʃoʊvənɪst ˈʃoʊvənɪst,0,0
 chauvinistic, ˈʃoʊvənɪst ˈʃoʊvənɪst,1,0
 chauvinists, ˈʃoʊvənɪst ˈʃoʊvənɪst,1,0
-chaw,,0,0
-che,,0,0
+chaw,,0,1
+che,,0,1
 cheap, tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃip tʃip tʃip tʃip tʃip,1,0
 cheapen, ˈtʃiːpən ˈtʃiːpən ˈtʃi·pən,0,0
 cheapened, ˈtʃiːpən ˈtʃiːpən,1,0
@@ -453,7 +453,7 @@ checks, tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek 
 checkup, ˈtʃekʌp ˈtʃekˌʌp,0,0
 checkups, ˈtʃekʌp ˈtʃekˌʌp,1,0
 cheddar, ˈtʃedɚ ˈtʃedɚ ˈtʃed·ər,0,0
-chee,,0,0
+chee,,0,1
 cheek, tʃiːk tʃiːk tʃiːk tʃik tʃik,0,0
 cheekbone, ˈtʃiːkboʊn ˈtʃikˌboʊn,0,0
 cheekbones, ˈtʃiːkboʊn ˈtʃikˌboʊn,1,0
@@ -469,7 +469,7 @@ cheerier, ˈtʃɪri ˈtʃɪər·i,1,0
 cheeriest, ˈtʃɪri ˈtʃɪər·i,1,0
 cheering, ˈtʃɪrɪŋ,0,0
 cheerio, ˌtʃɪriˈoʊ,0,0
-cheerios,,0,0
+cheerios,,0,1
 cheerleader, ˈtʃɪrˌliːdɚ ˈtʃɪrˌliːdɚ ˈtʃɪərˌlid·ər,1,0
 cheerleaders, ˈtʃɪrˌliːdɚ ˈtʃɪrˌliːdɚ ˈtʃɪərˌlid·ər,1,0
 cheerleading, ˈtʃɪrˌliːdɪŋ ˈtʃɪrˌliːdɪŋ,0,0

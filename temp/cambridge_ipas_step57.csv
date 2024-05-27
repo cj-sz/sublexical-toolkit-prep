@@ -7,20 +7,20 @@ mintage,,1,0
 minted,,1,0
 minting, mɪnt mɪnt,1,0
 mints, mɪnt mɪnt mɪnt mɪnt mɪnt mɪnt mɪnt mɪnt mɪnt,1,0
-minuet,,0,0
+minuet,,0,1
 minus, ˈmaɪnəs ˈmaɪnəs ˈmɑɪ·nəs ˈmɑɪ·nəs,1,0
 minuscule," ˈmɪnəskjuːl ˈmɪn·əˌskjul, məˈnʌsˌkjul",0,0
 minuses,,1,0
 minute, ˈmɪnɪt ˈmɪnɪt ˈmɪnɪt ˈmɪnɪt ˈmɪn·ət,1,0
 minutely, maɪˈnuːtli,0,0
-minuteman,,0,0
-minutemen,,0,0
-minutes, ˈmɪn·əts,1,0
-minutia,,0,0
-minutiae, mɪˈnuːʃiaɪ,1,0
-mir,,0,0
-mirabelle,,0,0
-mirabile,,0,0
+minuteman,,0,1
+minutemen,,0,1
+minutes, ˈmɪn·əts,0,1
+minutia,,0,1
+minutiae,,0,1
+mir,,0,1
+mirabelle,,0,1
+mirabile,,0,1
 miracle, ˈmɪrəkəl ˈmɪrəkəl ˈmɪrəkəl ˈmɪr·ə·kəl ˈmɪr·ə·kəl,0,0
 miracles, ˈmɪrəkəl ˈmɪrəkəl ˈmɪrəkəl ˈmɪr·ə·kəl ˈmɪr·ə·kəl,1,0
 miraculous, məˈrækjələs məˈræk·jə·ləs,0,0
@@ -28,15 +28,15 @@ miraculously, məˈrækjələsli,0,0
 mirage, mɪˈrɑːʒ mɪˈrɑːʒ məˈrɑʒ,0,0
 mirages, mɪˈrɑːʒ mɪˈrɑːʒ məˈrɑʒ,1,0
 mire, maɪr maɪr mɑɪər,0,0
-mired, maɪrd,1,0
-miriam,,0,0
-miro,,0,0
+mired,,0,1
+miriam,,0,1
+miro,,0,1
 mirror, ˈmɪrɚ ˈmɪr·ər ˈmɪr·ər,0,0
 mirrored, ˈmɪrɚd,0,0
 mirroring, ˈmɪrɚ ˈmɪrɚ,1,0
 mirrors, ˈmɪrɚ ˈmɪrɚ ˈmɪr·ər ˈmɪr·ər,1,0
 mirth, mɝːθ mɜrθ,0,0
-mirza,,0,0
+mirza,,0,1
 mis, mɪs-,1,0
 misadventure, ˌmɪsədˈventʃɚ ˌmɪs·ədˈven·tʃər,0,0
 misadventures, ˌmɪsədˈventʃɚ ˌmɪsədˈventʃɚ ˌmɪs·ədˈven·tʃər,1,0
@@ -76,14 +76,14 @@ misconstruing, ˌmɪskənˈstruː,1,0
 miscreant, ˈmɪskriənt ˈmɪskriənt,0,0
 miscreants, ˈmɪskriənt ˈmɪskriənt,1,0
 miscue, ˈmɪskjuː ˈmɪskjuː ˈmɪskjuː,0,0
-miscues,,0,0
+miscues,,0,1
 misdeed, ˌmɪsˈdiːd mɪsˈdid,0,0
 misdeeds, ˌmɪsˈdiːd mɪsˈdid,1,0
 misdemeanor," ˌmɪsdɪˈmiːnɚ ˌmɪs·dəˈmi·nər, ˈmɪs·dəˌmi-",0,0
 misdemeanors," ˌmɪsdɪˈmiːnɚ ˌmɪs·dəˈmi·nər, ˈmɪs·dəˌmi-",1,0
 misdiagnose, ˌmɪsdaɪəɡˈnoʊs,0,0
-misdiagnosed,,0,0
-misdiagnoses,,0,0
+misdiagnosed,,0,1
+misdiagnoses,,0,1
 misdiagnosis, ˌmɪsdaɪəɡˈnoʊsɪs,0,0
 misdirect, ˌmɪsdaɪˈrekt ˌmɪsdaɪˈrekt ˌmɪsdaɪˈrekt,1,0
 misdirected,,1,0
@@ -101,7 +101,7 @@ misfortune, ˌmɪsˈfɔːrtʃən mɪsˈfɔr·tʃən,0,0
 misfortunes, ˌmɪsˈfɔːrtʃən mɪsˈfɔr·tʃən,1,0
 misgiving, ˌmɪsˈɡɪvɪŋ mɪsˈɡɪv·ɪŋ,0,0
 misgivings, ˌmɪsˈɡɪvɪŋ mɪsˈɡɪv·ɪŋ,1,0
-misguide,,0,0
+misguide,,0,1
 misguided, ˌmɪsˈɡaɪdɪd mɪsˈɡɑɪ·dɪd,0,0
 mishandled, ˌmɪsˈhændəl,1,0
 mishandling, ˌmɪsˈhændəlɪŋ,0,0
@@ -147,9 +147,9 @@ misplaced, ˌmɪsˈpleɪst mɪsˈpleɪst,0,0
 misplaces, ˌmɪsˈpleɪs mɪsˈpleɪs,1,0
 misplacing, ˌmɪsˈpleɪs,1,0
 misprint, ˈmɪsprɪnt ˈmɪsˌprɪnt,0,0
-misprinted,,0,0
+misprinted,,0,1
 misprints, ˈmɪsprɪnt ˈmɪsˌprɪnt,1,0
-misprision,,0,0
+misprision,,0,1
 mispronounce, ˌmɪsprəˈnaʊns ˌmɪs·prəˈnɑʊns,0,0
 mispronounced, ˌmɪsprəˈnaʊns,1,0
 mispronounces, ˌmɪsprəˈnaʊns ˌmɪs·prəˈnɑʊns,1,0
@@ -169,7 +169,7 @@ misrepresenting, ˌmɪsreprɪˈzent,1,0
 misrepresents, ˌmɪsreprɪˈzent mɪsˌrep·rɪˈzent,1,0
 misrule, ˌmɪsˈruːl,0,0
 miss, mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs,0,0
-missal,,0,0
+missal,,0,1
 missed, mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs,1,0
 misses, mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs mɪs,1,0
 misshapen, mɪsˈʃeɪpən mɪsˈʃeɪ·pən,0,0
@@ -180,19 +180,19 @@ mission, ˈmɪʃən ˈmɪʃən ˈmɪʃən ˈmɪʃ·ən ˈmɪʃ·ən,1,0
 missionaries, ˈmɪʃeri ˈmɪʃ·əˌner·i,1,0
 missionary, ˈmɪʃeri ˈmɪʃ·əˌner·i,0,0
 missions, ˈmɪʃən ˈmɪʃən ˈmɪʃən ˈmɪʃən ˈmɪʃ·ən ˈmɪʃ·ən,1,0
-missis,,0,0
+missis,,0,1
 mississippi, ˌmɪsɪˈsɪpi ˌmɪsɪˈsɪpi,1,0
 missive, ˈmɪsɪv,0,0
 missouri, mɪˈzʊri,1,0
 missourian, mɪˈzʊriən,1,0
-missourians,,0,0
+missourians,,0,1
 misspeak, ˌmɪsˈspiːk,0,0
 misspell, ˌmɪsˈspel mɪsˈspel,0,0
 misspelled, ˌmɪsˈspel mɪsˈspel,1,0
 misspells, ˌmɪsˈspel mɪsˈspel,1,0
 misspent,,1,0
-misspoke,,0,0
-misspoken,,0,0
+misspoke,,0,1
+misspoken,,0,1
 misstep, mɪsˈstep mɪsˈstep,0,0
 missteps, mɪsˈstep mɪsˈstep,1,0
 missus, ˈmɪsɪz ˈmɪsɪz ˈmɪsɪz ˈmɪsɪz,0,0
@@ -207,7 +207,7 @@ mister, ˈmɪstɚ ˈmɪstɚ ˈmɪs·tər ˈmɪs·tər,0,0
 misters, ˈmɪstɚ ˈmɪstɚ ˈmɪs·tər ˈmɪs·tər,1,0
 mistletoe, ˈmɪsəltoʊ ˈmɪs·əlˌtoʊ,0,0
 mistook,,1,0
-mistral, mɪˈstrɑːl,1,0
+mistral,,0,1
 mistreat, ˌmɪsˈtriːt mɪsˈtrit,0,0
 mistreated, ˌmɪsˈtriːt,1,0
 mistreating, ˌmɪsˈtriːt,1,0
@@ -230,8 +230,8 @@ misuse, ˌmɪsˈjuːz mɪsˈjuz,1,0
 misused, ˌmɪsˈjuːz,1,0
 misuses, ˌmɪsˈjuːz mɪsˈjuz,1,0
 misusing, ˌmɪsˈjuːz,1,0
-mit,,0,0
-mitch,,0,0
+mit,,0,1
+mitch,,0,1
 mite, maɪt maɪt maɪt,0,0
 miter, ˈmaɪt̬ɚ,0,0
 mites, maɪt maɪt maɪt maɪt,1,0
@@ -241,13 +241,13 @@ mitigates, ˈmɪt̬əɡeɪt ˈmɪt̬·ɪˌɡeɪt,1,0
 mitigating, ˈmɪt̬əɡeɪt̬ɪŋ ˈmɪt̬əɡeɪt̬ɪŋ,0,0
 mitigation, ˌmɪt̬əˈɡeɪʃən ˌmɪt̬əˈɡeɪʃən,1,0
 mitochondria,,1,0
-mitral, ˈmaɪtrəl ˌvælv,1,0
+mitral,,0,1
 mitre, ˈmaɪt̬ɚ ˈmaɪt̬ɚ,0,0
 mitt, mɪt mɪt mɪt mɪt,0,0
 mitten, ˈmɪt̬ən ˈmɪt·ən,0,0
 mittens, ˈmɪt̬ən ˈmɪt·ən,1,0
 mitts, mɪt mɪt mɪt mɪt,1,0
-mitzvah, ˌbɑːr ˈmɪtsvə bɑr ˈmɪts·və,1,0
+mitzvah,,0,1
 mix, mɪks mɪks mɪks mɪks mɪks mɪks mɪks,1,0
 mixed, mɪkst mɪkst mɪkst mɪkst mɪkst mɪkst,1,0
 mixer, ˈmɪksɚ ˈmɪksɚ ˈmɪksɚ ˈmɪk·sər,0,0
@@ -256,9 +256,9 @@ mixes, mɪks mɪks mɪks mɪks mɪks mɪks mɪks,1,0
 mixing, mɪks mɪks mɪks mɪks,1,0
 mixture, ˈmɪkstʃɚ ˈmɪkstʃɚ ˈmɪkstʃɚ ˈmɪks·tʃər ˈmɪks·tʃər,0,0
 mixtures, ˈmɪkstʃɚ ˈmɪkstʃɚ ˈmɪkstʃɚ ˈmɪks·tʃər ˈmɪks·tʃər,1,0
-mixup,,0,0
-mizar,,0,0
-mize,,0,0
+mixup,,0,1
+mizar,,0,1
+mize,,0,1
 mnemonic, nɪˈmɑːnɪk,0,0
 mnemonics, nɪˈmɑːnɪk,1,0
 mo, moʊ,1,0
@@ -270,7 +270,7 @@ moat, moʊt,0,0
 moats, moʊt,1,0
 mob, mɑːb mɑːb mɑːb mɑb mɑb,0,0
 mobbed,,1,0
-mobil,,0,0
+mobil,,0,1
 mobile, ˈmoʊbəl ˈmoʊbəl ˈmoʊbəl ˈmoʊ·bəl ˈməʊbəl ˈməʊbəl ˈməʊbəl,0,0
 mobiles, ˈmoʊbəl ˈmoʊbəl ˈmoʊbəl ˈmoʊ·bəl ˈməʊbəl ˈməʊbəl ˈməʊbəl,1,0
 mobility, moʊˈbɪlət̬i moʊˈbɪlət̬i moʊˈbɪl·ɪ·t̬i,1,0
@@ -281,7 +281,7 @@ mobilizing, ˈmoʊbəlaɪz ˈmoʊbəlaɪz,1,0
 mobs, mɑːb mɑːb mɑːb mɑb mɑb,1,0
 mobster, ˈmɑːbstɚ ˈmɑb·stər,0,0
 mobsters, ˈmɑːbstɚ ˈmɑb·stər,1,0
-moca,,0,0
+moca,,0,1
 moccasin, ˈmɑːkəsɪn ˈmɑk·ə·sɪn,0,0
 moccasins, ˈmɑːkəsɪn ˈmɑk·ə·sɪn,1,0
 mocha, ˈmoʊkə ˈmoʊkə ˈmoʊkə,0,0
@@ -310,14 +310,14 @@ moderating,,1,0
 moderation, ˌmɑːdəˈreɪʃən ˌmɑːdəˈreɪʃən,0,0
 moderator, ˈmɑːdəreɪt̬ɚ ˈmɑːdəreɪt̬ɚ ˈmɑːdəreɪt̬ɚ ˈmɑːdəreɪt̬ɚ ˈmɑd·əˌreɪ·t̬ər ˈmɑd·əˌreɪ·t̬ər,1,0
 modern, ˈmɑːdɚn ˈmɑːdɚn ˈmɑd·ərn,0,0
-moderne,,0,0
+moderne,,0,1
 modernism, ˈmɑːdɚnɪzəm ˈmɑːdɚnɪzəm,0,0
 modernists, ˈmɑːdɚnɪst,1,0
 modernity, mɑːˈdɝːnət̬i,0,0
 modernization, ˌmɑːdɚnəˈzeɪʃən ˌmɒdərnəˈzeɪʃən,0,0
 modernize, ˈmɑːdɚnaɪz ˈmɑd·ərˌnɑɪz,1,0
 modernizes, ˈmɑːdɚnaɪz ˈmɑd·ərˌnɑɪz,1,0
-moderns,,0,0
+moderns,,0,1
 modes, moʊd moʊd moʊd moʊd moʊd moʊd moʊd,1,0
 modest, ˈmɑːdɪst ˈmɑːdɪst ˈmɑːdɪst ˈmɑd·ɪst ˈmɑd·ɪst ˈmɑd·ɪst,1,0
 modestly, ˈmɑːdɪstli ˈmɑːdɪstli ˈmɑːdɪstli ˈmɑd·ɪst·li ˈmɑd·ɪst·li ˈmɑd·ɪst·li,0,0
@@ -333,12 +333,12 @@ modular, ˈmɑːdʒəlɚ ˈmɑːdʒəlɚ ˈmɑdʒ·ə·lər ˈmɑdʒələr ˈmɑ
 modulate, ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt ˈmɑdʒ·əˌleɪt,0,0
 modulated, ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt ˈmɑːdʒəleɪt,1,0
 modulation, ˌmɑːdʒəˈleɪʃən ˌmɑːdʒəˈleɪʃən ˌmɑːdʒəˈleɪʃən ˌmɑːdʒəˈleɪʃən ˌmɑːdʒəˈleɪʃən,0,0
-modulator,,0,0
+modulator,,0,1
 module, ˈmɑːdʒuːl ˈmɑːdʒuːl ˈmɑːdʒuːl ˈmɑdʒ·ul ˈmɑdʒ·ul ˈmɒdʒuːl ˈmɒdʒuːl ˈmɒdʒuːl,0,0
 modules, ˈmɑːdʒuːl ˈmɑːdʒuːl ˈmɑːdʒuːl ˈmɑdʒ·ul ˈmɑdʒ·ul ˈmɒdʒuːl ˈmɒdʒuːl ˈmɒdʒuːl,1,0
-modus, ˌmoʊdəs ˌoʊpəˈrɑːndi,1,0
-moe,,0,0
-moet,,0,0
+modus,,0,1
+moe,,0,1
+moet,,0,1
 mogul, ˈmoʊɡəl ˈmoʊɡəl ˈmoʊ·ɡəl,1,0
 moguls, ˈmoʊɡəl ˈmoʊɡəl ˈmoʊ·ɡəl,1,0
 mohair, ˈmoʊher ˈmoʊ·heər,0,0
@@ -347,19 +347,19 @@ mohawk, ˈməʊhɔːk,1,0
 mohawks, ˈməʊhɔːk,1,0
 mohel, ˈmɔɪəl,0,0
 mohican, moʊˈhiːkən,1,0
-mohr,,0,0
+mohr,,0,1
 moi, mwɑː,0,0
-moira,,0,0
-moise,,0,0
+moira,,0,1
+moise,,0,1
 moist, mɔɪst mɔɪst,0,0
 moisten, ˈmɔɪsən,0,0
 moistened, ˈmɔɪsən,1,0
 moisture, ˈmɔɪstʃɚ ˈmɔɪs·tʃər,0,0
 moisturizer, ˈmɔɪstʃɚaɪzɚ ˈmɔɪs·tʃəˌrɑɪ·zər,0,0
 mojo, ˈmoʊdʒoʊ,0,0
-moke,,0,0
-mol,,0,0
-mola,,0,0
+moke,,0,1
+mol,,0,1
+mola,,0,1
 molasses, məˈlæsɪz məˈlæsɪz məˈlæs·ɪz,0,0
 mold, moʊld moʊld moʊld,0,0
 molded, moʊld moʊld moʊld,1,0
@@ -381,20 +381,20 @@ molester, məˈlestɚ,0,0
 molesters, məˈlestɚ,1,0
 molesting, məˈlest məˈlest,1,0
 molests, məˈlest məˈlest məˈlest,1,0
-moliere,,0,0
-moline,,0,0
+moliere,,0,1
+moline,,0,1
 moll, mɑːl mɑːl,0,0
-molle,,0,0
-mollie,,0,0
+molle,,0,1
+mollie,,0,1
 mollified, ˈmɑːləfaɪ,1,0
 mollify, ˈmɑːləfaɪ ˈmɑl·əˌfɑɪ,0,0
 mollusk, ˈmɑːləsk ˈmɑl·əsk,0,0
 mollusks, ˈmɑːləsk ˈmɑl·əsk,1,0
-molly,,0,0
+molly,,0,1
 molt, moʊlt moʊlt,0,0
 molten, ˈmoʊltən ˈmoʊl·tən,0,0
 molting, moʊlt moʊlt,1,0
-moly, ˌhoʊli ˈmoʊli,1,0
+moly,,0,1
 molybdenum, mɑːˈlɪbdənəm,0,0
 mom, mɑːm mɑm,0,0
 moment, ˈmoʊmənt ˈmoʊmənt ˈmoʊ·mənt ˈmoʊ·mənt ˈmoʊ·mənt,0,0
@@ -408,7 +408,7 @@ mommies, ˈmɑːmi ˈmɑm·i,1,0
 mommy, ˈmɑːmi ˈmɑm·i,0,0
 moms, mɑːm mɑm,1,0
 mon,,1,0
-mona,,0,0
+mona,,0,1
 monaco, ˈmɑːnəkoʊ,1,0
 monarch," ˈmɑːnɚk ˈmɑn·ərk, -ɑrk",0,0
 monarchies, ˈmɑːnɚki ˈmɑːnɚki ˈmɑn·ər·ki,1,0
@@ -423,27 +423,27 @@ monasticism, məˈnæstɪsɪzəm,0,0
 monday," ˈmʌndeɪ ˈmʌn·deɪ, -di",1,0
 mondays," ˈmʌndeɪ ˈmʌn·deɪ, -di",1,0
 monde, ˈdemiˌmɑːnd,1,0
-mondo,,0,0
-mone,,0,0
+mondo,,0,1
+mone,,0,1
 monetarily, ˌmɑːnəˈterəli,0,0
 monetary, ˈmɑːnəteri ˈmɑːnəteri ˈmɑn·ɪˌter·i ˈmɑnɪteri ˈmɑnɪteri,0,0
 money, ˈmʌni ˈmʌn·i,1,0
 moneyed, ˈmʌnid,1,0
 moneymaker, ˈmʌniˌmeɪkɚ ˈmʌn·iˌmeɪ·kər,1,0
 moneymakers, ˈmʌniˌmeɪkɚ ˈmʌn·iˌmeɪ·kər,1,0
-moneymaking,,0,0
+moneymaking,,0,1
 moneys,,1,0
-mong,,0,0
+mong,,0,1
 monger,  -mʌŋɡɚ,1,0
 mongering,  -mʌŋɡɚɪŋ,1,0
-mongers, ˈduːm ˌmɑːŋɡɚ,1,0
+mongers,,0,1
 mongol, ˈmɑːŋɡoʊl,0,0
 mongolia, mɑːŋˈɡoʊliə,1,0
 mongolian, mɑːŋˈɡoʊliən,1,0
 mongoloid, ˈmɑːŋɡoʊl ˈmɑːŋɡoʊl,1,0
 mongols, ˈmɑːŋɡoʊl ˈmɑːŋɡoʊl,1,0
 mongoose, ˈmɑːŋɡuːs,0,0
-monica,,0,0
+monica,,0,1
 monies, ˈmʌniz,1,0
 moniker, ˈmɑːnɪkɚ ˈmɑn·ɪ·kər,0,0
 monikers, ˈmɑːnɪkɚ ˈmɑn·ɪ·kər,1,0
@@ -453,10 +453,10 @@ monitoring, ˈmɑːnət̬ɚ,1,0
 monitors, ˈmɑːnət̬ɚ ˈmɑːnət̬ɚ ˈmɑːnət̬ɚ ˈmɑːnət̬ɚ ˈmɑːnət̬ɚ ˈmɑn·ɪ·t̬ər ˈmɑn·ɪ·t̬ər ˈmɑn·ɪ·t̬ər,1,0
 monk, mʌŋk mʌŋk,0,0
 monkey, ˈmʌŋki ˈmʌŋki ˈmʌŋki ˈmʌŋ·ki,0,0
-monkeying,,1,0
+monkeying,,0,1
 monkeys, ˈmʌŋki ˈmʌŋki ˈmʌŋki ˈmʌŋ·ki,1,0
 monks, mʌŋk mʌŋk,1,0
-monmouth,,0,0
+monmouth,,0,1
 mono, ˈmɑːnoʊ ˈmɑːnoʊ ˈmɑn·oʊ,0,0
 monochromatic, ˌmɑːnoʊkrəˈmæt̬ɪk ˌmɑːnoʊkrəˈmæt̬ɪk ˌmɑn·ə·kroʊˈmæt̬·ɪk,0,0
 monochrome, ˈmɑːnəkroʊm ˈmɑːnəkroʊm,0,0
