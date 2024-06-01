@@ -26,6 +26,8 @@ Primary functionality is contained in and described by `inputprep.ipynb`.
 
 *Root From Cambridge*: An integer. Sometimes, when querying the conjugation of a word (often this happens for part of speech or tense), Cambridge returns the root of the word (as an example see the entry for the word "abandoning" in `cmu_ipa_cambridge.csv`). In this case, the provided pronunciations are the pronunciations for the root word. None of the pronunciations will match the CMU dictionary pronunciation, and before input to the Toolkit these will need to be examined manually. The entry for this column is 1 if this is the case and 0 otherwise.
 
+NOTE: I've temporarily removed this column from the output, as some things need to be fixed in `get-cambridge.ipynb` (some edge cases).
+
 *Missing From Cambridge*: An integer. 1 if the word was missing from the Cambridge dictionary, and 0 otherwise.
 
 `get-cambridge.ipynb`: details the process for obtaining all pronunciations from the Cambridge dictionary. The outputs of this file have already been produced, so it does not need to be run again (and takes several hours to complete if so).
