@@ -1,54 +1,36 @@
 ## Sublexical Toolkit Input Prep
 
-This repository contains code and files for updating inputs to the Sublexical Toolkit by utilizing words from the CMU Dictionary. Words are filtered to omit unusable entries (i.e. words such as "AAA" or "'QUOTE", or even phrases). Based on the mappings given by `transcriptions.csv`, all possible IPA transcriptions of the pronunciations from the CMU dictionary are constructed. Such transcriptions are then checked against the Cambridge dictionary for correctness. Discrepancies are identified.
+This repository contains code and files for updating inputs to the Sublexical Toolkit based on the CMU Dictionary. Words are filtered to omit unusable entries (i.e. words such as "AAA" or "'QUOTE", or phrases). Based on the mappings provided in `transcriptions.csv`, all possible IPA transcriptions of the pronunciations from the CMU dictionary are constructed. Such transcriptions are then checked against the Cambridge dictionary for correctness.
 
 Primary functionality is contained in and described by `inputprep.ipynb`.
 
-NOTE: The outputs are currently being restructured to take various issues into account (i.e. multiple valid pronunciations, mis-trimmed words) and the results are being concatenated to a single file. Updates will be reflected here when complete.
-
 ### Key Files
 
-`inputprep.ipynb`: contains the key functionality of the word prep. Trims the CMU dictionary, converts pronunciations to their potential IPA formats and compares and contrasts these potential pronunciations with pronunciations obtained from the Cambridge dictionary.
+`inputprep.ipynb`: contains the key functionality of the word prep. Trims the CMU dictionary, converts pronunciations to their potential IPA formats and compares and contrasts these potential pronunciations with pronunciations obtained from the Cambridge dictionary. Outputs `cmu_ipa_cambridge.csv`, the main result of the analysis (described below).
 
-`cmu_ipa_cambridge.csv`: the main, key result. Contains four columns: a word from the cmu dictionary, its corresponding first matching pronunciation from all possible pronunciations for the word as given by the Cambridge dictionary in IPA format (if there is one, and if not ""), the number of said matching pronunciation (1 if it correpsonds to the first pronunciation from Cambridge, and 2 onward), and finally the Toolkit transcription, if there exists one. The Cambridge entry is 0 if there is not a corresponding Cambridge pronunciation, and this indicates that there exists a discrepancy between all possible IPA transcriptions from the CMU pronunciation for that word and all pronunciations from the Cambridge dictionary. Take for instance the following examples:
+`cmu_ipa_cambridge.csv`: the main, key result. Contains the following columns:
 
-For the word "absorbent", the following is a list of possible IPA transcriptions from the CMU pronunciation: ['əbzɔɹbənt']
+*CMU Word*: a word from the trimmed CMU dictionary. Duplicates can exist (see *Alternate Pronunciation*)
 
-The following is a list of pronunciations for "absorbent" from the Cambridge dictionary: ['əbzɔɹbənt', 'əbzɔɹbənt', 'æb', 'sɔɹ']
+*CMU IPAs*: a list of strings containing all possible IPA transcriptions of the pronunciation provided for the word by the CMU dictionary.
 
-Thus, the entry in `cmu_ipa_cambridge.csv` is {'Word': 'absorbent', 'IPA Pronunciation': 'əbzɔɹbənt', 'Cambridge Pronunciation Number': 1, 'Toolkit': 'ebzcrbent'}
+*Cambridge IPAs*: a list, possibly empty, of pronunciations returned for the word through a query to the Cambridge dictionary. If the list is empty, the word was missing from the Cambridge dictionary. Existing pronunciations are provided in IPA format.
 
-However, for the word "accepting" we have the following:
+*Matched Pronunciations (IPA)*: a possibly empty list of all possible pronunciations returned both by the CMU dictionary transcription and the Cambridge dictionary. Indicates the pronunciations where the two dictionaries agree.
 
-CMU IPAs: ['æksɛptɪŋ']
+*Matched Pronunciations (Toolkit)*: a list not necessarily the same length as the list in *Matched Pronunciations (IPA)* consisting of all such matched pronunciations converted to the format used as input in the Sublexical Toolkit, and trimmed to remove duplicates.
 
-Cambridge Pronunciations: ['əksɛptɪŋ']
+*Pronunciation Matches*: a listof one-indexed pairs indicating the indices of the matched pronunciations. For instance, if two matched pronunciations were found, and one was the first pronunciation of the CMU dictionary matched with the second of the Cambridge, and the second match was the second pronunciation of the CMU dictionary matched with the third of Cambridge, this list would be [(1,2), (2, 3)]. This list is not necessarily the same length as *Matched Pronunciations (Toolkit)* but is guaranteed to be the same length as *Matched Pronunciations (IPA)*.
 
-Clearly, there is a discrepancy here between the two that must be resolved manually, and thus the entry is:
+*Alternate Pronunciation*: An integer. 1 if the word is present for at least the second time in the CMU dictionary. If it is, this means the CMU dictionary identified more than one valid pronunciation for the word, and the word appears more than once in the *CMU Word* column.
 
-{'Word': 'accepting', 'IPA Pronunciation': '', 'Cambridge Pronunciation Number': 0, 'Toolkit': ''}
+*Root From Cambridge*: An integer. Sometimes, when querying the conjugation of a word (often this happens for part of speech or tense), Cambridge returns the root of the word (as an example see the entry for the word "abandoning" in `cmu_ipa_cambridge.csv`). In this case, the provided pronunciations are the pronunciations for the root word. None of the pronunciations will match the CMU dictionary pronunciation, and before input to the Toolkit these will need to be examined manually. The entry for this column is 1 if this is the case and 0 otherwise.
 
-I've been able to reduce the number of discrepancies to 5546 by inspection and some other transcriptions; I think the rest may need to be examined manually, though. A lot of times, it is either because the Cambridge dictionary, when searching for a plural, -ing, etc. only returns the root word. For instance, see the output for the word "titles:"
-
-CMU: ['taɪtəlz']
-
-Cambridge: ['taɪtəl']
+*Missing From Cambridge*: An integer. 1 if the word was missing from the Cambridge dictionary, and 0 otherwise.
 
 `get-cambridge.ipynb`: details the process for obtaining all pronunciations from the Cambridge dictionary. The outputs of this file have already been produced, so it does not need to be run again (and takes several hours to complete if so).
 
-`cambridge_ipas.csv`: the primary output of `get-cambridge.ipynb`. Contains, for all words present in both the trimmed CMU dictionary list and the Cambridge dictionary, words and their potential pronunciations as given by the Cambridge dictionary. If multiple pronunciations are possible, they are space-separated in the second column.
-
-`discrepancies.csv`: contains all of the discrepant words among the words present in both the trimmed CMU dictionary as well as the Cambridge dictionary. Column entries are space-separated lists of all possible IPA transcriptions from both the CMU pronunciation and the Cambridge pronunciation for each discrepant word.
-
-`missing_cmu_words.csv`: contains all words in the trimmed CMU dictionary list whose pronunciations could not be obtained from the Cambridge dictionary. Also contains all possible IPA transcriptions of such words' pronunciations.
-
-### Current Functionality
-
-- Initial filtration of CMU dictionary words
-- Generation of all possible transcriptions into IPA of CMU dictionary pronunciations
-- Obtains all corresponding pronunciations from Cambridge dictionary in US_IPA format and consolidates them
-- Obtains a list of words not present in the Cambridge dictionary from the trimmed CMU list and outputs them 
-- Pariwise compares words from the final CMU dictionary and the Cambridge pronunciations to check for discrepancies
+`cambridge_ipas.csv`: the primary output of `get-cambridge.ipynb`. Contains, for all words present in both the trimmed CMU dictionary list and the Cambridge dictionary, words and their potential pronunciations as given by the Cambridge dictionary. If multiple pronunciations are possible, they are space-separated.
 
 ### Acknowledgements
 
