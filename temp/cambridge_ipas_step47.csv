@@ -1,26 +1,26 @@
 Word,Pronunciation,Root Word Returned,Missing
 inpatient, ˈɪnpeɪʃənt ˈɪnˌpeɪ·ʃənt,0,0
-input, ˈɪnpʊt ˈɪnpʊt ˈɪnˌpʊt,1,0
+input, ˈɪnpʊt ˈɪnpʊt ˈɪnˌpʊt,0,0
 inputs, ˈɪnpʊt ˈɪnpʊt ˈɪnˌpʊt,1,0
 inquest, ˈɪŋkwest ˈɪŋkwest ˈɪn·kwest,0,0
-inquire, ɪnˈkwaɪr ɪnˈkwɑɪər,1,0
-inquired, ɪnˈkwaɪr,1,0
-inquirer, ɪnˈkwaɪrɚ,1,0
+inquire, ɪnˈkwaɪr ɪnˈkwɑɪər,0,0
+inquired, ɪnˈkwaɪr,0,0
+inquirer, ɪnˈkwaɪrɚ,0,0
 inquires, ɪnˈkwaɪr ɪnˈkwɑɪər,1,0
 inquiries," ˈɪŋkwɚi ˈɪŋkwɚi ɪnˈkwɑɪər·i, ˈɪn·kwə·ri ɪnˈkwɑɪər·i, ˈɪn·kwə·ri",1,0
 inquiring, ɪnˈkwaɪrɪŋ,0,0
-inquiry," ˈɪŋkwɚi ˈɪŋkwɚi ɪnˈkwɑɪər·i, ˈɪn·kwə·ri ɪnˈkwɑɪər·i, ˈɪn·kwə·ri",1,0
+inquiry," ˈɪŋkwɚi ˈɪŋkwɚi ɪnˈkwɑɪər·i, ˈɪn·kwə·ri ɪnˈkwɑɪər·i, ˈɪn·kwə·ri",0,0
 inquisition, ˌɪnkwɪˈzɪʃən ˌɪn·kwəˈzɪʃ·ən,0,0
 inquisitive, ɪnˈkwɪzət̬ɪv ɪnˈkwɪz·ə·t̬ɪv,0,0
 inquisitor, ɪnˈkwɪzɪt̬ɚ,0,0
 inroads, ˈɪnˌroʊdz,0,0
-ins,,1,0
+ins,,0,1
 insane, ɪnˈseɪn ɪnˈseɪn ɪnˈseɪn,0,0
 insanity, ɪnˈsænət̬i ɪnˈsænət̬i ɪnˈsæn·ɪ·t̬i,0,0
 insatiable," ɪnˈseɪʃəbəl ɪnˈseɪ·ʃə·bəl, -ʃi·ə-",0,0
 inscribe, ɪnˈskraɪb ɪnˈskrɑɪb,0,0
-inscribed, ɪnˈskraɪb,1,0
-inscribing, ɪnˈskraɪb,1,0
+inscribed, ɪnˈskraɪb,0,0
+inscribing, ɪnˈskraɪb,0,0
 inscription, ɪnˈskrɪpʃən,0,0
 inscriptions, ɪnˈskrɪpʃən,1,0
 inscrutable, ɪnˈskruːt̬əbəl ɪnˈskru·t̬ə·bəl,0,0
@@ -38,17 +38,17 @@ insensible, ɪnˈsensəbəl,0,0
 insensitive, ɪnˈsensət̬ɪv ɪnˈsensət̬ɪv ɪnˈsen·sə·t̬ɪv ɪnˈsen·sə·t̬ɪv,0,0
 insensitivity, ɪnˌsensəˈtɪvət̬i ɪnˌsensəˈtɪvət̬i,0,0
 inseparable, ɪnˈseprəbəl ɪnˈseprəbəl ɪnˈsep·ər·ə·bəl,0,0
-insert, ɪnˈsɝːt ɪnˈsɝːt ɪnˈsɜrt,1,0
-inserted, ɪnˈsɝːt ɪnˈsɝːt,1,0
-inserting, ɪnˈsɝːt ɪnˈsɝːt,1,0
-insertion, ɪnˈsɝːʃən ɪnˈsɝːʃən,1,0
+insert, ɪnˈsɝːt ɪnˈsɝːt ɪnˈsɜrt,0,0
+inserted, ɪnˈsɝːt ɪnˈsɝːt,0,0
+inserting, ɪnˈsɝːt ɪnˈsɝːt,0,0
+insertion, ɪnˈsɝːʃən ɪnˈsɝːʃən,0,0
 inserts, ɪnˈsɝːt ɪnˈsɝːt ɪnˈsɜrt,1,0
 inset, ˈɪnset ˈɪnˌset,0,0
 inshore, ˈɪnʃɔːr,0,0
-inside," ˈɪnsaɪd ˈɪnsaɪd ˈɪnsaɪd ɪnˈsɑɪd, ˈɪnˌsɑɪd ɪnˈsɑɪd, ˈɪnˌsɑɪd",1,0
-insider," ɪnˈsaɪdɚ ɪnˈsɑɪ·dər, ˈɪnˌsɑɪ-",1,0
+inside," ˈɪnsaɪd ˈɪnsaɪd ˈɪnsaɪd ɪnˈsɑɪd, ˈɪnˌsɑɪd ɪnˈsɑɪd, ˈɪnˌsɑɪd",0,0
+insider," ɪnˈsaɪdɚ ɪnˈsɑɪ·dər, ˈɪnˌsɑɪ-",0,0
 insiders," ɪnˈsaɪdɚ ɪnˈsɑɪ·dər, ˈɪnˌsɑɪ-",1,0
-insides,,1,0
+insides,,0,1
 insidious, ɪnˈsɪdiəs ɪnˈsɪd·i·əs,0,0
 insight, ˈɪnsaɪt ˈɪnˌsɑɪt,0,0
 insightful, ˈɪnsaɪtfəl,0,0
@@ -58,35 +58,35 @@ insignificance, ˌɪnsɪɡˈnɪfəkəns,0,0
 insignificant, ˌɪnsɪɡˈnɪfəkənt ˌɪn·sɪɡˈnɪf·ɪ·kənt,0,0
 insincere, ˌɪnsɪnˈsɪr ˌɪn·sɪnˈsɪər,0,0
 insinuate, ɪnˈsɪnjueɪt ɪnˈsɪn·juˌeɪt,0,0
-insinuated, ɪnˈsɪnjueɪt,1,0
+insinuated, ɪnˈsɪnjueɪt,0,0
 insinuates, ɪnˈsɪnjueɪt ɪnˈsɪn·juˌeɪt,1,0
 insinuating, ɪnˈsɪnjueɪt̬ɪŋ,0,0
 insinuation, ɪnˌsɪnjuˈeɪʃən,0,0
 insinuations, ɪnˌsɪnjuˈeɪʃən,1,0
 insipid, ɪnˈsɪpɪd ɪnˈsɪp·ɪd,0,0
 insist, ɪnˈsɪst ɪnˈsɪst,0,0
-insisted, ɪnˈsɪst,1,0
+insisted, ɪnˈsɪst,0,0
 insistence, ɪnˈsɪstəns ɪnˈsɪs·təns,0,0
 insistent, ɪnˈsɪstənt,0,0
 insistently, ɪnˈsɪstəntli,0,0
-insisting, ɪnˈsɪst,1,0
+insisting, ɪnˈsɪst,0,0
 insists, ɪnˈsɪst ɪnˈsɪst,1,0
 insofar,,0,1
 insolence, ˈɪnsələns,0,0
 insolent, ˈɪnsələnt ˈɪn·sə·lənt,0,0
 insoluble, ɪnˈsɑːljəbəl ɪnˈsɑːljəbəl ɪnˈsɑl·jə·bəl ɪnˈsɑl·jə·bəl,0,0
-insolvency, ɪnˈsɑːlvənsi,1,0
+insolvency, ɪnˈsɑːlvənsi,0,0
 insolvent," ɪnˈsɑːlvənt ɪnˈsɑl·vənt, -ˈsɔl- -ˈsɑːl-",0,0
 insomnia, ɪnˈsɑːmniə ɪnˈsɑm·ni·ə,0,0
 insomniac, ɪnˈsɑːmniæk,0,0
 insouciance, ɪnˈsuːsiəns,0,0
 insouciant, ɪnˈsuːsiənt,0,0
-inspect, ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt,1,0
-inspected, ɪnˈspekt ɪnˈspekt ɪnˈspekt,1,0
-inspecting, ɪnˈspekt ɪnˈspekt ɪnˈspekt,1,0
-inspection, ɪnˈspekʃən ɪnˈspekʃən ɪnˈspek·ʃən ɪnˈspek·ʃən,1,0
+inspect, ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt,0,0
+inspected, ɪnˈspekt ɪnˈspekt ɪnˈspekt,0,0
+inspecting, ɪnˈspekt ɪnˈspekt ɪnˈspekt,0,0
+inspection, ɪnˈspekʃən ɪnˈspekʃən ɪnˈspek·ʃən ɪnˈspek·ʃən,0,0
 inspections, ɪnˈspekʃən ɪnˈspekʃən ɪnˈspek·ʃən ɪnˈspek·ʃən,1,0
-inspector, ɪnˈspektɚ ɪnˈspektɚ ɪnˈspek·tər ɪnˈspek·tər,1,0
+inspector, ɪnˈspektɚ ɪnˈspektɚ ɪnˈspek·tər ɪnˈspek·tər,0,0
 inspectors, ɪnˈspektɚ ɪnˈspektɚ ɪnˈspek·tər ɪnˈspek·tər,1,0
 inspects, ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt ɪnˈspekt,1,0
 inspiration, ˌɪnspəˈreɪʃən ˌɪnspəˈreɪʃən ˌɪnspəˈreɪʃən ˌɪnspəˈreɪʃən ˌɪn·spə·ˈreɪ·ʃən ˌɪn·spə·ˈreɪ·ʃən,0,0
@@ -97,27 +97,27 @@ inspired, ɪnˈspaɪrd,0,0
 inspires, ɪnˈspaɪr ɪnˈspaɪr ɪnˈspaɪr ɪnˈspaɪr ɪnˈspɑɪər ɪnˈspɑɪər,1,0
 inspiring, ɪnˈspaɪrɪŋ ɪnˈspɑɪər·ɪŋ,0,0
 instabilities, ˌɪnstəˈbɪlət̬i ˌɪn·stəˈbɪl·ɪ·t̬i,1,0
-instability, ˌɪnstəˈbɪlət̬i ˌɪn·stəˈbɪl·ɪ·t̬i,1,0
-install, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɔl ɪnˈstɔl ɪnˈstɔl,1,0
-installation, ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪn·stəˈleɪ·ʃən,1,0
+instability, ˌɪnstəˈbɪlət̬i ˌɪn·stəˈbɪl·ɪ·t̬i,0,0
+install, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɔl ɪnˈstɔl ɪnˈstɔl,0,0
+installation, ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪn·stəˈleɪ·ʃən,0,0
 installations, ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪnstəˈleɪʃən ˌɪn·stəˈleɪ·ʃən,1,0
-installed, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl,1,0
+installed, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl,0,0
 installers, ɪnˈstɑːlɚ ɪnˈstɑːlɚ lɚ lɚ,1,0
-installing, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl,1,0
-installment, ɪnˈstɑːlmənt ɪnˈstɔl·mənt ɪnˈstɔl·mənt,1,0
+installing, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl,0,0
+installment, ɪnˈstɑːlmənt ɪnˈstɔl·mənt ɪnˈstɔl·mənt,0,0
 installments, ɪnˈstɑːlmənt ɪnˈstɔl·mənt ɪnˈstɔl·mənt,1,0
 installs, ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɑːl ɪnˈstɔl ɪnˈstɔl ɪnˈstɔl,1,0
 instance, ˈɪnstəns ˈɪn·stəns,0,0
 instances, ˈɪnstəns ˈɪn·stəns,1,0
-instant, ˈɪnstənt ˈɪnstənt ˈɪn·stənt,1,0
+instant, ˈɪnstənt ˈɪnstənt ˈɪn·stənt,0,0
 instantaneous, ˌɪnstənˈteɪniəs ˌɪn·stənˈteɪ·ni·əs,0,0
 instantaneously, ˌɪnstənˈteɪniəsli,0,0
 instantly, ˈɪnstəntli ˈɪn·stənt·li,0,0
 instead, ɪnˈsted ɪnˈsted,0,0
 instigate, ˈɪnstəɡeɪt ˈɪn·stɪˌɡeɪt,0,0
-instigated, ˈɪnstəɡeɪt,1,0
+instigated, ˈɪnstəɡeɪt,0,0
 instigates, ˈɪnstəɡeɪt ˈɪn·stɪˌɡeɪt,1,0
-instigating, ˈɪnstəɡeɪt,1,0
+instigating, ˈɪnstəɡeɪt,0,0
 instigation, ˌɪnstəˈɡeɪʃən ˌɪn·stɪˈɡeɪ·ʃən,0,0
 instigator, ˈɪnstəɡeɪt̬ɚ,0,0
 instigators, ˈɪnstəɡeɪt̬ɚ,1,0
@@ -129,104 +129,104 @@ instinct, ˈɪnstɪŋkt ˈɪn·stɪŋkt ˈɪn·stɪŋkt,0,0
 instinctive, ɪnˈstɪŋktɪv ɪnˈstɪŋk·tɪv,0,0
 instinctively, ɪnˈstɪŋktɪvli,0,0
 instincts, ˈɪnstɪŋkt ˈɪn·stɪŋkt ˈɪn·stɪŋkt,1,0
-institute, ˈɪnstətuːt ˈɪn·stɪˌtut,1,0
-instituted, ˈɪnstətuːt,1,0
+institute, ˈɪnstətuːt ˈɪn·stɪˌtut,0,0
+instituted, ˈɪnstətuːt,0,0
 institutes, ˈɪnstətuːt ˈɪn·stɪˌtut,1,0
-instituting, ˈɪnstətuːt,1,0
-institution, ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən,1,0
+instituting, ˈɪnstətuːt,0,0
+institution, ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən,0,0
 institutional, ˌɪnstəˈtuːʃənəl ˌɪn·stəˈtu·ʃə·nəl -ˈtuː-,0,0
 institutionalization, ˌɪnstɪˌtuːʃənələˈzeɪʃən ˌɪnstɪˌtuːʃənələˈzeɪʃən ˌɪnstɪˌtuːʃənələˈzeɪʃən,0,0
 institutionalized, ˌɪnstəˈtuːʃənəlaɪzd,0,0
-institutionalizing, ˌɪnstəˈtuːʃənəlaɪz ˌɪnstəˈtuːʃənəlaɪz,1,0
+institutionalizing, ˌɪnstəˈtuːʃənəlaɪz ˌɪnstəˈtuːʃənəlaɪz,0,0
 institutions, ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪnstəˈtuːʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən ˌɪn·stɪˈtu·ʃən,1,0
-instruct, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,1,0
-instructed, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,1,0
-instructing, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,1,0
-instruction, ɪnˈstrʌkʃən ɪnˈstrʌkʃən ɪnˈstrʌk·ʃən ɪnˈstrʌk·ʃən,1,0
-instructional, ɪnˈstrʌkʃənəl ɪnˈstrʌk·ʃə·nəl,1,0
-instructions, ɪnˈstrʌk·ʃənz,1,0
+instruct, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,0,0
+instructed, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,0,0
+instructing, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,0,0
+instruction, ɪnˈstrʌkʃən ɪnˈstrʌkʃən ɪnˈstrʌk·ʃən ɪnˈstrʌk·ʃən,0,0
+instructional, ɪnˈstrʌkʃənəl ɪnˈstrʌk·ʃə·nəl,0,0
+instructions, ɪnˈstrʌk·ʃənz,0,0
 instructive, ɪnˈstrʌktɪv ɪnˈstrʌk·tɪv,0,0
-instructor, ɪnˈstrʌktɚ ɪnˈstrʌktɚ ɪnˈstrʌk·tər ɪnˈstrʌk·tər,1,0
+instructor, ɪnˈstrʌktɚ ɪnˈstrʌktɚ ɪnˈstrʌk·tər ɪnˈstrʌk·tər,0,0
 instructors, ɪnˈstrʌktɚ ɪnˈstrʌktɚ ɪnˈstrʌk·tər ɪnˈstrʌk·tər,1,0
 instructs, ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt ɪnˈstrʌkt,1,0
-instrument, ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪn·strə·mənt ˈɪn·strə·mənt,1,0
+instrument, ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪn·strə·mənt ˈɪn·strə·mənt,0,0
 instrumental, ˌɪnstrəˈment̬əl ˌɪnstrəˈment̬əl ˌɪn·strəˈmen·təl ˌɪn·strəˈmen·təl,0,0
 instrumentalists, ˌɪnstrəˈment̬əlɪst,1,0
 instrumentals, ˌɪnstrəˈment̬əl ˌɪnstrəˈment̬əl ˌɪn·strəˈmen·təl ˌɪn·strəˈmen·təl,1,0
 instrumentation, ˌɪnstrəmenˈteɪʃən ˌɪnstrəmenˈteɪʃən,0,0
 instruments, ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪnstrəmənt ˈɪn·strə·mənt ˈɪn·strə·mənt,1,0
-insubordinate, ˌɪnsəˈbɔːrdənət,1,0
-insubordination, ˌɪnsəˌbɔːrdəˈneɪʃən ˌɪn·səˌbɔr·dənˈeɪ·ʃən,1,0
+insubordinate, ˌɪnsəˈbɔːrdənət,0,0
+insubordination, ˌɪnsəˌbɔːrdəˈneɪʃən ˌɪn·səˌbɔr·dənˈeɪ·ʃən,0,0
 insubstantial, ˌɪnsəbˈstænʃəl ˌɪnsəbˈstænʃəl ˌɪn·səbˈstæn·ʃəl,0,0
 insufferable, ɪnˈsʌfɚəbəl ɪnˈsʌf·ər·ə·bəl,0,0
-insufficient, ˌɪnsəˈfɪʃənt ˌɪn·səˈfɪʃ·ənt,1,0
+insufficient, ˌɪnsəˈfɪʃənt ˌɪn·səˈfɪʃ·ənt,0,0
 insufficiently, ˌɪnsəˈfɪʃəntli,0,0
 insular," ˈɪnsəlɚ ˈɪn·sə·lər, -sjə-",0,0
-insulate, ˈɪnsəleɪt ˈɪnsəleɪt ˈɪn·səˌleɪt ˈɪn·səˌleɪt,1,0
-insulated, ˈɪnsəleɪt ˈɪnsəleɪt,1,0
-insulating, ˈɪnsəleɪt ˈɪnsəleɪt,1,0
-insulation, ˌɪnsəˈleɪʃən ˌɪnsəˈleɪʃən ˌɪn·səˈleɪ·ʃən,1,0
+insulate, ˈɪnsəleɪt ˈɪnsəleɪt ˈɪn·səˌleɪt ˈɪn·səˌleɪt,0,0
+insulated, ˈɪnsəleɪt ˈɪnsəleɪt,0,0
+insulating, ˈɪnsəleɪt ˈɪnsəleɪt,0,0
+insulation, ˌɪnsəˈleɪʃən ˌɪnsəˈleɪʃən ˌɪn·səˈleɪ·ʃən,0,0
 insulator, ˈɪnsəleɪt̬ɚ ˈɪn·səˌleɪ·t̬ər,0,0
 insulin, ˈɪnsəlɪn ˈɪn·sə·lən,0,0
 insult, ˈɪnsʌlt ˈɪnsʌlt ɪnˈsʌlt,0,0
-insulted, ɪnˈsʌlt,1,0
+insulted, ɪnˈsʌlt,0,0
 insulting, ɪnˈsʌltɪŋ,0,0
 insults, ˈɪnsʌlt ˈɪnsʌlt ɪnˈsʌlt,1,0
 insupportable, ˌɪnsəˈpɔːrt̬əbəl,0,0
-insurance, ɪnˈʃɝːəns ɪnˈʃɝːəns ɪnˈʃʊər·əns,1,0
+insurance, ɪnˈʃɝːəns ɪnˈʃɝːəns ɪnˈʃʊər·əns,0,0
 insurances, ɪnˈʃɝːəns ɪnˈʃɝːəns ɪnˈʃʊər·əns,1,0
-insure, ɪnˈʃʊr ɪnˈʃʊr ɪnˈʃʊər ɪnˈʃʊər,1,0
+insure, ɪnˈʃʊr ɪnˈʃʊr ɪnˈʃʊər ɪnˈʃʊər,0,0
 insured, ɪnˈʃʊərd,0,1
 insurers, ɪnˈʃʊrɚ -ˈʃʊrɚ,1,0
 insures, ɪnˈʃʊr ɪnˈʃʊr ɪnˈʃʊər ɪnˈʃʊər,1,0
 insurgency, ɪnˈsɝːdʒənsi ɪnˈsɜr·dʒən·si,0,0
 insurgent, ɪnˈsɝːdʒənt ɪnˈsɝːdʒənt ɪnˈsɜr·dʒənt,0,0
 insurgents, ɪnˈsɝːdʒənt ɪnˈsɝːdʒənt ɪnˈsɜr·dʒənt,1,0
-insuring, ɪnˈʃʊr ɪnˈʃʊr,1,0
+insuring, ɪnˈʃʊr ɪnˈʃʊr,0,0
 insurmountable, ˌɪnsɚˈmaʊnt̬əbəl ˌɪn·sərˈmɑʊn·tə·bəl,0,0
 insurrection, ˌɪnsɚˈekʃən ˌɪn·səˈrek·ʃən,0,0
 intact, ɪnˈtækt ɪnˈtækt ɪnˈtækt ɪnˈtækt,0,0
 intaglio,,0,1
 intake, ˈɪnteɪk ˈɪnteɪk ˈɪnteɪk ˈɪnteɪk ˈɪnˌteɪk,0,0
-intangible, ɪnˈtændʒəbəl ɪnˈtæn·dʒə·bəl,1,0
+intangible, ɪnˈtændʒəbəl ɪnˈtæn·dʒə·bəl,0,0
 intangibles, ɪnˈtændʒəbəl ɪnˈtæn·dʒə·bəl,1,0
 integer, ˈɪntədʒɚ ˈɪn·tə·dʒər,0,0
 integers, ˈɪntədʒɚ ˈɪn·tə·dʒər,1,0
-integral," ˈɪnt̬əɡrəl ˈɪnt̬əɡrəl ˈɪn·tə·ɡrəl, ɪnˈteɡ·rəl",1,0
-integrate, ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪn·təˌɡreɪt ˈɪn·təˌɡreɪt,1,0
-integrated, ˈɪnt̬əɡreɪt̬ɪd ˈɪnt̬əɡreɪt̬ɪd,1,0
+integral," ˈɪnt̬əɡrəl ˈɪnt̬əɡrəl ˈɪn·tə·ɡrəl, ɪnˈteɡ·rəl",0,0
+integrate, ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪn·təˌɡreɪt ˈɪn·təˌɡreɪt,0,0
+integrated, ˈɪnt̬əɡreɪt̬ɪd ˈɪnt̬əɡreɪt̬ɪd,0,0
 integrates, ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪn·təˌɡreɪt ˈɪn·təˌɡreɪt,1,0
-integrating, ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt,1,0
-integration, ˌɪnt̬əˈɡreɪʃən ˌɪnt̬əˈɡreɪʃən ˌɪnt̬əˈɡreɪʃən,1,0
-integrator,,1,0
-integrity, ɪnˈteɡrət̬i ɪnˈteɡrət̬i ɪnˈteɡ·rɪ·t̬i ɪnˈteɡ·rɪ·t̬i,1,0
+integrating, ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt ˈɪnt̬əɡreɪt,0,0
+integration, ˌɪnt̬əˈɡreɪʃən ˌɪnt̬əˈɡreɪʃən ˌɪnt̬əˈɡreɪʃən,0,0
+integrator,,0,1
+integrity, ɪnˈteɡrət̬i ɪnˈteɡrət̬i ɪnˈteɡ·rɪ·t̬i ɪnˈteɡ·rɪ·t̬i,0,0
 intel, ˈɪntel,0,0
 intellect, ˈɪnt̬əekt ˈɪnt̬əekt ˈɪn·təlˌekt,0,0
 intellects, ˈɪnt̬əekt ˈɪnt̬əekt ˈɪn·təlˌekt,1,0
-intellectual, ˌɪnt̬əlˈektʃuəl ˌɪnt̬əlˈektʃuəl ˌɪnt·əlˈek·tʃu·əl,1,0
+intellectual, ˌɪnt̬əlˈektʃuəl ˌɪnt̬əlˈektʃuəl ˌɪnt·əlˈek·tʃu·əl,0,0
 intellectualism, ˌɪnt̬əlˈektʃuəlɪzəm,0,0
-intellectually, ˌɪnt̬əlˈektʃuəli ˌɪnt·əlˈek·tʃu·ə·li,1,0
+intellectually, ˌɪnt̬əlˈektʃuəli ˌɪnt·əlˈek·tʃu·ə·li,0,0
 intellectuals, ˌɪnt̬əlˈektʃuəl ˌɪnt̬əlˈektʃuəl ˌɪnt·əlˈek·tʃu·əl,1,0
-intelligence, ɪnˈtelədʒəns ɪnˈtelədʒəns ɪnˈtel·ɪ·dʒəns ɪnˈtel·ɪ·dʒəns,1,0
-intelligent, ɪnˈtelədʒənt ɪnˈtel·ɪ·dʒənt,1,0
+intelligence, ɪnˈtelədʒəns ɪnˈtelədʒəns ɪnˈtel·ɪ·dʒəns ɪnˈtel·ɪ·dʒəns,0,0
+intelligent, ɪnˈtelədʒənt ɪnˈtel·ɪ·dʒənt,0,0
 intelligently, ɪnˈtelədʒəntli,0,0
 intelligentsia,,0,1
 intelligible, ɪnˈtelədʒəbəl ɪnˈtel·ɪ·dʒə·bəl,0,0
 intemperate, ɪnˈtempɚət,0,0
 intend, ɪnˈtend ɪnˈtend,0,0
 intended, ɪnˈtendɪd,0,0
-intending, ɪnˈtend,1,0
+intending, ɪnˈtend,0,0
 intends, ɪnˈtend ɪnˈtend,1,0
 intense, ɪnˈtens ɪnˈtens ɪnˈtens ɪnˈtens ɪnˈtens,0,0
 intensely, ɪnˈtensli ɪnˈtensli ɪnˈtens·li,0,0
-intensified, ɪnˈtensəfaɪ,1,0
+intensified, ɪnˈtensəfaɪ,0,0
 intensifies, ɪnˈtensəfaɪ ɪnˈten·səˌfɑɪ,1,0
 intensify, ɪnˈtensəfaɪ ɪnˈten·səˌfɑɪ,0,0
-intensifying, ɪnˈtensəfaɪ,1,0
+intensifying, ɪnˈtensəfaɪ,0,0
 intensity, ɪnˈtensət̬i ɪnˈtensət̬i ɪnˈtensət̬i ɪnˈten·sɪ·ɪ̬i ɪnˈten·sɪ·ɪ̬i,0,0
-intensive, ɪnˈtensɪv ɪnˈten·sɪv ɪnˈten·sɪv,1,0
+intensive, ɪnˈtensɪv ɪnˈten·sɪv ɪnˈten·sɪv,0,0
 intensively, ɪnˈtensɪvli,0,0
-intent, ɪnˈtent ɪnˈtent ɪnˈtent,1,0
+intent, ɪnˈtent ɪnˈtent ɪnˈtent,0,0
 intention, ɪnˈtenʃən ɪnˈten·ʃən,0,0
 intentional, ɪnˈtenʃənəl,0,0
 intentionally, ɪnˈtenʃənəli,0,0
@@ -234,31 +234,31 @@ intentioned,  -ɪntenʃənd,1,0
 intentions, ɪnˈtenʃən ɪnˈten·ʃən,1,0
 intently, ɪnˈtentli ɪnˈtent·li,0,0
 intents,,0,1
-inter, ɪnˈtɝː ɪnˈtɜr,1,0
-interact, ˌɪnt̬ɚˈækt ˌɪnt̬ɚˈækt ˌɪn·tərˈækt,1,0
-interacted, ˌɪnt̬ɚˈækt,1,0
-interacting, ˌɪnt̬ɚˈækt,1,0
-interaction, ˌɪnt̬ɚˈrækʃən,1,0
+inter, ɪnˈtɝː ɪnˈtɜr,0,0
+interact, ˌɪnt̬ɚˈækt ˌɪnt̬ɚˈækt ˌɪn·tərˈækt,0,0
+interacted, ˌɪnt̬ɚˈækt,0,0
+interacting, ˌɪnt̬ɚˈækt,0,0
+interaction, ˌɪnt̬ɚˈrækʃən,0,0
 interactions, ˌɪnt̬ɚˈrækʃən,1,0
-interactive, ˌɪnt̬ɚˈræktɪv ˌɪnt̬ɚˈræktɪv ˌɪn·təˈræk·tɪv ˌɪn·təˈræk·tɪv,1,0
+interactive, ˌɪnt̬ɚˈræktɪv ˌɪnt̬ɚˈræktɪv ˌɪn·təˈræk·tɪv ˌɪn·təˈræk·tɪv,0,0
 interacts, ˌɪnt̬ɚˈækt ˌɪnt̬ɚˈækt ˌɪn·tərˈækt,1,0
 interagency, ˌɪnt̬ɚˈeɪdʒənsi,0,0
-interbank, ˌɪnt̬ɚˈbæŋk,1,0
-interbred,,1,0
+interbank, ˌɪnt̬ɚˈbæŋk,0,0
+interbred,,0,1
 intercede, ˌɪnt̬ɚˈsiːd ˌɪn·tərˈsid,0,0
-interceded, ˌɪnt̬ɚˈsiːd,1,0
-interceding, ˌɪnt̬ɚˈsiːd,1,0
+interceded, ˌɪnt̬ɚˈsiːd,0,0
+interceding, ˌɪnt̬ɚˈsiːd,0,0
 intercellular, ˌɪnt̬ɚˈseljəlɚ,0,0
-intercept, ˌɪnt̬ɚˈsept ˌɪn·tərˈsept,1,0
-intercepted, ˌɪnt̬ɚˈsept,1,0
-intercepting, ˌɪnt̬ɚˈsept,1,0
-interception, ˌɪnt̬ɚˈsepʃən ˌɪnt̬ɚˈsepʃən ˌɪn·tərˈsep·ʃən,1,0
+intercept, ˌɪnt̬ɚˈsept ˌɪn·tərˈsept,0,0
+intercepted, ˌɪnt̬ɚˈsept,0,0
+intercepting, ˌɪnt̬ɚˈsept,0,0
+interception, ˌɪnt̬ɚˈsepʃən ˌɪnt̬ɚˈsepʃən ˌɪn·tərˈsep·ʃən,0,0
 interceptions, ˌɪnt̬ɚˈsepʃən ˌɪnt̬ɚˈsepʃən ˌɪn·tərˈsep·ʃən,1,0
 interceptor, ˌɪnt̬ɚˈsept̬ɚ,0,0
 interceptors, ˌɪnt̬ɚˈsept̬ɚ,1,0
 intercepts, ˌɪnt̬ɚˈsept ˌɪn·tərˈsept,1,0
 intercession, ˌɪnt̬ɚˈseʃən ˌɪnt̬ɚˈseʃən,0,0
-interchange, ˌɪnt̬ɚˈtʃeɪndʒ ˌɪnt̬ɚˈtʃeɪndʒ ˈɪn·tərˌtʃeɪndʒ ˈɪn·tərˌtʃeɪndʒ,1,0
+interchange, ˌɪnt̬ɚˈtʃeɪndʒ ˌɪnt̬ɚˈtʃeɪndʒ ˈɪn·tərˌtʃeɪndʒ ˈɪn·tərˌtʃeɪndʒ,0,0
 interchangeable, ˌɪnt̬ɚˈtʃeɪndʒəbəl ˌɪn·tərˈtʃeɪn·dʒə·bəl,0,0
 intercity, ˌɪnt̬ɚˈsɪt̬i,0,0
 intercollegiate, ˌɪntət̬ɚkəˈliːdʒɪt,0,0
@@ -268,86 +268,86 @@ interconnected, ˌɪnt̬ɚkəˈnektɪd,0,0
 interconnection, ˌɪnt̬ɚkəˈnekʃən,0,0
 intercontinental, ˌɪnt̬ɚˌkɑːnt̬əˈnent̬əl ˌɪn·tərˌkɑn·tənˈen·təl,0,0
 intercourse," ˈɪnt̬ɚkɔːrs ˈɪnt̬ɚkɔːrs ˈɪn·tərˌkɔrs, -ˌkoʊrs",0,0
-interdependent, ˌɪnt̬ɚdɪˈpendənt ˌɪn·tər·dɪˈpen·dənt,1,0
+interdependent, ˌɪnt̬ɚdɪˈpendənt ˌɪn·tər·dɪˈpen·dənt,0,0
 interdict, ˈɪnt̬ɚdɪkt ˈɪnt̬ɚdɪkt,0,0
 interdiction, ˌɪnt̬ɚˈdɪkʃən ˌɪnt̬ɚˈdɪkʃən ˌɪnt̬ɚˈdɪkʃən,0,0
 interdisciplinary, ˌɪnt̬ɚˈdɪsəplɪneri ˌɪntərˈdɪsəplɪneri,0,0
-interest," ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst",1,0
+interest," ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst",0,0
 interested," ˈɪntrɪstɪd ˈɪntrɪstɪd ˈɪn·trə·stɪd, ˈɪn·təˌres·tɪd",0,0
 interesting," ˈɪntrɪstɪŋ ˈɪntrɪstɪŋ ˈɪn·trə·stɪŋ, ˈɪn·təˌres·tɪŋ",0,0
 interestingly," ˈɪntrɪstɪŋli ˈɪn·trə·stɪŋ·li, ˈɪn·təˌres·tɪŋ-",0,0
 interests," ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪntrɪst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst ˈɪn·trəst, ˈɪn·tər·əst",1,0
-interface, ˈɪnt̬ɚfeɪs ˈɪnt̬ɚfeɪs ˈɪn·tərˌfeɪs,1,0
+interface, ˈɪnt̬ɚfeɪs ˈɪnt̬ɚfeɪs ˈɪn·tərˌfeɪs,0,0
 interfaces, ˈɪnt̬ɚfeɪs ˈɪnt̬ɚfeɪs ˈɪn·tərˌfeɪs,1,0
 interfaith, ˌɪnt̬ɚˈfeɪθ,0,0
 interfere, ˌɪnt̬ɚˈfɪr ˌɪn·tərˈfɪər ˌɪn·tərˈfɪər,0,0
-interfered, ˌɪnt̬ɚˈfɪr,1,0
+interfered, ˌɪnt̬ɚˈfɪr,0,0
 interference, ˌɪnt̬ɚˈfɪrəns ˌɪnt̬ɚˈfɪrəns ˌɪn·tərˈfɪər·əns ˌɪn·tərˈfɪər·əns ˌɪn·tərˈfɪər·əns,0,0
 interferes, ˌɪnt̬ɚˈfɪr ˌɪn·tərˈfɪər ˌɪn·tərˈfɪər,1,0
 interfering, ˌɪnt̬ɚˈfɪrɪŋ,0,0
 interferon, ˌɪnt̬ɚˈfɪrɑːn ˌɪn·tərˈfɪər·ɑn,0,0
-interim, ˈɪnt̬ɚɪm ˈɪnt̬ɚɪm ˈɪn·tər·əm,1,0
+interim, ˈɪnt̬ɚɪm ˈɪnt̬ɚɪm ˈɪn·tər·əm,0,0
 interior, ɪnˈtɪriɚ ɪnˈtɪriɚ ɪnˈtɪər·i·ər,0,0
 interiors, ɪnˈtɪriɚ ɪnˈtɪriɚ ɪnˈtɪriɚ ɪnˈtɪər·i·ər,1,0
 interject, ˌɪnt̬ɚˈdʒekt ˌɪn·tərˈdʒekt,0,0
 interjection, ˌɪnt̬ɚˈdʒekʃən ˌɪnt̬ɚˈdʒekʃən ˌɪn·tərˈdʒek·ʃən,0,0
 interjections, ˌɪnt̬ɚˈdʒekʃən ˌɪnt̬ɚˈdʒekʃən ˌɪn·tərˈdʒek·ʃən,1,0
 interlace, ˌɪnt̬ɚˈleɪs,0,0
-interlaced, ˌɪnt̬ɚˈleɪs,1,0
+interlaced, ˌɪnt̬ɚˈleɪs,0,0
 interlinked, ˌɪnt̬ɚˈlɪŋkt,0,0
 interlock, ˌɪnt̬ɚˈlɑːk ˌɪn·tərˈlɑk,0,0
-interlocked, ˌɪnt̬ɚˈlɑːk,1,0
+interlocked, ˌɪnt̬ɚˈlɑːk,0,0
 interlocking, ˌɪnt̬ɚˈlɑːkɪŋ,0,0
 interloper, ˈɪnt̬ɚˌloʊpɚ ˈɪn·tərˌloʊ·pər,0,0
 interlude, ˈɪnt̬ɚluːd ˈɪn·tərˌlud,0,0
 interludes, ˈɪnt̬ɚluːd ˈɪn·tərˌlud,1,0
 intermarry, ˌɪnt̬ɚˈmeri ˌɪnt̬ɚˈmeri,0,0
 intermediaries, ˌɪnt̬ɚˈmiːdiəri ˌɪn·tərˈmid·iˌer·i,1,0
-intermediary, ˌɪnt̬ɚˈmiːdiəri ˌɪn·tərˈmid·iˌer·i,1,0
-intermediate, ˌɪnt̬ɚˈmiːdiət ˌɪn·tərˈmid·i·ət,1,0
+intermediary, ˌɪnt̬ɚˈmiːdiəri ˌɪn·tərˈmid·iˌer·i,0,0
+intermediate, ˌɪnt̬ɚˈmiːdiət ˌɪn·tərˈmid·i·ət,0,0
 intermediates,,0,1
 interminable, ɪnˈtɝːmɪnəbəl ɪnˈtɜr·mə·nə·bəl,0,0
 interminably, ɪnˈtɝːmɪnəbli,0,0
 intermingle, ˌɪnt̬ɚˈmɪŋɡəl ˌɪn·tərˈmɪŋ·ɡəl,0,0
-intermingled, ˌɪnt̬ɚˈmɪŋɡəl,1,0
-intermingling, ˌɪnt̬ɚˈmɪŋɡəl,1,0
+intermingled, ˌɪnt̬ɚˈmɪŋɡəl,0,0
+intermingling, ˌɪnt̬ɚˈmɪŋɡəl,0,0
 intermission, ˌɪnt̬ɚˈmɪʃən ˌɪnt̬ɚˈmɪʃən ˌɪn·tərˈmɪʃ·ən,0,0
 intermissions, ˌɪnt̬ɚˈmɪʃən ˌɪnt̬ɚˈmɪʃən ˌɪn·tərˈmɪʃ·ən,1,0
 intermittent, ˌɪnt̬ɚˈmɪtənt ˌɪn·tərˈmɪt·ənt,0,0
 intermittently, ˌɪnt̬ɚˈmɪtəntli,0,0
 intermix, ˌɪnt̬ɚˈmɪks,0,0
 intermountain, ˌɪnt̬ɚˈmaʊntən,0,0
-intern," ˈɪntɝːn ˈɪntɝːn ɪnˈtɜrn, ˈɪn·tɜrn",1,0
-internal, ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɜr·nəl,1,0
-internalize, ɪnˈtɝːnəlaɪz ɪnˈtɝːnəlaɪz ɪnˈtɝːnəlaɪz ɪnˈtɜr·nəlˌɑɪz ɪnˈtɜr·nəlˌɑɪz,1,0
+intern," ˈɪntɝːn ˈɪntɝːn ɪnˈtɜrn, ˈɪn·tɜrn",0,0
+internal, ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɝːnəl ɪnˈtɜr·nəl,0,0
+internalize, ɪnˈtɝːnəlaɪz ɪnˈtɝːnəlaɪz ɪnˈtɝːnəlaɪz ɪnˈtɜr·nəlˌɑɪz ɪnˈtɜr·nəlˌɑɪz,0,0
 internalized, ɪnˈtɝːnəlaɪzd,0,0
-internally, ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɜr·nəl·i,1,0
-international, ˌɪnt̬ɚˈnæʃənəl ˌɪn·tərˈnæʃ·ə·nəl,1,0
-internationalist, ˌɪnt̬ɚˈnæʃənəlɪst,1,0
+internally, ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɝːnəli ɪnˈtɜr·nəl·i,0,0
+international, ˌɪnt̬ɚˈnæʃənəl ˌɪn·tərˈnæʃ·ə·nəl,0,0
+internationalist, ˌɪnt̬ɚˈnæʃənəlɪst,0,0
 internationally, ˌɪnt̬ɚˈnæʃənəli -ṱɚ-,0,0
 internationals, ˌɪnt̬ɚˈnæʃənəl ˌɪn·tərˈnæʃ·ə·nəl,1,0
 internecine, ˌɪnt̬ɚˈniːsɪn,0,0
-interned,,1,0
+interned,,0,1
 internees, ˌɪntɝːˈniː,1,0
-internet, ˈɪnt̬ɚnet ˈɪn·tərˌnet,1,0
+internet, ˈɪnt̬ɚnet ˈɪn·tərˌnet,0,0
 internist, ˈɪntɝːnɪst ˈɪnˌtɜr·nɪst,0,0
 internment, ɪnˈtɝːnmənt,0,0
 interns," ˈɪntɝːn ˈɪntɝːn ɪnˈtɜrn, ˈɪn·tɜrn",1,0
 internship, ˈɪntɝːnʃɪp ˈɪntɝːnʃɪp ˈɪn·tɜrnˌʃɪp -tɝː–,0,0
 internships, ˈɪntɝːnʃɪp ˈɪntɝːnʃɪp ˈɪn·tɜrnˌʃɪp -tɝː–,1,0
 interoffice, ˌɪnt̬ɚˈɑːfɪs,0,0
-interpersonal, ˌɪnt̬ɚˈpɝːsənəl ˌɪn·tərˈpɜr·sə·nəl,1,0
+interpersonal, ˌɪnt̬ɚˈpɝːsənəl ˌɪn·tərˈpɜr·sə·nəl,0,0
 interplanetary, ˌɪntəˈplænɪteri ˌɪn·tərˈplæn·ɪˌter·i,0,0
 interplay, ˈɪnt̬ɚpleɪ ˈɪn·tərˌpleɪ,0,0
-interpol, ˈɪnt̬ɚpɑːl,1,0
+interpol, ˈɪnt̬ɚpɑːl,0,0
 interpose, ˌɪnt̬ɚˈpoʊz ˌɪnt̬ɚˈpoʊz,0,0
 interpret, -ˈtɝː- -ˈtɝː- -ˈtɝː- ɪnˈtɜr·prɪt ɪnˈtɜr·prɪt,0,0
 interpretation, ɪnˌtɝːprəˈteɪʃən ɪnˌtɝːprəˈteɪʃən ɪnˌtɜr·prɪˈteɪ·ʃən ɪnˌtɜr·prɪˈteɪ·ʃən,0,0
 interpretations, ɪnˌtɝːprəˈteɪʃən ɪnˌtɝːprəˈteɪʃən ɪnˌtɜr·prɪˈteɪ·ʃən ɪnˌtɜr·prɪˈteɪ·ʃən,1,0
-interpreted, -ˈtɝː- -ˈtɝː- -ˈtɝː-,1,0
-interpreter, ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɜr·prɪ·t̬ər,1,0
+interpreted, -ˈtɝː- -ˈtɝː- -ˈtɝː-,0,0
+interpreter, ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɜr·prɪ·t̬ər,0,0
 interpreters, ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɝːprət̬ɚ ɪnˈtɜr·prɪ·t̬ər,1,0
-interpreting, -ˈtɝː- -ˈtɝː- -ˈtɝː-,1,0
+interpreting, -ˈtɝː- -ˈtɝː- -ˈtɝː-,0,0
 interpretive, ɪnˈtɝːprət̬ɪv,0,0
 interprets, -ˈtɝː- -ˈtɝː- -ˈtɝː- ɪnˈtɜr·prɪt ɪnˈtɜr·prɪt,1,0
 interracial, ˌɪnt̬ɚˈreɪʃəl ˌɪn·tərˈreɪ·ʃəl,0,0
@@ -355,8 +355,8 @@ interred, ɪnˈtɝː ɪntɚ- ɪnˈtɜr ˌɪnt·ər,1,0
 interrelated, ˌɪnt̬ɚrɪˈleɪt̬ɪd ˌɪn·tə·rɪˈleɪ·t̬ɪd,0,0
 interrelationship, ˌɪnt̬ɚrɪˈleɪʃənʃɪp,0,0
 interrogate, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈter·əˌɡeɪt,0,0
-interrogated, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt,1,0
-interrogating, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt,1,0
+interrogated, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt,0,0
+interrogating, ɪnˈterəɡeɪt ɪnˈterəɡeɪt ɪnˈterəɡeɪt,0,0
 interrogation, ɪnˌterəˈɡeɪʃən ɪnˌterəˈɡeɪʃən,0,0
 interrogations, ɪnˌterəˈɡeɪʃən ɪnˌterəˈɡeɪʃən,1,0
 interrogator, ɪnˈterəɡeɪt̬ɚ,0,0
@@ -364,53 +364,53 @@ interrogatories,,0,1
 interrogators, ɪnˈterəɡeɪt̬ɚ,1,0
 interrogatory,,0,1
 interrupt, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt ˌɪn·təˈrʌpt,0,0
-interrupted, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,1,0
-interrupting, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,1,0
-interruption, ˌɪnt̬əˈrʌpʃən,1,0
+interrupted, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,0,0
+interrupting, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt,0,0
+interruption, ˌɪnt̬əˈrʌpʃən,0,0
 interruptions, ˌɪnt̬əˈrʌpʃən,1,0
 interrupts, ˌɪnt̬əˈrʌpt ˌɪnt̬əˈrʌpt ˌɪn·təˈrʌpt,1,0
 interscholastic, ˌɪnt̬ɚskəˈlæstɪk ˌɪn·tər·skəˈlæs·tɪk,0,0
-intersect, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪn·tərˈsekt ˌɪn·tərˈsekt,1,0
-intersected, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt,1,0
-intersecting, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt,1,0
-intersection, ˌɪnt̬ɚˈsekʃən ˌɪnt̬ɚˈsekʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən,1,0
+intersect, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪn·tərˈsekt ˌɪn·tərˈsekt,0,0
+intersected, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt,0,0
+intersecting, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt,0,0
+intersection, ˌɪnt̬ɚˈsekʃən ˌɪnt̬ɚˈsekʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən,0,0
 intersections, ˌɪnt̬ɚˈsekʃən ˌɪnt̬ɚˈsekʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən ˈɪn·tərˌsek·ʃən,1,0
 intersects, ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪnt̬ɚˈsekt ˌɪn·tərˈsekt ˌɪn·tərˈsekt,1,0
 intersperse, ˌɪnt̬ɚˈspɝːs ˌɪnt·ərˈspɜrs,0,0
 interspersed,,0,1
-interstate, ˈɪnt̬ɚsteɪt ˌɪnt·ərˈsteɪt,1,0
+interstate, ˈɪnt̬ɚsteɪt ˌɪnt·ərˈsteɪt,0,0
 interstates, ˈɪnt̬ɚsteɪt ˌɪnt·ərˈsteɪt,1,0
 interstellar, ˌɪnt̬ɚˈstelɚ,0,0
 intertwine, ˌɪnt̬ɚˈtwaɪn,0,0
 intertwined, ˌɪn·tərˈtwɑɪnd,0,0
-intertwining, ˌɪnt̬ɚˈtwaɪn,1,0
-interval, ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl,1,0
+intertwining, ˌɪnt̬ɚˈtwaɪn,0,0
+interval, ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl,0,0
 intervals, ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl ˈɪnt̬ɚvəl,1,0
-intervene, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn ˌɪn·tərˈvin ˌɪn·tərˈvin,1,0
-intervened, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn,1,0
+intervene, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn ˌɪn·tərˈvin ˌɪn·tərˈvin,0,0
+intervened, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn,0,0
 intervenes, ˌɪnt̬ɚˈviːn ˌɪnt̬ɚˈviːn ˌɪn·tərˈvin ˌɪn·tərˈvin,1,0
 intervening, ˌɪnt̬ɚˈviːnɪŋ,0,0
 intervenor,,0,1
-intervention, ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪn·tərˈven·ʃən,1,0
+intervention, ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪn·tərˈven·ʃən,0,0
 interventionist, ˌɪnt̬ɚˈvenʃənɪst -ṱɚ-,0,0
 interventionists, ˌɪnt̬ɚˈvenʃənɪst -ṱɚ-,1,0
-interventions, ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪn·tərˈven·ʃən,1,0
-interview, ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪn·tərˌvju ˈɪn·tərˌvju,1,0
-interviewed, ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː,1,0
-interviewee, ˌɪnt̬ɚvjuˈiː,1,0
+interventions, ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪnt̬ɚˈvenʃən ˌɪn·tərˈven·ʃən,1,0
+interview, ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪn·tərˌvju ˈɪn·tərˌvju,0,0
+interviewed, ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː,0,0
+interviewee, ˌɪnt̬ɚvjuˈiː,0,0
 interviewees, ˌɪnt̬ɚvjuˈiː,1,0
-interviewer, ˈɪnt̬ɚvjuːɚ ˈɪn·tərˌvju·ər,1,0
+interviewer, ˈɪnt̬ɚvjuːɚ ˈɪn·tərˌvju·ər,0,0
 interviewers, ˈɪnt̬ɚvjuːɚ ˈɪn·tərˌvju·ər,1,0
-interviewing,,1,0
+interviewing,,0,1
 interviews, ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪnt̬ɚvjuː ˈɪn·tərˌvju ˈɪn·tərˌvju,1,0
 interweave, ˌɪnt̬ɚˈwiːv ˌɪnt·ərˈwiv,0,0
-interwoven,,1,0
+interwoven,,0,1
 intestinal, ˌɪnˈtestɪnəl,0,0
 intestine, ɪnˈtestɪn,0,0
 intestines, ɪnˈtes·tənz,0,0
 intimacy, ˈɪnt̬əməsi ˈɪnt̬əməsi ˈɪn·tə·mə·si,0,0
 intimate, ˈɪntəmət ˈɪntəmət ˈɪn·tə·mət ˈɪn·tə·mət ˈɪn·tə·mət ˈɪn·tə·mət,0,0
-intimated, ˈɪntəmeɪt,1,0
+intimated, ˈɪntəmeɪt,0,0
 intimately, ˈɪnt̬əmətli ˈɪnt̬əmətli ˈɪn·tə·mət·li ˈɪn·tə·mət·li,0,0
 intimates, ˈɪntəmət ˈɪntəmət ˈɪn·tə·mət ˈɪn·tə·mət ˈɪn·tə·mət ˈɪn·tə·mət,1,0
 intimations, ˌɪnt̬əˈmeɪʃən,1,0
@@ -423,11 +423,11 @@ into," ˈɪntuː ˈɪntuː ˈɪntuː ˈɪntuː ˈɪntuː ˈɪntuː ˈɪntuː ˈ�
 intolerable, ɪnˈtɑːlɚəbəl ɪnˈtɑl·ər·ə·bəl,0,0
 intolerably, ɪnˈtɑːlɚəbli,0,0
 intolerance, ɪnˈtɑːlɚəns ɪnˈtɑːlɚəns ɪnˈtɑːlɚəns,0,0
-intolerant, ɪnˈtɑːlɚənt ɪnˈtɑːlɚənt ɪnˈtɑl·ər·ənt,0,0
+intolerant, ɪnˈtɑːlɚənt ɪnˈtɑːlɚənt ɪnˈtɑːlɚənt ɪnˈtɑl·ər·ənt,0,0
 intonation, ˌɪntəˈneɪʃən ˌɪntəˈneɪʃən ˌɪn·təˈneɪ·ʃən,0,0
 intonations, ˌɪntəˈneɪʃən ˌɪntəˈneɪʃən ˌɪn·təˈneɪ·ʃən,1,0
 intone, ɪnˈtoʊn ɪnˈtoʊn,0,0
-intoned, ɪnˈtoʊn,1,0
+intoned, ɪnˈtoʊn,0,0
 intoxicate, ɪnˈtɑːksɪkeɪt ɪnˈtɑːksɪkeɪt,0,0
 intoxicated, ɪnˈtɑːksɪkeɪt̬ɪd ɪnˈtɑːksɪkeɪt̬ɪd ɪnˈtɑk·sɪˌkeɪ·t̬ɪd,0,0
 intoxicates, ɪnˈtɑːksɪkeɪt ɪnˈtɑːksɪkeɪt,1,0
@@ -440,31 +440,31 @@ intransigence, ɪnˈtrænsədʒəns,0,0
 intransigent," ɪnˈtrænsədʒənt ɪnˈtræn·sɪ·dʒənt, -zɪ-",0,0
 intraocular, ˌɪntrəˈɑːkjəlɚ,0,0
 intraparty,,0,1
-intrastate,,1,0
+intrastate,,0,1
 intrauterine, ˌɪntrəˈjuːt̬ɚɪn,0,0
 intravenous, ˌɪntrəˈviːnəs ˌɪn·trəˈvi·nəs,0,0
 intravenously, ˌɪntrəˈviːnəsli,0,0
 intrepid, ɪnˈtrepɪd ɪnˈtrep·əd,0,0
 intrepidly, ɪnˈtrepɪdli,0,0
-intricacies,,1,0
+intricacies,,0,1
 intricacy, ˈɪntrəkəsi ˈɪn·trɪ·kə·si,0,0
 intricate, ˈɪntrəkət ˈɪntrəkət ˈɪn·trɪ·kət,0,0
 intricately, ˈɪntrəkətli ˈɪntrəkətli,0,0
 intrigue, ɪnˈtriːɡ ɪnˈtriɡ,0,0
-intrigued, ɪnˈtriːɡ,1,0
+intrigued, ɪnˈtriːɡ,0,0
 intrigues, ɪnˈtriːɡ ɪnˈtriɡ,1,0
 intriguing, ɪnˈtriːɡɪŋ,0,0
 intriguingly, ɪnˈtriːɡɪŋli,0,0
-intrinsic," ɪnˈtrɪnzɪk ɪnˈtrɪn·zɪk, -sɪk",1,0
+intrinsic," ɪnˈtrɪnzɪk ɪnˈtrɪn·zɪk, -sɪk",0,0
 intrinsically, ɪnˈtrɪnzɪkəli,0,0
 intro, ˈɪntroʊ ˈɪn·troʊ,0,0
-introduce, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪn·trəˈdus ˌɪn·trəˈdus ˌɪn·trəˈdus,1,0
-introduced, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs,1,0
+introduce, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪn·trəˈdus ˌɪn·trəˈdus ˌɪn·trəˈdus,0,0
+introduced, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs,0,0
 introduces, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪn·trəˈdus ˌɪn·trəˈdus ˌɪn·trəˈdus,1,0
-introducing, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs,1,0
-introduction, ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən,1,0
+introducing, ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs ˌɪntrəˈduːs,0,0
+introduction, ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən,0,0
 introductions, ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪntrəˈdʌkʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən ˌɪn·trəˈdʌk·ʃən,1,0
-introductory, ˌɪntrəˈdʌktəri ˌɪntrəˈdʌktəri ˌɪn·trəˈdʌk·tə·ri,1,0
+introductory, ˌɪntrəˈdʌktəri ˌɪntrəˈdʌktəri ˌɪn·trəˈdʌk·tə·ri,0,0
 intros, ˈɪntroʊ ˈɪn·troʊ,1,0
 introspect, ˌɪntrəˈspekt,0,0
 introspection, ˌɪntrəˈspekʃən,0,0
@@ -472,11 +472,11 @@ introspective, ˌɪntrəˈspektɪv,0,0
 introvert, ˈɪntrəvɝːt,0,0
 introverted, ˈɪntrəvɝːt̬ɪd,0,0
 intrude, ɪnˈtruːd ɪnˈtrud,0,0
-intruded, ɪnˈtruːd,1,0
+intruded, ɪnˈtruːd,0,0
 intruder, ɪnˈtruːdɚ ɪnˈtruːdɚ ɪnˈtru·dər,0,0
 intruders, ɪnˈtruːdɚ ɪnˈtruːdɚ ɪnˈtru·dər,1,0
 intrudes, ɪnˈtruːd ɪnˈtrud,1,0
-intruding, ɪnˈtruːd,1,0
+intruding, ɪnˈtruːd,0,0
 intrusion, ɪnˈtruːʒən ɪnˈtru·ʒən ɪnˈtru·ʒən,0,0
 intrusions, ɪnˈtruːʒən ɪnˈtru·ʒən ɪnˈtru·ʒən,1,0
 intrusive," ɪnˈtruːsɪv ɪnˈtruːsɪv ɪnˈtruːsɪv ɪnˈtru·sɪv, -zɪv ɪnˈtru·sɪv, -zɪv",0,0

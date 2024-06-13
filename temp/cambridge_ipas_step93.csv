@@ -1,6 +1,6 @@
 Word,Pronunciation,Root Word Returned,Missing
-trespass," ˈtrespæs ˈtrespæs ˈtresˌpæs, -pəs",1,0
-trespassing, ˈtrespæs ˈtrespæs,1,0
+trespass," ˈtrespæs ˈtrespæs ˈtresˌpæs, -pəs",0,0
+trespassing, ˈtrespæs ˈtrespæs,0,0
 tress, tres,0,0
 tressel,,0,1
 tresses, ˈtresɪz,0,0
@@ -10,13 +10,13 @@ tri, traɪ-,1,0
 triad, ˈtraɪæd ˈtraɪæd ˈtraɪæd ˈtrɑɪ·æd,0,0
 triads, ˈtraɪæd ˈtraɪæd ˈtraɪæd ˈtrɑɪ·æd,1,0
 triage, ˈtriːɑːʒ ˈtriːɑːʒ,0,0
-trial," traɪəl traɪəl traɪəl traɪəl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl",1,0
+trial," traɪəl traɪəl traɪəl traɪəl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl",0,0
 trials," traɪəl traɪəl traɪəl traɪəl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl ˈtrɑɪˌəl, trɑɪl",1,0
 triangle, ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtrɑɪˌæŋ·ɡəl ˈtrɑɪˌæŋ·ɡəl,0,0
 triangles, ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtraɪæŋɡəl ˈtrɑɪˌæŋ·ɡəl ˈtrɑɪˌæŋ·ɡəl,1,0
 triangular, -lɚ trɑɪˈæŋ·ɡjə·lər,0,0
-triangulation,,1,0
-triassic, traɪˈæsɪk traɪˈæsɪk,1,0
+triangulation,,0,1
+triassic, traɪˈæsɪk traɪˈæsɪk,0,0
 triathlon, traɪˈæθlɑːn trɑɪˈæθ·lɑn,0,0
 trib,,0,1
 tribal, ˈtraɪbəl ˈtrɑɪ·bəl,0,0
@@ -28,7 +28,7 @@ tribesmen, ˈtraɪbzmən,1,0
 triborough,,0,1
 tribulation, ˌtrɪbjəˈleɪʃən,0,0
 tribulations, ˌtrɪbjəˈleɪʃən,1,0
-tribunal, traɪˈbjuːnəl trɑɪˈbju·nəl,1,0
+tribunal, traɪˈbjuːnəl trɑɪˈbju·nəl,0,0
 tribunals, traɪˈbjuːnəl trɑɪˈbju·nəl,1,0
 tribune, ˈtrɪbjuːn ˈtrɪbjuːn,0,0
 tributaries, ˈtrɪbjəteri ˈtrɪb·jəˌter·i,1,0
@@ -39,11 +39,11 @@ trice,,0,1
 triceps, ˈtraɪseps,0,0
 triceratops, traɪˈserətɑːps,0,0
 trick, trɪk trɪk trɪk trɪk,0,0
-tricked, trɪk,1,0
+tricked, trɪk,0,0
 trickery, ˈtrɪkɚi ˈtrɪk·ə·ri,0,0
 trickier, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,1,0
 trickiest, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,1,0
-tricking, trɪk,1,0
+tricking, trɪk,0,0
 trickle, ˈtrɪkəl ˈtrɪkəl ˈtrɪk·əl ˈtrɪk·əl,0,1
 trickled,,0,1
 trickles,,0,1
@@ -52,18 +52,18 @@ tricks, trɪk trɪk trɪk trɪk trɪk trɪk trɪk,1,0
 trickster, ˈtrɪkstɚ,0,0
 tricksters, ˈtrɪkstɚ,1,0
 tricky, ˈtrɪki ˈtrɪki ˈtrɪk·i ˈtrɪk·i,0,0
-tricuspid,,0,1
+tricuspid, traɪˈkʌspɪd traɪˈkʌspɪd,0,0
 tricycle," ˈtraɪsəkəl ˈtrɑɪ·sɪ·kəl, -ˌsɪk·əl",0,0
 trident, ˈtraɪdənt,0,0
 tried, traɪd trɑɪd,0,0
 trier, ˈtraɪɚ,0,0
-tries, traɪ traɪ traɪ traɪ traɪ trɑɪ trɑɪ trɑɪ,1,0
+tries, traɪ traɪ traɪ traɪ trɑɪ trɑɪ trɑɪ,1,0
 trifecta, traɪˈfektə traɪˈfektə,0,0
 trifle, ˈtraɪfəl ˈtraɪfəl ˈtrɑɪ·fəl,0,0
 trifles, ˈtraɪfəl ˈtraɪfəl ˈtraɪfəl ˈtrɑɪ·fəl ˈtrɑɪ·fəl,1,0
 trifling, ˈtraɪflɪŋ,0,0
 trig, trɪɡ,0,0
-trigger, ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡ·ər,1,0
+trigger, ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡ·ər,0,0
 triggered, ˈtrɪɡɚd,0,0
 triggering, ˈtrɪɡɚɪŋ,0,0
 triggers, ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡɚ ˈtrɪɡ·ər,1,0
@@ -72,41 +72,41 @@ triglycerides, traɪˈɡlɪsəraɪd,1,0
 trigo,,0,1
 trilby, ˈtrɪlbi,0,0
 trill, trɪl trɪl trɪl trɪl,0,0
-trilling, trɪl trɪl,1,0
+trilling, trɪl trɪl,0,0
 trillion, ˈtrɪljən ˈtrɪl·jən ˈtrɪljən,0,0
 trillions, ˌmʌltiˈtrɪljən,1,0
 trillo,,0,1
 trilogy, ˈtrɪlədʒi ˈtrɪl·ə·dʒi,0,0
-trim, trɪm trɪm trɪm trɪm trɪm trɪm,1,0
+trim, trɪm trɪm trɪm trɪm trɪm trɪm,0,0
 trimester, traɪˈmestɚ traɪˈmestɚ traɪˈmestɚ trɑɪˈmes·tər trɑɪˈmes·tər,0,0
 trimmed, trɪmd,0,0
 trimmer, ˈtrɪmɚ,0,0
 trimmers, ˈtrɪmɚ,1,0
 trimming, ˈtrɪmɪŋ,0,0
-trimmings, ˈtrɪm·ɪŋz,1,0
+trimmings, ˈtrɪm·ɪŋz,0,0
 trims, trɪm trɪm trɪm trɪm trɪm trɪm trɪm,1,0
 trine,,0,1
 trinidad,,0,1
-trinity, ˈtrɪnət̬i ˈtrɪn·ɪ·t̬I,1,0
+trinity, ˈtrɪnət̬i ˈtrɪn·ɪ·t̬I,0,0
 trinket, ˈtrɪŋkɪt ˈtrɪŋ·kɪt,0,0
 trinkets, ˈtrɪŋkɪt ˈtrɪŋ·kɪt,1,0
 trio, ˈtriːoʊ ˈtriːoʊ ˈtriːoʊ ˈtri·oʊ,0,0
-trip, trɪp trɪp trɪp trɪp trɪp trɪp,1,0
+trip, trɪp trɪp trɪp trɪp trɪp trɪp,0,0
 tripe, traɪp traɪp,0,0
-triple, ˈtrɪpəl ˈtrɪpəl ˈtrɪp·əl,1,0
-tripled, ˈtrɪpəl,1,0
+triple, ˈtrɪpəl ˈtrɪpəl ˈtrɪp·əl,0,0
+tripled, ˈtrɪpəl,0,0
 triples, ˈtrɪpəl ˈtrɪpəl ˈtrɪp·əl,1,0
 triplet, ˈtrɪplət ˈtrɪplət ˈtrɪp·lɪt,0,0
 triplets, ˈtrɪplət ˈtrɪplət ˈtrɪp·lɪt,1,0
 triplex,,0,1
-triplicate, ˈtrɪpləkət ˈtrɪp·lɪ·kɪt,1,0
-tripling, ˈtrɪpəl,1,0
+triplicate, ˈtrɪpləkət ˈtrɪp·lɪ·kɪt,0,0
+tripling, ˈtrɪpəl,0,0
 tripod, ˈtraɪpɑːd ˈtrɑɪˌpɑd,0,0
 tripods, ˈtraɪpɑːd ˈtrɑɪˌpɑd,1,0
 tripoli,,0,1
-tripped,,1,0
+tripped,,0,1
 tripper, ˈtrɪpɚ,0,0
-tripping,,1,0
+tripping,,0,1
 tripple,,0,1
 trips, trɪp trɪp trɪp trɪp trɪp trɪp trɪp,1,0
 triptych, ˈtrɪptɪk,0,0
@@ -117,27 +117,27 @@ tristram,,0,1
 trite, traɪt trɑɪt,0,0
 tritium," ˈtrɪt̬iəm ˈtrɪt̬·i·əm, ˈtrɪʃ-",0,0
 triton,,0,1
-triumph, ˈtraɪəmf ˈtrɑɪ·əmf,1,0
+triumph, ˈtraɪəmf ˈtrɑɪ·əmf,0,0
 triumphal, traɪˈʌmfəl,0,0
 triumphant, traɪˈʌmfənt,0,0
 triumphantly, traɪˈʌmfəntli,0,0
-triumphed, ˈtraɪəmf,1,0
+triumphed, ˈtraɪəmf,0,0
 triumphs, ˈtraɪəmf ˈtrɑɪ·əmf,1,0
 triumvirate, traɪˈʌmvɪrət,0,0
 trivia, ˈtrɪviə ˈtrɪv·i·ə,0,0
 trivial, ˈtrɪviəl ˈtrɪviəl ˈtrɪv·i·əl,0,0
 triviality, ˌtrɪviˈælət̬i ˌtrɪviˈælət̬i,0,0
 trivialize, ˈtrɪviəlaɪz ˈtrɪv·i·əˌlɑɪz,0,0
-trivialized, ˈtrɪviəlaɪz,1,0
+trivialized, ˈtrɪviəlaɪz,0,0
 trivializes, ˈtrɪviəlaɪz ˈtrɪv·i·əˌlɑɪz,1,0
-trivializing, ˈtrɪviəlaɪz,1,0
+trivializing, ˈtrɪviəlaɪz,0,0
 troche,,0,1
 trod, trɑːd trɑd,0,0
 trodden, ˈtrɑːdən ˈtrɑd·ən,0,0
 trois,,0,1
 trojan,,0,1
 trojans,,0,1
-troll, troʊl troʊl troʊl troʊl,1,0
+troll, troʊl troʊl troʊl troʊl,0,0
 trolley, ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑl·i,0,0
 trolleys, ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑːli ˈtrɑl·i,1,0
 trolling, troʊlɪŋ troʊlɪŋ troʊlɪŋ,0,0
@@ -147,11 +147,11 @@ trombones, trɑːmˈboʊn trɑmˈboʊn,1,0
 tromp, trɑːmp trɑmp,0,0
 tron,,0,1
 troop, truːp truːp trup trup,0,0
-trooped, truːp truːp,1,0
+trooped, truːp truːp,0,0
 trooper, ˈtruːpɚ ˈtruːpɚ ˈtru·pər,0,0
 troopers, ˈtruːpɚ ˈtruːpɚ ˈtru·pər,1,0
-trooping, truːp truːp,1,0
-troops, trups,1,0
+trooping, truːp truːp,0,0
+troops, trups,0,0
 trophies, ˈtroʊfi ˈtroʊfi ˈtroʊ·fi ˈtroʊ·fi,1,0
 trophy, ˈtroʊfi ˈtroʊfi ˈtroʊ·fi ˈtroʊ·fi,0,0
 tropic, ˈtrɑːpɪk,0,0
@@ -161,22 +161,22 @@ tropopause,,0,1
 trot, trɑːt trɑːt trɑːt trɑt trɑt,0,0
 troth, troʊθ,0,0
 trots,,0,1
-trotted,,1,0
+trotted,,0,1
 trotter, ˈtrɑːt̬ɚ ˈtrɑːt̬ɚ,0,0
-trotting,,1,0
+trotting,,0,1
 troubadour, ˈtruːbədɔːr,0,0
 trouble, ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌbəl ˈtrʌb·əl ˈtrʌb·əl ˈtrʌb·əl ˈtrʌb·əl ˈtrʌb·əl,0,0
-troubled, ˈtrʌbəld ˈtrʌbəld ˈtrʌb·əld ˈtrʌb·əld,1,0
+troubled, ˈtrʌbəld ˈtrʌbəld ˈtrʌb·əld ˈtrʌb·əld,0,0
 troublemaker, ˈtrʌbəlˌmeɪkɚ ˈtrʌb·əlˌmeɪ·kər,0,0
 troublemakers, ˈtrʌbəlˌmeɪkɚ ˈtrʌb·əlˌmeɪ·kər,1,0
 troubles,,0,1
-troubleshooter, ˈtrʌbəlˌʃuːt̬ɚ,1,0
+troubleshooter, ˈtrʌbəlˌʃuːt̬ɚ,0,0
 troublesome, ˈtrʌbəlsəm ˈtrʌb·əl·səm ˈtrʌb·əl·səm,0,0
 troubling, ˈtrʌbəlɪŋ ˈtrʌb·lɪŋ,0,0
-trough, trɑːf trɑːf trɑːf trɔf trɔf,1,0
+trough, trɑːf trɑːf trɑːf trɔf trɔf,0,0
 troughs, trɑːf trɑːf trɑːf trɔf trɔf,1,0
 trounce, traʊns trɑʊns,0,0
-trounced, traʊns,1,0
+trounced, traʊns,0,0
 trouncing, ˈtraʊnsɪŋ,0,0
 troupe, truːp trup,0,0
 troupes, truːp trup,1,0
@@ -191,19 +191,19 @@ troy,,0,1
 truancy, ˈtruːənsi,0,0
 truant, ˈtruːənt ˈtru·ənt,0,0
 truce, truːs trus,0,0
-truck, trʌk trʌk trʌk,1,0
-trucked, trʌk,1,0
-trucker, ˈtrʌkɚ,1,0
+truck, trʌk trʌk trʌk,0,0
+trucked, trʌk,0,0
+trucker, ˈtrʌkɚ,0,0
 truckers, ˈtrʌkɚ,1,0
-trucking, ˈtrʌkɪŋ,1,0
-truckload, ˈtrʌkloʊd ˈtrʌkˌloʊd,1,0
+trucking, ˈtrʌkɪŋ,0,0
+truckload, ˈtrʌkloʊd ˈtrʌkˌloʊd,0,0
 truckloads, ˈtrʌkloʊd ˈtrʌkˌloʊd,1,0
 trucks, trʌk trʌk trʌk trʌk,1,0
 truculent, ˈtrʌkjələnt ˈtrʌk·jə·lənt,0,0
 trudge, trʌdʒ trʌdʒ,0,0
-trudged, trʌdʒ,1,0
-trudging, trʌdʒ,1,0
-true, truː truː truː truː truː tru tru tru tru,1,0
+trudged, trʌdʒ,0,0
+trudging, trʌdʒ,0,0
+true, truː truː truː truː truː tru tru tru tru,0,0
 truelove,,0,1
 trueman,,0,1
 truer, truː truː truː truː truː truː truː truː truː truː tru tru tru tru tru,1,0
@@ -213,14 +213,14 @@ truffles, ˈtrʌfəl ˈtrʌfəl,1,0
 truism, ˈtruːɪzəm ˈtru·ɪz·əm,0,0
 truly, ˈtruːli ˈtruːli ˈtruːli ˈtruːli ˈtru·li ˈtru·li ˈtru·li ˈtru·li ˈtru·li,0,0
 truman,,0,1
-trump, trʌmp trʌmp,1,0
-trumped, trʌmp trʌmp,1,0
+trump, trʌmp trʌmp,0,0
+trumped, trʌmp trʌmp,0,0
 trumpet, ˈtrʌmpət ˈtrʌm·pɪt,0,0
-trumpeted, ˈtrʌmpət ˈtrʌmpət,1,0
+trumpeted, ˈtrʌmpət ˈtrʌmpət,0,0
 trumpeter, ˈtrʌmpət̬ɚ,0,0
-trumpeting, ˈtrʌmpət ˈtrʌmpət,1,0
+trumpeting, ˈtrʌmpət ˈtrʌmpət,0,0
 trumpets, ˈtrʌmpət ˈtrʌm·pɪt,1,0
-trumps,,1,0
+trumps,,0,1
 truncated, trʌŋˈkeɪt̬ɪd ˈtrʌŋ·keɪ·t̬ɪd,0,0
 truncheon, ˈtrʌntʃən,0,0
 truncheons, ˈtrʌntʃən,1,0
@@ -229,21 +229,21 @@ trunk, trʌŋk trʌŋk trʌŋk trʌŋk trʌŋk trʌŋk trʌŋk trʌŋk trʌŋk t
 trunks, trʌŋks,0,0
 truss, trʌs trʌs trʌs,0,0
 trusses, trʌs trʌs trʌs,1,0
-trust, trʌst trʌst trʌst trʌst,1,0
-trusted, ˈtrʌstɪd ˈtrʌs·tɪd,1,0
-trustee, ˌtrʌsˈtiː trʌsˈti,1,0
+trust, trʌst trʌst trʌst trʌst,0,0
+trusted, ˈtrʌstɪd ˈtrʌs·tɪd,0,0
+trustee, ˌtrʌsˈtiː trʌsˈti,0,0
 trustees, ˌtrʌsˈtiː trʌsˈti,1,0
-trusteeship, ˌtrʌsˈtiːʃɪp,1,0
+trusteeship, ˌtrʌsˈtiːʃɪp,0,0
 trusting, ˈtrʌstɪŋ ˈtrʌs·tɪŋ,0,0
 trusts, trʌst trʌst trʌst trʌst trʌst,1,0
-trustworthy, ˈtrʌstˌwɝːði ˈtrʌstˌwɜr·ði,1,0
+trustworthy, ˈtrʌstˌwɝːði ˈtrʌstˌwɜr·ði,0,0
 trusty, ˈtrʌsti ˈtrʌs·ti,0,0
 truth, truːθ truːθ truθ truθ truθ,0,0
 truthful, ˈtruːθfəl ˈtruθ·fəl,0,0
 truthfully, ˈtruːθfəli,0,0
 truthfulness, ˈtruːθfəlnəs,0,0
-truths, truːθ truːθ truːθ truːθ truθ truθ truθ,1,0
-try, traɪ traɪ traɪ traɪ trɑɪ trɑɪ trɑɪ,1,0
+truths, truːθ truːθ truːθ truːθ truːθ truθ truθ truθ,1,0
+try, traɪ traɪ traɪ traɪ trɑɪ trɑɪ trɑɪ,0,0
 trying, ˈtraɪɪŋ ˈtrɑɪ·ɪŋ,0,0
 tryout, ˈtrɑɪˌɑʊt ˈtrɑɪˌɑʊt,0,0
 tryouts, ˈtrɑɪˌɑʊt ˈtrɑɪˌɑʊt,1,0
@@ -257,7 +257,7 @@ tub, tʌb tʌb tʌb tʌb tʌb,0,0
 tuba, ˈtuːbə ˈtu·bə,0,0
 tubal, ˈtuːbəl ˈtuːbəl,0,0
 tubby, ˈtʌbi,0,0
-tube, tuːb tuːb tuːb tuːb tub tub tub tub,1,0
+tube, tuːb tuːb tuːb tuːb tub tub tub tub,0,0
 tuberculosis, tuːˌbɝːkjəˈloʊsɪs tʊˌbɜr·kjəˈloʊ·sɪs,0,0
 tubes, tuːb tuːb tuːb tuːb tuːb tuːb tub tub tub tub,1,0
 tubing, ˈtuːbɪŋ ˈtuːbɪŋ,0,0
@@ -265,15 +265,15 @@ tubman,,0,1
 tubs, ˈbæθtʌb ˈbæθˌtʌb,1,0
 tubular, ˈtuːbjəlɚ,0,0
 tuck, tʌk tʌk tʌk tʌk tʌk tʌk,0,0
-tucked, tʌk tʌk tʌk tʌk,1,0
+tucked, tʌk tʌk tʌk tʌk,0,0
 tucker, ˈtʌkɚ,0,0
-tucking, tʌk tʌk tʌk tʌk,1,0
+tucking, tʌk tʌk tʌk tʌk,0,0
 tucks, tʌk tʌk tʌk tʌk tʌk tʌk tʌk,1,0
 tucson,,0,1
 tucuman,,0,1
 tudor, ˌmɑːkˈtuːdɚ,1,0
-tue, ˌtiːjuːˈiː,1,0
-tuesday," ˈtuːzdeɪ ˈtuz·deɪ, -di",1,0
+tue, ˌtiːjuːˈiː,0,0
+tuesday," ˈtuːzdeɪ ˈtuz·deɪ, -di",0,0
 tuesdays," ˈtuːzdeɪ ˈtuz·deɪ, -di",1,0
 tuff, tʌf,0,0
 tuft, tʌft tʌft,0,0
@@ -282,21 +282,21 @@ tufts, tʌft tʌft,1,0
 tug, tʌɡ tʌɡ,0,0
 tugboat, ˈtʌɡˌboʊt,0,0
 tugboats, ˈtʌɡˌboʊt,1,0
-tugged,,1,0
-tugging,,1,0
+tugged,,0,1
+tugging,,0,1
 tugs, tʌɡ tʌɡ,1,0
-tuition, tuːˈɪʃən tuːˈɪʃən tʊˈɪʃ·ən,1,0
+tuition, tuːˈɪʃən tuːˈɪʃən tʊˈɪʃ·ən,0,0
 tuitions,,0,1
 tula,,0,1
 tulip, ˈtuːlɪp ˈtu·lɪp,0,0
 tulips, ˈtuːlɪp ˈtu·lɪp,1,0
 tulsa,,0,1
-tumble, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl ˈtʌm·bəl,1,0
-tumbled, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl,1,0
+tumble, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl ˈtʌm·bəl,0,0
+tumbled, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl,0,0
 tumbler, -blɚ,0,0
 tumblers, -blɚ,1,0
 tumbles, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl ˈtʌm·bəl,1,0
-tumbling, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl,1,0
+tumbling, ˈtʌmbəl ˈtʌmbəl ˈtʌmbəl,0,0
 tumescent, tuːˈmesənt,0,0
 tummies, ˈtʌmi ˈtʌm·i,1,0
 tummy, ˈtʌmi ˈtʌm·i,0,0
@@ -308,17 +308,17 @@ tumultuous, tuːˈmʌltʃuəs,0,0
 tuna, ˈtuːnə ˈtuːnə ˈtu·nə,0,0
 tunas, ˈtuːnə ˈtuːnə ˈtu·nə,1,0
 tundra, ˈtʌndrə ˈtʌn·drə,0,0
-tune, tuːn tuːn tun tun,1,0
+tune, tuːn tuːn tun tun,0,0
 tuned, tuːnd,0,0
 tuner, ˈtuːnɚ ˈtuːnɚ ˈtuːnɚ ˈtu·nər,0,0
 tunes, tuːn tuːn tuːn tuːn tuːn tuːn tun tun,1,0
 tung,,0,1
 tungsten, ˈtʌŋstən,0,0
-tunic, ˈtu·nɪk,1,0
+tunic, ˈtu·nɪk,0,0
 tuning, ˈtuːnɪŋ,0,0
 tunis,,0,1
-tunisia, tuːˈniːʒə,1,0
-tunisian, tuːˈniːʒən,1,0
+tunisia, tuːˈniːʒə,0,0
+tunisian, tuːˈniːʒən,0,0
 tunnel, ˈtʌnəl ˈtʌn·əl,0,0
 tunneling, ˈtʌnəl ˈtʌnəl ˈtʌn·əl,1,0
 tunnels, ˈtʌnəl ˈtʌnəl ˈtʌn·əl,1,0
@@ -327,43 +327,43 @@ tunny,,0,1
 tupelo, ˈtuːpəloʊ,0,0
 turban, ˈtɝːbən ˈtɝːbən ˈtɜr·bən,0,0
 turbans, ˈtɝːbən ˈtɝːbən ˈtɜr·bən,1,0
-turbine," ˈtɝːbɪn ˈtɜr·bən, -bɑɪn",1,0
+turbine," ˈtɝːbɪn ˈtɜr·bən, -bɑɪn",0,0
 turbines," ˈtɝːbɪn ˈtɜr·bən, -bɑɪn",1,0
-turbo, ˈtɝːboʊ ˈtɝːboʊ,1,0
-turbocharged, ˈtɝːboʊˌtʃɑːrdʒd ˈtɝːboʊˌtʃɑːrdʒd ˈtɝːboʊˌtʃɑːrdʒd,1,0
+turbo, ˈtɝːboʊ ˈtɝːboʊ,0,0
+turbocharged, ˈtɝːboʊˌtʃɑːrdʒd ˈtɝːboʊˌtʃɑːrdʒd ˈtɝːboʊˌtʃɑːrdʒd,0,0
 turbojet, ˈtɝːboʊdʒet,0,0
 turboprop, ˈtɝːboʊprɑːp,0,0
 turbos, ˈtɝːboʊ ˈtɝːboʊ,1,0
 turbot, ˈtɝːbət ˈtɝːbət,0,0
 turbulence, ˈtɝːbjələns ˈtɝːbjələns ˈtɜr·bjə·ləns ˈtɜr·bjə·ləns,0,0
-turbulent, ˈtɝːbjələnt ˈtɝːbjələnt ˈtɜr·bjə·lənt ˈtɜr·bjə·lənt,1,0
+turbulent, ˈtɝːbjələnt ˈtɝːbjələnt ˈtɜr·bjə·lənt ˈtɜr·bjə·lənt,0,0
 turco,,0,1
-turf, tɝːf tɝːf tɝːf tɜrf tɜrf tɜrf,1,0
+turf, tɝːf tɝːf tɝːf tɜrf tɜrf tɜrf,0,0
 turgid, ˈtɝːdʒɪd ˈtɝːdʒɪd ˈtɝːdʒɪd ˈtɜr·dʒɪd ˈtɜr·dʒɪd,0,0
-turk, tɝːk,1,0
+turk, tɝːk,0,0
 turkey, ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɜr·ki,0,0
 turkeys, ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɝːki ˈtɜr·ki,1,0
 turkic,,0,1
-turkish, ˈtɝːkɪʃ,1,0
+turkish, ˈtɝːkɪʃ,0,0
 turks, tɝːk,1,0
 turmoil, ˈtɝːmɔɪl ˈtɜr·mɔɪl,0,0
-turn, tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn,1,0
+turn, tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn,0,0
 turnabout, ˈtɝːnəbaʊt ˈtɜrn·əˌbɑʊt,0,0
-turnaround, ˈtɝːnəraʊnd ˈtɝːnəraʊnd ˈtɝːnəraʊnd ˈtɜrn·əˌrɑʊnd,1,0
-turnarounds, ˈtɝːnəraʊnd ˈtɝːnəraʊnd ˈtɝːnəraʊnd ˈtɜrn·əˌrɑʊnd,1,0
+turnaround, ˈtɝːnɚaʊnd ˈtɝːnɚaʊnd ˈtɝːnɚaʊnd ˈtɜrn·əˌrɑʊnd,0,0
+turnarounds, ˈtɝːnɚaʊnd ˈtɝːnɚaʊnd ˈtɝːnɚaʊnd ˈtɜrn·əˌrɑʊnd,1,0
 turncoat, ˈtɝːnkoʊt ˈtɜrnˌkoʊt,0,0
-turndown, ˈtɜ˞ːndaʊn ˈtɜ˞ːndaʊn,1,0
-turned, tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn,1,0
+turndown, ˈtɜ˞ːndaʊn ˈtɜ˞ːndaʊn,0,0
+turned, tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn,0,0
 turner, ˈpeɪdʒˌtɝːnɚ,1,0
 turning, ˈtɝːnɪŋ,0,0
 turnip, ˈtɝːnɪp ˈtɝːnɪp ˈtɜr·nɪp,0,0
 turnips, ˈtɝːnɪp ˈtɝːnɪp ˈtɜr·nɪp,1,0
-turnkey, ˈtɝːnkiː,1,0
+turnkey, ˈtɝːnkiː,0,0
 turnoff, ˈtɜrnˌɔf ˈtɜrnˌɔf,0,0
-turnout, ˈtɝːnaʊt ˈtɜrnˌɑʊt ˈtɜrnˌɑʊt,1,0
+turnout, ˈtɝːnaʊt ˈtɜrnˌɑʊt ˈtɜrnˌɑʊt,0,0
 turnouts, ˈtɝːnaʊt ˈtɜrnˌɑʊt ˈtɜrnˌɑʊt,1,0
-turnover, ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɜrnˌoʊ·vər ˈtɜrnˌoʊ·vər,1,0
-turnovers, ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɜrnˌoʊ·vər ˈtɜrnˌoʊ·vər,1,0
+turnover, ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɜrnˌoʊ·vər ˈtɜrnˌoʊ·vər,0,0
+turnovers, ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɝːnˌoʊvɚ ˈtɜrnˌoʊ·vər ˈtɜrnˌoʊ·vər,1,0
 turnpike, ˈtɝːnpaɪk ˈtɜrnˌpɑɪk,0,0
 turns, tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɝːn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn tɜrn,1,0
 turnstile, ˈtɝːnstaɪl ˈtɜrnˌstɑɪl,0,0
@@ -385,37 +385,37 @@ tush, tʌʃ,0,0
 tushes, tʌʃ,1,0
 tusk, tʌsk tʌsk,0,0
 tusks, tʌsk tʌsk,1,0
-tussle, ˈtʌsəl ˈtʌsəl ˈtʌs·əl,1,0
-tussled, ˈtʌsəl ˈtʌsəl,1,0
+tussle, ˈtʌsəl ˈtʌsəl ˈtʌs·əl,0,0
+tussled, ˈtʌsəl ˈtʌsəl,0,0
 tussles, ˈtʌsəl ˈtʌsəl ˈtʌs·əl,1,0
 tut, tʌt,0,0
 tutelage, ˈtuːt̬əlɪdʒ,0,0
 tutor, ˈtuːt̬ɚ ˈtuːt̬ɚ ˈtu·t̬ər,0,0
-tutored, ˈtuːt̬ɚ,1,0
-tutorial, tuːˈtɔːriəl,1,0
+tutored, ˈtuːt̬ɚ,0,0
+tutorial, tuːˈtɔːriəl,0,0
 tutorials, tuːˈtɔːriəl,1,0
-tutoring, ˈtuːt̬ɚ,1,0
+tutoring, ˈtuːt̬ɚ,0,0
 tutors, ˈtuːt̬ɚ ˈtuːt̬ɚ ˈtu·t̬ər,1,0
 tutti, ˌtuːˈti ˌtuːˈti,0,0
 tutu, ˈtuːtuː,0,0
-tux, tʌkˈsiːdoʊ tʌkˈsi·doʊ,1,0
-tuxedo, tʌkˈsiːdoʊ tʌkˈsi·doʊ,0,0
-tuxedos, tʌkˈsiːdoʊ tʌkˈsi·doʊ,1,0
-tv, ˌtiːˈviː,1,0
+tux, tʌkˈsiːdoʊ tʌkˈsiːdoʊ tʌkˈsi·doʊ,1,0
+tuxedo, tʌkˈsiːdoʊ tʌkˈsiːdoʊ tʌkˈsi·doʊ,0,0
+tuxedos, tʌkˈsiːdoʊ tʌkˈsiːdoʊ tʌkˈsi·doʊ,1,0
+tv, ˌtiːˈviː,0,0
 twaddle, ˈtwɑːdəl,0,0
 twain, tweɪn,0,0
 twang, twæŋ twæŋ twæŋ,0,0
 twangy, ˈtwæŋi ˈtwæŋi,0,0
 twas," twɑːz twʌz, twɑz, twəz",1,0
-tweak, twiːk twiːk twik twik,1,0
-tweaked, twiːk twiːk,1,0
-tweaking, twiːk twiːk,1,0
+tweak, twiːk twiːk twik twik,0,0
+tweaked, twiːk twiːk,0,0
+tweaking, twiːk twiːk,0,0
 tweaks, twiːk twiːk twik twik,1,0
 tweed, twiːd twid,0,0
 tweedle,,0,1
 tweedy, ˈtwiːdi ˈtwiːdi,0,0
 tween, twiːn,0,0
-tweet, twiːt twiːt,1,0
+tweet, twiːt twiːt,0,0
 tweezer, ˈtwiːzɚz ˈtwi·zərz,1,0
 tweezers, ˈtwiːzɚz ˈtwi·zərz,0,0
 twelfth, twelfθ twelfθ twelfθ,0,0
@@ -425,25 +425,25 @@ twentieth, ˈtwent̬iəθ ˈtwen·ti·ɪθ ˈtwen·ti·ɪθ,0,0
 twenty, ˈtwent̬i ˈtwen·ti,0,0
 twice, twaɪs twɑɪs,0,0
 twiddle, ˈtwɪdəl ˈtwɪd·əl,0,0
-twiddling, ˈtwɪdəl,1,0
+twiddling, ˈtwɪdəl,0,0
 twig, twɪɡ twɪɡ,0,0
-twigged,,1,0
+twigged,,0,1
 twiggy,,0,1
 twigs, twɪɡ twɪɡ,1,0
 twilight, ˈtwaɪlaɪt ˈtwɑɪˌlɑɪt ˈtwɑɪˌlɑɪt,0,0
 twill, twɪl twɪl,0,0
 twin, twɪn twɪn twɪn,0,0
 twine, twaɪn twɑɪn,0,0
-twined, twaɪn,1,0
+twined, twaɪn,0,0
 twinge, twɪndʒ twɪndʒ,0,0
 twinkle, ˈtwɪŋkəl ˈtwɪŋ·kəl ˈtwɪŋ·kəl,0,0
-twinkled, ˈtwɪŋkəl,1,0
+twinkled, ˈtwɪŋkəl,0,0
 twinkles, ˈtwɪŋkəl ˈtwɪŋ·kəl ˈtwɪŋ·kəl,1,0
 twinkling, ˈtwɪŋkəlɪŋ ˈtwɪŋ·klɪŋ,0,0
 twinkly, ˈtwɪŋkli ˈtwɪŋkli,0,0
 twins, twɪn twɪn twɪn,1,0
 twirl, twɝːl twɝːl twɜrl,0,0
-twirled, twɝːl twɝːl,1,0
+twirled, twɝːl twɝːl,0,0
 twirler, ˈtwɝːlɚ,0,0
 twirling, ˈtwɝːlɪŋ,0,0
 twirls, twɝːl twɝːl twɜrl,1,0
@@ -451,20 +451,20 @@ twist, twɪst twɪst twɪst twɪst twɪst twɪst,0,0
 twisted, ˈtwɪstɪd ˈtwɪstɪd ˈtwɪstɪd ˈtwɪs·tɪd ˈtwɪs·tɪd,0,0
 twister, ˈtwɪstɚ ˈtwɪs·tər,0,0
 twisters, tɔːrˈneɪdoʊ tɔrˈneɪ·doʊ,1,0
-twisting, ˈtwɪs·tɪŋ,1,0
-twists,,1,0
+twisting, ˈtwɪs·tɪŋ,0,0
+twists,,0,1
 twisty, ˈtwɪsti ˈtwɪsti ˈtwɪsti,0,0
 twitch, twɪtʃ twɪtʃ twɪtʃ,0,0
-twitched, twɪtʃ twɪtʃ twɪtʃ twɪtʃ,1,0
+twitched, twɪtʃ twɪtʃ twɪtʃ twɪtʃ,0,0
 twitches, twɪtʃ twɪtʃ twɪtʃ twɪtʃ twɪtʃ,1,0
 twitching, ˈtwɪtʃɪŋ ˈtwɪtʃɪŋ,0,0
-twitter, ˈtwɪt̬ɚ ˈtwɪt̬ɚ ˈtwɪt̬ɚ,1,0
+twitter, ˈtwɪt̬ɚ ˈtwɪt̬ɚ ˈtwɪt̬ɚ,0,0
 twitty,,0,1
-two, tuː tu tu,1,0
+two, tuː tu tu,0,0
 twofold, ˈtuːfoʊld ˈtuːfoʊld,0,0
 twos, ˌwʌnˈtuː,1,0
 twosome, ˈtuːsəm ˈtuːsəm ˈtu·səm,0,0
-tycoon, taɪˈkuːn tɑɪˈkun,1,0
+tycoon, taɪˈkuːn tɑɪˈkun,0,0
 tycoons, taɪˈkuːn tɑɪˈkun,1,0
 tye,,0,1
 tying, ˈtaɪɪŋ ˈtɑɪ·ɪŋ,0,0
@@ -472,14 +472,14 @@ tyke, taɪk taɪk taɪk tɑɪk,0,0
 tyler,,0,1
 tympanic, tɪmˈpænɪk,0,0
 tyne,,0,1
-type, taɪp taɪp taɪp tɑɪp tɑɪp,1,0
+type, taɪp taɪp taɪp tɑɪp tɑɪp,0,0
 typecast, ˈtaɪpkæst,0,0
 typecasting, ˈtaɪpkæst,1,0
-typed, taɪp,1,0
-typeface, ˈtaɪpfeɪs ˈtɑɪpˌfeɪs,1,0
+typed, taɪp,0,0
+typeface, ˈtaɪpfeɪs ˈtɑɪpˌfeɪs,0,0
 types, taɪp taɪp taɪp taɪp tɑɪp tɑɪp,1,0
-typeset,,1,0
-typesetting,,1,0
-typewriter, ˈtaɪpˌraɪt̬ɚ ˈtɑɪpˌrɑɪ·t̬ər,1,0
+typeset,,0,1
+typesetting,,0,1
+typewriter, ˈtaɪpˌraɪt̬ɚ ˈtɑɪpˌrɑɪ·t̬ər,0,0
 typewriters, ˈtaɪpˌraɪt̬ɚ ˈtɑɪpˌrɑɪ·t̬ər,1,0
 typewriting,,0,1

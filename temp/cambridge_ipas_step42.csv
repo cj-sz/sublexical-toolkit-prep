@@ -1,10 +1,10 @@
 Word,Pronunciation,Root Word Returned,Missing
-headline, ˈhedlaɪn ˈhed·lɑɪn,1,0
-headlined, ˈhedlaɪn ˈhedlaɪn,1,0
+headline, ˈhedlaɪn ˈhed·lɑɪn,0,0
+headlined, ˈhedlaɪn ˈhedlaɪn,0,0
 headliner, ˈhedˌlaɪnɚ,0,0
 headliners, ˈhedˌlaɪnɚ,1,0
 headlines, ˈhedlaɪn ˈhed·lɑɪn,1,0
-headlining, ˈhedlaɪn ˈhedlaɪn,1,0
+headlining, ˈhedlaɪn ˈhedlaɪn,0,0
 headlong, ˈhedlɑːŋ ˈhedlɑːŋ ˈhedˈlɔŋ ˈhedˈlɔŋ,0,0
 headman, ˈhedmæn,0,0
 headmaster," ˈhedˌmæstɚ ˈhedˌmæs·tər, ˌhedˈmæs-",0,0
@@ -12,13 +12,13 @@ headmistress, ˈhedˌmɪstrəs,0,0
 headphone, ˈhedfoʊn,0,0
 headphones, ˈhedfoʊnz ˈhedˌfoʊnz,0,0
 headquarter, ˈhedˌkwɔːrt̬ɚ,0,0
-headquartered,,1,0
-headquarters, ˈhedˌkwɔːrt̬ɚz ˈhedˌkwɔr·t̬ərz,1,0
+headquartered,,0,1
+headquarters, ˈhedˌkwɔːrt̬ɚz ˈhedˌkwɔr·t̬ərz,0,0
 headrest, ˈhedrest,0,0
 headrests, ˈhedrest,1,0
 headroom," ˈhedruːm ˈhedruːm ˈhedˌrum, -ˌrʊm",0,0
-heads, hedz,1,0
-headset, ˈhedset ˈhedˌset,1,0
+heads, hedz,0,0
+headset, ˈhedset ˈhedˌset,0,0
 headsets, ˈhedset ˈhedˌset,1,0
 headsman,,0,1
 headstone, ˈhedstoʊn ˈhedˌstoʊn,0,0
@@ -31,17 +31,17 @@ headwind, ˈhedwɪnd ˈhedˌwɪnd,0,0
 headwinds, ˈhedwɪnd ˈhedˌwɪnd,1,0
 heady, ˈhedi ˈhed·i,0,0
 heal, hiːl hiːl hil,0,0
-healed, hiːl hiːl,1,0
+healed, hiːl hiːl,0,0
 healer, -lɚ ˈhi·lər,0,0
 healers, -lɚ ˈhi·lər,1,0
 healing, ˈhiːlɪŋ ˈhiːlɪŋ,0,0
 heals, hiːl hiːl hil,1,0
-health, helθ helθ helθ helθ helθ,1,0
+health, helθ helθ helθ helθ helθ,0,0
 healthcare, -ker,0,0
 healthful, ˈhelθfəl ˈhelθ·fəl,0,0
 healthier, ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhel·θi ˈhel·θi ˈhel·θi ˈhel·θi,1,0
 healthiest, ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhel·θi ˈhel·θi ˈhel·θi ˈhel·θi,1,0
-healthy, ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhel·θi ˈhel·θi ˈhel·θi ˈhel·θi,1,0
+healthy, ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhelθi ˈhel·θi ˈhel·θi ˈhel·θi ˈhel·θi,0,0
 heap, hiːp hip,0,0
 heaped, hiːpt,0,0
 heaping, ˈhiːpɪŋ ˈhiːpɪŋ ˈhi·pɪŋ,0,0
@@ -50,7 +50,7 @@ hear, hɪr hɪr hɪr hɪr hɪr hɪr,0,0
 heard, hɪr hɪr hɪr hɪr hɪr hɪr,1,0
 hearer, ˈhɪrɚ,0,0
 hearers, ˈhɪrɚ,1,0
-hearing, ˈhɪrɪŋ ˈhɪrɪŋ ˈhɪər·ɪŋ ˈhɪər·ɪŋ,1,0
+hearing, ˈhɪrɪŋ ˈhɪrɪŋ ˈhɪər·ɪŋ ˈhɪər·ɪŋ,0,0
 hearings, ˈhɪrɪŋ ˈhɪrɪŋ ˈhɪər·ɪŋ ˈhɪər·ɪŋ,1,0
 hearkens, hɑːrk hɑrk,1,0
 hears, hɪr hɪr hɪr hɪr hɪr hɪr,1,0
@@ -76,14 +76,14 @@ hearths, hɑːrθ hɑːrθ hɑrθ,1,0
 heartier, ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑrt̬·i ˈhɑrt̬·i ˈhɑrt̬·i,1,0
 heartiest, ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑrt̬·i ˈhɑrt̬·i ˈhɑrt̬·i,1,0
 heartily, ˈhɑːrt̬əli ˈhɑːrt̬əli ˈhɑr·təl·i,0,0
-heartland," ˈhɑːrtlænd ˈhɑːrtlænd ˈhɑrtˌlænd, -lənd",1,0
+heartland," ˈhɑːrtlænd ˈhɑːrtlænd ˈhɑrtˌlænd, -lənd",0,0
 heartless, ˈhɑːrtləs ˈhɑrt·ləs,0,0
-hearts, hɑrts,1,0
+hearts, hɑrts,0,0
 heartthrob, ˈhɑːrtθrɑːb,0,0
 heartthrobs, ˈhɑːrtθrɑːb,1,0
 heartwarming, ˈhɑːrtˌwɔːrmɪŋ ˈhɑrtˌwɔr·mɪŋ,0,0
 hearty, ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑːrt̬i ˈhɑrt̬·i ˈhɑrt̬·i ˈhɑrt̬·i,0,0
-heat, hiːt hiːt hiːt hiːt,1,0
+heat, hiːt hiːt hiːt hiːt,0,0
 heated, ˈhiːt̬ɪd ˈhiːt̬ɪd ˈhi·t̬ɪd,0,0
 heatedly, ˈhiːt̬ɪdli,0,0
 heater, ˈhiːt̬ɚ ˈhiːt̬ɚ ˈhi·t̬ər,0,0
@@ -95,7 +95,7 @@ heathers, ˈheðɚ,1,0
 heating, ˈhiːt̬ɪŋ ˈhit ˌweɪv,0,0
 heats, hiːt hiːt hiːt hiːt hiːt,1,0
 heave, hiːv hiːv hiːv hiːv hiv hiv hiv,0,0
-heaved, hiːv hiːv hiːv hiːv,1,0
+heaved, hiːv hiːv hiːv hiːv,0,0
 heaven, ˈhevən ˈhevən ˈhev·ən ˈhev·ən,0,0
 heavenly, ˈhevənli ˈhevənli ˈhev·ən·li,0,0
 heavens, ˈhev·ənz,0,1
@@ -103,47 +103,47 @@ heaves, hiːv hiːv hiːv hiːv hiv hiv hiv,1,0
 heavier, ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhev·i ˈhev·i ˈhev·i,1,0
 heavies, ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhev·i ˈhev·i ˈhev·i,1,0
 heaviest, ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhev·i ˈhev·i ˈhev·i,1,0
-heavily, ˈhevəli ˈhevəli ˈhevəli ˈhevəli ˈhev·ə·li,1,0
+heavily, ˈhevəli ˈhevəli ˈhevəli ˈhevəli ˈhev·ə·li,0,0
 heaving, ˈhiːvɪŋ ˈhiːvɪŋ,0,0
-heavy, ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhev·i ˈhev·i ˈhev·i,1,0
+heavy, ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhevi ˈhev·i ˈhev·i ˈhev·i,0,0
 heavyset, ˌheviˈset ˈhev·iˌset,0,0
-heavyweight, ˈheviweɪt ˈheviweɪt ˈhev·iˌweɪt ˈhev·iˌweɪt,1,0
+heavyweight, ˈheviweɪt ˈheviweɪt ˈhev·iˌweɪt ˈhev·iˌweɪt,0,0
 heavyweights, ˈheviweɪt ˈheviweɪt ˈhev·iˌweɪt ˈhev·iˌweɪt,1,0
 hebe,,0,1
-hebrew, ˈhiːbruː ˈhiːbruː,1,0
+hebrew, ˈhiːbruː ˈhiːbruː,0,0
 hebrews, ˈhiːbruː ˈhiːbruː,1,0
 hecht,,0,1
 heck, hek hek,0,0
 heckle, ˈhekəl ˈhek·əl,0,0
-heckled, ˈhekəl,1,0
+heckled, ˈhekəl,0,0
 heckler, ˈheklɚ,0,0
 hecklers, ˈheklɚ,1,0
-heckling, ˈhekəl,1,0
-hectare, ˈhekter,1,0
+heckling, ˈhekəl,0,0
+hectare, ˈhekter,0,0
 hectares, ˈhekter,1,0
-hectic, ˈhektɪk ˈhek·tɪk,1,0
+hectic, ˈhektɪk ˈhek·tɪk,0,0
 hector, ˈhektɚ,0,0
-hedge, hedʒ hedʒ hedʒ hedʒ hedʒ,1,0
-hedged, hedʒ hedʒ,1,0
+hedge, hedʒ hedʒ hedʒ hedʒ hedʒ,0,0
+hedged, hedʒ hedʒ,0,0
 hedgehog, ˈhedʒhɑːɡ,0,0
 hedgehogs, ˈhedʒhɑːɡ,1,0
 hedger,,0,1
 hedges, hedʒ hedʒ hedʒ hedʒ hedʒ,1,0
-hedging, ˈhedʒɪŋ ˈhedʒɪŋ ˈhedʒɪŋ ˈhedʒɪŋ,1,0
+hedging, ˈhedʒɪŋ ˈhedʒɪŋ ˈhedʒɪŋ ˈhedʒɪŋ,0,0
 hedonism, ˈhidənɪzəm,0,0
 hedonistic, ˌhiːdənˈɪstɪk,0,0
 hee, ˈhiːhɑː,1,0
 heed, hiːd hid,0,0
-heeded, hiːd,1,0
-heeding, hiːd,1,0
+heeded, hiːd,0,0
+heeding, hiːd,0,0
 heel, hiːl hiːl hiːl hiːl hiːl hiːl hil hil hil hil,0,0
-heeled, hiːl hiːl,1,0
-heeling, hiːl hiːl,1,0
+heeled, hiːl hiːl,0,0
+heeling, hiːl hiːl,0,0
 heels, hiːl hiːl hiːl hiːl hiːl hiːl hil hil hil hil,1,0
 heer,,0,1
 heft, heft heft,0,0
 heftier, ˈhefti ˈhef·ti,1,0
-hefty, ˈhefti ˈhef·ti,1,0
+hefty, ˈhefti ˈhef·ti,0,0
 hegemonic, ˌhedʒɪˈmɑːnɪk,0,0
 hegemony, hɪˈdʒeməni,0,0
 heh,,0,1
@@ -151,16 +151,16 @@ heifer, ˈhefɚ ˈhef·ər,0,0
 heifers, ˈhefɚ ˈhef·ər,1,0
 height, haɪt haɪt hɑɪt hɑɪt,0,0
 heighten, ˈhaɪt̬ən ˈhɑɪt·ən,0,0
-heightened, ˈhaɪt̬ən,1,0
-heightening, ˈhaɪt̬ən,1,0
+heightened, ˈhaɪt̬ən,0,0
+heightening, ˈhaɪt̬ən,0,0
 heightens, ˈhaɪt̬ən ˈhɑɪt·ən,1,0
-heights, hɑɪts,1,0
+heights, hɑɪts,0,0
 heil,,0,1
 heinous, ˈheɪnəs ˈheɪ·nəs,0,0
-heir, er er er eər,1,0
+heir, er er er eər,0,0
 heiress, ˈeres,0,0
 heiresses, er er er eər,1,0
-heirloom, ˈerluːm ˈerluːm ˈeər·lum,1,0
+heirloom, ˈerluːm ˈerluːm ˈeər·lum,0,0
 heirlooms, ˈerluːm ˈerluːm ˈeər·lum,1,0
 heirs, er er er eər,1,0
 heist, haɪst hɑɪst,0,0
@@ -168,17 +168,17 @@ heister,,0,1
 held, held held,0,0
 helder,,0,1
 helen,,0,1
-helena, ˈhelənə,1,0
+helena, ˈhelənə,0,0
 helical, ˈhiːlɪkəl,0,0
-helicopter," ˈheləˌkɑːptɚ ˈhel·ɪˌkɑp·tər, ˈhi·lə-",1,0
+helicopter," ˈheləˌkɑːptɚ ˈhel·ɪˌkɑp·tər, ˈhi·lə-",0,0
 helicopters," ˈheləˌkɑːptɚ ˈhel·ɪˌkɑp·tər, ˈhi·lə-",1,0
 helios,,0,1
 heliotrope, ˈhiːliətroʊp ˈhiːliətroʊp,0,0
 helium, ˈhiːliəm ˈhi·li·əm,0,0
 helix, ˈhiːlɪks ˈhiːlɪks ˈhi·lɪks,0,0
 hell, hel hel hel hel,0,0
-hellenic, həˈlenɪk,1,0
-hellenistic, ˌheləˈnɪstɪk,1,0
+hellenic, həˈlenɪk,0,0
+hellenistic, ˌheləˈnɪstɪk,0,0
 heller,,0,1
 hellfire, ˈhelfaɪr,0,0
 helling,,0,1
@@ -186,16 +186,16 @@ hellish, ˈhelɪʃ ˈhel·ɪʃ,0,0
 hellman,,0,1
 hello," heˈloʊ heˈloʊ heˈloʊ heˈloʊ heˈloʊ heˈloʊ, hə- heˈloʊ, hə- heˈloʊ, hə-",0,0
 helluva, ˈheləvə,0,0
-helm, helm helm,1,0
+helm, helm helm,0,0
 helmet, ˈhelmət ˈhel·mɪt,0,0
 helmeted, ˈhelmət̬ɪd,0,0
 helmets, ˈhelmət ˈhel·mɪt,1,0
 helminth,,0,1
 helms, helm helm helm helm,1,0
 helmsman, ˈhelmzmən,0,0
-help, help help help help help help help help,1,0
-helped, help help help help help help,1,0
-helper, ˈhelpɚ ˈhel·pər,1,0
+help, help help help help help help help help,0,0
+helped, help help help help help help,0,0
+helper, ˈhelpɚ ˈhel·pər,0,0
 helpers, ˈhelpɚ ˈhel·pər,1,0
 helpful, ˈhelpfəl ˈhelp·fəl,0,0
 helpfully, ˈhelpfəli,0,0
@@ -205,7 +205,7 @@ helpless, ˈhelpləs ˈhel·pləs,0,0
 helplessly, ˈhelpləsli,0,0
 helplessness, ˈhelpləsnəs,0,0
 helps, help help help help help help help help help help help help,1,0
-helsinki, helˈsɪŋki,1,0
+helsinki, helˈsɪŋki,0,0
 hem, hem hem,0,0
 heman,,0,1
 hematite, ˈhiːmətaɪt,0,0
@@ -216,13 +216,13 @@ hemisphere, ˈheməsfɪr ˈheməsfɪr ˈheməsfɪr ˈhem·əˌsfɪər ˈhem·ə�
 hemline, ˈhemlaɪn ˈhemˌlɑɪn,0,0
 hemlines, ˈhemlaɪn ˈhemˌlɑɪn,1,0
 hemlock, ˈhemlɑːk ˈhemlɑːk ˈhemlɑːk ˈhem·lɑk ˈhem·lɑk,0,0
-hemmed,,1,0
-hemming,,1,0
+hemmed,,0,1
+hemming,,0,1
 hemodynamic, ˌhiːmoʊdaɪˈnæmɪk,0,0
 hemoglobin, ˌhiːməˈɡloʊbɪn ˈhi·məˌɡloʊ·bən,0,0
 hemophilia, ˌhiːməˈfɪliə ˌhi·məˈfɪl·i·ə,0,0
 hemophiliacs, ˌhiːməˈfɪliæk ˌhi·məˈfɪl·iˌæk,1,0
-hemorrhage, ˈhemɚɪdʒ ˈhem·ər·ɪdʒ,1,0
+hemorrhage, ˈhemɚɪdʒ ˈhem·ər·ɪdʒ,0,0
 hemorrhaged, ˈhemɚɪdʒ ˈhem·ər·ɪdʒ,1,0
 hemorrhagic, heməˈrædʒɪk,0,0
 hemorrhaging, ˈhemɚɪdʒ ˈhem·ər·ɪdʒ,1,0
@@ -249,10 +249,10 @@ hepatic, hepˈæt̬ɪk,0,0
 hepatitis, ˌhepəˈtaɪt̬əs ˌhep·əˈtɑɪ·t̬əs,0,0
 hepburn,,0,1
 her," strong hɝː strong hɝː hɜr, hər hɜr, hər",0,0
-hera, ˈhɪrə,1,0
+hera, ˈhɪrə,0,0
 herald, ˈherəld ˈher·əld,0,0
-heralded, ˈherəld,1,0
-heralding, ˈherəld,1,0
+heralded, ˈherəld,0,0
+heralding, ˈherəld,0,0
 heraldry, ˈherəldri,0,0
 heralds, ˈherəld ˈher·əld,1,0
 herb," ɝːb ɜrb, hɜrb",0,0
@@ -266,13 +266,13 @@ herbicides, ˈhɝːbɪsaɪd,1,0
 herbivore, ˈhɝːbəvɔːr,0,0
 herbivorous, hɝːˈbɪvɚəs,0,0
 herbs," ɝːb ɜrb, hɜrb",1,0
-herculean," ˌhɝːkjuˈliːən ˌhɜr·kjəˈli·ən, hərˈkju·li·ən",1,0
+herculean," ˌhɝːkjuˈliːən ˌhɜr·kjəˈli·ən, hərˈkju·li·ən",0,0
 hercules,,0,1
 herd, hɝːd hɝːd hɜrd,0,0
-herded, hɝːd hɝːd,1,0
+herded, hɝːd hɝːd,0,0
 herder, ˈhɝːdɚ,0,0
 herders, ˈhɝːdɚ,1,0
-herding, hɝːd hɝːd,1,0
+herding, hɝːd hɝːd,0,0
 herds, hɝːd hɝːd hɜrd,1,0
 here, hɪr hɪr hɪr hɪr hɪr hɪər hɪər,0,0
 hereabout, ˌhɪrəˈbaʊt,0,0
@@ -281,7 +281,7 @@ hereafter, ˌhɪrˈæftɚ hɪərˈæf·tər,0,0
 hereby," ˌhɪrˈbaɪ hɪərˈbɑɪ, ˈhɪər·bɑɪ",0,0
 hereditary, həˈredəteri həˈredəteri həˈred·ɪˌter·i,0,0
 heredity," həˈredəti həˈred·ɪ·t̬i, -ti",0,0
-hereford, ˈhɝːfɚd,1,0
+hereford, ˈhɝːfɚd,0,0
 herein, ˌhɪrˈrɪn hɪərˈɪn,0,0
 heresy, ˈherəsi ˈherəsi ˈher·ə·si,0,0
 heretic, ˈherətɪk ˈherətɪk ˈher·əˌtɪk,0,0
@@ -289,14 +289,14 @@ heretical, həˈret̬ɪkəl həˈret̬ɪkəl,0,0
 heretics, ˈherətɪk ˈherətɪk ˈher·əˌtɪk,1,0
 heretofore, ˌhɪrtuːˈfɔːr,0,0
 herewith," ˌhɪrˈwɪð hɪərˈwɪð, -ˈwɪθ",0,0
-heritage, ˈherɪt̬ɪdʒ ˈherɪt̬ɪdʒ ˈher·ə·t̬ɪdʒ,1,0
+heritage, ˈherɪt̬ɪdʒ ˈherɪt̬ɪdʒ ˈher·ə·t̬ɪdʒ,0,0
 heritages,,0,1
 herl,,0,1
 herm,,0,1
 herman,,0,1
 hermaphrodite, hɝːˈmæfrədaɪt hɝːˈmæfrədaɪt,0,0
 hermaphroditic,,0,1
-hermes, ˈhɜ˞ːmiːz,1,0
+hermes, ˈhɜ˞ːmiːz,0,0
 hermetically, hɚˈmet̬ɪkli hɚˈmet̬ɪkli hərˈmet̬·ɪk·li,0,0
 hermit, ˈhɝːmɪt ˈhɜr·mɪt,0,0
 hermitage, ˈhɝːmɪt̬ɪdʒ,0,0
@@ -306,7 +306,7 @@ hernia, ˈhɝːniə ˈhɜr·ni·ə,0,0
 herniate,,0,1
 herniates,,0,1
 hero, ˈhɪroʊ ˈhɪroʊ ˈhɪroʊ ˈhɪroʊ ˈhɪər·oʊ ˈhɪər·oʊ,0,0
-heroes,,1,0
+heroes,,0,1
 heroic, hɪˈroʊɪk hɪˈroʊɪk,0,0
 heroically, hɪˈroʊɪkəli,0,0
 heroics, hɪˈroʊɪks hɪˈroʊ·ɪks,0,0
@@ -331,9 +331,9 @@ hesitancy, ˈhezətənsi,0,0
 hesitant, ˈhezətənt,0,0
 hesitantly, ˈhezətəntli,0,0
 hesitate, ˈhezəteɪt ˈhez·ɪˌteɪt,0,0
-hesitated, ˈhezəteɪt,1,0
+hesitated, ˈhezəteɪt,0,0
 hesitates, ˈhezəteɪt ˈhez·ɪˌteɪt,1,0
-hesitating, ˈhezəteɪt,1,0
+hesitating, ˈhezəteɪt,0,0
 hesitation, ˌhezəˈteɪʃən,0,0
 hesitations, ˌhezəˈteɪʃən,1,0
 hessian, ˈhesiən,0,0
@@ -363,9 +363,9 @@ hick, hɪk hɪk hɪk,0,0
 hickey, ˈhɪki,0,0
 hickory, ˈhɪkɚi ˈhɪk·ə·ri,0,0
 hicks, hɪk hɪk hɪk,1,0
-hid,,1,0
+hid,,0,1
 hidalgo,,0,1
-hidden, ˈhɪdən ˈhɪdən,1,0
+hidden, ˈhɪdən ˈhɪdən,0,0
 hide, haɪd haɪd haɪd haɪd hɑɪd hɑɪd hɑɪd,0,0
 hideaway, ˈhaɪdəˌweɪ ˈhɑɪd·əˌweɪ,0,0
 hidebound, ˈhaɪdbaʊnd,0,0
@@ -375,14 +375,14 @@ hideout, ˈhaɪdaʊt ˈhɑɪdˌɑʊt,0,0
 hideouts, ˈhaɪdaʊt ˈhɑɪdˌɑʊt,1,0
 hides, haɪd haɪd haɪd haɪd hɑɪd hɑɪd hɑɪd,1,0
 hiding, ˈhaɪdɪŋ ˈhaɪdɪŋ ˈhɑɪ·dɪŋ,0,0
-hierarchical, ˌhaɪˈrɑːrkɪkəl ˌhɑɪ·əˌrɑr·kɪ·kəl,1,0
+hierarchical, ˌhaɪˈrɑːrkɪkəl ˌhɑɪ·əˌrɑr·kɪ·kəl,0,0
 hierarchies," ˈhaɪrɑːrki ˈhaɪrɑːrki ˈhɑɪ·əˌrɑr·ki, ˈhɑɪˌrɑr-",1,0
-hierarchy," ˈhaɪrɑːrki ˈhaɪrɑːrki ˈhɑɪ·əˌrɑr·ki, ˈhɑɪˌrɑr-",1,0
+hierarchy," ˈhaɪrɑːrki ˈhaɪrɑːrki ˈhɑɪ·əˌrɑr·ki, ˈhɑɪˌrɑr-",0,0
 hieroglyph, ˈhaɪroʊɡlɪf,0,0
 hieroglyphic, ˌhaɪrəˈɡlɪfɪk,0,0
 hieroglyphics," ˌhɑɪ·ər·əˈɡlɪf·ɪks, ˌhɑɪ·rə-",0,0
 hieroglyphs, ˈhaɪroʊɡlɪf,1,0
-high, haɪ haɪ haɪ haɪ haɪ haɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ,1,0
+high, haɪ haɪ haɪ haɪ haɪ haɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ,0,0
 highboy,,0,1
 highbrow, ˈhaɪbraʊ ˈhɑɪˌbrɑʊ,0,0
 higher, ˈhaɪɚ ˈhaɪɚ ˈhɑɪ·ər,0,0
@@ -390,29 +390,29 @@ highest, haɪ haɪ haɪ haɪ haɪ haɪ haɪ haɪ haɪ hɑɪ hɑɪ hɑɪ hɑɪ h�
 highfalutin, ˌhaɪfəˈluːt̬ɪn ˌhɑɪ·fəˈlu·tən,0,0
 highflier, ˌhaɪˈflaɪɚ ˌhaɪˈflaɪɚ,0,0
 highland, ˈhaɪlənd ˈhaɪlənd,0,0
-highlander, ˈhaɪləndɚ,1,0
+highlander, ˈhaɪləndɚ,0,0
 highlanders, ˈhaɪləndɚ,1,0
 highlands, ˈhaɪləndz ˈhɑɪ·ləndz,0,0
-highlight, ˈhaɪlaɪt ˈhɑɪˌlɑɪt ˈhɑɪˌlɑɪt,1,0
-highlighted, ˈhaɪlaɪt,1,0
-highlighting, ˈhaɪlaɪt,1,0
+highlight, ˈhaɪlaɪt ˈhɑɪˌlɑɪt ˈhɑɪˌlɑɪt,0,0
+highlighted, ˈhaɪlaɪt,0,0
+highlighting, ˈhaɪlaɪt,0,0
 highlights, ˈhaɪlaɪt ˈhɑɪˌlɑɪt ˈhɑɪˌlɑɪt,1,0
-highly, ˈhaɪli ˈhaɪli ˈhɑɪ·li ˈhɑɪ·li,1,0
+highly, ˈhaɪli ˈhaɪli ˈhaɪli ˈhɑɪ·li ˈhɑɪ·li,0,0
 highness,,0,1
 highs, haɪ haɪ haɪ haɪ haɪ haɪ haɪ haɪ haɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ hɑɪ,1,0
 highschool,,0,1
 hight,,0,1
 highway, ˈhaɪweɪ ˈhɑɪˌweɪ,0,0
 highways, ˈhaɪweɪ ˈhɑɪˌweɪ,1,0
-hijack, ˈhaɪdʒæk ˈhaɪdʒæk ˈhɑɪˌdʒæk ˈhɑɪˌdʒæk,1,0
-hijacked, ˈhaɪdʒæk ˈhaɪdʒæk,1,0
+hijack, ˈhaɪdʒæk ˈhaɪdʒæk ˈhɑɪˌdʒæk ˈhɑɪˌdʒæk,0,0
+hijacked, ˈhaɪdʒæk ˈhaɪdʒæk,0,0
 hijacker, ˈhaɪdʒækɚ ˈhɑɪˌdʒæk·ər,0,0
 hijackers, ˈhaɪdʒækɚ ˈhɑɪˌdʒæk·ər,1,0
 hijacking, ˈhaɪdʒækɪŋ ˈhaɪdʒækɪŋ,0,0
 hijackings, ˈhaɪdʒæk ˈhaɪdʒæk ˈhɑɪˌdʒæk ˈhɑɪˌdʒæk,1,0
 hijinks,,0,1
-hike, haɪk haɪk hɑɪk hɑɪk,1,0
-hiked, haɪk haɪk,1,0
+hike, haɪk haɪk hɑɪk hɑɪk,0,0
+hiked, haɪk haɪk,0,0
 hiker, ˈhaɪkɚ ˈhɑɪ·kər,0,0
 hikers, ˈhaɪkɚ ˈhɑɪ·kər,1,0
 hikes, haɪk haɪk hɑɪk hɑɪk,1,0
@@ -438,23 +438,23 @@ hilly, ˈhɪli,0,0
 hilt, hɪlt hɪlt,0,0
 hilts, hɪlt hɪlt,1,0
 him," strong hɪm strong hɪm hɪm, ɪm hɪm, ɪm",0,0
-himalayan, ˌhɪməˈleɪən,1,0
+himalayan, ˌhɪməˈleɪən,0,0
 himalayas,,0,1
 himself," hɪmˈself hɪmˈself hɪmˈself hɪmˈself, ɪm- hɪmˈself, ɪm- hɪmˈself, ɪm-",0,0
 hinch,,0,1
 hind, haɪnd hɑɪnd,0,0
 hinder, ˈhɪndɚ ˈhɪn·dər,0,0
-hindered, ˈhɪndɚ,1,0
-hindering, ˈhɪndɚ,1,0
+hindered, ˈhɪndɚ,0,0
+hindering, ˈhɪndɚ,0,0
 hinders, ˈhɪndɚ ˈhɪn·dər,1,0
-hindi, ˈhɪndi,1,0
+hindi, ˈhɪndi,0,0
 hindquarters, ˌhaɪndˈkwɔːrt̬ɚz ˈhɑɪndˌkwɔr·t̬ərz,0,0
 hindrance, ˈhɪndrəns,0,0
 hindrances, ˈhɪndrəns,1,0
 hinds, haɪnd hɑɪnd,1,0
 hindsight, ˈhaɪndsaɪt ˈhɑɪndˌsɑɪt,0,0
-hindu, ˈhɪnduː ˈhɪn·du,1,0
-hinduism, ˈhɪnduːɪzəm ˈhɪn·duˌɪz·əm,1,0
+hindu, ˈhɪnduː ˈhɪn·du,0,0
+hinduism, ˈhɪnduːɪzəm ˈhɪn·duˌɪz·əm,0,0
 hindus, ˈhɪnduː ˈhɪn·du,1,0
 hindustan,,0,1
 hine,,0,1
@@ -465,20 +465,20 @@ hinged, hɪndʒd,0,0
 hinges, hɪndʒ ˈhɪndʒ,1,0
 hingle,,0,1
 hint, hɪnt hɪnt hɪnt hɪnt hɪnt hɪnt,0,0
-hinted, hɪnt,1,0
-hinterland," ˈhɪnt̬ɚlænd ˈhɪn·tərˌlænd, -lənd",1,0
-hinterlands,,1,0
-hinting, hɪnt,1,0
+hinted, hɪnt,0,0
+hinterland," ˈhɪnt̬ɚlænd ˈhɪn·tərˌlænd, -lənd",0,0
+hinterlands,,0,1
+hinting, hɪnt,0,0
 hints, hɪnt hɪnt hɪnt hɪnt hɪnt hɪnt,1,0
-hip, hɪp hɪp hɪp,1,0
+hip, hɪp hɪp hɪp,0,0
 hipbone,,0,1
-hipper,,1,0
-hippest,,1,0
+hipper,,0,1
+hippest,,0,1
 hippie, ˈhɪpi ˈhɪp·i,0,0
 hippies, ˈhɪpi ˈhɪp·i,1,0
 hippo, ˌhɪpəˈpɑːt̬əməs ˌhɪp·əˈpɑt̬·ə·məs,1,0
 hippocampus, ˌhɪpəˈkæmpəs,0,0
-hippocrates, hɪˈpɑːkrətiːz,1,0
+hippocrates, hɪˈpɑːkrətiːz,0,0
 hippocratic,,0,1
 hippodrome,,0,1
 hippolytus,,0,1

@@ -1,25 +1,25 @@
 Word,Pronunciation,Root Word Returned,Missing
 replay, ˌriːˈpleɪ ˌriːˈpleɪ ˈriˌpleɪ ˈriˌpleɪ,0,0
-replayed, ˌriːˈpleɪ ˌriːˈpleɪ,1,0
-replaying, ˌriːˈpleɪ ˌriːˈpleɪ,1,0
+replayed, ˌriːˈpleɪ ˌriːˈpleɪ,0,0
+replaying, ˌriːˈpleɪ ˌriːˈpleɪ,0,0
 replays, ˌriːˈpleɪ ˌriːˈpleɪ ˈriˌpleɪ ˈriˌpleɪ,1,0
-replenish, rɪˈplenɪʃ rɪˈplen·ɪʃ,1,0
-replenished, rɪˈplenɪʃ,1,0
-replenishing, rɪˈplenɪʃ,1,0
+replenish, rɪˈplenɪʃ rɪˈplen·ɪʃ,0,0
+replenished, rɪˈplenɪʃ,0,0
+replenishing, rɪˈplenɪʃ,0,0
 replenishment, rɪˈplenɪʃmənt,0,0
 replete, rɪˈpliːt rɪˈpliːt rɪˈplit,0,0
 replica, ˈreplɪkə ˈrep·lɪ·kə,0,0
 replicas, ˈreplɪkə ˈrep·lɪ·kə,1,0
 replicate, ˈreplɪkeɪt ˈreplɪkeɪt ˈrep·lɪˌkeɪt ˈrep·lɪˌkeɪt,0,0
-replicated, ˈreplɪkeɪt ˈreplɪkeɪt,1,0
+replicated, ˈreplɪkeɪt ˈreplɪkeɪt,0,0
 replicates, ˈreplɪkeɪt ˈreplɪkeɪt ˈrep·lɪˌkeɪt ˈrep·lɪˌkeɪt,1,0
-replicating, ˈreplɪkeɪt ˈreplɪkeɪt,1,0
+replicating, ˈreplɪkeɪt ˈreplɪkeɪt,0,0
 replication, ˌrepləˈkeɪʃən ˌrepləˈkeɪʃən,0,0
-replied, rɪˈplaɪ rɪˈplaɪ,1,0
+replied, rɪˈplaɪ rɪˈplaɪ,0,0
 replies, rɪˈplaɪ rɪˈplaɪ rɪˈplɑɪ,1,0
-reply, rɪˈplaɪ rɪˈplaɪ rɪˈplɑɪ,1,0
-replying, rɪˈplaɪ rɪˈplaɪ,1,0
-report," rɪˈpɔːrt rɪˈpɔːrt rɪˈpɔːrt rɪˈpɔrt, -ˈpoʊrt rɪˈpɔrt, -ˈpoʊrt",1,0
+reply, rɪˈplaɪ rɪˈplaɪ rɪˈplɑɪ,0,0
+replying, rɪˈplaɪ rɪˈplaɪ,0,0
+report," rɪˈpɔːrt rɪˈpɔːrt rɪˈpɔːrt rɪˈpɔrt, -ˈpoʊrt rɪˈpɔrt, -ˈpoʊrt",0,0
 reportable, rɪˈpɔːrt̬əbəl,0,0
 reportage, rɪˈpɔːrt̬ɪdʒ,0,0
 reported, rɪˈpɔːrt̬ɪd rɪˈpɔːrt̬ɪd,0,0
@@ -28,54 +28,54 @@ reporter," rɪˈpɔːrt̬ɚ rɪˈpɔr·t̬ər, -ˈpoʊr·t̬ər",0,0
 reporters," rɪˈpɔːrt̬ɚ rɪˈpɔr·t̬ər, -ˈpoʊr·t̬ər",1,0
 reporting, rɪˈpɔːrt̬ɪŋ rɪˈpɔːrt̬ɪŋ rɪˈpɔːrt̬ɪŋ,0,0
 reportorial,,0,1
-reports,,1,0
+reports,,0,1
 repose, rɪˈpoʊz,0,0
-reposition, ˌriːpəˈzɪʃən ˌriːpəˈzɪʃən,1,0
+reposition, ˌriːpəˈzɪʃən ˌriːpəˈzɪʃən,0,0
 repositioned, ˌriːpəˈzɪʃən ˌriːpəˈzɪʃən,1,0
-repositioning,,1,0
+repositioning,,0,1
 repositories," rɪˈpɑːzɪtɔːri rɪˈpɑːzɪtɔːri rɪˈpɑz·ɪˌtɔr·i, -ˌtoʊr·i",1,0
 repository," rɪˈpɑːzɪtɔːri rɪˈpɑːzɪtɔːri rɪˈpɑz·ɪˌtɔr·i, -ˌtoʊr·i",0,0
-repossess, ˌriːpəˈzes,1,0
-repossessed, ˌriːpəˈzes,1,0
-repossession, ˌriːpəˈzeʃən,1,0
+repossess, ˌriːpəˈzes,0,0
+repossessed, ˌriːpəˈzes,0,0
+repossession, ˌriːpəˈzeʃən,0,0
 repossessions, ˌriːpəˈzeʃən,1,0
 reprehensible, ˌreprəˈhensəbəl ˌrep·rɪˈhen·sə·bəl,0,0
-represent, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent,1,0
-representation, ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən,1,0
+represent, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent,0,0
+representation, ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən,0,0
 representational, ˌreprɪzenˈteɪʃənəl,0,0
 representations, ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən ˌreprɪzenˈteɪʃən,1,0
-representative, ˌreprɪˈzent̬ət̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv,1,0
+representative, ˌreprɪˈzent̬ət̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv ˌrep·rɪˈzen·tə·t̬ɪv,0,0
 representatives, ˈkɑːŋɡresmən ˈkɑŋ·ɡrəs·mən,1,0
-represented, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent,1,0
-representing, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent,1,0
+represented, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent,0,0
+representing, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent,0,0
 represents, ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌreprɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent ˌrep·rɪˈzent,1,0
 repress, rɪˈpres rɪˈpres rɪˈpres,0,0
 repressed, rɪˈprest,0,0
-repressing, rɪˈpres rɪˈpres,1,0
+repressing, rɪˈpres rɪˈpres,0,0
 repression, rɪˈpreʃən rɪˈpreʃən,0,0
 repressions,,0,1
 repressive, rɪˈpresɪv rɪˈpresɪv,0,0
-repricing,,1,0
+repricing,,0,1
 reprieve, rɪˈpriːv rɪˈpriːv rɪˈpriv rɪˈpriv,0,0
 reprimand, ˈreprəmænd ˈrep·rəˌmænd ˈreprɪmænd,0,0
-reprimanded, ˈreprəmænd,1,0
+reprimanded, ˈreprəmænd,0,0
 reprimands, ˈreprəmænd ˈrep·rəˌmænd ˈreprɪmænd,1,0
-reprint, ˌriːˈprɪnt riˈprɪnt,1,0
-reprinted, ˌriːˈprɪnt,1,0
-reprinting, ˌriːˈprɪnt,1,0
+reprint, ˌriːˈprɪnt riˈprɪnt,0,0
+reprinted, ˌriːˈprɪnt,0,0
+reprinting, ˌriːˈprɪnt,0,0
 reprisal, rɪˈpraɪzəl rɪˈprɑɪ·zəl,0,0
 reprisals, rɪˈpraɪzəl rɪˈprɑɪ·zəl,1,0
 reprise, rɪˈpriːz rɪˈpriz,0,0
 reproach, rɪˈproʊtʃ rɪˈproʊtʃ,0,0
 reprobate, ˈreprəbeɪt,0,0
 reprocess, ˌriːˈprɑːses ˌriːˈprɑːses,0,0
-reprocessed, ˌriːˈprɑːses,1,0
+reprocessed, ˌriːˈprɑːses,0,0
 reprocessing, ˌriːˈprɑːsesɪŋ riːˈprɑːsesɪŋ,0,0
 reproduce, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs ˌri·prəˈdus ˌri·prəˈdus,0,0
-reproduced, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs,1,0
+reproduced, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs,0,0
 reproduces, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs ˌri·prəˈdus ˌri·prəˈdus,1,0
-reproducing, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs,1,0
-reproduction, ˌriːprəˈdʌkʃən ˌriːprəˈdʌkʃən ˌri·prəˈdʌk·ʃən,1,0
+reproducing, ˌriːprəˈduːs ˌriːprəˈduːs ˌriːprəˈduːs,0,0
+reproduction, ˌriːprəˈdʌkʃən ˌriːprəˈdʌkʃən ˌri·prəˈdʌk·ʃən,0,0
 reproductions, ˌriːprəˈdʌkʃən ˌriːprəˈdʌkʃən ˌri·prəˈdʌk·ʃən,1,0
 reproductive, ˌriːprəˈdʌkt̬ɪv ˌri·prəˈdʌk·tɪv,0,0
 reprogram,,0,1
@@ -86,74 +86,74 @@ reptile," ˈreptaɪl ˈrep·təl, -tɑɪl",0,0
 reptiles," ˈreptaɪl ˈrep·təl, -tɑɪl",1,0
 reptilian, repˈtɪliən repˈtɪliən,0,0
 reptilians,,0,1
-republic, rəˈpʌblɪk rɪˈpʌb·lɪk,1,0
+republic, rəˈpʌblɪk rɪˈpʌb·lɪk,0,0
 republica,,0,1
-republican, rəˈpʌblɪkən rɪˈpʌb·lɪ·kən,1,0
+republican, rəˈpʌblɪkən rɪˈpʌb·lɪ·kən,0,0
 republicans, rəˈpʌblɪkən rəˈpʌblɪkən rəˈpʌblɪkən rɪˈpʌb·lɪ·kən,1,0
 republics, rəˈpʌblɪk rɪˈpʌb·lɪk,1,0
-repudiate, rɪˈpjuːdieɪt rɪˈpjud·iˌeɪt,1,0
+repudiate, rɪˈpjuːdieɪt rɪˈpjud·iˌeɪt,0,0
 repudiates, rɪˈpjuːdieɪt rɪˈpjud·iˌeɪt,1,0
-repudiating, rɪˈpjuːdieɪt,1,0
+repudiating, rɪˈpjuːdieɪt,0,0
 repudiation, rɪˌpjuːdiˈeɪʃən,0,0
 repugnant, rɪˈpʌɡnənt rɪˈpʌɡ·nənt,0,0
 repulse, rɪˈpʌls rɪˈpʌls rɪˈpʌls rɪˈpʌls,0,0
-repulsed, rɪˈpʌls rɪˈpʌls,1,0
-repulsing, rɪˈpʌls rɪˈpʌls,1,0
+repulsed, rɪˈpʌls rɪˈpʌls,0,0
+repulsing, rɪˈpʌls rɪˈpʌls,0,0
 repulsive, rɪˈpʌlsɪv rɪˈpʌl·sɪv,0,0
-repurchase,,1,0
-repurchased,,1,0
-repurchasing,,1,0
-reputable, ˈrepjət̬əbəl ˈrep·jə·t̬ə·bəl,1,0
-reputation, ˌrepjəˈteɪʃən ˌrep·jəˈteɪ·ʃən,1,0
+repurchase,,0,1
+repurchased,,0,1
+repurchasing,,0,1
+reputable, ˈrepjət̬əbəl ˈrep·jə·t̬ə·bəl,0,0
+reputation, ˌrepjəˈteɪʃən ˌrep·jəˈteɪ·ʃən,0,0
 reputations, ˌrepjəˈteɪʃən ˌrep·jəˈteɪ·ʃən,1,0
 repute,,0,1
 reputed, rɪˈpjuːt̬ɪd rɪˈpjuːt̬ɪd rɪˈpju·t̬ɪd,0,0
 reputedly, rɪˈpjuːt̬ɪdli,0,0
-request, rɪˈkwest rɪˈkwest rɪˈkwest,1,0
-requested, rɪˈkwest,1,0
+request, rɪˈkwest rɪˈkwest rɪˈkwest,0,0
+requested, rɪˈkwest,0,0
 requester, rɪˈkwestɚ,0,0
-requesting, rɪˈkwest,1,0
+requesting, rɪˈkwest,0,0
 requests, rɪˈkwest rɪˈkwest rɪˈkwest,1,0
 requiem, ˈrekwiəm ˈrekwiəm,0,0
-require, rɪˈkwaɪr rɪˈkwɑɪər rɪˈkwɑɪər,1,0
-required,,1,0
-requirement, rɪˈkwaɪrmənt rɪˈkwɑɪər·mənt,1,0
+require, rɪˈkwaɪr rɪˈkwɑɪər rɪˈkwɑɪər,0,0
+required,,0,1
+requirement, rɪˈkwaɪrmənt rɪˈkwɑɪər·mənt,0,0
 requirements, rɪˈkwaɪrmənt rɪˈkwɑɪər·mənt,1,0
 requires, rɪˈkwaɪr rɪˈkwɑɪər rɪˈkwɑɪər,1,0
-requiring, rɪˈkwaɪr,1,0
-requisite, ˈrekwəzɪt ˈrek·wə·zɪt,1,0
-requisition, ˌrekwəˈzɪʃən ˌrek·wəˈzɪʃ·ən,1,0
-requisitioned, ˌrekwəˈzɪʃən,1,0
+requiring, rɪˈkwaɪr,0,0
+requisite, ˈrekwəzɪt ˈrek·wə·zɪt,0,0
+requisition, ˌrekwəˈzɪʃən ˌrek·wəˈzɪʃ·ən,0,0
+requisitioned, ˌrekwəˈzɪʃən,0,0
 reread, ˌriːˈriːd,0,0
-rereading,,1,0
+rereading,,0,1
 reroute," ˌriːˈraʊt riˈrut, -ˈrɑʊt",0,0
-rerouted, ˌriːˈraʊt,1,0
-rerouting, ˌriːˈraʊt,1,0
+rerouted, ˌriːˈraʊt,0,0
+rerouting, ˌriːˈraʊt,0,0
 rerun, ˌriːˈrʌn riˈrʌn,0,0
 reruns, ˌriːˈrʌn riˈrʌn,1,0
 res,,0,1
 resale, ˈriːˌseɪl,0,0
 reschedule," ˌriːˈskedʒuːl ˌriːˈskedʒuːl riˈskedʒ·ul, -ʊl, -u·əl riːˈskedʒuːl riːˈskedʒuːl",0,0
-rescheduled, ˌriːˈskedʒuːl ˌriːˈskedʒuːl,1,0
+rescheduled, ˌriːˈskedʒuːl ˌriːˈskedʒuːl,0,0
 rescheduling, ˌriːˈskedjʊlɪŋ ˌriːˈskedjʊlɪŋ,0,0
-rescind, rɪˈsɪnd rɪˈsɪnd,1,0
-rescinded, rɪˈsɪnd,1,0
-rescinding, rɪˈsɪnd,1,0
+rescind, rɪˈsɪnd rɪˈsɪnd,0,0
+rescinded, rɪˈsɪnd,0,0
+rescinding, rɪˈsɪnd,0,0
 rescission, rɪˈsɪʒən rɪˈsɪʒən,0,0
-rescue, ˈreskjuː ˈres·kju,1,0
-rescued, ˈreskjuː,1,0
+rescue, ˈreskjuː ˈres·kju,0,0
+rescued, ˈreskjuː,0,0
 rescuer, ˈreskjuːɚ,0,0
 rescuers, ˈreskjuːɚ,1,0
 rescues, ˈreskjuː ˈres·kju,1,0
-rescuing, ˈreskjuː,1,0
-reseal,,1,0
-resealed,,1,0
-research," ˈriːsɝːtʃ ˈri·sɜrtʃ, rɪˈsɜrtʃ",1,0
-researched, ˈriːsɝːtʃ,1,0
-researcher, ˈriːsɝːtʃɚ,1,0
+rescuing, ˈreskjuː,0,0
+reseal,,0,1
+resealed,,0,1
+research," ˈriːsɝːtʃ ˈri·sɜrtʃ, rɪˈsɜrtʃ",0,0
+researched, ˈriːsɝːtʃ,0,0
+researcher, ˈriːsɝːtʃɚ,0,0
 researchers, ˈriːsɝːtʃɚ,1,0
 researches," ˈriːsɝːtʃ ˈri·sɜrtʃ, rɪˈsɜrtʃ",1,0
-researching, ˈriːsɝːtʃ,1,0
+researching, ˈriːsɝːtʃ,0,0
 reseda,,0,1
 reseed,,0,1
 resell, ˌriːˈsel riˈsel ˌriːˈsel,0,0
@@ -161,22 +161,22 @@ reselling, ˌriːˈsel riˈsel ˌriːˈsel,1,0
 resemblance, rɪˈzembləns,0,0
 resemblances, rɪˈzembləns,1,0
 resemble, rɪˈzembəl rɪˈzem·bəl,0,0
-resembled, rɪˈzembəl,1,0
+resembled, rɪˈzembəl,0,0
 resembles, rɪˈzembəl rɪˈzem·bəl,1,0
-resembling, rɪˈzembəl,1,0
+resembling, rɪˈzembəl,0,0
 resent, rɪˈzent rɪˈzent,0,0
-resented, rɪˈzent,1,0
+resented, rɪˈzent,0,0
 resentful, rɪˈzentfəl,0,0
-resenting, rɪˈzent,1,0
+resenting, rɪˈzent,0,0
 resentment, rɪˈzentmənt,0,0
 resentments, rɪˈzentmənt,1,0
 resents, rɪˈzent rɪˈzent,1,0
-reservation, ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən,1,0
+reservation, ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən,0,0
 reservations, ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrezɚˈveɪʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən ˌrez·ərˈveɪ·ʃən,1,0
-reserve, rɪˈzɝːv rɪˈzɝːv rɪˈzɜrv rɪˈzɜrv,1,0
+reserve, rɪˈzɝːv rɪˈzɝːv rɪˈzɜrv rɪˈzɜrv,0,0
 reserved, rɪˈzɝːvd rɪˈzɝːvd rɪˈzɜrvd,0,0
 reserves,,0,1
-reserving, rɪˈzɝːv rɪˈzɝːv,1,0
+reserving, rɪˈzɝːv rɪˈzɝːv,0,0
 reservist, rɪˈzɝːvɪst,0,0
 reservists, rɪˈzɝːvɪst,1,0
 reservoir," ˈrezɚvwɑːr ˈrezɚvwɑːr ˈrez·ərˌvwɑr, -ˌvwɔr ˈrez·ərˌvwɑr, -ˌvwɔr",0,0
@@ -184,61 +184,61 @@ reservoirs," ˈrezɚvwɑːr ˈrezɚvwɑːr ˈrez·ərˌvwɑr, -ˌvwɔr ˈrez·ə
 reset, ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset,0,0
 resets, ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset ˌriːˈset,1,0
 resettlement, ˌriːˈset̬əlmənt,0,0
-reshape, ˌriːˈʃeɪp riˈʃeɪp,1,0
-reshaped, ˌriːˈʃeɪp,1,0
-reshaping,,1,0
-reshot,,1,0
-reshuffle, ˈriːˌʃʌfəl riˈʃʌf·əl,1,0
-reshuffling, ˌriːˈʃʌfəl,1,0
+reshape, ˌriːˈʃeɪp riˈʃeɪp,0,0
+reshaped, ˌriːˈʃeɪp,0,0
+reshaping,,0,1
+reshot,,0,1
+reshuffle, ˈriːˌʃʌfəl riˈʃʌf·əl,0,0
+reshuffling, ˌriːˈʃʌfəl,0,0
 reside, rɪˈzaɪd rɪˈzɑɪd,0,0
-resided, rɪˈzaɪd,1,0
-residence, ˈrezədəns ˈrez·ɪ·dəns,1,0
+resided, rɪˈzaɪd,0,0
+residence, ˈrezədəns ˈrez·ɪ·dəns,0,0
 residences, ˈrezədəns ˈrezədəns ˈrezədəns ˈrezədəns ˈrez·ɪ·dəns,1,0
 residencies, ˈrezədənsi ˈrez·ɪ·dən·si ˈrez·ɪ·dən·si,1,0
-residency, ˈrezədənsi ˈrez·ɪ·dən·si ˈrez·ɪ·dən·si,1,0
-resident, ˈrezədənt ˈrezədənt ˈrez·ɪ·dənt ˈrez·ɪ·dənt,1,0
-residential, ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrez·ɪˈden·tʃəl,1,0
+residency, ˈrezədənsi ˈrez·ɪ·dən·si ˈrez·ɪ·dən·si,0,0
+resident, ˈrezədənt ˈrezədənt ˈrez·ɪ·dənt ˈrez·ɪ·dənt,0,0
+residential, ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrezəˈdenʃəl ˌrez·ɪˈden·tʃəl,0,0
 residents, ˈrezədənt ˈrezədənt ˈrez·ɪ·dənt ˈrez·ɪ·dənt,1,0
 resides, rɪˈzaɪd rɪˈzɑɪd,1,0
-residing, rɪˈzaɪd,1,0
-residual, rɪˈzɪdʒjuəl rɪˈzɪdʒ·u·əl,1,0
-residuals,,1,0
+residing, rɪˈzaɪd,0,0
+residual, rɪˈzɪdʒjuəl rɪˈzɪdʒ·u·əl,0,0
+residuals,,0,1
 residue, ˈrezəduː ˈrezəduː ˈrez·ɪˌdu,0,0
 residues, ˈrezəduː ˈrezəduː ˈrez·ɪˌdu,1,0
-resign, rɪˈzaɪn rɪˈzaɪn rɪˈzɑɪn,1,0
-resignation, ˌrezɪɡˈneɪʃən ˌrezɪɡˈneɪʃən ˌrez·ɪɡˈneɪ·ʃən ˌrez·ɪɡˈneɪ·ʃən,1,0
+resign, rɪˈzaɪn rɪˈzaɪn rɪˈzɑɪn,0,0
+resignation, ˌrezɪɡˈneɪʃən ˌrezɪɡˈneɪʃən ˌrez·ɪɡˈneɪ·ʃən ˌrez·ɪɡˈneɪ·ʃən,0,0
 resignations, ˌrezɪɡˈneɪʃən ˌrezɪɡˈneɪʃən ˌrez·ɪɡˈneɪ·ʃən ˌrez·ɪɡˈneɪ·ʃən,1,0
 resigned, rɪˈzaɪnd rɪˈzɑɪnd,0,0
-resigning, rɪˈzaɪn rɪˈzaɪn,1,0
+resigning, rɪˈzaɪn rɪˈzaɪn,0,0
 resigns, rɪˈzaɪn rɪˈzaɪn rɪˈzɑɪn,1,0
 resilience, rɪˈzɪljəns rɪˈzɪljəns rɪˈzɪljəns,0,0
 resiliency, rɪˈzɪljəns rɪˈzɪljəns rɪˈzɪljəns,1,0
 resilient, rɪˈzɪljənt rɪˈzɪljənt rɪˈzɪl·jənt rɪˈzɪljənt,0,0
 resin, ˈrezɪn ˈrez·ɪn,0,0
 resins,,0,1
-resist, rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst,1,0
-resistance, rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪs·təns,1,0
+resist, rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst,0,0
+resistance, rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪstəns rɪˈzɪs·təns,0,0
 resistant, rɪˈzɪstənt rɪˈzɪstənt rɪˈzɪs·tənt,0,0
-resisted, rɪˈzɪst rɪˈzɪst rɪˈzɪst,1,0
-resisting, rɪˈzɪst rɪˈzɪst rɪˈzɪst,1,0
+resisted, rɪˈzɪst rɪˈzɪst rɪˈzɪst,0,0
+resisting, rɪˈzɪst rɪˈzɪst rɪˈzɪst,0,0
 resistors, rɪˈzɪstɚ rɪˈzɪs·tər,1,0
 resists, rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst rɪˈzɪst,1,0
 resold, ˌriːˈsel riˈsel ˌriːˈsel,1,0
 resolute, ˈrezəluːt ˈrez·əˌlut,0,0
 resolutely, ˈrezəluːtli,0,0
-resolution, ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən,1,0
+resolution, ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən,0,0
 resolutions, ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrezəˈluːʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən ˌrez·əˈlu·ʃən,1,0
-resolve," rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑlv, -ˈzɔlv rɪˈzɑlv, -ˈzɔlv",1,0
+resolve," rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑlv, -ˈzɔlv rɪˈzɑlv, -ˈzɔlv",0,0
 resolved," rɪˈzɑːlvd rɪˈzɑlvd, -ˈzɔlvd",0,0
 resolves," rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑːlv rɪˈzɑlv, -ˈzɔlv rɪˈzɑlv, -ˈzɔlv",1,0
-resolving, rɪˈzɑːlv rɪˈzɑːlv,1,0
+resolving, rɪˈzɑːlv rɪˈzɑːlv,0,0
 resonance, ˈrezənəns ˈrezənəns ˈrezənəns,0,0
 resonant, ˈrezənənt ˈrezənənt ˈrez·ə·nənt,0,0
 resonate, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrez·əˌneɪt ˈrez·əˌneɪt,0,0
-resonated, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,1,0
+resonated, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,0,0
 resonates, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrez·əˌneɪt ˈrez·əˌneɪt,1,0
-resonating, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,1,0
-resort, rɪˈzɔːrt rɪˈzɔːrt rɪˈzɔrt,1,0
+resonating, ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt ˈrezəneɪt,0,0
+resort, rɪˈzɔːrt rɪˈzɔːrt rɪˈzɔrt,0,0
 resorted,,0,1
 resorting,,0,1
 resorts, rɪˈzɔːrt rɪˈzɔːrt rɪˈzɔrt,1,0
@@ -249,14 +249,14 @@ resource," ˈriːsɔːrs ˈriːsɔːrs ˈriˌsɔrs, -ˌzɔrs ˈriˌsɔrs, -ˌzɔ
 resourceful," rɪˈsɔːrsfəl rɪˈsɔrs·fəl, -ˈzɔrs-",0,0
 resourcefulness, rɪˈsɔːrsfəlnəs,0,0
 resources," ˈriːsɔːrs ˈriːsɔːrs ˈriˌsɔrs, -ˌzɔrs ˈriˌsɔrs, -ˌzɔrs ˈriˌsɔrs, -ˌzɔrs ˈriːsɔrs ˈriːsɔrs ˈriːsɔrs",1,0
-respect, rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt,1,0
+respect, rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt,0,0
 respectability, rɪˌspektəˈbɪlət̬i,0,0
 respectable, rɪˈspektəbəl rɪˈspektəbəl rɪˈspek·tə·bəl rɪˈspek·tə·bəl,0,0
 respectably, rɪˈspektəbli rɪˈspektəbli,0,0
 respected, rɪˈspektɪd,0,0
 respectful, rɪˈspektfəl rɪˈspektfəl,0,0
 respectfully, rɪˈspektfəli rɪˈspektfəli,0,0
-respecting, rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt,1,0
+respecting, rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt,0,0
 respective, rɪˈspektɪv,0,0
 respectively, rɪˈspektɪvli rɪˈspek·tɪv·li,0,0
 respects, rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt rɪˈspekt,1,0
@@ -266,33 +266,33 @@ respirators, ˈrespəreɪt̬ɚ ˈrespəreɪt̬ɚ ˈres·pəˌreɪ·t̬ər,1,0
 respiratory," ˈrespərətɔːri ˈres·pər·əˌtɔr·i, -ˌtoʊr·i",0,0
 respite," ˈrespət ˈrespət ˈres·pɪt, rɪˈspɑɪt",0,0
 resplendent, rɪˈsplendənt rɪˈsplen·dənt,0,0
-respond, rɪˈspɑːnd rɪˈspɑnd rɪˈspɑnd,1,0
-responded, rɪˈspɑːnd rɪˈspɑːnd,1,0
-respondent, rɪˈspɑːndənt rɪˈspɑːndənt rɪˈspɑn·dənt rɪˈspɑn·dənt,1,0
+respond, rɪˈspɑːnd rɪˈspɑnd rɪˈspɑnd,0,0
+responded, rɪˈspɑːnd rɪˈspɑːnd,0,0
+respondent, rɪˈspɑːndənt rɪˈspɑːndənt rɪˈspɑn·dənt rɪˈspɑn·dənt,0,0
 responder, ˌnɑːnrɪˈspɑːndɚ ˌnɑːnrɪˈspɑːndɚ,1,0
 responders, ˌnɑːnrɪˈspɑːndɚ ˌnɑːnrɪˈspɑːndɚ,1,0
-responding, rɪˈspɑːnd rɪˈspɑːnd,1,0
+responding, rɪˈspɑːnd rɪˈspɑːnd,0,0
 responds, rɪˈspɑːnd rɪˈspɑːnd rɪˈspɑnd rɪˈspɑnd,1,0
-response, rɪˈspɑːns rɪˈspɑːns rɪˈspɑns rɪˈspɑns,1,0
+response, rɪˈspɑːns rɪˈspɑːns rɪˈspɑns rɪˈspɑns,0,0
 responses, rɪˈspɑːns rɪˈspɑːns rɪˈspɑns rɪˈspɑns,1,0
 responsibilities, rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i,1,0
-responsibility, rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i,1,0
+responsibility, rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑːnsəˈbɪlət̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i rɪˌspɑn·səˈbɪl·ɪ·t̬i,0,0
 responsible, rɪˈspɑːnsəbəl rɪˈspɑːnsəbəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl rɪˈspɑn·sə·bəl,0,1
 responsibly, rɪˈspɑːnsəbli rɪˈspɑn·sə·bli,0,0
-responsive, rɪˈspɑːnsɪv rɪˈspɑːnsɪv rɪˈspɑn·sɪv,1,0
-responsiveness, rɪˈspɑːnsɪvnəs rɪˈspɑːnsɪvnəs,1,0
+responsive, rɪˈspɑːnsɪv rɪˈspɑːnsɪv rɪˈspɑn·sɪv,0,0
+responsiveness, rɪˈspɑːnsɪvnəs rɪˈspɑːnsɪvnəs,0,0
 rest, rest rest rest rest rest rest,0,0
-restage,,1,0
-restaged,,1,0
-restart, ˌriːˈstɑːrt riˈstɑrt,1,0
-restarted, ˌriːˈstɑːrt,1,0
-restarting, ˌriːˈstɑːrt,1,0
+restage,,0,1
+restaged,,0,1
+restart, ˌriːˈstɑːrt riˈstɑrt,0,0
+restarted, ˌriːˈstɑːrt,0,0
+restarting, ˌriːˈstɑːrt,0,0
 restate, ˌriːˈsteɪt ˌriːˈsteɪt,0,0
-restated, ˌriːˈsteɪt,1,0
+restated, ˌriːˈsteɪt,0,0
 restatement, ˌriːˈsteɪtmənt,0,0
 restates, ˌriːˈsteɪt ˌriːˈsteɪt,1,0
-restating, ˌriːˈsteɪt,1,0
-restaurant," ˈrestərɑːnt ˈres·tər·ənt, -təˌrɑnt",1,0
+restating, ˌriːˈsteɪt,0,0
+restaurant," ˈrestərɑːnt ˈres·tər·ənt, -təˌrɑnt",0,0
 restauranteur,,0,1
 restaurants," ˈrestərɑːnt ˈres·tər·ənt, -təˌrɑnt",1,0
 restaurateur, ˌrestɚəˈtɝː ˌres·tə·rəˈtɜr,0,0
@@ -300,159 +300,159 @@ restaurateurs, ˌrestɚəˈtɝː ˌres·tə·rəˈtɜr,1,0
 rested, ˈrestɪd,0,0
 rester,,0,1
 restful, ˈrestfəl ˈrest·fəl,0,0
-resting, rest rest rest rest rest,1,0
+resting, rest rest rest rest rest,0,0
 restitution, ˌrestəˈtuːʃən ˌrestəˈtuːʃən ˌres·tɪˈtu·ʃən ˌrestɪˈtuːʃən ˌrestɪˈtuːʃən,0,0
 restless, ˈrestləs ˈrest·ləs ˈrest·ləs,0,0
 restlessness, ˈrestləsnəs,0,0
-restock,,1,0
-restocked,,1,0
-restocking,,1,0
-restoration, ˌrestəˈreɪʃən ˌres·təˈreɪ·ʃən,1,0
+restock,,0,1
+restocked,,0,1
+restocking,,0,1
+restoration, ˌrestəˈreɪʃən ˌres·təˈreɪ·ʃən,0,0
 restorations, ˌrestəˈreɪʃən ˌrestəˈreɪʃən ˌrestəˈreɪʃən ˌres·təˈreɪ·ʃən,1,0
 restorative, rɪˈstɔːrət̬ɪv,0,0
-restore," rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔr, -ˈstoʊr",1,0
-restored, rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr,1,0
+restore," rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔr, -ˈstoʊr",0,0
+restored, rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr,0,0
 restorer, rɪˈstɔːrɚ,0,0
 restores," rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔr, -ˈstoʊr",1,0
-restoring, rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr,1,0
-restrain, rɪˈstreɪn rɪˈstreɪn rɪˈstreɪn,1,0
+restoring, rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr rɪˈstɔːr,0,0
+restrain, rɪˈstreɪn rɪˈstreɪn rɪˈstreɪn,0,0
 restrained, rɪˈstreɪnd rɪˈstreɪnd,0,0
-restraining, rɪˈstreɪn,1,0
+restraining, rɪˈstreɪn,0,0
 restrains, rɪˈstreɪn rɪˈstreɪn rɪˈstreɪn,1,0
-restraint, rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt,1,0
+restraint, rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt,0,0
 restraints, rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt rɪˈstreɪnt,1,0
-restrict, rɪˈstrɪkt rɪˈstrɪkt,1,0
-restricted, rɪˈstrɪkt̬ɪd rɪˈstrɪkt̬ɪd rɪˈstrɪkt̬ɪd,1,0
-restricting, rɪˈstrɪkt,1,0
-restriction, rɪˈstrɪkʃən rɪˈstrɪk·ʃən,1,0
+restrict, rɪˈstrɪkt rɪˈstrɪkt,0,0
+restricted, rɪˈstrɪkt̬ɪd rɪˈstrɪkt̬ɪd rɪˈstrɪkt̬ɪd,0,0
+restricting, rɪˈstrɪkt,0,0
+restriction, rɪˈstrɪkʃən rɪˈstrɪk·ʃən,0,0
 restrictions, rɪˈstrɪkʃən rɪˈstrɪk·ʃən,1,0
-restrictive, rɪˈstrɪktɪv,1,0
+restrictive, rɪˈstrɪktɪv,0,0
 restricts, rɪˈstrɪkt rɪˈstrɪkt,1,0
 restroom," ˈrestruːm ˈrestˌrum, -ˌrʊm",0,0
 restrooms," ˈrestruːm ˈrestˌrum, -ˌrʊm",1,0
-restructure, ˌriːˈstrʌktʃɚ riˈstrʌk·tʃər,1,0
-restructured, ˌriːˈstrʌktʃɚ,1,0
-restructuring, ˌriːˈstrʌktʃɚɪŋ,1,0
+restructure, ˌriːˈstrʌktʃɚ riˈstrʌk·tʃər,0,0
+restructured, ˌriːˈstrʌktʃɚ,0,0
+restructuring, ˌriːˈstrʌktʃɚɪŋ,0,0
 rests, rest rest rest rest rest rest rest rest rest rest rest rest rest,1,0
-restyled,,1,0
+restyled,,0,1
 resubmit, ˌriːsəbˈmɪt,0,0
 resubmitted,,0,1
-result, rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt,1,0
+result, rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt rɪˈzʌlt,0,0
 resultant, rɪˈzʌltənt rɪˈzʌl·tənt,0,0
-resulted, rɪˈzʌlt,1,0
+resulted, rɪˈzʌlt,0,0
 resulting, rɪˈzʌltɪŋ,0,0
-results,,1,0
+results,,0,1
 resume, rɪˈzuːm rɪˈzuːm rɪˈzum rɪˈzuːm rɪˈzuːm,0,0
-resumed, rɪˈzuːm rɪˈzuːm,1,0
+resumed, rɪˈzuːm rɪˈzuːm,0,0
 resumes, rɪˈzuːm rɪˈzuːm ˈrezəmeɪ ˈrezəmeɪ rɪˈzum ˈrez·əˌmeɪ rɪˈzuːm rɪˈzuːm,1,0
-resuming, rɪˈzuːm rɪˈzuːm,1,0
-resumption, rɪˈzʌmpʃən rɪˈzʌmp·ʃən,1,0
-resupply,,1,0
+resuming, rɪˈzuːm rɪˈzuːm,0,0
+resumption, rɪˈzʌmpʃən rɪˈzʌmp·ʃən,0,0
+resupply,,0,1
 resurface, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs riˈsɜr·fəs riˈsɜr·fəs,0,0
-resurfaced, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,1,0
-resurfacing, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,1,0
-resurgence, rɪˈsɝːdʒəns rɪˈsɜr·dʒəns,1,0
+resurfaced, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,0,0
+resurfacing, ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs ˌriːˈsɝːfɪs,0,0
+resurgence, rɪˈsɝːdʒəns rɪˈsɜr·dʒəns,0,0
 resurging,,0,1
 resurrect, ˌrezəˈrekt ˌrezəˈrekt ˌrez·əˈrekt,0,0
-resurrected, ˌrezəˈrekt ˌrezəˈrekt,1,0
-resurrecting, ˌrezəˈrekt ˌrezəˈrekt,1,0
+resurrected, ˌrezəˈrekt ˌrezəˈrekt,0,0
+resurrecting, ˌrezəˈrekt ˌrezəˈrekt,0,0
 resurrection, ˌrezəˈrekʃən ˌrez·əˈrek·ʃən ˌrez·əˈrek·ʃən,0,0
 resuscitate, rɪˈsʌsəteɪt rɪˈsʌs·ɪˌteɪt,0,0
-resuscitated, rɪˈsʌsəteɪt,1,0
-resuscitating, rɪˈsʌsəteɪt,1,0
+resuscitated, rɪˈsʌsəteɪt,0,0
+resuscitating, rɪˈsʌsəteɪt,0,0
 resuscitation, rɪˌsʌsəˈteɪʃən rɪˌsʌsəˈteɪʃən,0,0
 ret,,0,1
-retail, ˈriːteɪl ˈri·teɪl,1,0
-retailer, ˈriːteɪlɚ,1,0
+retail, ˈriːteɪl ˈri·teɪl,0,0
+retailer, ˈriːteɪlɚ,0,0
 retailers, ˈriːteɪlɚ,1,0
-retailing,,1,0
+retailing,,0,1
 retails, ˈriːteɪl ˈriːteɪl ˈri·teɪl,1,0
-retain, rɪˈteɪn rɪˈteɪn rɪˈteɪn rɪˈteɪn,1,0
-retained, rɪˈteɪn rɪˈteɪn rɪˈteɪn,1,0
-retainer, rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪ·nər rɪˈteɪ·nər rɪˈteɪ·nər,1,0
+retain, rɪˈteɪn rɪˈteɪn rɪˈteɪn rɪˈteɪn,0,0
+retained, rɪˈteɪn rɪˈteɪn rɪˈteɪn,0,0
+retainer, rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪ·nər rɪˈteɪ·nər rɪˈteɪ·nər,0,0
 retainers, rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪnɚ rɪˈteɪ·nər rɪˈteɪ·nər rɪˈteɪ·nər,1,0
-retaining, rɪˈteɪn rɪˈteɪn rɪˈteɪn,1,0
+retaining, rɪˈteɪn rɪˈteɪn rɪˈteɪn,0,0
 retains, rɪˈteɪn rɪˈteɪn rɪˈteɪn rɪˈteɪn,1,0
 retake, ˌriːˈteɪk ˌriːˈteɪk ˌriːˈteɪk riˈteɪk,0,0
-retaken,,1,0
-retaking,,1,0
+retaken,,0,1
+retaking,,0,1
 retaliate, rɪˈtælieɪt rɪˈtæl·iˌeɪt,0,0
-retaliated, rɪˈtælieɪt,1,0
-retaliating, rɪˈtælieɪt,1,0
+retaliated, rɪˈtælieɪt,0,0
+retaliating, rɪˈtælieɪt,0,0
 retaliation, rɪˌtæliˈeɪʃən,0,0
 retaliatory, rɪˈtæliətɔːri rɪˈtæliətɔri,0,0
 retard, rɪˈtɑːrd rɪˈtɑrd,0,0
 retardant, rɪˈtɑːrdənt,0,0
 retardation, ˌriːtɑːrˈdeɪʃən ˌriˌtɑrˈdeɪ·ʃən,0,0
 retarded, rɪˈtɑːrdɪd rɪˈtɑr·dɪd,0,0
-retarding, rɪˈtɑːrd,1,0
+retarding, rɪˈtɑːrd,0,0
 retards, rɪˈtɑːrd rɪˈtɑrd,1,0
 retell, ˌriːˈtel ˌriːˈtel,0,0
 retelling,,0,1
-retention, rɪˈtenʃən rɪˈten·ʃən,1,0
-retest,,1,0
-retested,,1,0
-retesting,,1,0
-rethink, ˌriːˈθɪŋk riˈθɪŋk,1,0
+retention, rɪˈtenʃən rɪˈten·ʃən,0,0
+retest,,0,1
+retested,,0,1
+retesting,,0,1
+rethink, ˌriːˈθɪŋk riˈθɪŋk,0,0
 rethinking, ˌriːˈθɪŋk riˈθɪŋk,1,0
-rethought,,1,0
+rethought,,0,1
 reticence, ˈret̬əsəns,0,0
 reticent, ˈret̬əsənt ˈret̬·ə·sənt,0,0
 retina, ˈretənə ˈret·ə·nə,0,0
 retinal, ˈretənəl,0,0
 retinoblastoma,,0,1
-retire, rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtɑɪər rɪˈtɑɪər rɪˈtɑɪər,1,0
-retired, rɪˈtaɪrd,1,0
+retire, rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtɑɪər rɪˈtɑɪər rɪˈtɑɪər,0,0
+retired, rɪˈtaɪrd,0,0
 retiree, rɪˈtaɪriː rɪtaɪˈriː,0,0
 retirees, rɪˈtaɪriː rɪtaɪˈriː,1,0
-retirement, rɪˈtaɪrmənt rɪˈtaɪrmənt rɪˈtɑɪər·mənt,1,0
+retirement, rɪˈtaɪrmənt rɪˈtaɪrmənt rɪˈtɑɪər·mənt,0,0
 retirements, rɪˈtaɪrmənt rɪˈtaɪrmənt rɪˈtɑɪər·mənt,1,0
 retires, rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtaɪr rɪˈtɑɪər rɪˈtɑɪər rɪˈtɑɪər,1,0
-retiring, rɪˈtaɪrɪŋ rɪˈtaɪrɪŋ rɪˈtɑɪər·ɪŋ,1,0
-retook,,1,0
-retool, ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl,1,0
+retiring, rɪˈtaɪrɪŋ rɪˈtaɪrɪŋ rɪˈtɑɪər·ɪŋ,0,0
+retook,,0,1
+retool, ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl,0,0
 retooled, ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl,1,0
 retooling, ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl ˌriːˈtuːl,1,0
 retort, rɪˈtɔːrt rɪˈtɔrt,0,0
-retorted, rɪˈtɔːrt,1,0
+retorted, rɪˈtɔːrt,0,0
 retorts, rɪˈtɔːrt rɪˈtɔrt,1,0
-retouching, ˌriːˈtʌtʃ,1,0
+retouching, ˌriːˈtʌtʃ,0,0
 retrace, rɪˈtreɪs riˈtreɪs,0,0
-retraced, rɪˈtreɪs,1,0
-retracing, rɪˈtreɪs,1,0
-retract, rɪˈtrækt rɪˈtrækt rɪˈtrækt rɪˈtrækt,1,0
+retraced, rɪˈtreɪs,0,0
+retracing, rɪˈtreɪs,0,0
+retract, rɪˈtrækt rɪˈtrækt rɪˈtrækt rɪˈtrækt,0,0
 retractable, rɪˈtræktəbəl,0,0
-retracted, rɪˈtrækt rɪˈtrækt,1,0
-retracting, rɪˈtrækt rɪˈtrækt,1,0
-retraction, rɪˈtrækʃən,1,0
+retracted, rɪˈtrækt rɪˈtrækt,0,0
+retracting, rɪˈtrækt rɪˈtrækt,0,0
+retraction, rɪˈtrækʃən,0,0
 retracts, rɪˈtrækt rɪˈtrækt rɪˈtrækt rɪˈtrækt,1,0
-retrain, ˌriːˈtreɪn ˌriːˈtreɪn,1,0
-retrained, ˌriːˈtreɪn ˌriːˈtreɪn,1,0
-retraining, ˌriːˈtreɪnɪŋ,1,0
+retrain, ˌriːˈtreɪn ˌriːˈtreɪn,0,0
+retrained, ˌriːˈtreɪn ˌriːˈtreɪn,0,0
+retraining, ˌriːˈtreɪnɪŋ,0,0
 retread, ˌriːˈtred ˌriːˈtred ˌriːˈtred ˈriˌtred,0,0
 retreads, ˌriːˈtred ˌriːˈtred ˌriːˈtred ˈriˌtred,1,0
-retreat, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtrit rɪˈtrit,1,0
-retreated, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt,1,0
-retreating, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt,1,0
+retreat, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtrit rɪˈtrit,0,0
+retreated, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt,0,0
+retreating, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt,0,0
 retreats, rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtriːt rɪˈtrit rɪˈtrit,1,0
-retrench, rɪˈtrentʃ rɪˈtrentʃ,1,0
-retrenchment, rɪˈtrentʃmənt rɪˈtrentʃmənt,1,0
-retrial," ˈriːtraɪəl ˈriˌtrɑɪl, -ˌtrɑɪ·əl",1,0
+retrench, rɪˈtrentʃ rɪˈtrentʃ,0,0
+retrenchment, rɪˈtrentʃmənt rɪˈtrentʃmənt,0,0
+retrial," ˈriːtraɪəl ˈriˌtrɑɪl, -ˌtrɑɪ·əl",0,0
 retribution, ˌretrəˈbjuːʃən ˌre·trəˈbju·ʃən,0,0
 retried, ˌriːˈtraɪ ˌriːˈtraɪ,1,0
 retrieval, rɪˈtriːvəl rɪˈtriːvəl rɪˈtriːvəl,0,0
-retrieve, rɪˈtriːv rɪˈtriːv rɪˈtriv,1,0
-retrieved, rɪˈtriːv,1,0
+retrieve, rɪˈtriːv rɪˈtriːv rɪˈtriv,0,0
+retrieved, rɪˈtriːv,0,0
 retriever, rɪˈtriːvɚ,0,0
 retrievers, rɪˈtriːvɚ,1,0
 retrieves, rɪˈtriːv rɪˈtriːv rɪˈtriv,1,0
-retrieving, rɪˈtriːv,1,0
-retro, ˈretroʊ ˈre·troʊ,1,0
-retroactive, ˌretroʊˈæktɪv ˌre·troʊˈæk·tɪv,1,0
-retroactively, ˌretroʊˈæktɪvli,1,0
-retrofit, ˈretrəfɪt,1,0
+retrieving, rɪˈtriːv,0,0
+retro, ˈretroʊ ˈre·troʊ,0,0
+retroactive, ˌretroʊˈæktɪv ˌre·troʊˈæk·tɪv,0,0
+retroactively, ˌretroʊˈæktɪvli,0,0
+retrofit, ˈretrəfɪt,0,0
 retrofitted,,0,1
-retrofitting,,1,0
+retrofitting,,0,1
 retrograde, ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd ˈretrəɡreɪd,0,0
 retrospect, ˈre·trəˌspekt,0,1
 retrospective, ˌretrəˈspektɪv ˌre·trəˈspek·tɪv ˌretrəˈspektɪv,0,0
@@ -460,25 +460,25 @@ retrovirus, ˌretroʊˈvaɪrəs,0,0
 retroviruses, ˌretroʊˈvaɪrəs,1,0
 retry, ˌriːˈtraɪ ˌriːˈtraɪ,0,0
 retrying, ˌriːˈtraɪ ˌriːˈtraɪ,1,0
-return, rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɜrn rɪˈtɜrn rɪˈtɜrn rɪˈtɜrn,1,0
-returnable, rɪˈtɝːnəbəl,1,0
+return, rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɜrn rɪˈtɜrn rɪˈtɜrn rɪˈtɜrn,0,0
+returnable, rɪˈtɝːnəbəl,0,0
 returned, rɪˈtɝːnd,0,0
 returnee, rɪˌtɝːˈniː,0,0
 returnees, rɪˌtɝːˈniː,1,0
-returning, rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn,1,0
-returns, rɪˈtɜrnz,1,0
-reuben, ˈruːbɪn,1,0
+returning, rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn rɪˈtɝːn,0,0
+returns, rɪˈtɜrnz,0,0
+reuben, ˈruːbɪn,0,0
 reunification, ˌriːjuːnəfəˈkeɪʃən ˌri·ju·nə·fɪˈkeɪ·ʃən,0,0
-reunified, riːˈjuːnəfaɪ,1,0
+reunified, riːˈjuːnəfaɪ,0,0
 reunify, riːˈjuːnəfaɪ,0,0
 reunion, ˌriːˈjuːnjən ˌriːˈjuːnjən riˈjun·jən,0,0
 reunions, ˌriːˈjuːnjən ˌriːˈjuːnjən riˈjun·jən,1,0
 reunite, ˌriːjuːˈnaɪt ˌri·jʊˈnɑɪt,0,0
-reunited, ˌriːjuːˈnaɪt,1,0
+reunited, ˌriːjuːˈnaɪt,0,0
 reunites, ˌriːjuːˈnaɪt ˌri·jʊˈnɑɪt,1,0
-reuniting, ˌriːjuːˈnaɪt,1,0
+reuniting, ˌriːjuːˈnaɪt,0,0
 reusable, ˌriːˈjuːzəbəl,0,0
-reuse, ˌriːˈjuːz riˈjuz,1,0
-reused, ˌriːˈjuːz,1,0
-reusing, ˌriːˈjuːz,1,0
+reuse, ˌriːˈjuːz riˈjuz,0,0
+reused, ˌriːˈjuːz,0,0
+reusing, ˌriːˈjuːz,0,0
 rev, rev rev,0,0

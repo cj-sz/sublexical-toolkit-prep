@@ -1,21 +1,21 @@
 Word,Pronunciation,Root Word Returned,Missing
 wander, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑn·də ˈwɑn·də,0,0
-wandered, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ,1,0
+wandered, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ,0,0
 wanderer, ˈwɑːndɚɚ,0,0
 wanderers, ˈwɑːndɚɚ,1,0
-wandering, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ,1,0
+wandering, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ,0,0
 wanderings, ˈwɑːndɚɪŋz,0,0
 wanderlust, ˈwɑːndɚlʌst,0,0
 wanders, ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑːndɚ ˈwɑn·də ˈwɑn·də,1,0
 wands, wɑːnd wɑːnd wɑːnd wɑːnd wɑːnd wɑnd,1,0
-wane, weɪn weɪn weɪn,1,0
-waned, weɪn weɪn,1,0
+wane, weɪn weɪn weɪn,0,0
+waned, weɪn weɪn,0,0
 wanes, weɪn weɪn weɪn weɪn,1,0
 wang, wæŋ,0,0
 wanger, wæŋ,1,0
 wangle, ˈwæŋɡəl ˈwæŋ·ɡəl,0,0
-wangled, ˈwæŋɡəl,1,0
-waning, weɪn weɪn,1,0
+wangled, ˈwæŋɡəl,0,0
+waning, weɪn weɪn,0,0
 wank, wæŋk,0,0
 wanna," ˈwɑːnə ˈwɑn·ə, ˈwʌn·ə, ˈwɔ·nə",0,0
 wannabe," ˈwɑːnəbi ˈwɑn·ə·bi, ˈwʌn·ə-, ˈwɔ·nə-",0,0
@@ -26,13 +26,13 @@ wanted," ˈwɑːnt̬ɪd ˈwɑːnt̬ɪd ˈwɑn·tɪd, ˈwɔn-",0,0
 wanting," ˈwɑːnt̬ɪŋ ˈwɑn·tɪŋ, ˈwɔn-",0,0
 wanton," ˈwɑːntən ˈwɑːntən ˈwɑn·tən, ˈwɔn-",0,0
 wantonly, ˈwɑːntənli ˈwɑːntənli,0,0
-wants,,1,0
+wants,,0,1
 wapping,,0,1
-war, wɔːr wɔːr wɔr wɔr,1,0
+war, wɔːr wɔːr wɔr wɔr,0,0
 warble, ˈwɔːrbəl ˈwɔːrbəl ˈwɔr·bəl,0,0
 warbler, ˈwɔːrblɚ ˈwɔːrblɚ,0,0
 warblers, ˈwɔːrblɚ ˈwɔːrblɚ,1,0
-warbling, ˈwɔːrbəl ˈwɔːrbəl,1,0
+warbling, ˈwɔːrbəl ˈwɔːrbəl,0,0
 warcraft,,0,1
 ward, wɔːrd wɔːrd wɔːrd wɔːrd wɔrd wɔrd wɔrd,0,0
 warden, ˈwɔːrdən ˈwɔːrdən ˈwɔːrdən ˈwɔːrdən ˈwɔr·dən,0,0
@@ -43,12 +43,12 @@ warding,,0,1
 wardrobe, ˈwɔːrdroʊb ˈwɔːrdroʊb ˈwɔːrdroʊb ˈwɔr·droʊb ˈwɔr·droʊb,0,0
 wardrobes, ˈwɔːrdroʊb ˈwɔːrdroʊb ˈwɔːrdroʊb ˈwɔr·droʊb ˈwɔr·droʊb,1,0
 wards,  -wɚdz,1,0
-ware, wer,1,0
-warehouse, ˈwerhaʊs ˈwerhaʊs ˈwerhaʊs ˈweər·hɑʊs ˈweər·hɑʊs,1,0
+ware, wer,0,0
+warehouse, ˈwerhaʊs ˈwerhaʊs ˈwerhaʊs ˈweər·hɑʊs ˈweər·hɑʊs,0,0
 warehoused, ˈwerhaʊs ˈwerhaʊs ˈwerhaʊs ˈweər·hɑʊs ˈweər·hɑʊs,1,0
 warehouses, ˈwerhaʊs ˈwerhaʊs ˈwerhaʊs ˈweər·hɑʊs ˈweər·hɑʊs,1,0
 warehousing, ˈwerhaʊzɪŋ ˈwerhaʊzɪŋ,0,0
-wares, werz werz weərz,1,0
+wares, werz werz weərz,0,0
 warfare, ˈwɔːrfer ˈwɔrˌfeər,0,0
 warhead, ˈwɔːrhed ˈwɔrˌhed,0,0
 warheads, ˈwɔːrhed ˈwɔrˌhed,1,0
@@ -61,7 +61,7 @@ warlocks, ˈwɔːrlɑːk,1,0
 warlord, ˈwɔːrlɔːrd ˈwɔrˌlɔrd,0,0
 warlords, ˈwɔːrlɔːrd ˈwɔrˌlɔrd,1,0
 warm, wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔrm wɔrm wɔrm wɔrm,0,0
-warmed, wɔːrm,1,0
+warmed, wɔːrm,0,0
 warmer, wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔrm wɔrm wɔrm wɔrm,1,0
 warmest, wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔrm wɔrm wɔrm wɔrm,1,0
 warming, ˈwɔːrmɪŋ,0,0
@@ -72,32 +72,32 @@ warms, wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔːrm wɔrm wɔrm wɔrm wɔrm,1
 warmth, wɔːrmθ wɔːrmθ,0,0
 warmup, ˈwɔrmˌʌp,0,0
 warn, wɔːrn wɔrn,0,0
-warned, wɔːrn,1,0
+warned, wɔːrn,0,0
 warner,,0,1
 warners,,0,1
-warning, ˈwɔːrnɪŋ ˈwɔr·nɪŋ,1,0
+warning, ˈwɔːrnɪŋ ˈwɔr·nɪŋ,0,0
 warnings, ˈwɔːrnɪŋ ˈwɔːrnɪŋ ˈwɔr·nɪŋ,1,0
 warns, wɔːrn wɔrn,1,0
 warp, wɔːrp wɔːrp wɔrp wɔrp,0,0
 warpath,,0,1
 warped, wɔːrpt wɔːrpt,0,0
-warping, wɔːrp wɔːrp,1,0
+warping, wɔːrp wɔːrp,0,0
 warplane, ˈwɔːrˌpleɪn ˈwɔrˌpleɪn,0,0
 warplanes, ˈwɔːrˌpleɪn ˈwɔrˌpleɪn,1,0
 warps, wɔːrp wɔːrp wɔːrp wɔrp wɔrp,1,0
-warrant," ˈwɔːrənt ˈwɔːrənt ˈwɑr·ənt, ˈwɔr-",1,0
+warrant," ˈwɔːrənt ˈwɔːrənt ˈwɑr·ənt, ˈwɔr-",0,0
 warranted, ˈwɔːrənt̬ɪd ˈwɔːrənt̬ɪd,0,0
 warranties," ˈwɔːrənt̬i ˌwɑr·ənˈti, ˌwɔr-",1,0
 warrantless,,0,1
 warrants," ˈwɔːrənt ˈwɔːrənt ˈwɑr·ənt, ˈwɔr-",1,0
-warranty," ˈwɔːrənt̬i ˌwɑr·ənˈti, ˌwɔr-",1,0
+warranty," ˈwɔːrənt̬i ˌwɑr·ənˈti, ˌwɔr-",0,0
 warren, ˈwɔːrən ˈwɔːrən,0,0
 warrens, ˈwɔːrən ˈwɔːrən,1,0
 warring, ˈwɔːrɪŋ ˈwɔːrɪŋ ˈwɔr·ɪŋ ˈwɔr·ɪŋ,0,0
 warrior," ˈwɔːriɚ ˈwɔr·jər, ˈwɔr·i·ər",0,0
 warriors," ˈwɔːriɚ ˈwɔr·jər, ˈwɔr·i·ər",1,0
 wars, wɔːr wɔːr wɔːr wɔːr wɔr wɔr,1,0
-warsaw, ˈwɔːrsɑː,1,0
+warsaw, ˈwɔːrsɑː,0,0
 warship, ˈwɔːrʃɪp ˈwɑrˌʃɪp,0,0
 warships, ˈwɔːrʃɪp ˈwɑrˌʃɪp,1,0
 wart, wɔːrt wɔrt,0,0
@@ -110,13 +110,13 @@ washable," ˈwɑːʃəbəl ˈwɑʃ·ə·bəl, ˈwɔ·ʃə- ˈwɑʃ·ə·bəl, ˈ
 washbasin, ˈwɑːʃˌbeɪsən,0,0
 washboard, ˈwɑːʃˌbɔːrd ˈwɑːʃˌbɔːrd,0,0
 washcloth," ˈwɑːʃklɑːθ ˈwɑʃˌklɔθ, ˈwɔʃ-",0,0
-washed, wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ,1,0
+washed, wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ,0,0
 washer," ˈwɑːʃɚ ˈwɑːʃɚ ˈwɑʃ·ər, ˈwɔ·ʃər ˈwɑʃ·ər, ˈwɔ·ʃər",0,0
 washers," ˈwɑːʃɚ ˈwɑːʃɚ ˈwɑʃ·ər, ˈwɔ·ʃər ˈwɑʃ·ər, ˈwɔ·ʃər",1,0
 washes," wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ wɑːʃ -wɑːʃ wɑʃ, wɔʃ wɑʃ, wɔʃ wɑʃ, wɔʃ wɑʃ, wɔʃ",1,0
 washing," ˈwɑːʃɪŋ ˈwɑːʃɪŋ ˈwɑʃ·ɪŋ, ˈwɔ·ʃɪŋ",0,0
-washington, ˈwɑːʃɪŋtən ˈwɑːʃɪŋtən,1,0
-washingtonian, ˌwɑːʃɪŋˈtoʊniən ˌwɑːʃɪŋˈtoʊniən,1,0
+washington, ˈwɑːʃɪŋtən ˈwɑːʃɪŋtən,0,0
+washingtonian, ˌwɑːʃɪŋˈtoʊniən ˌwɑːʃɪŋˈtoʊniən,0,0
 washingtonians,,0,1
 washout," ˈwɑːʃaʊt ˈwɑːʃaʊt ˈwɑʃˌɑʊt, ˈwɔʃ-",0,0
 washouts," ˈwɑːʃaʊt ˈwɑːʃaʊt ˈwɑʃˌɑʊt, ˈwɔʃ-",1,0
@@ -125,29 +125,29 @@ washtub,,0,1
 washy, ˈwɑːʃi ˈwɑːʃi,0,0
 wasp," wɑːsp wɑsp, wɔsp",0,0
 wasps," wɑːsp wɑːsp wɑsp, wɔsp wɑsp, wɔsp",1,0
-waste, weɪst weɪst weɪst weɪst weɪst weɪst,1,0
+waste, weɪst weɪst weɪst weɪst weɪst weɪst,0,0
 wastebasket, ˈweɪstˌbæskət ˈweɪstˌbæs·kɪt,0,0
 wastebaskets, ˈweɪstˌbæskət ˈweɪstˌbæs·kɪt,1,0
 wasted, ˈweɪstɪd ˈweɪstɪd ˈweɪstɪd,0,0
-wasteful, ˈweɪstfəl ˈweɪst·fəl,1,0
+wasteful, ˈweɪstfəl ˈweɪst·fəl,0,0
 wastefulness,,0,1
 wasteland, ˈweɪstlænd ˈweɪstlænd ˈweɪstˌlænd ˈweɪstˌlænd,0,0
 wastepaper,,0,1
 waster, ˈweɪstɚ ˈweɪstɚ,0,0
 wasters, ˈweɪstɚ ˈweɪstɚ,1,0
-wastes,,1,0
+wastes,,0,1
 wastewater," ˈweɪstˌwɔt̬·ər, -ˌwɑt̬·ər",0,0
-wasting, weɪst weɪst,1,0
+wasting, weɪst weɪst,0,0
 wat, wæt,0,0
 watch," wɑːtʃ wɑːtʃ wɑːtʃ wɑtʃ, wɔtʃ wɑtʃ, wɔtʃ wɑtʃ, wɔtʃ",0,0
-watchdog," ˈwɑːtʃdɑːɡ ˈwɑːtʃdɑːɡ ˈwɑtʃˌdɔɡ, ˈwɔtʃ- ˈwɑtʃˌdɔɡ, ˈwɔtʃ-",1,0
+watchdog," ˈwɑːtʃdɑːɡ ˈwɑːtʃdɑːɡ ˈwɑtʃˌdɔɡ, ˈwɔtʃ- ˈwɑtʃˌdɔɡ, ˈwɔtʃ-",0,0
 watchdogs," ˈwɑːtʃdɑːɡ ˈwɑːtʃdɑːɡ ˈwɑtʃˌdɔɡ, ˈwɔtʃ- ˈwɑtʃˌdɔɡ, ˈwɔtʃ-",1,0
-watched, wɑːtʃ wɑːtʃ wɑːtʃ,1,0
+watched, wɑːtʃ wɑːtʃ wɑːtʃ,0,0
 watcher," ˈwɑːtʃɚ ˈwɑtʃ·ər, ˈwɔ·tʃər",0,0
 watchers," ˈwɑːtʃɚ  -wɑːtʃɚ ˈwɑtʃ·ər, ˈwɔ·tʃər",1,0
 watches," wɑːtʃ wɑːtʃ wɑːtʃ wɑːtʃ wɑtʃ, wɔtʃ wɑtʃ, wɔtʃ wɑtʃ, wɔtʃ",1,0
 watchful," ˈwɑːtʃfəl ˈwɑtʃ·fəl, ˈwɔtʃ-",0,0
-watching, wɑːtʃ wɑːtʃ wɑːtʃ,1,0
+watching, wɑːtʃ wɑːtʃ wɑːtʃ,0,0
 watchman, ˈwɑːtʃmən,0,0
 watchmen, ˈwɑːtʃmən,1,0
 watchword, ˈwɑːtʃwɝːd,0,0
@@ -159,25 +159,25 @@ waterbury,,0,1
 watercolor," ˈwɑːt̬ɚˌkʌlɚ ˈwɔ·t̬ərˌkʌl·ər, ˈwɑt̬·ər-",0,0
 watercolors," ˈwɑːt̬ɚˌkʌlɚ ˈwɔ·t̬ərˌkʌl·ər, ˈwɑt̬·ər-",1,0
 watercress, ˈwɑːt̬ɚkres,0,0
-watered, ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ,1,0
+watered, ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ,0,0
 waterfall," ˈwɑːt̬ɚfɑːl ˈwɔ·t̬ərˌfɔl, ˈwɑt̬·ər-",0,0
 waterfalls," ˈwɑːt̬ɚfɑːl ˈwɔ·t̬ərˌfɔl, ˈwɑt̬·ər-",1,0
 waterfowl," ˈwɑːt̬ɚfaʊl ˈwɔ·t̬ərˌfɑʊl, ˈwɑt̬·ər-",0,0
 waterfront," ˈwɑːt̬ɚfrʌnt ˈwɔ·t̬ərˌfrʌnt, ˈwɑt̬·ər-",0,0
 waterfronts," ˈwɑːt̬ɚfrʌnt ˈwɔ·t̬ərˌfrʌnt, ˈwɑt̬·ər-",1,0
 watergate,,0,1
-watering, ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ,1,0
+watering, ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ ˈwɑːt̬ɚ,0,0
 waterlogged, ˈwɑːt̬ɚlɑːɡd ˈwɑːt̬ɚlɑːɡd,0,0
 waterloo,,0,1
 waterman, ˈwɑːt̬ɚmən,0,0
-watermark, ˈwɑːt̬ɚmɑːrk ˈwɑːt̬ɚmɑːrk,1,0
+watermark, ˈwɑːt̬ɚmɑːrk ˈwɑːt̬ɚmɑːrk,0,0
 watermarks, ˈwɑːt̬ɚmɑːrk ˈwɑːt̬ɚmɑːrk,1,0
 watermelon," ˈwɑːt̬ɚˌmelən ˈwɔt̬·ərˌmel·ən, ˈwɑt̬-",0,0
 watermelons," ˈwɑːt̬ɚˌmelən ˈwɔt̬·ərˌmel·ən, ˈwɑt̬-",1,0
 waterproof," ˈwɑːt̬ɚpruːf ˈwɔ·t̬ərˌpruf, ˈwɑt̬·ər",0,0
-waterproofing, ˈwɑːt̬ɚpruːf,1,0
-waters,,1,0
-watershed," ˈwɑːt̬ɚʃed ˈwɑːt̬ɚʃed ˈwɔ·t̬ərˌʃed, ˈwɑt̬·ər- ˈwɔ·t̬ərˌʃed, ˈwɑt̬·ər-",1,0
+waterproofing, ˈwɑːt̬ɚpruːf,0,0
+waters,,0,1
+watershed," ˈwɑːt̬ɚʃed ˈwɑːt̬ɚʃed ˈwɔ·t̬ərˌʃed, ˈwɑt̬·ər- ˈwɔ·t̬ərˌʃed, ˈwɑt̬·ər-",0,0
 watertight," ˈwɑːt̬ɚtaɪt ˈwɑːt̬ɚtaɪt ˈwɑːt̬ɚtaɪt ˈwɔ·t̬ərˌtɑɪt, ˈwɑt̬·ər-",0,0
 waterway," ˈwɑːt̬ɚweɪ ˈwɔ·t̬ərˌweɪ, ˈwɑt̬·ər-",0,0
 waterways," ˈwɑːt̬ɚweɪ ˈwɔ·t̬ərˌweɪ, ˈwɑt̬·ər-",1,0
@@ -190,15 +190,15 @@ wattle, ˈwɑːt̬əl ˈwɑːt̬əl ˈwɑːt̬əl,0,0
 wattles,,0,1
 watts, wɑːt wɑt,1,0
 waugh,,0,1
-wave, weɪv weɪv weɪv weɪv weɪv,1,0
-waved, weɪv weɪv weɪv weɪv,1,0
-wavelength," ˈweɪvleŋθ ˈweɪv·leŋkθ, -leŋθ ˈweɪv·leŋkθ, -leŋθ",1,0
+wave, weɪv weɪv weɪv weɪv weɪv,0,0
+waved, weɪv weɪv weɪv weɪv,0,0
+wavelength," ˈweɪvleŋθ ˈweɪv·leŋkθ, -leŋθ ˈweɪv·leŋkθ, -leŋθ",0,0
 wavelengths," ˈweɪvleŋθ ˈweɪv·leŋkθ, -leŋθ ˈweɪv·leŋkθ, -leŋθ",1,0
 waver, ˈweɪvɚ ˈweɪvɚ ˈweɪ·vər ˈweɪ·vər,0,0
-wavered, ˈweɪvɚ ˈweɪvɚ,1,0
+wavered, ˈweɪvɚ ˈweɪvɚ,0,0
 wavering, ˈweɪvɚɪŋ ˈweɪvɚɪŋ,0,0
 waves, pɝːm pɜrm,1,0
-waving, weɪv weɪv weɪv weɪv,1,0
+waving, weɪv weɪv weɪv weɪv,0,0
 wavy, ˈweɪvi ˈweɪ·vi,0,0
 wax, wæks wæks wæks,0,0
 waxed, wækst wækst,0,0
@@ -207,7 +207,7 @@ waxing, ˈwæksɪŋ,0,0
 waxman,,0,1
 waxy, ˈwæksi ˈwæk·si,0,0
 way, weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ weɪ,0,0
-waylaid,,1,0
+waylaid,,0,1
 wayland,,0,1
 waylay, ˌweɪˈleɪ,0,0
 wayman,,0,1
@@ -217,31 +217,31 @@ wayside,,0,1
 wayward, ˈweɪwɚd ˈweɪ·wərd,0,0
 wazir,,0,1
 we," strong wiː strong wiː strong wiː strong wiː strong wiː wi, wɪ wi, wɪ wi, wɪ wi, wɪ",0,0
-weak, wiːk wiːk wiːk wiːk wiːk wiːk wiːk wik wik wik wik,1,0
-weaken, ˈwiːkən ˈwi·kən,1,0
-weakened, ˈwiːkən,1,0
-weakening, ˈwiːkən,1,0
+weak, wiːk wiːk wiːk wiːk wiːk wiːk wiːk wik wik wik wik,0,0
+weaken, ˈwiːkən ˈwi·kən,0,0
+weakened, ˈwiːkən,0,0
+weakening, ˈwiːkən,0,0
 weakens, ˈwiːkən ˈwi·kən,1,0
 weaker, wiːk wiːk wiːk wiːk wiːk wiːk wiːk wik wik wik wik,1,0
 weakest, wiːk wiːk wiːk wiːk wiːk wiːk wiːk wik wik wik wik,1,0
 weakling, ˈwiːklɪŋ ˈwik·lɪŋ,0,0
 weakly, ˈwiːkli ˈwiːkli ˈwiːkli ˈwik·li,0,0
-weakness, ˈwiːknəs ˈwiːknəs ˈwik·nəs ˈwik·nəs ˈwik·nəs,1,0
+weakness, ˈwiːknəs ˈwiːknəs ˈwik·nəs ˈwik·nəs ˈwik·nəs,0,0
 weaknesses, ˈwiːknəs ˈwiːknəs ˈwiːknəs ˈwik·nəs ˈwik·nəs ˈwik·nəs,1,0
-wealth, welθ welθ welθ welθ,1,0
+wealth, welθ welθ welθ welθ,0,0
 wealthier, ˈwelθi ˈwelθi,1,0
 wealthiest, ˈwelθi ˈwelθi,1,0
-wealthy, ˈwelθi,1,0
+wealthy, ˈwelθi,0,0
 wean, wiːn win,0,0
 weaned, wiːnd,0,0
 weaning, ˈwiːnɪŋ,0,0
 weapon, ˈwepən ˈwep·ən,0,0
 weaponry, ˈwepənri ˈwep·ən·ri,0,0
 weapons, ˈwepən ˈwep·ən,1,0
-wear, wer wer wer wer wer wer weər weər weər,1,0
+wear, wer wer wer wer wer wer weər weər weər,0,0
 wearable, ˈwerəbəl ˈwerəbəl,0,0
 wearer, ˈwerɚ,0,0
-wearied, ˈwɪri ˈwɪri,1,0
+wearied, ˈwɪri ˈwɪri,0,0
 wearily, ˈwɪrəli ˈwɪrəli,0,0
 weariness, ˈwɪrinəs ˈwɪrinəs,0,0
 wearing, ˈwerɪŋ,0,0
@@ -250,7 +250,7 @@ weary, ˈwɪri ˈwɪri ˈwɪər·i,0,0
 wearying, ˈwɪriɪŋ,0,0
 weasel, ˈwiːzəl ˈwi·zəl,0,0
 weasels, ˈwiːzəl ˈwi·zəl,1,0
-weather, ˈweðɚ ˈweð·ər,1,0
+weather, ˈweðɚ ˈweð·ər,0,0
 weathered, ˈweðɚd ˈweð·ərd,0,0
 weathering, ˈweðɚɪŋ ˈweðɚɪŋ ˈweð·ər·ɪŋ,0,0
 weatherly,,0,1
@@ -264,14 +264,14 @@ weaver, ˈwiːvɚ,0,0
 weavers, ˈwiːvɚ,1,0
 weaves, wiːv wiːv wiːv wiːv wiv wiv wiv,1,0
 weaving, ˈwiːvɪŋ ˈwiːvɪŋ ˈwiːvɪŋ ˈwiːvɪŋ,0,0
-web, web web web web,1,0
+web, web web web web,0,0
 webbed, webd webd webd webd webd,0,0
 webber,,0,1
 webbing, ˈwebɪŋ ˈwebɪŋ,0,0
 weber,,0,1
 webmaster, ˈwebmæstər,0,0
 webs, web web web web web,1,0
-website, ˈwebˌsɑɪt,1,0
+website, ˈwebˌsɑɪt,0,0
 websites, ˈwebˌsɑɪt,1,0
 webster,,0,1
 websters,,0,1
@@ -280,27 +280,27 @@ wedded, ˈwedɪd,0,0
 wedding, ˈwedɪŋ ˈwed·ɪŋ,0,0
 weddings, ˈwedɪŋ ˈwed·ɪŋ,1,0
 wedge, wedʒ wedʒ wedʒ wedʒ,0,0
-wedged, wedʒ wedʒ,1,0
-wedges,,1,0
+wedged, wedʒ wedʒ,0,0
+wedges,,0,1
 wedgwood,,0,1
 wedlock, ˈwedlɑːk ˈwedˌlɑk,0,0
-wednesday," ˈwenzdeɪ ˈwenz·deɪ, -di",1,0
+wednesday," ˈwenzdeɪ ˈwenz·deɪ, -di",0,0
 wednesdays," ˈwenzdeɪ ˈwenz·deɪ, -di",1,0
 wee, wiː wi,0,0
 weed, wiːd wiːd wiːd wiːd wid,0,0
-weeded, wiːd,1,0
+weeded, wiːd,0,0
 weeding, ˈwiːdɪŋ,0,0
 weeds, wiːd wiːd wiːd wiːd wid,1,0
 weedy, ˈwiːdi ˈwiːdi ˈwiːdi,0,0
 week, wiːk wiːk wiːk wiːk wiːk wik,0,0
-weekday, ˈwiːkdeɪ ˈwikˌdeɪ,1,0
+weekday, ˈwiːkdeɪ ˈwikˌdeɪ,0,0
 weekdays, ˈwiːkdeɪ ˈwikˌdeɪ,1,0
 weekend, ˈwiːkend ˈwiːkend ˈwik·end ˈwiːkend ˈwiːkend,0,0
 weekender,,0,1
 weekends, ˈwiːkend ˈwiːkend ˈwiːkend ˈwiːkend ˈwik·end ˈwiːkend ˈwiːkend ˈwiːkend ˈwiːkend,1,0
 weeklies, ˈwiːkli ˈwik·li,1,0
 weeklong, ˈwiːklɑːŋ ˈwikˈlɔŋ,0,0
-weekly, ˈwiːkli ˈwik·li,1,0
+weekly, ˈwiːkli ˈwik·li,0,0
 weeks, wiːk wiːk wiːk wiːk wiːk wiːk wiːk wik,1,0
 weeny, ˈwiːni,0,0
 weep, wiːp wiːp wip,0,0
@@ -309,13 +309,13 @@ weeps, wiːp wiːp wip,1,0
 weepy, ˈwiːpi,0,0
 weevil, ˈwiːvəl,0,0
 weevils, ˈwiːvəl,1,0
-weigh, weɪ weɪ weɪ weɪ weɪ weɪ,1,0
-weighed, weɪ weɪ weɪ weɪ,1,0
-weighing, weɪ weɪ weɪ weɪ,1,0
+weigh, weɪ weɪ weɪ weɪ weɪ weɪ,0,0
+weighed, weɪ weɪ weɪ weɪ,0,0
+weighing, weɪ weɪ weɪ weɪ,0,0
 weighs, weɪ weɪ weɪ weɪ weɪ weɪ weɪ,1,0
-weight, weɪt weɪt weɪt weɪt weɪt weɪt weɪt weɪt,1,0
+weight, weɪt weɪt weɪt weɪt weɪt weɪt weɪt weɪt,0,0
 weighted, ˈweɪt̬ɪd ˈweɪ·t̬ɪd ˈweɪ·t̬ɪd,0,0
-weighting, ˈweɪt̬ɪŋ ˈweɪt̬ɪŋ,1,0
+weighting, ˈweɪt̬ɪŋ ˈweɪt̬ɪŋ,0,0
 weightless, ˈweɪtləs ˈweɪt·ləs,0,0
 weightlessness, ˈweɪtləsnəs,0,0
 weightlifter, ˈweɪtˌlɪftɚ,0,0
@@ -332,32 +332,32 @@ weirdly, ˈwɪrdli,0,0
 weirdness, ˈwɪrdnəs,0,0
 weirdo, ˈwɪrdoʊ ˈwɪər·doʊ,0,0
 weirdos, ˈwɪrdoʊ ˈwɪər·doʊ,1,0
-welch, weltʃ,1,0
+welch, weltʃ,0,0
 welcher,,0,1
 welcome, ˈwelkəm ˈwelkəm ˈwel·kəm ˈwel·kəm,0,0
-welcomed, ˈwelkəm ˈwelkəm,1,0
+welcomed, ˈwelkəm ˈwelkəm,0,0
 welcomes, ˈwelkəm ˈwelkəm ˈwelkəm ˈwelkəm ˈwelkəm ˈwel·kəm ˈwel·kəm,1,0
 welcoming, ˈwelkəmɪŋ,0,0
 weld, weld weld weld,0,0
-welded, weld weld,1,0
+welded, weld weld,0,0
 welder, ˈweldɚ,0,0
 welders, ˈweldɚ,1,0
 welding, ˈweldɪŋ,0,0
 welds, weld weld weld,1,0
-welfare, ˈwelfer ˈwelfer ˈwel·feər ˈwel·feər,1,0
+welfare, ˈwelfer ˈwelfer ˈwel·feər ˈwel·feər,0,0
 welk,,0,1
-well, wel wel wel wel wel wel wel,1,0
+well, wel wel wel wel wel wel wel,0,0
 wellbeing, ˌwelˈbiːɪŋ ˈwelˈbi·ɪŋ,1,0
 wellborn,,0,1
 weller,,0,1
 wellhead,,0,1
-welling, wel,1,0
+welling, wel,0,0
 wellington, ˈwelɪŋtən,0,0
 wellman,,0,1
 wellness, ˈwelnəs ˈwelnəs ˈwel·nəs,0,0
 wells, wel wel wel wel wel wel wel wel,1,0
 wellspring, ˈwelsprɪŋ,0,0
-welsh, welʃ,1,0
+welsh, welʃ,0,0
 welt, welt welt,0,0
 welter, ˈwelt̬ɚ ˈwel·tər,0,0
 welterweight, ˈwelt̬ɚweɪt,0,0
@@ -372,7 +372,7 @@ went, went went,0,0
 wept, wept wept,0,0
 were," wɝː wɜr, wər",0,0
 werewolf," ˈwerwʊlf ˈwɪərˌwʊlf, ˈweər-, ˈwɜr-",0,0
-werewolves,,1,0
+werewolves,,0,1
 wert,,0,1
 wesley,,0,1
 wesleyan,,0,1
@@ -391,7 +391,7 @@ westerns, ˈwestɚn ˈwestɚn ˈwes·tərn,1,0
 westinghouse,,0,1
 westland,,0,1
 westling,,0,1
-westminster, ˌwestˈmɪnstɚ,1,0
+westminster, ˌwestˈmɪnstɚ,0,0
 westphalia,,0,1
 westward, ˈwestwɚd ˈwest·wərd,0,0
 westwards, ˈwestwɚd ˈwest·wərd,1,0
@@ -400,9 +400,9 @@ wetland, ˈwetlənd,0,0
 wetlands," ˈwet·ləndz, -lændz",0,0
 wetness, ˈwetnəs ˈwetnəs ˈwetnəs,0,0
 wetsuit, ˈwetsuːt,0,0
-wetter,,1,0
-wettest,,1,0
-wetting, wet wet wet,1,0
+wetter,,0,1
+wettest,,0,1
+wetting, wet wet wet,0,0
 wey,,0,1
 weymouth,,0,1
 whack," wæk wæk hwæk, wæk",0,0
@@ -419,7 +419,7 @@ wham," wæm wæm hwæm, wæm",0,0
 whammy, ˈwæmi,0,0
 whan,,0,1
 whang, wæŋ wæŋ,0,0
-wharf," wɔːrf hwɔrf, wɔrf",1,0
+wharf," wɔːrf hwɔrf, wɔrf",0,0
 wharfs,,0,1
 what," wɑːt wɑːt hwʌt, wʌt, hwɑt, wɑt, hwət, wət hwʌt, wʌt, hwɑt, wɑt, hwət, wət hwʌt, wʌt, hwɑt, wɑt, hwət, wət",0,0
 whatever," wɑːˈt̬evɚ wɑːˈt̬evɚ hwʌt̬ˈev·ər, wʌt̬-, hwɑt̬-, wɑt̬- hwʌt̬ˈev·ər, wʌt̬-, hwɑt̬-, wɑt̬-",0,0
@@ -438,12 +438,12 @@ wheelchairs," ˈwiːltʃer ˈhwilˌtʃeər, ˈwil-, -ˌtʃær",1,0
 wheeled,  -wiːld,1,0
 wheeler,  -wiːlɚ,1,0
 wheelers, ˌfɔːrˈwiːlɚ,1,0
-wheeling, wiːl wiːl wiːl,1,0
-wheels,,1,0
+wheeling, wiːl wiːl wiːl,0,0
+wheels,,0,1
 wheelwright,,0,1
 wheeze," wiːz hwiz, wiz",0,0
 wheezes," wiːz hwiz, wiz",1,0
-wheezing, wiːz,1,0
+wheezing, wiːz,0,0
 when," wen wən, hwən",0,0
 whence, wens,0,0
 whenever," wenˈevɚ hwenˈev·ər, wen-, hwən-, wən-",0,0
@@ -459,20 +459,20 @@ wherry,,0,1
 whet, wet,0,0
 whether," ˈweðɚ ˈhweð·ər, ˈweð-",0,0
 whetstone, ˈwetstoʊn,0,0
-whetted,,1,0
+whetted,,0,1
 whew," fhjuː fhjuː fhjuː fhjuː hju, whju, fju",0,0
 whey, weɪ,0,0
 which," wɪtʃ wɪtʃ hwɪtʃ, wɪtʃ",0,0
 whichever," wɪˈtʃevɚ hwɪtʃˈev·ər, wɪtʃ-",0,0
 whiff," wɪf hwɪf, wɪf",0,0
-whig," wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ",1,0
+whig," wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ",0,0
 whigs," wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ hwɪɡ, wɪɡ",1,0
 while," waɪl waɪl waɪl hwɑɪl, wɑɪl",0,0
 whiles,,0,1
-whilst," waɪl waɪl waɪl waɪl hwɑɪl, wɑɪl",1,0
+whilst, waɪlst waɪlst waɪlst,0,0
 whim," wɪm hwɪm, wɪm",0,0
 whimper," ˈwɪmpɚ ˈhwɪm·pər, ˈwɪm-",0,0
-whimpering, ˈwɪmpɚ,1,0
+whimpering, ˈwɪmpɚ,0,0
 whims," wɪm hwɪm, wɪm",1,0
 whimsical," ˈwɪmzɪkəl ˈhwɪm·zɪ·kəl, ˈwɪm- ˈhwɪm·zɪ·kəl, ˈwɪm-",0,0
 whimsy," ˈwɪmzi ˈwɪmzi ˈwɪmzi ˈhwɪm·zi, ˈwɪm-",0,0
@@ -480,5 +480,5 @@ whine," waɪn waɪn hwɑɪn, wɑɪn",0,0
 whiner, ˈwaɪnɚ,0,0
 whiners, ˈwaɪnɚ,1,0
 whines," waɪn waɪn hwɑɪn, wɑɪn",1,0
-whining, waɪn waɪn,1,0
+whining, waɪn waɪn,0,0
 whiny, ˈwaɪni,0,0

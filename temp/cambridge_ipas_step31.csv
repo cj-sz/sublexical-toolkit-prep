@@ -1,6 +1,6 @@
 Word,Pronunciation,Root Word Returned,Missing
-enrolling,,1,0
-enrollment,,1,0
+enrolling,,0,1
+enrollment,,0,1
 enrolls, ɪnˈroʊl ɪnˈroʊl,1,0
 ensconced, ɪnˈskɑːnst,0,0
 ensemble," ˌɑːnˈsɑːmbəl ɑnˈsɑm·bəl, ɑ̃-",0,0
@@ -8,49 +8,49 @@ ensembles," ˌɑːnˈsɑːmbəl ɑnˈsɑm·bəl, ɑ̃-",1,0
 enshrine, ɪnˈʃraɪn ɪnˈʃrɑɪn,0,0
 enshrined, ɪnˈʃraɪn ɪnˈʃraɪn ɪnˈʃrɑɪn,1,0
 enshroud, ɪnˈʃraʊd ɪnˈʃraʊd,0,0
-enshrouded, ɪnˈʃraʊd ɪnˈʃraʊd,1,0
+enshrouded, ɪnˈʃraʊd ɪnˈʃraʊd,0,0
 ensign, ˈensən ˈensən ˈen·sən ˈen·sən,0,0
 enslave, ɪnˈsleɪv ɪnˈsleɪv ɪnˈsleɪv ɪnˈsleɪv,0,0
-enslaved, ɪnˈsleɪv ɪnˈsleɪv ɪnˈsleɪv,1,0
+enslaved, ɪnˈsleɪv ɪnˈsleɪv ɪnˈsleɪv,0,0
 enslavement, ɪnˈsleɪvmənt ɪnˈsleɪvmənt ɪnˈsleɪvmənt,0,0
 ensnare, ɪnˈsner,0,0
-ensnared, ɪnˈsner,1,0
+ensnared, ɪnˈsner,0,0
 ensnares, ɪnˈsner,1,0
 ensue, ɪnˈsuː ɪnˈsu,0,0
-ensued, ɪnˈsuː,1,0
+ensued, ɪnˈsuː,0,0
 ensues, ɪnˈsuː ɪnˈsu,1,0
 ensuing, ɪnˈsuːɪŋ ɪnˈsu·ɪŋ,0,0
 ensure, ɪnˈʃʊr ɪnˈʃʊər,0,0
-ensured, ɪnˈʃʊr,1,0
+ensured, ɪnˈʃʊr,0,0
 ensures, ɪnˈʃʊr ɪnˈʃʊər,1,0
-ensuring, ɪnˈʃʊr,1,0
-entail, ɪnˈteɪl ɪnˈteɪl,1,0
-entailed, ɪnˈteɪl,1,0
-entailing, ɪnˈteɪl,1,0
+ensuring, ɪnˈʃʊr,0,0
+entail, ɪnˈteɪl ɪnˈteɪl,0,0
+entailed, ɪnˈteɪl,0,0
+entailing, ɪnˈteɪl,0,0
 entails, ɪnˈteɪl ɪnˈteɪl,1,0
 entangle, ɪnˈtæŋɡəl ɪnˈtæŋ·ɡəl,0,0
 entangled, ɪnˈtæŋɡəl ɪnˈtæŋɡəl ɪnˈtæŋ·ɡəl,1,0
 entanglement, ɪnˈtæŋɡəlmənt ɪnˈtæŋɡəlmənt ɪnˈtæŋ·ɡəl·mənt ɪnˈtæŋ·ɡəl·mənt,0,0
 entanglements, ɪnˈtæŋɡəlmənt ɪnˈtæŋɡəlmənt ɪnˈtæŋ·ɡəl·mənt ɪnˈtæŋ·ɡəl·mənt,1,0
 entendre,,0,1
-enter, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈen·tər ˈen·tər ˈen·tər ˈen·tər ˈen·tər,1,0
-entered, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ,1,0
-entering, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ,1,0
-enterprise, ˈent̬ɚpraɪz ˈent̬ɚpraɪz ˈen·tərˌprɑɪz ˈen·tərˌprɑɪz,1,0
+enter, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈen·tər ˈen·tər ˈen·tər ˈen·tər ˈen·tər,0,0
+entered, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ,0,0
+entering, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ,0,0
+enterprise, ˈent̬ɚpraɪz ˈent̬ɚpraɪz ˈen·tərˌprɑɪz ˈen·tərˌprɑɪz,0,0
 enterprises, ˈent̬ɚpraɪz ˈent̬ɚpraɪz ˈen·tərˌprɑɪz ˈen·tərˌprɑɪz,1,0
-enterprising, ˈent̬ɚpraɪzɪŋ ˈen·tərˌprɑɪ·zɪŋ,1,0
+enterprising, ˈent̬ɚpraɪzɪŋ ˈen·tərˌprɑɪ·zɪŋ,0,0
 enters, ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈent̬ɚ ˈen·tər ˈen·tər ˈen·tər ˈen·tər ˈen·tər,1,0
-entertain, ent̬ɚˈteɪn ent̬ɚˈteɪn ent̬ɚˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn,1,0
-entertained, ent̬ɚˈteɪn ent̬ɚˈteɪn ent̬ɚˈteɪn,1,0
+entertain, ent̬ɚˈteɪn ent̬ɚˈteɪn ent̬ɚˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn,0,0
+entertained, ent̬ɚˈteɪn ent̬ɚˈteɪn ent̬ɚˈteɪn,0,0
 entertainer, ent̬ɚˈteɪnɚ ˌen·tərˈteɪ·nər,0,0
 entertainers, ent̬ɚˈteɪnɚ ˌen·tərˈteɪ·nər,1,0
 entertaining, ent̬ɚˈteɪnɪŋ ˌen·tərˈteɪ·nɪŋ,0,0
-entertainment, ent̬ɚˈteɪnmənt ˌen·tərˈteɪn·mənt,1,0
+entertainment, ent̬ɚˈteɪnmənt ˌen·tərˈteɪn·mənt,0,0
 entertainments, ent̬ɚˈteɪnmənt ˌen·tərˈteɪn·mənt,1,0
 entertains, ent̬ɚˈteɪn ent̬ɚˈteɪn ent̬ɚˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn ˌen·tərˈteɪn,1,0
 enthral, ɪnˈθrɑːl,0,0
-enthralled,,1,0
-enthused, ɪnˈθjuːz ɪnˈθjuːz,1,0
+enthralled,,0,1
+enthused, ɪnˈθjuːz ɪnˈθjuːz,0,0
 enthusiasm, ɪnˈθuːziæzəm ɪnˈθuːziæzəm ɪnˈθu·ziˌæz·əm,0,0
 enthusiasms, ɪnˈθuːziæzəm ɪnˈθuːziæzəm ɪnˈθu·ziˌæz·əm,1,0
 enthusiast," ɪnˈθuːziæst ɪnˈθu·ziˌæst, -əst",0,0
@@ -58,7 +58,7 @@ enthusiastic, ɪnˌθuːziˈæstɪk,0,0
 enthusiastically, ɪnˌθuːziˈæstɪkəli,0,0
 enthusiasts," ɪnˈθuːziæst ɪnˈθu·ziˌæst, -əst",1,0
 entice, ɪnˈtaɪs ɪnˈtɑɪs,0,0
-enticed, ɪnˈtaɪs,1,0
+enticed, ɪnˈtaɪs,0,0
 enticement, ɪnˈtaɪsmənt,0,0
 enticements, ɪnˈtaɪsmənt,1,0
 enticing, ɪnˈtaɪsɪŋ,0,0
@@ -66,23 +66,23 @@ entire, ɪnˈtaɪr ɪnˈtɑɪər,0,0
 entirely, ɪnˈtaɪrli,0,0
 entirety,,0,1
 entities, ˈent̬ət̬i ˈent·ət̬·i,1,0
-entitle, ɪnˈtaɪt̬əl ɪnˈtaɪt̬əl ɪnˈtɑɪ·t̬əl ɪnˈtɑɪ·t̬əl,1,0
+entitle, ɪnˈtaɪt̬əl ɪnˈtaɪt̬əl ɪnˈtɑɪ·t̬əl ɪnˈtɑɪ·t̬əl,0,0
 entitled, ɪnˈtaɪt̬əld,0,0
-entitlement, ɪnˈtaɪt̬əlmənt ɪnˈtaɪt̬əlmənt ɪnˈtɑɪ·t̬əl·mənt,1,0
+entitlement, ɪnˈtaɪt̬əlmənt ɪnˈtaɪt̬əlmənt ɪnˈtɑɪ·t̬əl·mənt,0,0
 entitles, ɪnˈtaɪt̬əl ɪnˈtaɪt̬əl ɪnˈtɑɪ·t̬əl ɪnˈtɑɪ·t̬əl,1,0
-entity, ˈent̬ət̬i ˈent·ət̬·i,1,0
+entity, ˈent̬ət̬i ˈent·ət̬·i,0,0
 entomb, ɪnˈtuːm,0,0
-entombed, ɪnˈtuːm,1,0
+entombed, ɪnˈtuːm,0,0
 entombment,,0,1
 entomologist, ˌent̬əˈmɑːlədʒɪst,0,0
 entomologists, ˌent̬əˈmɑːlədʒɪst,1,0
 entomology, ˌent̬əˈmɑːlədʒi,0,0
 entourage, ˌɑːntuːˈrɑːʒ ˌɑn·tʊˈrɑʒ,0,0
 entrails, ˈentreɪlz,0,0
-entrance, ˈentrəns ˈentrəns ˈentrəns ˈentrəns ˈen·trəns ˈen·trəns,1,0
+entrance, ˈentrəns ˈentrəns ˈentrəns ˈentrəns ˈen·trəns ˈen·trəns,0,0
 entranced, ɪnˈtrænst,0,0
 entrances, ˈentrəns ˈentrəns ˈentrəns ˈentrəns ˈen·trəns ˈen·trəns,1,0
-entrant, ˈentrənt ˈentrənt ˈentrənt ˈen·trənt,1,0
+entrant, ˈentrənt ˈentrənt ˈentrənt ˈen·trənt,0,0
 entrants, ˈentrənt ˈentrənt ˈentrənt ˈen·trənt,1,0
 entrap, ɪnˈtræp ɪnˈtræp,0,0
 entrapment, ɪnˈtræpmənt,0,0
@@ -93,44 +93,44 @@ entreaty, ɪnˈtriːt̬i,0,0
 entree, ˈɑːntreɪ ˈɑːntreɪ ˈɑːntreɪ ˈɑn·treɪ,1,0
 entrees, ˈɑːntreɪ ˈɑːntreɪ ˈɑːntreɪ ˈɑn·treɪ,1,0
 entrenched, ɪnˈtrentʃt ɪnˈtrentʃt,0,0
-entrepreneur," ˌɑːntrəprəˈnɝː ˌɑn·trə·prəˈnɜr, -ˈnʊər",1,0
+entrepreneur," ˌɑːntrəprəˈnɝː ˌɑn·trə·prəˈnɜr, -ˈnʊər",0,0
 entrepreneurial, ˌɑːntrəprəˈnʊriəl ˌɑːntrəprəˈnɝːi-,0,0
 entrepreneurs," ˌɑːntrəprəˈnɝː ˌɑn·trə·prəˈnɜr, -ˈnʊər",1,0
 entries, ˈentri ˈentri ˈentri ˈentri ˈen·tri ˈen·tri ˈen·tri ˈen·tri,1,0
 entropy, ˈentrəpi ˈentrəpi ˈen·trə·pi,0,0
-entrust, ɪnˈtrʌst ɪnˈtrʌst,1,0
-entrusted, ɪnˈtrʌst,1,0
-entrusting, ɪnˈtrʌst,1,0
-entry, ˈentri ˈentri ˈentri ˈentri ˈen·tri ˈen·tri ˈen·tri ˈen·tri,1,0
+entrust, ɪnˈtrʌst ɪnˈtrʌst,0,0
+entrusted, ɪnˈtrʌst,0,0
+entrusting, ɪnˈtrʌst,0,0
+entry, ˈentri ˈentri ˈentri ˈentri ˈen·tri ˈen·tri ˈen·tri ˈen·tri,0,0
 entryway, ˈentriweɪ ˈentriweɪ ˈentriweɪ ˈen·triˌweɪ,0,0
 entwine, ɪnˈtwaɪn ɪnˈtwɑɪn,0,0
 entwined, ɪnˈtwaɪnd,0,0
 enumerate, ɪˈnuːmɚeɪt ɪˈnu·məˌreɪt,0,0
-enumerated, ɪˈnuːmɚeɪt,1,0
+enumerated, ɪˈnuːmɚeɪt,0,0
 enumeration, ɪˌnuːməˈreɪʃən,0,0
 enunciate, ɪˈnʌnsieɪt ɪˈnʌnsieɪt ɪˈnʌn·siˌeɪt ɪˈnʌn·siˌeɪt,0,0
-enunciated, ɪˈnʌnsieɪt ɪˈnʌnsieɪt,1,0
-enunciating, ɪˈnʌnsieɪt ɪˈnʌnsieɪt,1,0
+enunciated, ɪˈnʌnsieɪt ɪˈnʌnsieɪt,0,0
+enunciating, ɪˈnʌnsieɪt ɪˈnʌnsieɪt,0,0
 envelop, ɪnˈveləp ɪnˈvel·əp,0,0
-envelope," ˈɑːnvəloʊp ˈen·vəˌloʊp, ˈɑn-",1,0
-enveloped, ɪnˈveləp,1,0
+envelope," ˈɑːnvəloʊp ˈen·vəˌloʊp, ˈɑn-",0,0
+enveloped, ɪnˈveləp,0,0
 envelopes," ˈɑːnvəloʊp ˈen·vəˌloʊp, ˈɑn-",1,0
-enveloping, ɪnˈveləp,1,0
+enveloping, ɪnˈveləp,0,0
 envelops, ɪnˈveləp ɪnˈvel·əp,1,0
 enviable, ˈenviəbəl ˈen·vi·ə·bəl,0,0
-envied, ˈenvi,1,0
+envied, ˈenvi,0,0
 envious, ˈenviəs ˈen·vi·əs,0,0
 enviously, ˈenviəsli,0,0
 environment," ɪnˈvaɪrəmənt ɪnˈvɑɪ·rən·mənt, -ˈvɑɪ·ərn- ɪnˈvɑɪ·rən·mənt, -ˈvɑɪ·ərn-",0,1
-environmental," ɪnˌvaɪrəˈment̬əl ɪnˌvɑɪ·rənˈmen·təl, -ˌvɑɪ·ərn-",1,0
+environmental," ɪnˌvaɪrəˈment̬əl ɪnˌvɑɪ·rənˈmen·təl, -ˌvɑɪ·ərn-",0,0
 environmentalism, ɪnˌvaɪrəˈment̬əlɪzəm -ˌvaɪrəˈmenṱəl-,0,0
-environmentalist," ɪnˌvaɪrəˈment̬əlɪst ɪnˌvɑɪ·rənˈmen·təl·ɪst, -ˌvɑɪ·ərn-",1,0
+environmentalist," ɪnˌvaɪrəˈment̬əlɪst ɪnˌvɑɪ·rənˈmen·təl·ɪst, -ˌvɑɪ·ərn-",0,0
 environmentalists," ɪnˌvaɪrəˈment̬əlɪst ɪnˌvɑɪ·rənˈmen·təl·ɪst, -ˌvɑɪ·ərn-",1,0
 environmentally, ɪnˌvaɪrəˈment̬əli,0,0
 environments,,0,1
 environs," ɪnˈvaɪrənz ɪnˈvɑɪ·rənz, -ˈvɑɪ·ərnz",0,0
 envisage, ɪnˈvɪzɪdʒ ɪnˈvɪzɪdʒ,0,0
-envisaged, ɪnˈvɪzɪdʒ ɪnˈvɪzɪdʒ,1,0
+envisaged, ɪnˈvɪzɪdʒ ɪnˈvɪzɪdʒ,0,0
 envision, ɪnˈvɪʒən ɪnˈvɪʒ·ən,0,0
 envisioned, ɪnˈvɪʒən ɪnˈvɪʒ·ən,1,0
 envisioning, ɪnˈvɪʒən ɪnˈvɪʒ·ən,1,0
@@ -141,7 +141,7 @@ envy, ˈenvi ˈen·vi,0,0
 enzymatic, ˌenzɪˈmæt̬ɪk,0,0
 enzyme, ˈenzaɪm ˈen·zɑɪm,0,0
 enzymes, ˈenzaɪm ˈen·zɑɪm,1,0
-eocene, ˈiːoʊsiːn ˈiːoʊsiːn,1,0
+eocene, ˈiːoʊsiːn ˈiːoʊsiːn,0,0
 eohippus,,0,1
 eon, ˈiːɑːn ˈiːɑːn ˈiːɑːn,0,0
 eons, ˈiːɑːn ˈiːɑːn ˈiːɑːn,1,0
@@ -168,8 +168,8 @@ epileptic, ˌepəˈleptɪk,0,0
 epileptics, ˌepəˈleptɪk,1,0
 epilogue," ˈepəlɑːɡ ˈep·əˌlɑɡ, -ˌlɔɡ",0,0
 epiphany, ɪˈpɪfəni ɪˈpɪfəni,0,0
-episcopal, ɪˈpɪskəpəl ɪˈpɪs·kə·pəl,1,0
-episcopalian, ɪˌpɪskəˈpeɪliən,1,0
+episcopal, ɪˈpɪskəpəl ɪˈpɪs·kə·pəl,0,0
+episcopalian, ɪˌpɪskəˈpeɪliən,0,0
 episcopalians, ɪˌpɪskəˈpeɪliən,1,0
 episode, ˈepəsoʊd ˈepəsoʊd ˈepəsoʊd ˈep·əˌsoʊd ˈep·əˌsoʊd ˈep·əˌsoʊd,0,0
 episodes, ˈepəsoʊd ˈepəsoʊd ˈepəsoʊd ˈep·əˌsoʊd ˈep·əˌsoʊd ˈep·əˌsoʊd,1,0
@@ -183,7 +183,7 @@ epithet, ˈepəθet ˈep·əˌθet,0,0
 epithets, ˈepəθet ˈep·əˌθet,1,0
 epitome, ɪˈpɪt̬·ə·mi,0,1
 epitomize, ɪˈpɪt̬əmaɪz,0,0
-epitomized, ɪˈpɪt̬əmaɪz,1,0
+epitomized, ɪˈpɪt̬əmaɪz,0,0
 epitomizes, ɪˈpɪt̬əmaɪz,1,0
 epoch," ˈiːpɑːk ˈiːpɑːk ˈep·ək, -ɑk",0,0
 epochal, ˈepəkəl,0,0
@@ -191,71 +191,71 @@ epoxy, ɪˈpɑːksi,0,0
 eppes,,0,1
 epsilon, ˈepsəlɑːn,0,0
 epsom,,0,1
-equal, ˈiːkwəl ˈiːkwəl ˈiːkwəl ˈi·kwəl ˈi·kwəl,1,0
+equal, ˈiːkwəl ˈiːkwəl ˈiːkwəl ˈi·kwəl ˈi·kwəl,0,0
 equaled, ˈiːkwəl ˈiːkwəl ˈiːkwəl ˈi·kwəl ˈi·kwəl,1,0
-equality, iˈkwɑːlət̬i ɪˈkwɑl·ə·t̬i,1,0
+equality, iˈkwɑːlət̬i ɪˈkwɑl·ə·t̬i,0,0
 equalization, ˌiːkwələˈzeɪʃən ˌiːkwəlɪˈzeɪʃən ˌiːkwəlɪˈzeɪʃən,0,0
-equalize, ˈiːkwəlaɪz ˈiːkwəlaɪz,1,0
-equalized, ˈiːkwəlaɪz ˈiːkwəlaɪz,1,0
+equalize, ˈiːkwəlaɪz ˈiːkwəlaɪz,0,0
+equalized, ˈiːkwəlaɪz ˈiːkwəlaɪz,0,0
 equalizer, ˈiːkwəlaɪzɚ ˈiːkwəlaɪzɚ ˈiːkwəlaɪzɚ,0,0
 equalizes, ˈiːkwəlaɪz ˈiːkwəlaɪz,1,0
-equalizing, ˈiːkwəlaɪz ˈiːkwəlaɪz,1,0
+equalizing, ˈiːkwəlaɪz ˈiːkwəlaɪz,0,0
 equally, ˈiːkwəli ˈiːkwəli ˈiːkwəli ˈiːkwəli,0,0
 equals, ˈiːkwəl ˈiːkwəl ˈiːkwəl ˈi·kwəl ˈi·kwəl,1,0
 equanimity," ˌekwəˈnɪmət̬i ˌek·wəˈnɪm·ɪ·t̬i, ˌi·kwə-",0,0
-equate, ɪˈkweɪt ɪˈkweɪt,1,0
-equated, ɪˈkweɪt,1,0
+equate, ɪˈkweɪt ɪˈkweɪt,0,0
+equated, ɪˈkweɪt,0,0
 equates, ɪˈkweɪt ɪˈkweɪt,1,0
-equating, ɪˈkweɪt,1,0
-equation, ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪ·ʒən,1,0
+equating, ɪˈkweɪt,0,0
+equation, ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪ·ʒən,0,0
 equations, ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪʒən ɪˈkweɪ·ʒən,1,0
 equator, ɪˈkweɪt̬ɚ ɪˈkweɪ·t̬ər,0,0
 equatorial," ˌekwəˈtɔːriəl ˌek·wəˈtɔr·i·əl, ˌI·kwə-",0,0
 equestrian, ɪˈkwestriən ɪˈkwes·tri·ən ɪˈkwes·tri·ən,0,0
-equilibrium," ˌiːkwəˈlɪbriəm ˌiːkwəˈlɪbriəm ˌiːkwəˈlɪbriəm ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə-",1,0
+equilibrium," ˌiːkwəˈlɪbriəm ˌiːkwəˈlɪbriəm ˌiːkwəˈlɪbriəm ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə- ˌi·kwəˈlɪb·ri·əm, ˌek·wə-",0,0
 equine, ˈekwaɪn,0,0
 equinox," ˈekwənɑːks ˈi·kwəˌnɑks, ˈek·wə-",0,0
-equip, ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp,1,0
-equipment, ɪˈkwɪpmənt ɪˈkwɪpmənt ɪˈkwɪp·mənt,1,0
+equip, ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp,0,0
+equipment, ɪˈkwɪpmənt ɪˈkwɪpmənt ɪˈkwɪp·mənt,0,0
 equipments,,0,1
 equipped, ɪˈkwɪpt ɪˈkwɪpt,0,0
-equipping,,1,0
+equipping,,0,1
 equips, ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp ɪˈkwɪp,1,0
-equitable, ˈekwɪt̬əbəl ˈek·wɪ·t̬ə·bəl,1,0
+equitable, ˈekwɪt̬əbəl ˈek·wɪ·t̬ə·bəl,0,0
 equitation,,0,1
-equities,,1,0
-equity, ˈekwət̬i ˈekwət̬i ˈekwət̬i ˈekwət̬i ˈek·wɪ·t̬i ˈek·wɪ·t̬i ˈek·wɪ·t̬i,1,0
+equities,,0,1
+equity, ˈekwət̬i ˈekwət̬i ˈekwət̬i ˈekwət̬i ˈek·wɪ·t̬i ˈek·wɪ·t̬i ˈek·wɪ·t̬i,0,0
 equivalency, ɪˈkwɪvələnsi,0,0
-equivalent, ɪˈkwɪvələnt ɪˈkwɪv·ə·lənt,1,0
+equivalent, ɪˈkwɪvələnt ɪˈkwɪv·ə·lənt,0,0
 equivalents, ɪˈkwɪvələnt ɪˈkwɪv·ə·lənt ɪˈkwɪv·ə·lənt,1,0
 equivocal, ɪˈkwɪvəkəl ɪˈkwɪv·ə·kəl,0,0
 equivocate, ɪˈkwɪvəkeɪt,0,0
-equivocating, ɪˈkwɪvəkeɪt,1,0
+equivocating, ɪˈkwɪvəkeɪt,0,0
 equivocation, ɪˌkwɪvəˈkeɪʃən,0,0
-er, ˌiːˈɑːr ˌiːˈɑːr  -ɚ  -ɚ  -ɚ  -ɚ  -ɚ,1,0
-era," ˈerə ˈerə ˈɪər·ə, ˈer·ə",1,0
+er, ˌiːˈɑːr ˌiːˈɑːr  -ɚ  -ɚ  -ɚ  -ɚ  -ɚ,0,0
+era," ˈerə ˈerə ˈɪər·ə, ˈer·ə",0,0
 eradicate, ɪˈrædɪkeɪt ɪˈræd·əˌkeɪt,0,0
-eradicated, ɪˈrædɪkeɪt,1,0
-eradicating, ɪˈrædɪkeɪt,1,0
+eradicated, ɪˈrædɪkeɪt,0,0
+eradicating, ɪˈrædɪkeɪt,0,0
 eradication, ɪˌrædəˈkeɪʃən,0,0
-eras," ˈerə ˈerə ˈɪər·ə, ˈer·ə",1,0
+eras," ˈerə ˈerə ˈerə ˈɪər·ə, ˈer·ə",1,0
 erasable, ɪˈreɪsəbəl ɪˈreɪsəbəl,0,0
 erase, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,0,0
-erased, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,1,0
+erased, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,0,0
 eraser, ɪˈreɪsɚ ɪˈreɪ·sər,0,0
 erasers, ɪˈreɪsɚ ɪˈreɪ·sər,1,0
 erases, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,1,0
-erasing, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,1,0
+erasing, ɪˈreɪs ɪˈreɪs ɪˈreɪs ɪˈreɪs,0,0
 erasmus,,0,1
 ere, er,0,0
 erect, ɪˈrekt ɪˈrekt ɪˈrekt ɪˈrekt,0,0
-erected, ɪˈrekt ɪˈrekt,1,0
-erecting, ɪˈrekt ɪˈrekt,1,0
+erected, ɪˈrekt ɪˈrekt,0,0
+erecting, ɪˈrekt ɪˈrekt,0,0
 erection, ɪˈrekʃən ɪˈrekʃən ɪˈrekʃən,0,0
 erections, ɪˈrekʃən ɪˈrekʃən ɪˈrekʃən,1,0
 erector, ɪˈrektɚ ɪˈrektɚ,0,0
-ergo, ˈerɡoʊ,1,0
-ergonomic, ˌɝːɡəˈnɑːmɪk,1,0
+ergo, ˈerɡoʊ,0,0
+ergonomic, ˌɝːɡəˈnɑːmɪk,0,0
 ergonomically, ˌɝːɡəˈnɑːmɪkəli,0,0
 ergot,,0,1
 ergotism,,0,1
@@ -267,11 +267,11 @@ erin,,0,1
 erk,,0,1
 ermine, ˈɝːmɪn,0,0
 ernest,,0,1
-erode, ɪˈroʊd ɪˈroʊd ɪˈroʊd ɪˈroʊd,1,0
-eroded, ɪˈroʊd ɪˈroʊd,1,0
-eroding, ɪˈroʊd ɪˈroʊd,1,0
-eros, ˈerɑːs ˈerɑːs,1,0
-erosion, ɪˈroʊʒən ɪˈroʊʒən ɪˈroʊ·ʒən ɪˈroʊ·ʒən,1,0
+erode, ɪˈroʊd ɪˈroʊd ɪˈroʊd ɪˈroʊd,0,0
+eroded, ɪˈroʊd ɪˈroʊd,0,0
+eroding, ɪˈroʊd ɪˈroʊd,0,0
+eros, ˈerɑːs ˈerɑːs,0,0
+erosion, ɪˈroʊʒən ɪˈroʊʒən ɪˈroʊ·ʒən ɪˈroʊ·ʒən,0,0
 erosive, ɪˈroʊsɪv ɪˈroʊsɪv ɪˈroʊsɪv,0,0
 erotic, ɪˈrɑːt̬ɪk ɪˈrɑt̬·ɪk,0,0
 erotica, ɪˈrɑːt̬ɪkə,0,0
@@ -280,13 +280,13 @@ err," ɝː er, ɜr",0,0
 errand, ˈerənd ˈer·ənd,0,0
 errands, ˈerənd ˈer·ənd,1,0
 errant, ˈerənt ˈer·ənt ˈer·ənt,0,0
-erratic, ɪˈræt̬ɪk ɪˈræt̬·ɪk,1,0
+erratic, ɪˈræt̬ɪk ɪˈræt̬·ɪk,0,0
 erratically, ɪˈræt̬ɪkəli,0,0
-erred, ɝː,1,0
-erring, ɝː,1,0
+erred, ɝː,0,0
+erring, ɝː,0,0
 erroneous, əˈroʊniəs ɪˈroʊ·ni·əs,0,0
 erroneously, əˈroʊniəsli,0,0
-error, ˈerɚ ˈer·ər,1,0
+error, ˈerɚ ˈer·ər,0,0
 errors, ˈerɚ ˈerɚ ˈerɚ ˈer·ər,1,0
 errs," ɝː er, ɜr",1,0
 ers, ˌiːˈɑːr ˌiːˈɑːr  -ɚ  -ɚ  -ɚ  -ɚ  -ɚ,1,0
@@ -295,8 +295,8 @@ erstwhile, ˈɝːstwaɪl,0,0
 erudite, ˈerjədaɪt ˈer·jəˌdɑɪt,0,0
 erudition, ˌerjuˈdɪʃən,0,0
 erupt, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,0,0
-erupted, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,1,0
-erupting, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,1,0
+erupted, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,0,0
+erupting, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,0,0
 eruption, ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən,0,0
 eruptions, ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən ɪˈrʌpʃən,1,0
 eruptive,,0,1
@@ -304,86 +304,86 @@ erupts, ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt ɪˈrʌpt,1,
 es,,0,1
 esau,,0,1
 escalade,,0,1
-escalate, ˈeskəleɪt ˈeskəleɪt ˈes·kəˌleɪt,1,0
-escalated, ˈeskəleɪt ˈeskəleɪt,1,0
+escalate, ˈeskəleɪt ˈeskəleɪt ˈes·kəˌleɪt,0,0
+escalated, ˈeskəleɪt ˈeskəleɪt,0,0
 escalates, ˈeskəleɪt ˈeskəleɪt ˈes·kəˌleɪt,1,0
-escalating,,1,0
+escalating,,0,1
 escalation, ˌeskəˈleɪʃən ˌes·kəˈleɪ·ʃən,0,0
 escalator, ˈeskəleɪt̬ɚ ˈes·kəˌleɪ·t̬ər,0,0
 escalators, ˈeskəleɪt̬ɚ ˈes·kəˌleɪ·t̬ər,1,0
 escapade, ˈeskəpeɪd ˈes·kəˌpeɪd,0,0
 escapades, ˈeskəpeɪd ˈes·kəˌpeɪd,1,0
-escape, ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp,1,0
+escape, ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp,0,0
 escaped, ɪˈskeɪpt,0,0
 escapee, ɪˌskeɪˈpiː,0,0
 escapees, ɪˌskeɪˈpiː,1,0
-escapes, ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp,1,0
-escaping, ɪˈskeɪp ɪˈskeɪp,1,0
+escapes, ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp ɪˈskeɪp,1,0
+escaping, ɪˈskeɪp ɪˈskeɪp,0,0
 escapism, ɪˈskeɪpɪzəm ɪˈskeɪˌpɪz·əm,0,0
 escarpment, esˈkɑːrpmənt ɪˈskɑrp·mənt,0,0
 eschew, esˈtʃuː ɪsˈtʃu,0,0
-eschewed, esˈtʃuː,1,0
-eschewing, esˈtʃuː,1,0
+eschewed, esˈtʃuː,0,0
+eschewing, esˈtʃuː,0,0
 eschews, esˈtʃuː ɪsˈtʃu,1,0
 escobedo,,0,1
 escort," esˈkɔːrt esˈkɔːrt esˈkɔːrt ɪsˈkɔrt, es-",0,0
-escorted, esˈkɔːrt esˈkɔːrt esˈkɔːrt,1,0
-escorting, esˈkɔːrt esˈkɔːrt esˈkɔːrt,1,0
+escorted, esˈkɔːrt esˈkɔːrt esˈkɔːrt,0,0
+escorting, esˈkɔːrt esˈkɔːrt esˈkɔːrt,0,0
 escorts," esˈkɔːrt esˈkɔːrt esˈkɔːrt ɪsˈkɔrt, es-",1,0
 escrow, ˈeskroʊ -kroʊ,0,0
 escudero,,0,1
 escudos, esˈkuːdoʊ,1,0
-eskimo, ˈeskəmoʊ ˈes·kəˌmoʊ,1,0
+eskimo, ˈeskəmoʊ ˈes·kəˌmoʊ,0,0
 eskimos, ˈeskəmoʊ ˈes·kəˌmoʊ,1,0
 esophagus, ɪˈsɑːfəɡəs ɪˈsɑf·ə·ɡəs,0,0
 esoteric, ˌesəˈterɪk ˌes·əˈter·ɪk,0,0
 espanol,,0,1
 especial, ɪˈspeʃəl,0,0
 especially, ɪˈspeʃəli ɪˈspeʃəli ɪˈspeʃ·ə·li,0,0
-esperanto, ˌespəˈræntoʊ,1,0
-espionage, ˈespiənɑːʒ ˈes·pi·əˌnɑʒ,1,0
+esperanto, ˌespəˈræntoʊ,0,0
+espionage, ˈespiənɑːʒ ˈes·pi·əˌnɑʒ,0,0
 esplanade, ˈesplənɑːd,0,0
 espouse, esˈpaʊz ɪsˈpɑʊz,0,0
-espoused, esˈpaʊz,1,0
+espoused, esˈpaʊz,0,0
 espouses, esˈpaʊz ɪsˈpɑʊz,1,0
-espousing, esˈpaʊz,1,0
+espousing, esˈpaʊz,0,0
 espresso, esˈpresoʊ eˈspres·oʊ,0,0
 espressos, esˈpresoʊ eˈspres·oʊ,1,0
 esprit,,0,1
 espy, esˈpaɪ,0,0
 esquire, ˈeskwaɪr ˈeskwaɪr ˈeskwaɪr,0,0
-ess,,1,0
+ess,,0,1
 essay, ˈeseɪ ˈes·eɪ ˈes·eɪ,0,0
 essays, ˈeseɪ ˈes·eɪ ˈes·eɪ,1,0
 esse,,0,1
 essence, ˈesəns ˈesəns ˈes·əns ˈes·əns,0,0
-essential, ɪˈsenʃəl ɪˈsenʃəl ɪˈsen·ʃəl ɪˈsen·ʃəl,1,0
+essential, ɪˈsenʃəl ɪˈsenʃəl ɪˈsen·ʃəl ɪˈsen·ʃəl,0,0
 essentially, ɪˈsenʃəli,0,0
 essentials, ɪˈsenʃəl ɪˈsenʃəl ɪˈsen·ʃəl ɪˈsen·ʃəl,1,0
-est,  -ɪst,1,0
-establish, ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ,1,0
+est,  -ɪst,0,0
+establish, ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ,0,0
 established, ɪˈstæblɪʃt ɪˈstæblɪʃt ɪˈstæblɪʃt ɪˈstæb·lɪʃt,0,0
 establishes, ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ ɪˈstæb·lɪʃ,1,0
-establishing, ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ,1,0
-establishment, ɪˈstæblɪʃmənt ɪˈstæblɪʃmənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt,1,0
+establishing, ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ ɪˈstæblɪʃ,0,0
+establishment, ɪˈstæblɪʃmənt ɪˈstæblɪʃmənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt,0,0
 establishments, ɪˈstæblɪʃmənt ɪˈstæblɪʃmənt ɪˈstæblɪʃmənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt ɪˈstæb·lɪʃ·mənt,1,0
-estate, ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt,1,0
+estate, ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt,0,0
 estates, ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt ɪˈsteɪt,1,0
-esteem, ɪˈstiːm ɪˈstim,1,0
+esteem, ɪˈstiːm ɪˈstim,0,0
 esteemed, ɪˈstim,0,0
 ester, ˈestɚ ˈes·tər,0,0
 esther,,0,1
 esthetic," esˈθet̬ɪk esˈθet̬·ɪk, ɪs-",0,0
 esthetically, esˈθet̬ɪkəli,0,0
 estimable, ˈestəməbəl ˈes·tə·mə·bəl,0,0
-estimate, ˈestəmeɪt ˈes·tə·mət ˈes·tə·mət,1,0
+estimate, ˈestəmeɪt ˈes·tə·mət ˈes·tə·mət,0,0
 estimated, ˈestəmeɪt̬ɪd -ṱɪd,0,0
 estimates, ˈestəmeɪt ˈes·tə·mət ˈes·tə·mət,1,0
-estimating, ˈestəmeɪt,1,0
-estimation, ˌestəˈmeɪʃən ˌestəˈmeɪʃən ˌes·təˈmeɪ·ʃən,1,0
+estimating, ˈestəmeɪt,0,0
+estimation, ˌestəˈmeɪʃən ˌestəˈmeɪʃən ˌes·təˈmeɪ·ʃən,0,0
 estimations, ˌestəˈmeɪʃən ˌestəˈmeɪʃən ˌes·təˈmeɪ·ʃən,1,0
-estonia, esˈtoʊniə,1,0
-estonian, esˈtoʊniən,1,0
+estonia, esˈtoʊniə,0,0
+estonian, esˈtoʊniən,0,0
 estrada,,0,1
 estrange, ɪˈstreɪndʒ ɪˈstreɪndʒ,0,0
 estranged, ɪˈstreɪndʒd ɪˈstreɪndʒd ɪˈstreɪndʒd,0,0
@@ -396,7 +396,7 @@ et,,0,1
 etc," etˈset̬ərə etˌset̬·ər·ə, ɪt-, -ˈse·trə",1,0
 etcetera,,0,1
 etch, etʃ etʃ,0,0
-etched, etʃ,1,0
+etched, etʃ,0,0
 etching, ˈetʃɪŋ ˈetʃɪŋ ˈetʃ·ɪŋ,0,0
 etchings, ˈetʃɪŋ ˈetʃɪŋ ˈetʃ·ɪŋ,1,0
 eternal," ɪˈtɝːnəl ɪˈtɜr·nəl, i-",0,0
@@ -406,41 +406,41 @@ ethanol," ˈeθənɑːl ˈeθ·əˌnɔl, -ˌnɑl",0,0
 ethel,,0,1
 ether, ˈiːθɚ ˈi·θər,0,0
 ethereal, iˈθɪriəl ɪˈθɪər·i·əl,0,0
-ethernet, ˈiːθɚnet,1,0
+ethernet, ˈiːθɚnet,0,0
 ethers,,0,1
-ethic, ˈeθɪk ˈeθ·ɪk,1,0
-ethical, ˈeθɪkəl ˈeθɪkəl ˈeθɪkəl,1,0
+ethic, ˈeθɪk ˈeθ·ɪk,0,0
+ethical, ˈeθɪkəl ˈeθɪkəl ˈeθɪkəl,0,0
 ethically, ˈeθɪkəli,0,0
-ethics, ˈeθ·ɪks,1,0
-ethiopia, ˌiːθiˈoʊpiə,1,0
-ethiopian, ˌiːθiːˈoʊpiən,1,0
+ethics, ˈeθ·ɪks,0,0
+ethiopia, ˌiːθiˈoʊpiə,0,0
+ethiopian, ˌiːθiːˈoʊpiən,0,0
 ethiopians, ˌiːθiːˈoʊpiən,1,0
-ethnic, ˈeθnɪk ˈeθnɪk ˈeθ·nɪk,1,0
+ethnic, ˈeθnɪk ˈeθnɪk ˈeθ·nɪk,0,0
 ethnically, ˈeθnɪkəli,0,0
 ethnicity, eθˈnɪsət̬i eθˈnɪs·ɪ·t̬i,0,0
 ethnocentric, ˌeθnoʊˈsentrɪk ˌeθ·noʊˈsen·trɪk,0,0
 ethnographic, ˌeθnoʊˈɡræfɪk,0,0
-ethos, ˈiːθɑːs ˈi·θɑs,1,0
-ethyl,,1,0
-ethylene, ˈeθəliːn ˈeθ·əˌlin,1,0
+ethos, ˈiːθɑːs ˈi·θɑs,0,0
+ethyl,,0,1
+ethylene, ˈeθəliːn ˈeθ·əˌlin,0,0
 etiology, ˌiːt̬iˈɑːlədʒi,0,0
-etiquette, ˈet̬ɪkɪt ˈet̬·ə·kət,1,0
+etiquette, ˈet̬ɪkɪt ˈet̬·ə·kət,0,0
 etna,,0,1
-eton, ˈiːt̬ən ˈiːt̬ən,1,0
+eton, ˈiːt̬ən ˈiːt̬ən,0,0
 etruscan,,0,1
 etudes, ˈeɪtuːd,1,0
 etymological, ˌet̬ɪməˈlɑːdʒɪkəl,0,0
 etymology, ˌet̬ɪˈmɑːlədʒi ˌet̬·əˈmɑl·ə·dʒi,0,0
 eucalypti,,0,1
 eucalyptus, ˌjuːkəlˈɪptəs,0,0
-eucharist, ˈjuːkərɪst ˈju·kə·rɪst,1,0
+eucharist, ˈjuːkərɪst ˈju·kə·rɪst,0,0
 euclid,,0,1
 eugene,,0,1
 eugenia,,0,1
 eugenics, juːˈdʒenɪks,0,0
 eulogies, ˈjuːlədʒi ˈju·lə·dʒi,1,0
 eulogize, ˈjuːlədʒaɪz,0,0
-eulogized, ˈjuːlədʒaɪz,1,0
+eulogized, ˈjuːlədʒaɪz,0,0
 eulogy, ˈjuːlədʒi ˈju·lə·dʒi,0,0
 eunuch," ˈjuːnək ˈju·nək, -nɪk",0,0
 euphemism, ˈjuːfəmɪzəm ˈju·fəˌmɪz·əm,0,0
@@ -450,36 +450,36 @@ euphemistically, ˌjuːfəˈmɪstɪkəli,0,0
 euphony, ˈjuːfəni ˈjuːfəni,0,0
 euphoria," juːˈfɔːriə jʊˈfɔr·i·ə, -ˈfoʊr-",0,0
 euphoric, juːˈfɔːrɪk,0,0
-euphrates, juːˈfreɪt̬iːz,1,0
+euphrates, juːˈfreɪt̬iːz,0,0
 eurasia,,0,1
-eurasian, jʊrˈeɪʒən jʊrˈeɪʒən,1,0
+eurasian, jʊrˈeɪʒən jʊrˈeɪʒən,0,0
 eureka, jʊˈriːkə,0,0
-euro, ˈjʊroʊ ˈjʊər·oʊ,1,0
-eurodollar,,1,0
+euro, ˈjʊroʊ ˈjʊər·oʊ,0,0
+eurodollar,,0,1
 europa,,0,1
-europe, ˈjʊrəp ˈjʊrəp ˈjʊrəp,1,0
-european, ˌjʊrəˈpiːən ˌjʊər·əˈpi·ən,1,0
+europe, ˈjʊrəp ˈjʊrəp ˈjʊrəp,0,0
+european, ˌjʊrəˈpiːən ˌjʊər·əˈpi·ən,0,0
 europeans, ˌjʊrəˈpiːən ˌjʊər·əˈpi·ən,1,0
 euros, ˈjʊroʊ ˈjʊroʊ jʊroʊ- jʊroʊ- ˈjʊər·oʊ,1,0
 eustachian,,0,1
 euthanasia, ˌjuːθəˈneɪʒə ˌju·θəˈneɪ·ʒə,0,0
 euthanize, ˈjuːθənaɪz,0,0
-evacuate, ɪˈvækjueɪt ɪˈvækjueɪt ɪˈvæk·juˌeɪt ɪˈvæk·juˌeɪt,1,0
-evacuated, ɪˈvækjueɪt ɪˈvækjueɪt,1,0
-evacuating, ɪˈvækjueɪt ɪˈvækjueɪt,1,0
-evacuation, ɪˌvækjuˈeɪʃən ɪˌvækjuˈeɪʃən,1,0
+evacuate, ɪˈvækjueɪt ɪˈvækjueɪt ɪˈvæk·juˌeɪt ɪˈvæk·juˌeɪt,0,0
+evacuated, ɪˈvækjueɪt ɪˈvækjueɪt,0,0
+evacuating, ɪˈvækjueɪt ɪˈvækjueɪt,0,0
+evacuation, ɪˌvækjuˈeɪʃən ɪˌvækjuˈeɪʃən,0,0
 evacuations, ɪˌvækjuˈeɪʃən ɪˌvækjuˈeɪʃən,1,0
 evacuees, ɪˌvækjuˈiː,1,0
-evade, ɪˈveɪd ɪˈveɪd,1,0
-evaded, ɪˈveɪd ɪˈveɪd,1,0
+evade, ɪˈveɪd ɪˈveɪd,0,0
+evaded, ɪˈveɪd ɪˈveɪd,0,0
 evader, ɪˈveɪdɚ,0,0
 evades, ɪˈveɪd ɪˈveɪd ɪˈveɪd,1,0
-evading, ɪˈveɪd ɪˈveɪd,1,0
-evaluate, ɪˈvæljueɪt ɪˈvæl·juˌeɪt,1,0
-evaluated, ɪˈvæljueɪt,1,0
+evading, ɪˈveɪd ɪˈveɪd,0,0
+evaluate, ɪˈvæljueɪt ɪˈvæl·juˌeɪt,0,0
+evaluated, ɪˈvæljueɪt,0,0
 evaluates, ɪˈvæljueɪt ɪˈvæl·juˌeɪt,1,0
-evaluating, ɪˈvæljueɪt,1,0
-evaluation, ɪˌvæljuˈeɪʃən,1,0
+evaluating, ɪˈvæljueɪt,0,0
+evaluation, ɪˌvæljuˈeɪʃən,0,0
 evaluations, ɪˌvæljuˈeɪʃən,1,0
 evanescence, ˌevəˈnesəns,0,0
 evangelical," ˌiːvænˈdʒelɪkəl ˌiːvænˈdʒelɪkəl ˌiˌvænˈdʒel·ɪ·kəl, ˌev·ən-",0,0

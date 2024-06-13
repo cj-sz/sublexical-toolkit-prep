@@ -1,16 +1,16 @@
 Word,Pronunciation,Root Word Returned,Missing
-awol, ˈeɪwɑːl ˈeɪ·wɔl,1,0
+awol, ˈeɪwɑːl ˈeɪ·wɔl,0,0
 awry, əˈraɪ əˈraɪ əˈrɑɪ,0,0
 ax, æks æks,0,0
-axe, æks,1,0
-axed, æks,1,0
+axe, æks,0,0
+axed, æks,0,0
 axel, ˈæksəl,0,0
 axes, ˈæksiːz ˈæksiːz,0,0
 axial, ˈæksiəl ˈæksiəl ˈæksiəl,0,0
 axiom, ˈæksiəm ˈæksiəm ˈæk·si·əm,0,0
 axiomatic, ˌæksiəˈmæt̬ɪk ˌæk·si·əˈmæt·ɪk,0,0
 axioms, ˈæksiəm ˈæksiəm ˈæk·si·əm,1,0
-axis, ˈæksɪs ˈæksɪs ˈæksɪs ˈæksɪs ˈæk·səs ˈæk·səs ˈæk·səs,1,0
+axis, ˈæksɪs ˈæksɪs ˈæksɪs ˈæksɪs ˈæk·səs ˈæk·səs ˈæk·səs,0,0
 axle, ˈæksəl ˈæk·səl,0,0
 axles, ˈæksəl ˈæk·səl,1,0
 axon, ˈæksɑːn ˈæk·sɑn,0,0
@@ -22,12 +22,12 @@ ayes, aɪ aɪ aɪ ɑɪ,1,0
 azalea, əˈzeɪliə,0,0
 azaleas, əˈzeɪliə,1,0
 azores,,0,1
-aztec, ˈæztek ˈæztek,1,0
+aztec, ˈæztek ˈæztek,0,0
 azteca,,0,1
 aztecs, ˈæztek ˈæztek,1,0
 azure, ˈæʒɚ,0,0
 b,,0,1
-ba, ˌbiːˈeɪ,1,0
+ba, ˌbiːˈeɪ,0,0
 baa, bæ,0,0
 baas, bæ,1,0
 bab, bæb,0,0
@@ -36,8 +36,8 @@ babbage,,0,1
 babbit,,0,1
 babbitt,,0,1
 babble, ˈbæbəl ˈbæbəl ˈbæb·əl,0,0
-babbled, ˈbæbəl ˈbæbəl,1,0
-babbling, ˈbæbəl ˈbæbəl,1,0
+babbled, ˈbæbəl ˈbæbəl,0,0
+babbling, ˈbæbəl ˈbæbəl,0,0
 babcock,,0,1
 babe, beɪb beɪb beɪb beɪb,0,0
 babel, ˈbæbəl,0,0
@@ -55,7 +55,7 @@ babyish, ˈbeɪbiɪʃ ˈbeɪ·biˌɪʃ,0,0
 babylon,,0,1
 babylonian,,0,1
 babylonians,,0,1
-babysat,,1,0
+babysat,,0,1
 babysit, ˈbeɪbisɪt ˈbeɪbisɪt ˈbeɪ·biˌsɪt,0,0
 babysitter, ˈbeɪbiˌsɪt̬ɚ ˈbeɪbiˌsɪt̬ɚ,0,0
 babysitters, ˈbeɪbiˌsɪt̬ɚ ˈbeɪbiˌsɪt̬ɚ,1,0
@@ -64,45 +64,45 @@ baccalaureate, ˌbækəˈlɔːriət ˌbækəˈlɔːriət,0,0
 baccarat,,0,1
 bacchanal,,0,1
 bacchanalia,,0,1
-bacchus, ˈbɑːkəs,1,0
+bacchus, ˈbɑːkəs,0,0
 bach,,0,1
 bacharach,,0,1
 bache,,0,1
 bachelor, ˈbætʃəlɚ ˈbætʃ·ə·lər,0,0
 bachelors, ˈbætʃəlɚ ˈbætʃ·ə·lər,1,0
 bacillus, bəˈsɪləs,0,0
-back, bæk bæk bæk bæk bæk bæk bæk bæk,1,0
+back, bæk bæk bæk bæk bæk bæk bæk bæk,0,0
 backache, ˈbækeɪk ˈbækˌeɪk,0,0
 backaches, ˈbækeɪk ˈbækˌeɪk,1,0
 backbiting, ˈbækˌbaɪt̬ɪŋ ˈbækˌbɑɪ·t̬ɪŋ,0,0
 backboard," ˈbækbɔːrd ˈbækbɔːrd ˈbækˌbɔrd, -ˌboʊrd",0,0
 backboards," ˈbækbɔːrd ˈbækbɔːrd ˈbækˌbɔrd, -ˌboʊrd",1,0
-backbone, ˈbækboʊn ˈbækboʊn ˈbækˌboʊn ˈbækˌboʊn ˈbækˌboʊn,1,0
+backbone, ˈbækboʊn ˈbækboʊn ˈbækˌboʊn ˈbækˌboʊn ˈbækˌboʊn,0,0
 backbones, ˈbækboʊn ˈbækboʊn ˈbækboʊn ˈbækˌboʊn ˈbækˌboʊn ˈbækˌboʊn,1,0
 backbreaking, ˈbækˌbreɪkɪŋ ˈbækˌbreɪ·kɪŋ,0,0
-backdated, ˈbækdeɪt,1,0
+backdated, ˈbækdeɪt,0,0
 backdoor, ˈbækdɔːr ˈbækdɔːr,0,0
 backdrop, ˈbækdrɑːp ˈbækdrɑːp ˈbækdrɑːp ˈbækˌdrɑp ˈbækˌdrɑp,0,0
 backdrops, ˈbækdrɑːp ˈbækdrɑːp ˈbækdrɑːp ˈbækˌdrɑp ˈbækˌdrɑp,1,0
 backed,  -bækt  -bækt,1,0
-backer, ˈbækɚ ˈbæk·ər,1,0
+backer, ˈbækɚ ˈbæk·ər,0,0
 backers, ˈbækɚ ˈbæk·ər,1,0
 backfield, ˈbækfiːld ˈbækfiːld,0,0
 backfire, ˌbækˈfaɪr ˌbækˈfaɪr ˈbækˌfɑɪər ˈbækˌfɑɪər,0,0
-backfired, ˌbækˈfaɪr ˌbækˈfaɪr,1,0
+backfired, ˌbækˈfaɪr ˌbækˈfaɪr,0,0
 backfires, ˌbækˈfaɪr ˌbækˈfaɪr ˈbækˌfɑɪər ˈbækˌfɑɪər,1,0
-backfiring, ˌbækˈfaɪr ˌbækˈfaɪr,1,0
+backfiring, ˌbækˈfaɪr ˌbækˈfaɪr,0,0
 backgammon, ˈbækɡæmən ˈbækˌɡæm·ən,0,0
-background, ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd,1,0
+background, ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd,0,0
 backgrounds, ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækɡraʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd ˈbækˌɡrɑʊnd,1,0
 backhand, ˈbækhænd ˈbækˌhænd,0,0
 backhanded, ˌbækˈhændɪd ˌbækˈhændɪd ˈbækˈhæn·dɪd,0,0
 backhoe, ˈbækhoʊ,0,0
 backhoes, ˈbækhoʊ,1,0
-backing, ˈbækɪŋ ˈbækɪŋ ˈbækɪŋ ˈbæk·ɪŋ,1,0
+backing, ˈbækɪŋ ˈbækɪŋ ˈbækɪŋ ˈbæk·ɪŋ,0,0
 backlash, ˈbæklæʃ ˈbækˌlæʃ,0,0
 backless, ˈbækləs ˈbækləs,0,0
-backlog," ˈbæklɑːɡ ˈbækˌlɔɡ, -ˌlɑɡ",1,0
+backlog," ˈbæklɑːɡ ˈbækˌlɔɡ, -ˌlɑɡ",0,0
 backlogged, ˈbæklɑːɡd,0,0
 backlogs," ˈbæklɑːɡ ˈbækˌlɔɡ, -ˌlɑɡ",1,0
 backpack, ˈbækpæk ˈbækˌpæk,0,0
@@ -122,7 +122,7 @@ backseats, ˈbækˈsit ˈbækˈsit,1,0
 backside, ˈbæksaɪd ˈbæksaɪd ˈbækˌsɑɪd,0,0
 backsides, ˈbæksaɪd ˈbæksaɪd ˈbækˌsɑɪd,1,0
 backslapping, ˈbækˌslæpɪŋ,0,0
-backslash, ˈbækslæʃ,1,0
+backslash, ˈbækslæʃ,0,0
 backslide, ˈbækslaɪd ˈbæk·slɑɪd,0,0
 backsliding, ˈbækslaɪd ˈbæk·slɑɪd,1,0
 backspin, ˈbækspɪn ˈbækspɪn ˈbækspɪn ˈbækspɪn,0,0
@@ -131,9 +131,9 @@ backstairs,,0,1
 backstop, ˈbækstɑːp ˈbækstɑːp ˈbækstɑːp ˈbækstɑːp,0,0
 backstroke, ˈbækstroʊk ˈbæk·stroʊk,0,0
 backtrack, ˈbæktræk ˈbæktræk ˈbækˌtræk ˈbækˌtræk,0,0
-backtracked, ˈbæktræk ˈbæktræk,1,0
-backtracking, ˈbæktræk ˈbæktræk,1,0
-backup, ˈbækʌp ˈbækʌp ˈbækʌp ˈbækˌʌp ˈbækˌʌp,1,0
+backtracked, ˈbæktræk ˈbæktræk,0,0
+backtracking, ˈbæktræk ˈbæktræk,0,0
+backup, ˈbækʌp ˈbækʌp ˈbækʌp ˈbækˌʌp ˈbækˌʌp,0,0
 backups, ˈbækʌp ˈbækʌp ˈbækʌp ˈbækˌʌp ˈbækˌʌp,1,0
 backus,,0,1
 backward, ˈbækwɚd ˈbækwɚd ˈbækwɚd ˈbækwɚd ˈbæk·wərd,0,0
@@ -143,19 +143,19 @@ backwash, ˈbækwɑːʃ ˈbækwɑːʃ,0,0
 backwater," ˈbækwɑːt̬ɚ ˈbækwɑːt̬ɚ ˈbækˌwɔ·t̬·ər, -ˌwɑt̬·ər",0,0
 backwaters," ˈbækwɑːt̬ɚ ˈbækwɑːt̬ɚ ˈbækˌwɔ·t̬·ər, -ˌwɑt̬·ər",1,0
 backwoods, ˈbækˈwʊdz,0,1
-backyard, ˌbækˈjɑːrd ˌbækˈjɑːrd ˈbækˈjɑrd,1,0
+backyard, ˌbækˈjɑːrd ˌbækˈjɑːrd ˈbækˈjɑrd,0,0
 backyards, ˌbækˈjɑːrd ˌbækˈjɑːrd ˈbækˈjɑrd,1,0
-bacon, ˈbeɪkən ˈbeɪ·kən,1,0
+bacon, ˈbeɪkən ˈbeɪ·kən,0,0
 bacteria, bækˈtɪriə bækˈtɪər·i·ə,0,0
 bacterial, bækˈtɪriəl bækˈtɪər·i·əl,0,0
 bacterium, bækˈtɪriəm,0,0
-bad, bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd,1,0
+bad, bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd bæd,0,0
 badass, ˈbædæs ˈbædæs,0,0
 bade," bæd bæd, beɪd",0,0
-badge, bædʒ bædʒ bædʒ bædʒ bædʒ,1,0
+badge, bædʒ bædʒ bædʒ bædʒ bædʒ,0,0
 badger, ˈbædʒɚ ˈbædʒ·ər,0,0
-badgered, ˈbædʒɚ,1,0
-badgering, ˈbædʒɚ,1,0
+badgered, ˈbædʒɚ,0,0
+badgering, ˈbædʒɚ,0,0
 badgers, ˈbædʒɚ ˈbædʒ·ər,1,0
 badges, bædʒ bædʒ bædʒ bædʒ bædʒ,1,0
 badland,,0,1
@@ -166,19 +166,19 @@ badness, ˈbædnəs ˈbædnəs ˈbædnəs,0,0
 bae, beɪ,0,0
 baedeker,,0,1
 baffle, ˈbæfəl ˈbæf·əl,0,0
-baffled, ˈbæfəl,1,0
+baffled, ˈbæfəl,0,0
 baffles, ˈbæfəl ˈbæf·əl,1,0
 baffling, ˈbæfəlɪŋ,0,0
-bag, bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ,1,0
+bag, bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ,0,0
 bagel, ˈbeɪɡəl ˈbeɪɡəl ˈbeɪ·ɡəl,0,0
 bagels, ˈbeɪɡəl ˈbeɪɡəl ˈbeɪ·ɡəl,1,0
 bagful, ˈbæɡfʊl,0,0
-baggage, ˈbæɡɪdʒ ˈbæɡɪdʒ ˈbæɡ·ɪdʒ ˈbæɡ·ɪdʒ,1,0
-bagged,,1,0
+baggage, ˈbæɡɪdʒ ˈbæɡɪdʒ ˈbæɡ·ɪdʒ ˈbæɡ·ɪdʒ,0,0
+bagged,,0,1
 baggie,,0,1
-bagging,,1,0
+bagging,,0,1
 baggy, ˈbæɡi ˈbæɡ·i,0,0
-baghdad, ˈbæɡdæd,1,0
+baghdad, ˈbæɡdæd,0,0
 bagman, ˈbæɡmæn,0,0
 bagpipe, ˈbæɡpaɪp,0,0
 bagpiper,,0,1
@@ -187,28 +187,28 @@ bags, bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ bæɡ,1,0
 baguette, bæɡˈet bæɡˈet,0,0
 bah, bɑː,0,0
 bahamas,,0,1
-bahamian, bəˈheɪmiən,1,0
+bahamian, bəˈheɪmiən,0,0
 baht, bɑːt,0,0
-bail, beɪl beɪl,1,0
+bail, beɪl beɪl,0,0
 baile,,0,1
-bailed, beɪl beɪl beɪl,1,0
+bailed, beɪl beɪl beɪl,0,0
 bailer,,0,1
 bailey, ˈbeɪli,0,0
 baileys, ˈbeɪli,1,0
-bailiff, ˈbeɪlɪf ˈbeɪlɪf ˈbeɪlɪf ˈbeɪ·lɪf,1,0
+bailiff, ˈbeɪlɪf ˈbeɪlɪf ˈbeɪlɪf ˈbeɪ·lɪf,0,0
 bailiffs, ˈbeɪlɪf ˈbeɪlɪf ˈbeɪlɪf ˈbeɪ·lɪf,1,0
-bailing, beɪl beɪl beɪl,1,0
+bailing, beɪl beɪl beɪl,0,0
 bailiwick, ˈbeɪliwɪk,0,0
 bailouts, ˈbeɪlaʊt ˈbeɪlˌɑʊt,1,0
 bails, beɪlz,0,0
 bait, beɪt beɪt beɪt beɪt,0,0
-baited, beɪt beɪt beɪt,1,0
+baited, beɪt beɪt beɪt,0,0
 baiting, -beɪt̬ɪŋ,1,0
 baits, beɪt beɪt beɪt beɪt,1,0
 baja,,0,1
 baka,,0,1
 bake, beɪk beɪk beɪk beɪk,0,0
-baked, beɪk beɪk beɪk,1,0
+baked, beɪk beɪk beɪk,0,0
 baker, ˈbeɪkɚ ˈbeɪkɚ ˈbeɪ·kər,0,0
 bakeries," ˈbeɪkɚi ˈbeɪ·kə·ri, ˈbeɪ·kri",1,0
 bakers, ˈbeɪkɚ ˈbeɪkɚ ˈbeɪ·kər,1,0
@@ -217,14 +217,14 @@ bakery," ˈbeɪkɚi ˈbeɪ·kə·ri, ˈbeɪ·kri",0,0
 bakes, beɪk beɪk beɪk beɪk,1,0
 baking, ˈbeɪkɪŋ ˈbeɪkɪŋ,0,0
 bakshi,,0,1
-baku, bɑːˈkuː,1,0
+baku, bɑːˈkuː,0,0
 bakula,,0,1
-bal,,0,1
-balance, ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns,1,0
+bal, ˌbiːeɪˈel,0,0
+balance, ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns,0,0
 balanced, ˈbælənst ˈbælənst ˈbæl·ənst ˈbæl·ənst ˈbæl·ənst,0,0
 balancer,,0,1
 balances, ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæləns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns ˈbæl·əns,1,0
-balancing, ˈbæləns ˈbæləns ˈbæləns ˈbæləns,1,0
+balancing, ˈbæləns ˈbæləns ˈbæləns ˈbæləns,0,0
 balas,,0,1
 balboa,,0,1
 balconies, ˈbælkəni ˈbælkəni ˈbæl·kə·ni,1,0
@@ -235,7 +235,7 @@ balderdash, ˈbɑːldɚdæʃ,0,0
 balding, ˈbɑːldɪŋ ˈbɔl·dɪŋ,0,0
 baldness, ˈbɑːldnəs ˈbɑːldnəs ˈbɔld·nəs,0,0
 baldric,,0,1
-bale, beɪl beɪl,1,0
+bale, beɪl beɪl,0,0
 baleen, bəˈliːn,0,0
 baleful, ˈbeɪlfəl,0,0
 baler, ˈbeɪlɚ,0,0
@@ -243,12 +243,12 @@ bales, beɪl beɪl,1,0
 bali,,0,1
 balian,,0,1
 balinese,,0,1
-baling, beɪl beɪl,1,0
+baling, beɪl beɪl,0,0
 balk, bɑːlk bɑːlk bɔk,0,0
-balkan, ˈbɔːlkən,1,0
+balkan, ˈbɔːlkən,0,0
 balkans,,0,1
-balked, bɑːlk bɑːlk,1,0
-balking, bɑːlk bɑːlk,1,0
+balked, bɑːlk bɑːlk,0,0
+balking, bɑːlk bɑːlk,0,0
 balks, bɑːlk bɑːlk bɔk,1,0
 ball, bɑːl bɑːl bɑːl bɑːl bɑːl bɑːl bɑːl bɑːl bɑːl bɑːl bɔl bɔl bɔl bɔl,0,0
 ballad, ˈbæləd ˈbæl·əd,0,0
@@ -272,16 +272,16 @@ ballistic, bəˈlɪstɪk bəˈlɪstɪk,0,0
 ballistics, bəˈlɪstɪks bəˈlɪs·tɪks,0,0
 ballo,,0,1
 ballon, ˈbælən,0,0
-balloon, bəˈluːn bəˈluːn bəˈluːn bəˈlun bəˈlun,1,0
-ballooned, bəˈluːn bəˈluːn bəˈluːn,1,0
+balloon, bəˈluːn bəˈluːn bəˈluːn bəˈlun bəˈlun,0,0
+ballooned, bəˈluːn bəˈluːn bəˈluːn,0,0
 ballooning, bəˈluːnɪŋ,0,0
 balloonist, bəˈluːnɪst,0,0
 balloonists, bəˈluːnɪst,1,0
 balloons, bəˈluːn bəˈluːn bəˈluːn bəˈlun bəˈlun,1,0
-ballot, ˈbælət ˈbælət ˈbæl·ət ˈbæl·ət,1,0
-balloting, ˈbælət,1,0
+ballot, ˈbælət ˈbælət ˈbæl·ət ˈbæl·ət,0,0
+balloting, ˈbælət,0,0
 ballots, ˈbælət ˈbælət ˈbælət ˈbæl·ət ˈbæl·ət,1,0
-ballpark, ˈbɑːlpɑːrk ˈbɔl·pɑrk ˈbɔl·pɑrk,1,0
+ballpark, ˈbɑːlpɑːrk ˈbɔl·pɑrk ˈbɔl·pɑrk,0,0
 ballparks, ˈbɑːlpɑːrk ˈbɔl·pɑrk ˈbɔl·pɑrk,1,0
 ballplayer, ˈbɑːlpleɪɚ ˈbɑːlpleɪɚ,0,0
 ballplayers,,0,1
@@ -300,12 +300,12 @@ balow,,0,1
 balsa,,0,1
 balsam, ˈbɑːlsəm ˈbɑːlsəm,0,0
 baltic, ˈbɔːltɪk,0,0
-baltimore, ˈbɔːltəmɔːr,1,0
+baltimore, ˈbɔːltəmɔːr,0,0
 bam, bæm bæm,0,0
 bambino,,0,1
 bambinos,,0,1
 bamboo, bæmˈbuː bæmˈbuː bæmˈbuː bæmˈbu,0,0
-ban, bæn bæn,1,0
+ban, bæn bæn,0,0
 banal," bəˈnɑːl bəˈnæl, -nɑl; ˈbeɪ·nəl",0,0
 banalities, bəˈnɑːlət̬i,1,0
 banality, bəˈnɑːlət̬i,0,0
@@ -313,10 +313,10 @@ banana, bəˈnænə bəˈnæn·ə,0,0
 bananas, bəˈnænəz bəˈnæn·əz,0,0
 banbury,,0,1
 banco,,0,1
-band, bænd bænd bænd bænd bænd bænd bænd bænd bænd,1,0
+band, bænd bænd bænd bænd bænd bænd bænd bænd bænd,0,0
 banda,,0,1
 bandage, ˈbændɪdʒ ˈbændɪdʒ ˈbæn·dɪdʒ,0,0
-bandaged, ˈbændɪdʒ,1,0
+bandaged, ˈbændɪdʒ,0,0
 bandages, ˈbændɪdʒ ˈbændɪdʒ ˈbæn·dɪdʒ,1,0
 bandana, bænˈdænə,0,0
 bandanas, bænˈdænə bænˈdæn·ə,1,0
@@ -335,52 +335,52 @@ bandolier,,0,1
 bandoliers,,0,1
 bands, bænd bænd bænd bænd bænd bænd bænd bænd bænd bænd,1,0
 bandstand, ˈbændstænd,0,0
-bandwagon, ˈbændˌwæɡən ˈbændˌwæɡ·ən,1,0
-bandwidth," ˈbændwɪtθ ˈbændwɪtθ ˈbændwɪtθ ˈbændwɪtθ ˈbænd·wɪtθ, -wɪdθ ˈbænd·wɪtθ, -wɪdθ",1,0
+bandwagon, ˈbændˌwæɡən ˈbændˌwæɡ·ən,0,0
+bandwidth," ˈbændwɪtθ ˈbændwɪtθ ˈbændwɪtθ ˈbændwɪtθ ˈbænd·wɪtθ, -wɪdθ ˈbænd·wɪtθ, -wɪdθ",0,0
 bandy, ˈbændi,0,0
 bane, beɪn,0,1
 banes,,0,1
-bang, bæŋ bæŋ bæŋ bæŋ bæŋ bæŋ,1,0
-banged, bæŋ bæŋ bæŋ bæŋ,1,0
+bang, bæŋ bæŋ bæŋ bæŋ bæŋ bæŋ,0,0
+banged, bæŋ bæŋ bæŋ bæŋ,0,0
 banger, ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ,0,0
 bangers, ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ ˈbæŋɚ,1,0
 banging, ˈbæŋɪŋ,0,0
-bangkok, bæŋˈkɑːk,1,0
-bangladesh, ˌbæŋɡləˈdeʃ,1,0
+bangkok, bæŋˈkɑːk,0,0
+bangladesh, ˌbæŋɡləˈdeʃ,0,0
 bangle, ˈbæŋɡəl,0,0
 bangles, ˈbæŋɡəl,1,0
 bangs, bæŋz bæŋz,0,0
 banish, ˈbænɪʃ ˈbænɪʃ ˈbæn·ɪʃ ˈbæn·ɪʃ,0,0
-banished, ˈbænɪʃ ˈbænɪʃ,1,0
-banishing, ˈbænɪʃ ˈbænɪʃ,1,0
+banished, ˈbænɪʃ ˈbænɪʃ,0,0
+banishing, ˈbænɪʃ ˈbænɪʃ,0,0
 banishment, ˈbænɪʃmənt,0,0
 banister, ˈbænəstɚ ˈbænəstɚ ˈbæn·ə·stər,0,0
 banjo, ˈbændʒoʊ ˈbæn·dʒoʊ,0,0
-bank, bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk,1,0
+bank, bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk,0,0
 bankable, ˈbæŋkəbəl ˈbæŋkəbl  ˈbæŋkəbl ,0,0
-bankbook,,1,0
+bankbook,,0,1
 bankcards,,0,1
-banked, bæŋk bæŋk bæŋk bæŋk,1,0
-banker, ˈbæŋkɚ ˈbæŋkɚ ˈbæŋ·kər,1,0
+banked, bæŋk bæŋk bæŋk bæŋk,0,0
+banker, ˈbæŋkɚ ˈbæŋkɚ ˈbæŋ·kər,0,0
 bankers, ˈbæŋkɚ ˈbæŋkɚ ˈbæŋ·kər,1,0
-banking, ˈbæŋkɪŋ ˈbæŋkɪŋ ˈbæŋ·kɪŋ,1,0
-banknote, ˈbæŋknoʊt,1,0
+banking, ˈbæŋkɪŋ ˈbæŋkɪŋ ˈbæŋ·kɪŋ,0,0
+banknote, ˈbæŋknoʊt,0,0
 banknotes, ˈbæŋknoʊt,1,0
 bankroll, ˈbæŋkroʊl -roʊl,0,0
-bankrolled, ˈbæŋkroʊl,1,0
-bankrolling, ˈbæŋkroʊl,1,0
+bankrolled, ˈbæŋkroʊl,0,0
+bankrolling, ˈbæŋkroʊl,0,0
 bankrolls, ˈbæŋkroʊl -roʊl,1,0
-bankrupt, ˈbæŋkrʌpt ˈbæŋkrʌpt ˈbæŋkrʌpt ˈbæŋ·krəpt ˈbæŋ·krəpt,1,0
+bankrupt, ˈbæŋkrʌpt ˈbæŋkrʌpt ˈbæŋkrʌpt ˈbæŋ·krəpt ˈbæŋ·krəpt,0,0
 bankruptcies, ˈbæŋkrəptsi ˈbæŋkrəptsi ˈbæŋ·krəp·si,1,0
-bankruptcy, ˈbæŋkrəptsi ˈbæŋkrəptsi ˈbæŋ·krəp·si,1,0
-bankrupted, ˈbæŋkrʌpt,1,0
-bankrupting, ˈbæŋkrʌpt,1,0
+bankruptcy, ˈbæŋkrəptsi ˈbæŋkrəptsi ˈbæŋ·krəp·si,0,0
+bankrupted, ˈbæŋkrʌpt,0,0
+bankrupting, ˈbæŋkrʌpt,0,0
 banks, bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk bæŋk,1,0
-banned,,1,0
-banner, ˈbænɚ ˈbænɚ ˈbænɚ ˈbæn·ər ˈbæn·ər,1,0
+banned,,0,1
+banner, ˈbænɚ ˈbænɚ ˈbænɚ ˈbæn·ər ˈbæn·ər,0,0
 bannerman,,0,1
 banners, ˈbænɚ ˈbænɚ ˈbænɚ ˈbæn·ər ˈbæn·ər,1,0
-banning,,1,0
+banning,,0,1
 bannister, ˈbænəstɚ,0,0
 banque,,0,1
 banquet, ˈbæŋkwət ˈbæŋkwət ˈbæŋ·kwɪt,0,0
@@ -391,20 +391,20 @@ bantam, ˈbænt̬əm,0,0
 bantams, ˈbænt̬əm,1,0
 banter, ˈbæntɚ ˈbæn·tər,0,0
 bantering, ˈbæntɚɪŋ,0,0
-bantu, ˈbæntuː ˈbæntuː,1,0
+bantu, ˈbæntuː ˈbæntuː,0,0
 banyan, ˈbænjæn,0,0
 baptism, ˈbæptɪzəm ˈbæpˌtɪz·əm,0,0
 baptismal, bæpˈtɪzməl,0,0
 baptisms, ˈbæptɪzəm ˈbæpˌtɪz·əm,1,0
-baptist, ˈbæptɪst ˈbæp·tɪst,1,0
+baptist, ˈbæptɪst ˈbæp·tɪst,0,0
 baptists, ˈbæptɪst ˈbæp·tɪst,1,0
 baptize, bæpˈtaɪz bæpˈtɑɪz,0,0
-baptized, bæpˈtaɪz,1,0
-bar, bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑr bɑr bɑr bɑr bɑr bɑr,1,0
+baptized, bæpˈtaɪz,0,0
+bar, bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑːr bɑr bɑr bɑr bɑr bɑr bɑr,0,0
 bara,,0,1
 barb, bɑːrb bɑːrb bɑrb bɑrb,0,0
 barba,,0,1
-barbados, bɑːrˈbeɪdoʊs,1,0
+barbados, bɑːrˈbeɪdoʊs,0,0
 barbara,,0,1
 barbarian, bɑːrˈberiən bɑːrˈberiən bɑrˈbeər·i·ən,0,0
 barbarians, bɑːrˈberiən bɑːrˈberiən bɑrˈbeər·i·ən,1,0
@@ -414,11 +414,11 @@ barbarity, bɑːrˈberət̬i,0,0
 barbarous, ˈbɑːrbɚəs ˈbɑr·bə·rəs ˈbɑr·bə·rəs,0,0
 barbary,,0,1
 barbecue, ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑr·bɪˌkju,0,0
-barbecued, ˈbɑːrbəkjuː,1,0
+barbecued, ˈbɑːrbəkjuː,0,0
 barbecues, ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑr·bɪˌkju,1,0
 barbed, bɑːrbd bɑːrbd bɑrbd bɑrbd,0,0
-barbell, ˈbɑːrbel,0,0
-barbells, ˈbɑːrbel,1,0
+barbell, ˈbɑːrbel ˈbɑːrbel ˈbɑːrbel,0,0
+barbells, ˈbɑːrbel ˈbɑːrbel ˈbɑːrbel,1,0
 barbeque, ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑr·bɪˌkju,1,0
 barbequed, ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑr·bɪˌkju,1,0
 barbeques, ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑːrbəkjuː ˈbɑr·bɪˌkju,1,0
@@ -433,36 +433,36 @@ barbiturate, bɑːˈbɪtʃərət bɑrˈbɪtʃ·ə·rət,0,0
 barbiturates, bɑːˈbɪtʃərət bɑrˈbɪtʃ·ə·rət,1,0
 barbone,,0,1
 barbs, bɑːrb bɑːrb bɑrb bɑrb,1,0
-barcelona, ˌbɑːrsəˈloʊnə,1,0
+barcelona, ˌbɑːrsəˈloʊnə,0,0
 bard, bɑːrd,0,0
 bardo,,0,1
-bare, ber ber ber beər beər,1,0
-bared, ber,1,0
+bare, ber ber ber beər beər,0,0
+bared, ber,0,0
 barefoot, ˈberfʊt ˈbeərˌfʊt,0,0
 barely, ˈberli ˈbeər·li,0,0
 bares, ber ber ber ber ber beər beər,1,0
 barest, ber ber ber ber ber beər beər,1,0
 barf, bɑːrf bɑrf,0,0
-bargain, ˈbɑːrɡɪn ˈbɑːrɡɪn ˈbɑr·ɡən ˈbɑr·ɡən,1,0
-bargained, ˈbɑːrɡɪn,1,0
+bargain, ˈbɑːrɡɪn ˈbɑːrɡɪn ˈbɑr·ɡən ˈbɑr·ɡən,0,0
+bargained, ˈbɑːrɡɪn,0,0
 bargainer, ˈbɑːrɡɪnɚ,0,0
-bargaining,,1,0
+bargaining,,0,1
 bargains, ˈbɑːrɡɪn ˈbɑːrɡɪn ˈbɑr·ɡən ˈbɑr·ɡən,1,0
 barge, bɑːrdʒ bɑrdʒ,0,0
-barged, bɑːrdʒ,1,0
+barged, bɑːrdʒ,0,0
 barger,,0,1
 barges, bɑːrdʒ bɑrdʒ,1,0
-barging, bɑːrdʒ,1,0
+barging, bɑːrdʒ,0,0
 bari,,0,1
 barile,,0,1
-baring, ber,1,0
+baring, ber,0,0
 barish,,0,1
 barite,,0,1
 baritone, ˈberətoʊn ˈbær·ɪˌtoʊn,0,0
 baritones, ˈberətoʊn ˈbær·ɪˌtoʊn,1,0
 barium," ˈberiəm ˈbær·i·əm, ˈbeər-",0,0
 bark, bɑːrk bɑːrk bɑrk bɑrk,0,0
-barked, bɑːrk bɑːrk,1,0
+barked, bɑːrk bɑːrk,0,0
 barker, ˈbɑːrkɚ,0,0
 barkers, ˈbɑːrkɚ,1,0
 barking, ˈbɑːrkɪŋ,0,0

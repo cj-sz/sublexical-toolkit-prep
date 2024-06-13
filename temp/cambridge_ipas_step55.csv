@@ -2,17 +2,17 @@ Word,Pronunciation,Root Word Returned,Missing
 marvel, ˈmɑːrvəl ˈmɑr·vəl,0,0
 marveled, ˈmɑːrvəl ˈmɑr·vəl,1,0
 marveling, ˈmɑːrvəl ˈmɑr·vəl,1,0
-marvelled,,1,0
+marvelled,,0,1
 marvellous, ˈmɑːrvələs,0,0
 marvelous, ˈmɑːrvələs ˈmɑr·və·ləs,0,0
 marvelously, ˈmɑːrvələsli,0,0
 marvels, ˈmɑːrvəl ˈmɑr·vəl,1,0
 marx,,0,1
-marxism, ˈmɑːrksɪzəm ˈmɑrkˌsɪz·əm,1,0
-marxist, ˈmɑːrksɪst ˈmɑrk·sɪst,1,0
+marxism, ˈmɑːrksɪzəm ˈmɑrkˌsɪz·əm,0,0
+marxist, ˈmɑːrksɪst ˈmɑrk·sɪst,0,0
 marxists, ˈmɑːrksɪst ˈmɑrk·sɪst,1,0
 mary,,0,1
-maryland, ˈmerələnd,1,0
+maryland, ˈmerələnd,0,0
 mas, mɑː mɑː ˌemˈeɪ ˌemˈeɪ mɑ,1,0
 masa, ˈmɑːsə,0,0
 masai,,0,1
@@ -26,50 +26,50 @@ mash, mæʃ mæʃ mæʃ mæʃ,0,0
 mashed, mæʃt,0,0
 mask, mæsk mæsk mæsk mæsk mæsk,0,0
 masked, mæskt,0,0
-masking, mæsk,1,0
+masking, mæsk,0,0
 masks, mæsk mæsk mæsk mæsk mæsk,1,0
 maslin,,0,1
 masochism, ˈmæsəkɪzəm ˈmæsəkɪzəm,0,0
 masochist, ˈmæsəkɪst ˈmæsəkɪst ˈmæs·ə·kɪst,0,0
 masochistic, ˌmæsəˈkɪstɪk ˌmæsəˈkɪstɪk,0,0
 mason, ˈmeɪsən ˈmeɪsən ˈmeɪ·sən,0,0
-masonic, məˈsɑːnɪk,1,0
+masonic, məˈsɑːnɪk,0,0
 masonry, ˈmeɪsənri ˈmeɪsənri ˈmeɪ·sən·ri,0,0
 masons, ˈmeɪsən ˈmeɪsən ˈmeɪsən ˈmeɪ·sən,1,0
 masquerade, ˌmæskəˈreɪd ˌmæskəˈreɪd ˌmæs·kəˈreɪd ˌmæs·kəˈreɪd,0,0
 masquerading, ˌmæskəˈreɪd ˌmæskəˈreɪd ˌmæs·kəˈreɪd ˌmæs·kəˈreɪd,1,0
-mass, mæs mæs mæs mæs,1,0
+mass, mæs mæs mæs mæs,0,0
 massa,,0,1
-massachusetts, ˌmæsəˈtʃuːsɪts,1,0
+massachusetts, ˌmæsəˈtʃuːsɪts,0,0
 massacre, ˈmæsəkɚ ˈmæsəkɚ ˈmæs·ə·kər,0,0
-massacred, ˈmæsəkɚ ˈmæsəkɚ,1,0
+massacred, ˈmæsəkɚ ˈmæsəkɚ,0,0
 massacres, ˈmæsəkɚ ˈmæsəkɚ ˈmæs·ə·kər,1,0
-massacring, ˈmæsəkɚ ˈmæsəkɚ,1,0
+massacring, ˈmæsəkɚ ˈmæsəkɚ,0,0
 massage," məˈsɑːʒ məˈsɑːʒ məˈsɑʒ, -ˈsɑdʒ",0,0
-massaged, məˈsɑːʒ məˈsɑːʒ,1,0
+massaged, məˈsɑːʒ məˈsɑːʒ,0,0
 massager,,0,1
 massagers,,0,1
 massages," məˈsɑːʒ məˈsɑːʒ məˈsɑʒ, -ˈsɑdʒ",1,0
-massaging, məˈsɑːʒ məˈsɑːʒ,1,0
+massaging, məˈsɑːʒ məˈsɑːʒ,0,0
 masse,,0,1
 massed, mæst,0,0
 masses, ˈmæs·ɪz,0,0
 massif, mæsˈiːf,0,0
-massing, mæs,1,0
-massive, ˈmæsɪv ˈmæs·ɪv,1,0
+massing, mæs,0,0
+massive, ˈmæsɪv ˈmæs·ɪv,0,0
 massively, ˈmæsɪvli,0,0
 mast, mæst mæst mæst mæst,0,0
 mastectomies, mæsˈtektəmi mæsˈtek·tə·mi,1,0
 mastectomy, mæsˈtektəmi mæsˈtek·tə·mi,0,0
 master, ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæstɚ ˈmæs·tər ˈmæs·tər ˈmæs·tər ˈmæstər ˈmæstər,0,0
-mastered, ˈmæstɚ ˈmæstɚ,1,0
+mastered, ˈmæstɚ ˈmæstɚ,0,0
 masterful, ˈmæstɚfəl ˈmæstɚfəl ˈmæs·tər·fəl,0,0
 masterfully, ˈmæstɚfəli ˈmæstɚfəli,0,0
-mastering, ˈmæstɚ ˈmæstɚ,1,0
+mastering, ˈmæstɚ ˈmæstɚ,0,0
 masterly, ˈmæstɚli,0,0
 mastermind, ˈmæstɚmaɪnd ˈmæs·tərˌmɑɪnd,0,0
-masterminded, ˈmæstɚmaɪnd,1,0
-masterminding, ˈmæstɚmaɪnd,1,0
+masterminded, ˈmæstɚmaɪnd,0,0
+masterminding, ˈmæstɚmaɪnd,0,0
 masterminds, ˈmæstɚmaɪnd ˈmæs·tərˌmɑɪnd,1,0
 masterpiece, ˈmæstɚpiːs ˈmæstɚpiːs ˈmæs·tərˌpis,0,0
 masterpieces, ˈmæstɚpiːs ˈmæstɚpiːs ˈmæs·tərˌpis,1,0
@@ -84,37 +84,37 @@ mastodon, ˈmæstədɑːn,0,0
 mastoiditis,,0,1
 masts, mæst mæst mæst mæst,1,0
 masturbate, ˈmæstɚbeɪt ˈmæstɚbeɪt ˈmæs·tərˌbeɪt,0,0
-masturbated, ˈmæstɚbeɪt ˈmæstɚbeɪt,1,0
+masturbated, ˈmæstɚbeɪt ˈmæstɚbeɪt,0,0
 masturbates, ˈmæstɚbeɪt ˈmæstɚbeɪt ˈmæs·tərˌbeɪt,1,0
-masturbating, ˈmæstɚbeɪt ˈmæstɚbeɪt,1,0
+masturbating, ˈmæstɚbeɪt ˈmæstɚbeɪt,0,0
 masturbation, ˌmæstɚˈbeɪʃən ˌmæstɚˈbeɪʃən,0,0
 mat, mæt mæt mæt mæt mæt,0,0
 matador, ˈmæt̬ədɔːr ˈmæt̬·əˌdɔr,0,0
-match, mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ,1,0
+match, mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ,0,0
 matchbook, ˈmætʃbʊk ˈmætʃˌbʊk,0,0
 matchbooks, ˈmætʃbʊk ˈmætʃˌbʊk,1,0
 matchbox, ˈmætʃbɑːks,0,0
 matchboxes, ˈmætʃbɑːks,1,0
 matched,  -mætʃt,1,0
 matches, mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ mætʃ,1,0
-matching, ˈmætʃɪŋ,1,0
+matching, ˈmætʃɪŋ,0,0
 matchlock,,0,1
 matchmaker, ˈmætʃˌmeɪkɚ ˈmætʃˌmeɪ·kər,0,0
 matchmaking, ˈmætʃˌmeɪkɪŋ,0,0
 mate, meɪt meɪt meɪt meɪt meɪt meɪt meɪt meɪt meɪt,0,0
-mated, meɪt,1,0
+mated, meɪt,0,0
 mater, ˈmeɪt̬ɚ,0,0
-material, məˈtɪriəl məˈtɪriəl məˈtɪriəl məˈtɪr·i·əl məˈtɪr·i·əl məˈtɪr·i·əl məˈtɪr·i·əl,1,0
+material, məˈtɪriəl məˈtɪriəl məˈtɪriəl məˈtɪr·i·əl məˈtɪr·i·əl məˈtɪr·i·əl məˈtɪr·i·əl,0,0
 materialism, məˈtɪriəlɪzəm məˈtɪriəlɪzəm məˈtɪr·i·əˌlɪz·əm,0,0
 materialist, məˈtɪriəlɪst məˈtɪriəlɪst,0,0
 materialistic, məˌtɪriəˈlɪstɪk,0,0
-materiality,,1,0
+materiality,,0,1
 materialize, məˈtɪriəlaɪz məˈtɪriəlaɪz məˈtɪr·i·əˌlɑɪz məˈtɪr·i·əˌlɑɪz,0,0
-materialized, məˈtɪriəlaɪz məˈtɪriəlaɪz,1,0
+materialized, məˈtɪriəlaɪz məˈtɪriəlaɪz,0,0
 materializes, məˈtɪriəlaɪz məˈtɪriəlaɪz məˈtɪr·i·əˌlɑɪz məˈtɪr·i·əˌlɑɪz,1,0
-materializing, məˈtɪriəlaɪz məˈtɪriəlaɪz,1,0
-materially, məˈtɪriəli məˈtɪriəli,1,0
-materials,,1,0
+materializing, məˈtɪriəlaɪz məˈtɪriəlaɪz,0,0
+materially, məˈtɪriəli məˈtɪriəli,0,0
+materials,,0,1
 materiel, məˌtɪriˈel,1,0
 maternal, məˈtɝːnəl məˈtɝːnəl məˈtɜr·nəl məˈtɜr·nəl,0,0
 maternity, məˈtɝːnət̬i məˈtɜr·nɪ·t̬i,0,0
@@ -131,16 +131,16 @@ mather,,0,1
 matilda,,0,1
 matinee, ˌmæt̬ənˈeɪ ˌmæt·ənˈeɪ,0,0
 matinees, ˌmæt̬ənˈeɪ ˌmæt·ənˈeɪ,1,0
-mating, meɪt,1,0
+mating, meɪt,0,0
 matriarch, ˈmeɪtriɑːrk ˈmeɪtriɑːrk ˈmeɪ·triˌɑrk,0,0
 matriarchal, ˌmeɪtriˈɑːrkəl,0,0
 matriarchy, ˈmeɪtriɑːrki ˈmeɪ·triˌɑr·ki,0,0
-matrices,,1,0
+matrices,,0,1
 matriculate, məˈtrɪkjəleɪt məˈtrɪk·jəˌleɪt,0,0
 matrilineal, ˌmætrəˈlɪniəl,0,0
 matrimonial, ˌmætrəˈmoʊniəl,0,0
 matrimony, ˈmætrəmoʊni ˈmæ·trəˌmoʊ·ni,0,0
-matrix, ˈmeɪtrɪks ˈmeɪtrɪks ˈmeɪtrɪks ˈmeɪ·trɪks,1,0
+matrix, ˈmeɪtrɪks ˈmeɪtrɪks ˈmeɪtrɪks ˈmeɪ·trɪks,0,0
 matron, ˈmeɪtrən ˈmeɪtrən ˈmeɪtrən ˈmeɪtrən ˈmeɪ·trən ˈmeɪ·trən,0,0
 matronly, ˈmeɪtrənli ˈmeɪ·trən·li,0,0
 matrons, ˈmeɪtrən ˈmeɪtrən ˈmeɪtrən ˈmeɪtrən ˈmeɪ·trən ˈmeɪ·trən,1,0
@@ -148,8 +148,8 @@ mats, mæt mæt mæt mæt ˌemeɪˈtiː mæt,1,0
 matt, mæt,0,0
 matte, mæt,0,0
 matter, ˈmæt̬ɚ ˈmæt̬ɚ ˈmæt̬ɚ ˈmæt̬ɚ ˈmæt̬ɚ ˈmæt̬·ər ˈmæt̬·ər ˈmæt̬·ər ˈmæt̬·ər,0,0
-mattered, ˈmæt̬ɚ,1,0
-matters,,1,0
+mattered, ˈmæt̬ɚ,0,0
+matters,,0,1
 mattes,,0,1
 matthew,,0,1
 matting, ˈmæt̬ɪŋ,0,0
@@ -158,9 +158,9 @@ mattress, ˈmætrəs ˈmæ·trɪs,0,0
 mattresses, ˈmætrəs ˈmæ·trɪs,1,0
 maturation, ˌmætʃəˈreɪʃən ˌmætʃəˈreɪʃən ˌmætʃəˈreɪʃən mætʃ·əˈreɪ·ʃən mætʃ·əˈreɪ·ʃən ˌmætʃəˈreɪʃən,0,0
 mature," məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr, -ˈtʊr məˈtʃʊr, -ˈtʊr məˈtʃʊr, -ˈtʊr məˈtʃʊər məˈtʃʊər məˈtʃʊər",0,0
-matured, məˈtʊr məˈtʊr məˈtʊr məˈtʊr məˈtʊr,1,0
+matured, məˈtʊr məˈtʊr məˈtʊr məˈtʊr məˈtʊr,0,0
 matures," məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr məˈtʃʊr, -ˈtʊr məˈtʃʊr, -ˈtʊr məˈtʃʊr, -ˈtʊr məˈtʃʊər məˈtʃʊər məˈtʃʊər",1,0
-maturing, məˈtʊr məˈtʊr məˈtʊr məˈtʊr məˈtʊr,1,0
+maturing, məˈtʊr məˈtʊr məˈtʊr məˈtʊr məˈtʊr,0,0
 maturity," məˈtʃʊrət̬i məˈtʃʊrət̬i məˈtʃʊrət̬i məˈtʃʊrət̬i məˈtʃʊr·ɪ·t̬i, -ˈtʊr- məˈtʃʊr·ɪ·t̬i, -ˈtʊr- məˈtʃʊərəti məˈtʃʊərəti məˈtʃʊərəti",0,0
 matza, ˈmɑːtsə,1,0
 matzoh, ˈmɑːtsə,1,0
@@ -168,15 +168,15 @@ mau,,0,1
 maud,,0,1
 maudlin, ˈmɑːdlɪn,0,0
 maul, mɑːl mɑːl mɔl,0,0
-mauled, mɑːl mɑːl,1,0
+mauled, mɑːl mɑːl,0,0
 mauler,,0,1
 mauricio,,0,1
-mauritania, ˌmɔːrɪˈteɪniə,1,0
+mauritania, ˌmɔːrɪˈteɪniə,0,0
 mauser,,0,1
 mausoleum, ˌmɑːzəˈliːəm,0,0
 mauve," moʊv moʊv, mɔv",0,0
-maven, ˈmeɪvən ˈmeɪ·vən,1,0
-maverick, ˈmævɚɪk ˈmævɚɪk ˈmæv·ər·ɪk,1,0
+maven, ˈmeɪvən ˈmeɪ·vən,0,0
+maverick, ˈmævɚɪk ˈmævɚɪk ˈmæv·ər·ɪk,0,0
 mavericks, ˈmævɚɪk ˈmævɚɪk ˈmæv·ər·ɪk,1,0
 mavis,,0,1
 maw, mɑː mɑː,0,0
@@ -186,25 +186,25 @@ maxed,,0,1
 maxi, ˈmæksi dres,0,0
 maxilla, mækˈsɪlə,0,0
 maxim, ˈmæksɪm ˈmæk·sɪm,0,0
-maxima,,1,0
+maxima,,0,1
 maximal, ˈmæksəməl,0,0
 maximization, ˌmæksəməˈzeɪʃən ˌmæksɪmaɪˈzeɪʃən,0,0
-maximize, ˈmæksəmaɪz ˈmæksəmaɪz ˈmæk·səˌmɑɪz,1,0
-maximized, ˈmæksəmaɪz ˈmæksəmaɪz,1,0
+maximize, ˈmæksəmaɪz ˈmæksəmaɪz ˈmæk·səˌmɑɪz,0,0
+maximized, ˈmæksəmaɪz ˈmæksəmaɪz,0,0
 maximizes, ˈmæksəmaɪz ˈmæksəmaɪz ˈmæk·səˌmɑɪz,1,0
-maximizing, ˈmæksəmaɪz ˈmæksəmaɪz,1,0
+maximizing, ˈmæksəmaɪz ˈmæksəmaɪz,0,0
 maxims, ˈmæksɪm ˈmæk·sɪm,1,0
-maximum, ˈmæksəməm ˈmæk·sə·məm,1,0
+maximum, ˈmæksəməm ˈmæk·sə·məm,0,0
 maximus, ˈmæksəməs,0,0
 maxis, ˈmæksi dres mæksi-,1,0
 maxwell,,0,1
 may, meɪ meɪ meɪ meɪ meɪ meɪ,0,0
 maya,,0,1
-mayan, ˈmaɪən,1,0
+mayan, ˈmaɪən,0,0
 mayans,,0,1
 maybe, ˈmeɪbi ˈmeɪbi ˈmeɪbi ˈmeɪbi ˈmeɪbi ˈmeɪ·bi ˈmeɪ·bi ˈmeɪ·bi,0,0
 mayberry,,0,1
-mayday, ˈmeɪdeɪ ˈmeɪˌdeɪ,1,0
+mayday, ˈmeɪdeɪ ˈmeɪˌdeɪ,0,0
 mayflower, ˈmeɪflaʊɚ ˈmeɪflaʊɚ,0,0
 mayhem, ˈmeɪhem ˈmeɪ·hem,0,0
 mayo, ˈmeɪoʊ,0,0
@@ -218,9 +218,9 @@ maza,,0,1
 maze, meɪz meɪz meɪz meɪz,0,0
 mazel,,0,1
 mazes, meɪz meɪz meɪz meɪz,1,0
-mc, ˌemˈsiː,1,0
-mccarthyism, məˈkɑːrθiɪzəm,1,0
-mccoy, məˈkɔɪ,1,0
+mc, ˌemˈsiː,0,0
+mccarthyism, məˈkɑːrθiɪzəm,0,0
+mccoy, məˈkɔɪ,0,0
 mcdonald,,0,1
 me, miː mi,0,0
 mea,,0,1
@@ -231,13 +231,13 @@ meadowlark,,0,1
 meadows, ˈmedoʊ ˈmed·oʊ,1,0
 meads,,0,1
 meager, ˈmiːɡɚ ˈmi·ɡər,0,0
-meal, mɪəl mɪəl mil mil,1,0
+meal, mɪəl mɪəl mil mil,0,0
 meals, mɪəl mɪəl mil mil,1,0
 mealtime, ˈmɪəltaɪm ˈmilˌtɑɪm,0,0
 mealy, ˈmiːli,0,0
-mean, miːn miːn miːn miːn miːn min min min min min,1,0
+mean, miːn miːn miːn miːn miːn min min min min min,0,0
 meander, miˈændɚ miˈændɚ miˈændɚ miˈæn·dər,0,0
-meandered, miˈændɚ miˈændɚ miˈændɚ,1,0
+meandered, miˈændɚ miˈændɚ miˈændɚ,0,0
 meandering, miˈændɚɪŋ,0,0
 meanders, miˈændɚ miˈændɚ miˈændɚ miˈæn·dər,1,0
 meaner, miːn miːn miːn miːn miːn miːn min min min min min,1,0
@@ -248,21 +248,21 @@ meaningfully, ˈmiːnɪŋfəli ˈmiːnɪŋfəli ˈmiːnɪŋfəli,0,0
 meaningless, ˈmiːnɪŋləs ˈmiːnɪŋləs ˈmi·nɪŋ·lɪs ˈmi·nɪŋ·lɪs,0,0
 meanings, ˈmiːnɪŋ ˈmiːnɪŋ ˈmi·nɪŋ ˈmi·nɪŋ,1,0
 meanness, ˈmiːnnəs ˈmiːnnəs,0,0
-means, miːnz miːnz minz minz,1,0
-meant,,1,0
+means, miːnz miːnz minz minz,0,0
+meant,,0,1
 meantime, ˈminˌtɑɪm,0,1
 meanwhile," ˈmiːnwaɪl ˈminˌwɑɪl, -ˌhwɑɪl",0,0
 meany, ˈmiːni,0,0
 measles, ˈmiːzəlz ˈmi·zəlz,0,0
-measly, ˈmiːzli ˈmiz·li,1,0
-measurable, ˈmeʒɚəbəl ˈmeʒ·ər·ə·bəl,1,0
-measurably, ˈmeʒɚəbli,1,0
-measure, ˈmeʒɚ ˈmeʒɚ ˈmeʒɚ ˈmeʒ·ər,1,0
+measly, ˈmiːzli ˈmiz·li,0,0
+measurable, ˈmeʒɚəbəl ˈmeʒ·ər·ə·bəl,0,0
+measurably, ˈmeʒɚəbli,0,0
+measure, ˈmeʒɚ ˈmeʒɚ ˈmeʒɚ ˈmeʒ·ər,0,0
 measured, ˈmeʒɚd,0,0
-measurement, ˈmeʒɚmənt ˈmeʒɚmənt ˈmeʒ·ər·mənt ˈmeʒ·ər·mənt,1,0
-measurements,,1,0
+measurement, ˈmeʒɚmənt ˈmeʒɚmənt ˈmeʒ·ər·mənt ˈmeʒ·ər·mənt,0,0
+measurements,,0,1
 measures, ˈmeʒɚ ˈmeʒɚ ˈmeʒɚ ˈmeʒ·ər,1,0
-measuring, ˈmeʒɚ ˈmeʒɚ ˈmeʒɚ,1,0
+measuring, ˈmeʒɚ ˈmeʒɚ ˈmeʒɚ,0,0
 meat, miːt miːt miːt mit,0,0
 meatball, ˈmiːtbɑːl ˈmitˌbɔl,0,0
 meatballs, ˈmiːtbɑːl ˈmitˌbɔl,1,0
@@ -273,19 +273,19 @@ meatloaf,,0,1
 meatpacking,,0,1
 meats, ˈɑːfəl,1,0
 meaty, ˈmiːt̬i ˈmiːt̬i ˈmiːt̬i ˈmi·t̬i,0,0
-mecca, ˈmekə ˈmekə ˈmek·ə,1,0
+mecca, ˈmekə ˈmekə ˈmek·ə,0,0
 mech, mek,0,0
-mechanic, məˈkænɪk məˈkæn·ɪk,1,0
-mechanical, məˈkænɪkəl məˈkænɪkəl məˈkænɪkəl məˈkæn·ɪ·kəl məˈkæn·ɪ·kəl məˈkæn·ɪ·kəl,1,0
+mechanic, məˈkænɪk məˈkæn·ɪk,0,0
+mechanical, məˈkænɪkəl məˈkænɪkəl məˈkænɪkəl məˈkæn·ɪ·kəl məˈkæn·ɪ·kəl məˈkæn·ɪ·kəl,0,0
 mechanically, məˈkænɪkəli məˈkænɪkəli,0,0
-mechanics, məˈkæn·ɪks məˈkæn·ɪks,1,0
-mechanism, ˈmekənɪzəm ˈmekənɪzəm ˈmekənɪzəm ˈmek·əˌnɪz·əm ˈmek·əˌnɪz·əm,1,0
+mechanics, məˈkæn·ɪks məˈkæn·ɪks,0,0
+mechanism, ˈmekənɪzəm ˈmekənɪzəm ˈmekənɪzəm ˈmek·əˌnɪz·əm ˈmek·əˌnɪz·əm,0,0
 mechanisms, ˈmekənɪzəm ˈmekənɪzəm ˈmekənɪzəm ˈmek·əˌnɪz·əm ˈmek·əˌnɪz·əm,1,0
 mechanistic, ˌmekəˈnɪstɪk,0,0
 mechanization, ˌmekənəˈzeɪʃən ˌmekənəˈzeɪʃən,0,0
 mechanized, ˈmekənaɪzd,0,0
 meck,,0,1
-med, med,1,0
+med, med,0,0
 medal, ˈmedəl ˈmed·əl,0,0
 medalist, ˈmedəlɪst ˈmed·əl·ɪst,0,0
 medalists, ˈmedəlɪst ˈmed·əl·ɪst,1,0
@@ -298,42 +298,42 @@ meddling, ˈmedəlɪŋ,0,0
 medea,,0,1
 media, ˈmiːdiə ˈmiːdiə ˈmid·i·ə ˈmiːdiə,0,0
 medial, ˈmiːdiəl,0,0
-median, ˈmiːdiən ˈmiːdiən ˈmid·i·ən ˈmid·i·ən,1,0
-mediate, ˈmiːdieɪt ˈmid·iˌeɪt,1,0
-mediated, ˈmiːdieɪt,1,0
-mediating, ˈmiːdieɪt,1,0
-mediation, ˌmiːdiˈeɪʃən,1,0
-mediator, ˈmiːdieɪt̬ɚ,1,0
+median, ˈmiːdiən ˈmiːdiən ˈmid·i·ən ˈmid·i·ən,0,0
+mediate, ˈmiːdieɪt ˈmid·iˌeɪt,0,0
+mediated, ˈmiːdieɪt,0,0
+mediating, ˈmiːdieɪt,0,0
+mediation, ˌmiːdiˈeɪʃən,0,0
+mediator, ˈmiːdieɪt̬ɚ,0,0
 mediators, ˈmiːdieɪt̬ɚ,1,0
 medic, ˈmedɪk ˈmedɪk ˈmed·ɪk,0,0
-medicaid, ˈmedɪkeɪd ˈmed·ɪˌkeɪd,1,0
-medical, ˈmedɪkəl ˈmed·ɪ·kəl,1,0
-medically, ˈmedɪkəli,1,0
-medicare, ˈmedɪker ˈmedɪker ˈmed·ɪˌkeər,1,0
+medicaid, ˈmedɪkeɪd ˈmed·ɪˌkeɪd,0,0
+medical, ˈmedɪkəl ˈmed·ɪ·kəl,0,0
+medically, ˈmedɪkəli,0,0
+medicare, ˈmedɪker ˈmedɪker ˈmed·ɪˌkeər,0,0
 medicate, ˈmedɪˌkeɪt ˈmed·ɪˌkeɪt,0,0
 medicated, ˈmedɪkeɪt̬ɪd ˈmedɪkeɪt̬ɪd ˈmed·ɪˌkeɪ·t̬ɪd,0,0
 medicates, ˈmedɪˌkeɪt ˈmed·ɪˌkeɪt,1,0
 medicating, ˈmedɪˌkeɪt ˈmed·ɪˌkeɪt,1,0
-medication, ˌmedəˈkeɪʃən ˌmed·ɪˈkeɪ·ʃən,1,0
+medication, ˌmedəˈkeɪʃən ˌmed·ɪˈkeɪ·ʃən,0,0
 medications, ˌmedəˈkeɪʃən ˌmed·ɪˈkeɪ·ʃən,1,0
 medicinal, məˈdɪsɪnəl,0,0
-medicine, ˈmedɪsən ˈmedɪsən ˈmed·ə·sɪn ˈmed·ə·sɪn,1,0
+medicine, ˈmedɪsən ˈmedɪsən ˈmed·ə·sɪn ˈmed·ə·sɪn,0,0
 medicines, ˈmedɪsən ˈmedɪsən ˈmed·ə·sɪn ˈmed·ə·sɪn,1,0
 medico, ˈmedɪkoʊ,0,0
 medics, ˈmedɪk ˈmedɪk ˈmed·ɪk,1,0
 medieval," ˌmediˈiːvəl ˌmid·iˈi·vəl, medˈi·vəl",0,0
 medina,,0,1
 medio,,0,1
-mediocre, ˌmiːdiˈoʊkɚ ˌmid·iˈoʊ·kər,1,0
+mediocre, ˌmiːdiˈoʊkɚ ˌmid·iˈoʊ·kər,0,0
 mediocrity, ˌmiːdiˈɑːkrət̬i ˌmiːdiˈɑːkrət̬i,0,0
 meditate, ˈmedəteɪt ˈmedəteɪt ˈmed·ɪˌteɪt ˈmed·ɪˌteɪt,0,0
-meditating, ˈmedəteɪt ˈmedəteɪt,1,0
+meditating, ˈmedəteɪt ˈmedəteɪt,0,0
 meditation, ˌmedəˈteɪʃən ˌmedəˈteɪʃən,0,0
 meditations, ˌmedəˈteɪʃən ˌmedəˈteɪʃən,1,0
 meditative, ˈmedəteɪt̬ɪv ˈmedəteɪt̬ɪv,0,0
 mediterranean,,0,1
-medium, ˈmiːdiəm ˈmiːdiəm ˈmid·i·əm ˈmid·i·əm,1,0
-mediums,,1,0
+medium, ˈmiːdiəm ˈmiːdiəm ˈmid·i·əm ˈmid·i·əm,0,0
+mediums,,0,1
 medley, ˈmedli ˈmedli ˈmed·li,0,0
 medoc,,0,1
 medulla, məˈdʌlə məˈdʌl·ə,0,0
@@ -344,14 +344,14 @@ meeker, miːk mik,1,0
 meekly, ˈmiːkli,0,0
 meer,,0,1
 meese,,0,1
-meet, miːt miːt miːt miːt miːt miːt miːt miːt mit mit mit mit,1,0
-meeting, ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmi·t̬ɪŋ,1,0
+meet, miːt miːt miːt miːt miːt miːt miːt miːt mit mit mit mit,0,0
+meeting, ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmi·t̬ɪŋ,0,0
 meetings, ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmiːt̬ɪŋ ˈmi·t̬ɪŋ,1,0
 meets, miːt miːt miːt miːt miːt miːt miːt miːt mit mit mit mit,1,0
-meg, meɡ,1,0
-mega, ˈmeɡə ˈmeɡ·ə,1,0
-megabucks, ˈmeɡəbʌks,1,0
-megabyte, ˈmeɡəbaɪt ˈmeɡəbaɪt ˈmeɡ·əˌbɑɪt,1,0
+meg, meɡ,0,0
+mega, ˈmeɡə ˈmeɡ·ə,0,0
+megabucks, ˈmeɡəbʌks,0,0
+megabyte, ˈmeɡəbaɪt ˈmeɡəbaɪt ˈmeɡ·əˌbɑɪt,0,0
 megabytes, ˈmeɡəbaɪt ˈmeɡəbaɪt ˈmeɡ·əˌbɑɪt,1,0
 megahertz, ˈmeɡəhɝːts,0,0
 megalomania, ˌmeɡələˈmeɪniə ˌmeɡ·ə·ləˈmeɪ·ni·ə,0,0
@@ -372,13 +372,13 @@ mel,,0,1
 melamine, ˈmeləmiːn ˈmeləmiːn,0,0
 melancholic, ˌmeləŋˈkɑːlɪk,0,0
 melancholy, ˈmeləŋkɑːli ˈmel·ənˌkɑ·li,0,0
-melanesian, meləˈniːziʒən,1,0
+melanesian, meləˈniːziʒən,0,0
 melange, meɪˈlɑ̃ːʒ,1,0
 melanin, ˈmelənɪn,0,0
 melanoma, ˌmeləˈnoʊmə,0,0
 melatonin, meləˈtoʊnɪn,0,0
 melba,,0,1
-melbourne, ˈmelbɚn,1,0
+melbourne, ˈmelbɚn,0,0
 meld, meld,0,0
 melded, meld,1,0
 melding, meld,1,0
@@ -388,8 +388,8 @@ melissa,,0,1
 melling,,0,1
 mellon,,0,1
 mellow, ˈmeloʊ ˈmeloʊ ˈmel·oʊ ˈmel·oʊ,0,0
-mellowed, ˈmeloʊ ˈmeloʊ,1,0
-mellowing, ˈmeloʊ ˈmeloʊ,1,0
+mellowed, ˈmeloʊ ˈmeloʊ,0,0
+mellowing, ˈmeloʊ ˈmeloʊ,0,0
 melodic, məˈlɑːdɪk məˈlɑːdɪk məˈlɑ·dɪk,0,0
 melodies, ˈmelədi ˈmel·ə·di,1,0
 melodious, məˈloʊdiəs məˈloʊ·di·əs,0,0
@@ -400,28 +400,28 @@ melody, ˈmelədi ˈmel·ə·di,0,0
 melon, ˈmelən ˈmel·ən,0,0
 melons, ˈmelən ˈmel·ən,1,0
 melt, melt melt melt,0,0
-meltdown, ˈmeltdaʊn ˈmeltdaʊn ˈmeltdaʊn ˈmeltˌdɑʊn,1,0
+meltdown, ˈmeltdaʊn ˈmeltdaʊn ˈmeltdaʊn ˈmeltˌdɑʊn,0,0
 melted, ˈmeltɪd,0,0
 melting, ˈmeltɪŋ ˈmel·tɪŋ,0,0
 melton,,0,1
 melts, melt melt melt,1,0
-member, ˈmembɚ ˈmembɚ ˈmembɚ ˈmembɚ ˈmem·bər ˈmem·bər,1,0
+member, ˈmembɚ ˈmembɚ ˈmembɚ ˈmembɚ ˈmem·bər ˈmem·bər,0,0
 membered,,0,1
 members, ˈmembɚ ˈmembɚ ˈmembɚ ˈmembɚ ˈmem·bər ˈmem·bər,1,0
-membership, ˈmembɚʃɪp ˈmembɚʃɪp ˈmem·bərˌʃɪp ˈmem·bərˌʃɪp,1,0
+membership, ˈmembɚʃɪp ˈmembɚʃɪp ˈmem·bərˌʃɪp ˈmem·bərˌʃɪp,0,0
 memberships, ˈmembɚʃɪp ˈmembɚʃɪp ˈmem·bərˌʃɪp ˈmem·bərˌʃɪp,1,0
-membrane, ˈmem·breɪn,1,0
+membrane, ˈmem·breɪn,0,0
 membranes, ˈmem·breɪn,1,0
 membranous, ˈmembrənəs,0,0
 memento, məˈmentoʊ məˈmen·toʊ,0,0
 mementos, məˈmentoʊ məˈmen·toʊ,1,0
-memo, ˈmemoʊ ˈmem·oʊ,1,0
+memo, ˈmemoʊ ˈmem·oʊ,0,0
 memoir," ˈmemwɑːr ˈmem·wɑr, -wɔr",0,0
-memoirs,,1,0
+memoirs,,0,1
 memorabilia, ˌmemərəˈbɪliə ˌmem·ər·əˈbɪl·i·ə,0,0
 memorable, ˈmemərəbəl ˈmem·ər·ə·bəl,0,0
-memoranda,,1,0
-memorandum, ˌmeməˈrændəm ˌmeməˈrændəm ˌmeməˈrændəm ˌmem·əˈræn·dəm,1,0
+memoranda,,0,1
+memorandum, ˌmeməˈrændəm ˌmeməˈrændəm ˌmeməˈrændəm ˌmem·əˈræn·dəm,0,0
 memorandums, ˌmeməˈrændəm ˌmeməˈrændəm ˌmeməˈrændəm ˌmem·əˈræn·dəm,1,0
 memorial," məˈmɔːriəl məˈmɔːriəl məˈmɔr·i·əl, -ˈmoʊr- məˈmɔr·i·əl, -ˈmoʊr-",0,0
 memorialize, məˈmɔːriəlaɪz məˈmɔːriəlaɪz,0,0
@@ -429,28 +429,28 @@ memorialized, məˈmɔːriəlaɪz məˈmɔːriəlaɪz,1,0
 memorials," məˈmɔːriəl məˈmɔːriəl məˈmɔr·i·əl, -ˈmoʊr- məˈmɔr·i·əl, -ˈmoʊr-",1,0
 memories, ˈmeməri ˈmeməri ˈmeməri ˈmem·ər·i ˈmem·ər·i ˈmem·ər·i,1,0
 memorize, ˈmeməraɪz ˈmem·əˌrɑɪz,0,0
-memorized, ˈmeməraɪz,1,0
+memorized, ˈmeməraɪz,0,0
 memorizes, ˈmeməraɪz ˈmem·əˌrɑɪz,1,0
-memorizing, ˈmeməraɪz,1,0
-memory, ˈmeməri ˈmeməri ˈmeməri ˈmem·ər·i ˈmem·ər·i ˈmem·ər·i,1,0
+memorizing, ˈmeməraɪz,0,0
+memory, ˈmeməri ˈmeməri ˈmeməri ˈmem·ər·i ˈmem·ər·i ˈmem·ər·i,0,0
 memos, ˈmemoʊ ˈmem·oʊ,1,0
-memphis, ˈmemfɪs,1,0
-men, men men men,1,0
-menace, ˈmenəs ˈmenəs ˈmenəs ˈmen·əs,1,0
-menaced, ˈmenəs,1,0
+memphis, ˈmemfɪs,0,0
+men, men men men,0,0
+menace, ˈmenəs ˈmenəs ˈmenəs ˈmen·əs,0,0
+menaced, ˈmenəs,0,0
 menaces, ˈmenəs ˈmenəs ˈmenəs ˈmenəs ˈmen·əs,1,0
 menacing, ˈmenəsɪŋ,0,0
 menacingly, ˈmenəsɪŋli,0,0
 menagerie," məˈnædʒɚi məˈnædʒ·ər·i, -ˈnæʒ-",0,0
-mend, mend mend mend,1,0
+mend, mend mend mend,0,0
 mendacious, menˈdeɪʃəs,0,0
 mendacity, menˈdæsət̬i,0,0
-mended, mend,1,0
+mended, mend,0,0
 mendel,,0,1
 mendelssohn,,0,1
 mending, ˈmendɪŋ,0,0
 meng,,0,1
-menial, ˈmiːniəl ˈmi·ni·əl,1,0
+menial, ˈmiːniəl ˈmi·ni·əl,0,0
 meningitis, ˌmenɪnˈdʒaɪt̬əs ˌmen·ənˈdʒɑɪ·t̬ɪs,0,0
 mennonite,,0,1
 mennonites,,0,1
@@ -464,22 +464,22 @@ mensch, menʃ,0,0
 menstrual, ˈmenstrəl,0,0
 menstruate, ˈmenstrueɪt ˈmen·struˌeɪt,0,0
 menstruation, ˌmenstruˈeɪʃən ˌmen·struˈeɪ·ʃən,0,0
-menswear, ˈmenzwer ˈmenzwer ˈmenzˌweər,1,0
+menswear, ˈmenzwer ˈmenzwer ˈmenzˌweər,0,0
 mental, ˈmentəl ˈmentəl ˈmentəl ˈmen·təl,0,0
-mentality, menˈtælət̬i menˈtæl·ɪ·t̬i,1,0
+mentality, menˈtælət̬i menˈtæl·ɪ·t̬i,0,0
 mentally, ˈment̬əli,0,0
 menthol, ˈmenθɑːl ˈmen·θɔl,0,0
 mention, ˈmenʃən ˈmenʃən ˈmen·tʃən,0,0
-mentioned, ˈmenʃən ˈmenʃən,1,0
-mentioning, ˈmenʃən ˈmenʃən,1,0
+mentioned, ˈmenʃən ˈmenʃən,0,0
+mentioning, ˈmenʃən ˈmenʃən,0,0
 mentions, ˈmenʃən ˈmenʃən ˈmen·tʃən,1,0
 mentor," ˈmentɔːr ˈmen·tɔr, -tər ˈmentər",0,0
-mentored, ˈmentɔːr,1,0
-mentoring, ˈmentɔːrɪŋ,1,0
+mentored, ˈmentɔːr,0,0
+mentoring, ˈmentɔːrɪŋ,0,0
 mentors," ˈmentɔːr ˈmen·tɔr, -tər ˈmentər",1,0
-menu, ˈmenjuː ˈmenjuː ˈmen·ju ˈmen·ju,1,0
+menu, ˈmenjuː ˈmenjuː ˈmen·ju ˈmen·ju,0,0
 menus, ˈmenjuː ˈmenjuː ˈmen·ju ˈmen·ju,1,0
 meow," ˌmiˈaʊ miˈɑʊ, mjɑʊ",0,0
 mer,,0,1
-merc, mɝːk,1,0
-mercantile, ˈmɝːkəntaɪl,1,0
+merc, mɝːk,0,0
+mercantile, ˈmɝːkəntaɪl,0,0

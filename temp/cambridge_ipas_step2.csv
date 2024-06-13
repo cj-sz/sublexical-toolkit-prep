@@ -1,19 +1,19 @@
 Word,Pronunciation,Root Word Returned,Missing
 adams, ˈædəm,1,0
-adapt, əˈdæpt əˈdæpt əˈdæpt əˈdæpt,1,0
+adapt, əˈdæpt əˈdæpt əˈdæpt əˈdæpt,0,0
 adaptability, əˌdæptəˈbɪlət̬i əˌdæp·təˈbɪl·ɪ·t̬i,0,0
 adaptable, əˈdæptəbəl əˈdæp·tə·bəl,0,0
 adaptation," ˌædəpˈteɪʃən ˌædəpˈteɪʃən ˌædəpˈteɪʃən ˌæd·əpˈteɪ·ʃən, -ˌæp- ˌæd·əpˈteɪ·ʃən, -ˌæp-",0,0
 adaptations," ˌædəpˈteɪʃən ˌædəpˈteɪʃən ˌædəpˈteɪʃən ˌæd·əpˈteɪ·ʃən, -ˌæp- ˌæd·əpˈteɪ·ʃən, -ˌæp-",1,0
 adapted, əˈdæpt̬ɪd əˈdæpt̬ɪd,0,0
 adapter, əˈdæptɚ əˈdæptɚ əˈdæptɚ,0,0
-adapting, əˈdæpt əˈdæpt əˈdæpt,1,0
+adapting, əˈdæpt əˈdæpt əˈdæpt,0,0
 adaptive, əˈdæptɪv əˈdæptɪv əˈdæp·tɪv əˈdæp·tɪv əˈdæptɪv,0,0
 adaptor, əˈdæptɚ əˈdæptɚ əˈdæptɚ,1,0
 adaptors, əˈdæptɚ əˈdæptɚ əˈdæptɚ,1,0
 adapts, əˈdæpt əˈdæpt əˈdæpt əˈdæpt,1,0
 adar,,0,1
-add, æd æd æd æd æd,1,0
+add, æd æd æd æd æd,0,0
 added, ˈædɪd,0,0
 addendum, əˈdendəm əˈdendəm,0,0
 addendums,,0,1
@@ -25,22 +25,22 @@ addiction, əˈdɪkʃən əˈdɪk·ʃən,0,0
 addictions, əˈdɪkʃən əˈdɪk·ʃən,1,0
 addictive, əˈdɪktɪv əˈdɪktɪv,0,0
 addicts, ˈædɪkt ˈæd·ɪkt,1,0
-adding, æd æd æd,1,0
+adding, æd æd æd,0,0
 addis,,0,1
 addison,,0,1
-addition, əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃ·ən əˈdɪʃ·ən,1,0
-additional, əˈdɪʃənəl əˈdɪʃ·ə·nəl,1,0
-additionally, əˈdɪʃənəli,1,0
+addition, əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃ·ən əˈdɪʃ·ən,0,0
+additional, əˈdɪʃənəl əˈdɪʃ·ə·nəl,0,0
+additionally, əˈdɪʃənəli,0,0
 additions, əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃən əˈdɪʃ·ən əˈdɪʃ·ən,1,0
 additive, ˈædət̬ɪv ˈæd·ə·t̬ɪv,0,0
 additives, ˈædət̬ɪv ˈæd·ə·t̬ɪv,1,0
 addle, ˈædəl,0,0
 addled, ˈædəld,0,0
 address," ˈædres ˈædres ˈædres ˈædres ˈædres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈædres ˈædres ˈædres ˈædres ˈædres",0,0
-addressed, əˈdres əˈdres əˈdres,1,0
-addressee, ˌædresˈiː,1,0
+addressed, əˈdres əˈdres əˈdres,0,0
+addressee, ˌædresˈiː,0,0
 addresses," ˈædres ˈædres ˈædres ˈædres ˈædres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈæd·res, əˈdres ˈædres ˈædres ˈædres ˈædres ˈædres",1,0
-addressing, əˈdres əˈdres əˈdres,1,0
+addressing, əˈdres əˈdres əˈdres,0,0
 adds, æd æd æd ˌeɪdiːˈdiː æd æd,1,0
 ade,,0,1
 aden,,0,1
@@ -49,16 +49,16 @@ adenoid, ˈædənɔɪd,0,0
 adenoids, ˈædənɔɪd,1,0
 adenosine,,0,1
 adept, əˈdept əˈdept,0,0
-adequacy, ˈædəkwəsi,1,0
-adequate, ˈædəkwət ˈæd·ɪ·kwət,1,0
+adequacy, ˈædəkwəsi,0,0
+adequate, ˈædəkwət ˈæd·ɪ·kwət,0,0
 adequately, ˈædəkwətli,0,0
 adhere," ədˈhɪr ədˈhɪər, æd-",0,0
-adhered, ədˈhɪr,1,0
-adherence," ədˈhɪrəns ədˈhɪər·əns, æd-",1,0
+adhered, ədˈhɪr,0,0
+adherence," ədˈhɪrəns ədˈhɪər·əns, æd-",0,0
 adherent," ədˈhɪrənt ədˈhɪər·ənt, æd-",0,0
 adherents," ədˈhɪrənt ədˈhɪər·ənt, æd-",1,0
 adheres," ədˈhɪr ədˈhɪər, æd-",1,0
-adhering, ədˈhɪr,1,0
+adhering, ədˈhɪr,0,0
 adhesion, ədˈhiːʒən,0,0
 adhesive," ədˈhiːsɪv ədˈhi·sɪv, æd-, -zɪv",0,0
 adhesives," ədˈhiːsɪv ədˈhi·sɪv, æd-, -zɪv",1,0
@@ -70,38 +70,38 @@ adjective, ˈædʒektɪv ˈædʒ·ɪk·tɪv,0,0
 adjectives, ˈædʒektɪv ˈædʒ·ɪk·tɪv,1,0
 adjoining, əˈdʒɔɪnɪŋ əˈdʒɔɪ·nɪŋ,0,0
 adjoins, əˈdʒɔɪn,1,0
-adjourn, əˈdʒɝːn əˈdʒɜrn,1,0
-adjourned, əˈdʒɝːn,1,0
-adjourning, əˈdʒɝːn,1,0
-adjournment, əˈdʒɝːnmənt,1,0
+adjourn, əˈdʒɝːn əˈdʒɜrn,0,0
+adjourned, əˈdʒɝːn,0,0
+adjourning, əˈdʒɝːn,0,0
+adjournment, əˈdʒɝːnmənt,0,0
 adjourns, əˈdʒɝːn əˈdʒɜrn,1,0
 adjudge, əˈdʒʌdʒ,0,0
-adjudged, əˈdʒʌdʒ,1,0
-adjudicate, əˈdʒuːdəkeɪt əˈdʒud·ɪˌkeɪt,1,0
-adjudicated, əˈdʒuːdəkeɪt,1,0
-adjudicating, əˈdʒuːdəkeɪt,1,0
-adjudication, əˌdʒuːdəˈkeɪʃən,1,0
-adjunct, ˈædʒʌŋkt ˈædʒʌŋkt ˈædʒ·ʌŋkt ˈædʒ·ʌŋkt,1,0
-adjust, əˈdʒʌst əˈdʒʌst əˈdʒʌst əˈdʒʌst,1,0
-adjustable, əˈdʒʌstəbəl,1,0
-adjusted, əˈdʒʌst əˈdʒʌst əˈdʒʌst,1,0
-adjuster,,1,0
-adjusters,,1,0
-adjusting, əˈdʒʌst əˈdʒʌst əˈdʒʌst,1,0
-adjustment, əˈdʒʌstmənt əˈdʒʌstmənt,1,0
+adjudged, əˈdʒʌdʒ,0,0
+adjudicate, əˈdʒuːdəkeɪt əˈdʒud·ɪˌkeɪt,0,0
+adjudicated, əˈdʒuːdəkeɪt,0,0
+adjudicating, əˈdʒuːdəkeɪt,0,0
+adjudication, əˌdʒuːdəˈkeɪʃən,0,0
+adjunct, ˈædʒʌŋkt ˈædʒʌŋkt ˈædʒ·ʌŋkt ˈædʒ·ʌŋkt,0,0
+adjust, əˈdʒʌst əˈdʒʌst əˈdʒʌst əˈdʒʌst,0,0
+adjustable, əˈdʒʌstəbəl,0,0
+adjusted, əˈdʒʌst əˈdʒʌst əˈdʒʌst,0,0
+adjuster,,0,1
+adjusters,,0,1
+adjusting, əˈdʒʌst əˈdʒʌst əˈdʒʌst,0,0
+adjustment, əˈdʒʌstmənt əˈdʒʌstmənt,0,0
 adjustments, əˈdʒʌstmənt əˈdʒʌstmənt,1,0
 adjusts, əˈdʒʌst əˈdʒʌst əˈdʒʌst əˈdʒʌst,1,0
 adjutant, ˈædʒətənt,0,0
-admin, ˈædmɪn ˈædmɪn,1,0
-administer," ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪn·ə·stər, æd- ədˈmɪn·ə·stər, æd-",1,0
-administered, ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ,1,0
-administering, ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ,1,0
+admin, ˈædmɪn ˈædmɪn,0,0
+administer," ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪn·ə·stər, æd- ədˈmɪn·ə·stər, æd-",0,0
+administered, ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ,0,0
+administering, ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ,0,0
 administers," ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪnəstɚ ədˈmɪn·ə·stər, æd- ədˈmɪn·ə·stər, æd-",1,0
-administrate,,1,0
-administration," ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd-",1,0
+administrate,,0,1
+administration," ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd-",0,0
 administrations," ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪnəˈstreɪʃən ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd- ədˌmɪn·əˈstreɪ·ʃən, æd-",1,0
-administrative, ædˈmɪnɪˌstreɪt̬ɪv ædˈmɪnɪˌstreɪt̬ɪv ædˈmɪnɪˌstreɪt̬ɪv,1,0
-administrator, ədˈmɪnəstreɪt̬ɚ ədˈmɪnəstreɪt̬ɚ,1,0
+administrative, ædˈmɪnɪˌstreɪt̬ɪv ædˈmɪnɪˌstreɪt̬ɪv ædˈmɪnɪˌstreɪt̬ɪv,0,0
+administrator, ədˈmɪnəstreɪt̬ɚ ədˈmɪnəstreɪt̬ɚ,0,0
 administrators, ədˈmɪnəstreɪt̬ɚ ədˈmɪnəstreɪt̬ɚ,1,0
 admirable, ˈædmərəbəl,0,0
 admirably, ˈædmərəbli,0,0
@@ -110,23 +110,23 @@ admirals, ˈædmərəl ˈæd·mər·əl,1,0
 admiralty, ˈædmərəlti,0,0
 admiration, ˌædməˈreɪʃən,0,0
 admire, ədˈmaɪr ədˈmaɪr ədˈmɑɪər,0,0
-admired, ədˈmaɪr ədˈmaɪr,1,0
+admired, ədˈmaɪr ədˈmaɪr,0,0
 admirer, ədˈmaɪrɚ,0,0
 admirers, ədˈmaɪrɚ,1,0
 admires, ədˈmaɪr ədˈmaɪr ədˈmɑɪər,1,0
 admiring, ədˈmaɪrɪŋ,0,0
 admissibility, ədˌmɪsəˈbɪlət̬i,0,0
-admissible," ədˈmɪsəbəl ədˈmɪs·ə·bəl, æd-",1,0
-admission," ədˈmɪʃən ədˈmɪʃən ədˈmɪʃən ədˈmɪʃən ədˈmɪʃ·ən, æd- ədˈmɪʃ·ən, æd- ədˈmɪʃ·ən, æd-",1,0
-admissions," ədˈmɪʃ·ənz, æd-",1,0
-admit," ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt, æd- ədˈmɪt, æd-",1,0
+admissible," ədˈmɪsəbəl ədˈmɪs·ə·bəl, æd-",0,0
+admission," ədˈmɪʃən ədˈmɪʃən ədˈmɪʃən ədˈmɪʃən ədˈmɪʃ·ən, æd- ədˈmɪʃ·ən, æd- ədˈmɪʃ·ən, æd-",0,0
+admissions," ədˈmɪʃ·ənz, æd-",0,0
+admit," ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt, æd- ədˈmɪt, æd-",0,0
 admits," ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt ədˈmɪt, æd- ədˈmɪt, æd-",1,0
 admittance, ədˈmɪt̬əns,0,0
-admitted,,1,0
+admitted,,0,1
 admittedly, ədˈmɪt̬ɪdli,0,0
-admitting,,1,0
+admitting,,0,1
 admonish," ədˈmɑːnɪʃ ədˈmɑːnɪʃ ədˈmɑn·ɪʃ, æd-",0,0
-admonished, ədˈmɑːnɪʃ ədˈmɑːnɪʃ,1,0
+admonished, ədˈmɑːnɪʃ ədˈmɑːnɪʃ,0,0
 admonishing, ədˈmɑːnɪʃɪŋ,0,0
 admonition, ˌædməˈnɪʃən,0,0
 admonitions, ˌædməˈnɪʃən,1,0
@@ -137,25 +137,25 @@ adolescent, ˌædəˈlesənt ˌæd·əlˈes·ənt ˌæd·əlˈes·ənt,0,0
 adolescents, ˌædəˈlesənt ˌæd·əlˈes·ənt ˌæd·əlˈes·ənt,1,0
 adolf,,0,1
 adolph,,0,1
-adonis, əˈdɑːnɪs,1,0
-adopt, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑpt əˈdɑpt əˈdɑpt,1,0
+adonis, əˈdɑːnɪs,0,0
+adopt, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑpt əˈdɑpt əˈdɑpt,0,0
 adoptable, əˈdɑːptəbəl,0,0
 adopted, əˈdɑːptɪd əˈdɑːptɪd əˈdɑːptɪd,0,0
-adopter,,1,0
-adopting, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt,1,0
-adoption, əˈdɑːpʃən əˈdɑːpʃən əˈdɑːpʃən əˈdɑp·ʃən əˈdɑp·ʃən,1,0
+adopter,,0,1
+adopting, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt,0,0
+adoption, əˈdɑːpʃən əˈdɑːpʃən əˈdɑːpʃən əˈdɑp·ʃən əˈdɑp·ʃən,0,0
 adoptions, əˈdɑːpʃən əˈdɑːpʃən əˈdɑːpʃən əˈdɑp·ʃən əˈdɑp·ʃən,1,0
 adoptive, əˈdɑːptɪv əˈdɑp·tɪv,0,0
 adopts, əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑːpt əˈdɑpt əˈdɑpt əˈdɑpt,1,0
 adorable," əˈdɔːrəbəl əˈdɔr·ə·bəl, -ˈdoʊr-",0,0
 adoration, ˌædəˈreɪʃən,0,0
 adore," əˈdɔːr əˈdɔːr əˈdɔr, əˈdoʊr",0,0
-adored, əˈdɔːr əˈdɔːr,1,0
+adored, əˈdɔːr əˈdɔːr,0,0
 adores," əˈdɔːr əˈdɔːr əˈdɔr, əˈdoʊr",1,0
 adoring, əˈdɔːrɪŋ,0,0
 adorn, əˈdɔːrn əˈdɔrn,0,0
-adorned, əˈdɔːrn,1,0
-adorning, əˈdɔːrn,1,0
+adorned, əˈdɔːrn,0,0
+adorning, əˈdɔːrn,0,0
 adornment, əˈdɔːrnmənt,0,0
 adorns, əˈdɔːrn əˈdɔrn,1,0
 adrenal, əˈdriːnəl,0,0
@@ -165,7 +165,7 @@ adriatic,,0,1
 adrift, əˈdrɪft əˈdrɪft əˈdrɪft,0,0
 adroit, əˈdrɔɪt əˈdrɔɪt,0,0
 adroitly, əˈdrɔɪtli,0,0
-ads,,1,0
+ads,,0,1
 adulation, ˌædʒəˈleɪʃən ˌædʒ·əˈleɪ·ʃən,0,0
 adult," ˈædʌlt əˈdʌlt, ˈæd·ʌlt əˈdʌlt, ˈæd·ʌlt əˈdʌlt, ˈæd·ʌlt",0,0
 adulterate, əˈdʌltəreɪt əˈdʌl·təˌreɪt,0,0
@@ -176,18 +176,18 @@ adulterous, əˈdʌltɚəs,0,0
 adultery," əˈdʌltɚi əˈdʌl·tə·ri, -tri",0,0
 adulthood, ˈædʌlthʊd əˈdʌlt·hʊd,0,0
 adults," ˈædʌlt əˈdʌlt, ˈæd·ʌlt əˈdʌlt, ˈæd·ʌlt əˈdʌlt, ˈæd·ʌlt",1,0
-advance," ədˈvæns ədˈvæns ədˈvæns ədˈvæns ədˈvæns, æd-",1,0
-advanced," ədˈvænst ədˈvænst ədˈvænst ədˈvænst ədˈvænst, æd-",1,0
-advancement, ədˈvænsmənt,1,0
+advance," ədˈvæns ədˈvæns ədˈvæns ədˈvæns ədˈvæns, æd-",0,0
+advanced," ədˈvænst ədˈvænst ədˈvænst ədˈvænst ədˈvænst, æd-",0,0
+advancement, ədˈvænsmənt,0,0
 advancements, ədˈvænsmənt,1,0
 advances," ədˈvæns ədˈvæns ədˈvæns ədˈvæns ədˈvæns, æd-",1,0
 advancing,,0,1
-advantage," ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvæn·tɪdʒ, æd-",1,0
+advantage," ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvæn·tɪdʒ, æd-",0,0
 advantaged, ədˈvænt̬ɪdʒd,0,0
-advantageous, ˌædvænˈteɪdʒəs,1,0
+advantageous, ˌædvænˈteɪdʒəs,0,0
 advantages," ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvænt̬ɪdʒ ədˈvæn·tɪdʒ, æd-",1,0
 advent, ˈædvent ˈæd·vent ˈæd·vent,0,0
-adventist, ˈædventɪst,1,0
+adventist, ˈædventɪst,0,0
 adventists, ˈædventɪst,1,0
 adventure," ədˈventʃɚ ədˈven·tʃər, æd-",0,0
 adventurer, ədˈventʃɚɚ ədˈventʃɚɚ ədˈven·tʃər·ər,0,0
@@ -198,44 +198,44 @@ adventurous, ədˈventʃɚəs ədˈventʃɚəs ədˈven·tʃər·əs,0,0
 adverb, ˈædvɝːb ˈæd·vɜrb,0,0
 adverbial, ədˈvɝːbiəl,0,0
 adverbs, ˈædvɝːb ˈæd·vɜrb,1,0
-adversarial, ˌædvɚˈseriəl ˌæd·vərˈseər·i·əl,1,0
+adversarial, ˌædvɚˈseriəl ˌæd·vərˈseər·i·əl,0,0
 adversaries, ˈædvɚseri ˈæd·vərˌser·i,1,0
 adversary, ˈædvɚseri ˈæd·vərˌser·i,0,0
-adverse," ædˈvɝːs ædˈvɜrs, ˈæd·vɜrs",1,0
-adversely, ædˈvɝːsli,1,0
+adverse," ædˈvɝːs ædˈvɜrs, ˈæd·vɜrs",0,0
+adversely, ædˈvɝːsli,0,0
 adversity, ədˈvɝːsət̬i ædˈvɜr·sɪ·t̬i,0,0
-advertise, ˈædvɚtaɪz ˈæd·vərˌtɑɪz,1,0
-advertised, ˈædvɚtaɪz ˈædvɚtaɪz,1,0
+advertise, ˈædvɚtaɪz ˈæd·vərˌtɑɪz,0,0
+advertised, ˈædvɚtaɪz ˈædvɚtaɪz,0,0
 advertisement," ˌædvɚˈtaɪzmənt ˌædvɚˈtaɪzmənt ˌæd·vərˈtɑɪz·mənt, ədˈvɜr·t̬əz·mənt ˌædvərˈtaɪzmənt ˌædvərˈtaɪzmənt",0,0
 advertisements," ˌædvɚˈtaɪzmənt ˌædvɚˈtaɪzmənt ˌædvɚˈtaɪzmənt ˌæd·vərˈtɑɪz·mənt, ədˈvɜr·t̬əz·mənt ˌædvərˈtaɪzmənt ˌædvərˈtaɪzmənt",1,0
-advertiser, ˈædvɚtaɪzɚ,1,0
+advertiser, ˈædvɚtaɪzɚ,0,0
 advertisers, ˈædvɚtaɪzɚ,1,0
 advertises, ˈædvɚtaɪz ˈædvɚtaɪz ˈæd·vərˌtɑɪz,1,0
-advertising, ˈædvɚtaɪzɪŋ ˈæd·vərˌtɑɪ·zɪŋ,1,0
-advice," ədˈvaɪs ədˈvɑɪs, æd-",1,0
+advertising, ˈædvɚtaɪzɪŋ ˈæd·vərˌtɑɪ·zɪŋ,0,0
+advice," ədˈvaɪs ədˈvɑɪs, æd-",0,0
 advisable, ədˈvaɪzəbəl,0,0
-advise," ədˈvaɪz ədˈvaɪz ədˈvɑɪz, æd-",1,0
-advised, ədˈvaɪz ədˈvaɪz ədˈvaɪz,1,0
+advise," ədˈvaɪz ədˈvaɪz ədˈvɑɪz, æd-",0,0
+advised, ədˈvaɪz ədˈvaɪz ədˈvaɪz,0,0
 advisedly, ədˈvaɪzɪdli,0,0
 advisement, ədˈvaɪzmənt,0,0
-adviser, ədˈvaɪzɚ,1,0
+adviser, ədˈvaɪzɚ,0,0
 advisers, ədˈvaɪzɚ,1,0
 advises," ədˈvaɪz ədˈvaɪz ədˈvaɪz ədˈvɑɪz, æd-",1,0
-advising, ədˈvaɪz ədˈvaɪz ədˈvaɪz,1,0
-advisor,,1,0
+advising, ədˈvaɪz ədˈvaɪz ədˈvaɪz,0,0
+advisor,,0,1
 advisories, ədˈvaɪzɚi,1,0
-advisors,,1,0
-advisory, ədˈvaɪzɚi,1,0
-advocacy, ˈædvəkəsi,1,0
-advocate, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt ˈæd·vəˌkeɪt,1,0
-advocated, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,1,0
+advisors,,0,1
+advisory, ədˈvaɪzɚi,0,0
+advocacy, ˈædvəkəsi,0,0
+advocate, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt ˈæd·vəˌkeɪt,0,0
+advocated, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,0,0
 advocates, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt ˈæd·vəˌkeɪt,1,0
-advocating, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,1,0
-ae,,1,0
+advocating, ˈædvəkeɪt ˈædvəkeɪt ˈædvəkeɪt,0,0
+ae,,0,1
 aegean,,0,1
 aegis,,0,1
 aeneas,,0,1
-aer,,1,0
+aer,,0,1
 aerial," ˈeriəl ˈeriəl ˈer·i·əl, ˈær-",0,0
 aerials," ˈeriəl ˈeriəl ˈer·i·əl, ˈær-",1,0
 aerie, ˈɪri,0,0
@@ -250,10 +250,10 @@ aerodynamically, ˌeroʊdaɪˈnæmɪkəli,0,0
 aerodynamics, ˌeroʊdaɪˈnæmɪks ˌeər·oʊ·dɑɪˈnæm·ɪks,0,0
 aerodyne,,0,1
 aeronautical, ˌerəˈnɑːt̬ɪkəl,0,0
-aeronautics, ˌerəˈnɑːt̬ɪks,1,0
+aeronautics, ˌerəˈnɑːt̬ɪks,0,0
 aerosol," ˈerəsɑːl ˈerəsɑːl ˈeər·əˌsɔl, -ˌsɑl",0,0
 aerosols," ˈerəsɑːl ˈerəsɑːl ˈeər·əˌsɔl, -ˌsɑl",1,0
-aerospace," ˈeroʊspeɪs ˈeər·oʊˌspeɪs, ær-",1,0
+aerospace," ˈeroʊspeɪs ˈeər·oʊˌspeɪs, ær-",0,0
 aesop,,0,1
 aesthete, ˈesθiːt,0,0
 aesthetes, ˈesθiːt,1,0
@@ -272,16 +272,16 @@ affecting, əˈfektɪŋ,0,0
 affection, əˈfekʃən əˈfek·ʃən,0,0
 affectionate, əˈfekʃənət əˈfek·ʃə·nət,0,0
 affectionately, əˈfekʃənətli,0,0
-affections,,1,0
+affections,,0,1
 affective, əˈfektɪv,0,0
 affects, əˈfekt əˈfekt əˈfekt əˈfekt əˈfekt,1,0
 affiant,,0,1
 affidavit, ˌæfəˈdeɪvɪt ˌæf·əˈdeɪ·vɪt ˌæfəˈdeɪvɪt,0,0
 affidavits, ˌæfəˈdeɪvɪt ˌæf·əˈdeɪ·vɪt ˌæfəˈdeɪvɪt,1,0
-affiliate, əˈfɪlieɪt əˈfɪl·iˌeɪt,1,0
-affiliated, əˈfɪlieɪt̬ɪd əˈfɪlieɪt̬ɪd,1,0
+affiliate, əˈfɪlieɪt əˈfɪl·iˌeɪt,0,0
+affiliated, əˈfɪlieɪt̬ɪd əˈfɪlieɪt̬ɪd,0,0
 affiliates, əˈfɪlieɪt əˈfɪl·iˌeɪt,1,0
-affiliation, əˌfɪliˈeɪʃən,1,0
+affiliation, əˌfɪliˈeɪʃən,0,0
 affiliations, əˌfɪliˈeɪʃən,1,0
 affinity, əˈfɪnət̬i əˈfɪnət̬i əˈfɪn·ɪ·t̬i,0,0
 affirm, əˈfɝːm əˈfɝːm əˈfɜrm,0,0
@@ -289,52 +289,52 @@ affirmation, ˌæfɚˈmeɪʃən ˌæfɚˈmeɪʃən ˌæfɚˈmeɪʃən,0,0
 affirmations, ˌæfɚˈmeɪʃən ˌæfɚˈmeɪʃən ˌæfɚˈmeɪʃən,1,0
 affirmative, əˈfɝːmət̬ɪv əˈfɜr·mə·t̬ɪv,0,0
 affirmatively, əˈfɝːmət̬ɪvli,0,0
-affirmed, əˈfɝːm əˈfɝːm,1,0
-affirming, əˈfɝːm əˈfɝːm,1,0
+affirmed, əˈfɝːm əˈfɝːm,0,0
+affirming, əˈfɝːm əˈfɝːm,0,0
 affirms, əˈfɝːm əˈfɝːm əˈfɜrm,1,0
 affix," əˈfɪks əˈfɪks əˈfɪks, æ-",0,0
-affixed, əˈfɪks əˈfɪks,1,0
+affixed, əˈfɪks əˈfɪks,0,0
 afflict, əˈflɪkt əˈflɪkt,0,0
-afflicted, əˈflɪkt,1,0
-afflicting, əˈflɪkt,1,0
+afflicted, əˈflɪkt,0,0
+afflicting, əˈflɪkt,0,0
 affliction, əˈflɪkʃən,0,0
 afflictions, əˈflɪkʃən,1,0
 afflicts, əˈflɪkt əˈflɪkt,1,0
-affluence, ˈæfluəns,1,0
-affluent," ˈæfluənt ˈæfˌlu·ənt, əˈflu-",1,0
+affluence, ˈæfluəns,0,0
+affluent," ˈæfluənt ˈæfˌlu·ənt, əˈflu-",0,0
 afford," əˈfɔːrd əˈfɔrd, əˈfoʊrd",0,1
-affordability,,1,0
-affordable," əˈfɔːrdəbəl əˈfɔːrdəbəl əˈfɔr·də·bəl, əˈfoʊr-",1,0
-afforded, əˈfɔːrd əˈfɔːrd,1,0
-affording, əˈfɔːrd əˈfɔːrd,1,0
+affordability,,0,1
+affordable," əˈfɔːrdəbəl əˈfɔːrdəbəl əˈfɔr·də·bəl, əˈfoʊr-",0,0
+afforded, əˈfɔːrd əˈfɔːrd,0,0
+affording, əˈfɔːrd əˈfɔːrd,0,0
 affords,,0,1
 affront, əˈfrʌnt əˈfrʌnt,0,0
-affronted, əˈfrʌnt,1,0
-afghan, ˈæfɡæn,1,0
+affronted, əˈfrʌnt,0,0
+afghan, ˈæfɡæn,0,0
 afghani,,0,1
 afghanis,,0,1
-afghanistan, æfˈɡænɪstæn,1,0
+afghanistan, æfˈɡænɪstæn,0,0
 afghans, ˈæfɡæn,1,0
 aficionado, əˌfɪʃiəˈnɑːdoʊ,0,0
 aficionados, əˌfɪʃiəˈnɑːdoʊ,1,0
 afield,,0,1
 afire, əˈfaɪr əˈfaɪr əˈfaɪr,0,0
 aflame, əˈfleɪm əˈfleɪm əˈfleɪm,0,0
-afloat, əˈfloʊt əˈfloʊt əˈfloʊt,1,0
+afloat, əˈfloʊt əˈfloʊt əˈfloʊt,0,0
 aflutter, əˈflʌt̬ɚ,0,0
 afoot, əˈfʊt əˈfʊt,0,0
-aforementioned, əˈfɔːrˌmenʃənd,1,0
+aforementioned, əˈfɔːrˌmenʃənd,0,0
 aforesaid, əˈfɔːrˌmenʃənd əˈfɔːrˌmenʃənd,1,0
 aforethought,,0,1
 afoul,,0,1
 afraid, əˈfreɪd əˈfreɪd əˈfreɪd,0,0
 afresh, əˈfreʃ əˈfreʃ,0,0
-africa, ˈæfrɪkə,1,0
-african, ˈæfrɪkən ˈæf·rɪ·kən,1,0
+africa, ˈæfrɪkə,0,0
+african, ˈæfrɪkən ˈæf·rɪ·kən,0,0
 africans, ˈæfrɪkən ˈæf·rɪ·kən,1,0
-afrikaans, ˌæfrɪˈkɑːns,1,0
-afrikaner, ˌæfrəˈkɑːnɚ,1,0
-afro, ˈæfroʊ æfroʊ-,1,0
+afrikaans, ˌæfrɪˈkɑːns,0,0
+afrikaner, ˌæfrəˈkɑːnɚ,0,0
+afro, ˈæfroʊ æfroʊ-,0,0
 aft, æft æft,0,0
 after, ˈæftɚ ˈæftɚ ˈæftɚ ˈæf·tər ˈæf·tər ˈæf·tər ˈæf·tər,0,0
 afterburner,,0,1
@@ -358,8 +358,8 @@ afterthought, ˈæftɚθɑːt ˈæf·tərˌθɔt,0,0
 afterthoughts, ˈæftɚθɑːt ˈæf·tərˌθɔt,1,0
 afterward, ˈæftɚwɚd ˈæf·tər·wərd,0,0
 afterwards, ˈæftɚwɚdz,0,0
-ag,,1,0
-aga, ˈɑːɡə,1,0
+ag,,0,1
+aga, ˈɑːɡə,0,0
 again," əˈɡen əˈɡen əˈɡen əˈɡen, əˈɡeɪn",0,0
 against," əˈɡenst əˈɡenst əˈɡenst əˈɡenst əˈɡenst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst əˈɡenst, əˈɡeɪnst",0,0
 agamemnon,,0,1
@@ -367,18 +367,18 @@ agar, ˈeɪɡɑːr,0,0
 agate, ˈæɡət,0,0
 agates, ˈæɡət,1,0
 age, eɪdʒ eɪdʒ eɪdʒ eɪdʒ eɪdʒ,0,0
-aged, ˈeɪdʒɪd ˈeɪ·dʒɪd,1,0
+aged, ˈeɪdʒɪd ˈeɪ·dʒɪd,0,0
 agee,,0,1
 ageless, ˈeɪdʒləs ˈeɪdʒ·ləs,0,0
 agencies, ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪ·dʒən·si ˈeɪ·dʒən·si,1,0
-agency, ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪ·dʒən·si ˈeɪ·dʒən·si,1,0
-agenda, əˈdʒendə əˈdʒendə əˈdʒendə əˈdʒen·də əˈdʒen·də əˈdʒen·də,1,0
+agency, ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪdʒənsi ˈeɪ·dʒən·si ˈeɪ·dʒən·si,0,0
+agenda, əˈdʒendə əˈdʒendə əˈdʒendə əˈdʒen·də əˈdʒen·də əˈdʒen·də,0,0
 agendas, əˈdʒendə əˈdʒendə əˈdʒendə əˈdʒen·də əˈdʒen·də əˈdʒen·də,1,0
-agent, ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt,1,0
+agent, ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt,0,0
 agents, ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪdʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt ˈeɪ·dʒənt,1,0
 ager,,0,1
 ageratum,,0,1
-ages, ˈeɪ·dʒɪz,1,0
+ages, ˈeɪ·dʒɪz,0,0
 aggie,,0,1
 aggies,,0,1
 agglutinate, əˈɡluːtəneɪt əˈɡluːtəneɪt,0,0
@@ -386,16 +386,16 @@ aggrandize, əˈɡrændaɪz,0,0
 aggrandizement, əˈɡrændɪzmənt,0,0
 aggrandizing, əˈɡrændaɪz,1,0
 aggravate, ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡ·rəˌveɪt ˈæɡ·rəˌveɪt,0,0
-aggravated, ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡrəveɪt,1,0
+aggravated, ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡrəveɪt,0,0
 aggravates, ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡrəveɪt ˈæɡ·rəˌveɪt ˈæɡ·rəˌveɪt,1,0
 aggravating, ˈæɡrəveɪt̬ɪŋ ˈæɡrəveɪt̬ɪŋ,0,0
 aggravation, ˌæɡrəˈveɪʃən ˌæɡrəˈveɪʃən,0,0
-aggregate, ˈæɡrəɡət ˈæɡrəɡət ˈæɡ·rɪ·ɡət,1,0
-aggregation, ˌæɡrəˈɡeɪʃən ˌæɡrəˈɡeɪʃən,1,0
+aggregate, ˈæɡrəɡət ˈæɡrəɡət ˈæɡ·rɪ·ɡət,0,0
+aggregation, ˌæɡrəˈɡeɪʃən ˌæɡrəˈɡeɪʃən,0,0
 aggress,,0,1
 aggression, əˈɡreʃən əˈɡreʃən əˈɡreʃ·ən,0,0
 aggressions,,0,1
-aggressive, əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡres·ɪv,1,0
+aggressive, əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡresɪv əˈɡres·ɪv,0,0
 aggressively, əˈɡresɪvli əˈɡresɪvli əˈɡresɪvli əˈɡresɪvli,0,0
 aggressiveness, əˈɡresɪvnəs əˈɡresɪvnəs əˈɡresɪvnəs əˈɡresɪvnəs,0,0
 aggressor, əˈɡresɚ əˈɡres·ər,0,0
@@ -405,10 +405,10 @@ aghast, əˈɡæst əˈɡæst,0,0
 agile," ˈædʒəl ˈædʒəl ˈædʒəl ˈædʒ·əl, -ɑɪl ˈædʒəl",0,0
 agility, əˈdʒɪlət̬i əˈdʒɪlət̬i əˈdʒɪlət̬i əˈdʒɪl·ɪ·t̬i,0,0
 agin, əˈɡɪn,0,0
-aging, ˈeɪdʒɪŋ ˈeɪ·dʒɪŋ,1,0
+aging, ˈeɪdʒɪŋ ˈeɪ·dʒɪŋ,0,0
 agitate, ˈædʒəteɪt ˈædʒəteɪt ˈædʒəteɪt ˈædʒ·ɪˌteɪt ˈædʒ·ɪˌteɪt,0,0
 agitated, ˈædʒəteɪt̬ɪd ˈædʒ·əˌteɪ·t̬ɪd,0,0
-agitating, ˈædʒəteɪt ˈædʒəteɪt ˈædʒəteɪt,1,0
+agitating, ˈædʒəteɪt ˈædʒəteɪt ˈædʒəteɪt,0,0
 agitation, ˌædʒəˈteɪʃən ˌædʒəˈteɪʃən,0,0
 agitator, ˈædʒəteɪt̬ɚ,0,0
 agitators, ˈædʒəteɪt̬ɚ,1,0
@@ -425,61 +425,61 @@ agonizing, ˈæɡənaɪzɪŋ ˈæɡənaɪzɪŋ,0,0
 agony, ˈæɡəni ˈæɡ·ə·ni,0,0
 agora, ˈæɡərə ˈæɡərə ˈæɡərə,0,0
 agoraphobia, ˌæɡərəˈfoʊbiə,0,0
-agrarian, əˈɡreriən əˈɡreriən,1,0
-agree, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡri əˈɡri,1,0
+agrarian, əˈɡreriən əˈɡreriən,0,0
+agree, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡri əˈɡri,0,0
 agreeable, əˈɡriːəbəl əˈɡriːəbəl əˈɡriːəbəl əˈɡri·ə·bəl əˈɡri·ə·bəl əˈɡri·ə·bəl,0,0
-agreed, əˈɡriːd,1,0
-agreeing, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː,1,0
-agreement, əˈɡriːmənt əˈɡriːmənt əˈɡriːmənt əˈɡri·mənt,1,0
+agreed, əˈɡriːd,0,0
+agreeing, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː,0,0
+agreement, əˈɡriːmənt əˈɡriːmənt əˈɡriːmənt əˈɡri·mənt,0,0
 agreements, əˈɡriːmənt əˈɡriːmənt əˈɡriːmənt əˈɡri·mənt,1,0
 agrees, əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡriː əˈɡri əˈɡri,1,0
 agribusiness, ˈæɡrəˌbɪznɪs ˈæɡriˌbɪznɪs ˈæɡriˌbɪznɪs,0,0
-agricultural, ˌæɡrəˈkʌltʃɚəl,1,0
+agricultural, ˌæɡrəˈkʌltʃɚəl,0,0
 agriculturalist,,0,1
-agriculture, ˈæɡrəkʌltʃɚ ˈæɡ·rɪˌkʌl·tʃər,1,0
+agriculture, ˈæɡrəkʌltʃɚ ˈæɡ·rɪˌkʌl·tʃər,0,0
 aground, əˈɡraʊnd əˈɡrɑʊnd,0,0
 agua,,0,1
 aguacate,,0,1
 ah, ɑː ɑ,0,0
 aha," ɑːˈhɑː ɑˈhɑ, əˈhɑ",0,0
 ahab,,0,1
-ahead, əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed,1,0
+ahead, əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed əˈhed,0,0
 aho,,0,1
 ahold,,0,1
 ahoy, əˈhɔɪ əˈhɔɪ,0,0
 ahs,,0,1
-ai, ˌeɪˈaɪ ˌeɪˈaɪ ˌeɪˈaɪ,1,0
-aid, eɪd eɪd eɪd eɪd,1,0
+ai, ˌeɪˈaɪ ˌeɪˈaɪ ˌeɪˈaɪ,0,0
+aid, eɪd eɪd eɪd eɪd,0,0
 aide, eɪd eɪd,0,0
-aided, eɪd eɪd,1,0
+aided, eɪd eɪd,0,0
 aides, eɪd eɪd,1,0
-aiding, eɪd eɪd,1,0
-aids, eɪdz eɪdz,1,0
+aiding, eɪd eɪd,0,0
+aids, eɪdz eɪdz,0,0
 ail, eɪl eɪl eɪl,0,0
 aileron, ˈeɪlərɑːn,0,0
 ailerons, ˈeɪlərɑːn,1,0
-ailing, ˈeɪlɪŋ ˈeɪlɪŋ ˈeɪ·lɪŋ,1,0
+ailing, ˈeɪlɪŋ ˈeɪlɪŋ ˈeɪ·lɪŋ,0,0
 ailment, ˈeɪlmənt ˈeɪl·mənt,0,0
 ailments, ˈeɪlmənt ˈeɪl·mənt,1,0
 ails, eɪl eɪl eɪl,1,0
-aim, eɪm eɪm eɪm eɪm eɪm,1,0
-aimed, eɪm eɪm,1,0
-aiming, eɪm eɪm,1,0
+aim, eɪm eɪm eɪm eɪm eɪm,0,0
+aimed, eɪm eɪm,0,0
+aiming, eɪm eɪm,0,0
 aimless, ˈeɪmləs ˈeɪm·ləs,0,0
 aimlessly, ˈeɪmləsli,0,0
 aims, eɪm eɪm eɪm eɪm eɪm,1,0
 ainu,,0,1
-air, er er er er er eər eər eər eər eər,1,0
+air, er er er er er eər eər eər eər eər,0,0
 airbag, ˈerbæɡ,0,0
 airbags, ˈerbæɡ,1,0
 airbase, ˈerbeɪs,0,0
 airboat,,0,1
 airborne," ˈerbɔːrn ˈeər·bɔrn, -boʊrn",0,0
-aircraft, ˈerkræft ˈeərˌkræft,1,0
+aircraft, ˈerkræft ˈeərˌkræft,0,0
 aircrafts, ˈerkræft ˈeərˌkræft ˈeərˌkræft,1,0
-aircrew, ˈerkruː,1,0
+aircrew, ˈerkruː,0,0
 airdrop,,0,1
-aired, er er er er,1,0
+aired, er er er er,0,0
 airedale,,0,1
 airedales,,0,1
-airfare, ˈerfer ˈeərˌfeər,1,0
+airfare, ˈerfer ˈeərˌfeər,0,0

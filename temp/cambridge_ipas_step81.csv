@@ -1,18 +1,18 @@
 Word,Pronunciation,Root Word Returned,Missing
 shifter, ˈʃeɪpˌʃɪftɚ,1,0
-shifting, ˈʃɪftɪŋ,1,0
+shifting, ˈʃɪftɪŋ,0,0
 shiftless, ˈʃɪftləs ˈʃɪft·ləs,0,0
 shifts, ʃɪft ʃɪft ʃɪft ʃɪft ʃɪft ʃɪft ʃɪft ʃɪft,1,0
 shifty, ˈʃɪfti ˈʃɪf·ti,0,0
 shih,,0,1
-shiite, ˈʃiːaɪt ˈʃi·ɑɪt,1,0
+shiite, ˈʃiːaɪt ˈʃi·ɑɪt,0,0
 shill, ʃɪl,0,0
 shiller,,0,1
 shilling, ˈʃɪlɪŋ ˈʃɪlɪŋ,0,0
 shillings, ˈʃɪlɪŋ ˈʃɪlɪŋ,1,0
 shim, ʃɪm,0,0
 shimmer, ˈʃɪmɚ ˈʃɪm·ər,0,0
-shimmered, ˈʃɪmɚ,1,0
+shimmered, ˈʃɪmɚ,0,0
 shimmering, ˈʃɪmɚɪŋ ˈʃɪmɚɪŋ,0,0
 shimmers, ˈʃɪmɚ ˈʃɪm·ər,1,0
 shimmy, ˈʃɪmi ˈʃɪmi ˈʃɪmi ˈʃɪmi,0,0
@@ -23,38 +23,38 @@ shine, ʃaɪn ʃaɪn ʃaɪn ʃaɪn ʃɑɪn ʃɑɪn ʃɑɪn,0,0
 shined, ʃaɪn ʃaɪn ʃaɪn ʃaɪn ʃaɪn ʃɑɪn ʃɑɪn ʃɑɪn,1,0
 shiner, ˈʃaɪnɚ,0,0
 shines, ʃaɪn ʃaɪn ʃaɪn ʃaɪn ʃaɪn ʃɑɪn ʃɑɪn ʃɑɪn,1,0
-shingle, ˈʃɪŋɡəl ˈʃɪŋɡəl ˈʃɪŋɡəl ˈʃɪŋ·ɡəl,1,0
-shingles,,1,0
+shingle, ˈʃɪŋɡəl ˈʃɪŋɡəl ˈʃɪŋɡəl ˈʃɪŋ·ɡəl,0,0
+shingles,,0,1
 shining, ˈʃaɪnɪŋ ˈʃaɪnɪŋ ˈʃaɪnɪŋ,0,0
-shinto, ˈʃɪntoʊ ˈʃɪn·toʊ,1,0
+shinto, ˈʃɪntoʊ ˈʃɪn·toʊ,0,0
 shiny, ˈʃaɪni ˈʃɑɪ·ni,0,0
-ship, ʃɪp ʃɪp ʃɪp,1,0
+ship, ʃɪp ʃɪp ʃɪp,0,0
 shipboard, ˈʃɪpbɔːrd,0,0
-shipbuilder, ˈʃɪpˌbɪldɚ,1,0
+shipbuilder, ˈʃɪpˌbɪldɚ,0,0
 shipbuilders, ˈʃɪpˌbɪldɚ,1,0
-shipbuilding, ˈʃɪpˌbɪldɪŋ,1,0
+shipbuilding, ˈʃɪpˌbɪldɪŋ,0,0
 shipload,,0,1
 shiploads,,0,1
 shipman,,0,1
 shipmate, ˈʃɪpmeɪt,0,0
 shipmates, ˈʃɪpmeɪt,1,0
-shipment, ˈʃɪpmənt ˈʃɪp·mənt,1,0
+shipment, ˈʃɪpmənt ˈʃɪp·mənt,0,0
 shipments, ˈʃɪpmənt ˈʃɪp·mənt,1,0
-shipped,,1,0
-shipper, ˈʃɪpɚ,1,0
+shipped,,0,1
+shipper, ˈʃɪpɚ,0,0
 shippers, ˈʃɪpɚ,1,0
 shipping, ˈʃɪpɪŋ ˈʃɪpɪŋ ˈʃɪp·ɪŋ ˈʃɪp·ɪŋ ˈʃɪpɪŋ ˈʃɪpɪŋ,0,0
 shippy,,0,1
 ships, ʃɪp  -ʃɪp ʃɪp ʃɪp,1,0
 shipshape, ˈʃɪpʃeɪp,0,0
 shipwreck, ˈʃɪprek ˈʃɪpˌrek,0,0
-shipyard, ˈʃɪpjɑːrd,1,0
+shipyard, ˈʃɪpjɑːrd,0,0
 shipyards, ˈʃɪpjɑːrd,1,0
 shire, ʃaɪr,0,0
 shires,,0,1
 shirk, ʃɝːk ʃɜrk,0,0
-shirked, ʃɝːk,1,0
-shirking, ʃɝːk,1,0
+shirked, ʃɝːk,0,0
+shirking, ʃɝːk,0,0
 shirl,,0,1
 shirley,,0,1
 shirt, ʃɝːt ʃɜrt,0,0
@@ -63,20 +63,20 @@ shirtsleeve, ˈʃɝːtsliːv,0,0
 shit, ʃɪt ʃɪt ʃɪt ʃɪt ʃɪt ʃɪt,0,0
 shithead, ˈʃithed,0,0
 shits,,0,1
-shitting,,1,0
+shitting,,0,1
 shitty, ˈʃɪt̬i ˈʃɪt̬i,0,0
 shiva,,0,1
 shive,,0,1
 shiver, ˈʃɪvɚ ˈʃɪv·ər,0,0
-shivered, ˈʃɪvɚ,1,0
-shivering, ˈʃɪvɚ,1,0
+shivered, ˈʃɪvɚ,0,0
+shivering, ˈʃɪvɚ,0,0
 shivers, ˈʃɪvɚ ˈʃɪvɚ ˈʃɪvɚ ˈʃɪv·ər,1,0
 shoals, ʃoʊl ʃoʊl ʃoʊl ʃoʊl ʃoʊl,1,0
 shock, ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑk ʃɑk ʃɑk ʃɑk,0,0
 shocked, ʃɑːkt ʃɑːkt ʃɑkt,0,0
 shocker, ˈʃɑːkɚ,0,0
 shocking, ˈʃɑːkɪŋ ˈʃɑːkɪŋ ˈʃɑːkɪŋ ˈʃɑk·ɪŋ,0,0
-shockingly,,1,0
+shockingly,,0,1
 shocks, ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑːk ʃɑk ʃɑk ʃɑk ʃɑk,1,0
 shockwave,,0,1
 shod, ʃɑːd,0,0
@@ -102,55 +102,55 @@ shooter, ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃu�
 shooters, ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ ˈʃuːt̬ɚ  -ʃuːt̬ɚ ˈʃu·t̬ər ˈʃu·t̬ər,1,0
 shooting, ˈʃuːt̬ɪŋ ˈʃuːt̬ɪŋ ˈʃuːt̬ɪŋ ˈʃu·t̬ɪŋ ˈʃu·t̬ɪŋ,0,0
 shootings, ˈʃuːt̬ɪŋ ˈʃuːt̬ɪŋ ˈʃuːt̬ɪŋ ˈʃu·t̬ɪŋ ˈʃu·t̬ɪŋ,1,0
-shootout, ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃut̬ˌɑʊt ˈʃut̬ˌɑʊt,0,0
-shootouts, ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃut̬ˌɑʊt ˈʃut̬ˌɑʊt,1,0
+shootout, ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃut̬ˌɑʊt ˈʃut̬ˌɑʊt,0,0
+shootouts, ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃuːt̬aʊt ˈʃut̬ˌɑʊt ˈʃut̬ˌɑʊt,1,0
 shoots, ʃuːt ʃuːt ʃuːt ʃuːt ʃuːt ʃuːt ʃuːt ʃuːt ʃut ʃut ʃut ʃut ʃut ʃut ʃut,1,0
-shop, ʃɑːp ʃɑːp ʃɑːp ʃɑːp ʃɑp,1,0
-shopkeeper, ˈʃɑːpˌkiːpɚ,1,0
+shop, ʃɑːp ʃɑːp ʃɑːp ʃɑːp ʃɑp,0,0
+shopkeeper, ˈʃɑːpˌkiːpɚ,0,0
 shopkeepers, ˈʃɑːpˌkiːpɚ,1,0
-shoplift, ˈʃɑːplɪft ˈʃɑpˌlɪft,1,0
-shoplifter, ˈʃɑːplɪftɚ,1,0
+shoplift, ˈʃɑːplɪft ˈʃɑpˌlɪft,0,0
+shoplifter, ˈʃɑːplɪftɚ,0,0
 shoplifters, ˈʃɑːplɪftɚ,1,0
-shoplifting, ˈʃɑːplɪftɪŋ,1,0
+shoplifting, ˈʃɑːplɪftɪŋ,0,0
 shoppe,,0,1
-shopped,,1,0
-shopper, ˈʃɑːpɚ ˈʃɑːpɚ ˈʃɑp·ər,1,0
+shopped,,0,1
+shopper, ˈʃɑːpɚ ˈʃɑːpɚ ˈʃɑp·ər,0,0
 shoppers, ˈʃɑːpɚ ˈʃɑːpɚ ˈʃɑp·ər,1,0
-shopping, ˈʃɑːpɪŋ ˈʃɑːpɪŋ ˈʃɑp·ɪŋ,1,0
+shopping, ˈʃɑːpɪŋ ˈʃɑːpɪŋ ˈʃɑp·ɪŋ,0,0
 shops, ˈbɑːrbɚʃɑːp ˈbɑːrbɚʃɑːp ˈbɑr·bərˌʃɑp,1,0
-shopworn, ˈʃɑːpwɔːrn ˈʃɑːpwɔːrn,1,0
+shopworn, ˈʃɑːpwɔːrn ˈʃɑːpwɔːrn,0,0
 shor,,0,1
 shore," ʃɔːr ʃɔr, ʃoʊr",0,0
 shored,,0,1
 shoreline," ˈʃɔːrlaɪn ˈʃɔrˌlɑɪn, ˈʃour-",0,0
-shores,,1,0
+shores,,0,1
 shoring,,0,1
 shorn," ʃɔːrn ʃɔrn, ʃoʊrn",0,0
-short, ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔrt ʃɔrt ʃɔrt,1,0
-shortage, ˈʃɔːrt̬ɪdʒ ˈʃɔr·t̬ɪdʒ,1,0
+short, ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔrt ʃɔrt ʃɔrt,0,0
+shortage, ˈʃɔːrt̬ɪdʒ ˈʃɔr·t̬ɪdʒ,0,0
 shortages, ˈʃɔːrt̬ɪdʒ ˈʃɔr·t̬ɪdʒ,1,0
 shortcake, ˈʃɔːrtkeɪk ˈʃɔːrtkeɪk,0,0
 shortchange, ˌʃɔːrtˈtʃeɪndʒ ˌʃɔːrtˈtʃeɪndʒ ˈʃɔrtˈtʃeɪndʒ,0,0
-shortchanged, ˌʃɔːrtˈtʃeɪndʒ ˌʃɔːrtˈtʃeɪndʒ,1,0
-shortchanging, ˌʃɔːrtˈtʃeɪndʒ ˌʃɔːrtˈtʃeɪndʒ,1,0
+shortchanged, ˌʃɔːrtˈtʃeɪndʒ ˌʃɔːrtˈtʃeɪndʒ,0,0
+shortchanging, ˌʃɔːrtˈtʃeɪndʒ ˌʃɔːrtˈtʃeɪndʒ,0,0
 shortcoming, ˈʃɔːrtˌkʌmɪŋ ˈʃɔrtˌkʌm·ɪŋ,0,0
 shortcomings, ˈʃɔːrtˌkʌmɪŋ ˈʃɔrtˌkʌm·ɪŋ,1,0
 shortcut, ˈʃɔːrt- ˈʃɔːrt- ˈʃɔːrt- ˈʃɔrtˌkʌt,0,0
 shortcuts, ˈʃɔːrt- ˈʃɔːrt- ˈʃɔːrt- ˈʃɔrtˌkʌt,1,0
-shorted, ʃɔːrt ʃɔːrt ʃɔːrt,1,0
+shorted, ʃɔːrt ʃɔːrt ʃɔːrt,0,0
 shorten, ˈʃɔːrtən ˈʃɔr·tən ˈʃɔr·tən,0,0
-shortened, ˈʃɔːrtən,1,0
+shortened, ˈʃɔːrtən,0,0
 shortening, ˈʃɔːrtnɪŋ ˈʃɔrt·nɪŋ,0,0
 shortens, ˈʃɔːrtən ˈʃɔr·tən ˈʃɔr·tən,1,0
 shorter, ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt- ʃɔrt ʃɔrt ʃɔrt,1,0
 shortest, ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt ʃɔːrt- ʃɔrt ʃɔrt ʃɔrt,1,0
-shortfall, ˈʃɔːrtfɑːl ˈʃɔrtˌfɔl,1,0
+shortfall, ˈʃɔːrtfɑːl ˈʃɔrtˌfɔl,0,0
 shortfalls, ˈʃɔːrtfɑːl ˈʃɔrtˌfɔl,1,0
-shorthand, ˈʃɔːrthænd ˈʃɔrtˌhænd,1,0
-shorting,,1,0
+shorthand, ˈʃɔːrthænd ˈʃɔrtˌhænd,0,0
+shorting,,0,1
 shortly, ˈʃɔːrtli ˈʃɔrt·li,0,0
 shortness, ˈʃɔːrtnəs ˈʃɔːrtnəs ˈʃɔːrtnəs ˈʃɔːrtnəs ˈʃɔːrtnəs,0,0
-shorts, ʃɔːrts ʃɔːrts ʃɔrts,1,0
+shorts, ʃɔːrts ʃɔːrts ʃɔrts,0,0
 shortsighted, ˌʃɔːrtˈsaɪt̬ɪd ˌʃɔːrtˈsaɪt̬ɪd ˈʃɔrtˈsɑɪt·̬əd,0,0
 shortsightedness, ˌʃɔːrtˈsaɪt̬ɪdnəs ˌʃɔːrtˈsaɪt̬ɪdnəs,0,0
 shortstop, ˈʃɔːrtstɑːp ˈʃɔrtˌstɑp,0,0
@@ -164,33 +164,33 @@ shots, ʃɑːt ʃɑːt ʃɑːt ʃɑt,1,0
 should," strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd strong ʃʊd ʃʊd, ʃəd ʃʊd, ʃəd ʃʊd, ʃəd ʃʊd, ʃəd",0,0
 shoulder, ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊl·dər ˈʃoʊl·dər,0,0
 shouldered,  -ʃoʊldɚd,1,0
-shouldering, ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊldɚ,1,0
-shoulders, ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊl·dər ˈʃoʊl·dər,1,0
+shouldering, ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊldɚ,0,0
+shoulders, ˈʃoʊldɚ ˈʃoʊldɚ ˈʃoʊl·dər ˈʃoʊl·dər,0,0
 shout, ʃaʊt ʃaʊt ʃaʊt ʃaʊt ʃɑʊt,0,0
-shouted, ʃaʊt ʃaʊt ʃaʊt ʃaʊt,1,0
+shouted, ʃaʊt ʃaʊt ʃaʊt ʃaʊt,0,0
 shouting, ˈʃaʊt̬ɪŋ,0,0
 shouts, ʃaʊt ʃaʊt ʃaʊt ʃaʊt ʃɑʊt,1,0
 shove, ʃʌv ʃʌv ʃʌv ʃʌv ʃʌv ʃʌv,0,0
-shoved, ʃʌv ʃʌv ʃʌv,1,0
+shoved, ʃʌv ʃʌv ʃʌv,0,0
 shovel, ˈʃʌvəl ˈʃʌvəl ˈʃʌvəl ˈʃʌv·əl,0,0
 shoveled, ˈʃʌvəl ˈʃʌvəl ˈʃʌvəl ˈʃʌv·əl,1,0
 shoveling, ˈʃʌvəl ˈʃʌvəl ˈʃʌvəl ˈʃʌv·əl,1,0
 shovels, ˈʃʌvəl ˈʃʌvəl ˈʃʌvəl ˈʃʌv·əl,1,0
 shoves, ʃʌv ʃʌv ʃʌv ʃʌv ʃʌv ʃʌv,1,0
-shoving, ʃʌv ʃʌv ʃʌv,1,0
-show, ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ,1,0
-showbiz, ˈʃoʊbɪz,1,0
+shoving, ʃʌv ʃʌv ʃʌv,0,0
+show, ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ,0,0
+showbiz, ˈʃoʊbɪz,0,0
 showboat, ˈʃoʊboʊt,0,0
-showcase, ˈʃoʊkeɪs ˈʃoʊkeɪs ˈʃoʊˌkeɪs ˈʃoʊˌkeɪs,1,0
-showcased, ˈʃoʊkeɪs,1,0
+showcase, ˈʃoʊkeɪs ˈʃoʊkeɪs ˈʃoʊˌkeɪs ˈʃoʊˌkeɪs,0,0
+showcased, ˈʃoʊkeɪs,0,0
 showcases, ˈʃoʊkeɪs ˈʃoʊkeɪs ˈʃoʊˌkeɪs ˈʃoʊˌkeɪs,1,0
-showcasing, ˈʃoʊkeɪs,1,0
+showcasing, ˈʃoʊkeɪs,0,0
 showdown, ˈʃoʊdaʊn ˈʃoʊˌdɑʊn,0,0
 showdowns, ˈʃoʊdaʊn ˈʃoʊˌdɑʊn,1,0
 showed, ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ,1,0
 shower, ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃɑʊ·ər ˈʃɑʊ·ər ˈʃɑʊ·ər ˈʃɑʊ·ər,0,0
-showered, ˈʃaʊɚ ˈʃaʊɚ,1,0
-showering, ˈʃaʊɚ ˈʃaʊɚ,1,0
+showered, ˈʃaʊɚ ˈʃaʊɚ,0,0
+showering, ˈʃaʊɚ ˈʃaʊɚ,0,0
 showers, ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃaʊɚ ˈʃɑʊ·ər ˈʃɑʊ·ər ˈʃɑʊ·ər ˈʃɑʊ·ər,1,0
 showgirl, ˈʃoʊɡɝːl,0,0
 showgirls, ˈʃoʊɡɝːl,1,0
@@ -201,27 +201,27 @@ showmanship, ˈʃoʊmənʃɪp ˈʃoʊ·mənˌʃɪp,0,0
 shown, ʃoʊn ʃoʊn,0,0
 showpiece, ˈʃoʊpiːs ˈʃoʊˌpis,0,0
 showplace,,0,1
-showroom," ˈʃoʊruːm ˈʃoʊˌrum, -ˌrʊm",1,0
+showroom," ˈʃoʊruːm ˈʃoʊˌrum, -ˌrʊm",0,0
 showrooms," ˈʃoʊruːm ˈʃoʊˌrum, -ˌrʊm",1,0
 shows, ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ ʃoʊ,1,0
 showtime,,0,1
 showy, ˈʃoʊi ˈʃoʊ·i,0,0
 shrank, ʃræŋk ʃræŋk,0,0
 shrapnel, ˈʃræpnəl ˈʃræpnəl ˈʃræp·nəl,0,0
-shred, ʃred ʃred ʃred,1,0
+shred, ʃred ʃred ʃred,0,0
 shredded, ˈʃredɪd,0,0
-shredder, ˈʃredɚ ˈʃred·ər,1,0
+shredder, ˈʃredɚ ˈʃred·ər,0,0
 shredders, ˈʃredɚ ˈʃred·ər,1,0
-shredding,,1,0
+shredding,,0,1
 shreds, ʃred ʃred ʃred ʃred ʃred,1,0
 shreveport,,0,1
-shrewd, ʃruːd ʃrud,1,0
+shrewd, ʃruːd ʃrud,0,0
 shrewdly, ˈʃruːdli,0,0
-shrewdness, ˈʃruːdnəs,1,0
+shrewdness, ˈʃruːdnəs,0,0
 shri,,0,1
 shriek, ʃriːk ʃrik,0,0
-shrieked, ʃriːk,1,0
-shrieking, ʃriːk,1,0
+shrieked, ʃriːk,0,0
+shrieking, ʃriːk,0,0
 shrieks, ʃriːk ʃrik,1,0
 shrift,,0,1
 shrill, ʃrɪl ʃrɪl ʃrɪl,0,0
@@ -230,84 +230,84 @@ shrimper,,0,1
 shrimpers,,0,1
 shrine, ʃraɪn ʃraɪn ʃrɑɪn ʃrɑɪn,0,0
 shrines, ʃraɪn ʃraɪn ʃrɑɪn ʃrɑɪn,1,0
-shrink, ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk,1,0
-shrinkage, ˈʃrɪŋkɪdʒ ˈʃrɪŋ·kɪdʒ,1,0
-shrinking,,1,0
+shrink, ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk,0,0
+shrinkage, ˈʃrɪŋkɪdʒ ˈʃrɪŋ·kɪdʒ,0,0
+shrinking,,0,1
 shrinks, ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk ʃrɪŋk,1,0
 shrivel, ˈʃrɪvəl ˈʃrɪvəl ˈʃrɪv·əl,0,0
 shriveled, ˈʃrɪvəld ˈʃrɪvəld,0,0
 shriveling, ˈʃrɪvəl ˈʃrɪvəl ˈʃrɪv·əl,1,0
 shriver,,0,1
-shropshire, ˈʃrɑːpʃɚ,1,0
+shropshire, ˈʃrɑːpʃɚ,0,0
 shroud, ʃraʊd ʃraʊd ʃraʊd ʃrɑʊd ʃrɑʊd,0,0
-shrouded, ʃraʊd,1,0
+shrouded, ʃraʊd,0,0
 shrouds, ʃraʊd ʃraʊd ʃraʊd ʃrɑʊd ʃrɑʊd,1,0
 shrub, ʃrʌb ʃrʌb ʃrʌb ʃrʌb,0,0
 shrubbery, ˈʃrʌbɚi ˈʃrʌbɚi ˈʃrʌb·ə·ri,0,0
 shrubs, ʃrʌb ʃrʌb ʃrʌb ʃrʌb,1,0
 shrug, ʃrʌɡ ʃrʌɡ,0,0
-shrugged,,1,0
-shrugging,,1,0
+shrugged,,0,1
+shrugging,,0,1
 shrugs, ʃrʌɡ ʃrʌɡ,1,0
 shrunk, ʃrʌŋk ʃrʌŋk,0,0
 shrunken, ˈʃrʌŋkən ˈʃrʌŋ·kən,0,0
 shtick, ʃtɪk ʃtɪk,0,0
 shuck, ʃʌk,0,0
-shucked, ʃʌk,1,0
-shucking, ʃʌk,1,0
+shucked, ʃʌk,0,0
+shucking, ʃʌk,0,0
 shucks, ʃʌks ʃʌks,0,0
 shudder, ˈʃʌdɚ ˈʃʌdɚ ˈʃʌd·ər,0,0
-shuddered, ˈʃʌdɚ ˈʃʌdɚ,1,0
-shuddering, ˈʃʌdɚ ˈʃʌdɚ,1,0
+shuddered, ˈʃʌdɚ ˈʃʌdɚ,0,0
+shuddering, ˈʃʌdɚ ˈʃʌdɚ,0,0
 shudders, ˈʃʌdɚ ˈʃʌdɚ ˈʃʌd·ər,1,0
 shuffle, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌf·əl ˈʃʌf·əl,0,0
-shuffled, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl,1,0
+shuffled, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl,0,0
 shuffler,,0,1
 shuffles, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌf·əl ˈʃʌf·əl ˈʃʌf·əl,1,0
-shuffling, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl,1,0
+shuffling, ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl ˈʃʌfəl,0,0
 shun, ʃʌn ʃʌn ʃʌn,0,0
-shunned,,1,0
-shunning,,1,0
+shunned,,0,1
+shunning,,0,1
 shuns, ʃʌn ʃʌn ʃʌn,1,0
 shunt, ʃʌnt ʃʌnt ʃʌnt,0,0
-shunted, ʃʌnt ʃʌnt,1,0
-shunting, ʃʌnt ʃʌnt,1,0
+shunted, ʃʌnt ʃʌnt,0,0
+shunting, ʃʌnt ʃʌnt,0,0
 shure,,0,1
-shut, ʃʌt ʃʌt ʃʌt,1,0
-shutdown, ˈʃʌtdaʊn ˈʃʌtˌdɑʊn,1,0
+shut, ʃʌt ʃʌt ʃʌt,0,0
+shutdown, ˈʃʌtdaʊn ˈʃʌtˌdɑʊn,0,0
 shutout, ˈʃʌt̬aʊt ˈʃʌt̬ˌɑʊt,0,0
 shuts, ʃʌt ʃʌt ʃʌt,1,0
 shutter, ˈʃʌt̬ɚ ˈʃʌt̬ɚ ˈʃʌt̬ɚ ˈʃʌt̬·ər ˈʃʌt̬·ər,0,0
 shuttered, ˈʃʌt̬ɚd ˈʃʌt̬ɚd ˈʃʌt̬ɚd ˈʃʌt̬·ərd ˈʃʌt̬·ərd,0,0
 shuttering,,0,1
 shutters, ˈʃʌt̬ɚ ˈʃʌt̬ɚ ˈʃʌt̬ɚ ˈʃʌt̬·ər ˈʃʌt̬·ər,1,0
-shutting,,1,0
-shuttle, ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬·əl ˈʃʌt̬·əl,1,0
-shuttled, ˈʃʌt̬əl,1,0
+shutting,,0,1
+shuttle, ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬·əl ˈʃʌt̬·əl,0,0
+shuttled, ˈʃʌt̬əl,0,0
 shuttles, ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬əl ˈʃʌt̬·əl ˈʃʌt̬·əl,1,0
-shuttling, ˈʃʌt̬əl,1,0
+shuttling, ˈʃʌt̬əl,0,0
 shy, ʃaɪ ʃaɪ ʃɑɪ,0,0
-shying, ʃaɪ ʃaɪ,1,0
+shying, ʃaɪ ʃaɪ,0,0
 shylock,,0,1
 shyly, ˈʃaɪli,0,0
 shyness, ˈʃaɪnəs,0,0
-shyster, ˈʃaɪstɚ ˈʃɑɪ·stər,1,0
+shyster, ˈʃaɪstɚ ˈʃɑɪ·stər,0,0
 shysters, ˈʃaɪstɚ ˈʃɑɪ·stər,1,0
-si, siː ˈesˈɑɪ,1,0
+si, siː ˈesˈɑɪ,0,0
 siam,,0,1
-siamese, ˌsaɪəˈmiːz,1,0
+siamese, ˌsaɪəˈmiːz,0,0
 sibby,,0,1
-siberia, saɪˈbɪriə,1,0
-siberian, saɪˈbɪriən,1,0
+siberia, saɪˈbɪriə,0,0
+siberian, saɪˈbɪriən,0,0
 sibling, ˈsɪblɪŋ ˈsɪb·lɪŋ,0,0
 siblings, ˈsɪblɪŋ ˈsɪb·lɪŋ,1,0
 sibyl, ˈsɪbəl,0,0
-sic, sɪk sɪk,1,0
+sic, sɪk sɪk,0,0
 sicilian,,0,1
 sicily,,0,1
-sick, sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk,1,0
+sick, sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk,0,0
 sicken, ˈsɪkən ˈsɪkən ˈsɪk·ən ˈsɪk·ən,0,0
-sickened, ˈsɪkən ˈsɪkən,1,0
+sickened, ˈsɪkən ˈsɪkən,0,0
 sickening, ˈsɪkənɪŋ ˈsɪkənɪŋ ˈsɪk·ə·nɪŋ,0,0
 sicker, sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk,1,0
 sickest, sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk sɪk,1,0
@@ -316,14 +316,14 @@ sickler,,0,1
 sickles, ˈsɪkəl ˈsɪk·əl,1,0
 sickly, ˈsɪkli ˈsɪkli ˈsɪkli ˈsɪk·li,0,0
 sickness, ˈsɪknəs ˈsɪknəs ˈsɪk·nəs,0,0
-side, saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd,1,0
+side, saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd sɑɪd,0,0
 sidearm, ˈsaɪdɑːrm,0,0
 sidearms, ˈsaɪdɑːrm,1,0
-sidebar, ˈsaɪdbɑːr ˈsaɪdbɑːr ˈsaɪdbɑːr,1,0
+sidebar, ˈsaɪdbɑːr ˈsaɪdbɑːr ˈsaɪdbɑːr,0,0
 sided,  -saɪdɪd  -saɪdɪd,1,0
 sidekick, ˈsaɪdkɪk ˈsɑɪdˌkɪk,0,0
-sideline, ˈsaɪdlaɪn ˈsaɪdlaɪn ˈsɑɪdˌlɑɪn ˈsɑɪdˌlɑɪn,1,0
-sidelined, ˈsaɪdlaɪn ˈsaɪdlaɪn,1,0
+sideline, ˈsaɪdlaɪn ˈsaɪdlaɪn ˈsɑɪdˌlɑɪn ˈsɑɪdˌlɑɪn,0,0
+sidelined, ˈsaɪdlaɪn ˈsaɪdlaɪn,0,0
 sidelines, ˈsaɪdlaɪn ˈsaɪdlaɪn ˈsɑɪdˌlɑɪn ˈsɑɪdˌlɑɪn,1,0
 sideman, ˈsaɪdmæn,0,0
 sider,,0,1
@@ -331,9 +331,9 @@ sides, saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd saɪd s
 sideshow, ˈsaɪdʃoʊ ˈsaɪdʃoʊ ˈsɑɪdˌʃoʊ,0,0
 sideshows, ˈsaɪdʃoʊ ˈsaɪdʃoʊ ˈsɑɪdˌʃoʊ,1,0
 sidestep, ˈsaɪdstep ˈsaɪdstep ˈsɑɪdˌstep ˈsɑɪdˌstep,0,0
-sidestepped,,1,0
+sidestepped,,0,1
 sidetrack, ˈsaɪdtræk ˈsɑɪdˌtræk,0,0
-sidetracked, ˈsaɪdtræk,1,0
+sidetracked, ˈsaɪdtræk,0,0
 sidewalk, ˈsaɪdwɑːk ˈsɑɪdˌwɔk,0,0
 sidewalks, ˈsaɪdwɑːk ˈsɑɪdˌwɔk,1,0
 sideways, ˈsaɪdweɪz ˈsɑɪdˌweɪz ˈsɑɪdˌweɪz,0,0
@@ -342,8 +342,8 @@ sidewise,,0,1
 sidi,,0,1
 siding, ˈsaɪdɪŋ ˈsaɪdɪŋ ˈsɑɪd·ɪŋ,0,0
 sidle, ˈsaɪdəl ˈsɑɪd·əl,0,0
-sidled, ˈsaɪdəl,1,0
-sidling, ˈsaɪdəl,1,0
+sidled, ˈsaɪdəl,0,0
+sidling, ˈsaɪdəl,0,0
 sidney,,0,1
 sie,,0,1
 siege, siːdʒ sidʒ,0,0
@@ -355,15 +355,15 @@ sierra, siˈerə,0,0
 sierras, siˈerə,1,0
 sieve, sɪv sɪv sɪv,0,0
 sift, sɪft sɪft sɪft sɪft,0,0
-sifted, sɪft sɪft,1,0
-sifting, sɪft sɪft,1,0
+sifted, sɪft sɪft,0,0
+sifting, sɪft sɪft,0,0
 sifts, sɪft sɪft sɪft sɪft,1,0
-sig,,1,0
+sig,,0,1
 sigh, saɪ saɪ sɑɪ,0,0
-sighed, saɪ saɪ,1,0
-sighing, saɪ saɪ,1,0
+sighed, saɪ saɪ,0,0
+sighing, saɪ saɪ,0,0
 sighs, saɪ saɪ sɑɪ,1,0
-sight, saɪt saɪt saɪt sɑɪt sɑɪt sɑɪt sɑɪt,1,0
+sight, saɪt saɪt saɪt sɑɪt sɑɪt sɑɪt sɑɪt,0,0
 sighted, ˈsaɪt̬ɪd,0,0
 sighting, ˈsaɪt̬ɪŋ ˈsɑɪt̬·ɪŋ,0,0
 sightings, ˈsaɪt̬ɪŋ ˈsɑɪt̬·ɪŋ,1,0
@@ -374,30 +374,30 @@ sightseer, ˈsaɪtˌsiːɚ ˈsɑɪtˌsi·ər,0,0
 sightseers, ˈsaɪtˌsiːɚ ˈsɑɪtˌsi·ər,1,0
 sigma, ˈsɪɡmə,0,0
 sigmoid, ˈsɪɡmɔɪd ˈsɪɡmɔɪd,0,0
-sign, saɪn saɪn saɪn saɪn sɑɪn sɑɪn sɑɪn sɑɪn,1,0
+sign, saɪn saɪn saɪn saɪn sɑɪn sɑɪn sɑɪn sɑɪn,0,0
 signa,,0,1
-signage, ˈsaɪnɪdʒ ˈsaɪnɪdʒ,1,0
-signal, ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡ·nəl ˈsɪɡ·nəl ˈsɪɡ·nəl,1,0
+signage, ˈsaɪnɪdʒ ˈsaɪnɪdʒ,0,0
+signal, ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡ·nəl ˈsɪɡ·nəl ˈsɪɡ·nəl,0,0
 signaled, ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡ·nəl ˈsɪɡ·nəl ˈsɪɡ·nəl,1,0
 signaling, ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡ·nəl ˈsɪɡ·nəl ˈsɪɡ·nəl,1,0
-signalled,,1,0
-signalling,,1,0
+signalled,,0,1
+signalling,,0,1
 signals, ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡnəl ˈsɪɡ·nəl ˈsɪɡ·nəl ˈsɪɡ·nəl,1,0
 signatories," ˈsɪɡnətɔːri ˈsɪɡ·nəˌtɔr·i, -ˌtoʊr·i",1,0
-signatory," ˈsɪɡnətɔːri ˈsɪɡ·nəˌtɔr·i, -ˌtoʊr·i",1,0
-signature," ˈsɪɡnətʃɚ ˈsɪɡ·nə·tʃər, -ˌtʃʊr",1,0
+signatory," ˈsɪɡnətɔːri ˈsɪɡ·nəˌtɔr·i, -ˌtoʊr·i",0,0
+signature," ˈsɪɡnətʃɚ ˈsɪɡ·nə·tʃər, -ˌtʃʊr",0,0
 signatures," ˈsɪɡnətʃɚ ˈsɪɡ·nə·tʃər, -ˌtʃʊr",1,0
-signed, saɪn saɪn saɪn saɪn,1,0
+signed, saɪn saɪn saɪn saɪn,0,0
 signer, ˈsaɪnɚ ˈsaɪnɚ,0,0
 signers, ˈsaɪnɚ ˈsaɪnɚ,1,0
 signet,,0,1
 significance, sɪɡˈnɪfəkəns sɪɡˈnɪfəkəns,0,0
 significant, sɪɡˈnɪfəkənt sɪɡˈnɪfəkənt sɪɡˈnɪf·ɪ·kənt,0,0
 significantly, sɪɡˈnɪfəkəntli sɪɡˈnɪfəkəntli sɪɡˈnɪf·ɪ·kənt·li,0,0
-signified, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ,1,0
+signified, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ,0,0
 signifies, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡ·nəˌfɑɪ ˈsɪɡ·nəˌfɑɪ,1,0
 signify, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡ·nəˌfɑɪ ˈsɪɡ·nəˌfɑɪ,0,0
-signifying, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ,1,0
+signifying, ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ ˈsɪɡnəfaɪ,0,0
 signing, ˈsaɪnɪŋ ˈsaɪnɪŋ ˈsaɪnɪŋ ˈsaɪnɪŋ,0,0
 signings, ˈsaɪnɪŋ ˈsaɪnɪŋ ˈsaɪnɪŋ ˈsaɪnɪŋ,1,0
 signor,,0,1
@@ -407,14 +407,14 @@ signpost, ˈsaɪnpoʊst ˈsaɪnpoʊst ˈsɑɪnˌpoʊst ˈsɑɪnˌpoʊst,0,0
 signposts, ˈsaɪnpoʊst ˈsaɪnpoʊst ˈsɑɪnˌpoʊst ˈsɑɪnˌpoʊst,1,0
 signs, saɪn saɪn saɪn saɪn sɑɪn sɑɪn sɑɪn sɑɪn,1,0
 sikes,,0,1
-sikh, siːk sik,1,0
+sikh, siːk sik,0,0
 sikhs, siːk sik,1,0
 sil,,0,1
 silence, ˈsaɪləns ˈsaɪləns ˈsaɪləns ˈsaɪləns ˈsɑɪ·ləns ˈsɑɪ·ləns,0,0
-silenced, ˈsaɪləns ˈsaɪləns,1,0
+silenced, ˈsaɪləns ˈsaɪləns,0,0
 silencer, ˈsaɪlənsɚ ˈsaɪlənsɚ ˈsɑɪ·lən·sər,0,0
 silences, ˈsaɪləns ˈsaɪləns ˈsaɪləns ˈsaɪləns ˈsɑɪ·ləns ˈsɑɪ·ləns,1,0
-silencing, ˈsaɪləns ˈsaɪləns,1,0
+silencing, ˈsaɪləns ˈsaɪləns,0,0
 silent, ˈsaɪlənt ˈsaɪlənt ˈsaɪlənt ˈsɑɪ·lənt ˈsɑɪ·lənt ˈsɑɪ·lənt,0,0
 silently, ˈsaɪləntli ˈsaɪləntli ˈsɑɪ·lənt·li ˈsɑɪ·lənt·li,0,0
 silesia,,0,1
@@ -424,19 +424,19 @@ silhouettes, ˌsɪləˈwet ˌsɪl·uˈet,1,0
 silica, ˈsɪlɪkə,0,0
 silicate, ˈsɪləkət,0,0
 silicates, ˈsɪləkət,1,0
-silicon," ˈsɪləkən ˈsɪl·ɪ·kən, -əˌkɑn",1,0
+silicon," ˈsɪləkən ˈsɪl·ɪ·kən, -əˌkɑn",0,0
 silicone, ˈsɪləkoʊn ˈsɪl·əˌkoʊn,0,0
 silk, sɪlk sɪlk sɪlk sɪlk,0,0
 silken, ˈsɪlkən ˈsɪlkən,0,0
-silks,,1,0
+silks,,0,1
 silkwood,,0,1
 silkworm, ˈsɪlkwɝːm ˈsɪlkˌwɜrm,0,0
 silky, ˈsɪlki ˈsɪl·ki,0,0
-sill,,1,0
+sill,,0,1
 sillier, ˈsɪli ˈsɪli ˈsɪli ˈsɪli ˈsɪl·i,1,0
 silliest, ˈsɪli ˈsɪli ˈsɪli ˈsɪli ˈsɪl·i,1,0
 silliness, ˈsɪlinəs,0,0
-sills,,1,0
+sills,,0,1
 silly, ˈsɪli ˈsɪli ˈsɪli ˈsɪli ˈsɪl·i,0,0
 silo, ˈsaɪloʊ ˈsaɪloʊ ˈsaɪloʊ ˈsɑɪ·loʊ ˈsɑɪ·loʊ,0,0
 silos, ˈsaɪloʊ ˈsaɪloʊ ˈsaɪloʊ ˈsɑɪ·loʊ ˈsɑɪ·loʊ,1,0
@@ -449,7 +449,7 @@ silversides,,0,1
 silverware, -vɚwer -vɚwer -vɚwer ˈsɪl·vərˌweər,0,0
 silvery, ˈsɪlvɚi ˈsɪlvɚi,0,0
 silvester,,0,1
-sim, sɪm sɪm,1,0
+sim, sɪm sɪm,0,0
 simas,,0,1
 simba,,0,1
 simeon,,0,1
@@ -460,7 +460,7 @@ similarity, ˌsɪməˈlerət̬i ˌsɪm·əˈlær·ɪ·t̬i,0,0
 similarly, ˈsɪməlɚli,0,0
 simkin,,0,1
 simmer, ˈsɪmɚ ˈsɪmɚ ˈsɪm·ər,0,0
-simmered, ˈsɪmɚ ˈsɪmɚ,1,0
+simmered, ˈsɪmɚ ˈsɪmɚ,0,0
 simmering, ˈsɪm·ər·ɪŋ ˈsɪm·ər·ɪŋ,0,0
 simmers, ˈsɪmɚ ˈsɪmɚ ˈsɪm·ər,1,0
 simmon,,0,1
@@ -472,13 +472,13 @@ simpler, ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪ
 simplest, ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪmpəl ˈsɪm·pəl ˈsɪm·pəl ˈsɪm·pəl ˈsɪm·pəl ˈsɪm·pəl,1,0
 simplicity, sɪmˈplɪsət̬i sɪmˈplɪsət̬i sɪmˈplɪsət̬i sɪmˈplɪs·ɪ·t̬i sɪmˈplɪs·ɪ·t̬i,0,0
 simplification, ˌsɪmpləfəˈkeɪʃən,0,0
-simplified, ˈsɪmpləfaɪ,1,0
+simplified, ˈsɪmpləfaɪ,0,0
 simplifies, ˈsɪmpləfaɪ ˈsɪm·pləˌfɑɪ,1,0
 simplify, ˈsɪmpləfaɪ ˈsɪm·pləˌfɑɪ,0,0
-simplifying, ˈsɪmpləfaɪ,1,0
+simplifying, ˈsɪmpləfaɪ,0,0
 simplistic, sɪmˈplɪstɪk sɪmˈplɪs·tɪk,0,0
 simply, ˈsɪmpli ˈsɪmpli ˈsɪmpli ˈsɪmpli ˈsɪm·pli ˈsɪm·pli ˈsɪm·pli ˈsɪm·pli ˈsɪm·pli,0,0
 simpson,,0,1
 sims, sɪm sɪm,1,0
 simson,,0,1
-simulate, ˈsɪmjəleɪt ˈsɪm·jəˌleɪt,1,0
+simulate, ˈsɪmjəleɪt ˈsɪm·jəˌleɪt,0,0

@@ -5,24 +5,24 @@ airfields, ˈerfiːld,1,0
 airflow,,0,1
 airfoil,,0,1
 airhead, ˈerhed,0,0
-airing, ˈerɪŋ ˈerɪŋ,1,0
+airing, ˈerɪŋ ˈerɪŋ,0,0
 airless, ˈerləs ˈeər·ləs,0,0
 airlift, ˈerlɪft ˈeər·lɪft,0,0
-airlifted, ˈerlɪft,1,0
-airlifting, ˈerlɪft,1,0
+airlifted, ˈerlɪft,0,0
+airlifting, ˈerlɪft,0,0
 airlifts, ˈerlɪft ˈeər·lɪft,1,0
-airline," ˈerlaɪn ˈer·lɑɪn, ˈær-",1,0
-airliner," ˈerˌlaɪnɚ ˈerˌlɑɪ·nər, ˈær-",1,0
+airline," ˈerlaɪn ˈer·lɑɪn, ˈær-",0,0
+airliner," ˈerˌlaɪnɚ ˈerˌlɑɪ·nər, ˈær-",0,0
 airliners," ˈerˌlaɪnɚ ˈerˌlɑɪ·nər, ˈær-",1,0
 airlines," ˈerlaɪn ˈer·lɑɪn, ˈær-",1,0
 airlock, ˈerlɑːk ˈerlɑːk,0,0
 airlocks, ˈerlɑːk ˈerlɑːk,1,0
-airmail," ˈermeɪl ˈer·meɪl, ˈær-",1,0
+airmail," ˈermeɪl ˈer·meɪl, ˈær-",0,0
 airman, ˈermən,0,0
 airmen, ˈermən,1,0
-airplane, ˈerpleɪn ˈeərˌpleɪn,1,0
+airplane, ˈerpleɪn ˈeərˌpleɪn,0,0
 airplanes, ˈerpleɪn ˈeərˌpleɪn,1,0
-airport," ˈerpɔːrt ˈeərˌpɔrt, -ˌpoʊrt",1,0
+airport," ˈerpɔːrt ˈeərˌpɔrt, -ˌpoʊrt",0,0
 airports," ˈerpɔːrt ˈeərˌpɔrt, -ˌpoʊrt",1,0
 airs, er er er er er er er eər eər eər eər eər eər eər,1,0
 airship, ˈerʃɪp,0,0
@@ -36,26 +36,26 @@ airstrips, ˈerstrɪp,1,0
 airtight, ˈertaɪt ˈeərˌtɑɪt,0,0
 airtime, ˈertaɪm ˈeərˌtɑɪm ˈer- ˈer-,0,0
 airwave,,0,1
-airwaves, ˈerweɪvz ˈeərˌweɪvz,1,0
+airwaves, ˈerweɪvz ˈeərˌweɪvz,0,0
 airway, ˈerweɪ ˈerweɪ,0,0
-airways,,1,0
-airworthy, ˈerˌwɝːði,1,0
+airways,,0,1
+airworthy, ˈerˌwɝːði,0,0
 airy, ˈeri ˈeri ˈeri ˈeər·i,0,0
 ais, ˌeɪˈaɪ ˌeɪˈaɪ ˌeɪˈaɪ,1,0
-aisle, aɪl aɪl ɑɪl,1,0
+aisle, aɪl aɪl ɑɪl,0,0
 aisles, aɪl aɪl ɑɪl,1,0
 ajar, əˈdʒɑːr əˈdʒɑr,0,0
 ajax,,0,1
-aka, ˌeɪkeɪˈeɪ ˈeɪˌkeɪˈeɪ,1,0
+aka, ˌeɪkeɪˈeɪ ˈeɪˌkeɪˈeɪ,0,0
 ake,,0,1
 akey,,0,1
 akimbo, əˈkɪmboʊ əˈkɪmboʊ əˈkɪmboʊ,0,0
 akin, əˈkɪn əˈkɪn,0,0
 akkadian,,0,1
 akron,,0,1
-al,  -əl,1,0
+al,  -əl,0,0
 ala, ˈeɪlə,0,0
-alabama, ˌæləˈbæmə,1,0
+alabama, ˌæləˈbæmə,0,0
 alabaster, ˈæləbæstɚ,0,0
 alacrity, əˈlækrət̬i əˈlæk·rɪ·t̬i,0,0
 aladdin,,0,1
@@ -72,28 +72,28 @@ alarmingly, əˈlɑːrmɪŋli,0,0
 alarmist, əˈlɑːrmɪst əˈlɑr·mɪst,0,0
 alarms, əˈlɑːrm əˈlɑːrm əˈlɑːrm əˈlɑːrm əˈlɑːrm əˈlɑrm əˈlɑrm,1,0
 alas, əˈlæs əˈlæs,0,0
-alaska, əˈlæskə,1,0
-alaskan, əˈlæskən,1,0
+alaska, əˈlæskə,0,0
+alaskan, əˈlæskən,0,0
 alaskans,,0,1
 alba,,0,1
 albacore, ˈælbəkɔːr,0,0
 alban,,0,1
-albania, ælˈbeɪniə,1,0
-albanian, ælˈbeɪniən,1,0
+albania, ælˈbeɪniə,0,0
+albanian, ælˈbeɪniən,0,0
 albanians, ælˈbeɪniən,1,0
-albany, ˈɑːlbəni,1,0
+albany, ˈɑːlbəni,0,0
 albatross, ˈælbətrɑːs ˈælbətrɑːs,0,0
 albatrosses, ˈælbətrɑːs ˈælbətrɑːs,1,0
 albee,,0,1
 albeit," ɑːlˈbiːɪt ɔlˈbi·ɪt, æl-",0,0
 albert,,0,1
-alberta, ælˈbɜː˞t̬ə,1,0
+alberta, ælˈbɜː˞t̬ə,0,0
 albino, ælˈbaɪnoʊ ælˈbɑɪ·noʊ,0,0
-albion, ˈælbiən,1,0
+albion, ˈælbiən,0,0
 album, ˈælbəm ˈælbəm ˈæl·bəm ˈæl·bəm,0,0
-albumin,,0,1
+albumin, ælˈbjʊmɪn,0,0
 albums, ˈælbəm ˈælbəm ˈæl·bəm ˈæl·bəm,1,0
-albuquerque, ˈælbəˌkɜ˞ːki,1,0
+albuquerque, ˈælbəˌkɜ˞ːki,0,0
 albus,,0,1
 alcazar,,0,1
 alchemically,,0,1
@@ -117,8 +117,8 @@ alehouse,,0,1
 alem,,0,1
 aleph,,0,1
 alert, əˈlɝːt əˈlɜrt,0,0
-alerted, əˈlɝːt,1,0
-alerting, əˈlɝːt,1,0
+alerted, əˈlɝːt,0,0
+alerting, əˈlɝːt,0,0
 alertly,,0,1
 alertness, əˈlɝːtnəs,0,0
 alerts, əˈlɝːt əˈlɜrt,1,0
@@ -127,9 +127,9 @@ aleutian,,0,1
 aleutians,,0,1
 alexander,,0,1
 alexanders,,0,1
-alexandria, ˌælɪɡˈzændriə,1,0
+alexandria, ˌælɪɡˈzændriə,0,0
 alexandrine,,0,1
-alexia,,0,1
+alexia, əˈleksiə,0,0
 alf,,0,1
 alfa,,0,1
 alfalfa, ˌælˈfælfə,0,0
@@ -138,12 +138,12 @@ alfred,,0,1
 algae, ˈældʒiː,0,0
 algebra, ˈældʒəbrə ˈæl·dʒə·brə,0,0
 algebraic, ˌældʒəˈbreɪɪk,0,0
-algeria, ælˈdʒɪriə,1,0
-algerian, ælˈdʒɪriən,1,0
+algeria, ælˈdʒɪriə,0,0
+algerian, ælˈdʒɪriən,0,0
 algerians, ælˈdʒɪriən,1,0
-algiers, ælˈdʒɪrz,1,0
+algiers, ælˈdʒɪrz,0,0
 algonquin,,0,1
-algorithm, ˈælɡərɪðəm ˈæl·ɡəˌrɪð·əm,1,0
+algorithm, ˈælɡərɪðəm ˈæl·ɡəˌrɪð·əm,0,0
 algorithms, ˈælɡərɪðəm ˈæl·ɡəˌrɪð·əm,1,0
 alhambra,,0,1
 alias, ˈeɪliəs ˈeɪ·li·əs,0,0
@@ -151,22 +151,22 @@ aliases, ˈeɪliəs ˈeɪ·li·əs,1,0
 alibi, ˈælɪbaɪ ˈælɪbaɪ ˈæl·əˌbɑɪ ˈæl·əˌbɑɪ,0,0
 alibis, ˈælɪbaɪ ˈælɪbaɪ ˈæl·əˌbɑɪ ˈæl·əˌbɑɪ,1,0
 alice,,0,1
-alien, ˈeɪliən ˈeɪliən ˈeɪliən ˈeɪ·li·ən ˈeɪ·li·ən,1,0
+alien, ˈeɪliən ˈeɪliən ˈeɪliən ˈeɪ·li·ən ˈeɪ·li·ən,0,0
 alienate," ˈeɪliəneɪt ˈeɪliəneɪt ˈeɪ·li·əˌneɪt, ˈeɪl·jə-",0,0
 alienated, ˈeɪliəneɪt̬ɪd ˈeɪliəneɪt̬ɪd,0,0
-alienating, ˈeɪliəneɪt ˈeɪliəneɪt,1,0
+alienating, ˈeɪliəneɪt ˈeɪliəneɪt,0,0
 alienation, ˌeɪliəˈneɪʃən ˌeɪliəˈneɪʃən,0,0
 aliens, ˈeɪliən ˈeɪliən ˈeɪliən ˈeɪ·li·ən ˈeɪ·li·ən,1,0
 alight, əˈlaɪt əˈlaɪt əˈlaɪt əˈlɑɪt əˈlɑɪt,0,0
-align, əˈlaɪn əˈlaɪn əˈlaɪn əˈlɑɪn,1,0
+align, əˈlaɪn əˈlaɪn əˈlaɪn əˈlɑɪn,0,0
 aligned, əˈlaɪnd əˈlaɪnd,0,0
-aligning, əˈlaɪn əˈlaɪn əˈlaɪn,1,0
+aligning, əˈlaɪn əˈlaɪn əˈlaɪn,0,0
 alignment, əˈlaɪnmənt əˈlaɪnmənt əˈlaɪnmənt,0,0
 alignments, əˈlaɪnmənt əˈlaɪnmənt əˈlaɪnmənt,1,0
 aligns, əˈlaɪn əˈlaɪn əˈlaɪn əˈlɑɪn,1,0
 alike, əˈlaɪk əˈlɑɪk,0,0
 alimentary,,0,1
-alimony, ˈæləmoʊni ˈæl·əˌmoʊ·ni,1,0
+alimony, ˈæləmoʊni ˈæl·əˌmoʊ·ni,0,0
 aline,,0,1
 alison,,0,1
 alive, əˈlaɪv əˈlaɪv əˈlɑɪv əˈlɑɪv,0,0
@@ -175,23 +175,23 @@ alkali, ˈælkəlaɪ ˈæl·kəˌlɑɪ,0,0
 alkaline, ˈælkəlaɪn,0,0
 alkaloid, ˈælkəlɔɪd,0,0
 alkaloids, ˈælkəlɔɪd,1,0
-all, ɑːl ɑːl ɔl ɔl,1,0
-allah," ˈælə ˈæl·ə, ˈɑl·ə, ɑˈlɑ",1,0
+all, ɑːl ɑːl ɔl ɔl,0,0
+allah," ˈælə ˈæl·ə, ˈɑl·ə, ɑˈlɑ",0,0
 allan,,0,1
 allay, əˈleɪ əˈleɪ,0,0
-allayed, əˈleɪ,1,0
-allaying, əˈleɪ,1,0
+allayed, əˈleɪ,0,0
+allaying, əˈleɪ,0,0
 allays, əˈleɪ əˈleɪ,1,0
-allegation, ˌæləˈɡeɪʃən ˌæl·ɪˈɡeɪ·ʃən,1,0
+allegation, ˌæləˈɡeɪʃən ˌæl·ɪˈɡeɪ·ʃən,0,0
 allegations, ˌæləˈɡeɪʃən ˌæl·ɪˈɡeɪ·ʃən,1,0
-allege, əˈledʒ əˈledʒ,1,0
+allege, əˈledʒ əˈledʒ,0,0
 alleged, əˈledʒd,0,0
 allegedly, əˈledʒɪdli əˈledʒɪdli,0,0
 alleges, əˈledʒ əˈledʒ,1,0
 allegheny,,0,1
 allegiance, əˈliːdʒəns əˈli·dʒəns,0,0
 allegiances, əˈliːdʒəns əˈli·dʒəns,1,0
-alleging, əˈledʒ,1,0
+alleging, əˈledʒ,0,0
 allegorical, ˌæləˈɡɔːrəkəl,0,0
 allegories," ˈæləɡɔːri ˈæl·ɪˌɡɔr·i, -ˌɡoʊr·i",1,0
 allegory," ˈæləɡɔːri ˈæl·ɪˌɡɔr·i, -ˌɡoʊr·i",0,0
@@ -210,15 +210,15 @@ allergist,,0,1
 allergists,,0,1
 allergy, ˈælɚdʒi ˈæl·ər·dʒi,0,0
 alleviate, əˈliːvieɪt əˈli·viˌeɪt,0,0
-alleviated, əˈliːvieɪt,1,0
+alleviated, əˈliːvieɪt,0,0
 alleviates, əˈliːvieɪt əˈli·viˌeɪt,1,0
-alleviating, əˈliːvieɪt,1,0
+alleviating, əˈliːvieɪt,0,0
 alley, ˈæli ˈæli ˈæli ˈæli ˈæli ˈæl·i,0,0
 alleys, ˈæli ˈæli ˈæli ˈæli ˈæli ˈæl·i,1,0
 alleyway, ˈæli ˈæli ˈæli ˈæli ˈæli ˈæl·i,1,0
 alleyways, ˈæli ˈæli ˈæli ˈæli ˈæli ˈæl·i,1,0
 allgood,,0,1
-alliance, əˈlaɪəns əˈlaɪəns əˈlɑɪ·əns,1,0
+alliance, əˈlaɪəns əˈlaɪəns əˈlɑɪ·əns,0,0
 alliances, əˈlaɪəns əˈlaɪəns əˈlɑɪ·əns,1,0
 allied," ˈælaɪd ˈælaɪd ˈælaɪd ˈæl·ɑɪd, əˈlɑɪd ˈæl·ɑɪd, əˈlɑɪd",0,0
 allies,,0,1
@@ -226,24 +226,24 @@ alligator, ˈæləɡeɪt̬ɚ ˈæl·ɪˌɡeɪt̬·ər,0,0
 alligators, ˈæləɡeɪt̬ɚ ˈæl·ɪˌɡeɪt̬·ər,1,0
 alliteration, əˌlɪt̬əˈreɪʃən ə·lɪt̬·əˈreɪ·ʃən,0,0
 alliterative, əˈlɪt̬ərət̬ɪv,0,0
-allocate, ˈæləkeɪt ˈæl·əˌkeɪt,1,0
-allocated, ˈæləkeɪt,1,0
+allocate, ˈæləkeɪt ˈæl·əˌkeɪt,0,0
+allocated, ˈæləkeɪt,0,0
 allocates, ˈæləkeɪt ˈæl·əˌkeɪt,1,0
-allocating, ˈæləkeɪt,1,0
-allocation, ˌæləˈkeɪʃən ˌæləˈkeɪʃən ˌæl·əˈkeɪ·ʃən,1,0
+allocating, ˈæləkeɪt,0,0
+allocation, ˌæləˈkeɪʃən ˌæləˈkeɪʃən ˌæl·əˈkeɪ·ʃən,0,0
 allocations, ˌæləˈkeɪʃən ˌæləˈkeɪʃən ˌæl·əˈkeɪ·ʃən,1,0
-allot, əˈlɑːt əˈlɑt,1,0
-allotment, əˈlɑːtmənt əˈlɑːtmənt,1,0
+allot, əˈlɑːt əˈlɑt,0,0
+allotment, əˈlɑːtmənt əˈlɑːtmənt,0,0
 allotments, əˈlɑːtmənt əˈlɑːtmənt,1,0
 allots, əˈlɑːt əˈlɑt,1,0
 allotted, əˈlɑːt̬ɪd,0,0
-allotting,,1,0
-allow, əˈlaʊ əˈlaʊ əˈlɑʊ əˈlɑʊ,1,0
+allotting,,0,1
+allow, əˈlaʊ əˈlaʊ əˈlɑʊ əˈlɑʊ,0,0
 allowable, əˈlaʊəbəl əˈlaʊəbl̩ əˈlaʊəbl̩,0,0
-allowance, əˈlaʊəns əˈlaʊəns əˈlaʊəns əˈlɑʊ·əns əˈlɑʊ·əns,1,0
+allowance, əˈlaʊəns əˈlaʊəns əˈlaʊəns əˈlɑʊ·əns əˈlɑʊ·əns,0,0
 allowances, əˈlaʊəns əˈlaʊəns əˈlaʊəns əˈlaʊəns əˈlaʊəns əˈlɑʊ·əns əˈlɑʊ·əns,1,0
-allowed, əˈlaʊ əˈlaʊ əˈlaʊ,1,0
-allowing, əˈlaʊ əˈlaʊ əˈlaʊ,1,0
+allowed, əˈlaʊ əˈlaʊ əˈlaʊ,0,0
+allowing, əˈlaʊ əˈlaʊ əˈlaʊ,0,0
 allows, əˈlaʊ əˈlaʊ əˈlaʊ əˈlɑʊ əˈlɑʊ,1,0
 alloy," ˈælɔɪ ˈælˌɔɪ, əˈlɔɪ",0,0
 alloys," ˈælɔɪ ˈælˌɔɪ, əˈlɔɪ",1,0
@@ -277,35 +277,35 @@ alongside, əˈlɑːŋsaɪd əˈlɔŋˌsɑɪd,0,0
 aloof, əˈluːf əˈluːf əˈluf,0,0
 aloud, əˈlaʊd əˈlɑʊd,0,0
 alpaca, ælˈpækə ælˈpækə,0,0
-alpha, ˈælfə,1,0
+alpha, ˈælfə,0,0
 alphabet," ˈælfəbet ˈæl·fəˌbet, -bɪt",0,0
 alphabetical, ˌælfəˈbet̬ɪkəl,0,0
 alphabetically, ˌælfəˈbet̬ɪkəli,0,0
 alphabetize, ˈælfəbetaɪz,0,0
 alphabetized, ˈælfəbetaɪz,1,0
 alphabetizing, ˈælfəbetaɪz,1,0
-alphanumeric, ˌælfənuːˈmerɪk,1,0
+alphanumeric, ˌælfənuːˈmerɪk,0,0
 alpine, ˈælpaɪn ˈælpaɪn ˈæl·pɑɪn,0,0
 alps,,0,1
 already, ɑːlˈredi ɑːlˈredi ɔlˈred·i ɔlˈred·i,0,0
 alright," ɑːlˈraɪt ɔlˈrɑɪt, ˈɔl·rɑɪt",0,0
 alrighty,,0,1
-als, ˈeɪˌelˈes,1,0
-alsatian, ælˈseɪʃən,1,0
+als, ˈeɪˌelˈes,0,0
+alsatian, ælˈseɪʃən,0,0
 also, ˈɑːlsoʊ ˈɔl·soʊ ˈɔl·soʊ,0,0
-alt, ɑːlt,1,0
+alt, ɑːlt ɑːlt,0,0
 altair,,0,1
 altar, ˈɑːltɚ ˈɔl·tər,0,0
 altarpiece,,0,1
 altars, ˈɑːltɚ ˈɑːltɚ ˈɔl·tər,1,0
-alter, ˈɑːltɚ ˈɑːltɚ ˈɑːltɚ ˈɔl·tər,1,0
-alteration, ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən,1,0
+alter, ˈɑːltɚ ˈɑːltɚ ˈɑːltɚ ˈɔl·tər,0,0
+alteration, ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən,0,0
 alterations, ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən ˌɑːlt̬əˈreɪʃən,1,0
 altercation, ˌɑːltɚˈkeɪʃən ˌɔl·tərˈkeɪ·ʃən,0,0
 altered, ˈɑːltɚd ˈɑːltɚd,0,0
-altering, ˈɑːltɚ ˈɑːltɚ ˈɑːltɚ,1,0
-alternate, ˈɑːltɚneɪt ˈɑːltɚneɪt ˈɔl·tərˌneɪt,1,0
-alternated, ˈɑːltɚneɪt ˈɑːltɚneɪt,1,0
+altering, ˈɑːltɚ ˈɑːltɚ ˈɑːltɚ,0,0
+alternate, ˈɑːltɚneɪt ˈɑːltɚneɪt ˈɔl·tərˌneɪt,0,0
+alternated, ˈɑːltɚneɪt ˈɑːltɚneɪt,0,0
 alternately, ɑːlˈtɝːnətli ˈɔl·tər·nət·li,0,0
 alternates, ˈɑːltɚneɪt ˈɑːltɚneɪt ˈɔl·tərˌneɪt,1,0
 alternating, ˈɑːltɚneɪt̬ɪŋ ˈɑːltɚneɪt̬ɪŋ,0,0
@@ -336,26 +336,26 @@ alumni, əˈlʌmnaɪ əˈlʌmˌnɑɪ,0,0
 alumnus, əˈlʌmnəs əˈlʌmnəs,0,0
 alums, ˈæləm əˈlʌm əˈlʌm,1,0
 alveolar, ælˈviːəlɚ ælˈviːəlɚ ælˈviːəlɚ,0,0
-alveoli,,1,0
+alveoli,,0,1
 always," ˈɑːlweɪz ˈɑːlweɪz ˈɑːlweɪz ˈɑːlweɪz ˈɑːlweɪz ˈɔl·weɪz, -wiz ˈɔl·weɪz, -wiz",0,0
 aly,,0,1
 alzheimer, ˈɑːltshaɪmɚz,1,0
-am," strong æm æm, əm, m",1,0
+am," strong æm æm, əm, m",0,0
 amal,,0,1
 amalgam, əˈmælɡəm əˈmælɡəm,0,0
-amalgamated,,1,0
-amalgamation, əˌmælɡəˈmeɪʃən,1,0
+amalgamated,,0,1
+amalgamation, əˌmælɡəˈmeɪʃən,0,0
 amar,,0,1
 amaranth, ˈæmərænθ,0,0
 amaretto, ˌæməˈret̬oʊ ˌæməˈret̬oʊ,0,0
 amargosa,,0,1
 amarillo,,0,1
 amaryllis, ˌæməˈrɪlɪs,0,0
-amass, əˈmæs əˈmæs,1,0
-amassed, əˈmæs,1,0
+amass, əˈmæs əˈmæs,0,0
+amassed, əˈmæs,0,0
 amasses, əˈmæs əˈmæs,1,0
-amassing, əˈmæs,1,0
-amateur," ˈæmətʃɚ ˈæmətʃɚ ˈæm·əˌtʃɜr, -əˌtʃʊər, -ə·t̬ər",1,0
+amassing, əˈmæs,0,0
+amateur," ˈæmətʃɚ ˈæmətʃɚ ˈæm·əˌtʃɜr, -əˌtʃʊər, -ə·t̬ər",0,0
 amateurish," ˌæməˈtʊrɪʃ ˌæm·əˈtʃʊər·ɪʃ, -ˈtɜr·ɪʃ",0,0
 amateurism,,0,1
 amateurs," ˈæmətʃɚ ˈæmətʃɚ ˈæm·əˌtʃɜr, -əˌtʃʊər, -ə·t̬ər",1,0
@@ -380,18 +380,18 @@ ambidextrous, ˌæmbɪˈdekstrəs ˌæmbɪˈdekstrəs ˌæmbɪˈdekstrəs ˌæm�
 ambience," ˌɑːmbiˈɑːns ˈæm·bi·əns, ˌɑm·biˈɑ̃s",0,0
 ambient, ˈæmbiənt,0,0
 ambiguities, ˌæmbɪˈɡjuːət̬i ˌæm·bɪˈɡjuɪ·t̬i ˌæm·bɪˈɡjuɪ·t̬i,1,0
-ambiguity, ˌæmbɪˈɡjuːət̬i ˌæm·bɪˈɡjuɪ·t̬i,1,0
-ambiguous, æmˈbɪɡjuəs æmˈbɪɡ·ju·əs,1,0
-ambition, æmˈbɪʃən æmˈbɪʃən æmˈbɪʃ·ən,1,0
+ambiguity, ˌæmbɪˈɡjuːət̬i ˌæm·bɪˈɡjuɪ·t̬i,0,0
+ambiguous, æmˈbɪɡjuəs æmˈbɪɡ·ju·əs,0,0
+ambition, æmˈbɪʃən æmˈbɪʃən æmˈbɪʃ·ən,0,0
 ambitions, æmˈbɪʃən æmˈbɪʃən æmˈbɪʃ·ən,1,0
-ambitious, æmˈbɪʃəs æmˈbɪʃəs æmˈbɪʃ·əs æmˈbɪʃ·əs,1,0
+ambitious, æmˈbɪʃəs æmˈbɪʃəs æmˈbɪʃ·əs æmˈbɪʃ·əs,0,0
 ambitiously, æmˈbɪʃəsli æmˈbɪʃəsli,0,0
 ambivalence, æmˈbɪvələns,0,0
 ambivalent, æmˈbɪvələnt æmˈbɪv·ə·lənt,0,0
 amble, ˈæmbəl ˈæm·bəl,0,0
-ambled, ˈæmbəl,1,0
+ambled, ˈæmbəl,0,0
 ambler,,0,1
-ambling, ˈæmbəl,1,0
+ambling, ˈæmbəl,0,0
 ambrose,,0,1
 ambrosia, æmˈbroʊʒə æmˈbroʊʒə,0,0
 ambrosial, æmˈbroʊʒəl,0,0
@@ -399,39 +399,39 @@ ambulance," ˈæmbjələns ˈæm·bjə·ləns, -ˌlæns",0,0
 ambulances," ˈæmbjələns ˈæm·bjə·ləns, -ˌlæns",1,0
 ambulatory," ˈæmbjələtɔːri ˈæm·bjə·ləˌtɔr·i, -ˌtoʊr·i ˈæm·bjə·ləˌtɔr·i, -ˌtoʊr·i",0,0
 ambush, ˈæmbʊʃ ˈæm·bʊʃ,0,0
-ambushed, ˈæmbʊʃ,1,0
+ambushed, ˈæmbʊʃ,0,0
 ambushes, ˈæmbʊʃ ˈæmbʊʃ ˈæm·bʊʃ,1,0
-ambushing, ˈæmbʊʃ,1,0
-ame, ˈeɪˌemˈiː ˈeɪˌemˈi,1,0
+ambushing, ˈæmbʊʃ,0,0
+ame, ˈeɪˌemˈiː ˈeɪˌemˈi,0,0
 amelia,,0,1
 ameliorate, əˈmiːljəreɪt,0,0
-ameliorated, əˈmiːljəreɪt,1,0
+ameliorated, əˈmiːljəreɪt,0,0
 amelioration, əˌmiːliəˈreɪʃən,0,0
 amen," ˌɑːˈmen ɑˈmen, eɪ- ɑˈmen, eɪ-",0,0
 amenable," əˈmiːnəbəl əˈmi·nə·bəl, -ˈmen·ə-",0,0
-amend, əˈmend əˈmend,1,0
-amended, əˈmend,1,0
-amending, əˈmend,1,0
-amendment, əˈmendmənt əˈmendmənt əˈmend·mənt,1,0
+amend, əˈmend əˈmend,0,0
+amended, əˈmend,0,0
+amending, əˈmend,0,0
+amendment, əˈmendmənt əˈmendmənt əˈmend·mənt,0,0
 amendments, əˈmendmənt əˈmendmənt əˈmend·mənt,1,0
 amends,,0,1
 amenities," əˈmenət̬i əˈmenət̬i əˈmen·ɪ·t̬i, əˈmi·nɪ·t̬i əˈmenəti əˈmenəti",1,0
-america, əˈmerɪkə əˈmerɪkə,1,0
-american, əˈmerɪkən əˈmerɪkən əˈmer·ɪ·kən,1,0
-americana, əˌmerɪˈkɑːnə,1,0
-americanism, əˈmerɪkənɪzəm əˈmerɪkənɪzəm,1,0
-americanization, əˌmerɪkənəˈzeɪʃən,1,0
-americanize, əˈmerɪkənaɪz əˈmer·ɪ·kəˌnɑɪz,1,0
+america, əˈmerɪkə əˈmerɪkə,0,0
+american, əˈmerɪkən əˈmerɪkən əˈmer·ɪ·kən,0,0
+americana, əˌmerɪˈkɑːnə,0,0
+americanism, əˈmerɪkənɪzəm əˈmerɪkənɪzəm,0,0
+americanization, əˌmerɪkənəˈzeɪʃən,0,0
+americanize, əˈmerɪkənaɪz əˈmer·ɪ·kəˌnɑɪz,0,0
 americanized, əˈmerɪkənaɪz əˈmer·ɪ·kəˌnɑɪz,1,0
 americans, əˈmerɪkən əˈmerɪkən əˈmer·ɪ·kən,1,0
-americas, əˈmer·ɪ·kəz,1,0
+americas, əˈmer·ɪ·kəz,0,0
 amethyst, ˈæməθɪst ˈæməθɪst,0,0
-amex,,1,0
+amex,,0,1
 ami,,0,1
 amiability, ˌeɪmiəˈbɪlət̬i,0,0
 amiable, ˈeɪmiəbəl ˈeɪ·mi·ə·bəl,0,0
 amiably, ˈeɪmiəbli,0,0
-amicable, ˈæmɪkəbəl ˈæmɪkəbəl ˈæm·ɪ·kə·bəl,1,0
+amicable, ˈæmɪkəbəl ˈæmɪkəbəl ˈæm·ɪ·kə·bəl,0,0
 amicably, ˈæmɪkəbli ˈæmɪkəbli,0,0
 amicus, ˈæmɪkəs,0,0
 amid, əˈmɪd əˈmɪd,0,0
@@ -448,7 +448,7 @@ amis,,0,1
 amish,,0,1
 amiss, əˈmɪs əˈmɪs,0,0
 amity, ˈæmət̬i,0,0
-amman, ɑːˈmɑːn,1,0
+amman, ɑːˈmɑːn,0,0
 ammeter," ˈæmiːt̬ɚ ˈæmˌi·t̬ər, ˈæmˌmi-",0,0
 ammo, ˈæmoʊ,0,0
 ammonia, əˈmoʊniə əˈmoʊn·jə,0,0
@@ -464,18 +464,18 @@ amoebas, əˈmiːbə əˈmibə,1,0
 amoebic, əˈmiːbɪk əˈmibɪk,0,0
 amok,,0,1
 among, əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ,0,0
-amongst, əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ,1,0
+amongst, əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ əˈmʌŋ,1,0
 amor,,0,1
 amoral," ˌeɪˈmɔːrəl eɪˈmɔr·əl, -ˈmɑr-",0,0
 amoroso,,0,1
 amorous, ˈæmɚəs ˈæm·ər·əs,0,0
 amorphous," əˈmɔːrfəs əˈmɔːrfəs əˈmɔr·fəs, eɪ-",0,0
 amortization, æmˌɔːrt̬əˈzeɪʃən,0,0
-amortize, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,1,0
-amortized, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,1,0
-amortizing, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,1,0
+amortize, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,0,0
+amortized, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,0,0
+amortizing, ˈæmɔːrtaɪz ˈæmɔːrtaɪz,0,0
 amos,,0,1
-amount, əˈmaʊnt əˈmɑʊnt,1,0
+amount, əˈmaʊnt əˈmɑʊnt,0,0
 amounted,,0,1
 amounting,,0,1
 amounts, əˈmaʊnt əˈmɑʊnt,1,0
