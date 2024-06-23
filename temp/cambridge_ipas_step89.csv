@@ -6,11 +6,11 @@ sympathetic, ˌsɪmpəˈθet̬ɪk ˌsɪmpəˈθet̬ɪk ˌsɪmpəˈθet̬ɪk ˌs�
 sympathetically, ˌsɪmpəˈθet̬ɪkəli ˌsɪmpəˈθet̬ɪkəli ˌsɪmpəˈθet̬ɪkəli ˌsɪmpəˈθet̬ɪkəli,0,0
 sympathies,,0,1
 sympathize, ˈsɪmpəθaɪz ˈsɪmpəθaɪz ˈsɪm·pəˌθɑɪz ˈsɪm·pəˌθɑɪz,0,0
-sympathized, ˈsɪmpəθaɪz ˈsɪmpəθaɪz,0,0
+sympathized, ˈsɪmpəθaɪz ˈsɪmpəθaɪz,1,0
 sympathizer, ˈsɪmpəθaɪzɚ ˈsɪm·pəˌθɑɪ·zər,0,0
 sympathizers, ˈsɪmpəθaɪzɚ ˈsɪm·pəˌθɑɪ·zər,1,0
 sympathizes, ˈsɪmpəθaɪz ˈsɪmpəθaɪz ˈsɪm·pəˌθɑɪz ˈsɪm·pəˌθɑɪz,1,0
-sympathizing, ˈsɪmpəθaɪz ˈsɪmpəθaɪz,0,0
+sympathizing, ˈsɪmpəθaɪz ˈsɪmpəθaɪz,1,0
 sympathy, ˈsɪmpəθi ˈsɪmpəθi ˈsɪm·pə·θi ˈsɪm·pə·θi,0,0
 symphonic, sɪmˈfɑːnɪk,0,0
 symphonies, ˈsɪmfəni ˈsɪm·fə·ni,1,0
@@ -33,7 +33,7 @@ synchronization, ˌsɪŋkrənəˈzeɪʃən ˌsɪŋkrənəˈzeɪʃən,0,0
 synchronize, ˈsɪŋkrənaɪz ˈsɪŋkrənaɪz ˈsɪŋ·krəˌnɑɪz ˈsɪŋ·krəˌnɑɪz,0,0
 synchronized, ˈsɪŋkrənaɪzd ˈsɪŋkrənaɪzd,0,0
 synchronizes, ˈsɪŋkrənaɪz ˈsɪŋkrənaɪz ˈsɪŋ·krəˌnɑɪz ˈsɪŋ·krəˌnɑɪz,1,0
-synchronizing, ˈsɪŋkrənaɪz ˈsɪŋkrənaɪz,0,0
+synchronizing, ˈsɪŋkrənaɪz ˈsɪŋkrənaɪz,1,0
 syncopal,,0,1
 syncopate, ˈsɪŋkəpeɪt,0,0
 syncopated, ˈsɪŋkəpeɪt̬ɪd,0,0
@@ -56,10 +56,10 @@ synoptic, sɪˈnɑːptɪk,0,0
 syntax, ˈsɪntæks ˈsɪntæks ˈsɪn·tæks,0,0
 synthesis, ˈsɪnθəsɪs ˈsɪnθəsɪs ˈsɪn·θə·sɪs,0,0
 synthesize, ˈsɪnθəsaɪz,0,0
-synthesized, ˈsɪnθəsaɪz,0,0
+synthesized, ˈsɪnθəsaɪz,1,0
 synthesizer, ˈsɪnθəsaɪzɚ ˈsɪn·θəˌsɑɪ·zər,0,0
 synthesizers, ˈsɪnθəsaɪzɚ ˈsɪn·θəˌsɑɪ·zər,1,0
-synthesizing, ˈsɪnθəsaɪz,0,0
+synthesizing, ˈsɪnθəsaɪz,1,0
 synthetic, sɪnˈθet̬ɪk sɪnˈθet̬ɪk sɪnˈθet̬ɪk sɪnˈθet̬·ɪk,0,0
 synthetically, sɪnˈθet̬ɪkəli sɪnˈθet̬ɪkəli,0,0
 synthetics, sɪnˈθet̬ɪk sɪnˈθet̬ɪk sɪnˈθet̬ɪk sɪnˈθet̬·ɪk,1,0
@@ -91,7 +91,7 @@ tableau, ˈtæbloʊ,0,0
 tableaux,,0,1
 tablecloth, ˈteɪbəlklɑːθ ˈteɪ·bəlˌklɔθ,0,0
 tablecloths, ˈteɪbəlklɑːθ ˈteɪ·bəlˌklɔθ,1,0
-tabled, ˈteɪbəl ˈteɪbəl,0,0
+tabled, ˈteɪbəl ˈteɪbəl,1,0
 tables, ˈteɪbəl ˈteɪbəl ˈteɪbəl ˈteɪbəl ˈteɪbəl ˈteɪbəl ˈteɪbəl ˈteɪ·bəl ˈteɪ·bəl ˈteɪ·bəl ˈteɪ·bəl,1,0
 tablespoon, ˈteɪbəlspuːn ˈteɪbəlspuːn ˈteɪ·bəlˌspun,0,0
 tablespoons, ˈteɪbəlspuːn ˈteɪbəlspuːn ˈteɪ·bəlˌspun,1,0
@@ -107,20 +107,20 @@ taboos," təˈbuː təˈbu, tæ-",1,0
 tabor,,0,1
 tabs, tæb tæb tæb tæb tæb tæb tæb tæb tæb tæb,1,0
 tabulate, ˈtæbjəleɪt ˈtæb·jəˌleɪt,0,0
-tabulating, ˈtæbjəleɪt,0,0
+tabulating, ˈtæbjəleɪt,1,0
 tabulation, ˈtæbjəleɪt ˈtæb·jəˌleɪt,1,0
 tabulations,,0,1
 tacit, ˈtæsɪt ˈtæsɪt ˈtæs·ɪt,0,0
 tacitly, ˈtæsɪtli,0,0
 taciturn, ˈtæsətɝːn ˈtæs·ɪˌtɜrn,0,0
 tack, tæk tæk tæk tæk tæk tæk,0,0
-tacked, tæk tæk tæk,0,0
+tacked, tæk tæk tæk,1,0
 tacker,,0,1
 tacking, ˈtækɪŋ,0,0
 tackle, ˈtækəl ˈtækəl ˈtæk·əl ˈtæk·əl,0,0
-tackled, ˈtækəl ˈtækəl,0,0
+tackled, ˈtækəl ˈtækəl,1,0
 tackles, ˈtækəl ˈtækəl ˈtæk·əl ˈtæk·əl,1,0
-tackling, ˈtækəl ˈtækəl,0,0
+tackling, ˈtækəl ˈtækəl,1,0
 tacks, tæk tæk tæk tæk tæk tæk,1,0
 tacky, ˈtæki ˈtæki ˈtæk·i ˈtæk·i,0,0
 taco, ˈtɑːkoʊ ˈtɑ·koʊ,0,0
@@ -154,18 +154,18 @@ tai,,0,1
 tail, teɪl teɪl teɪl teɪl teɪl teɪl teɪl,0,0
 tailed,  -teɪld,1,0
 tailgate, ˈteɪlɡeɪt ˈteɪlɡeɪt ˈteɪlˌɡeɪt,0,0
-tailing, teɪl,0,0
+tailing, teɪl,1,0
 tailings,,0,1
 tailor, ˈteɪlɚ ˈteɪ·lər,0,0
 tailored, ˈteɪlɚd ˈteɪlɚd ˈteɪlɚd ˌteɪ·lərd,0,0
-tailoring, ˈteɪlɚ,0,0
+tailoring, ˈteɪlɚ,1,0
 tailors, ˈteɪlɚ ˈteɪ·lər,1,0
 tailpipe, ˈteɪlpaɪp ˈteɪlˌpɑɪp,0,0
 tails, teɪlz,0,0
 tailspin, ˈteɪlˌspɪn ˈteɪlˌspɪn ˈteɪlˌspɪn,0,0
 taint, teɪnt teɪnt,0,0
 tainted, ˈteɪn·tɪd,0,0
-tainting, teɪnt,0,0
+tainting, teɪnt,1,0
 taints, teɪnt teɪnt,1,0
 taipei,,0,1
 tait,,0,1
@@ -197,24 +197,24 @@ tales, teɪl teɪl,1,0
 talisman, ˈtælɪzmən,0,0
 talk, tɑːk tɑːk tɑːk tɔk,0,0
 talkative, ˈtɑːkət̬ɪv ˈtɔ·kə·t̬ɪv,0,0
-talked, tɑːk tɑːk tɑːk tɑːk,0,0
+talked, tɑːk tɑːk tɑːk tɑːk,1,0
 talker, ˈtɑːkɚ ˈtɔ·kər,0,0
 talkers, ˈtɑːkɚ ˈtɔ·kər,1,0
 talkie, ˈtɑːki,0,0
 talkies, ˈtɑːki,1,0
-talking, tɑːk tɑːk tɑːk tɑːk,0,0
+talking, tɑːk tɑːk tɑːk tɑːk,1,0
 talks,,0,1
 talky, ˈtɑːki ˈtɑːki,0,0
 tall, tɑːl tɔl tɔl,0,0
 tallahassee,,0,1
 taller, tɑːl tɔl tɔl,1,0
 tallest, tɑːl tɔl tɔl,1,0
-tallied, ˈtæli,0,0
+tallied, ˈtæli,1,0
 tallies, ˈtæli ˈtæl·i,1,0
 tallow, ˈtæloʊ,0,0
 tally, ˈtæli ˈtæl·i,0,0
 tallyho,,0,1
-tallying, ˈtæli,0,0
+tallying, ˈtæli,1,0
 talmud,,0,1
 talon, ˈtælən ˈtæl·ən,0,0
 talons, ˈtælən ˈtæl·ən,1,0
@@ -227,11 +227,11 @@ tamas,,0,1
 tambo,,0,1
 tambourine, ˌtæmbəˈriːn ˌtæm·bəˈrin,0,0
 tame, teɪm teɪm teɪm teɪm,0,0
-tamed, teɪm teɪm,0,0
+tamed, teɪm teɪm,1,0
 tamer, ˈteɪmɚ,0,0
 tames, teɪm teɪm teɪm teɪm,1,0
 tamil, ˈtæmɪl,0,0
-taming, teɪm teɪm,0,0
+taming, teɪm teɪm,1,0
 tammany,,0,1
 tammie,,0,1
 tammy,,0,1
@@ -240,7 +240,7 @@ tampa,,0,1
 tamper, ˈtæmpɚ ˈtæmpɚ ˈtæm·pər,0,0
 tampered, ˈtæmpɚ ˈtæmpɚ ˈtæm·pər,1,0
 tampering, ˈtæmpɚɪŋ ˈtæmpɚɪŋ,0,0
-tamping, tæmp,0,0
+tamping, tæmp,1,0
 tampon, ˈtæmpɑːn ˈtæm·pɑn,0,0
 tampons, ˈtæmpɑːn ˈtæm·pɑn,1,0
 tan, tæn tæn tæn,0,0
@@ -255,7 +255,7 @@ tangible, ˈtændʒəbəl ˈtæn·dʒə·bəl,0,0
 tangle, ˈtæŋɡəl ˈtæŋ·ɡəl,0,0
 tangled, ˈtæŋɡəld ˈtæŋɡəld ˈtæŋ·ɡəld,0,0
 tangles, ˈtæŋɡəl ˈtæŋ·ɡəl,1,0
-tangling, ˈtæŋɡəl,0,0
+tangling, ˈtæŋɡəl,1,0
 tango, ˈtæŋɡoʊ ˈtæŋ·ɡoʊ,0,0
 tangos, ˈtæŋɡoʊ ˈtæŋ·ɡoʊ,1,0
 tangs,,0,1
@@ -275,7 +275,7 @@ tans, ˈsʌntæn ˈsʌnˌtæn,1,0
 tansey,,0,1
 tansy, ˈtænzi,0,0
 tantalize, ˈtænəlaɪz ˈtæn·təlˌɑɪz,0,0
-tantalized, ˈtænəlaɪz,0,0
+tantalized, ˈtænəlaɪz,1,0
 tantalizing, ˈtænt̬əlaɪzɪŋ ˈtæn·təlˌɑɪ·zɪŋ,0,0
 tantalizingly, ˈtænt̬əlaɪzɪŋli,0,0
 tantalum,,0,1
@@ -293,7 +293,7 @@ taos,,0,1
 tap, tæp tæp tæp tæp tæp tæp tæp tæp,0,0
 tapas, ˈtæpəs,0,0
 tape, teɪp teɪp teɪp teɪp teɪp,0,0
-taped, teɪp teɪp,0,0
+taped, teɪp teɪp,1,0
 taper, ˈteɪpɚ ˈteɪpɚ ˈteɪpɚ ˈteɪ·pər,0,0
 tapered, ˈteɪpɚd,0,0
 tapering, ˈteɪpɚɪŋ,0,0
@@ -301,7 +301,7 @@ tapers, ˈteɪpɚ ˈteɪpɚ ˈteɪpɚ ˈteɪ·pər,1,0
 tapes, teɪp teɪp teɪp teɪp teɪp teɪp,1,0
 tapestries, ˈtæpəstri ˈtæpəstri ˈtæp·ə·stri,1,0
 tapestry, ˈtæpəstri ˈtæpəstri ˈtæp·ə·stri,0,0
-taping, teɪp teɪp,0,0
+taping, teɪp teɪp,1,0
 tapings,,0,1
 tapped,,0,1
 tapper,,0,1
@@ -315,7 +315,7 @@ tardiness, ˈtɑːrdinəs,0,0
 tardy, ˈtɑːrdi ˈtɑr·di,0,0
 target, ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑr·ɡɪt ˈtɑr·ɡɪt ˈtɑr·ɡɪt,0,0
 targeted,,0,1
-targeting, ˈtɑːrɡɪt ˈtɑːrɡɪt,0,0
+targeting, ˈtɑːrɡɪt ˈtɑːrɡɪt,1,0
 targets, ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑːrɡɪt ˈtɑr·ɡɪt ˈtɑr·ɡɪt ˈtɑr·ɡɪt,1,0
 tariff, ˈterɪf ˈtær·ɪf,0,0
 tariffs, ˈterɪf ˈtær·ɪf,1,0
@@ -323,7 +323,7 @@ tarmac, ˈtɑːrmæk ˈtɑr·mæk,0,0
 tarman,,0,1
 tarnish, ˈtɑːrnɪʃ ˈtɑːrnɪʃ ˈtɑr·nɪʃ ˈtɑr·nɪʃ,0,0
 tarnished, ˈtɑːrnɪʃt ˈtɑːrnɪʃt,0,0
-tarnishing, ˈtɑːrnɪʃ ˈtɑːrnɪʃ,0,0
+tarnishing, ˈtɑːrnɪʃ ˈtɑːrnɪʃ,1,0
 taro, ˈteroʊ,0,0
 tarot, ˈteroʊ ˈtær·oʊ,0,0
 tarots,,0,1
@@ -344,7 +344,7 @@ tarts, tɑːrt tɑːrt tɑːrt tɑrt,1,0
 tarzan,,0,1
 tash, tæʃ,0,0
 task, tæsk tæsk tæsk tæsk tæsk,0,0
-tasked, tæsk,0,0
+tasked, tæsk,1,0
 tasker, ˈtæskɚ,0,0
 tasking, ˈtæskɪŋ ˈtæskɪŋ,0,0
 taskmaster, ˈtæskˌmæstɚ ˈtæskˌmæs·tər,0,0
@@ -353,7 +353,7 @@ tasmanian,,0,1
 tass,,0,1
 tassel, ˈtæsəl ˈtæs·əl,0,0
 taste, teɪst teɪst teɪst teɪst teɪst teɪst teɪst teɪst teɪst,0,0
-tasted, teɪst teɪst teɪst,0,0
+tasted, teɪst teɪst teɪst,1,0
 tasteful, ˈteɪstfəl ˈteɪst·fəl,0,0
 tastefully, ˈteɪstfəli,0,0
 tasteless, ˈteɪstləs ˈteɪstləs ˈteɪstləs ˈteɪst·ləs ˈteɪst·ləs,0,0
@@ -381,7 +381,7 @@ tatty, ˈtæt̬i,0,0
 tatu,,0,1
 taught, tɑːt tɔt,0,0
 taunt," tɑːnt tɔnt, tɑnt",0,0
-taunted, tɑːnt,0,0
+taunted, tɑːnt,1,0
 taunting, ˈtɑːnt̬ɪŋ,0,0
 taunts," tɑːnt tɔnt, tɑnt",1,0
 taurus, ˈtɔːrəs ˈtɔːrəs ˈtɔr·əs,0,0
@@ -446,10 +446,10 @@ tears, ter ter ter tɪr tɪr tɪr tɪər,1,0
 teary, ˈtɪri ˈtɪri,0,0
 teas, tiː tiː tiː tiː ti ti,1,0
 tease, tiːz tiːz tiːz tiz,0,0
-teased, tiːz tiːz tiːz,0,0
+teased, tiːz tiːz tiːz,1,0
 teaser, ˈtiːzɚ ˈtiːzɚ ˈtiːzɚ ˈtiːzɚ ˈtiːzɚ,0,0
 teases, tiːz tiːz tiːz tiz,1,0
-teasing, tiːz tiːz tiːz,0,0
+teasing, tiːz tiːz tiːz,1,0
 teaspoon, ˈtiːspuːn ˈtiːspuːn ˈtiˌspun,0,0
 teaspoonful, ˈtiːspuːnfʊl,0,0
 teaspoons, ˈtiːspuːn ˈtiːspuːn ˈtiˌspun,1,0

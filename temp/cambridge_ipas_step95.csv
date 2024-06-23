@@ -11,8 +11,8 @@ unfriendly, ʌnˈfrendli ʌnˈfrend·li,0,0
 unfrozen, ʌnˈfroʊzən ʌnˈfroʊzən ʌnˈfroʊzən,0,0
 unfulfilled, ˌʌnfʊlˈfɪld ˌʌnfʊlˈfɪld,0,0
 unfurl, ʌnˈfɝːl ʌnˈfɜrl,0,0
-unfurled, ʌnˈfɝːl,0,0
-unfurling, ʌnˈfɝːl,0,0
+unfurled, ʌnˈfɝːl,1,0
+unfurling, ʌnˈfɝːl,1,0
 ung,,0,1
 ungainly, ʌnˈɡeɪnli ʌnˈɡeɪn·li,0,0
 unglamorous, ʌnˈɡlæməəs,0,0
@@ -51,7 +51,7 @@ uniformity, ˌjuːnəˈfɔːrmət̬i,0,0
 uniformly, ˈjuːnəfɔːrmli,0,0
 uniforms, ˈjuːnəfɔːrm ˈjuːnəfɔːrm ˈju·nəˌfɔrm,1,0
 unify, ˈjuːnəfaɪ ˈju·nəˌfɑɪ,0,0
-unifying, ˈjuːnəfaɪ,0,0
+unifying, ˈjuːnəfaɪ,1,0
 unilateral, ˌjuːnəˈlæt̬ɚəl ˌjun·əlˈæt̬·ər·əl,0,0
 unilaterally, ˌjuːnəˈlæt̬ɚəli,0,0
 unimaginable, ˌʌnɪˈmædʒɪnəbəl ˌʌn·ɪˈmædʒ·ə·nə·bəl,0,0
@@ -90,7 +90,7 @@ unionism, ˈjuːnjənɪzəm ˈjuːnjənɪzəm ˈjuːnjənɪzəm ˈjuːnjənɪzə
 unionist, ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst,0,0
 unionists, ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst ˈjuːnjənɪst,1,0
 unionize, ˈjuːnjənaɪz ˈjun·jəˌnɑɪz ˈjuːniənaɪz,0,0
-unionizing, ˈjuːnjənaɪz,0,0
+unionizing, ˈjuːnjənaɪz,1,0
 unions, ˈjuːnjən ˈjuːnjən ˈjuːnjən ˈjuːnjən ˈjun·jən ˈjun·jən ˈjun·jən ˈjun·jən ˈjun·jən,1,0
 unique, juːˈniːk jʊˈnik,0,0
 uniquely, juːˈniːkli,0,0
@@ -102,7 +102,7 @@ unitarian, ˌjuːnɪˈteriən,0,0
 unite, juːˈnaɪt jʊˈnɑɪt,0,0
 united, juːˈnaɪt̬ɪd juːˈnaɪt̬ɪd,0,0
 unites, juːˈnaɪt jʊˈnɑɪt,1,0
-uniting, juːˈnaɪt,0,0
+uniting, juːˈnaɪt,1,0
 units, ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈjuːnɪt ˈju·nɪt ˈju·nɪt ˈju·nɪt ˈju·nɪt ˈju·nɪt,1,0
 unity, ˈjuːnət̬i ˈju·nɪ·t̬i ˈju·nɪ·t̬i,0,0
 universal, ˌjuːnəˈvɝːsəl ˌju·nəˈvɜr·səl,0,0
@@ -128,9 +128,9 @@ unlawful, ʌnˈlɑːfəl ʌnˈlɔ·fəl,0,0
 unlawfully, ʌnˈlɑːfəli,0,0
 unleaded, ʌnˈledɪd ʌnˈled·ɪd,0,0
 unleash, ʌnˈliːʃ ʌnˈliʃ,0,0
-unleashed, ʌnˈliːʃ,0,0
+unleashed, ʌnˈliːʃ,1,0
 unleashes, ʌnˈliːʃ ʌnˈliʃ,1,0
-unleashing, ʌnˈliːʃ,0,0
+unleashing, ʌnˈliːʃ,1,0
 unless, ənˈles ənˌles,0,0
 unlicensed, ʌnˈlaɪsənst ʌnˈlaɪsənst,0,0
 unlike, ʌnˈlaɪk ʌnˈlaɪk ʌnˈlɑɪk ʌnˈlɑɪk,0,0
@@ -139,12 +139,12 @@ unlimited, ʌnˈlɪmɪt̬ɪd ʌnˈlɪm·ə·t̬ɪd,0,0
 unlisted, ʌnˈlɪst̬ɪd ʌnˈlɪst̬ɪd ʌnˈlɪs·tɪd -ṱɪd -ṱɪd,0,0
 unlivable, ˌʌnˈlɪvəbəl ˌʌnˈlɪvəbəl,0,0
 unload, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,0,0
-unloaded, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,0,0
-unloading, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,0,0
+unloaded, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,1,0
+unloading, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,1,0
 unloads, ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd ʌnˈloʊd,1,0
 unlock, ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑk,0,0
-unlocked, ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk,0,0
-unlocking, ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk,0,0
+unlocked, ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk,1,0
+unlocking, ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk ʌnˈlɑːk,1,0
 unloved,,0,1
 unlucky, ʌnˈlʌki ʌnˈlʌk·i,0,0
 unmade, ʌnˈmeɪd,0,0
@@ -153,7 +153,7 @@ unmanned, ʌnˈmænd ʌnˈmænd,0,0
 unmarked, ʌnˈmɑːrkt ʌnˈmɑrkt,0,0
 unmarried," ʌnˈmerɪd ʌnˈmær·id, -ˈmeər-",0,0
 unmask, ʌnˈmæsk ʌnˈmæsk,0,0
-unmasked, ʌnˈmæsk,0,0
+unmasked, ʌnˈmæsk,1,0
 unmatched, ʌnˈmætʃt,0,0
 unmentionable, ʌnˈmenʃənəbəl,0,0
 unmentioned, ˌʌnˈmenʃənd,0,0
@@ -171,7 +171,7 @@ unnecessarily, ʌnˌnesəˈserəli ʌnˈnesəserəli,0,0
 unnecessary, ʌnˈnesəseri ʌnˈnesəseri ʌnˈnes·əˌseər·i,0,0
 unneeded, ˌʌnˈniːdɪd,0,0
 unnerve, ʌnˈnɝːv ʌnˈnɜrv,0,0
-unnerved, ʌnˈnɝːv,0,0
+unnerved, ʌnˈnɝːv,1,0
 unnerving, ʌnˈnɝːvɪŋ,0,0
 unnoticed, ʌnˈnoʊt̬ɪst ʌnˈnoʊt̬·ɪst,0,0
 unobstructed, ˌʌnəbˈstrʌkt̬ɪd ˌʌnəbˈstrʌkt̬ɪd,0,0
@@ -185,8 +185,8 @@ unopposed, ˌʌnəˈpoʊzd,0,0
 unorganized,,0,1
 unorthodox, ʌnˈɔːrθədɑːks ʌnˈɔr·θəˌdɑks,0,0
 unpack, ʌnˈpæk ʌnˈpæk ʌnˈpæk,0,0
-unpacked, ʌnˈpæk ʌnˈpæk,0,0
-unpacking, ʌnˈpæk ʌnˈpæk,0,0
+unpacked, ʌnˈpæk ʌnˈpæk,1,0
+unpacking, ʌnˈpæk ʌnˈpæk,1,0
 unpaid, ʌnˈpeɪd ʌnˈpeɪd ʌnˈpeɪd,0,0
 unpainted, ˌʌnˈpeɪnt̬ɪd,0,0
 unpalatable, ʌnˈpælət̬əbəl ʌnˈpælət̬əbəl,0,0
@@ -274,8 +274,8 @@ unrestricted, ˌʌnrɪˈstrɪkt̬ɪd ˌʌn·rɪˈstrɪk·təd,0,0
 unring,,0,1
 unrivaled, ʌnˈraɪvəld ʌnˈrɑɪ·vəld,0,0
 unroll, ʌnˈroʊl ʌnˈroʊl,0,0
-unrolled, ʌnˈroʊl,0,0
-unrolling, ʌnˈroʊl,0,0
+unrolled, ʌnˈroʊl,1,0
+unrolling, ʌnˈroʊl,1,0
 unrolls, ʌnˈroʊl ʌnˈroʊl,1,0
 unruffled, ʌnˈrʌfəld,0,0
 unruly, ʌnˈruːli ʌnˈruːli ʌnˈru·li,0,0
@@ -298,7 +298,7 @@ unseal,,0,1
 unsealed,,0,1
 unseasonably, ʌnˈsiːzənəbli,0,0
 unseat, ʌnˈsiːt ʌnˈsiːt ʌnˈsit,0,0
-unseated, ʌnˈsiːt ʌnˈsiːt,0,0
+unseated, ʌnˈsiːt ʌnˈsiːt,1,0
 unsecured, ˌʌnsɪˈkjʊrd ˌʌnsɪˈkjʊrd,0,0
 unseemly, ʌnˈsiːmli ʌnˈsim·li,0,0
 unseen, ʌnˈsiːn ʌnˈsiːn ʌnˈsin,0,0
@@ -358,7 +358,7 @@ unswerving, ʌnˈswɝːvɪŋ ʌnˈswɜr·vɪŋ,0,0
 unsympathetic, ˌʌnsɪmpəˈθet̬ɪk,0,0
 untainted, ʌnˈteɪnt̬ɪd,0,0
 untangle, ʌnˈtæŋɡəl ʌnˈtæŋɡəl ʌnˈtæŋ·ɡəl,0,0
-untangling, ʌnˈtæŋɡəl ʌnˈtæŋɡəl,0,0
+untangling, ʌnˈtæŋɡəl ʌnˈtæŋɡəl,1,0
 untapped, ʌnˈtæpt ʌnˈtæpt,0,0
 untaxed, ʌnˈtækst,0,0
 untenable, ʌnˈtenəbəl ʌnˈtenəbəl ʌnˈten·ə·bəl,0,0
@@ -397,8 +397,8 @@ unusual, ʌnˈjuːʒuəl ʌnˈju·ʒu·əl,0,0
 unusually, ʌnˈjuːʒuəli ʌnˈju·ʒu·ə·li,0,0
 unvarnished, ʌnˈvɑːrnɪʃt,0,0
 unveil, ʌnˈveɪl ʌnˈveɪl ʌnˈveɪl,0,0
-unveiled, ʌnˈveɪl ʌnˈveɪl,0,0
-unveiling, ʌnˈveɪl ʌnˈveɪl,0,0
+unveiled, ʌnˈveɪl ʌnˈveɪl,1,0
+unveiling, ʌnˈveɪl ʌnˈveɪl,1,0
 unveils, ʌnˈveɪl ʌnˈveɪl ʌnˈveɪl,1,0
 unverifiable, ˌʌnverəˈfaɪəbəl,0,0
 unverified,,0,1
@@ -438,9 +438,9 @@ upbeat, ˈʌpbiːt ˈʌpbiːt ʌpˈbit,0,0
 upbringing, ˈʌpˌbrɪŋɪŋ ˈʌpˌbrɪŋ·ɪŋ,0,0
 upcoming, ˈʌpˌkʌmɪŋ ˈʌpˌkʌm·ɪŋ,0,0
 update, ʌpˈdeɪt ʌpˈdeɪt ˌʌpˈdeɪt ˌʌpˈdeɪt,0,0
-updated, ʌpˈdeɪt ʌpˈdeɪt,0,0
+updated, ʌpˈdeɪt ʌpˈdeɪt,1,0
 updates, ʌpˈdeɪt ʌpˈdeɪt ˌʌpˈdeɪt ˌʌpˈdeɪt,1,0
-updating, ʌpˈdeɪt ʌpˈdeɪt,0,0
+updating, ʌpˈdeɪt ʌpˈdeɪt,1,0
 updraft,,0,1
 upfront, ʌpˈfrʌnt ˈʌpˈfrʌnt ˈʌpˈfrʌnt,0,0
 upgrade, ʌpˈɡreɪd ʌpˈɡreɪd ˌʌpˈɡreɪd,0,0
@@ -466,8 +466,8 @@ uplink, ˈʌplɪŋk ˈʌplɪŋk,0,0
 uplinked, ˈʌplɪŋk ˈʌplɪŋk,1,0
 uplinks, ˈʌplɪŋk ˈʌplɪŋk,1,0
 upload, ʌpˈloʊd,0,0
-uploaded, ʌpˈloʊd,0,0
-uploading, ʌpˈloʊd,0,0
+uploaded, ʌpˈloʊd,1,0
+uploading, ʌpˈloʊd,1,0
 upmarket, ˈʌpmɑːrkɪt,0,0
 upon," əˈpɑːn əˈpɑn, əˈpɔn əˈpɑn, əˈpɔn",0,0
 upped,,0,1

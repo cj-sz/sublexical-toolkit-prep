@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
 uproot, ʌpˈruːt ʌpˈruːt ʌpˈrut ʌpˈrut,0,0
-uprooted, ʌpˈruːt ʌpˈruːt,0,0
-uprooting, ʌpˈruːt ʌpˈruːt,0,0
+uprooted, ʌpˈruːt ʌpˈruːt,1,0
+uprooting, ʌpˈruːt ʌpˈruːt,1,0
 ups, ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp- ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp ʌp,1,0
 upscale, ˈʌpskeɪl ˈʌpˌskeɪl,0,0
 upset, ʌpˈset ʌpˈset ʌpˈset ʌpˈset ˌʌpˈset ˌʌpˈset ˌʌpˈset,0,0
@@ -10,7 +10,7 @@ upsetting, ʌpˈset̬ɪŋ ˌʌpˈset̬·ɪŋ,0,0
 upshot, ˈʌpˌʃɑt,0,1
 upside, ˈʌpsaɪd ˈʌpˌsɑɪd ˈʌpsaɪd,0,0
 upstage, ʌpˈsteɪdʒ ˌʌpˈsteɪdʒ,0,0
-upstaged, ʌpˈsteɪdʒ,0,0
+upstaged, ʌpˈsteɪdʒ,1,0
 upstairs, ʌpˈsterz ˈʌpˈsterz,0,0
 upstanding, ʌpˈstændɪŋ ʌpˈstæn·dɪŋ,0,0
 upstart, ˈʌpstɑːrt ˈʌpstɑːrt ˈʌpˌstɑrt,0,0
@@ -45,7 +45,7 @@ uremia,,0,1
 urethane,,0,1
 urethra, jʊˈriːθrə jʊˈri·θrə,0,0
 urge, ɝːdʒ ɜrdʒ,0,0
-urged, ɝːdʒ,0,0
+urged, ɝːdʒ,1,0
 urgency, ˈɝːdʒənsi ˈɝːdʒənsi,0,0
 urgent, ˈɝːdʒənt ˈɝːdʒənt ˈɜr·dʒənt,0,0
 urgently, ˈɝːdʒəntli ˈɝːdʒəntli,0,0
@@ -55,7 +55,7 @@ uric, ˈjʊrɪk,0,0
 urinalysis,,0,1
 urinary, ˈjʊrɪneri,0,0
 urinate, ˈjʊrɪneɪt ˈjʊər·əˌneɪt,0,0
-urinating, ˈjʊrɪneɪt,0,0
+urinating, ˈjʊrɪneɪt,1,0
 urine, ˈjʊrɪn ˈjʊər·ɪn,0,0
 urman,,0,1
 urn, ɝːn ɝːn ɜrn,0,0
@@ -78,15 +78,15 @@ user, ˈjuːzɚ ˈjuːzɚ,0,0
 users, ˈjuːzɚ ˈjuːzɚ,1,0
 uses," strong ʌs strong ʌs ˌjuːˈes ˌjuːˈes ʌs, əs ˈjuˈes",1,0
 usher, ˈʌʃɚ ˈʌʃ·ər,0,0
-ushered, ˈʌʃɚ,0,0
+ushered, ˈʌʃɚ,1,0
 ushers, ˈʌʃɚ ˈʌʃ·ər,1,0
 using,,0,1
 usual, ˈjuːʒuəl ˈju·ʒu·əl,0,0
 usually, ˈjuːʒuəli,0,0
 usurp," juːˈsɝːp jʊˈsɜrp, -ˈzɜrp",0,0
 usurpation, ˌjuːsɝːˈpeɪʃən,0,0
-usurped, juːˈsɝːp,0,0
-usurping, juːˈsɝːp,0,0
+usurped, juːˈsɝːp,1,0
+usurping, juːˈsɝːp,1,0
 usurps," juːˈsɝːp jʊˈsɜrp, -ˈzɜrp",1,0
 usury, ˈjuːʒɚi -ʒɚI,0,0
 utah, ˈjuːtɑː,0,0
@@ -101,9 +101,9 @@ utilities, juːˈtɪlət̬i juːˈtɪlət̬i juːˈtɪlət̬i juˈtɪl·ɪ·t̬i
 utility, juːˈtɪlət̬i juːˈtɪlət̬i juːˈtɪlət̬i juˈtɪl·ɪ·t̬i juˈtɪl·ɪ·t̬i,0,0
 utilization, ˌjuːt̬ələˈzeɪʃən ˌju·t̬əl·əˈzeɪ·ʃən -ṱəlɪ- -ṱəlɪ-,0,0
 utilize, ˈjuːt̬əlaɪz ˈju·t̬əlˌɑɪz,0,0
-utilized, ˈjuːt̬əlaɪz,0,0
+utilized, ˈjuːt̬əlaɪz,1,0
 utilizes, ˈjuːt̬əlaɪz ˈju·t̬əlˌɑɪz,1,0
-utilizing, ˈjuːt̬əlaɪz,0,0
+utilizing, ˈjuːt̬əlaɪz,1,0
 utmost, ˈʌtmoʊst ˈʌtˌmoʊst,0,0
 utopia, juːˈtoʊpiə juˈtoʊ·pi·ə,0,0
 utopian, juːˈtoʊpiən juˈtoʊ·pi·ən,0,0
@@ -111,8 +111,8 @@ utopians,,0,1
 utter, ˈʌt̬ɚ ˈʌt̬·ər,0,0
 utterance, ˈʌt̬ɚəns,0,0
 utterances, ˈʌt̬ɚəns ˈʌt̬ɚəns,1,0
-uttered, ˈʌt̬ɚ,0,0
-uttering, ˈʌt̬ɚ,0,0
+uttered, ˈʌt̬ɚ,1,0
+uttering, ˈʌt̬ɚ,1,0
 utterly, ˈʌt̬ɚli,0,0
 utters, ˈʌt̬ɚ ˈʌt̬·ər,1,0
 uva, ˌjuːviːˈeɪ,0,0
@@ -122,13 +122,13 @@ vacancies, ˈveɪkənsi ˈveɪkənsi ˈveɪ·kən·si,1,0
 vacancy, ˈveɪkənsi ˈveɪkənsi ˈveɪ·kən·si,0,0
 vacant, ˈveɪkənt ˈveɪkənt ˈveɪkənt ˈveɪ·kənt ˈveɪ·kənt,0,0
 vacate," vəˈkeɪt ˈveɪ·keɪt, veɪˈkeɪt ˈveɪkeɪt ˈveɪkeɪt ˈveɪkeɪt",0,0
-vacated, vəˈkeɪt,0,0
-vacating, vəˈkeɪt,0,0
+vacated, vəˈkeɪt,1,0
+vacating, vəˈkeɪt,1,0
 vacation," veɪˈkeɪʃən veɪˈkeɪʃən veɪˈkeɪ·ʃən, və- veɪˈkeɪʃən veɪˈkeɪʃən",0,0
-vacationed, veɪˈkeɪʃən,0,0
+vacationed, veɪˈkeɪʃən,1,0
 vacationer, veɪˈkeɪʃənɚ,0,0
 vacationers, veɪˈkeɪʃənɚ,1,0
-vacationing, veɪˈkeɪʃən,0,0
+vacationing, veɪˈkeɪʃən,1,0
 vacations," veɪˈkeɪʃən veɪˈkeɪʃən veɪˈkeɪ·ʃən, və- veɪˈkeɪʃən veɪˈkeɪʃən",1,0
 vaccinate, ˈvæksəneɪt,0,0
 vaccinated, ˈvæksəneɪt̬ɪd,0,0
@@ -138,11 +138,11 @@ vaccine," vækˈsiːn ˈvæk·sin, vækˈsin",0,0
 vaccines," vækˈsiːn ˈvæk·sin, vækˈsin",1,0
 vacillate, ˈvæsəleɪt ˈvæs·əˌleɪt,0,0
 vacillates, ˈvæsəleɪt ˈvæs·əˌleɪt,1,0
-vacillating, ˈvæsəleɪt,0,0
+vacillating, ˈvæsəleɪt,1,0
 vacuous, ˈvækjuəs ˈvæk·ju·əs,0,0
 vacuum," ˈvækjuːm ˈvækjuːm ˈvækjuːm ˈvæk·jum, -ju·əm, -jəm",0,0
-vacuumed, ˈvækjuːm,0,0
-vacuuming, ˈvækjuːm,0,0
+vacuumed, ˈvækjuːm,1,0
+vacuuming, ˈvækjuːm,1,0
 vacuums," ˈvækjuːm ˈvækjuːm ˈvækjuːm ˈvækjuːm ˈvæk·jum, -ju·əm, -jəm",1,0
 vagabond, ˈvæɡəbɑːnd,0,0
 vagabonds, ˈvæɡəbɑːnd,1,0
@@ -178,9 +178,9 @@ valiant, ˈvæliənt ˈvæl·jənt,0,0
 valiantly, ˈvæliəntli,0,0
 valid, ˈvælɪd ˈvælɪd ˈvælɪd ˈvæl·ɪd ˈvæl·ɪd,0,0
 validate, ˈvælədeɪt ˈvælədeɪt ˈvæl·ɪˌdeɪt,0,0
-validated, ˈvælədeɪt ˈvælədeɪt,0,0
+validated, ˈvælədeɪt ˈvælədeɪt,1,0
 validates, ˈvælədeɪt ˈvælədeɪt ˈvæl·ɪˌdeɪt,1,0
-validating, ˈvælədeɪt ˈvælədeɪt,0,0
+validating, ˈvælədeɪt ˈvælədeɪt,1,0
 validation, ˌvæləˈdeɪʃən ˌvæləˈdeɪʃən ˌvæləˈdeɪʃən,0,0
 validity, vəˈlɪdət̬i vəˈlɪdət̬i,0,0
 valium, ˈvæliəm,0,0
@@ -196,7 +196,7 @@ value, ˈvæljuː ˈvæljuː ˈvæljuː ˈvæljuː ˈvæl·ju ˈvæl·ju ˈvæl�
 valued, ˈvæljuːd,0,0
 valueless, ˈvæljuːləs ˈvæljuːləs,0,0
 values, ˈvæl·juz,0,0
-valuing, ˈvæljuː ˈvæljuː,0,0
+valuing, ˈvæljuː ˈvæljuː,1,0
 valve, vælv vælv vælv,0,0
 valves, vælv vælv vælv,1,0
 vamos,,0,1
@@ -211,8 +211,8 @@ vancouver, vænˈkuːvɚ,0,0
 vandal, ˈvændəl ˈvæn·dəl,0,0
 vandalism, ˈvændəlɪzəm ˈvændəlɪzəm,0,0
 vandalize, ˈvændəlaɪz,0,0
-vandalized, ˈvændəlaɪz,0,0
-vandalizing, ˈvændəlaɪz,0,0
+vandalized, ˈvændəlaɪz,1,0
+vandalizing, ˈvændəlaɪz,1,0
 vandals, ˈvændəl ˈvæn·dəl,1,0
 vandyke,,0,1
 vane, veɪn,0,0
@@ -228,14 +228,14 @@ vanishing, ˈvænɪʃɪŋ,0,0
 vanities, ˈvænət̬i ˈvænət̬i ˈvænət̬i ˈvæn·ɪ·t̬i,1,0
 vanity, ˈvænət̬i ˈvænət̬i ˈvænət̬i ˈvæn·ɪ·t̬i,0,0
 vanquish," ˈvæŋkwɪʃ ˈvæŋ·kwɪʃ, væn-",0,0
-vanquished, ˈvæŋkwɪʃ,0,0
+vanquished, ˈvæŋkwɪʃ,1,0
 vans, væn væn væn væn,1,0
 vantage, ˈvænt̬ɪdʒ,0,0
 vapid, ˈvæpɪd,0,0
 vapor, ˈveɪpɚ ˈveɪ·pər,0,0
 vaporization, ˌveɪpɚəˈzeɪʃən ˌveɪ·pər·əˈzeɪ·ʃən,0,0
 vaporize, ˈveɪpɚaɪz ˈveɪ·pəˌrɑɪz,0,0
-vaporized, ˈveɪpɚaɪz,0,0
+vaporized, ˈveɪpɚaɪz,1,0
 vapors, ˈveɪpɚ ˈveɪpɚ ˈveɪ·pər,1,0
 vaporware, ˈveɪpɚwer,0,0
 variability, ˌveriəˈbɪlət̬i,0,0
@@ -293,8 +293,8 @@ vectors, ˈvektɚ ˈvektɚ ˈvek·tər ˈvek·tər,1,0
 veda, ˈveɪdə,0,0
 vee, viː,0,0
 veer, vɪr vɪər,0,0
-veered, vɪr,0,0
-veering, vɪr,0,0
+veered, vɪr,1,0
+veering, vɪr,1,0
 veers, vɪr vɪər,1,0
 vega,,0,1
 vegan, ˈviːɡən,0,0
@@ -317,7 +317,7 @@ vehicles," ˈviːəkəl ˈviːəkəl ˈviːəkəl ˈvi·ɪ·kəl, -hɪ·kəl ˈv
 vehicular, viːˈhɪkjəlɚ,0,0
 veil, veɪl veɪl veɪl veɪl,0,0
 veiled, veɪld veɪld,0,0
-veiling, veɪl veɪl,0,0
+veiling, veɪl veɪl,1,0
 veils, veɪl veɪl veɪl veɪl veɪl veɪl veɪl,1,0
 vein, veɪn veɪn veɪn veɪn veɪn veɪn veɪn veɪn veɪn,0,0
 veins, veɪn veɪn veɪn veɪn veɪn veɪn veɪn veɪn veɪn,1,0
@@ -341,7 +341,7 @@ veneer, vəˈnɪr vəˈnɪr vəˈnɪər vəˈnɪər,0,0
 veneers, vəˈnɪr vəˈnɪr vəˈnɪər vəˈnɪər,1,0
 venerable, ˈvenərəbəl ˈven·ər·ə·bəl,0,0
 venerate, ˈvenɚeɪt ˈven·əˌreɪt,0,0
-venerated, ˈvenɚeɪt,0,0
+venerated, ˈvenɚeɪt,1,0
 veneration, ˌvenɚˈeɪʃən,0,0
 venereal, vəˈnɪriəl,0,0
 venetian,,0,1
@@ -357,23 +357,23 @@ venom, ˈvenəm ˈvenəm ˈven·əm,0,0
 venomous, ˈvenəməs ˈvenəməs,0,0
 venous, ˈviːnəs,0,0
 vent, vent vent vent,0,0
-vented, vent vent,0,0
+vented, vent vent,1,0
 venter, ˈventɚ,0,0
 ventilate, ˈvent̬əleɪt ˈvent̬əleɪt ˈvent̬əleɪt ˈven·təlˌeɪt,0,0
 ventilated, ˈvent̬əleɪt̬ɪd ˈvent̬əleɪt̬ɪd,0,0
-ventilating, ˈvent̬əleɪt ˈvent̬əleɪt ˈvent̬əleɪt,0,0
+ventilating, ˈvent̬əleɪt ˈvent̬əleɪt ˈvent̬əleɪt,1,0
 ventilation, ˌvent̬əlˈeɪʃən ˌvent̬əlˈeɪʃən ˌvent̬əlˈeɪʃən,0,0
 ventilator, ˈvent̬əleɪɚ ˈvent̬əleɪɚ,0,0
-venting, vent vent,0,0
+venting, vent vent,1,0
 ventral, ˈventrəl ˈventrəl,0,0
 ventricular, venˈtrɪkjəlɚ,0,0
 vents, vent vent vent vent,1,0
 venture, ˈventʃɚ ˈven·tʃər,0,0
-ventured, ˈventʃɚ,0,0
+ventured, ˈventʃɚ,1,0
 ventures, ˈventʃɚ ˈven·tʃər,1,0
 venturesome, ˈventʃɚsəm,0,0
 venturi,,0,1
-venturing, ˈventʃɚ,0,0
+venturing, ˈventʃɚ,1,0
 venue, ˈvenjuː ˈvenjuː ˈven·ju,0,0
 venues, ˈvenjuː ˈvenjuː ˈven·ju,1,0
 venus, ˈviːnəs ˈviːnəs ˈvi·nəs,0,0
@@ -385,7 +385,7 @@ verandas, vəˈrændə vəˈræn·də,1,0
 verb, vɝːb vɜrb,0,0
 verbal, ˈvɝːbəl ˈvɝːbəl ˈvɝːbəl ˈvɜr·bəl ˈvɜr·bəl,0,0
 verbalize, ˈvɝːbəlaɪz,0,0
-verbalizing, ˈvɝːbəlaɪz,0,0
+verbalizing, ˈvɝːbəlaɪz,1,0
 verbally, ˈvɝːbəli ˈvɝːbəli,0,0
 verbatim, vɝːˈbeɪt̬əm vərˈbeɪ·t̬əm,0,0
 verbena, vɚˈbiːnə,0,0
@@ -404,10 +404,10 @@ verges, vɝːdʒ vɝːdʒ vɜrdʒ,1,0
 verging,,0,1
 verifiable, ˌverəˈfaɪəbəl,0,0
 verification, ˌverəfəˈkeɪʃən ˌver·ə·fɪˈkeɪ·ʃən,0,0
-verified, ˈverəfaɪ,0,0
+verified, ˈverəfaɪ,1,0
 verifies, ˈverəfaɪ ˈver·əˌfɑɪ,1,0
 verify, ˈverəfaɪ ˈver·əˌfɑɪ,0,0
-verifying, ˈverəfaɪ,0,0
+verifying, ˈverəfaɪ,1,0
 verisimilitude, ˌverəsəˈmɪlətuːd ˌver·ə·səˈmɪl·ɪˌtud,0,0
 veritable, ˈverət̬əbəl ˈver·ɪ·t̬ə·bəl,0,0
 veritably, ˈverət̬əbli,0,0
@@ -473,9 +473,9 @@ veterinarian," ˌvetərɪˈneriən ˌvet̬·ər·əˈneər·i·ən, ˌve·trəˈ
 veterinarians," ˌvetərɪˈneriən ˌvet̬·ər·əˈneər·i·ən, ˌve·trəˈneər-",1,0
 veterinary, ˈvetərəneri,0,0
 veto, ˈviːt̬oʊ ˈvi·t̬oʊ,0,0
-vetoed, ˈviːt̬oʊ,0,0
+vetoed, ˈviːt̬oʊ,1,0
 vetoes,,0,1
-vetoing, ˈviːt̬oʊ,0,0
+vetoing, ˈviːt̬oʊ,1,0
 vets, vet vet vet vet vet,1,0
 vetted,,0,1
 vetting,,0,1

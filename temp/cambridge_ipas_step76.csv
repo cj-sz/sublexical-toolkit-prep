@@ -1,11 +1,11 @@
 Word,Pronunciation,Root Word Returned,Missing
 revalue, ˌriːˈvælju,0,0
 revamp, ˌriːˈvæmp riˈvæmp,0,0
-revamped, ˌriːˈvæmp,0,0
-revamping, ˌriːˈvæmp,0,0
+revamped, ˌriːˈvæmp,1,0
+revamping, ˌriːˈvæmp,1,0
 revamps, ˌriːˈvæmp riˈvæmp,1,0
 reveal, rɪˈviːl rɪˈviːl rɪˈvil,0,0
-revealed, rɪˈviːl rɪˈviːl,0,0
+revealed, rɪˈviːl rɪˈviːl,1,0
 revealing, rɪˈviːlɪŋ rɪˈviːlɪŋ rɪˈvi·lɪŋ rɪˈvi·lɪŋ,0,0
 reveals, rɪˈviːl rɪˈviːl rɪˈvil,1,0
 revel, ˈrevəl ˈrev·əl,0,0
@@ -23,13 +23,13 @@ revenuers,,0,1
 revenues, ˈrevənuː ˈrev·əˌnu ˈrevənuː ˈrevənuː ˈrevənuː,1,0
 reverb, ˈriːvɝːb ˈriːvɝːb ˈriːvɝːb,0,0
 reverberate, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt rɪˈvɜr·bəˌreɪt,0,0
-reverberated, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt,0,0
+reverberated, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt,1,0
 reverberates, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt rɪˈvɜr·bəˌreɪt,1,0
-reverberating, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt,0,0
+reverberating, rɪˈvɝːbɚeɪt rɪˈvɝːbɚeɪt,1,0
 reverberation, rɪˌvɝːbəˈreɪʃən,0,0
 reverberations,,0,1
 revere, rɪˈvɪr rɪˈvɪər,0,0
-revered, rɪˈvɪr,0,0
+revered, rɪˈvɪr,1,0
 reverence, ˈrevɚəns,0,0
 reverend," ˈrevɚənd ˈrev·rənd, -ər·ənd",0,0
 reverent, ˈrevɚənt,0,0
@@ -40,27 +40,27 @@ reveries, ˈrevɚi ˈrev·ə·ri,1,0
 reversal, rɪˈvɝːsəl rɪˈvɝːsəl rɪˈvɜr·səl,0,0
 reversals, rɪˈvɝːsəl rɪˈvɝːsəl rɪˈvɜr·səl,1,0
 reverse, rɪˈvɝːs rɪˈvɝːs rɪˈvɜrs,0,0
-reversed, rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs,0,0
+reversed, rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs,1,0
 reverses, rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs rɪˈvɜrs,1,0
 reversible, rɪˈvɝːsəbəl rɪˈvɝːsəbəl rɪˈvɜr·sə·bəl rɪˈvɜr·sə·bəl,0,0
-reversing, rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs,0,0
+reversing, rɪˈvɝːs rɪˈvɝːs rɪˈvɝːs,1,0
 reversion, rɪˈvɝːʒən rɪˈvɝːʒən rɪˈvɜr·ʒən rɪˈvɜrʒən rɪˈvɜrʒən,0,0
 revert, rɪˈvɝːt,0,0
 reverted, rɪˈvɝːt,1,0
 reverting, rɪˈvɝːt,1,0
 reverts, rɪˈvɝːt,1,0
 review, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvju,0,0
-reviewed, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː,0,0
+reviewed, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː,1,0
 reviewer, rɪˈvjuːɚ rɪˈvjuːɚ rɪˈvju·ər,0,0
 reviewers, rɪˈvjuːɚ rɪˈvjuːɚ rɪˈvju·ər,1,0
-reviewing, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː,0,0
+reviewing, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː,1,0
 reviews, rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvjuː rɪˈvju,1,0
 revile, rɪˈvaɪl rɪˈvɑɪl,0,0
 reviled, rɪˈvaɪl rɪˈvɑɪl,1,0
 revise, rɪˈvaɪz rɪˈvaɪz rɪˈvɑɪz rɪˈvɑɪz,0,0
 revised, rɪˈvaɪzd,0,0
 revises, rɪˈvaɪz rɪˈvaɪz rɪˈvɑɪz rɪˈvɑɪz,1,0
-revising, rɪˈvaɪz rɪˈvaɪz,0,0
+revising, rɪˈvaɪz rɪˈvaɪz,1,0
 revision, rɪˈvɪʒən rɪˈvɪʒən rɪˈvɪʒ·ən,0,0
 revisionist, rɪˈvɪʒənɪst,0,0
 revisionists, rɪˈvɪʒənɪst,1,0
@@ -69,22 +69,22 @@ revisit, riːˈvɪzɪt riːˈvɪzɪt riˈvɪz·ɪt,0,0
 revisited, riːˈvɪzɪt riːˈvɪzɪt riˈvɪz·ɪt,1,0
 revisiting, riːˈvɪzɪt riːˈvɪzɪt riˈvɪz·ɪt,1,0
 revitalize, ˌriːˈvaɪt̬əlaɪz riˈvɑɪ·t̬əlˌɑɪz,0,0
-revitalized, ˌriːˈvaɪt̬əlaɪz,0,0
-revitalizing, ˌriːˈvaɪt̬əlaɪz,0,0
+revitalized, ˌriːˈvaɪt̬əlaɪz,1,0
+revitalizing, ˌriːˈvaɪt̬əlaɪz,1,0
 revival, rɪˈvaɪvəl rɪˈvaɪvəl rɪˈvaɪvəl rɪˈvɑɪ·vəl,0,0
 revivals, rɪˈvaɪvəl rɪˈvaɪvəl rɪˈvaɪvəl rɪˈvɑɪ·vəl,1,0
 revive, rɪˈvaɪv rɪˈvɑɪv,0,0
-revived, rɪˈvaɪv,0,0
+revived, rɪˈvaɪv,1,0
 revives, rɪˈvaɪv rɪˈvɑɪv,1,0
-reviving, rɪˈvaɪv,0,0
+reviving, rɪˈvaɪv,1,0
 revocable, rɪˈvoʊkəbəl,0,0
 revocation, revəˈkeɪʃən,0,0
 revoir,,0,1
 revoke, rɪˈvoʊk rɪˈvoʊk,0,0
-revoked, rɪˈvoʊk,0,0
-revoking, rɪˈvoʊk,0,0
+revoked, rɪˈvoʊk,1,0
+revoking, rɪˈvoʊk,1,0
 revolt, rɪˈvoʊlt rɪˈvoʊlt rɪˈvoʊlt rɪˈvoʊlt,0,0
-revolted, rɪˈvoʊlt rɪˈvoʊlt,0,0
+revolted, rɪˈvoʊlt rɪˈvoʊlt,1,0
 revolting, rɪˈvoʊltɪŋ rɪˈvoʊl·tɪŋ,0,0
 revolts, rɪˈvoʊlt rɪˈvoʊlt rɪˈvoʊlt rɪˈvoʊlt,1,0
 revolution, ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrev·əˈlu·ʃən ˌrev·əˈlu·ʃən,0,0
@@ -92,11 +92,11 @@ revolutionaries, ˌrevəˈluːʃəneri ˌrevəˈluːʃəneri ˌrev·əˈlu·ʃə
 revolutionary, ˌrevəˈluːʃəneri ˌrevəˈluːʃəneri ˌrev·əˈlu·ʃəˌner·i ˌrevəˈluːʃəneri,0,0
 revolutionists, ˌrevəˈluːʃəneri ˌrevəˈluːʃəneri ˌrev·əˈlu·ʃəˌner·i ˌrevəˈluːʃəneri,1,0
 revolutionize, ˌrevəˈluːʃənaɪz ˌrev·əˈlu·ʃəˌnɑɪz,0,0
-revolutionized, ˌrevəˈluːʃənaɪz,0,0
-revolutionizing, ˌrevəˈluːʃənaɪz,0,0
+revolutionized, ˌrevəˈluːʃənaɪz,1,0
+revolutionizing, ˌrevəˈluːʃənaɪz,1,0
 revolutions, ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrevəˈluːʃən ˌrev·əˈlu·ʃən ˌrev·əˈlu·ʃən,1,0
 revolve," rɪˈvɑːlv rɪˈvɑlv, -ˈvɔlv",0,0
-revolved, rɪˈvɑːlv,0,0
+revolved, rɪˈvɑːlv,1,0
 revolver," rɪˈvɑːlvɚ rɪˈvɑl·vər, -ˈvɔl-",0,0
 revolvers," rɪˈvɑːlvɚ rɪˈvɑl·vər, -ˈvɔl-",1,0
 revolves," rɪˈvɑːlv rɪˈvɑlv, -ˈvɔlv",1,0
@@ -109,16 +109,16 @@ revved, rev rev,1,0
 revving, rev rev,1,0
 rew,,0,1
 reward, rɪˈwɔːrd rɪˈwɔːrd rɪˈwɔrd rɪˈwɔrd,0,0
-rewarded, rɪˈwɔːrd,0,0
+rewarded, rɪˈwɔːrd,1,0
 rewarding, rɪˈwɔːrdɪŋ rɪˈwɔr·dɪŋ,0,0
 rewards, rɪˈwɔːrd rɪˈwɔːrd rɪˈwɔrd rɪˈwɔrd,1,0
 rewind, ˌriːˈwaɪnd ˌriːˈwaɪnd ˌriːˈwaɪnd riˈwɑɪnd,0,0
 rewire, ˌriːˈwaɪr,0,0
-rewired, ˌriːˈwaɪr,0,0
-rewiring, ˌriːˈwaɪr,0,0
+rewired, ˌriːˈwaɪr,1,0
+rewiring, ˌriːˈwaɪr,1,0
 reword, ˌriːˈwɝːd,0,0
 rework, ˌriːˈwɝːk riˈwɜrk,0,0
-reworked, ˌriːˈwɝːk,0,0
+reworked, ˌriːˈwɝːk,1,0
 reworking, ˌriːˈwɝːkɪŋ,0,0
 rewrite, ˌriːˈraɪt ˌriːˈraɪt riˈrɑɪt,0,0
 rewrites, ˌriːˈraɪt ˌriːˈraɪt riˈrɑɪt,1,0
@@ -156,10 +156,10 @@ rhodium,,0,1
 rhododendron, ˌroʊdəˈdendrən ˌroʊ·dəˈden·drən,0,0
 rhubarb, ˈruːbɑːrb ˈruːbɑːrb ˈru·bɑrb,0,0
 rhyme, raɪm rɑɪm,0,0
-rhymed, raɪm,0,0
+rhymed, raɪm,1,0
 rhymer,,0,1
 rhymes, raɪm raɪm rɑɪm,1,0
-rhyming, raɪm,0,0
+rhyming, raɪm,1,0
 rhythm, ˈrɪðəm ˈrɪðəm ˈrɪðəm ˈrɪð·əm ˈrɪð·əm ˈrɪð·əm,0,0
 rhythmic, ˈrɪðmɪk,0,0
 rhythmically, ˈrɪðmɪkəli,0,0
@@ -195,8 +195,8 @@ rickety, ˈrɪkət̬i ˈrɪk·ɪ·t̬i,0,0
 rickey,,0,1
 ricks, rɪk,1,0
 ricochet, ˈrɪkəʃeɪ ˈrɪk·əˌʃeɪ,0,0
-ricocheted, ˈrɪkəʃeɪ,0,0
-ricocheting, ˈrɪkəʃeɪ,0,0
+ricocheted, ˈrɪkəʃeɪ,1,0
+ricocheting, ˈrɪkəʃeɪ,1,0
 rid, rɪd,0,1
 ridable,,0,1
 riddance,,0,1
@@ -215,9 +215,9 @@ ridged,,0,1
 ridges, rɪdʒ rɪdʒ rɪdʒ rɪdʒ rɪdʒ,1,0
 ridgeway,,0,1
 ridicule, ˈrɪdəkjuːl ˈrɪd·ɪˌkjul,0,0
-ridiculed, ˈrɪdəkjuːl,0,0
+ridiculed, ˈrɪdəkjuːl,1,0
 ridicules, ˈrɪdəkjuːl ˈrɪd·ɪˌkjul,1,0
-ridiculing, ˈrɪdəkjuːl,0,0
+ridiculing, ˈrɪdəkjuːl,1,0
 ridiculous, rɪˈdɪkjələs rɪˈdɪk·jə·ləs,0,0
 ridiculously, rɪˈdɪkjələsli,0,0
 riding, ˈraɪdɪŋ ˈrɑɪ·dɪŋ ˈrɑɪ·dɪŋ,0,0
@@ -233,11 +233,11 @@ riffle, ˈrɪfəl,0,0
 riffraff, ˈrɪfˌræf,0,0
 riffs, rɪf rɪf rɪf,1,0
 rifle, ˈraɪfəl ˈrɑɪ·fəl,0,0
-rifled, ˈraɪfəl,0,0
+rifled, ˈraɪfəl,1,0
 rifleman,,0,1
 riflery, ˈraɪflɚi,0,0
 rifles, ˈraɪfəl ˈrɑɪ·fəl,1,0
-rifling, ˈraɪfəl,0,0
+rifling, ˈraɪfəl,1,0
 rift, rɪft rɪft rɪft,0,0
 rifts, rɪft rɪft rɪft,1,0
 rig, rɪɡ rɪɡ rɪɡ rɪɡ,0,0
@@ -247,7 +247,7 @@ rigel,,0,1
 rigged, rɪɡ rɪɡ rɪɡ rɪɡ,1,0
 rigging, ˈrɪɡɪŋ ˈrɪɡɪŋ ˈrɪɡ·ɪŋ,0,0
 right, raɪt raɪt raɪt raɪt raɪt raɪt raɪt raɪt rɑɪt rɑɪt rɑɪt rɑɪt,0,0
-righted, raɪt raɪt,0,0
+righted, raɪt raɪt,1,0
 righteous, ˈraɪtʃəs ˈraɪtʃəs ˈrɑɪ·tʃəs,0,0
 righteously, ˈraɪtʃəsli ˈraɪtʃəsli,0,0
 righteousness, ˈraɪtʃəsnəs,0,0
@@ -303,10 +303,10 @@ rink, rɪŋk rɪŋk,0,0
 rinker,,0,1
 rinks, rɪŋk rɪŋk,1,0
 rinse, rɪns rɪns,0,0
-rinsing, rɪns,0,0
+rinsing, rɪns,1,0
 rio,,0,1
 riot, ˈraɪət ˈraɪət ˈrɑɪ·ət ˈrɑɪ·ət,0,0
-rioted, ˈraɪət,0,0
+rioted, ˈraɪət,1,0
 rioters, ˈraɪət̬ɚ,1,0
 rioting, ˈraɪət̬ɪŋ,0,0
 riotous, ˈraɪət̬əs,0,0
@@ -315,8 +315,8 @@ rip, rɪp rɪp rɪp rɪp rɪp rɪp,0,0
 ripa,,0,1
 ripe, raɪp raɪp raɪp raɪp rɑɪp rɑɪp,0,0
 ripen, ˈraɪpən ˈraɪpən,0,0
-ripened, ˈraɪpən ˈraɪpən,0,0
-ripening, ˈraɪpən ˈraɪpən,0,0
+ripened, ˈraɪpən ˈraɪpən,1,0
+ripening, ˈraɪpən ˈraɪpən,1,0
 ripoff,,0,1
 ripoffs,,0,1
 riposte, rɪˈpoʊst,0,0
@@ -324,9 +324,9 @@ ripped, rɪpt rɪpt,0,0
 ripper,,0,1
 ripping,,0,1
 ripple, ˈrɪpəl ˈrɪpəl ˈrɪpəl ˈrɪp·əl ˈrɪp·əl,0,0
-rippled, ˈrɪpəl,0,0
+rippled, ˈrɪpəl,1,0
 ripples, ˈrɪpəl ˈrɪpəl ˈrɪpəl ˈrɪp·əl ˈrɪp·əl,1,0
-rippling, ˈrɪpəl,0,0
+rippling, ˈrɪpəl,1,0
 rips, rɪp rɪp rɪp ˌɑːraɪˈpiː rɪp rɪp rɪp,1,0
 rise, raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz rɑɪz rɑɪz rɑɪz rɑɪz rɑɪz rɑɪz,0,0
 risen,,0,1
@@ -334,10 +334,10 @@ riser, ˈraɪzɚ ˈraɪzɚ ˈrɑɪ·zər,0,1
 rises, raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz raɪz rɑɪz rɑɪz rɑɪz rɑɪz rɑɪz rɑɪz,1,0
 rising, ˈraɪzɪŋ,0,0
 risk, rɪsk rɪsk rɪsk rɪsk,0,0
-risked, rɪsk rɪsk,0,0
+risked, rɪsk rɪsk,1,0
 riskier, ˈrɪski,1,0
 riskiest, ˈrɪski,1,0
-risking, rɪsk rɪsk,0,0
+risking, rɪsk rɪsk,1,0
 risks, rɪsk rɪsk rɪsk rɪsk rɪsk rɪsk rɪsk rɪsk,1,0
 risky, ˈrɪski,0,0
 risotto, rɪˈzɑːt̬oʊ,0,0
@@ -371,7 +371,7 @@ rivers, ˈrɪvɚ ˈrɪvɚ ˈrɪvɚ ˈrɪvɚ ˈrɪv·ər ˈrɪv·ər,1,0
 riverside, ˈrɪvɚsaɪd ˈrɪv·ərˌsɑɪd,0,0
 rives,,0,1
 rivet, ˈrɪvɪt ˈrɪv·ɪt,0,0
-riveted, ˈrɪvɪt ˈrɪvɪt,0,0
+riveted, ˈrɪvɪt ˈrɪvɪt,1,0
 riveting, ˈrɪvɪt̬ɪŋ ˈrɪv·ɪ·t̬ɪŋ,0,0
 rivets, ˈrɪvɪt ˈrɪvɪt ˈrɪv·ɪt,1,0
 riviera, rɪviˈerə,0,0
@@ -397,17 +397,17 @@ roadway, ˈroʊdweɪ ˈroʊdˌweɪ,0,0
 roadways, ˈroʊdweɪ ˈroʊdˌweɪ,1,0
 roadwork, ˈroʊdwɝːk,0,0
 roam, roʊm roʊm roʊm roʊm roʊm,0,0
-roamed, roʊm roʊm roʊm roʊm,0,0
+roamed, roʊm roʊm roʊm roʊm,1,0
 roaming, ˈroʊmɪŋ,0,0
 roams, roʊm roʊm roʊm roʊm roʊm,1,0
 roan, roʊn,0,0
 roanoke,,0,1
 roar," rɔːr rɔːr rɔːr rɔr, roʊr rɔr, roʊr",0,0
-roared, rɔːr rɔːr rɔːr,0,0
+roared, rɔːr rɔːr rɔːr,1,0
 roaring," ˈrɔːrɪŋ ˈrɔr·ɪŋ, ˈroʊr-",0,0
 roars," rɔːr rɔːr rɔːr rɔr, roʊr rɔr, roʊr",1,0
 roast, roʊst roʊst roʊst roʊst roʊst,0,0
-roasted, roʊst roʊst roʊst roʊst,0,0
+roasted, roʊst roʊst roʊst roʊst,1,0
 roaster, ˈroʊstɚ ˈroʊstɚ,0,0
 roasting, ˈroʊstɪŋ,0,0
 roasts, roʊst roʊst roʊst roʊst roʊst,1,0
@@ -444,16 +444,16 @@ rochester,,0,1
 rock, rɑːk rɑːk rɑːk rɑːk rɑːk rɑːk rɑk rɑk rɑk,0,0
 rockabilly, ˈrɑːkəˌbɪli,0,0
 rockaway,,0,1
-rocked, rɑːk rɑːk rɑːk rɑːk,0,0
+rocked, rɑːk rɑːk rɑːk rɑːk,1,0
 rocker, ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑk·ər ˈrɑk·ər,0,0
 rockers, ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑːkɚ ˈrɑk·ər ˈrɑk·ər,1,0
 rocket, ˈrɑːkɪt ˈrɑːkɪt ˈrɑːkɪt ˈrɑk·ɪt,0,0
-rocketed, ˈrɑːkɪt,0,0
-rocketing, ˈrɑːkɪt,0,0
+rocketed, ˈrɑːkɪt,1,0
+rocketing, ˈrɑːkɪt,1,0
 rocketry,,0,1
 rockets, ˈrɑːkɪt ˈrɑːkɪt ˈrɑːkɪt ˈrɑk·ɪt,1,0
 rockies,,0,1
-rocking, rɑːk rɑːk rɑːk rɑːk,0,0
+rocking, rɑːk rɑːk rɑːk rɑːk,1,0
 rockman,,0,1
 rocks,,0,1
 rocky, ˈrɑːki ˈrɑːki ˈrɑːki ˈrɑk·i ˈrɑk·i,0,0

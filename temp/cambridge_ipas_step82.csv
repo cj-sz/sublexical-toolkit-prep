@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
 simulated, ˈsɪmjəleɪt̬ɪd ˈsɪm·jəˌleɪ·t̬ɪd,0,0
 simulates, ˈsɪmjəleɪt ˈsɪm·jəˌleɪt,1,0
-simulating, ˈsɪmjəleɪt,0,0
+simulating, ˈsɪmjəleɪt,1,0
 simulation, ˌsɪmjəˈleɪʃən ˌsɪmjəˈleɪʃən ˌsɪm·jəˈleɪ·ʃən,0,0
 simulations, ˌsɪmjəˈleɪʃən ˌsɪmjəˈleɪʃən ˌsɪm·jəˈleɪ·ʃən,1,0
 simulator, ˈsɪmjəleɪt̬ɚ,0,0
@@ -28,11 +28,11 @@ singers, ˈsɪŋɚ ˈsɪŋ·ər,1,0
 singh,,0,1
 singing, ˈsɪŋɪŋ,0,0
 single, ˈsɪŋɡəl ˈsɪŋɡəl ˈsɪŋɡəl ˈsɪŋ·ɡəl ˈsɪŋ·ɡəl ˈsɪŋ·ɡəl ˈsɪŋ·ɡəl,0,0
-singled, ˈsɪŋɡəl,0,0
+singled, ˈsɪŋɡəl,1,0
 singlehandedly,,0,1
 singles, ˈsɪŋ·ɡəlz,0,0
 singleton, ˈsɪŋɡəltən ˈsɪŋɡəltən ˈsɪŋɡəltən,0,0
-singling, ˈsɪŋɡəl,0,0
+singling, ˈsɪŋɡəl,1,0
 singly, ˈsɪŋɡli ˈsɪŋ·ɡli,0,0
 sings, sɪŋ sɪŋ sɪŋ sɪŋ,1,0
 singular, ˈsɪŋɡjəlɚ ˈsɪŋɡjəlɚ ˈsɪŋɡjəlɚ ˈsɪŋ·ɡjə·lər ˈsɪŋ·ɡjə·lər,0,0
@@ -54,8 +54,8 @@ sioux, suː,0,0
 sip, sɪp sɪp,0,0
 sipes,,0,1
 siphon, ˈsaɪfən ˈsaɪfən ˈsɑɪ·fən,0,0
-siphoned, ˈsaɪfən,0,0
-siphoning, ˈsaɪfən,0,0
+siphoned, ˈsaɪfən,1,0
+siphoning, ˈsaɪfən,1,0
 sipped,,0,1
 sipping,,0,1
 sipple,,0,1
@@ -77,9 +77,9 @@ sitar, sɪˈtɑːr,0,0
 sitcom, ˈsɪtkɑːm ˈsɪtˌkɑm,0,0
 sitcoms, ˈsɪtkɑːm ˈsɪtˌkɑm,1,0
 site, saɪt saɪt saɪt sɑɪt,0,0
-sited, saɪt,0,0
+sited, saɪt,1,0
 sites, saɪt saɪt saɪt saɪt saɪt sɑɪt,1,0
-siting, saɪt,0,0
+siting, saɪt,1,0
 sits, ˈbeɪbisɪt ˈbeɪbisɪt ˈbeɪ·biˌsɪt,1,0
 sitter, ˈsɪt̬ɚ ˈsɪt̬ɚ ˈsɪt̬ɚ ˈsɪt̬·ər,0,0
 sitters, ˈsɪt̬ɚ ˈsɪt̬ɚ ˈsɪt̬ɚ ˈsɪt̬·ər,1,0
@@ -109,16 +109,16 @@ sizeable, ˈsaɪzəbəl,0,0
 sized,  -saɪzd,1,0
 sizer,,0,1
 sizes, saɪz saɪz saɪz sɑɪz sɑɪz,1,0
-sizing, saɪz,0,0
+sizing, saɪz,1,0
 sizzle, ˈsɪzəl ˈsɪzəl ˈsɪzəl ˈsɪzəl ˈsɪz·əl,0,0
-sizzled, ˈsɪzəl ˈsɪzəl ˈsɪzəl ˈsɪzəl,0,0
+sizzled, ˈsɪzəl ˈsɪzəl ˈsɪzəl ˈsɪzəl,1,0
 sizzler, ˈsɪzlɚ,0,0
 sizzling, ˈsɪzəlɪŋ ˈsɪzəlɪŋ ˈsɪzəlɪŋ ˈsɪzəlɪŋ ˈsɪzəlɪŋ,0,0
 skaff,,0,1
 skate, skeɪt skeɪt skeɪt,0,0
 skateboard," ˈskeɪtbɔːrd ˈskeɪtˌbɔrd, -ˌboʊrd",0,0
 skateboarding, ˈskeɪtˌbɔːrdɪŋ,0,0
-skated, skeɪt,0,0
+skated, skeɪt,1,0
 skater, ˈskeɪt̬ɚ,0,0
 skaters, ˈskeɪt̬ɚ,1,0
 skates, skeɪt skeɪt skeɪt,1,0
@@ -142,22 +142,22 @@ skeptics, ˈskeptɪk ˈskep·tɪk,1,0
 sketch, sketʃ sketʃ sketʃ sketʃ sketʃ sketʃ,0,0
 sketchbook, ˈsketʃpæd,1,0
 sketchbooks, ˈsketʃpæd,1,0
-sketched, sketʃ,0,0
+sketched, sketʃ,1,0
 sketches, sketʃ sketʃ sketʃ sketʃ sketʃ sketʃ,1,0
-sketching, sketʃ,0,0
+sketching, sketʃ,1,0
 sketchy, ˈsketʃi ˈsketʃi ˈsketʃ·i,0,0
 skew, skjuː skju skjuː,0,0
 skewed, skjuːd skjuːd skjud skjud,0,0
 skewer, ˈskjuːɚ ˈskjuːɚ ˈskju·ər,0,0
-skewered, ˈskjuːɚ ˈskjuːɚ,0,0
+skewered, ˈskjuːɚ ˈskjuːɚ,1,0
 skewers, ˈskjuːɚ ˈskjuːɚ ˈskju·ər,1,0
-skewing, skjuː,0,0
+skewing, skjuː,1,0
 ski, skiː ski,0,0
 skid, skɪd skɪd,0,0
 skidded, skɪd skɪd,1,0
 skidding, skɪd skɪd,1,0
 skids, skɪd skɪd,1,0
-skied, skiː,0,0
+skied, skiː,1,0
 skier, ˈskiːɚ,0,0
 skiers, ˈskiːɚ,1,0
 skies,,0,1
@@ -178,7 +178,7 @@ skimmers,,0,1
 skimming,,0,1
 skimp, skɪmp skɪmp,0,0
 skimpiest, ˈskɪmpi ˈskɪmpi ˈskɪm·pi ˈskɪm·pi,1,0
-skimping, skɪmp,0,0
+skimping, skɪmp,1,0
 skimpy, ˈskɪmpi ˈskɪmpi ˈskɪm·pi ˈskɪm·pi,0,0
 skin, skɪn skɪn skɪn skɪn skɪn skɪn skɪn skɪn skɪn,0,0
 skinflint, ˈskɪnflɪnt,0,0
@@ -201,10 +201,10 @@ skippy,,0,1
 skips, skɪp skɪp skɪp skɪp skɪp skɪp skɪp skɪp skɪp,1,0
 skirmish, ˈskɝːmɪʃ ˈskɝːmɪʃ ˈskɜr·mɪʃ,0,0
 skirmishes, ˈskɝːmɪʃ ˈskɝːmɪʃ ˈskɜr·mɪʃ,1,0
-skirmishing, ˈskɝːmɪʃ ˈskɝːmɪʃ,0,0
+skirmishing, ˈskɝːmɪʃ ˈskɝːmɪʃ,1,0
 skirt, skɝːt skɝːt skɝːt skɝːt ˈskɜrt,0,0
-skirted, skɝːt skɝːt,0,0
-skirting, skɝːt skɝːt,0,0
+skirted, skɝːt skɝːt,1,0
+skirting, skɝːt skɝːt,1,0
 skirts, skɝːt skɝːt skɝːt skɝːt ˈskɜrt,1,0
 skis, skiː ski,1,0
 skit, skɪt skɪt,0,0
@@ -215,7 +215,7 @@ skittles,,0,1
 skoal,,0,1
 skulduggery, ˌskʌlˈdʌɡɚi,0,0
 skulk, skʌlk skʌlk,0,0
-skulking, skʌlk,0,0
+skulking, skʌlk,1,0
 skulks, skʌlk skʌlk,1,0
 skull, skʌl skʌl,0,0
 skullcap, ˈskʌlkæp ˈskʌlˌkæp,0,0
@@ -234,8 +234,8 @@ skylight, ˈskaɪlaɪt ˈskɑɪˌlɑɪt,0,0
 skylights, ˈskaɪlaɪt ˈskɑɪˌlɑɪt,1,0
 skyline, ˈskaɪlaɪn ˈskɑɪˌlɑɪn,0,0
 skyrocket, ˈskaɪˌrɑːkɪt ˈskɑɪˌrɑk·ɪt -ˌrɑːkɪt,0,0
-skyrocketed, ˈskaɪˌrɑːkɪt,0,0
-skyrocketing, ˈskaɪˌrɑːkɪt,0,0
+skyrocketed, ˈskaɪˌrɑːkɪt,1,0
+skyrocketing, ˈskaɪˌrɑːkɪt,1,0
 skyrockets, ˈskaɪˌrɑːkɪt ˈskɑɪˌrɑk·ɪt -ˌrɑːkɪt,1,0
 skyscraper, ˈskaɪˌskreɪpɚ ˈskɑɪˌskreɪ·pər,0,0
 skyscrapers, ˈskaɪˌskreɪpɚ ˈskɑɪˌskreɪ·pər,1,0
@@ -246,10 +246,10 @@ skywriting,,0,1
 slab, slæb slæb,0,0
 slabs, slæb slæb,1,0
 slack, slæk slæk slæk slæk,0,0
-slacked, slæk,0,0
+slacked, slæk,1,0
 slacken, ˈslækən ˈslækən ˈslæk·ən ˈslæk·ən,0,0
-slackened, ˈslækən ˈslækən,0,0
-slackening, ˈslækən ˈslækən,0,0
+slackened, ˈslækən ˈslækən,1,0
+slackening, ˈslækən ˈslækən,1,0
 slacker, ˈslækɚ ˈslæk·ər,0,0
 slackers, ˈslækɚ ˈslæk·ər,1,0
 slackness, ˈslæknəs ˈslæknəs ˈslæknəs,0,0
@@ -264,9 +264,9 @@ slammer, ˈslæmɚ ˈslæm·ər,0,0
 slamming,,0,1
 slams, slæm slæm slæm,1,0
 slander, ˈslændɚ ˈslæn·dər,0,0
-slandered, ˈslændɚ,0,0
+slandered, ˈslændɚ,1,0
 slanderer, ˈslændɚɚ,0,0
-slandering, ˈslændɚ,0,0
+slandering, ˈslændɚ,1,0
 slanderous, ˈslændɚəs,0,0
 slanders, ˈslændɚ ˈslæn·dər,1,0
 slane,,0,1
@@ -282,27 +282,27 @@ slapping,,0,1
 slaps, slæp slæp slæp slæp slæp slæp slæp,1,0
 slapstick, ˈslæpstɪk ˈslæpˌstɪk,0,0
 slash, slæʃ slæʃ slæʃ slæʃ slæʃ,0,0
-slashed, slæʃ slæʃ,0,0
+slashed, slæʃ slæʃ,1,0
 slasher, ˈslæʃɚ,0,0
 slashes, slæʃ slæʃ slæʃ slæʃ slæʃ,1,0
-slashing, slæʃ slæʃ,0,0
+slashing, slæʃ slæʃ,1,0
 slat, slæt slæt,0,0
 slate, sleɪt sleɪt sleɪt sleɪt sleɪt sleɪt,0,0
-slated, sleɪt sleɪt sleɪt,0,0
+slated, sleɪt sleɪt sleɪt,1,0
 slater,,0,1
 slaters,,0,1
 slates, sleɪt sleɪt sleɪt sleɪt sleɪt sleɪt sleɪt,1,0
 slather, ˈslæðɚ,0,0
-slathered, ˈslæðɚ,0,0
-slathering, ˈslæðɚ,0,0
-slating, sleɪt sleɪt sleɪt,0,0
+slathered, ˈslæðɚ,1,0
+slathering, ˈslæðɚ,1,0
+slating, sleɪt sleɪt sleɪt,1,0
 slats, slæt slæt,1,0
 slattery,,0,1
 slaughter, ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɔ·t̬ər ˈslɔ·t̬ər,0,0
 slaughtered,,0,1
 slaughterhouse, ˈslɑːt̬ɚhaʊs ˈslɔ·t̬ərˌhɑʊs,0,0
 slaughterhouses, ˈslɑːt̬ɚhaʊs ˈslɔ·t̬ərˌhɑʊs,1,0
-slaughtering, ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɑːt̬ɚ,0,0
+slaughtering, ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɑːt̬ɚ,1,0
 slaughters, ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɑːt̬ɚ ˈslɔ·t̬ər ˈslɔ·t̬ər,1,0
 slav, slɑːv,0,0
 slave, sleɪv sleɪv,0,0
@@ -361,9 +361,9 @@ slice, slaɪs slaɪs slaɪs slaɪs slaɪs slɑɪs slɑɪs,0,0
 sliced, slaɪst,0,0
 slicer, ˈslaɪsɚ,0,0
 slices, slaɪs slaɪs slaɪs slaɪs slaɪs slɑɪs slɑɪs slɑɪs,1,0
-slicing, slaɪs slaɪs slaɪs slaɪs,0,0
+slicing, slaɪs slaɪs slaɪs slaɪs,1,0
 slick, slɪk slɪk slɪk slɪk slɪk slɪk slɪk,0,0
-slicked, slɪk,0,0
+slicked, slɪk,1,0
 slicker, ˈslɪkɚ ˈslɪk·ər,0,0
 slickers, ˈslɪkɚ ˈslɪk·ər,1,0
 slickest, slɪk slɪk slɪk slɪk slɪk slɪk slɪk,1,0
@@ -403,7 +403,7 @@ slips, slɪp slɪp slɪp slɪp slɪp slɪp slɪp slɪp slɪp slɪp slɪp slɪp s
 slipshod, ˈslɪpʃɑːd ˈslɪpˌʃɑd,0,0
 slit, slɪt slɪt,0,0
 slither, ˈslɪðɚ ˈslɪð·ər,0,0
-slithering, ˈslɪðɚ,0,0
+slithering, ˈslɪðɚ,1,0
 slits, slɪt slɪt,1,0
 slitting,,0,1
 sliver, ˈslɪvɚ ˈslɪv·ər ˈslɪv·ər,0,0
@@ -412,7 +412,7 @@ slivovitz,,0,1
 sloan,,0,1
 slob, slɑːb slɑb slɑb,0,0
 slobber, ˈslɑːbɚ ˈslɑb·ər,0,0
-slobbering, ˈslɑːbɚ,0,0
+slobbering, ˈslɑːbɚ,1,0
 slobs, slɑːb slɑb slɑb,1,0
 sloe, sloʊ,0,0
 slog," slɑːɡ slɑːɡ slɑːɡ slɑɡ, slɔɡ",0,0
@@ -432,24 +432,24 @@ sloppily, ˈslɑːpəli ˈslɑːpəli ˈslɑːpəli ˈslɑːpəli ˈslɑp·ə·l
 sloppiness, ˈslɑːpinəs ˈslɑːpinəs ˈslɑːpinəs ˈslɑːpinəs ˈslɑp·i·nəs,0,0
 sloppy, ˈslɑːpi ˈslɑːpi ˈslɑːpi ˈslɑːpi ˈslɑːpi ˈslɑp·i ˈslɑp·i,0,0
 slosh," slɑːʃ slɑʃ, slɔʃ",0,0
-sloshing, slɑːʃ,0,0
+sloshing, slɑːʃ,1,0
 slot, slɑːt slɑːt slɑːt slɑːt slɑːt slɑt slɑt,0,0
 sloth," slɑːθ slɑːθ slɔθ, sloʊθ",0,0
 slots, slɑːt slɑːt slɑːt slɑːt slɑːt slɑt slɑt,1,0
 slotted, ˈslɑːt̬ɪd,0,0
 slouch, slaʊtʃ slɑʊtʃ,0,0
 slouches, slaʊtʃ slɑʊtʃ,1,0
-slouching, slaʊtʃ,0,0
+slouching, slaʊtʃ,1,0
 slough, slʌf,0,0
 slovenian, sloʊˈviːniən,0,0
 slovenly, ˈslʌvənli ˈslʌv·ən·li,0,0
 slow, sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ,0,0
 slowdown, ˈsloʊdaʊn ˈsloʊdaʊn ˈsloʊˌdɑʊn,0,0
 slowdowns, ˈsloʊdaʊn ˈsloʊdaʊn ˈsloʊˌdɑʊn,1,0
-slowed, sloʊ,0,0
+slowed, sloʊ,1,0
 slower, sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ,1,0
 slowest, sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ sloʊ,1,0
-slowing, sloʊ,0,0
+slowing, sloʊ,1,0
 slowly, ˈsloʊli,0,0
 slowness, ˈsloʊnəs ˈsloʊnəs ˈsloʊnəs,0,0
 slowpoke, ˈsloʊpoʊk,0,0
@@ -464,13 +464,13 @@ slugging,,0,1
 sluggish, ˈslʌɡɪʃ ˈslʌɡ·ɪʃ,0,0
 slugs, slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ slʌɡ,1,0
 sluice, sluːs,0,0
-sluicing, sluːs,0,0
+sluicing, sluːs,1,0
 slum, slʌm slʌm slʌm,0,0
 slumber, ˈslʌmbɚ ˈslʌm·bər,0,0
-slumbering, ˈslʌmbɚ,0,0
+slumbering, ˈslʌmbɚ,1,0
 slump, slʌmp slʌmp slʌmp slʌmp slʌmp,0,0
 slumped, slʌmpt,0,0
-slumping, slʌmp slʌmp,0,0
+slumping, slʌmp slʌmp,1,0
 slumps, slʌmp slʌmp slʌmp slʌmp slʌmp,1,0
 slums, slʌm slʌm slʌm slʌm,1,0
 slung, slʌŋ slʌŋ,0,0

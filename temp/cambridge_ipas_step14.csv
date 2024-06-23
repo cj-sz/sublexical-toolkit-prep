@@ -10,9 +10,9 @@ canuck," kəˈnʌk kəˈnʌk, -ˈnʊk",0,0
 canvas, ˈkænvəs ˈkænvəs ˈkænvəs ˈkæn·vəs ˈkæn·vəs,0,0
 canvases, ˈkænvəs ˈkænvəs ˈkænvəs ˈkænvəs ˈkænvəs ˈkæn·vəs ˈkæn·vəs,1,0
 canvass, ˈkænvəs ˈkænvəs ˈkænvəs ˈkæn·vəs,0,0
-canvassed, ˈkænvəs ˈkænvəs ˈkænvəs,0,0
+canvassed, ˈkænvəs ˈkænvəs ˈkænvəs,1,0
 canvasses, ˈkænvəs ˈkænvəs ˈkænvəs ˈkæn·vəs,1,0
-canvassing, ˈkænvəs ˈkænvəs ˈkænvəs,0,0
+canvassing, ˈkænvəs ˈkænvəs ˈkænvəs,1,0
 canyon, ˈkænjən ˈkæn·jən,0,0
 canyons, ˈkænjən ˈkæn·jən,1,0
 cap, kæp kæp kæp kæp kæp kæp kæp kæp kæp kæp kæp kæp kæp,0,0
@@ -44,7 +44,7 @@ capitalization, ˌkæpət̬ələˈzeɪʃən ˌkæpət̬ələˈzeɪʃən -ṱəl-
 capitalize, ˈkæpət̬əlaɪz ˈkæpət̬əlaɪz,0,0
 capitalized,,0,1
 capitalizes, ˈkæpət̬əlaɪz ˈkæpət̬əlaɪz,1,0
-capitalizing, ˈkæpət̬əlaɪz ˈkæpət̬əlaɪz,0,0
+capitalizing, ˈkæpət̬əlaɪz ˈkæpət̬əlaɪz,1,0
 capitals, ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬əl ˈkæpət̬əl ˈkæp·ɪ·t̬əl ˈkæp·ɪ·t̬əl ˈkæp·ɪ·t̬əl,1,0
 capitan,,0,1
 capitano,,0,1
@@ -52,7 +52,7 @@ capitol,,0,1
 capitoline,,0,1
 capitols,,0,1
 capitulate, kəˈpɪtʃəleɪt kəˈpɪtʃəleɪt kəˈpɪtʃ·əˌleɪt,0,0
-capitulated, kəˈpɪtʃəleɪt kəˈpɪtʃəleɪt,0,0
+capitulated, kəˈpɪtʃəleɪt kəˈpɪtʃəleɪt,1,0
 capitulation, kəˌpɪtʃəˈleɪʃən kəˌpɪtʃəˈleɪʃən,0,0
 caplan,,0,1
 caplin,,0,1
@@ -75,20 +75,20 @@ capron,,0,1
 caps,,0,1
 capsaicin, kæpˈseɪɪsɪn,0,0
 capsize, kæpˈsaɪz ˈkæpˌsɑɪz,0,0
-capsized, kæpˈsaɪz,0,0
+capsized, kæpˈsaɪz,1,0
 capstan, ˈkæpstən ˈkæpstən,0,0
 capstone, ˈkæpstoʊn ˈkæpstoʊn,0,0
 capsule," ˈkæpsəl ˈkæpsəl ˈkæpsəl ˈkæp·səl, -sul ˈkæp·səl, -sul",0,0
 capsules," ˈkæpsəl ˈkæpsəl ˈkæpsəl ˈkæp·səl, -sul ˈkæp·səl, -sul",1,0
 captain, ˈkæptən ˈkæptən ˈkæptən ˈkæp·tən ˈkæp·tən ˈkæp·tən ˈkæp·tən,0,0
-captaining, ˈkæptən,0,0
+captaining, ˈkæptən,1,0
 captains, ˈkæptən ˈkæptən ˈkæptən ˈkæp·tən ˈkæp·tən ˈkæp·tən ˈkæp·tən,1,0
 caption, ˈkæpʃən ˈkæp·ʃən,0,0
 captioned, ˈkæpʃən ˈkæp·ʃən,1,0
 captioning, ˈkæpʃən ˈkæp·ʃən,1,0
 captions, ˈkæpʃən ˈkæp·ʃən,1,0
 captivate, ˈkæptəveɪt ˈkæp·təˌveɪt,0,0
-captivated, ˈkæptəveɪt,0,0
+captivated, ˈkæptəveɪt,1,0
 captivates, ˈkæptəveɪt ˈkæp·təˌveɪt,1,0
 captivating, ˈkæptəveɪt̬ɪŋ,0,0
 captive, ˈkæptɪv ˈkæp·tɪv,0,0
@@ -97,16 +97,16 @@ captivity, kæpˈtɪvət̬i,0,0
 captor, ˈkæptɚ,0,0
 captors, ˈkæptɚ,1,0
 capture, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæp·tʃər ˈkæp·tʃər,0,0
-captured, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ,0,0
+captured, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ,1,0
 captures, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæp·tʃər ˈkæp·tʃər,1,0
-capturing, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ,0,0
+capturing, ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ ˈkæptʃɚ,1,0
 caput, ˈkeɪpət,0,0
 car, kɑːr kɑːr kɑːr kɑːr kɑr kɑr,0,0
 caracas, kəˈrɑːkəs,0,0
 carafe," kəˈræf kəˈræf, -ˈrɑf",0,0
 caramel, ˈkɑːrməl ˈkɑːrməl ˈkɑr·məl,0,0
 caramelize, ˈkɑːrməlaɪz ˈkɑːrməlaɪz,0,0
-caramelized, ˈkɑːrməlaɪz ˈkɑːrməlaɪz,0,0
+caramelized, ˈkɑːrməlaɪz ˈkɑːrməlaɪz,1,0
 carat, ˈkerət ˈkerət ˈkær·ət,0,0
 carats, ˈkerət ˈkerət ˈkær·ət,1,0
 caravan, ˈkerəvæn ˈkerəvæn ˈkerəvæn ˈkær·əˌvæn,0,0
@@ -139,7 +139,7 @@ carcinogens, kɑːrˈsɪnədʒən kɑrˈsɪn·ə·dʒən,1,0
 carcinoma, kɑːrsəˈnoʊmə kɑr·səˈnoʊ·mə,0,0
 card, kɑːrd kɑːrd kɑːrd kɑːrd kɑːrd kɑːrd kɑːrd kɑːrd kɑːrd kɑrd kɑrd kɑrd kɑrd,0,0
 cardboard," ˈkɑːrdbɔːrd ˈkɑrdˌbɔrd, -ˌboʊrd",0,0
-carded, kɑːrd,0,0
+carded, kɑːrd,1,0
 carder,,0,1
 cardholder, ˈkɑːrdˌhoʊldɚ ˈkɑːrdˌhoʊldɚ,0,0
 cardiac, ˈkɑːrdiæk ˈkɑr·diˌæk,0,0
@@ -156,12 +156,12 @@ cardiovascular, ˌkɑːrdioʊˈvæskjəlɚ ˌkɑr·di·oʊˈvæs·kjə·lər,0,0
 cardon,,0,1
 cards, kɑrdz,0,0
 care, ker ker ker ker keər keər,0,0
-cared, ker ker ker ker ker ker,0,0
+cared, ker ker ker ker ker ker,1,0
 careen, kəˈriːn kəˈrin,0,0
-careened, kəˈriːn,0,0
-careening, kəˈriːn,0,0
+careened, kəˈriːn,1,0
+careening, kəˈriːn,1,0
 career, kəˈrɪr kəˈrɪər,0,0
-careering, kəˈrɪr,0,0
+careering, kəˈrɪr,1,0
 careers, kəˈrɪrz,0,0
 carefree, ˈkerfriː ˈkeərˌfri,0,0
 careful, ˈkerfəl ˈkeər·fəl,0,0
@@ -174,7 +174,7 @@ carelessness, ˈkerləsnəs,0,0
 carer, ˈkerɚ,0,0
 cares, ker ker ker ker ker ker ker ker ker ker ker ker ker keər keər,1,0
 caress, kəˈres kəˈres,0,0
-caressed, kəˈres,0,0
+caressed, kəˈres,1,0
 caresses, kəˈres kəˈres,1,0
 caressing, kəˈresɪŋ,0,0
 caretaker, ˈkerˌteɪkɚ ˈkerˌteɪkɚ ˈkeərˌteɪ·kər ˈkeərˌteɪ·kər ˈkeərˌteɪ·kər,0,0
@@ -187,7 +187,7 @@ caribbean," ˌkerɪˈbiːən ˌkerɪˈbiːən ˌkerɪˈbiːən ˌkær·əˈbi·�
 caribe,,0,1
 caribou, ˈkerɪbuː ˈkær·əˌbu,0,0
 caricature," ˈkerəkətʃʊr ˈkær·ɪ·kəˌtʃʊər, -tʃər",0,0
-caricatured, ˈkerəkətʃʊr,0,0
+caricatured, ˈkerəkətʃʊr,1,0
 caricatures," ˈkerəkətʃʊr ˈkær·ɪ·kəˌtʃʊər, -tʃər",1,0
 caricaturist, ˌkerəkəˈtʃʊrɪst,0,0
 carillon, ˈkærəlɑːn,0,0
@@ -240,7 +240,7 @@ carotene, ˈkerətiːn,0,0
 carotid, kəˈrɑːt̬ɪd,0,0
 carouse, kəˈraʊz kəˈrɑʊz,0,0
 carousel, ˌkerəˈsel ˌkerəˈsel ˌkær·əˈsel ˌkær·əˈsel,0,0
-carousing, kəˈraʊz,0,0
+carousing, kəˈraʊz,1,0
 carp, kɑːrp kɑrp,0,0
 carpal, ˈkɑːrpəl,0,0
 carpenter, ˈkɑːrpɪnt̬ɚ ˈkɑr·pən·tər,0,0
@@ -261,7 +261,7 @@ carrel, ˈkerəl,0,0
 carrell,,0,1
 carriage, ˈkerɪdʒ ˈkerɪdʒ ˈkerɪdʒ ˈkerɪdʒ ˈkær·ɪdʒ ˈkær·ɪdʒ ˈkær·ɪdʒ,0,0
 carriages, ˈkerɪdʒ ˈkerɪdʒ ˈkerɪdʒ ˈkerɪdʒ ˈkær·ɪdʒ ˈkær·ɪdʒ ˈkær·ɪdʒ,1,0
-carried, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri,0,0
+carried, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri,1,0
 carrier, ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkær·i·ər ˈkær·i·ər,0,0
 carriers, ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkeriɚ ˈkær·i·ər ˈkær·i·ər,1,0
 carries, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i,1,0
@@ -273,20 +273,20 @@ carrousel,,0,1
 carrow,,0,1
 carrozza,,0,1
 carry, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i ˈkær·i,0,0
-carrying, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri,0,0
+carrying, ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri ˈkeri,1,0
 cars, kɑːr kɑːr kɑːr kɑːr kɑr kɑr,1,0
 carsick, ˈkɑːrsɪk ˈkɑrˌsɪk,0,0
 carson,,0,1
 cart, kɑːrt kɑːrt kɑːrt kɑːrt kɑrt kɑrt,0,0
 carte,,0,1
-carted, kɑːrt,0,0
+carted, kɑːrt,1,0
 cartel, kɑːrˈtel kɑrˈtel,0,0
 cartels, kɑːrˈtel kɑrˈtel,1,0
 carter, ˈkɑːrt̬ɚ,0,0
 carters, ˈkɑːrt̬ɚ,1,0
 cartier,,0,1
 cartilage, ˈkɑːrt̬əlɪdʒ ˈkɑr·t̬əl·ɪdʒ,0,0
-carting, kɑːrt,0,0
+carting, kɑːrt,1,0
 carton, ˈkɑːrt̬ən ˈkɑr·tən,0,0
 cartons, ˈkɑːrt̬ən ˈkɑr·tən,1,0
 cartoon, kɑːrˈtuːn kɑːrˈtuːn kɑːrˈtuːn kɑrˈtun kɑrˈtun,0,0
@@ -301,7 +301,7 @@ cartwheel," ˈkɑːrtwiːl ˈkɑːrtwiːl ˈkɑrt·hwil, -wil",0,0
 cartwheels," ˈkɑːrtwiːl ˈkɑːrtwiːl ˈkɑrt·hwil, -wil",1,0
 cartwright,,0,1
 carve, kɑːrv kɑːrv kɑrv kɑrv,0,0
-carved, kɑːrv kɑːrv,0,0
+carved, kɑːrv kɑːrv,1,0
 carvel,,0,1
 carver, ˈkɑːrvɚ ˈkɑːrvɚ,0,0
 carvers, ˈkɑːrvɚ ˈkɑːrvɚ,1,0
@@ -315,9 +315,9 @@ casal,,0,1
 casanova, ˌkæsəˈnoʊvə,0,0
 casbah,,0,1
 cascade, kæsˈkeɪd kæsˈkeɪd kæsˈkeɪd,0,0
-cascaded, kæsˈkeɪd kæsˈkeɪd,0,0
+cascaded, kæsˈkeɪd kæsˈkeɪd,1,0
 cascades,,0,1
-cascading, kæsˈkeɪd kæsˈkeɪd,0,0
+cascading, kæsˈkeɪd kæsˈkeɪd,1,0
 casco,,0,1
 case, keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs keɪs,0,0
 casein, ˈkeɪsiːn,0,0
@@ -328,15 +328,15 @@ casework, ˈkeɪswɝːk,0,0
 caseworker, ˈkeɪsˌwɝːkɚ,0,0
 caseworkers, ˈkeɪsˌwɝːkɚ,1,0
 cash, kæʃ kæʃ,0,0
-cashed, kæʃ,0,0
+cashed, kæʃ,1,0
 casher,,0,1
 cashes, kæʃ kæʃ,1,0
 cashew," ˈkæʃuː ˈkæʃ·u, kəˈʃu",0,0
 cashews," ˈkæʃuː ˈkæʃ·u, kəˈʃu",1,0
 cashier, kæʃˈɪr kæˈʃɪər,0,0
-cashiered, kæʃˈɪr,0,0
+cashiered, kæʃˈɪr,1,0
 cashiers, kæʃˈɪr kæˈʃɪər,1,0
-cashing, kæʃ,0,0
+cashing, kæʃ,1,0
 cashless, ˈkæʃləs ˈkæʃləs,0,0
 cashmere," ˈkæʃmɪr ˈkæʒ·mɪr, ˈkæʃ-",0,0
 casing, ˈkeɪsɪŋ ˈkeɪ·sɪŋ,0,0
@@ -379,7 +379,7 @@ castoffs, ˈkæstˌɔf,1,0
 castor, ˈkæstɚ,0,0
 castrate, kæsˈtreɪt ˈkæs·treɪt,0,0
 castrated, ˈkæstreɪt̬ɪd,0,0
-castrating, kæsˈtreɪt,0,0
+castrating, kæsˈtreɪt,1,0
 castration, kæsˈtreɪʃən,0,0
 castro,,0,1
 casts, kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst kæst,1,0
@@ -402,9 +402,9 @@ cataloger,,0,1
 cataloging," ˈkæt̬·əlˌɔɡ, -ˌɑɡ",1,0
 catalogs," ˈkæt̬·əlˌɔɡ, -ˌɑɡ",1,0
 catalogue, ˈkæt̬əlɑːɡ ˈkæt̬əlɑːɡ ˈkæt̬əlɑːɡ,0,0
-catalogued, ˈkæt̬əlɑːɡ,0,0
+catalogued, ˈkæt̬əlɑːɡ,1,0
 catalogues, ˈkæt̬əlɑːɡ ˈkæt̬əlɑːɡ ˈkæt̬əlɑːɡ,1,0
-cataloguing, ˈkæt̬əlɑːɡ,0,0
+cataloguing, ˈkæt̬əlɑːɡ,1,0
 catalyst, ˈkæt̬əlɪst ˈkæt̬əlɪst ˈkæt̬·əl·ɪst ˈkæt̬·əl·ɪst,0,0
 catalysts, ˈkæt̬əlɪst ˈkæt̬əlɪst ˈkæt̬·əl·ɪst ˈkæt̬·əl·ɪst,1,0
 catalytic, ˌkæt̬əˈlɪt̬ɪk,0,0
@@ -413,8 +413,8 @@ catalyzed, ˈkæt̬əlaɪz ˈkæt̬əlaɪz,1,0
 catamaran, ˈkæt̬əməræn,0,0
 catamount,,0,1
 catapult," ˈkæt̬əpʌlt ˈkæt̬əpʌlt ˈkæt̬·əˌpʌlt, -ˌpʊlt ˈkæt̬·əˌpʌlt, -ˌpʊlt",0,0
-catapulted, ˈkæt̬əpʌlt ˈkæt̬əpʌlt,0,0
-catapulting, ˈkæt̬əpʌlt ˈkæt̬əpʌlt,0,0
+catapulted, ˈkæt̬əpʌlt ˈkæt̬əpʌlt,1,0
+catapulting, ˈkæt̬əpʌlt ˈkæt̬əpʌlt,1,0
 catapults," ˈkæt̬əpʌlt ˈkæt̬əpʌlt ˈkæt̬əpʌlt ˈkæt̬·əˌpʌlt, -ˌpʊlt ˈkæt̬·əˌpʌlt, -ˌpʊlt",1,0
 cataract, ˈkæt̬ərækt ˈkæt̬ərækt ˈkæt̬·əˌrækt ˈkæt̬·əˌrækt,0,0
 cataracts, ˈkæt̬ərækt ˈkæt̬ərækt ˈkæt̬·əˌrækt ˈkæt̬·əˌrækt,1,0
@@ -438,9 +438,9 @@ categorically, ˌkæt̬əˈɡɔːrɪkəli,0,0
 categories," ˈkæt̬əɡɔːri ˈkæt̬·ɪˌɡɔr·i, -ˌɡoʊr·i",1,0
 categorization, kæt̬əɡɚəˈzeɪʃən,0,0
 categorize, ˈkæt̬əɡɚaɪz,0,0
-categorized, ˈkæt̬əɡəraɪz,0,0
+categorized, ˈkæt̬əɡəraɪz,1,0
 categorizes, ˈkæt̬əɡɚaɪz,1,0
-categorizing, ˈkæt̬əɡəraɪz,0,0
+categorizing, ˈkæt̬əɡəraɪz,1,0
 category," ˈkæt̬əɡɔːri ˈkæt̬·ɪˌɡɔr·i, -ˌɡoʊr·i",0,0
 catena,,0,1
 cater, ˈkeɪt̬ɚ ˈkeɪ·t̬ər,0,0

@@ -8,7 +8,7 @@ gates, ɡeɪt ɡeɪt ɡeɪt ɡeɪt -ɡeɪt ɡeɪt ɡeɪt,1,0
 gateway, ˈɡeɪtweɪ ˈɡeɪtweɪ ˈɡeɪt·weɪ,0,0
 gateways, ˈɡeɪtweɪ ˈɡeɪtweɪ ˈɡeɪtweɪ ˈɡeɪtweɪ ˈɡeɪt·weɪ,1,0
 gather, ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ,0,0
-gathered, ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ,0,0
+gathered, ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ ˈɡæðɚ,1,0
 gatherer,,0,1
 gatherers, ˌhʌnt̬ɚˈɡæðɚɚ,1,0
 gathering, ˈɡæðɚɪŋ ˈɡæð·ə·rɪŋ,0,0
@@ -25,9 +25,9 @@ gaucho, ˈɡaʊtʃoʊ,0,0
 gauchos, ˈɡaʊtʃoʊ,1,0
 gaudy," ˈɡɑːdi ˈɡɔd·i, ˈɡɑd·i",0,0
 gauge, ɡeɪdʒ ɡeɪdʒ ɡeɪdʒ ɡeɪdʒ,0,0
-gauged, ɡeɪdʒ ɡeɪdʒ,0,0
+gauged, ɡeɪdʒ ɡeɪdʒ,1,0
 gauges, ɡeɪdʒ ɡeɪdʒ ɡeɪdʒ  -ɡeɪdʒ ɡeɪdʒ,1,0
-gauging, ɡeɪdʒ ɡeɪdʒ,0,0
+gauging, ɡeɪdʒ ɡeɪdʒ,1,0
 gaul,,0,1
 gauls,,0,1
 gault,,0,1
@@ -41,7 +41,7 @@ gaw,,0,1
 gawain,,0,1
 gawk, ɡɑːk ɡɔk,0,0
 gawkers,,0,1
-gawking, ɡɑːk,0,0
+gawking, ɡɑːk,1,0
 gawky, ˈɡɑːki,0,0
 gay, ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ,0,0
 gayer, ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ,1,0
@@ -49,12 +49,12 @@ gayness, ˈɡeɪnəs,0,0
 gays, ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ ɡeɪ,1,0
 gaz,,0,1
 gaze, ɡeɪz ɡeɪz,0,0
-gazed, ɡeɪz,0,0
+gazed, ɡeɪz,1,0
 gazelle, ɡəˈzel ɡəˈzel,0,0
 gazelles, ɡəˈzel ɡəˈzel,1,0
 gazes, ɡeɪz ɡeɪz,1,0
 gazette, ɡəˈzet ɡəˈzet ɡəˈzet,0,0
-gazing, ɡeɪz,0,0
+gazing, ɡeɪz,1,0
 gear, ɡɪr ɡɪr ɡɪr ɡɪr ɡɪr ɡɪr ɡɪr,0,0
 gearbox, ˈɡɪrbɑːks,0,0
 gearboxes, ˈɡɪrbɑːks,1,0
@@ -104,13 +104,13 @@ generalization, ˌdʒenə rələˈzeɪʃən,0,0
 generalizations, ˌdʒenə rələˈzeɪʃən,1,0
 generalize," ˈdʒenərəlaɪz ˈdʒen·rəˌlɑɪz, -ə·rə-",0,0
 generalized, ˈdʒenərəlaɪzd,0,0
-generalizing, ˈdʒenərəlaɪz,0,0
+generalizing, ˈdʒenərəlaɪz,1,0
 generally," ˈdʒenə rəli ˈdʒenə rəli ˈdʒenə rəli ˈdʒen·rə·li, -ə·rə·li",0,0
 generals," ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒenərəl ˈdʒen·rəl, -ə·rəl",1,0
 generate, ˈdʒenəreɪt ˈdʒenəreɪt ˈdʒen·əˌreɪt,0,0
-generated, ˈdʒenəreɪt ˈdʒenəreɪt,0,0
+generated, ˈdʒenəreɪt ˈdʒenəreɪt,1,0
 generates, ˈdʒenəreɪt ˈdʒenəreɪt ˈdʒen·əˌreɪt,1,0
-generating, ˈdʒenəreɪt ˈdʒenəreɪt,0,0
+generating, ˈdʒenəreɪt ˈdʒenəreɪt,1,0
 generation, ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən,0,0
 generational, ˌdʒenəˈreɪʃənəl,0,0
 generations, ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən ˌdʒenəˈreɪʃən,1,0
@@ -215,7 +215,7 @@ germans,,0,1
 germantown,,0,1
 germany, ˈdʒɝːməni,0,0
 germinate, ˈdʒɝːməneɪt ˈdʒɝːməneɪt ˈdʒɜr·məˌneɪt,0,0
-germinated, ˈdʒɝːməneɪt ˈdʒɝːməneɪt,0,0
+germinated, ˈdʒɝːməneɪt ˈdʒɝːməneɪt,1,0
 germination, ˌdʒɝːməˈneɪʃən,0,0
 germs, dʒɝːm dʒɝːm dʒɜrm dʒɜrm,1,0
 gerontology, ˌdʒerənˈtɑːlədʒi,0,0
@@ -227,9 +227,9 @@ gestapo,,0,1
 gestate, dʒesˈteɪt dʒesˈteɪt,0,0
 gestation, dʒesˈteɪʃən dʒesˈteɪʃən dʒeˈsteɪ·ʃən,0,0
 gesture, ˈdʒestʃɚ ˈdʒestʃɚ ˈdʒes·tʃər ˈdʒes·tʃər,0,0
-gestured, ˈdʒestʃɚ,0,0
+gestured, ˈdʒestʃɚ,1,0
 gestures, ˈdʒestʃɚ ˈdʒestʃɚ ˈdʒes·tʃər ˈdʒes·tʃər,1,0
-gesturing, ˈdʒestʃɚ,0,0
+gesturing, ˈdʒestʃɚ,1,0
 gesundheit, ɡəˈzʊnthaɪt ɡəˈzʊntˌhɑɪt,0,0
 get, ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet ɡet,0,0
 getaway, ˈɡet̬əweɪ ˈɡet̬·əˌweɪ ˈɡet̬·əˌweɪ,0,0
@@ -278,9 +278,9 @@ gigabytes, ˈɡɪɡəbaɪt ˈɡɪɡəbaɪt ˈɡɪɡ·əˌbɑɪt,1,0
 gigantic, ˌdʒaɪˈɡænt̬ɪk dʒɑɪˈɡæn·tɪk,0,0
 gigging,,0,1
 giggle, ˈɡɪɡəl ˈɡɪɡ·əl,0,0
-giggled, ˈɡɪɡəl,0,0
+giggled, ˈɡɪɡəl,1,0
 giggles,,0,1
-giggling, ˈɡɪɡəl,0,0
+giggling, ˈɡɪɡəl,1,0
 giggly, ˈɡɪɡəli,0,0
 gigolo, ˈdʒɪɡəloʊ,0,0
 gigs, ɡɪɡ ɡɪɡ ɡɪɡ ɡɪɡ ɡɪɡ ɡɪɡ ɡɪɡ,1,0
@@ -290,7 +290,7 @@ gilbertine,,0,1
 gild, ɡɪld ɡɪld,0,0
 gilded, ˈɡɪldɪd ˈɡɪldɪd,0,0
 gilder,,0,1
-gilding, ɡɪld ɡɪld,0,0
+gilding, ɡɪld ɡɪld,1,0
 giles,,0,1
 gill, ɡɪl dʒɪl ɡɪl,0,0
 gillian,,0,1
@@ -372,18 +372,18 @@ gladly, ˈɡlædli,0,0
 gladstone,,0,1
 glamor, ˈɡlæmɚ,0,0
 glamorize, ˈɡlæmɚaɪz ˈɡlæm·əˌrɑɪz,0,0
-glamorizing, ˈɡlæmɚaɪz,0,0
+glamorizing, ˈɡlæmɚaɪz,1,0
 glamorous, ˈɡlæməəs ˈɡlæm·ə·rəs,0,0
 glamour, ˈɡlæmɚ ˈɡlæm·ər,0,0
 glance, ɡlæns ɡlæns ɡlæns ɡlæns,0,0
-glanced, ɡlæns ɡlæns ɡlæns,0,0
+glanced, ɡlæns ɡlæns ɡlæns,1,0
 glances, ɡlæns ɡlæns ɡlæns ɡlæns ɡlæns ɡlæns,1,0
 glancing, ˈɡlænsɪŋ ˈɡlæn·sɪŋ,0,0
 gland, ɡlænd ɡlænd,0,0
 glands, ɡlænd ɡlænd,1,0
 glandular, ˈɡlændʒəlɚ,0,0
 glare," ɡler ɡler ɡler, ɡlær ɡler, ɡlær",0,0
-glared, ɡler ɡler,0,0
+glared, ɡler ɡler,1,0
 glares," ɡler ɡler ɡler, ɡlær ɡler, ɡlær",1,0
 glaring," ˈɡlerɪŋ ˈɡlerɪŋ ˈɡler·ɪŋ, ˈɡlær-",0,0
 glasgow, ˈɡlæzɡoʊ,0,0
@@ -405,11 +405,11 @@ glazes, ɡleɪz ɡleɪz ɡleɪz ɡleɪz,1,0
 glazier, ˈɡleɪziɚ,0,0
 glazing, ˈɡleɪzɪŋ,0,0
 gleam, ɡliːm ɡliːm ɡlim,0,0
-gleamed, ɡliːm ɡliːm,0,0
+gleamed, ɡliːm ɡliːm,1,0
 gleaming, ˈɡliːmɪŋ,0,0
 gleams, ɡliːm ɡliːm ɡlim,1,0
 glean, ɡliːn ɡlin,0,0
-gleaned, ɡliːn,0,0
+gleaned, ɡliːn,1,0
 gleba,,0,1
 glee, ɡliː ɡli,0,0
 gleeful, ˈɡliːfəl,0,0
@@ -423,26 +423,26 @@ glib, ɡlɪb ɡlɪb,0,0
 glibly, ˈɡlɪbli,0,0
 glick,,0,1
 glide, ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlɑɪd,0,0
-glided, ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd,0,0
+glided, ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd,1,0
 glider, ˈɡlaɪdɚ ˈɡlaɪdɚ ˈɡlaɪdɚ ˈɡlɑɪ·dər,0,0
 gliders, ˈɡlaɪdɚ ˈɡlaɪdɚ ˈɡlaɪdɚ ˈɡlɑɪ·dər,1,0
 glides, ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlaɪd ɡlɑɪd,1,0
 gliding, ˈɡlaɪdɪŋ,0,0
 glimmer, ˈɡlɪmɚ ˈɡlɪm·ər,0,0
-glimmering, ˈɡlɪmɚ,0,0
+glimmering, ˈɡlɪmɚ,1,0
 glimmers, ˈɡlɪmɚ ˈɡlɪm·ər,1,0
 glimpse, ɡlɪmps ɡlɪmps,0,0
-glimpsed, ɡlɪmps,0,0
+glimpsed, ɡlɪmps,1,0
 glimpses, ɡlɪmps ɡlɪmps,1,0
 glint, ɡlɪnt ɡlɪnt ɡlɪnt,0,0
-glinting, ɡlɪnt ɡlɪnt,0,0
+glinting, ɡlɪnt ɡlɪnt,1,0
 glisten, ˈɡlɪsən ˈɡlɪs·ən,0,0
-glistened, ˈɡlɪsən,0,0
-glistening, ˈɡlɪsən,0,0
+glistened, ˈɡlɪsən,1,0
+glistening, ˈɡlɪsən,1,0
 glitch, ɡlɪtʃ ɡlɪtʃ ɡlɪtʃ,0,0
 glitches, ɡlɪtʃ ɡlɪtʃ ɡlɪtʃ,1,0
 glitter, ˈɡlɪt̬ɚ ˈɡlɪt̬ɚ ˈɡlɪt̬·ər,0,0
-glittered, ˈɡlɪt̬ɚ ˈɡlɪt̬ɚ,0,0
+glittered, ˈɡlɪt̬ɚ ˈɡlɪt̬ɚ,1,0
 glittering, ˈɡlɪt̬ɚɪŋ ˈɡlɪt̬ɚɪŋ,0,0
 glitters, ˈɡlɪt̬ɚ ˈɡlɪt̬ɚ ˈɡlɪt̬·ər,1,0
 glittery, ˈɡlɪt̬ɚi,0,0
@@ -450,7 +450,7 @@ glitz, ɡlɪts ɡlɪts,0,0
 glitzy, ˈɡlɪtsi,0,0
 gloaming, ˈɡloʊmɪŋ,0,0
 gloat, ɡloʊt ɡloʊt,0,0
-gloated, ɡloʊt,0,0
+gloated, ɡloʊt,1,0
 gloating, ˈɡloʊt̬ɪŋ,0,0
 glob, ɡlɑːb ɡlɑb,0,0
 global, ˈɡloʊbəl ˈɡloʊbəl ˈɡloʊ·bəl,0,0
@@ -474,10 +474,10 @@ glor,,0,1
 gloria,,0,1
 glories," ˈɡlɔːri ˈɡlɔːri ˈɡlɔːri ˈɡlɔːri ˈɡlɔr·i, ˈɡloʊr·i ˈɡlɔr·i, ˈɡloʊr·i",1,0
 glorification, ˌɡlɔːrəfəˈkeɪʃən ˌɡlɔːrəfəˈkeɪʃən,0,0
-glorified, ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ,0,0
+glorified, ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ,1,0
 glorifies," ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ ˈɡlɔr·əˌfɑɪ, ˈɡloʊr-",1,0
 glorify," ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ ˈɡlɔr·əˌfɑɪ, ˈɡloʊr-",0,0
-glorifying, ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ,0,0
+glorifying, ˈɡlɔːrəfaɪ ˈɡlɔːrəfaɪ,1,0
 glorious," ˈɡlɔːriəs ˈɡlɔːriəs ˈɡlɔːriəs ˈɡlɔːriəs ˈɡlɔr·i·əs, ˈɡloʊr- ˈɡlɔr·i·əs, ˈɡloʊr-",0,0
 gloriously," ˈɡlɔːriəsli ˈɡlɔːriəsli ˈɡlɔːriəsli ˈɡlɔːriəsli ˈɡlɔr·i·əs·li, ˈɡloʊr-",0,0
 glory," ˈɡlɔːri ˈɡlɔːri ˈɡlɔːri ˈɡlɔːri ˈɡlɔr·i, ˈɡloʊr·i ˈɡlɔr·i, ˈɡloʊr·i",0,0

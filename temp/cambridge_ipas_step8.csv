@@ -29,7 +29,7 @@ barres, bɑːr bɑːr,1,0
 barret,,0,1
 barrette," bəˈret bəˈret, bɑ-",0,0
 barricade, ˈberəkeɪd ˈbær·əˌkeɪd,0,0
-barricaded, ˈberəkeɪd,0,0
+barricaded, ˈberəkeɪd,1,0
 barricades, ˈberəkeɪd ˈbær·əˌkeɪd,1,0
 barrier, ˈberiɚ ˈberiɚ ˈberiɚ ˈbær·i·ər,0,0
 barriers, ˈberiɚ ˈberiɚ ˈberiɚ ˈbær·i·ər,1,0
@@ -48,8 +48,8 @@ bart,,0,1
 bartender, ˈbɑːrˌtendɚ ˈbɑrˌten·dər,0,0
 bartenders, ˈbɑːrˌtendɚ ˈbɑrˌten·dər,1,0
 barter, ˈbɑːrt̬ɚ ˈbɑr·t̬ər,0,0
-bartered, ˈbɑːrt̬ɚ,0,0
-bartering, ˈbɑːrt̬ɚ,0,0
+bartered, ˈbɑːrt̬ɚ,1,0
+bartering, ˈbɑːrt̬ɚ,1,0
 barth,,0,1
 bartholomew,,0,1
 bartlett, ˈbɑːrtlət,0,0
@@ -61,7 +61,7 @@ baseball, ˈbeɪsbɑːl ˈbeɪsbɑːl ˈbeɪsˌbɔl ˈbeɪsˌbɔl,0,0
 baseballs, ˈbeɪsbɑːl ˈbeɪsbɑːl ˈbeɪsˌbɔl ˈbeɪsˌbɔl,1,0
 baseboard, ˈbeɪsbɔːrd,0,0
 baseboards, ˈbeɪsbɔːrd,1,0
-based,  -beɪst  -beɪst  -beɪst,0,0
+based,  -beɪst  -beɪst  -beɪst,1,0
 baseless, ˈbeɪsləs ˈbeɪs·ləs,0,0
 baseline, ˈbeɪslaɪn ˈbeɪslaɪn,0,0
 baselines, ˈbeɪslaɪn ˈbeɪslaɪn,1,0
@@ -71,7 +71,7 @@ basements, ˈbeɪsmənt ˈbeɪs·mənt,1,0
 baser, beɪs beɪs beɪs beɪs beɪs beɪs beɪs beɪs,1,0
 bases, ˈbeɪ·siz,0,0
 bash, bæʃ bæʃ bæʃ bæʃ,0,0
-bashed, bæʃ bæʃ,0,0
+bashed, bæʃ bæʃ,1,0
 basher, ˈbæʃɚ ˈbæʃɚ,0,0
 bashers, ˈbæʃɚ ˈbæʃɚ  -ɚ  -ɚ,1,0
 bashes, bæʃ bæʃ bæʃ bæʃ bæʃ,1,0
@@ -83,16 +83,16 @@ basics, ˈbeɪsɪks ˈbeɪ·sɪks,0,0
 basil," ˈbeɪzəl ˈbæz·əl, ˈbeɪ·zəl",0,0
 basilica, bəˈsɪlɪkə,0,0
 basin, ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪ·sən ˈbeɪ·sən ˈbeɪ·sən,0,0
-basing, beɪs,0,0
+basing, beɪs,1,0
 basins, ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪsən ˈbeɪ·sən ˈbeɪ·sən ˈbeɪ·sən,1,0
 basis, ˈbeɪsɪs ˈbeɪsɪs ˈbeɪ·sɪs ˈbeɪ·sɪs,0,0
 bask, bæsk bæsk,0,0
-basked, bæsk,0,0
+basked, bæsk,1,0
 basket, ˈbæskət ˈbæskət ˈbæskət ˈbæskət ˈbæskət ˈbæs·kɪt ˈbæs·kɪt,0,0
 basketball, ˈbæskətbɑːl ˈbæskətbɑːl ˈbæs·kɪtˌbɔl,0,0
 basketballs, ˈbæskətbɑːl ˈbæskətbɑːl ˈbæs·kɪtˌbɔl,1,0
 baskets, ˈbæskət ˈbæskət ˈbæskət ˈbæskət ˈbæskət ˈbæs·kɪt ˈbæs·kɪt,1,0
-basking, bæsk,0,0
+basking, bæsk,1,0
 basophilic, ˌbæzəˈfɪlɪk,0,0
 basque, bæsk,0,0
 basques, bæsk bæsk,1,0
@@ -107,10 +107,10 @@ basta,,0,1
 bastard, ˈbæstɚd ˈbæstɚd,0,0
 bastards, ˈbæstɚd ˈbæstɚd,1,0
 baste, beɪst beɪst beɪst,0,0
-basted, beɪst beɪst,0,0
+basted, beɪst beɪst,1,0
 bastian,,0,1
 bastille, bæˈstiːl,0,0
-basting, beɪst beɪst,0,0
+basting, beɪst beɪst,1,0
 bastion, ˈbæstiən ˈbæstiən,0,0
 bastions, ˈbæstiən ˈbæstiən,1,0
 bat, bæt bæt bæt bæt,0,0
@@ -124,7 +124,7 @@ bateman,,0,1
 bates,,0,1
 bath, bæθ bæθ bæθ bæθ bæθ bæθ bæθ,0,0
 bathe, beɪð beɪð beɪð beɪð beɪð beɪð,0,0
-bathed, beɪð beɪð beɪð beɪð,0,0
+bathed, beɪð beɪð beɪð beɪð,1,0
 bather, ˈbeɪðɚ,0,0
 bathers, ˈbeɪðɚ,1,0
 bathes, beɪð beɪð beɪð beɪð beɪð beɪð,1,0
@@ -155,7 +155,7 @@ batters, ˈbæt̬ɚ ˈbæt̬ɚ ˈbæt̬·ər,1,0
 battery, ˈbæt̬ɚi ˈbæt̬ɚi ˈbæt̬ɚi ˈbæt̬ɚi ˈbæt̬·ə·ri ˈbæt̬·ə·ri ˈbæt̬·ə·ri ˈbæt̬·ə·ri,0,0
 batting, ˈbæt̬ɪŋ ˈbæt̬ɪŋ,0,0
 battle, ˈbæt̬əl ˈbæt̬əl ˈbæt̬əl ˈbæt̬·əl ˈbæt̬·əl,0,0
-battled, ˈbæt̬əl ˈbæt̬əl,0,0
+battled, ˈbæt̬əl ˈbæt̬əl,1,0
 battlefield, ˈbæt̬əlfiːld ˈbæt̬əlfiːld ˈbæt̬·əlˌfild,0,0
 battlefields, ˈbæt̬əlfiːld ˈbæt̬əlfiːld ˈbæt̬·əlˌfild,1,0
 battlefront,,0,1
@@ -166,7 +166,7 @@ battlements, ˈbæt̬əlmənts,0,0
 battles, ˈbæt̬əl ˈbæt̬əl ˈbæt̬əl ˈbæt̬·əl ˈbæt̬·əl,1,0
 battleship, ˈbæt̬əlʃɪp ˈbæt̬əlʃɪp,0,0
 battleships, ˈbæt̬əlʃɪp ˈbæt̬əlʃɪp,1,0
-battling, ˈbæt̬əl ˈbæt̬əl,0,0
+battling, ˈbæt̬əl ˈbæt̬əl,1,0
 batton,,0,1
 batts,,0,1
 batty, ˈbæt̬i ˈbæt̬·i,0,0
@@ -178,12 +178,12 @@ bavarian, bəˈveriən,0,0
 bawd,,0,1
 bawdy, ˈbɑːdi,0,0
 bawl, bɑːl bɑːl bɔl,0,0
-bawled, bɑːl bɑːl,0,0
+bawled, bɑːl bɑːl,1,0
 bawls, bɑːl bɑːl bɔl,1,0
 baxter,,0,1
 bay, beɪ beɪ beɪ beɪ beɪ beɪ,0,0
 bayard,,0,1
-baying, beɪ,0,0
+baying, beɪ,1,0
 bayonet," ˈbeɪənət ˌbeɪ·əˈnet, , ˈbeɪ·ə·nɪt",0,0
 bayonets," ˈbeɪənət ˌbeɪ·əˈnet, , ˈbeɪ·ə·nɪt",1,0
 bayou," ˈbaɪuː ˈbɑɪ·u, -oʊ",0,0
@@ -204,7 +204,7 @@ beaches, biːtʃ bitʃ,1,0
 beachfront, ˈbiːtʃfrʌnt,0,0
 beachhead, ˈbiːtʃhed,0,0
 beachheads, ˈbiːtʃhed,1,0
-beaching, biːtʃ,0,0
+beaching, biːtʃ,1,0
 beachside,,0,1
 beachy, ˈbiːtʃi,0,0
 beacon, ˈbiːkən ˈbiːkən ˈbiːkən ˈbi·kən ˈbi·kən,0,0
@@ -221,7 +221,7 @@ beak, biːk biːk biːk bik,0,0
 beaker, ˈbiːkɚ ˈbiːkɚ ˈbi·kər,0,0
 beal,,0,1
 beam, biːm biːm biːm bim bim,0,0
-beamed, biːm biːm,0,0
+beamed, biːm biːm,1,0
 beamer, ˈbiːɚ ˈbiːɚ,0,0
 beaming, ˈbiːmɪŋ,0,0
 beamish,,0,1
@@ -279,8 +279,8 @@ becker,,0,1
 becket,,0,1
 beckett,,0,1
 beckon, ˈbekən ˈbekən ˈbekən ˈbek·ən,0,0
-beckoned, ˈbekən ˈbekən ˈbekən,0,0
-beckoning, ˈbekən ˈbekən ˈbekən,0,0
+beckoned, ˈbekən ˈbekən ˈbekən,1,0
+beckoning, ˈbekən ˈbekən ˈbekən,1,0
 beckons, ˈbekən ˈbekən ˈbekən ˈbek·ən,1,0
 becks, bek,1,0
 become, bɪˈkʌm bɪˈkʌm bɪˈkʌm bɪˈkʌm,0,0
@@ -292,7 +292,7 @@ bedbugs, ˈbedbʌɡ,1,0
 bedchamber, ˈbedtʃeɪmbɚ,0,0
 bedded,,0,1
 bedding, ˈbedɪŋ ˈbed·ɪŋ,0,0
-bedecked, bɪˈdek,0,0
+bedecked, bɪˈdek,1,0
 bedell,,0,1
 bedeviled, bɪˈdevəl,1,0
 bedfellow, ˈbedˌfeloʊ,0,0
@@ -317,8 +317,8 @@ beecher,,0,1
 beechwood,,0,1
 beef, biːf biːf biːf bif bif,0,0
 beefeater, ˈbiːˌfiːt̬ɚ,0,0
-beefed, biːf,0,0
-beefing, biːf,0,0
+beefed, biːf,1,0
+beefing, biːf,1,0
 beefs, biːf biːf biːf bif bif,1,0
 beefsteak, ˈbiːfsteɪk,0,0
 beefy, ˈbiːfi ˈbiːfi ˈbi·fi,0,0
@@ -330,10 +330,10 @@ beekeeping, ˈbiːˌkiːpɪŋ,0,0
 beeman,,0,1
 been, bɪn bɪn bɪn bɪn bɪn bɪn,0,0
 beep, biːp biːp bip,0,0
-beeped, biːp biːp,0,0
+beeped, biːp biːp,1,0
 beeper, ˈbiːpɚ ˈbi·pər,0,0
 beepers, ˈbiːpɚ ˈbi·pər,1,0
-beeping, biːp biːp,0,0
+beeping, biːp biːp,1,0
 beeps, biːp biːp bip,1,0
 beer, bɪr bɪr bɪər,0,0
 beers, bɪr bɪr bɪər,1,0
@@ -353,8 +353,8 @@ befitting, bɪˈfɪt̬ɪŋ,0,0
 before," bɪˈfɔːr bɪˈfɔːr bɪˈfɔːr bɪˈfɔr, -ˈfoʊr",0,0
 beforehand," bɪˈfɔːrhænd bɪˈfɔrˌhænd, -ˈfoʊr-",0,0
 befriend, bɪˈfrend bɪˈfrend bɪˈfrend,0,0
-befriended, bɪˈfrend bɪˈfrend,0,0
-befriending, bɪˈfrend bɪˈfrend,0,0
+befriended, bɪˈfrend bɪˈfrend,1,0
+befriending, bɪˈfrend bɪˈfrend,1,0
 befriends, bɪˈfrend bɪˈfrend bɪˈfrend,1,0
 befuddled, bɪˈfʌdəld bɪˈfʌd·əld,0,0
 beg, beɡ beɡ beɡ beɡ beɡ,0,0
@@ -380,14 +380,14 @@ begotten, bɪˈɡet bɪˈɡet,1,0
 begrudge, bɪˈɡrʌdʒ bɪˈɡrʌdʒ bɪˈɡrʌdʒ,0,0
 begs, beɡ beɡ beɡ beɡ beɡ beɡ beɡ,1,0
 beguile, bɪˈɡaɪl bɪˈɡɑɪl,0,0
-beguiled, bɪˈɡaɪl,0,0
+beguiled, bɪˈɡaɪl,1,0
 beguiling, bɪˈɡaɪlɪŋ,0,0
 begun, bɪˈɡʌn bɪˈɡʌn,0,0
 behalf,,0,1
 behave, bɪˈheɪv bɪˈheɪv bɪˈheɪv bɪˈheɪv,0,0
 behaved,  -bɪheɪvd,1,0
 behaves, bɪˈheɪv bɪˈheɪv bɪˈheɪv bɪˈheɪv,1,0
-behaving, bɪˈheɪv bɪˈheɪv bɪˈheɪv,0,0
+behaving, bɪˈheɪv bɪˈheɪv bɪˈheɪv,1,0
 behavior, bɪˈheɪvjɚ bɪˈheɪvjɚ bɪˈheɪ·vjər,0,0
 behavioral, bɪˈheɪvjɚəl bɪˈheɪ·vjər·əl,0,0
 behaviorally, bɪˈheɪvjɚəli,0,0
@@ -396,8 +396,8 @@ behaviors, bɪˈheɪvjɚ bɪˈheɪvjɚ bɪˈheɪ·vjər,1,0
 behaviour, bɪˈheɪvjɚ bɪˈheɪvjɚ,0,0
 behaviours, bɪˈheɪvjɚ bɪˈheɪvjɚ,1,0
 behead, bɪˈhed bɪˈhed,0,0
-beheaded, bɪˈhed,0,0
-beheading, bɪˈhed,0,0
+beheaded, bɪˈhed,1,0
+beheading, bɪˈhed,1,0
 beheld, bɪˈheld,0,0
 behemoth, bɪˈhiːmɑːθ -mɑːθ,0,0
 behemoths, bɪˈhiːmɑːθ -mɑːθ,1,0
@@ -423,9 +423,9 @@ belabor, bɪˈleɪbɚ bɪˈleɪbɚ bɪˈleɪbɚ bɪˈleɪ·bər,0,0
 belaboring, bɪˈleɪbɚ bɪˈleɪbɚ bɪˈleɪbɚ bɪˈleɪ·bər,1,0
 belated, bɪˈleɪt̬ɪd bɪˈleɪ·t̬ɪd,0,0
 belch, beltʃ beltʃ beltʃ beltʃ,0,0
-belched, beltʃ beltʃ,0,0
+belched, beltʃ beltʃ,1,0
 belcher,,0,1
-belching, beltʃ beltʃ,0,0
+belching, beltʃ beltʃ,1,0
 beleaguered, bɪˈliːɡɚd bɪˈliːɡɚd bɪˈli·ɡərd,0,0
 belfast,,0,1
 belfry, ˈbelfri,0,0
@@ -441,15 +441,15 @@ belies, bɪˈlaɪ bɪˈlɑɪ,1,0
 believability,,0,1
 believable, bɪˈliːvəbəl bɪˈli·və·bəl,0,0
 believe, bɪˈliːv bɪˈliv bɪˈliv bɪˈliv,0,0
-believed, bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv,0,0
+believed, bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv,1,0
 believer, bɪˈliːvɚ bɪˈli·vər bɪˈli·vər,0,0
 believers, bɪˈliːvɚ bɪˈli·vər bɪˈli·vər,1,0
 believes, bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliv bɪˈliv bɪˈliv,1,0
-believing, bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv,0,0
+believing, bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv bɪˈliːv,1,0
 belittle, bɪˈlɪt̬əl bɪˈlɪt̬·əl,0,0
-belittled, bɪˈlɪt̬əl,0,0
+belittled, bɪˈlɪt̬əl,1,0
 belittles, bɪˈlɪt̬əl bɪˈlɪt̬·əl,1,0
-belittling, bɪˈlɪt̬əl,0,0
+belittling, bɪˈlɪt̬əl,1,0
 bell, bel bel bel bel,0,0
 bellboy, ˈbelbɔɪ,0,0
 belle, bel,0,0
@@ -469,8 +469,8 @@ belling, bel bel bel bel,1,0
 bellman, ˈbelmən,0,0
 bello,,0,1
 bellow, ˈbeloʊ ˈbel·oʊ,0,0
-bellowed, ˈbeloʊ,0,0
-bellowing, ˈbeloʊ,0,0
+bellowed, ˈbeloʊ,1,0
+bellowing, ˈbeloʊ,1,0
 bellows, ˈbeloʊz,0,0
 bells, bel bel bel bel,1,0
 bellwether, ˈbelˌweðɚ ˈbelˌweðɚ ˈbelˌweð·ər -ðɚ -ðɚ -ðɚ -ðɚ,0,0
@@ -479,7 +479,7 @@ belly, ˈbeli ˈbeli ˈbel·i,0,0
 bellyache, ˈbelieɪk,0,0
 bellyaching, ˈbelieɪkɪŋ,0,0
 belong, bɪˈlɑːŋ bɪˈlɑːŋ bɪˈlɔŋ,0,0
-belonged, bɪˈlɑːŋ bɪˈlɑːŋ,0,0
+belonged, bɪˈlɑːŋ bɪˈlɑːŋ,1,0
 belonging, bɪˈlɑːŋɪŋ,0,0
 belongings, bɪˈlɑːŋɪŋz bɪˈlɔŋ·ɪŋz,0,0
 belongs, bɪˈlɑːŋ bɪˈlɑːŋ bɪˈlɔŋ,1,0

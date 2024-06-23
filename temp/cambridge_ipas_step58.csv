@@ -57,7 +57,7 @@ moonstones,,0,1
 moonstruck,,0,1
 moor, mʊr mʊr,0,0
 moore,,0,1
-moored, mʊr,0,0
+moored, mʊr,1,0
 mooring, ˈmʊrɪŋ ˈmʊr·ɪŋ,0,0
 moorings,,0,1
 moorish, ˈmʊrɪʃ,0,0
@@ -71,7 +71,7 @@ mop, mɑːp mɑp mɑp,0,0
 mope, moʊp moʊp,0,0
 moped, ˈmoʊped ˈmoʊˌped,0,0
 mopeds, ˈmoʊped ˈmoʊˌped,1,0
-moping, moʊp,0,0
+moping, moʊp,1,0
 mopped,,0,1
 mopping,,0,1
 mops, mɑːp mɑp mɑp,1,0
@@ -86,7 +86,7 @@ moralistic," ˌmɔːrəlˈɪstɪk ˌmɔr·əˈlɪs·tɪk, ˌmɑr-",0,0
 moralists, ˈmɔːrəlɪst,1,0
 morality, məˈrælət̬i məˈrælət̬i məˈræl·ɪ·t̬i,0,0
 moralize," ˈmɔːrəlaɪz ˈmɔr·əˌlɑɪz, ˈmɑr-",0,0
-moralizing, ˈmɔːrəlaɪz,0,0
+moralizing, ˈmɔːrəlaɪz,1,0
 morally," ˈmɔːrəli ˈmɔr·ə·li, ˈmɑr- ˈmɔr·ə·li, ˈmɑr-",0,0
 morals," ˈmɔr·əlz, ˈmɑr-",0,0
 morass, məˈræs məˈræs məˈræs,0,0
@@ -125,11 +125,11 @@ moron," ˈmɔːrɑːn ˈmɔr·ɑn, ˈmoʊr-",0,0
 morons," ˈmɔːrɑːn ˈmɔr·ɑn, ˈmoʊr-",1,0
 morose, məˈroʊs məˈroʊs,0,0
 morph, mɔːrf mɔːrf mɔrf,0,0
-morphed, mɔːrf mɔːrf,0,0
+morphed, mɔːrf mɔːrf,1,0
 morpheus,,0,1
 morphin,,0,1
 morphine, ˈmɔːrfiːn ˈmɔr·fin,0,0
-morphing, mɔːrf mɔːrf,0,0
+morphing, mɔːrf mɔːrf,1,0
 morphological, ˌmɔːrfəˈlɑːdʒɪkəl ˌmɔːrfəˈlɑːdʒɪkəl,0,0
 morphology, mɔːrˈfɑːlədʒi mɔːrˈfɑːlədʒi mɔrˈfɑl·ə·dʒi,0,0
 morphs, mɔːrf mɔːrf mɔrf,1,0
@@ -149,7 +149,7 @@ mortem, ˌpoʊstˈmɔːrt̬əm ˌpoʊstˈmɔːrt̬əm poʊstˈmɔr·t̬əm,1,0
 mortgage, ˈmɔːrɡɪdʒ ˈmɔr·ɡɪdʒ,0,0
 mortgaged,,0,1
 mortgages, ˈmɔːrɡɪdʒ ˈmɔr·ɡɪdʒ,1,0
-mortgaging, ˈmɔːrɡɪdʒ,0,0
+mortgaging, ˈmɔːrɡɪdʒ,1,0
 mortician, mɔːrˈtɪʃən mɔrˈtɪʃ·ən,0,0
 mortier,,0,1
 mortification, ˌmɔːrt̬əfəˈkeɪʃən,0,0
@@ -183,8 +183,8 @@ motels, moʊˈtel moʊˈtel,1,0
 motes, moʊt,1,0
 moth, mɑːθ mɔθ,0,0
 mothball, ˈmɑːθbɑːl ˈmɔθˌbɔl,0,0
-mothballed, ˈmɑːθbɑːl,0,0
-mothballing, ˈmɑːθbɑːl,0,0
+mothballed, ˈmɑːθbɑːl,1,0
+mothballing, ˈmɑːθbɑːl,1,0
 mothballs, ˈmɑːθbɑːl ˈmɑːθbɑːl ˈmɔθˌbɔl,1,0
 mother, ˈmʌðɚ ˈmʌðɚ ˈmʌðɚ ˈmʌðɚ ˈmʌð·ər ˈmʌð·ər,0,0
 motherfucker, ˈmʌðɚˌfʌkɚ ˈmʌðɚˌfʌkɚ,0,0
@@ -203,8 +203,8 @@ motifs, moʊˈtiːf moʊˈtiːf moʊˈtif moʊˈtif,1,0
 motile, ˈmoʊt̬əl,0,0
 motility, moʊˈtɪlət̬i,0,0
 motion, ˈmoʊʃən ˈmoʊʃən ˈmoʊʃən ˈmoʊ·ʃən ˈmoʊ·ʃən ˈmoʊ·ʃən,0,0
-motioned, ˈmoʊʃən,0,0
-motioning, ˈmoʊʃən,0,0
+motioned, ˈmoʊʃən,1,0
+motioning, ˈmoʊʃən,1,0
 motionless, ˈmoʊʃənləs ˈmoʊ·ʃən·ləs,0,0
 motions, ˈmoʊʃən ˈmoʊʃən ˈmoʊʃən ˈmoʊ·ʃən ˈmoʊ·ʃən ˈmoʊ·ʃən ˈmoʊ·ʃən,1,0
 motivate, ˈmoʊt̬əveɪt ˈmoʊt̬əveɪt,0,0
@@ -262,7 +262,7 @@ mounties, ˈmaʊnt̬i ˈmɑʊn·ti,1,0
 mounting, ˈmaʊnt̬ɪŋ ˈmɑʊn·tɪŋ,0,0
 mounts, maʊnt maʊnt maʊnt maʊnt maʊnt maʊnt maʊnt maʊnt maʊnt mɑʊnt mɑʊnt mɑʊnt mɑʊnt mɑʊnt mɑʊnt,1,0
 mourn," mɔːrn mɔrn, moʊrn",0,0
-mourned, mɔːrn,0,0
+mourned, mɔːrn,1,0
 mourner," ˈmɔːrnɚ ˈmɔr·nər, ˈmoʊr-",0,0
 mourners," ˈmɔːrnɚ ˈmɔr·nər, ˈmoʊr-",1,0
 mournful, ˈmɔːrnfəl,0,0
@@ -277,7 +277,7 @@ mousy," ˈmaʊsi ˈmaʊsi ˈmɑʊ·si, -zi",0,0
 mouth, maʊθ maʊθ mɑʊθ mɑʊθ mɑʊθ mɑʊθ,0,0
 mouthed,  -maʊðd,1,0
 mouthful, ˈmaʊθfʊl ˈmaʊθfʊl ˈmɑʊθˌfʊl ˈmɑʊθˌfʊl,0,0
-mouthing, maʊð maʊð,0,0
+mouthing, maʊð maʊð,1,0
 mouthpiece, ˈmaʊθpiːs ˈmaʊθpiːs ˈmɑʊθˌpis ˈmɑʊθˌpis,0,0
 mouths, maʊθ maʊθ mɑʊθ mɑʊθ mɑʊθ mɑʊθ,1,0
 mouthwash," ˈmaʊθwɑːʃ ˈmɑʊθˌwɑʃ, -ˌwɔʃ",0,0
@@ -332,12 +332,12 @@ mucous, ˈmjuːkəs,0,0
 mucus, ˈmjuːkəs ˈmju·kəs,0,0
 mud, mʌd mʌd,0,0
 mudd,,0,1
-muddied, ˈmʌdi,0,0
+muddied, ˈmʌdi,1,0
 muddle, ˈmʌdəl ˈmʌd·əl,0,0
 muddled, ˈmʌdəld ˈmʌdəld ˈmʌd·əld,0,0
 muddling,,0,1
 muddy, ˈmʌdi ˈmʌdi,0,0
-muddying, ˈmʌdi,0,0
+muddying, ˈmʌdi,1,0
 mudra,,0,1
 muds,,0,1
 mudslide, ˈmʌdslaɪd ˈmʌdˌslɑɪd,0,0
@@ -351,7 +351,7 @@ muffled, ˈmʌfəld,0,0
 muffler, ˈmʌflɚ ˈmʌflɚ ˈmʌf·lər ˈmʌf·lər,0,0
 mufflers, ˈmʌflɚ ˈmʌflɚ ˈmʌf·lər ˈmʌf·lər,1,0
 muffles, ˈmʌfəl ˈmʌfəl ˈmʌfəl ˈmʌf·əl,1,0
-muffling, ˈmʌfəl ˈmʌfəl ˈmʌfəl,0,0
+muffling, ˈmʌfəl ˈmʌfəl ˈmʌfəl,1,0
 muffs, mʌf mʌf mʌf,1,0
 muffy,,0,1
 mug, mʌɡ mʌɡ mʌɡ mʌɡ,0,0
@@ -368,22 +368,22 @@ mukluk,,0,1
 mulatto," məˈlæt̬oʊ mʊˈlɑ·t̬oʊ, mjʊ-",0,0
 mulberry, ˈmʌlberi ˈmʌlˌber·i,0,0
 mulch, mʌltʃ mʌltʃ,0,0
-mulched, mʌltʃ,0,0
-mulching, mʌltʃ,0,0
+mulched, mʌltʃ,1,0
+mulching, mʌltʃ,1,0
 mulder,,0,1
 mule, mjuːl mjuːl mjuːl mjul,0,0
 mules, mjuːl mjuːl mjuːl mjul,1,0
 mull, mʌl,0,0
 mullah," ˈmʊlə ˈmʌl·ə, ˈmʊl·ə",0,0
 mullahs," ˈmʊlə ˈmʌl·ə, ˈmʊl·ə",1,0
-mulled, mʌl,0,0
+mulled, mʌl,1,0
 mullen,,0,1
 mullens,,0,1
 muller,,0,1
 mullet, ˈmʌlɪt ˈmʌlɪt,0,0
 mulligan,,0,1
 mulligans,,0,1
-mulling, mʌl,0,0
+mulling, mʌl,1,0
 multi," mʌlti- ˌmʌl·ti, ˌmʌl·tɑɪ",1,0
 multicolored, ˌmʌltiˈkʌlɚd,0,0
 multicultural," ˌmʌltiˈkʌltʃɚəl ˌmʌl·tiˈkʌl·tʃər·əl, ˌmʌlˌtɑɪ-",0,0
@@ -402,10 +402,10 @@ multiples, ˈmʌltəpəl mʌltəpəl- ˈmʌl·tə·pəl,1,0
 multiplex, ˈmʌltəpleks ˈmʌl·təˌpleks,0,0
 multiplication, ˌmʌltəpləˈkeɪʃən ˌmʌltəpləˈkeɪʃən ˌmʌl·tə·plɪˈkeɪ·ʃən,0,0
 multiplicity, ˌmʌltəˈplɪsət̬i ˌmʌl·təˈplɪs·ɪ·t̬i,0,0
-multiplied, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ,0,0
+multiplied, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ,1,0
 multiplies, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌl·təˌplɑɪ ˈmʌl·təˌplɑɪ,1,0
 multiply, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌl·təˌplɑɪ ˈmʌl·təˌplɑɪ,0,0
-multiplying, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ,0,0
+multiplying, ˈmʌltəplaɪ ˈmʌltəplaɪ ˈmʌltəplaɪ,1,0
 multiprocessor,,0,1
 multipurpose, ˌmʌltiˈpɝːpəs,0,0
 multistory,,0,1
@@ -416,14 +416,14 @@ multitudes,,0,1
 multivitamin, ˌmʌltiˈvaɪt̬əmɪn,0,0
 mum, mʌm mʌm,0,0
 mumble, ˈmʌmbəl ˈmʌm·bəl,0,0
-mumbled, ˈmʌmbəl,0,0
+mumbled, ˈmʌmbəl,1,0
 mumbles, ˈmʌmbəl ˈmʌm·bəl,1,0
-mumbling, ˈmʌmbəl,0,0
+mumbling, ˈmʌmbəl,1,0
 mumbo,,0,1
 mumm,,0,1
 mummies, ˈmʌmi ˈmʌmi ˈmʌm·i,1,0
 mummification, ˌmʌməfəˈkeɪʃən,0,0
-mummified, ˈmʌməfaɪ,0,0
+mummified, ˈmʌməfaɪ,1,0
 mummify, ˈmʌməfaɪ,0,0
 mummy, ˈmʌmi ˈmʌmi ˈmʌm·i,0,0
 mumps, mʌmps mʌmps,0,0
@@ -431,9 +431,9 @@ mums, krəˈsænθəməm krəˈsæn·θə·məm,1,0
 mun,,0,1
 munch, mʌntʃ mʌntʃ,0,0
 munchausen,,0,1
-munched, mʌntʃ,0,0
+munched, mʌntʃ,1,0
 munchies, ˈmʌntʃiz ˈmʌn·tʃIz,0,0
-munching, mʌntʃ,0,0
+munching, mʌntʃ,1,0
 mund,,0,1
 mundane," mʌnˈdeɪn mʌnˈdeɪn, ˈmʌn·deɪn",0,0
 munger,,0,1
@@ -451,10 +451,10 @@ mura,,0,1
 mural, ˈmjʊrəl ˈmjʊr·əl,0,0
 murals, ˈmjʊrəl ˈmjʊr·əl,1,0
 murder, ˈmɝːdɚ ˈmɜr·dər ˈmɜr·dər,0,0
-murdered, ˈmɝːdɚ ˈmɝːdɚ ˈmɝːdɚ,0,0
+murdered, ˈmɝːdɚ ˈmɝːdɚ ˈmɝːdɚ,1,0
 murderer, ˈmɝːdɚɚ,0,0
 murderers, ˈmɝːdɚɚ,1,0
-murdering, ˈmɝːdɚ ˈmɝːdɚ ˈmɝːdɚ,0,0
+murdering, ˈmɝːdɚ ˈmɝːdɚ ˈmɝːdɚ,1,0
 murderous, ˈmɝːdɚəs ˈmɝːdɚəs ˈmɜr·dər·əs,0,0
 murders, ˈmɝːdɚ ˈmɝːdɚ ˈmɜr·dər ˈmɜr·dər,1,0
 murine,,0,1
@@ -462,7 +462,7 @@ murk, mɝːk mɜrk,0,0
 murkier, ˈmɝːki ˈmɝːki ˈmɜr·ki,1,0
 murky, ˈmɝːki ˈmɝːki ˈmɜr·ki,0,0
 murmur, ˈmɝːmɚ ˈmɝːmɚ ˈmɜr·mər,0,0
-murmured, ˈmɝːmɚ ˈmɝːmɚ,0,0
+murmured, ˈmɝːmɚ ˈmɝːmɚ,1,0
 murmuring, ˈmɝːmɚɪŋ ˈmɝːmɚɪŋ ˈmɝːmɚɪŋ,0,0
 murmurs, ˈmɝːmɚ ˈmɝːmɚ ˈmɜr·mər,1,0
 murphy,,0,1
@@ -478,7 +478,7 @@ muscovite, ˈmʌskəvaɪt,0,0
 muscular, ˈmʌskjəlɚ ˈmʌskjəlɚ ˈmʌskjəlɚ ˈmʌs·kjə·lər,0,0
 musculature, ˈmʌskjələtʃɚ,0,0
 muse, mjuːz mjuz,0,0
-mused, mjuːz,0,0
+mused, mjuːz,1,0
 muses, mjuːz mjuːz mjuz,1,0
 museum, mjuːˈziːəm mjʊˈzi·əm,0,0
 museums, mjuːˈziːəm mjʊˈzi·əm,1,0

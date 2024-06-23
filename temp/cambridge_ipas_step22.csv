@@ -19,9 +19,9 @@ critically, ˈkrɪt̬ɪkəli ˈkrɪt̬ɪkəli ˈkrɪt̬ɪkəli ˈkrɪt̬ɪkəli 
 criticism, ˈkrɪt̬ɪsɪzəm ˈkrɪt̬ɪsɪzəm ˈkrɪt·əˌsɪz·əm ˈkrɪt·əˌsɪz·əm,0,0
 criticisms, ˈkrɪt̬ɪsɪzəm ˈkrɪt̬ɪsɪzəm ˈkrɪt·əˌsɪz·əm ˈkrɪt·əˌsɪz·əm,1,0
 criticize, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz ˈkrɪt̬·əˌsɑɪz,0,0
-criticized, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz,0,0
+criticized, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz,1,0
 criticizes, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz ˈkrɪt̬·əˌsɑɪz,1,0
-criticizing, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz,0,0
+criticizing, ˈkrɪt̬ɪsaɪz ˈkrɪt̬ɪsaɪz,1,0
 critics, ˈkrɪt̬ɪk ˈkrɪt̬ɪk ˈkrɪt̬·ɪk ˈkrɪt̬·ɪk,1,0
 critique, krɪˈtiːk krəˈtik,0,0
 critiqued, krɪˈtiːk krəˈtik,1,0
@@ -32,13 +32,13 @@ critters, ˈkrɪt̬ɚ ˈkrɪt̬·ər,1,0
 cro, ˌkroʊˈmæɡnɑːn,1,0
 croak, kroʊk kroʊk kroʊk kroʊk kroʊk,0,0
 croaker,,0,1
-croaking, kroʊk kroʊk kroʊk,0,0
+croaking, kroʊk kroʊk kroʊk,1,0
 croat, ˈkroʊæt,0,0
 croatian, kroʊˈeɪʃən,0,0
 croc,,0,1
 crochet, kroʊˈʃeɪ kroʊˈʃeɪ,0,0
 crocheted, kroʊˈʃeɪd,0,0
-crocheting, kroʊˈʃeɪ,0,0
+crocheting, kroʊˈʃeɪ,1,0
 crock, krɑːk krɑːk krɑk krɑk,0,0
 crocker,,0,1
 crockery, ˈkrɑːkɚi ˈkrɑk·ə·ri,0,0
@@ -64,7 +64,7 @@ crookedness, ˈkrʊkɪdnəs ˈkrʊkɪdnəs,0,0
 crooks, krʊk krʊk krʊk krʊk krʊk,1,0
 croon, kruːn krun,0,0
 crooner, ˈkruːnɚ,0,0
-crooning, kruːn,0,0
+crooning, kruːn,1,0
 crop, krɑːp krɑːp krɑːp krɑːp krɑːp krɑp krɑp,0,0
 cropped,,0,1
 cropper,,0,1
@@ -98,20 +98,20 @@ crosswords, ˈkrɑːswɝːd,1,0
 crotch, krɑːtʃ krɑːtʃ krɑtʃ,0,0
 crotchety, ˈkrɑːtʃət̬i ˈkrɑtʃ·ɪ·t̬i,0,0
 crouch, kraʊtʃ krɑʊtʃ,0,0
-crouched, kraʊtʃ,0,0
+crouched, kraʊtʃ,1,0
 croucher,,0,1
-crouching, kraʊtʃ,0,0
+crouching, kraʊtʃ,1,0
 croup, kruːp,0,0
 crow, kroʊ kroʊ,0,0
 crowbar, ˈkroʊbɑːr ˈkroʊˌbɑr,0,0
 crowd, kraʊd kraʊd krɑʊd krɑʊd krɑʊd,0,0
 crowded, ˈkraʊdɪd ˈkrɑʊ·dɪd,0,0
-crowding, kraʊd,0,0
+crowding, kraʊd,1,0
 crowds, kraʊd kraʊd krɑʊd krɑʊd krɑʊd,1,0
 crowed, kroʊ kroʊ,1,0
 crowing, kroʊ kroʊ,1,0
 crown, kraʊn kraʊn kraʊn kraʊn kraʊn kraʊn krɑʊn krɑʊn krɑʊn krɑʊn krɑʊn,0,0
-crowned, kraʊn kraʊn kraʊn kraʊn kraʊn kraʊn,0,0
+crowned, kraʊn kraʊn kraʊn kraʊn kraʊn kraʊn,1,0
 crowning, ˈkraʊnɪŋ ˈkrɑʊ·nɪŋ,0,0
 crowns, kraʊn kraʊn kraʊn kraʊn kraʊn kraʊn kraʊn krɑʊn krɑʊn krɑʊn krɑʊn krɑʊn,1,0
 crows, kroʊ kroʊ,1,0
@@ -120,7 +120,7 @@ cruces,,0,1
 crucial, ˈkruːʃəl ˈkru·ʃəl,0,0
 crucially, ˈkruːʃəli,0,0
 crucible, ˈkruːsəbəl ˈkruːsəbəl ˈkruːsəbəl ˈkru·sə·bəl,0,0
-crucified, ˈkruːsəfaɪ ˈkruːsəfaɪ,0,0
+crucified, ˈkruːsəfaɪ ˈkruːsəfaɪ,1,0
 crucifix, ˈkruːsəfɪks ˈkru·səˌfɪks,0,0
 crucifixes, ˈkruːsəfɪks ˈkru·səˌfɪks,1,0
 crucifixion, kruːsəˈfɪkʃən kruːsəˈfɪkʃən ˌkru·səˈfɪk·ʃən,0,0
@@ -135,7 +135,7 @@ cruelly, ˈkruːəli ˈkruːəli,0,0
 cruelties, ˈkruːəlti,1,0
 cruelty, ˈkruːəlti,0,0
 cruise, kruːz kruz kruz kruz,0,0
-cruised, kruːz kruːz kruːz kruːz kruːz kruːz,0,0
+cruised, kruːz kruːz kruːz kruːz kruːz kruːz,1,0
 cruiser, ˈkruːzɚ ˈkruːzɚ ˈkruːzɚ ˈkru·zər,0,0
 cruisers, ˈkruːzɚ ˈkruːzɚ ˈkruːzɚ ˈkru·zər,1,0
 cruises, kruːz kruz kruz kruz,1,0
@@ -144,9 +144,9 @@ crull,,0,1
 crum,,0,1
 crumb, krʌm krʌm krʌm,0,0
 crumble, ˈkrʌmbəl ˈkrʌmbəl ˈkrʌm·bəl,0,0
-crumbled, ˈkrʌmbəl ˈkrʌmbəl,0,0
+crumbled, ˈkrʌmbəl ˈkrʌmbəl,1,0
 crumbles, ˈkrʌmbəl ˈkrʌmbəl ˈkrʌm·bəl,1,0
-crumbling, ˈkrʌmbəl ˈkrʌmbəl,0,0
+crumbling, ˈkrʌmbəl ˈkrʌmbəl,1,0
 crumbs, krʌmz,0,0
 crumby,,0,1
 crummy, ˈkrʌmi ˈkrʌm·i,0,0
@@ -154,20 +154,20 @@ crump, krʌmp,0,0
 crumple, ˈkrʌmpəl ˈkrʌmpəl ˈkrʌmpəl ˈkrʌm·pəl ˈkrʌm·pəl,0,0
 crumpled, ˈkrʌmpəld,0,0
 crunch, krʌntʃ krʌntʃ krʌntʃ,0,0
-crunched, krʌntʃ,0,0
+crunched, krʌntʃ,1,0
 cruncher, ˈnʌmbɚˌkrʌntʃɚ,1,0
 crunchers, ˈnʌmbɚˌkrʌntʃɚ,1,0
 crunches, krʌntʃ krʌntʃ krʌntʃ krʌntʃ krʌntʃ,1,0
-crunching, krʌntʃ,0,0
+crunching, krʌntʃ,1,0
 crunchy, ˈkrʌntʃi ˈkrʌntʃi ˈkrʌntʃi ˈkrʌn·tʃi,0,0
 crunk, kruŋk,0,0
 crusade, kruːˈseɪd kruːˈseɪd kruˈseɪd,0,0
 crusader, kruːˈseɪdɚ kruːˈseɪdɚ,0,0
 crusaders, kruːˈseɪdɚ kruːˈseɪdɚ,1,0
 crusades, kruːˈseɪd kruːˈseɪd kruˈseɪd kruˈseɪd,1,0
-crusading, kruːˈseɪd,0,0
+crusading, kruːˈseɪd,1,0
 crush, krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ,0,0
-crushed, krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ,0,0
+crushed, krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ,1,0
 crusher,,0,1
 crushers,,0,1
 crushes, krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ krʌʃ,1,0
@@ -196,7 +196,7 @@ crystalline," ˈkrɪstəllən ˈkrɪstəllən ˈkrɪs·təl·ən, -ˌɑɪn, -ˌi
 crystallize, ˈkrɪstəlaɪz ˈkrɪstəlaɪz ˈkrɪs·təlˌɑɪz,0,0
 crystallized, ˈkrɪstəlaɪzd,0,0
 crystallizes, ˈkrɪstəlaɪz ˈkrɪstəlaɪz ˈkrɪs·təlˌɑɪz,1,0
-crystallizing, ˈkrɪstəlaɪz ˈkrɪstəlaɪz,0,0
+crystallizing, ˈkrɪstəlaɪz ˈkrɪstəlaɪz,1,0
 crystallography,,0,1
 crystals, ˈkrɪstəl ˈkrɪstəl ˈkrɪstəl ˈkrɪstəl ˈkrɪstəl ˈkrɪs·təl ˈkrɪs·təl ˈkrɪs·təl ˈkrɪs·təl,1,0
 csi,,0,1
@@ -208,7 +208,7 @@ cubans, ˈkjuːbən,1,0
 cubbies,,0,1
 cubbyhole, ˈkʌbihoʊl ˈkʌb·iˌhoʊl,0,0
 cube, kjuːb kjuːb kjub kjub,0,0
-cubed, kjuːb kjuːb,0,0
+cubed, kjuːb kjuːb,1,0
 cubes, kjuːb kjuːb kjub kjub,1,0
 cubic, ˈkjuːbɪk ˈkju·bɪk,0,0
 cubicle, ˈkjuːbɪkəl ˈkju·bɪ·kəl,0,0
@@ -222,8 +222,8 @@ cuckoos, ˈkʊkuː,1,0
 cucumber, ˈkjuːkʌmbɚ ˈkju·kʌm·bər,0,0
 cucumbers, ˈkjuːkʌmbɚ ˈkju·kʌm·bər,1,0
 cuddle, ˈkʌdəl ˈkʌd·əl ˈkʌd·əl,0,0
-cuddled, ˈkʌdəl,0,0
-cuddling, ˈkʌdəl,0,0
+cuddled, ˈkʌdəl,1,0
+cuddling, ˈkʌdəl,1,0
 cuddly, ˈkʌdəli ˈkʌd·əl·i,0,0
 cuddy,,0,1
 cudgel, ˈkʌdʒəl,0,0
@@ -233,7 +233,7 @@ cued, kjuː kjuː kjuː kjuː kjuː kju kju,1,0
 cues, kjuː kjuː kjuː kjuː kjuː kju kju,1,0
 cuesta, ˈkwestə,0,0
 cuff, kʌf kʌf kʌf kʌf kʌf,0,0
-cuffed, kʌf kʌf,0,0
+cuffed, kʌf kʌf,1,0
 cuffs, kʌfs,0,0
 cuidado,,0,1
 cuing,,0,1
@@ -244,8 +244,8 @@ culbert,,0,1
 culex,,0,1
 culinary," ˈkʌləneri ˈkʌl·əˌner·i, ˈkju·lə-",0,0
 cull, kʌl kʌl kʌl,0,0
-culled, kʌl,0,0
-culling, kʌl,0,0
+culled, kʌl,1,0
+culling, kʌl,1,0
 cully,,0,1
 culminate, ˈkʌl·məˌneɪt,0,1
 culminated,,0,1
@@ -263,7 +263,7 @@ cultists,,0,1
 cultivate, ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌl·təˌveɪt ˈkʌl·təˌveɪt ˈkʌl·təˌveɪt,0,0
 cultivated, ˈkʌltəveɪt̬ɪd ˈkʌltəveɪt̬ɪd ˈkʌl·təˌveɪ·t̬ɪd,0,0
 cultivates, ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌl·təˌveɪt ˈkʌl·təˌveɪt ˈkʌl·təˌveɪt,1,0
-cultivating, ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌltəveɪt,0,0
+cultivating, ˈkʌltəveɪt ˈkʌltəveɪt ˈkʌltəveɪt,1,0
 cultivation, ˌkʌltəˈveɪʃən ˌkʌltəˈveɪʃən ˌkʌltəˈveɪʃən,0,0
 cults, kʌlt kʌlt kʌlt kʌlt kʌlt,1,0
 cultural, ˈkʌltʃɚəl ˈkʌltʃɚəl ˈkʌl·tʃər·əl ˈkʌl·tʃər·əl,0,0
@@ -271,10 +271,10 @@ culturally, ˈkʌltʃɚəli ˈkʌltʃɚəli,0,0
 culture, ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌl·tʃər ˈkʌl·tʃər ˈkʌl·tʃər,0,0
 cultured, ˈkʌltʃɚd ˈkʌl·tʃərd,0,0
 cultures, ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌltʃɚ ˈkʌl·tʃər ˈkʌl·tʃər ˈkʌl·tʃər,1,0
-culturing, ˈkʌltʃɚ,0,0
+culturing, ˈkʌltʃɚ,1,0
 culver,,0,1
 culvert, ˈkʌlvɚt,0,0
-cum,"  -kʌm- kʊm, kʌm",0,0
+cum,"  -kʌm- kʊm, kʌm",1,0
 cumberland, ˈkʌmbɚlənd,0,0
 cumbersome, ˈkʌmbɚsəm ˈkʌm·bər·səm,0,0
 cumin, ˈkuːmɪn,0,0
@@ -303,19 +303,19 @@ curative, ˈkjʊrət̬ɪv,0,0
 curator," kjʊˈreɪt̬ɚ ˈkyʊərˌeɪ·t̬ər, kjʊˈreɪ-",0,0
 curators," kjʊˈreɪt̬ɚ ˈkyʊərˌeɪ·t̬ər, kjʊˈreɪ-",1,0
 curb, kɝːb kɜrb,0,0
-curbed, kɝːb,0,0
-curbing, kɝːb,0,0
+curbed, kɝːb,1,0
+curbing, kɝːb,1,0
 curbs, kɝːb kɜrb,1,0
 curbside, ˈkɝːbsaɪd ˈkɜrbˌsɑɪd,0,0
 curbstone,,0,1
 curd, kɝːd kɜrd,0,0
 cure, kjʊr kjʊr kjʊr kjʊr kjʊər kjʊər,0,0
-cured, kjʊr kjʊr kjʊr,0,0
+cured, kjʊr kjʊr kjʊr,1,0
 cures, kjʊr kjʊr kjʊr kjʊr kjʊər kjʊər,1,0
 curfew, ˈkɝːfjuː ˈkɝːfjuː ˈkɜr·fju,0,0
 curfews, ˈkɝːfjuː ˈkɝːfjuː ˈkɜr·fju,1,0
 curie, ˈkjʊri,0,0
-curing, kjʊr kjʊr kjʊr,0,0
+curing, kjʊr kjʊr kjʊr,1,0
 curio, ˈkjʊrioʊ ˈkjʊər·iˌoʊ,0,0
 curios, ˈkjʊrioʊ ˈkjʊər·iˌoʊ,1,0
 curiosities, ˌkjʊriˈɑːsət̬i ˌkjʊriˈɑːsət̬i ˌkjʊər·iˈɑs·ɪ·t̬i ˌkjʊər·iˈɑs·ɪ·t̬i,1,0
@@ -324,7 +324,7 @@ curious, ˈkjʊriəs ˈkjʊriəs ˈkjʊər·i·əs ˈkjʊər·i·əs,0,0
 curiouser,,0,1
 curiously, ˈkjʊriəsli ˈkjʊriəsli ˈkjʊər·i·əs·li,0,0
 curl, kɝːl kɝːl kɝːl kɜrl,0,0
-curled, kɝːl kɝːl kɝːl kɝːl,0,0
+curled, kɝːl kɝːl kɝːl kɝːl,1,0
 curler, ˈkɝːlɚ ˈkɝːlɚ ˈkɜr·lər ˈkɜr·lər,0,0
 curlers, ˈkɝːlɚ ˈkɝːlɚ ˈkɜr·lər ˈkɜr·lər,1,0
 curling, ˈkɝːlɪŋ ˈkɜr·lɪŋ,0,0
@@ -345,16 +345,16 @@ curried, ˈkɝːid,0,0
 currier,,0,1
 curries," ˈkɝːi ˈkɝːi ˈkɜr·i, ˈkʌr·i",1,0
 curry," ˈkɝːi ˈkɜr·i, ˈkʌr·i",0,0
-currying, ˈkɝːi ˈkɝːi ˈkɝːi,0,0
+currying, ˈkɝːi ˈkɝːi ˈkɝːi,1,0
 curse, kɝːs kɝːs kɝːs kɝːs kɜrs kɜrs,0,0
 cursed, ˈkɝːst ˈkɝːst ˈkɝːst,0,0
 curses, kɝːs kɝːs kɝːs kɝːs kɝːs kɜrs kɜrs,1,0
-cursing, kɝːs kɝːs,0,0
+cursing, kɝːs kɝːs,1,0
 cursor, ˈkɝːsɚ ˈkɜr·sər,0,0
 cursory, ˈkɝːsɚi ˈkɜr·sə·ri,0,0
 curt, kɝːt kɜrt,0,0
 curtail, kɚˈteɪl kərˈteɪl,0,0
-curtailed, kɚˈteɪl,0,0
+curtailed, kɚˈteɪl,1,0
 curtailment, kɚˈteɪlmənt,0,0
 curtain, ˈkɝːtən ˈkɝːtən ˈkɝːtən ˈkɜr·tən ˈkɜr·tən ˈkɜr·tən,0,0
 curtains,,0,1
@@ -363,18 +363,18 @@ curvature," ˈkɝːvətʃɚ ˈkɜr·və·tʃər, -ˌtʃʊər",0,0
 curve, kɝːv kɝːv kɝːv kɝːv kɜrv,0,0
 curved, kɝːvd,0,0
 curves, kɝːv kɝːv kɝːv kɝːv kɜrv,1,0
-curving, kɝːv,0,0
+curving, kɝːv,1,0
 curvy, ˈkɝːvi ˈkɝːvi ˈkɜr·vi,0,0
 cush,,0,1
 cushing,,0,1
 cushion, ˈkʊʃən ˈkʊʃən ˈkʊʃən ˈkʊʃ·ən,0,0
-cushioned, ˈkʊʃən,0,0
+cushioned, ˈkʊʃən,1,0
 cushions, ˈkʊʃən ˈkʊʃən ˈkʊʃən ˈkʊʃən ˈkʊʃ·ən,1,0
 cushy, ˈkʊʃi ˈkʊʃ·i,0,0
 cusp, kʌsp,0,0
 cuss, kʌs kʌs,0,0
 cussed, ˈkʌsɪd,0,0
-cussing, kʌs,0,0
+cussing, kʌs,1,0
 custard, ˈkʌstɚd ˈkʌs·tərd,0,0
 custodial, kʌsˈtoʊdiəl kʌsˈtoʊ·di·əl,0,0
 custodian, kʌsˈtoʊdiən kʌsˈtoʊdiən kʌsˈtoʊdiən kʌsˈtoʊ·di·ən,0,0
@@ -387,7 +387,7 @@ customer, ˈkʌstəmɚ ˈkʌs·tə·mər,0,0
 customers, ˈkʌstəmɚ ˈkʌs·tə·mər,1,0
 customize, ˈkʌstəmaɪz ˈkʌstəmaɪz,0,0
 customized, ˈkʌstəmaɪzd,0,0
-customizing, ˈkʌstəmaɪz,0,0
+customizing, ˈkʌstəmaɪz,1,0
 customs, ˈkʌs·təmz,0,0
 cut, kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt kʌt,0,0
 cutaneous, kjuːˈteɪniəs,0,0
@@ -423,7 +423,7 @@ cyberspace, ˈsaɪbɚspeɪs ˈsɑɪ·bərˌspeɪs,0,0
 cyborg, ˈsaɪbɔːrɡ,0,0
 cyborgs, ˈsaɪbɔːrɡ,1,0
 cycle, ˈsaɪkəl ˈsaɪkəl ˈsaɪkəl ˈsaɪkəl ˈsɑɪ·kəl ˈsɑɪ·kəl,0,0
-cycled, ˈsaɪkəl ˈsaɪkəl,0,0
+cycled, ˈsaɪkəl ˈsaɪkəl,1,0
 cycles, ˈsaɪkəl ˈsaɪkəl ˈsaɪkəl ˈsaɪkəl ˈsaɪkəl ˈsɑɪ·kəl ˈsɑɪ·kəl,1,0
 cyclic, ˈsɪklɪk ˈsɪklɪk,0,0
 cyclical," ˈsɪklɪkəl ˈsɪk·lɪ·kəl, ˈsɑɪ·klɪ·kəl",0,0
@@ -468,9 +468,9 @@ da, ˌdiːˈeɪ,0,0
 dab, dæb dæb dæb dæb,0,0
 dabbing, ˈdæbɪŋ,0,0
 dabble, ˈdæbəl ˈdæbəl ˈdæb·əl,0,0
-dabbled, ˈdæbəl ˈdæbəl,0,0
+dabbled, ˈdæbəl ˈdæbəl,1,0
 dabbles, ˈdæbəl ˈdæbəl ˈdæb·əl,1,0
-dabbling, ˈdæbəl ˈdæbəl,0,0
+dabbling, ˈdæbəl ˈdæbəl,1,0
 dace,,0,1
 dacha,,0,1
 dachshund," ˈdɑːkshʊnd ˈdɑks·hʊnt, -hʊnd",0,0

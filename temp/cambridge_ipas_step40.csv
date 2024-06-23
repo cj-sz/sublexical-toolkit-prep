@@ -12,7 +12,7 @@ greens, ɡrinz,0,0
 greenwich,,0,1
 greenwood,,0,1
 greet, ɡriːt ɡriːt ɡrit,0,0
-greeted, ɡriːt ɡriːt,0,0
+greeted, ɡriːt ɡriːt,1,0
 greeting, ˈɡriːt̬ɪŋ ˈɡri·t̬ɪŋ,0,0
 greetings,,0,1
 greets, ɡriːt ɡriːt ɡrit,1,0
@@ -43,7 +43,7 @@ grief, ɡriːf ɡriːf ɡriːf ɡriːf ɡrif,0,0
 grievance, ˈɡriːvəns ˈɡri·vəns,0,0
 grievances, ˈɡriːvəns ˈɡri·vəns,1,0
 grieve, ɡriːv ɡriːv ɡriv,0,0
-grieved, ɡriːv ɡriːv,0,0
+grieved, ɡriːv ɡriːv,1,0
 grieves, ɡriːv ɡriːv ɡriv,1,0
 grieving, ˈɡriːvɪŋ,0,0
 grievous, ˈɡriːvəs ˈɡri·vəs,0,0
@@ -58,9 +58,9 @@ grilling, ˈɡrɪlɪŋ ˈɡrɪlɪŋ,0,0
 grills, ɡrɪl ɡrɪl ɡrɪl ɡrɪl ɡrɪl,1,0
 grim, ɡrɪm ɡrɪm ɡrɪm ɡrɪm ɡrɪm,0,0
 grimace," ˈɡrɪməs ˈɡrɪm·əs, ɡrɪˈmeɪs",0,0
-grimaced, ˈɡrɪməs,0,0
+grimaced, ˈɡrɪməs,1,0
 grimaces," ˈɡrɪməs ˈɡrɪm·əs, ɡrɪˈmeɪs",1,0
-grimacing, ˈɡrɪməs,0,0
+grimacing, ˈɡrɪməs,1,0
 grime, ɡraɪm ɡraɪm ɡrɑɪm,0,0
 grimes,,0,1
 grimly, ˈɡrɪmli ˈɡrɪmli ˈɡrɪmli,0,0
@@ -83,9 +83,9 @@ grinning, ˈɡrɪnɪŋ,0,0
 grins, ɡrɪn ɡrɪn,1,0
 grip, ɡrɪp ɡrɪp ɡrɪp ɡrɪp ɡrɪp,0,0
 gripe, ɡraɪp ɡrɑɪp,0,0
-griped, ɡraɪp,0,0
+griped, ɡraɪp,1,0
 gripes, ɡraɪp ɡrɑɪp,1,0
-griping, ɡraɪp,0,0
+griping, ɡraɪp,1,0
 gripped,,0,1
 gripping, ˈɡrɪpɪŋ ˈɡrɪp·ɪŋ,0,0
 grips, ɡrɪp ɡrɪp ɡrɪp ɡrɪp ɡrɪp,1,0
@@ -102,8 +102,8 @@ grizzlies, ˈɡrɪzli,1,0
 grizzly, ˈɡrɪzli,0,0
 gro,,0,1
 groan, ɡroʊn ɡroʊn ɡroʊn,0,0
-groaned, ɡroʊn ɡroʊn ɡroʊn ɡroʊn,0,0
-groaning, ɡroʊn ɡroʊn ɡroʊn ɡroʊn,0,0
+groaned, ɡroʊn ɡroʊn ɡroʊn ɡroʊn,1,0
+groaning, ɡroʊn ɡroʊn ɡroʊn ɡroʊn,1,0
 groans, ɡroʊn ɡroʊn ɡroʊn,1,0
 groat, ɡroʊt ɡroʊt,0,0
 grocer, ˈɡroʊsɚ ˈɡroʊ·sər,0,0
@@ -128,15 +128,15 @@ grooves, ɡruːv ɡruːv ɡruːv ɡruv,1,0
 grooviest, ˈɡruːvi ˈɡru·vi,1,0
 groovy, ˈɡruːvi ˈɡru·vi,0,0
 grope, ɡroʊp ɡroʊp ɡroʊp ɡroʊp,0,0
-groped, ɡroʊp ɡroʊp,0,0
-groping, ɡroʊp ɡroʊp,0,0
+groped, ɡroʊp ɡroʊp,1,0
+groping, ɡroʊp ɡroʊp,1,0
 grosbeak,,0,1
 gross, ɡroʊs ɡroʊs ɡroʊs ɡroʊs,0,0
 grosse,,0,1
-grossed, ɡroʊs,0,0
+grossed, ɡroʊs,1,0
 grosser, ɡroʊs ɡroʊs ɡroʊs ɡroʊs,1,0
 grosses, ɡroʊs ɡroʊs ɡroʊs ɡroʊs,1,0
-grossing, ɡroʊs,0,0
+grossing, ɡroʊs,1,0
 grossly, ˈɡroʊsli ˈɡroʊs·li,0,0
 grosso,,0,1
 grote,,0,1
@@ -161,7 +161,7 @@ groundswell, ˈɡraʊndswel,0,0
 groundwater," ˈɡrɑʊndˌwɔt̬·ər, -ˌwɑt̬·ər",0,0
 groundwork, ˈɡraʊndwɝːk ˈɡraʊndwɝːk ˈɡrɑʊn·dwɜrk,0,0
 group, ɡruːp ɡruːp ɡruːp ɡruːp ɡrup ɡrup ɡrup,0,0
-grouped, ɡruːp,0,0
+grouped, ɡruːp,1,0
 grouper, ˈɡruːɚ,0,0
 groupie, ˈɡruːpi ˈɡru·pi,0,0
 groupies, ˈɡruːpi ˈɡru·pi,1,0
@@ -169,9 +169,9 @@ grouping, ˈɡruːpɪŋ,0,0
 groupings, ˈɡruːpɪŋ,1,0
 groups, ɡruːp ɡruːp ɡruːp ɡruːp ɡruːp ɡrup ɡrup ɡrup,1,0
 grouse, ɡraʊs ɡraʊs ɡrɑʊs,0,0
-grousing, ɡraʊs,0,0
+grousing, ɡraʊs,1,0
 grout, ɡraʊt,0,0
-grouting, ɡraʊt,0,0
+grouting, ɡraʊt,1,0
 grove, ɡroʊv ɡroʊv,0,0
 grovel," ˈɡrɑːvəl ˈɡrɑːvəl ˈɡrɑv·əl, ˈɡrʌv·əl",0,0
 groveling, ˈɡrɑːvəlɪŋ,0,0
@@ -183,7 +183,7 @@ grower, ˈɡroʊɚ ˈɡroʊɚ ˈɡroʊ·ər,0,0
 growers, ˈɡroʊɚ ˈɡroʊɚ ˈɡroʊ·ər,1,0
 growing, ˈɡroʊɪŋ ˈɡroʊ·ɪŋ,0,0
 growl, ɡraʊl ɡrɑʊl ɡrɑʊl,0,0
-growled, ɡraʊl,0,0
+growled, ɡraʊl,1,0
 growling, ˈɡraʊlɪŋ,0,0
 growls, ɡraʊl ɡrɑʊl ɡrɑʊl,1,0
 grown, ɡroʊn,0,1
@@ -204,9 +204,9 @@ gruesome, ˈɡruːsəm ˈɡru·səm,0,0
 gruff, ɡrʌf ɡrʌf ɡrʌf,0,0
 grum,,0,1
 grumble, ˈɡrʌmbəl ˈɡrʌmbəl ˈɡrʌm·bəl,0,0
-grumbled, ˈɡrʌmbəl ˈɡrʌmbəl,0,0
+grumbled, ˈɡrʌmbəl ˈɡrʌmbəl,1,0
 grumbles, ˈɡrʌmbəl ˈɡrʌmbəl ˈɡrʌm·bəl,1,0
-grumbling, ˈɡrʌmbəl ˈɡrʌmbəl,0,0
+grumbling, ˈɡrʌmbəl ˈɡrʌmbəl,1,0
 grumblings,,0,1
 grump, ɡrʌmp,0,0
 grumpy, ˈɡrʌmpi ˈɡrʌm·pi,0,0
@@ -216,8 +216,8 @@ grunge, ɡrʌndʒ ɡrʌndʒ ɡrʌndʒ,0,0
 grungy, ˈɡrʌndʒi ˈɡrʌn·dʒi,0,0
 grunion, ˈɡrʌnjən,0,0
 grunt, ɡrʌnt ɡrʌnt ɡrʌnt,0,0
-grunted, ɡrʌnt ɡrʌnt,0,0
-grunting, ɡrʌnt ɡrʌnt,0,0
+grunted, ɡrʌnt ɡrʌnt,1,0
+grunting, ɡrʌnt ɡrʌnt,1,0
 grunts, ɡrʌnt ɡrʌnt ɡrʌnt,1,0
 gruss,,0,1
 gu, ˌdʒiːˈjuː,0,0
@@ -227,7 +227,7 @@ guanine,,0,1
 guano, ˈɡwɑːnoʊ,0,0
 guarantee," ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡær·ənˈti, ˈɡær·ənˌti ˌɡær·ənˈti, ˈɡær·ənˌti",0,0
 guaranteed,,0,1
-guaranteeing, ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː,0,0
+guaranteeing, ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː,1,0
 guarantees," ˌɡerənˈtiː ˌɡerənˈtiː ˌɡerənˈtiː ˌɡær·ənˈti, ˈɡær·ənˌti ˌɡær·ənˈti, ˈɡær·ənˌti",1,0
 guarantor, ˌɡerənˈtɔːr ˌɡerənˈtɔːr ˌɡerənˈtɔːr -ˈtɔːr,0,0
 guarantors, ˌɡerənˈtɔːr ˌɡerənˈtɔːr ˌɡerənˈtɔːr -ˈtɔːr,1,0
@@ -237,7 +237,7 @@ guarded, ˈɡɑːrdɪd ˈɡɑr·dɪd,0,0
 guardian, ˈɡɑːrdiən ˈɡɑːrdiən ˈɡɑr·di·ən ˈɡɑr·di·ən,0,0
 guardians, ˈɡɑːrdiən ˈɡɑːrdiən ˈɡɑr·di·ən ˈɡɑr·di·ən,1,0
 guardianship, ˈɡɑːrdiənʃɪp,0,0
-guarding, ɡɑːrd ɡɑːrd ɡɑːrd ɡɑːrd,0,0
+guarding, ɡɑːrd ɡɑːrd ɡɑːrd ɡɑːrd,1,0
 guardrail,,0,1
 guardrails,,0,1
 guards, ɡɑːrdz,0,0
@@ -259,10 +259,10 @@ guerre,,0,1
 guerrilla, ɡəˈrɪlə ɡəˈrɪl·ə,0,0
 guerrillas, ɡəˈrɪlə ɡəˈrɪl·ə,1,0
 guess, ɡes ɡes ɡes ɡes ɡes,0,0
-guessed, ɡes ɡes ɡes ɡes ɡes ɡes,0,0
+guessed, ɡes ɡes ɡes ɡes ɡes ɡes,1,0
 guesser,,0,1
 guesses, ɡes ɡes ɡes ɡes ɡes ɡes ɡes ɡes ɡes,1,0
-guessing, ɡes ɡes ɡes ɡes ɡes ɡes,0,0
+guessing, ɡes ɡes ɡes ɡes ɡes ɡes,1,0
 guesstimate, ˈɡestəmət ˈɡes·tə·mət,0,0
 guesswork, ˈɡeswɝːk ˈɡesˌwɜrk,0,0
 guest, ɡest ɡest ɡest ɡest ɡest ɡest ɡest ɡest,0,0
@@ -277,13 +277,13 @@ guidance, ˈɡaɪdəns ˈɡaɪdəns ˈɡɑɪ·dəns,0,0
 guide, ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡɑɪd ɡɑɪd,0,0
 guidebook, ˈɡaɪdbʊk ˈɡɑɪdˌbʊk,0,0
 guidebooks, ˈɡaɪdbʊk ˈɡɑɪdˌbʊk,1,0
-guided, ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd,0,0
+guided, ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd,1,0
 guideline, ˈɡaɪdlaɪn ˈɡɑɪdˌlɑɪn,0,0
 guidelines, ˈɡaɪdlaɪn ˈɡɑɪdˌlɑɪn,1,0
 guidepost, ˈɡaɪdpoʊst ˈɡaɪdpoʊst ˈɡaɪdpoʊst,0,0
 guider,,0,1
 guides,,0,1
-guiding, ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd,0,0
+guiding, ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd ɡaɪd,1,0
 guild, ɡɪld ɡɪld,0,0
 guilder, ˈɡɪldɚ,0,0
 guilders, ˈɡɪldɚ,1,0
@@ -319,8 +319,8 @@ gulliver,,0,1
 gulls, ɡʌl ɡʌl ɡʌl,1,0
 gully, ˈɡʌli ˈɡʌli ˈɡʌli ˈɡʌli ˈɡʌl·i,0,0
 gulp, ɡʌlp ɡʌlp ɡʌlp ɡʌlp,0,0
-gulped, ɡʌlp ɡʌlp,0,0
-gulping, ɡʌlp ɡʌlp,0,0
+gulped, ɡʌlp ɡʌlp,1,0
+gulping, ɡʌlp ɡʌlp,1,0
 gulps, ɡʌlp ɡʌlp ɡʌlp ɡʌlp,1,0
 gum, ɡʌm ɡʌm ɡʌm ɡʌm ɡʌm ɡʌm ɡʌm ɡʌm,0,0
 gumbo, ˈɡʌmboʊ ˈɡʌmboʊ ˈɡʌm·boʊ,0,0
@@ -368,13 +368,13 @@ gunther,,0,1
 guppies, ˈɡʌpi,1,0
 guppy, ˈɡʌpi,0,0
 gurgle, ˈɡɝːɡəl ˈɡɝːɡəl ˈɡɜr·ɡəl,0,0
-gurgling, ˈɡɝːɡəl ˈɡɝːɡəl,0,0
+gurgling, ˈɡɝːɡəl ˈɡɝːɡəl,1,0
 gurney, ˈɡɝːni ˈɡɜr·ni,0,0
 gurr,,0,1
 guru," ˈɡʊruː ˈɡʊruː ˈɡʊər·u, ˈɡu·ru",0,0
 gurus," ˈɡʊruː ˈɡʊruː ˈɡʊər·u, ˈɡu·ru",1,0
 gush, ɡʌʃ ɡʌʃ ɡʌʃ ɡʌʃ,0,0
-gushed, ɡʌʃ ɡʌʃ,0,0
+gushed, ɡʌʃ ɡʌʃ,1,0
 gusher, ˈɡʌʃɚ,0,0
 gushes, ɡʌʃ ɡʌʃ ɡʌʃ ɡʌʃ,1,0
 gushing, ˈɡʌʃɪŋ,0,0
@@ -383,7 +383,7 @@ gussie,,0,1
 gussied,,0,1
 gussy,,0,1
 gust, ɡʌst ɡʌst,0,0
-gusting, ɡʌst,0,0
+gusting, ɡʌst,1,0
 gusto, ˈɡʌstoʊ ˈɡʌs·toʊ,0,0
 gusts, ɡʌst ɡʌst,1,0
 gusty, ˈɡʌsti,0,0
@@ -407,7 +407,7 @@ guzzle, ˈɡʌzəl ˈɡʌzəl ˈɡʌz·əl,0,0
 guzzler, ˈɡʌzəlɚ,0,0
 guzzlers, ˈɡʌzəlɚ,1,0
 guzzles, ˈɡʌzəl ˈɡʌzəl ˈɡʌz·əl,1,0
-guzzling, ˈɡʌzəl ˈɡʌzəl,0,0
+guzzling, ˈɡʌzəl ˈɡʌzəl,1,0
 gym, dʒɪm dʒɪm dʒɪm dʒɪm dʒɪm,0,0
 gymnasium, dʒɪmˈneɪziəm dʒɪmˈneɪziəm dʒɪmˈneɪ·zi·əm,0,0
 gymnasiums, dʒɪmˈneɪziəm dʒɪmˈneɪziəm dʒɪmˈneɪ·zi·əm,1,0
@@ -427,7 +427,7 @@ gypsies, ˈdʒɪpsi ˈdʒɪp·si,1,0
 gypsum, ˈdʒɪpsəm,0,0
 gypsy, ˈdʒɪpsi ˈdʒɪp·si,0,0
 gyrate, ˈdʒaɪreɪt ˈdʒaɪreɪt ˈdʒaɪreɪt ˈdʒɑɪ·reɪt,0,0
-gyrating, ˈdʒaɪreɪt ˈdʒaɪreɪt ˈdʒaɪreɪt,0,0
+gyrating, ˈdʒaɪreɪt ˈdʒaɪreɪt ˈdʒaɪreɪt,1,0
 gyration, ˌdʒaɪˈreɪʃən ˌdʒaɪˈreɪʃən ˌdʒaɪˈreɪʃən,0,0
 gyrations, ˌdʒaɪˈreɪʃən ˌdʒaɪˈreɪʃən ˌdʒaɪˈreɪʃən,1,0
 gyro,,0,1
@@ -451,7 +451,7 @@ habsburg,,0,1
 hacienda,,0,1
 hack, hæk hæk hæk hæk hæk hæk hæk hæk hæk hæk,0,0
 hackberry,,0,1
-hacked, hæk hæk hæk hæk hæk hæk hæk hæk,0,0
+hacked, hæk hæk hæk hæk hæk hæk hæk hæk,1,0
 hacker, ˈhækɚ ˈhækɚ ˈhæk·ər,0,0
 hackers, ˈhækɚ ˈhækɚ ˈhæk·ər,1,0
 hacking, ˈhækɪŋ,0,0
@@ -475,11 +475,11 @@ hagar,,0,1
 haggadah, həˈɡɑːdə,0,0
 haggard, ˈhæɡɚd ˈhæɡ·ərd,0,0
 haggle, ˈhæɡəl ˈhæɡ·əl,0,0
-haggled, ˈhæɡəl,0,0
+haggled, ˈhæɡəl,1,0
 haggling,,0,1
 hague,,0,1
 hah, hɑː,0,0
 haiku, ˈhaɪkuː,0,0
 hail, heɪl heɪl heɪl,0,0
-hailed, heɪl heɪl,0,0
-hailing, heɪl heɪl,0,0
+hailed, heɪl heɪl,1,0
+hailing, heɪl heɪl,1,0

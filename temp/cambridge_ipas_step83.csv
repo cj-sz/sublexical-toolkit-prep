@@ -4,8 +4,8 @@ slutty, ˈslʌt̬ɪʃ ˈslʌt̬ɪʃ,1,0
 sly, slaɪ slaɪ slɑɪ,0,0
 slyly, ˈslaɪli ˈslaɪli,0,0
 smack, smæk smæk smæk,0,0
-smacked, smæk smæk,0,0
-smacking, smæk smæk,0,0
+smacked, smæk smæk,1,0
+smacking, smæk smæk,1,0
 smacks, smæk smæk smæk,1,0
 small, smɑːl smɑːl smɑːl smɑːl smɑːl smɑːl smɔl smɔl smɔl smɔl smɔl,0,0
 smaller, smɑːl smɑːl smɑːl smɑːl smɑːl smɑːl smɑːl smɑːl smɔl smɔl smɔl smɔl smɔl smɔl,1,0
@@ -23,7 +23,7 @@ smartening,,0,1
 smarter, smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑrt smɑrt smɑrt,1,0
 smartest, smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑːrt smɑrt smɑrt smɑrt,1,0
 smarties,,0,1
-smarting, smɑːrt smɑːrt,0,0
+smarting, smɑːrt smɑːrt,1,0
 smartly, ˈsmɑːrtli ˈsmɑːrtli ˈsmɑrt·li ˈsmɑrt·li,0,0
 smartness, ˈsmɑːrtnəs ˈsmɑːrtnəs ˈsmɑːrtnəs,0,0
 smarts, smɑːrts,0,0
@@ -35,8 +35,8 @@ smashes, smæʃ smæʃ smæʃ smæʃ smæʃ smæʃ smæʃ smæʃ,1,0
 smashing, ˈsmæʃɪŋ,0,0
 smattering, ˈsmæt̬ɚɪŋ ˈsmæt̬·ər·ɪŋ,0,0
 smear, smɪr smɪr smɪər smɪər,0,0
-smeared, smɪr smɪr,0,0
-smearing, smɪr smɪr,0,0
+smeared, smɪr smɪr,1,0
+smearing, smɪr smɪr,1,0
 smears, smɪr smɪr smɪər smɪər,1,0
 smee,,0,1
 smell, smel smel smel smel smel smel smel,0,0
@@ -50,13 +50,13 @@ smelters, ˈsmeltɚ -ṱɚ,1,0
 smelting, ˈsmeltɪŋ,0,0
 smidgen, ˈsmɪdʒɪn ˈsmɪdʒ·ən,0,0
 smile, smaɪl smɑɪl,0,0
-smiled, smaɪl smaɪl,0,0
+smiled, smaɪl smaɪl,1,0
 smiles, smaɪl smɑɪl,1,0
 smiley, ˈsmaɪli,0,0
 smiling, ˈsmaɪlɪŋ,0,0
 smilingly, ˈsmaɪlɪŋli,0,0
 smirk, smɝːk smɜrk,0,0
-smirking, smɝːk,0,0
+smirking, smɝːk,1,0
 smirks, smɝːk smɜrk,1,0
 smit,,0,1
 smith, smɪθ,0,0
@@ -82,28 +82,28 @@ smokestacks, ˈsmoʊkstæk ˈsmoʊkˌstæk,1,0
 smokey, ˈsmoʊki ˈsmoʊki ˈsmoʊ·ki ˈsmoʊ·ki,1,0
 smoking, ˈsmoʊkɪŋ ˈsmoʊ·kɪŋ,0,0
 smoky, ˈsmoʊki ˈsmoʊki ˈsmoʊ·ki ˈsmoʊ·ki,0,0
-smoldering, ˈsmoʊldɚ,0,0
+smoldering, ˈsmoʊldɚ,1,0
 smooch, smutʃ,0,0
 smooches, smutʃ,1,0
 smoot,,0,1
 smooth, smuːð smuːð smuːð smuːð smuð smuð smuð,0,0
-smoothed, smuːð smuːð smuːð,0,0
+smoothed, smuːð smuːð smuːð,1,0
 smoother, smuːð smuːð smuːð smuːð smuð smuð smuð,1,0
 smoothest, smuːð smuːð smuːð smuːð smuð smuð smuð,1,0
-smoothing, smuːð smuːð smuːð,0,0
+smoothing, smuːð smuːð smuːð,1,0
 smoothly, ˈsmuːðli ˈsmuːðli ˈsmuð·li,0,0
 smoothness, ˈsmuːðnəs ˈsmuːðnəs ˈsmuːðnəs ˈsmuːðnəs ˈsmuːðnəs ˈsmuːðnəs ˈsmuð·nəs ˈsmuð·nəs,0,0
 smooths, smuːð smuːð smuːð smuːð smuð smuð smuð,1,0
 smorgasbord," ˈsmɔːrɡəsbɔːrd ˈsmɔːrɡəsbɔːrd ˈsmɔr·ɡəsˌbɔrd, -ˌboʊrd",0,0
 smother, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər,0,0
-smothered, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ,0,0
-smothering, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ,0,0
+smothered, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ,1,0
+smothering, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ,1,0
 smothers, ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌðɚ ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər ˈsmʌð·ər,1,0
 smudge, smʌdʒ smʌdʒ,0,0
 smudged, smʌdʒd,0,0
 smug, smʌɡ smʌɡ,0,0
 smuggle, ˈsmʌɡəl ˈsmʌɡ·əl,0,0
-smuggled, ˈsmʌɡəl,0,0
+smuggled, ˈsmʌɡəl,1,0
 smuggler, ˈsmʌɡlɚ,0,0
 smugglers, ˈsmʌɡlɚ,1,0
 smuggling, ˈsmʌɡlɪŋ,0,0
@@ -114,8 +114,8 @@ smutty, ˈsmʌt̬i,0,0
 smyrna,,0,1
 smyth,,0,1
 snack, snæk snæk snæk,0,0
-snacked, snæk,0,0
-snacking, snæk,0,0
+snacked, snæk,1,0
+snacking, snæk,1,0
 snacks, snæk snæk snæk,1,0
 snafu, snæfˈuː snæˈfu,0,0
 snafus, snæfˈuː snæˈfu,1,0
@@ -130,7 +130,7 @@ snakebite,,0,1
 snakebites,,0,1
 snakelike,,0,1
 snakes, sneɪk sneɪk sneɪk,1,0
-snaking, sneɪk,0,0
+snaking, sneɪk,1,0
 snap, snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp,0,0
 snapdragon, ˈsnæpˌdræɡən ˈsnæpˌdræɡ·ən,0,0
 snapdragons, ˈsnæpˌdræɡən ˈsnæpˌdræɡ·ən,1,0
@@ -144,19 +144,19 @@ snaps, snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp snæp s
 snapshot, ˈsnæpʃɑːt ˈsnæpʃɑːt ˈsnæpˌʃɑt,0,0
 snapshots, ˈsnæpʃɑːt ˈsnæpʃɑːt ˈsnæpˌʃɑt,1,0
 snare, sner sner sneər sneər,0,0
-snared, sner,0,0
+snared, sner,1,0
 snares, sner sner sneər sneər,1,0
-snaring, sner,0,0
+snaring, sner,1,0
 snarl, snɑːrl snɑːrl snɑrl snɑrl,0,0
 snarled, snɑːrld,0,0
-snarling, snɑːrl snɑːrl,0,0
+snarling, snɑːrl snɑːrl,1,0
 snarls, snɑːrl snɑːrl snɑrl snɑrl,1,0
 snatch, snætʃ snætʃ snætʃ snætʃ snætʃ snætʃ,0,0
 snatched, snætʃt snætʃt,0,0
 snatcher, ˈsnætʃɚ,0,0
 snatchers, ˈsnætʃɚ,1,0
 snatches, snætʃ snætʃ snætʃ snætʃ snætʃ snætʃ,1,0
-snatching, snætʃ snætʃ snætʃ snætʃ,0,0
+snatching, snætʃ snætʃ snætʃ snætʃ,1,0
 snazzier, ˈsnæzi ˈsnæz·i,1,0
 snazzy, ˈsnæzi ˈsnæz·i,0,0
 snead,,0,1
@@ -169,34 +169,34 @@ sneaks, sniːk sniːk sniːk snik,1,0
 sneaky, ˈsniːki ˈsniːki ˈsni·ki,0,0
 snee,,0,1
 sneer, snɪr snɪər,0,0
-sneered, snɪr,0,0
+sneered, snɪr,1,0
 sneering, ˈsnɪrɪŋ,0,0
 sneers, snɪr snɪər,1,0
 sneeze, sniːz sniz,0,0
-sneezed, sniːz,0,0
+sneezed, sniːz,1,0
 sneezes, sniːz sniz,1,0
-sneezing, sniːz,0,0
+sneezing, sniːz,1,0
 snell,,0,1
 sneller,,0,1
 snicker, ˈsnɪkɚ ˈsnɪk·ər,0,0
-snickered, ˈsnɪkɚ,0,0
-snickering, ˈsnɪkɚ,0,0
+snickered, ˈsnɪkɚ,1,0
+snickering, ˈsnɪkɚ,1,0
 snickers, ˈsnɪkɚ ˈsnɪk·ər,1,0
 snide, snaɪd snɑɪd,0,0
 snider, snaɪd snɑɪd,1,0
 sniff, snɪf snɪf snɪf snɪf snɪf snɪf,0,0
-sniffed, snɪf snɪf snɪf,0,0
+sniffed, snɪf snɪf snɪf,1,0
 sniffer, ˈsnɪfɚ,0,0
-sniffing, snɪf snɪf snɪf,0,0
+sniffing, snɪf snɪf snɪf,1,0
 sniffle, ˈsnɪfəl ˈsnɪf·əl,0,0
 sniffles, ˈsnɪfəl ˈsnɪfəl ˈsnɪf·əl,1,0
-sniffling, ˈsnɪfəl,0,0
+sniffling, ˈsnɪfəl,1,0
 sniffs, snɪf snɪf snɪf snɪf snɪf snɪf,1,0
 sniffy, ˈsnɪfi,0,0
 snifter, ˈsnɪftɚ ˈsnɪftɚ,0,0
 snip, snɪp snɪp,0,0
 snipe, snaɪp snaɪp snɑɪp,0,0
-sniped, snaɪp snaɪp,0,0
+sniped, snaɪp snaɪp,1,0
 sniper, ˈsnaɪpɚ ˈsnaɪpɚ ˈsnɑɪ·pər,0,0
 snipers, ˈsnaɪpɚ ˈsnaɪpɚ ˈsnɑɪ·pər,1,0
 snipes, snaɪp snaɪp snɑɪp,1,0
@@ -205,7 +205,7 @@ snippet, ˈsnɪpɪt ˈsnɪp·ɪt,0,0
 snippets, ˈsnɪpɪt ˈsnɪp·ɪt,1,0
 snips, snɪp snɪp snɪp,1,0
 snitch, snɪtʃ snɪtʃ snɪtʃ snɪtʃ,0,0
-snitching, snɪtʃ snɪtʃ,0,0
+snitching, snɪtʃ snɪtʃ,1,0
 snively,,0,1
 snob, snɑːb snɑb snɑb,0,0
 snobbery, ˈsnɑːbɚi,0,0
@@ -214,10 +214,10 @@ snobby, ˈsnɑːbi,0,0
 snobs, snɑːb snɑb snɑb,1,0
 snook,,0,1
 snooker, ˈsnuːkɚ ˈsnuːkɚ,0,0
-snookered, ˈsnuːkɚ ˈsnuːkɚ ˈsnuːkɚ,0,0
+snookered, ˈsnuːkɚ ˈsnuːkɚ ˈsnuːkɚ,1,0
 snooks,,0,1
 snoop, snuːp snuːp snup,0,0
-snooping, snuːp snuːp,0,0
+snooping, snuːp snuːp,1,0
 snoops, snuːp snuːp snup,1,0
 snoopy, ˈsnuːpi,0,0
 snooty, ˈsnuːt̬i ˈsnut̬·i,0,0
@@ -230,8 +230,8 @@ snoring, ˈsnɔːrɪŋ,0,0
 snorkel, ˈsnɔːrkəl ˈsnɔr·kəl,0,0
 snorkeling, ˈsnɔːrkəlɪŋ,0,0
 snort, snɔːrt snɔːrt snɔːrt snɔrt snɔrt,0,0
-snorted, snɔːrt snɔːrt snɔːrt,0,0
-snorting, snɔːrt snɔːrt snɔːrt,0,0
+snorted, snɔːrt snɔːrt snɔːrt,1,0
+snorting, snɔːrt snɔːrt snɔːrt,1,0
 snorts, snɔːrt snɔːrt snɔːrt snɔrt snɔrt,1,0
 snot, snɑːt snɑːt snɑt snɑt,0,0
 snotty, ˈsnɑːt̬i ˈsnɑːt̬i ˈsnɑt̬·i,0,0
@@ -239,7 +239,7 @@ snout, snaʊt snaʊt snɑʊt,0,0
 snouts, snaʊt snaʊt snɑʊt,1,0
 snow, snoʊ snoʊ snoʊ snoʊ,0,0
 snowball, ˈsnoʊbɑːl ˈsnoʊˌbɔl,0,0
-snowballed, ˈsnoʊbɑːl,0,0
+snowballed, ˈsnoʊbɑːl,1,0
 snowballing,,0,1
 snowballs, ˈsnoʊbɑːl ˈsnoʊˌbɔl,1,0
 snowbird, ˈsnoʊbɝːd,0,0
@@ -248,12 +248,12 @@ snowboarder, ˈsnoʊbɔːrdɚ,0,0
 snowboarders, ˈsnoʊbɔːrdɚ,1,0
 snowboards," ˈsnoʊbɔːrd ˈsnoʊˌbɔrd, -ˌboʊrd",1,0
 snowbound, ˈsnoʊbaʊnd ˈsnoʊˌbɑʊnd,0,0
-snowed, snoʊ snoʊ,0,0
+snowed, snoʊ snoʊ,1,0
 snowfall, ˈsnoʊfɑːl ˈsnoʊˌfɔl,0,0
 snowfalls, ˈsnoʊfɑːl ˈsnoʊˌfɔl,1,0
 snowflake, ˈsnoʊfleɪk ˈsnoʊfleɪk ˈsnoʊfleɪk ˈsnoʊˌfleɪk,0,0
 snowflakes, ˈsnoʊfleɪk ˈsnoʊfleɪk ˈsnoʊfleɪk ˈsnoʊˌfleɪk,1,0
-snowing, snoʊ snoʊ,0,0
+snowing, snoʊ snoʊ,1,0
 snowman, ˈsnoʊmæn,0,0
 snowmobile, ˈsnoʊməˌbiːl ˈsnoʊ·moʊˌbil,0,0
 snowmobiles, ˈsnoʊməˌbiːl ˈsnoʊ·moʊˌbil,1,0
@@ -270,8 +270,8 @@ snubbing,,0,1
 snubs, snʌb snʌb,1,0
 snuck, snʌk snʌk,0,0
 snuff, snʌf snʌf,0,0
-snuffed, snʌf,0,0
-snuffing, snʌf,0,0
+snuffed, snʌf,1,0
+snuffing, snʌf,1,0
 snuffs, snʌf snʌf,1,0
 snug, snʌɡ snʌɡ snʌɡ snʌɡ,0,0
 snuggle, ˈsnʌɡəl ˈsnʌɡ·əl,0,0
@@ -287,7 +287,7 @@ soapbox, ˈsoʊpbɑːks,0,0
 soaps, soʊp soʊp soʊp,1,0
 soapy, ˈsoʊpi ˈsoʊ·pi,0,0
 soar," sɔːr sɔːr sɔːr sɔːr sɔr, soʊr sɔr, soʊr sɔr, soʊr",0,0
-soared, sɔːr sɔːr sɔːr,0,0
+soared, sɔːr sɔːr sɔːr,1,0
 soaring, ˈsɔːrɪŋ ˈsɔːrɪŋ ˈsɔːrɪŋ,0,0
 soars," sɔːr sɔːr sɔːr sɔːr sɔr, soʊr sɔr, soʊr sɔr, soʊr",1,0
 soave,,0,1
@@ -296,7 +296,7 @@ sobbed,,0,1
 sobbing,,0,1
 sobbingly,,0,1
 sober, ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊ·bər ˈsoʊ·bər,0,0
-sobered, ˈsoʊbɚ,0,0
+sobered, ˈsoʊbɚ,1,0
 sobering, ˈsoʊbɚɪŋ ˈsoʊ·bər·ɪŋ,0,0
 soberly, ˈsoʊbɚli ˈsoʊ·bər·li,0,0
 sobers, ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊbɚ ˈsoʊ·bər ˈsoʊ·bər,1,0
@@ -329,10 +329,10 @@ sociology, ˌsoʊsiˈɑːlədʒi ˌsoʊ·siˈɑl·ə·dʒi,0,0
 sociopath, ˈsoʊsiəpæθ,0,0
 sociopaths, ˈsoʊsiəpæθ,1,0
 sock, sɑːk sɑːk sɑk,0,0
-socked, sɑːk sɑːk,0,0
+socked, sɑːk sɑːk,1,0
 socket, ˈsɑːkɪt ˈsɑːkɪt ˈsɑk·ɪt,0,0
 sockets, ˈsɑːkɪt ˈsɑːkɪt ˈsɑk·ɪt,1,0
-socking, sɑːk sɑːk,0,0
+socking, sɑːk sɑːk,1,0
 socks, sɑːk sɑːk sɑk,1,0
 soco, ˈsɑːkoʊ,0,0
 socrates, ˈsɑːkrət̬iːz,0,0
@@ -344,8 +344,8 @@ sodden, ˈsɑːdən ˈsɑd·ən,0,0
 sodium, ˈsoʊdiəm ˈsoʊ·di·əm,0,0
 sodom,,0,1
 sodomize, ˈsɑːdəmaɪz,0,0
-sodomized, ˈsɑːdəmaɪz,0,0
-sodomizing, ˈsɑːdəmaɪz,0,0
+sodomized, ˈsɑːdəmaɪz,1,0
+sodomizing, ˈsɑːdəmaɪz,1,0
 sodomy, ˈsɑːdəmi,0,0
 sofa, ˈsoʊfə ˈsoʊ·fə,0,0
 sofas, ˈsoʊfə ˈsoʊ·fə,1,0
@@ -355,7 +355,7 @@ soft, sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft sɑːft s�
 softball, ˈsɑːftbɑːl ˈsɑːftbɑːl ˈsɔftˌbɔl,0,0
 softballs, ˈsɑːftbɑːl ˈsɑːftbɑːl ˈsɔftˌbɔl,1,0
 soften, ˈsɑːfən ˈsɑːfən ˈsɔ·fən ˈsɔ·fən ˈsɔ·fən,0,0
-softened, ˈsɑːfən ˈsɑːfən,0,0
+softened, ˈsɑːfən ˈsɑːfən,1,0
 softener, ˈsɑːfənɚ,0,0
 softening,,0,1
 softens, ˈsɑːfən ˈsɑːfən ˈsɔ·fən ˈsɔ·fən ˈsɔ·fən,1,0
@@ -383,7 +383,7 @@ solano,,0,1
 solar, ˈsoʊlɚ ˈsoʊ·lər,0,0
 sold, soʊld soʊld,0,0
 solder, ˈsɑːdɚ ˈsɑd·ər,0,0
-soldering, ˈsɑːdɚ,0,0
+soldering, ˈsɑːdɚ,1,0
 soldier, ˈsoʊldʒɚ ˈsoʊldʒɚ ˈsoʊl·dʒər,0,0
 soldiering, ˈsoʊldʒɚɪŋ,0,0
 soldiers, ˈsoʊldʒɚ ˈsoʊldʒɚ ˈsoʊl·dʒər,1,0
@@ -397,7 +397,7 @@ soles, soʊl soʊl soʊl soʊl,1,0
 solicit, səˈlɪsɪt səˈlɪsɪt səˈlɪs·ɪt,0,0
 solicitation, səˌlɪsəˈteɪʃən səˌlɪsəˈteɪʃən səˌlɪsɪˈteɪʃən,0,0
 solicitations, səˌlɪsəˈteɪʃən səˌlɪsəˈteɪʃən səˌlɪsɪˈteɪʃən,1,0
-solicited, səˈlɪsɪt səˈlɪsɪt,0,0
+solicited, səˈlɪsɪt səˈlɪsɪt,1,0
 soliciting, səˈlɪsɪt̬ɪŋ,0,0
 solicitor, səˈlɪsət̬ɚ səˈlɪs·ɪ·t̬ər səˈlɪs·ɪ·t̬ər,0,0
 solicitors, səˈlɪsət̬ɚ səˈlɪs·ɪ·t̬ər səˈlɪs·ɪ·t̬ər,1,0
@@ -406,10 +406,10 @@ solicits, səˈlɪsɪt səˈlɪsɪt səˈlɪs·ɪt,1,0
 solicitude, səˈlɪsɪtuːd,0,0
 solid, ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd,0,0
 solidarity, ˌsɑːlɪˈderət̬i ˌsɑl·əˈdær·ɪ·t̬i ˌsɑl·əˈdær·ɪ·t̬i,0,0
-solidified, səˈlɪdəfaɪ səˈlɪdəfaɪ,0,0
+solidified, səˈlɪdəfaɪ səˈlɪdəfaɪ,1,0
 solidifies, səˈlɪdəfaɪ səˈlɪdəfaɪ səˈlɪd·əˌfɑɪ səˈlɪd·əˌfɑɪ,1,0
 solidify, səˈlɪdəfaɪ səˈlɪdəfaɪ səˈlɪd·əˌfɑɪ səˈlɪd·əˌfɑɪ,0,0
-solidifying, səˈlɪdəfaɪ səˈlɪdəfaɪ,0,0
+solidifying, səˈlɪdəfaɪ səˈlɪdəfaɪ,1,0
 solidity, səˈlɪdət̬i səˈlɪdət̬i səˈlɪd·ɪ·t̬i,0,0
 solidly, ˈsɑːlɪdli ˈsɑːlɪdli ˈsɑːlɪdli ˈsɑl·ɪd·li ˈsɑl·ɪd·li ˈsɑl·ɪd·li,0,0
 solids, ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑːlɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd ˈsɑl·ɪd,1,0
@@ -429,14 +429,14 @@ solution, səˈluːʃən səˈluːʃən səˈlu·ʃən səˈlu·ʃən,0,0
 solutions, səˈluːʃən səˈluːʃən səˈlu·ʃən səˈlu·ʃən,1,0
 solvable, ˈsɑːlvəbəl,0,0
 solve," sɑːlv sɑlv, sɔlv",0,0
-solved, sɑːlv,0,0
+solved, sɑːlv,1,0
 solvency, ˈsɑːlvənsi ˈsɑːl-,0,0
 solvent," ˈsɑːlvənt ˈsɑl·vənt, ˈsɔl-",0,0
 solvents," ˈsɑːlvənt ˈsɑl·vənt, ˈsɔl-",1,0
 solver,,0,1
 solvers,,0,1
 solves," sɑːlv sɑlv, sɔlv",1,0
-solving, sɑːlv,0,0
+solving, sɑːlv,1,0
 soma, ˈsoʊmə ˈsoʊmə,0,0
 somali, səˈmɑːli,0,0
 somalia, səˈmɑːliə,0,0
@@ -450,7 +450,7 @@ someone," ˈsʌmwʌn ˈsʌmˌwʌn, -wən",0,0
 someplace, ˈsʌmpleɪs ˈsʌmˌpleɪs,0,0
 somers,,0,1
 somersault, ˈsʌmɚsɑːlt ˈsʌm·ərˌsɔlt,0,0
-somersaulting, ˈsʌmɚsɑːlt ˈsʌmɚsɑːlt,0,0
+somersaulting, ˈsʌmɚsɑːlt ˈsʌmɚsɑːlt,1,0
 somersaults, ˈsʌmɚsɑːlt ˈsʌm·ərˌsɔlt,1,0
 somerset, ˈsʌmɚset,0,0
 something, ˈsʌmθɪŋ ˈsʌmθɪŋ ˈsʌm·θɪŋ ˈsʌm·θɪŋ,0,0

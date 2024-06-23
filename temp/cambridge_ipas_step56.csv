@@ -25,15 +25,15 @@ merely, ˈmɪrli ˈmɪrli ˈmɪər·li,0,0
 merengue,,0,1
 merest,,0,1
 merge, mɝːdʒ mɝːdʒ mɜrdʒ,0,0
-merged, mɝːdʒ mɝːdʒ,0,0
+merged, mɝːdʒ mɝːdʒ,1,0
 merger, ˈmɝːdʒɚ ˈmɜr·dʒər,0,0
 mergers, ˈmɝːdʒɚ ˈmɜr·dʒər,1,0
 merges, mɝːdʒ mɝːdʒ mɜrdʒ,1,0
-merging, mɝːdʒ mɝːdʒ,0,0
+merging, mɝːdʒ mɝːdʒ,1,0
 meridian, məˈrɪdiən məˈrɪd·i·ən,0,0
 merino, məˈriːnoʊ,0,0
 merit, ˈmerɪt ˈmer·ɪt,0,0
-merited, ˈmerɪt,0,0
+merited, ˈmerɪt,1,0
 meritocracy, ˌmerəˈtɑːkrəsi,0,0
 meritorious, ˌmerəˈtɔːriəs,0,0
 merits, ˈmerɪt ˈmerɪt ˈmerɪt ˈmer·ɪt,1,0
@@ -58,11 +58,11 @@ mescaline, ˈmeskəliːn,0,0
 mesdames,,0,1
 mesenteric, ˌmesənˈterɪk,0,0
 mesh, meʃ meʃ,0,0
-meshed, meʃ meʃ,0,0
-meshing, meʃ meʃ,0,0
+meshed, meʃ meʃ,1,0
+meshing, meʃ meʃ,1,0
 mesmerism, ˈmezmərɪzəm,0,0
 mesmerize, ˈmezməraɪz ˈmezməraɪz ˈmez·məˌrɑɪz,0,0
-mesmerized, ˈmezməraɪz ˈmezməraɪz,0,0
+mesmerized, ˈmezməraɪz ˈmezməraɪz,1,0
 mesmerizing, ˈmezməraɪzɪŋ,0,0
 meson," ˈmezɑːn ˈmez·ɑn, ˈmes-",0,0
 mesons," ˈmezɑːn ˈmez·ɑn, ˈmes-",1,0
@@ -74,7 +74,7 @@ mess, mes mes mes mes mes mes mes mes mes mes,0,0
 message, ˈmesɪdʒ ˈmesɪdʒ ˈmesɪdʒ ˈmes·ɪdʒ ˈmes·ɪdʒ,0,0
 messages, ˌaɪˈem ˌaɪˈem ɑɪˈem,1,0
 messaging, ˈmesɪdʒɪŋ ˈmesɪdʒɪŋ ˈmes·ə·dʒɪŋ,0,0
-messed, mes mes,0,0
+messed, mes mes,1,0
 messenger, ˈmesɪndʒɚ ˈmes·ən·dʒər,0,0
 messengers, ˈmesɪndʒɚ ˈmes·ən·dʒər,1,0
 messer,,0,1
@@ -84,7 +84,7 @@ messiahs, məˈsaɪə məˈsaɪə məˈsaɪə məˈsaɪə məˈsaɪə məˈsɑɪ
 messianic, ˌmesiˈænɪk ˌmesiˈænɪk ˌmesiˈænɪk,0,0
 messier, ˈmesi ˈmesi ˈmesi ˈmes·i ˈmes·i,1,0
 messieurs,,0,1
-messing, mes mes,0,0
+messing, mes mes,1,0
 messrs, ˈmesɚz,0,0
 messy, ˈmesi ˈmesi ˈmesi ˈmes·i ˈmes·i,0,0
 mestizo, mesˈtiːzoʊ mesˈti·zoʊ,0,0
@@ -117,7 +117,7 @@ metaphysical, ˌmet̬əˈfɪzɪkəl ˌmet̬·əˈfɪz·ɪ·kəl,0,0
 metaphysics, ˌmet̬əˈfɪzɪks,0,0
 metastasis, məˈtæstəsɪs,0,0
 metastasize, metˈæstəsaɪz,0,0
-metastasized, metˈæstəsaɪz,0,0
+metastasized, metˈæstəsaɪz,1,0
 mete,,0,1
 meted,,0,1
 meteor," ˈmiːt̬iɔːr ˈmi·t̬i·ər, -ˌɔr",0,0
@@ -129,8 +129,8 @@ meteorologists, ˌmiːt̬iəˈrɑːlədʒɪst,1,0
 meteorology, ˌmiːt̬iəˈrɑːlədʒi ˌmi·t̬i·əˈrɑl·ə·dʒi,0,0
 meteors," ˈmiːt̬iɔːr ˈmi·t̬i·ər, -ˌɔr",1,0
 meter, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər,0,0
-metered, ˈmiːt̬ɚ,0,0
-metering, ˈmiːt̬ɚ,0,0
+metered, ˈmiːt̬ɚ,1,0
+metering, ˈmiːt̬ɚ,1,0
 meters, ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmiːt̬ɚ ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər ˈmi·t̬ər,1,0
 meth,,0,1
 methadone, ˈmeθədoʊn,0,0
@@ -207,7 +207,7 @@ microfilm, ˈmaɪkroʊfɪlm ˈmɑɪ·krəˌfɪlm,0,0
 microgram, ˈmaɪkroʊɡræm,0,0
 micrograms, ˈmaɪkroʊɡræm,1,0
 micromanage, ˈmaɪkroʊˌmænɪdʒ,0,0
-micromanaging, ˈmaɪkroʊˌmænɪdʒ,0,0
+micromanaging, ˈmaɪkroʊˌmænɪdʒ,1,0
 micrometer, maɪˈkrɑːmət̬ɚ ˈmɑɪ·kroʊˌmi·t̬ər,0,0
 micron, ˈmaɪkrɑːn ˈmɑɪ·krɑn,0,0
 micronesia, ˌmaɪkrəkroʊˈniːʒə ˌmaɪkrəkroʊˈniːʒə,0,0
@@ -227,7 +227,7 @@ microscopy, maɪˈkrɑːskəpi,0,0
 microsystems,,0,1
 microwavable, ˌmaɪkrəˈweɪvəbəl,0,0
 microwave, ˈmaɪkroʊweɪv ˈmaɪkroʊweɪv ˈmɑɪ·krəˌweɪv,0,0
-microwaved, ˈmaɪkroʊweɪv,0,0
+microwaved, ˈmaɪkroʊweɪv,1,0
 microwaves, ˈmaɪkroʊweɪv ˈmaɪkroʊweɪv ˈmɑɪ·krəˌweɪv ˈmɑɪ·krəˌweɪv,1,0
 mid, mɪd mɪd,0,0
 midafternoon, ˌæftɚtəˈnuːn ˈmɪdˌæf·tərˈnun,0,0
@@ -288,9 +288,9 @@ migraines, ˈmaɪɡreɪn ˈmɑɪ·ɡreɪn,1,0
 migrant, ˈmaɪɡrənt ˈmaɪɡrənt,0,0
 migrants, ˈmaɪɡrənt ˈmaɪɡrənt,1,0
 migrate," ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmɑɪ·ɡreɪt, mɑɪˈɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt",0,0
-migrated, ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt,0,0
+migrated, ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt,1,0
 migrates," ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmɑɪ·ɡreɪt, mɑɪˈɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt",1,0
-migrating, ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt,0,0
+migrating, ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt ˈmaɪɡreɪt,1,0
 migration, maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən mɑɪˈɡreɪ·ʃən,0,0
 migrations, maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən maɪˈɡreɪʃən mɑɪˈɡreɪ·ʃən,1,0
 migratory," ˈmaɪɡrətɔːri ˈmaɪɡrətɔːri ˈmɑɪ·ɡrəˌtɔr·i, -ˌtoʊr·i",0,0
@@ -331,9 +331,9 @@ militate,,0,1
 militia, məˈlɪʃə məˈlɪʃ·ə,0,0
 militias, məˈlɪʃə məˈlɪʃ·ə,1,0
 milk, mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk,0,0
-milked, mɪlk mɪlk,0,0
+milked, mɪlk mɪlk,1,0
 milken,,0,1
-milking, mɪlk mɪlk,0,0
+milking, mɪlk mɪlk,1,0
 milkman, ˈmɪlkmən,0,0
 milko,,0,1
 milks, mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk mɪlk,1,0
@@ -344,7 +344,7 @@ mill, mɪl mɪl mɪl mɪl mɪl mɪl,0,0
 millage,,0,1
 millard,,0,1
 mille,,0,1
-milled, mɪl mɪl,0,0
+milled, mɪl mɪl,1,0
 millennia,,0,1
 millennial, mɪˈleniəl mɪˈleniəl,0,0
 millennium, mɪˈleniəm məˈlen·i·əm,0,0
@@ -403,20 +403,20 @@ minded,  -maɪndɪd,1,0
 mindedness, ˌbrɑːdˈmaɪndɪdnəs,1,0
 minder, ˈmaɪndɚ ˈmaɪndɚ,0,0
 mindful, ˈmaɪndfəl ˈmaɪndfəl ˈmɑɪnd·fəl,0,0
-minding, maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd,0,0
+minding, maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd,1,0
 mindless, ˈmaɪndləs ˈmaɪndləs ˈmɑɪnd·ləs,0,0
 mindlessly, ˈmaɪndləsli ˈmaɪndləsli,0,0
 minds, maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd maɪnd,1,0
 mindset, ˈmaɪndset,0,0
 mine, maɪn mɑɪn,0,0
-mined, maɪn maɪn maɪn maɪn,0,0
+mined, maɪn maɪn maɪn maɪn,1,0
 minefield, ˈmaɪnfiːld ˈmaɪnfiːld ˈmɑɪnˌfild ˈmɑɪnˌfild,0,0
 minefields, ˈmaɪnfiːld ˈmaɪnfiːld ˈmɑɪnˌfild ˈmɑɪnˌfild,1,0
 miner, ˈmaɪnɚ ˈmaɪnɚ ˈmɑɪ·nər,0,0
 mineral, ˈmɪnərəl ˈmɪnərəl ˈmɪn·ər·əl ˈmɪn·ər·əl,0,0
 mineralogy, ˌmɪnəˈrælədʒi,0,0
 minerals, ˈmɪnərəl ˈmɪn·ər·əl ˈmɪn·ər·əl,0,0
-miners, ˈmaɪnɚ ˈmaɪnɚ ˈmɑɪ·nər,0,0
+miners, ˈmaɪnɚ ˈmaɪnɚ ˈmɑɪ·nər,1,0
 minerva, mɪˈnɜ˞ːvə,0,0
 mines, maɪn mɑɪn,1,0
 minestrone, ˌmɪnəˈstroʊni,0,0
@@ -426,9 +426,9 @@ minette,,0,1
 ming,,0,1
 minge, mɪndʒ,0,0
 mingle, ˈmɪŋɡəl ˈmɪŋɡəl ˈmɪŋ·ɡəl ˈmɪŋ·ɡəl,0,0
-mingled, ˈmɪŋɡəl ˈmɪŋɡəl,0,0
+mingled, ˈmɪŋɡəl ˈmɪŋɡəl,1,0
 mingles, ˈmɪŋɡəl ˈmɪŋɡəl ˈmɪŋ·ɡəl ˈmɪŋ·ɡəl,1,0
-mingling, ˈmɪŋɡəl ˈmɪŋɡəl,0,0
+mingling, ˈmɪŋɡəl ˈmɪŋɡəl,1,0
 mini, ˈmɪni ˈmɪn·i,0,0
 miniature," ˈmɪniətʃɚ ˈmɪn·i·əˌtʃʊr, -tʃər",0,0
 miniatures," ˈmɪniətʃɚ ˈmɪniətʃɚ ˈmɪn·i·əˌtʃʊr, -tʃər",1,0
@@ -441,9 +441,9 @@ minimal, ˈmɪnəməl ˈmɪn·ə·məl,0,0
 minimalist, ˈmɪnəməlɪst ˈmɪnəməlɪst ˈmɪn·ə·mə·lɪst,0,0
 minimally, ˈmɪnəməli ˈmɪn·ə·mə·li,0,0
 minimize, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪn·əˌmɑɪz ˈmɪn·əˌmɑɪz,0,0
-minimized, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz,0,0
+minimized, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz,1,0
 minimizes, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪn·əˌmɑɪz ˈmɪn·əˌmɑɪz,1,0
-minimizing, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz,0,0
+minimizing, ˈmɪnəmaɪz ˈmɪnəmaɪz ˈmɪnəmaɪz,1,0
 minimum, ˈmɪnəməm ˈmɪn·ə·məm,0,0
 minimums, ˈmɪnəməm ˈmɪn·ə·məm,1,0
 mining, ˈmaɪnɪŋ ˈmaɪnɪŋ ˈmɑɪ·nɪŋ,0,0

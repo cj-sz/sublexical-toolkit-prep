@@ -11,20 +11,20 @@ causality, kɑːˈzælət̬i,0,0
 causation, kɑːˈzeɪʃən,0,0
 causative, ˈkɑːzət̬ɪv,0,0
 cause, kɑːz kɑːz kɑːz kɔz kɔz kɔz,0,0
-caused, kɑːz,0,0
+caused, kɑːz,1,0
 causer,,0,1
 causes, kɑːz kɑːz kɑːz kɔz kɔz kɔz,1,0
 causeway, ˈkɑːzweɪ ˈkɔzˌweɪ,0,0
 causey,,0,1
-causing, kɑːz,0,0
+causing, kɑːz,1,0
 caustic, ˈkɑːstɪk ˈkɑːstɪk ˈkɔ·stɪk ˈkɔ·stɪk,0,0
 cauterization, ˌkɑːt̬ɚəˈzeɪʃən ˌkɑːt̬ɚəˈzeɪʃən,0,0
 cauterize, ˈkɑːt̬ɚaɪz ˈkɑːt̬ɚaɪz,0,0
-cauterized, ˈkɑːt̬ɚaɪz ˈkɑːt̬ɚaɪz,0,0
-cauterizing, ˈkɑːt̬ɚaɪz ˈkɑːt̬ɚaɪz,0,0
+cauterized, ˈkɑːt̬ɚaɪz ˈkɑːt̬ɚaɪz,1,0
+cauterizing, ˈkɑːt̬ɚaɪz ˈkɑːt̬ɚaɪz,1,0
 caution, ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən ˈkɔ·ʃən ˈkɔ·ʃən,0,0
 cautionary, ˈkɑːʃəneri,0,0
-cautioned, ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən,0,0
+cautioned, ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən,1,0
 cautions, ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən ˈkɑːʃən ˈkɔ·ʃən ˈkɔ·ʃən,1,0
 cautious, ˈkɑːʃəs ˈkɑːʃəs ˈkɔ·ʃəs,0,0
 cautiously, ˈkɑːʃəsli,0,0
@@ -55,7 +55,7 @@ caving, ˈkeɪvɪŋ,0,0
 cavities, ˈkævət̬i ˈkævət̬i ˈkævət̬i ˈkæv·ə·t̬i ˈkæv·ə·t̬i,1,0
 cavity, ˈkævət̬i ˈkævət̬i ˈkævət̬i ˈkæv·ə·t̬i ˈkæv·ə·t̬i,0,0
 cavort, kəˈvɔːrt kəˈvɔrt,0,0
-cavorting, kəˈvɔːrt,0,0
+cavorting, kəˈvɔːrt,1,0
 caw, kɑː,0,0
 caxton,,0,1
 cay, kiː,0,0
@@ -65,18 +65,18 @@ caymans, ˈkeɪmən,1,0
 cc, ˌsiːˈsiː ˌsiːˈsiː ˌsiˈsi,0,0
 cd, ˌsiːˈdiː,0,0
 cease, siːs sis,0,0
-ceased, siːs,0,0
+ceased, siːs,1,0
 ceasefire, ˈsiːsfaɪr ˈsisˈfɑɪər,0,0
 ceaseless, ˈsiːsləs ˈsis·ləs,0,0
 ceaselessly, ˈsiːsləsli,0,0
 ceases, siːs siːs sis,1,0
-ceasing, siːs,0,0
+ceasing, siːs,1,0
 cecil,,0,1
 cedar, ˈsiːdɚ ˈsiːdɚ ˈsi·dər,0,0
 cedars, ˈsiːdɚ ˈsiːdɚ ˈsi·dər,1,0
 cede, siːd sid,0,0
-ceded, siːd,0,0
-ceding, siːd,0,0
+ceded, siːd,1,0
+ceding, siːd,1,0
 ceiling, ˈsiːlɪŋ ˈsiːlɪŋ ˈsi·lɪŋ ˈsi·lɪŋ,0,0
 ceilings, ˈsiːlɪŋ ˈsiːlɪŋ ˈsi·lɪŋ ˈsi·lɪŋ,1,0
 celadon,,0,1
@@ -85,7 +85,7 @@ celebrant, ˈseləbrənt ˈseləbrənt,0,0
 celebrate, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt ˈsel·əˌbreɪt,0,0
 celebrated, ˈseləbreɪt̬ɪd ˈsel·əˌbreɪ·t̬ɪd,0,0
 celebrates, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt ˈsel·əˌbreɪt,1,0
-celebrating, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt,0,0
+celebrating, ˈseləbreɪt ˈseləbreɪt ˈseləbreɪt,1,0
 celebration, ˌseləˈbreɪʃən ˌseləˈbreɪʃən ˌseləˈbreɪʃən,0,0
 celebrations, ˌseləˈbreɪʃən ˌseləˈbreɪʃən ˌseləˈbreɪʃən,1,0
 celebratory, ˌseləˈbreɪt̬ɚi,0,0
@@ -119,17 +119,17 @@ celt, kelt kelt,0,0
 celtic, ˈkeltɪk,0,0
 celts, kelt kelt,1,0
 cement, səˈment səˈment sɪˈment sɪˈment,0,0
-cemented, səˈment səˈment,0,0
+cemented, səˈment səˈment,1,0
 cemeteries, ˈseməteri ˈsem·ɪˌter·i,1,0
 cemetery, ˈseməteri ˈsem·ɪˌter·i,0,0
 cenozoic, ˌsiːnəˈzoʊ ɪk ˌsiːnəˈzoʊ ɪk,0,0
 censor, ˈsensɚ ˈsensɚ ˈsensɚ ˈsen·sər,0,0
-censored, ˈsensɚ ˈsensɚ,0,0
-censoring, ˈsensɚ ˈsensɚ,0,0
+censored, ˈsensɚ ˈsensɚ,1,0
+censoring, ˈsensɚ ˈsensɚ,1,0
 censors, ˈsensɚ ˈsensɚ ˈsensɚ ˈsensɚ ˈsen·sər,1,0
 censorship, ˈsensɚʃɪp ˈsensɚʃɪp ˈsen·sərˌʃɪp,0,0
 censure," ˈsenʃɚ ˈsen·ʃər, -tʃər ˈsenʃər",0,0
-censured, ˈsenʃɚ,0,0
+censured, ˈsenʃɚ,1,0
 census, ˈsensəs ˈsen·səs,0,0
 cent, sent sent sent,0,0
 centaur, ˈsentɔːr,0,0
@@ -157,7 +157,7 @@ central, ˈsentrəl ˈsentrəl ˈsentrəl ˈsen·trəl ˈsen·trəl ˈsen·trəl
 centralization, ˌsentrələˈzeɪʃən,0,0
 centralize, ˈsentrəlaɪz ˈsen·trəˌlɑɪz,0,0
 centralized,,0,1
-centralizing, ˈsentrəlaɪz,0,0
+centralizing, ˈsentrəlaɪz,1,0
 centrally, ˈsentrəli ˈsentrəli ˈsen·trə·li,0,0
 centre, ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ,0,0
 centres, ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ ˈsent̬ɚ,1,0
@@ -195,7 +195,7 @@ certifications, ˌsɜ˞ːt̬əfɪˈkeɪʃən ˌsɜr·t̬ə·fɪˈkeɪ·ʃən,1,0
 certified, ˈsɝːt̬əfaɪd ˈsər·t̬əˌfɑɪd ˈsɝːṱə-,0,0
 certifies, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ ˈsərt̬·əˌfɑɪ,1,0
 certify, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ ˈsərt̬·əˌfɑɪ,0,0
-certifying, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ,0,0
+certifying, ˈsɝːt̬əfaɪ ˈsɝːt̬əfaɪ,1,0
 certitude, ˈsɝːt̬ətuːd,0,0
 cervantes,,0,1
 cervical, ˈsɝːvɪkəl ˈsɝːvɪkəl,0,0
@@ -214,22 +214,22 @@ chablis,,0,1
 chabot,,0,1
 chad, tʃæd,0,0
 chafe, tʃeɪf tʃeɪf tʃeɪf tʃeɪf tʃeɪf,0,0
-chafed, tʃeɪf tʃeɪf tʃeɪf,0,0
+chafed, tʃeɪf tʃeɪf tʃeɪf,1,0
 chafes, tʃeɪf tʃeɪf tʃeɪf tʃeɪf tʃeɪf,1,0
 chaff, tʃæf tʃæf,0,0
-chafing, tʃeɪf tʃeɪf tʃeɪf,0,0
+chafing, tʃeɪf tʃeɪf tʃeɪf,1,0
 chagrin, ˈʃæɡrɪn ʃəˈɡrɪn,0,0
 chagrined, ˈʃæɡrɪnd,0,0
 chai, tʃaɪ tʃaɪ,0,0
 chain, tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn tʃeɪn,0,0
-chained, tʃeɪn tʃeɪn tʃeɪn,0,0
-chaining, tʃeɪn tʃeɪn tʃeɪn,0,0
+chained, tʃeɪn tʃeɪn tʃeɪn,1,0
+chaining, tʃeɪn tʃeɪn tʃeɪn,1,0
 chains,,0,1
 chainsaw, ˈtʃeɪnsɔː,0,0
 chainsaws, ˈtʃeɪnsɔː,1,0
 chair, tʃer tʃer tʃer tʃer tʃeər tʃeər,0,0
-chaired, tʃer,0,0
-chairing, tʃer,0,0
+chaired, tʃer,1,0
+chairing, tʃer,1,0
 chairman, ˈtʃermən ˈtʃeər·mən ˈtʃeəmən ˈtʃeəmən ˈtʃeəmən,0,0
 chairmanship, ˈtʃermənʃɪp ˈtʃeər·mənˌʃɪp ˈtʃer-,0,0
 chairmen, ˈtʃermən ˈtʃeər·mən ˈtʃeəmən ˈtʃeəmən ˈtʃeəmən,1,0
@@ -240,8 +240,8 @@ chaise, ʃeɪz ʃeɪz,0,0
 chalet," ˈʃæleɪ ʃæˈleɪ, ˈʃæl·eɪ",0,0
 chalice, ˈtʃælɪs ˈtʃælɪs,0,0
 chalk, tʃɑːk tʃɑːk tʃɔk,0,0
-chalked, tʃɑːk,0,0
-chalking, tʃɑːk,0,0
+chalked, tʃɑːk,1,0
+chalking, tʃɑːk,1,0
 chalks, tʃɑːk tʃɑːk tʃɔk,1,0
 challenge, ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃælɪndʒ ˈtʃæl·əndʒ ˈtʃæl·əndʒ ˈtʃæl·əndʒ,0,0
 challenged, ˈtʃæləndʒd ˈtʃæləndʒd ˈtʃæl·əndʒd,0,0
@@ -261,8 +261,8 @@ champagne, ʃæmˈpeɪn ʃæmˈpeɪn ʃæmˈpeɪn ʃæmˈpeɪn,0,0
 champagnes,,0,1
 champaign,,0,1
 champion, ˈtʃæmpiən ˈtʃæmpiən ˈtʃæm·pi·ən ˈtʃæm·pi·ən,0,0
-championed, ˈtʃæmpiən,0,0
-championing, ˈtʃæmpiən,0,0
+championed, ˈtʃæmpiən,1,0
+championing, ˈtʃæmpiən,1,0
 champions, ˈtʃæmpiən ˈtʃæmpiən ˈtʃæm·pi·ən ˈtʃæm·pi·ən,1,0
 championship, ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæm·pi·ənˌʃɪp,0,0
 championships, ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæmpiənʃɪp ˈtʃæm·pi·ənˌʃɪp,1,0
@@ -292,9 +292,9 @@ channeled, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn�
 channeling, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl,1,0
 channels, ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃænəl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl ˈtʃæn·əl,1,0
 chant, tʃænt tʃænt tʃænt,0,0
-chanted, tʃænt tʃænt,0,0
+chanted, tʃænt tʃænt,1,0
 chantilly,,0,1
-chanting, tʃænt tʃænt,0,0
+chanting, tʃænt tʃænt,1,0
 chants, tʃænt tʃænt tʃænt,1,0
 chanukah," ˈhɑːnəkə ˈhɑ·nə·kə, ˈxɑ-",0,0
 chao,,0,1
@@ -305,7 +305,7 @@ chaparral,,0,1
 chapel, ˈtʃæpəl ˈtʃæpəl ˈtʃæp·əl,0,0
 chaperone, ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn,0,0
 chaperones, ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn ˈʃæpɚoʊn,1,0
-chaperoning, ˈʃæpɚoʊn ˈʃæpɚoʊn,0,0
+chaperoning, ˈʃæpɚoʊn ˈʃæpɚoʊn,1,0
 chapin,,0,1
 chaplain, ˈtʃæplɪn ˈtʃæp·lən,0,0
 chaplains, ˈtʃæplɪn ˈtʃæp·lən,1,0
@@ -324,9 +324,9 @@ characteristics, ˌkerəktəˈrɪstɪk ˌkær·ək·təˈrɪs·tɪk,1,0
 characterization, ˌkerəktərəˈzeɪʃən ˌkerəktərəˈzeɪʃən,0,0
 characterizations, ˌkerəktərəˈzeɪʃən ˌkerəktərəˈzeɪʃən,1,0
 characterize, ˈkerəktɚaɪz ˈkerəktɚaɪz ˈkær·ək·təˌrɑɪz ˈkær·ək·təˌrɑɪz,0,0
-characterized, ˈkerəktɚaɪz ˈkerəktɚaɪz,0,0
+characterized, ˈkerəktɚaɪz ˈkerəktɚaɪz,1,0
 characterizes, ˈkerəktɚaɪz ˈkerəktɚaɪz ˈkær·ək·təˌrɑɪz ˈkær·ək·təˌrɑɪz,1,0
-characterizing, ˈkerəktɚaɪz ˈkerəktɚaɪz,0,0
+characterizing, ˈkerəktɚaɪz ˈkerəktɚaɪz,1,0
 characters, ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkerəktɚ ˈkær·ək·tər ˈkær·ək·tər ˈkær·ək·tər ˈkær·ək·tər ˈkær·ək·tər,1,0
 charade, ʃəˈreɪd ʃəˈreɪd,0,0
 charades, ʃəˈreɪdz,0,0
@@ -340,7 +340,7 @@ charged, tʃɑːrdʒd tʃɑːrdʒd tʃɑrdʒd,0,0
 charger, ˈtʃɑːrdʒɚ ˈtʃɑːrdʒɚ ˈtʃɑːrdʒɚ,0,0
 chargers, ˈtʃɑːrdʒɚ ˈtʃɑːrdʒɚ ˈtʃɑːrdʒɚ,1,0
 charges, tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑrdʒ tʃɑrdʒ tʃɑrdʒ tʃɑrdʒ tʃɑrdʒ tʃɑrdʒ,1,0
-charging, tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ,0,0
+charging, tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ tʃɑːrdʒ,1,0
 chariot, ˈtʃeriət ˈtʃær·i·ət,0,0
 chariots, ˈtʃeriət ˈtʃær·i·ət,1,0
 charisma, kəˈrɪzmə kəˈrɪz·mə,0,0
@@ -370,31 +370,31 @@ charon,,0,1
 charred, tʃɑːrd tʃɑrd,0,0
 charring, tʃɑːr tʃɑːr,1,0
 chart, tʃɑːrt tʃɑːrt tʃɑrt,0,0
-charted, tʃɑːrt tʃɑːrt tʃɑːrt tʃɑːrt,0,0
+charted, tʃɑːrt tʃɑːrt tʃɑːrt tʃɑːrt,1,0
 charter, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ ˈtʃɑr·t̬ər ˈtʃɑr·t̬ər,0,0
 chartered, ˈtʃɑːrt̬ɚd ˈtʃɑːrt̬ɚd,0,0
-chartering, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ,0,0
+chartering, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ,1,0
 charters, ˈtʃɑːrt̬ɚ ˈtʃɑːrt̬ɚ ˈtʃɑr·t̬ər ˈtʃɑr·t̬ər,1,0
-charting, tʃɑːrt tʃɑːrt tʃɑːrt tʃɑːrt,0,0
+charting, tʃɑːrt tʃɑːrt tʃɑːrt tʃɑːrt,1,0
 chartreuse, ʃɑːrˈtruːz,0,0
 charts,,0,1
 charwoman, ˈtʃɑːrˌwʊmən,0,0
 chase, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,0,0
-chased, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,0,0
+chased, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
 chaser, ˈtʃeɪsɚ ˈtʃeɪsɚ,0,0
 chasers, ˈtʃeɪsɚ ˈtʃeɪsɚ,1,0
 chases, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
-chasing, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,0,0
+chasing, tʃeɪs tʃeɪs tʃeɪs tʃeɪs tʃeɪs,1,0
 chasm, ˈkæzəm ˈkæzəm ˈkæz·əm,0,0
 chasse,,0,1
 chassis," ˈtʃæsi ˈtʃæs·i, ˈʃæs·i",0,0
 chaste, tʃeɪst tʃeɪst tʃeɪst,0,0
 chasten, ˈtʃeɪsən ˈtʃeɪ·sən,0,0
-chastened, ˈtʃeɪsən,0,0
+chastened, ˈtʃeɪsən,1,0
 chastise," tʃæsˈtaɪz tʃæsˈtaɪz tʃæsˈtɑɪz, ˈtʃæs·tɑɪz",0,0
-chastised, tʃæsˈtaɪz tʃæsˈtaɪz,0,0
+chastised, tʃæsˈtaɪz tʃæsˈtaɪz,1,0
 chastises," tʃæsˈtaɪz tʃæsˈtaɪz tʃæsˈtɑɪz, ˈtʃæs·tɑɪz",1,0
-chastising, tʃæsˈtaɪz tʃæsˈtaɪz,0,0
+chastising, tʃæsˈtaɪz tʃæsˈtaɪz,1,0
 chastity, ˈtʃæstət̬i ˈtʃæs·tɪ·t̬i,0,0
 chat, tʃæt tʃæt tʃæt,0,0
 chateau, ʃætˈoʊ ʃæˈtoʊ,0,0
@@ -404,12 +404,12 @@ chattanooga,,0,1
 chatted, tʃæt tʃæt tʃæt,1,0
 chattel, ˈtʃæt̬əl,0,0
 chatter, ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬·ər ˈtʃæt̬·ər ˈtʃæt̬·ər,0,0
-chattering, ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬ɚ,0,0
+chattering, ˈtʃæt̬ɚ ˈtʃæt̬ɚ ˈtʃæt̬ɚ,1,0
 chatting, tʃæt tʃæt tʃæt,1,0
 chatty, ˈtʃæt̬i ˈtʃæt̬i,0,0
 chaucer,,0,1
 chauffeur," ʃoʊˈfɝː ˈʃoʊ·fər, ʃoʊˈfɜr",0,0
-chauffeured, ʃoʊˈfɝː,0,0
+chauffeured, ʃoʊˈfɝː,1,0
 chauffeurs," ʃoʊˈfɝː ˈʃoʊ·fər, ʃoʊˈfɜr",1,0
 chautauqua,,0,1
 chauvinism, ˈʃoʊvənɪzəm ˈʃoʊvənɪzəm ˈʃoʊ·vəˌnɪz·əm,0,0
@@ -420,7 +420,7 @@ chaw,,0,1
 che,,0,1
 cheap, tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃip tʃip tʃip tʃip tʃip,0,0
 cheapen, ˈtʃiːpən ˈtʃiːpən ˈtʃi·pən,0,0
-cheapened, ˈtʃiːpən ˈtʃiːpən,0,0
+cheapened, ˈtʃiːpən ˈtʃiːpən,1,0
 cheapens, ˈtʃiːpən ˈtʃiːpən ˈtʃi·pən,1,0
 cheaper, tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃip tʃip tʃip tʃip tʃip,1,0
 cheapest, tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃiːp tʃip tʃip tʃip tʃip tʃip,1,0
@@ -429,10 +429,10 @@ cheapness, ˈtʃiːpnəs,0,0
 cheapo, ˈtʃiːpoʊ,0,0
 cheapskate, ˈtʃiːpskeɪt ˈtʃipˌskeɪt,0,0
 cheat, tʃiːt tʃiːt tʃit,0,0
-cheated, tʃiːt tʃiːt,0,0
+cheated, tʃiːt tʃiːt,1,0
 cheater, ˈtʃiːt̬ɚ ˈtʃiːt̬ɚ,0,0
 cheaters, ˈtʃiːt̬ɚ ˈtʃiːt̬ɚ,1,0
-cheating, tʃiːt tʃiːt,0,0
+cheating, tʃiːt tʃiːt,1,0
 cheats, tʃiːt tʃiːt tʃit,1,0
 check, tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek,0,0
 checkbook, ˈtʃekbʊk ˈtʃekˌbʊk,0,0
@@ -442,7 +442,7 @@ checker, -ɚ,0,0
 checkerboard, ˈtʃekɚbɔːrd ˈtʃekɚbɔːrd ˈtʃekɚbɔːrd,0,0
 checkered, -ɚd ˈtʃek·ərd,0,0
 checkers, -ɚz ˈtʃek·ərz,0,0
-checking, tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek,0,0
+checking, tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek tʃek,1,0
 checklist, ˈtʃeklɪst ˈtʃek·lɪst,0,0
 checklists, ˈtʃeklɪst ˈtʃek·lɪst,1,0
 checkmate, ˈtʃekmeɪt ˈtʃekmeɪt,0,0
@@ -461,7 +461,7 @@ cheeked,  -tʃiːkt,1,0
 cheeks, tʃiːk tʃiːk tʃiːk tʃik tʃik,1,0
 cheeky, ˈtʃiːki ˈtʃiːki,0,0
 cheer, tʃɪr tʃɪər,0,0
-cheered, tʃɪr,0,0
+cheered, tʃɪr,1,0
 cheerful, ˈtʃɪrfəl ˈtʃɪrfəl ˈtʃɪər·fəl ˈtʃɪər·fəl,0,0
 cheerfully, ˈtʃɪrfəli ˈtʃɪrfəli ˈtʃɪrfəli,0,0
 cheerfulness, ˈtʃɪrfəlnəs ˈtʃɪrfəlnəs,0,0

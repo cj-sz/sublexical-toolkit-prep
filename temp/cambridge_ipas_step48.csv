@@ -1,20 +1,20 @@
 Word,Pronunciation,Root Word Returned,Missing
 intuitive, ɪnˈtuːɪt̬ɪv ɪnˈtuːɪt̬ɪv ɪnˈtuːɪt̬ɪv,0,0
 intuitively, ɪnˈtuːɪt̬ɪvli ɪnˈtuːɪt̬ɪvli,0,0
-inundated, ˈɪnʌndeɪt ˈɪnʌndeɪt,0,0
-inundating, ˈɪnʌndeɪt ˈɪnʌndeɪt,0,0
+inundated, ˈɪnʌndeɪt ˈɪnʌndeɪt,1,0
+inundating, ˈɪnʌndeɪt ˈɪnʌndeɪt,1,0
 inundation, ˌɪnʌnˈdeɪʃən ˌɪnʌnˈdeɪʃən,0,0
 inure,,0,1
 inured,,0,1
 invade, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,0,0
-invaded, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,0,0
+invaded, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,1,0
 invader, ɪnˈveɪdɚ,0,0
 invaders, ɪnˈveɪdɚ,1,0
 invades, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,1,0
-invading, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,0,0
+invading, ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd ɪnˈveɪd,1,0
 invalid, ɪnˈvælɪd ɪnˈvælɪd ɪnˈvæl·ɪd,0,0
 invalidate, ɪnˈvælədeɪt ɪnˈvælədeɪt ɪnˈvæl·ɪˌdeɪt,0,0
-invalidated, ɪnˈvælədeɪt ɪnˈvælədeɪt,0,0
+invalidated, ɪnˈvælədeɪt ɪnˈvælədeɪt,1,0
 invalidation, ɪnˌvæləˈdeɪʃən ɪnˌvæləˈdeɪʃən,0,0
 invalids, ɪnˈvælɪd ɪnˈvælɪd ɪnˈvæl·ɪd,1,0
 invaluable, ɪnˈvæljəbəl ɪnˈvæl·ju·ə·bəl,0,0
@@ -26,8 +26,8 @@ invasions, ɪnˈveɪʒən ɪnˈveɪʒən ɪnˈveɪʒən ɪnˈveɪ·ʒən,1,0
 invasive, ɪnˈveɪsɪv ɪnˈveɪsɪv ɪnˈveɪ·sɪv ɪnˈveɪ·sɪv,0,0
 invective, ɪnˈvektɪv,0,0
 invent, ɪnˈvent ɪnˈvent ɪnˈvent ɪnˈvent,0,0
-invented, ɪnˈvent ɪnˈvent,0,0
-inventing, ɪnˈvent ɪnˈvent,0,0
+invented, ɪnˈvent ɪnˈvent,1,0
+inventing, ɪnˈvent ɪnˈvent,1,0
 invention, ɪnˈvenʃən ɪnˈvenʃən ɪnˈven·ʃən,0,0
 inventions, ɪnˈvenʃən ɪnˈvenʃən ɪnˈven·ʃən,1,0
 inventive, ɪnˈvent̬ɪv ɪnˈven·tɪv,0,0
@@ -47,17 +47,17 @@ invertebrate, ɪnˈvɝːt̬əbrət,0,0
 invertebrates, ɪnˈvɝːt̬əbrət,1,0
 inverted, ɪnˈvɝːt̬ɪd,0,0
 invest, ɪnˈvest ɪnˈvest,0,0
-invested, ɪnˈvest,0,0
+invested, ɪnˈvest,1,0
 investigate, ɪnˈvestəɡeɪt ɪnˈves·tɪˌɡeɪt,0,0
-investigated, ɪnˈvestəɡeɪt,0,0
+investigated, ɪnˈvestəɡeɪt,1,0
 investigates, ɪnˈvestəɡeɪt ɪnˈves·tɪˌɡeɪt,1,0
-investigating, ɪnˈvestəɡeɪt,0,0
+investigating, ɪnˈvestəɡeɪt,1,0
 investigation, ɪnˌvestəˈɡeɪʃən ɪnˌves·tɪˈɡeɪ·ʃən,0,0
 investigations, ɪnˌvestəˈɡeɪʃən ɪnˌves·tɪˈɡeɪ·ʃən,1,0
 investigative, ɪnˈvestəˌɡeɪt̬ɪv ɪnˈves·tɪˌɡeɪ·t̬ɪv ɪnˈvestɪɡeɪtɪv,0,0
 investigator, ɪnˈvestəɡeɪt̬ɚ,0,0
 investigators, ɪnˈvestəɡeɪt̬ɚ,1,0
-investing, ɪnˈvest,0,0
+investing, ɪnˈvest,1,0
 investiture, ɪnˈvestətʃɚ,0,0
 investment, ɪnˈvestmənt ɪnˈvest·mənt,0,0
 investments, ɪnˈvestmənt ɪnˈvest·mənt,1,0
@@ -66,7 +66,7 @@ investors, ɪnˈvest̬ɚ ɪnˈves·tər,1,0
 invests, ɪnˈvest ɪnˈvest,1,0
 inveterate, ɪnˈvet̬·ər·ət,0,1
 invigorate, ɪnˈvɪɡɚeɪt ɪnˈvɪɡ·əˌreɪt,0,0
-invigorated, ɪnˈvɪɡɚeɪt,0,0
+invigorated, ɪnˈvɪɡɚeɪt,1,0
 invigorating, ɪnˈvɪɡɚeɪt̬ɪŋ,0,0
 invincibility, ɪnˌvɪnsəˈbɪlət̬i,0,0
 invincible, ɪnˈvɪnsəbəl ɪnˈvɪn·sə·bəl,0,0
@@ -78,7 +78,7 @@ invitation, ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvə
 invitational, ˌɪnvəˈteɪʃənəl,0,0
 invitations, ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪn·vɪˈteɪ·ʃən ˌɪn·vɪˈteɪ·ʃən,1,0
 invite, ɪnˈvaɪt ɪnˈvaɪt ɪnˈvaɪt ɪnˈvɑɪt ɪnˈvɑɪt,0,0
-invited, ɪnˈvaɪt ɪnˈvaɪt ɪnˈvaɪt,0,0
+invited, ɪnˈvaɪt ɪnˈvaɪt ɪnˈvaɪt,1,0
 invitee, ˌɪnvaɪˈtiː,0,0
 invitees, ˌɪnvaɪˈtiː,1,0
 invites, ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪnvəˈteɪʃən ˌɪn·vɪˈteɪ·ʃən ˌɪn·vɪˈteɪ·ʃən,1,0
@@ -87,9 +87,9 @@ invocation, ˌɪnvəˈkeɪʃən ˌɪnvəˈkeɪʃən ˌɪnvəˈkeɪʃən,0,0
 invoice, ˈɪnvɔɪs ˈɪn·vɔɪs,0,0
 invoices, ˈɪnvɔɪs ˈɪn·vɔɪs,1,0
 invoke, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,0,0
-invoked, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,0,0
+invoked, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,1,0
 invokes, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,1,0
-invoking, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,0,0
+invoking, ɪnˈvoʊk ɪnˈvoʊk ɪnˈvoʊk,1,0
 involuntarily, ɪnˈvɑːlənterəli,0,0
 involuntary, ɪnˈvɑːlənteri ɪnˈvɑl·ənˌter·i,0,0
 involve," ɪnˈvɑːlv ɪnˈvɑːlv ɪnˈvɑːlv ɪnˈvɑlv, -ˈvɔlv ɪnˈvɑlv, -ˈvɔlv",0,0
@@ -131,12 +131,12 @@ irises, ˈaɪrɪs ˈaɪrɪs ˈɑɪ·rɪs ˈɑɪ·rɪs,1,0
 irish, ˈaɪərɪʃ ˈaɪərɪʃ,0,0
 irishman, ˈaɪərɪʃmən,0,0
 irk, ɝːk ɜrk,0,0
-irked, ɝːk,0,0
+irked, ɝːk,1,0
 irks, ɝːk ɜrk,1,0
 irksome, ˈɝːksəm,0,0
 iron, aɪrn aɪrn aɪrn ˈɑɪ·ərn ˈɑɪ·ərn,0,0
 ironclad, ˈaɪrnklæd ˈɑɪ·ərnˌclad,0,0
-ironed, aɪrn,0,0
+ironed, aɪrn,1,0
 ironic, aɪˈrɑːnɪk aɪˈrɑːnɪk ɑɪˈrɑn·ɪk ɑɪˈrɑn·ɪk,0,0
 ironical, aɪˈrɑːnɪk aɪˈrɑːnɪk ɑɪˈrɑn·ɪk ɑɪˈrɑn·ɪk,1,0
 ironically, aɪˈrɑːnɪkəli aɪˈrɑːnɪkəli ɑɪˈrɑn·ɪk·li,0,0
@@ -181,7 +181,7 @@ irreversibly, ˌɪrəˈvɝːsəbli,0,0
 irrevocable," ɪˈrevəkəbəl ɪˈrev·ə·kə·bəl, ˌɪr·ɪˈvoʊ·kə-",0,0
 irrevocably, ɪˈrevəkəbli,0,0
 irrigate, ˈɪrəɡeɪt ˈɪrəɡeɪt ˈɪr·əˌɡeɪt,0,0
-irrigated, ˈɪrəɡeɪt ˈɪrəɡeɪt,0,0
+irrigated, ˈɪrəɡeɪt ˈɪrəɡeɪt,1,0
 irrigation, ˌɪrəˈɡeɪʃən,0,0
 irritability, ˌɪrət̬əˈbɪlət̬i,0,0
 irritable, ˈɪrət̬əbəl ˈɪr·ɪt̬·ə·bəl,0,0
@@ -219,7 +219,7 @@ isocyanate,,0,1
 isolate, ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt ˈɑɪ·səˌleɪt,0,0
 isolated, ˈaɪsəleɪt̬ɪd ˈaɪsəleɪt̬ɪd ˈaɪsəleɪt̬ɪd,0,0
 isolates, ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt ˈɑɪ·səˌleɪt,1,0
-isolating, ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt,0,0
+isolating, ˈaɪsəleɪt ˈaɪsəleɪt ˈaɪsəleɪt,1,0
 isolation, ˌaɪsəlˈeɪʃən ˌaɪsəlˈeɪʃən ˌaɪsəlˈeɪʃən,0,0
 isolationism, ˌaɪsəlˈeɪʃənɪzəm ˌɑɪ·səˈleɪ·ʃəˌnɪz·əm,0,0
 isolationist, ˌaɪsəlˈeɪʃənɪst,0,0
@@ -236,9 +236,9 @@ israeli, ɪzˈreɪli,0,0
 israelis, ɪzˈreɪli,1,0
 issuance, ˈɪʃuəns,0,0
 issue, ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃ·u ˈɪʃ·u,0,0
-issued, ˈɪʃuː,0,0
+issued, ˈɪʃuː,1,0
 issues, ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃuː ˈɪʃ·u ˈɪʃ·u,1,0
-issuing, ˈɪʃuː,0,0
+issuing, ˈɪʃuː,1,0
 istanbul, ˌɪstænˈbʊl,0,0
 isthmus, ˈɪsθməs ˈɪsθməs ˈɪs·məs,0,0
 it," ɪt ɪt ɪt ɪt, ət ɪt, ət",0,0
@@ -255,7 +255,7 @@ itchy, ˈɪtʃi,0,0
 item, ˈaɪt̬əm ˈaɪt̬əm ˈaɪt̬əm ˈɑɪ·t̬əm ˈɑɪ·t̬əm,0,0
 itemize, ˈaɪt̬əmaɪz ˈɑɪ·t̬əˌmɑɪz,0,0
 itemized,,0,1
-itemizing, ˈaɪt̬əmaɪz,0,0
+itemizing, ˈaɪt̬əmaɪz,1,0
 items, ˈaɪt̬əm ˈaɪt̬əm ˈaɪt̬əm ˈaɪt̬əm ˈɑɪ·t̬əm ˈɑɪ·t̬əm,1,0
 iteration, ˌɪt̬əˈreɪʃən ˌɪt̬əˈreɪʃən,0,0
 iterations, ˌɪt̬əˈreɪʃən ˌɪt̬əˈreɪʃən,1,0
@@ -310,11 +310,11 @@ jaguar," ˈdʒæɡwɑːr ˈdʒæɡ·wɑr, -juˌɑr",0,0
 jaguars," ˈdʒæɡwɑːr ˈdʒæɡ·wɑr, -juˌɑr",1,0
 jai,,0,1
 jail, dʒeɪl dʒeɪl,0,0
-jailed, dʒeɪl,0,0
+jailed, dʒeɪl,1,0
 jailer, ˈdʒeɪlɚ ˈdʒeɪ·lər,0,0
 jailers, ˈdʒeɪlɚ ˈdʒeɪ·lər,1,0
 jailhouse,,0,1
-jailing, dʒeɪl,0,0
+jailing, dʒeɪl,1,0
 jails, dʒeɪl dʒeɪl,1,0
 jain, dʒeɪn,0,0
 jakarta, dʒəˈkɑːrt̬ə,0,0
@@ -342,7 +342,7 @@ janeiro,,0,1
 janes,,0,1
 janet,,0,1
 jangle, ˈdʒæŋɡəl ˈdʒæŋ·ɡəl,0,0
-jangled, ˈdʒæŋɡəl,0,0
+jangled, ˈdʒæŋɡəl,1,0
 janitor, ˈdʒænət̬ɚ ˈdʒæn·ɪ·t̬ər,0,0
 janitorial, dʒænɪˈtɔːriəl,0,0
 janitors, ˈdʒænət̬ɚ ˈdʒæn·ɪ·t̬ər,1,0
@@ -377,8 +377,8 @@ javanese,,0,1
 javelin, ˈdʒævlɪn ˈdʒæv·ə·lɪn,0,0
 jaw, dʒɑː dʒɑː dʒɑː dʒɔ,0,0
 jawbone, ˈdʒɑːboʊn ˈdʒɔˌboʊn,0,0
-jawboning, ˈdʒɑːboʊn,0,0
-jawed, dʒɑː,0,0
+jawboning, ˈdʒɑːboʊn,1,0
+jawed, dʒɑː,1,0
 jaws, dʒɔz,0,0
 jay, dʒeɪ,0,0
 jaycee,,0,1
@@ -404,7 +404,7 @@ jee,,0,1
 jeep, dʒiːp dʒip,0,0
 jeeps, dʒiːp dʒip,1,0
 jeer, dʒɪr dʒɪər dʒɪər,0,0
-jeered, dʒɪr,0,0
+jeered, dʒɪr,1,0
 jeering, ˈdʒɪrɪŋ,0,0
 jeers, dʒɪr dʒɪər dʒɪər,1,0
 jees,,0,1
@@ -415,7 +415,7 @@ jeffersonian,,0,1
 jehovah, dʒəˈhoʊvə,0,0
 jekyll,,0,1
 jell, dʒel dʒel,0,0
-jelled, dʒel,0,0
+jelled, dʒel,1,0
 jellied, ˈdʒelid,0,0
 jellies,,0,1
 jello, ˈdʒeloʊ ˈdʒel·oʊ,1,0
@@ -427,17 +427,17 @@ jenna,,0,1
 jennie,,0,1
 jenny,,0,1
 jeopardize, ˈdʒepɚdaɪz ˈdʒep·ərˌdɑɪz,0,0
-jeopardized, ˈdʒepɚdaɪz,0,0
+jeopardized, ˈdʒepɚdaɪz,1,0
 jeopardizes, ˈdʒepɚdaɪz ˈdʒep·ərˌdɑɪz,1,0
-jeopardizing, ˈdʒepɚdaɪz,0,0
+jeopardizing, ˈdʒepɚdaɪz,1,0
 jeopardy,,0,1
 jere,,0,1
 jeremiah,,0,1
 jeremy,,0,1
 jericho,,0,1
 jerk, dʒɝːk dʒɝːk dʒɝːk dʒɜrk,0,0
-jerked, dʒɝːk dʒɝːk dʒɝːk,0,0
-jerking, dʒɝːk dʒɝːk dʒɝːk,0,0
+jerked, dʒɝːk dʒɝːk dʒɝːk,1,0
+jerking, dʒɝːk dʒɝːk dʒɝːk,1,0
 jerkins, ˈdʒɝːkɪn,1,0
 jerks, dʒɝːk dʒɝːk dʒɝːk dʒɜrk,1,0
 jerky, ˈdʒɝːki ˈdʒɜr·ki,0,0
@@ -463,7 +463,7 @@ jetstream,,0,1
 jetted,,0,1
 jetting,,0,1
 jettison," ˈdʒet̬əsən ˈdʒet̬əsən ˈdʒet̬əsən ˈdʒet̬·ə·sən, -zən",0,0
-jettisoned, ˈdʒet̬əsən ˈdʒet̬əsən ˈdʒet̬əsən,0,0
+jettisoned, ˈdʒet̬əsən ˈdʒet̬əsən ˈdʒet̬əsən,1,0
 jetty, ˈdʒet̬i ˈdʒet̬·i,0,0
 jew, dʒuː dʒu,0,0
 jewel, ˈdʒuːəl ˈdʒuːəl ˈdʒuːəl ˈdʒuːəl ˈdʒu·əl,0,0

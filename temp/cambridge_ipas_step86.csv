@@ -8,14 +8,14 @@ steelworks, ˈstiːlwɝːks,0,0
 steely, ˈstiːli ˈstiːli ˈsti·li,0,0
 steen,,0,1
 steep, stiːp stiːp stiːp stip stip stip,0,0
-steeped, stiːp,0,0
+steeped, stiːp,1,0
 steeper, stiːp stiːp stiːp stip stip stip,1,0
 steepest, stiːp stiːp stiːp stip stip stip,1,0
 steeple, ˈstiːpəl ˈsti·pəl,0,0
 steeplechase, ˈstiːpəltʃeɪs,0,0
 steeples, ˈstiːpəl ˈsti·pəl,1,0
 steer, stɪr stɪr stɪr stɪər stɪər stɪər,0,0
-steered, stɪr stɪr stɪr,0,0
+steered, stɪr stɪr stɪr,1,0
 steering, stɪr stɪr stɪr stɪr stɪr stɪər stɪər stɪər,1,0
 steers, stɪr stɪr stɪr stɪr stɪr stɪər stɪər stɪər,1,0
 stegosaurus, ˌsteɡəˈsɔːrəs,0,0
@@ -65,15 +65,15 @@ stereo, ˈsterioʊ ˈsterioʊ ˈster·iˌoʊ,0,0
 stereomicroscope,,0,1
 stereos, ˈsterioʊ ˈsterioʊ ˈster·iˌoʊ,1,0
 stereotype, ˈsteriətaɪp ˈster·i·əˌtɑɪp,0,0
-stereotyped, ˈsteriətaɪp,0,0
+stereotyped, ˈsteriətaɪp,1,0
 stereotypes, ˈsteriətaɪp ˈster·i·əˌtɑɪp,1,0
 stereotypical, ˌsteriəˈtɪpɪkəl,0,0
-stereotyping, ˈsteriətaɪp,0,0
+stereotyping, ˈsteriətaɪp,1,0
 sterile, ˈsterəl ˈsterəl ˈsterəl ˈster·əl ˈster·əl ˈster·əl,0,0
 sterility, stəˈrɪlət̬i stəˈrɪlət̬i stəˈrɪlət̬i stəˈrɪl·ɪ·t̬i,0,0
 sterilization, ˌsterələˈzeɪʃən ˌsterələˈzeɪʃən ˌster·ə·ləˈzeɪ·ʃən ˌster·ə·ləˈzeɪ·ʃən,0,0
 sterilize, ˈsterəlaɪz ˈsterəlaɪz ˈster·əˌlɑɪz ˈster·əˌlɑɪz,0,0
-sterilized, ˈsterəlaɪz ˈsterəlaɪz,0,0
+sterilized, ˈsterəlaɪz ˈsterəlaɪz,1,0
 sterilizer, ˈsterəlaɪzɚ,0,0
 sterilizers, ˈsterəlaɪzɚ,1,0
 sterilizes, ˈsterəlaɪz ˈsterəlaɪz ˈster·əˌlɑɪz ˈster·əˌlɑɪz,1,0
@@ -102,7 +102,7 @@ stewards, ˈstuːɚd ˈstuːɚd ˈstuːɚd ˈstu·ərd ˈstu·ərd ˈstu·ərd,1
 stewardship, ˈstuːɚdʃɪp ˈstu·ərdˌʃɪp ˈstuːɚd-,0,0
 stewart,,0,1
 stewed, stuːd stuːd stuːd,0,0
-stewing, stuː stuː stuː,0,0
+stewing, stuː stuː stuː,1,0
 stews, stuː stu stu,1,0
 stick, stɪk stɪk stɪk stɪk stɪk stɪk stɪk stɪk stɪk,0,0
 stickball, ˈstɪkbɑːl,0,0
@@ -119,9 +119,9 @@ sticky, ˈstɪki ˈstɪki ˈstɪki ˈstɪki ˈstɪki ˈstɪk·i ˈstɪk·i ˈst�
 stiff, stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf,0,0
 stiffed, stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf,1,0
 stiffen, ˈstɪfən ˈstɪfən ˈstɪfən ˈstɪf·ən ˈstɪf·ən ˈstɪf·ən,0,0
-stiffened, ˈstɪfən ˈstɪfən ˈstɪfən,0,0
+stiffened, ˈstɪfən ˈstɪfən ˈstɪfən,1,0
 stiffener,,0,1
-stiffening, ˈstɪfən ˈstɪfən ˈstɪfən,0,0
+stiffening, ˈstɪfən ˈstɪfən ˈstɪfən,1,0
 stiffens, ˈstɪfən ˈstɪfən ˈstɪfən ˈstɪf·ən ˈstɪf·ən ˈstɪf·ən,1,0
 stiffer, stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf,1,0
 stiffest, stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf,1,0
@@ -129,21 +129,21 @@ stiffly, ˈstɪfli ˈstɪfli ˈstɪfli ˈstɪf·li ˈstɪf·li,0,0
 stiffness, ˈstɪfnəs ˈstɪfnəs ˈstɪfnəs ˈstɪf·nəs ˈstɪf·nəs,0,0
 stiffs, stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf stɪf,1,0
 stifle, ˈstaɪfəl ˈstaɪfəl ˈstɑɪ·fəl,0,0
-stifled, ˈstaɪfəl ˈstaɪfəl,0,0
+stifled, ˈstaɪfəl ˈstaɪfəl,1,0
 stifler,,0,1
 stifles, ˈstaɪfəl ˈstaɪfəl ˈstɑɪ·fəl,1,0
 stifling, ˈstaɪfəlɪŋ ˈstaɪfəlɪŋ ˈstɑɪ·flɪŋ,0,0
 stigma, ˈstɪɡmə ˈstɪɡmə,0,0
 stigmata, stɪɡˈmɑːt̬ə,0,0
 stigmatism,,0,1
-stigmatized, ˈstɪɡmətaɪz,0,0
-stigmatizing, ˈstɪɡmətaɪz,0,0
+stigmatized, ˈstɪɡmətaɪz,1,0
+stigmatizing, ˈstɪɡmətaɪz,1,0
 stiles, staɪl,1,0
 stiletto, stɪˈlet̬oʊ stɪˈlet̬oʊ,0,0
 stilettos, stɪˈlet̬oʊ stɪˈlet̬oʊ,1,0
 still, stɪl stɪl stɪl stɪl stɪl stɪl,0,0
 stillborn, ˈstɪlbɔːrn ˈstɪlbɔːrn ˈstɪlˌbɔrn,0,0
-stilled, stɪl,0,0
+stilled, stɪl,1,0
 stiller, stɪl stɪl stɪl stɪl stɪl stɪl,1,0
 stillman,,0,1
 stillness, ˈstɪlnəs,0,0
@@ -155,7 +155,7 @@ stilts, stɪlts,0,0
 stimulant, ˈstɪmjələnt ˈstɪmjələnt ˈstɪm·jə·lənt,0,0
 stimulants, ˈstɪmjələnt ˈstɪmjələnt ˈstɪm·jə·lənt,1,0
 stimulate, ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪm·jəˌleɪt,0,0
-stimulated, ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪmjəleɪt,0,0
+stimulated, ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪmjəleɪt,1,0
 stimulates, ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪmjəleɪt ˈstɪm·jəˌleɪt,1,0
 stimulating, ˈstɪmjəleɪt̬ɪŋ ˈstɪmjəleɪt̬ɪŋ ˈstɪmjəleɪt̬ɪŋ ˈstɪm·jəˌleɪ·t̬ɪŋ,0,0
 stimulation, ˌstɪmjəˈleɪʃən,0,0
@@ -182,7 +182,7 @@ stipe,,0,1
 stipend," ˈstaɪpend ˈstaɪpend ˈstɑɪ·pend, -pənd",0,0
 stipes,,0,1
 stipulate, ˈstɪpjəleɪt ˈstɪp·jəˌleɪt,0,0
-stipulated, ˈstɪpjəleɪt,0,0
+stipulated, ˈstɪpjəleɪt,1,0
 stipulates, ˈstɪpjəleɪt ˈstɪp·jəˌleɪt,1,0
 stipulation, ˌstɪpjəˈleɪʃən,0,0
 stipulations, ˌstɪpjəˈleɪʃən,1,0
@@ -195,7 +195,7 @@ stirrup," ˈstɪrəp ˈstɜr·əp, ˈstɪr-",0,0
 stirrups," ˈstɪrəp ˈstɜr·əp, ˈstɪr-",1,0
 stirs, stɝː stɝː stɝː stɝː stɝː stɝː stɜr stɜr stɜr,1,0
 stitch, stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ,0,0
-stitched, stɪtʃ stɪtʃ,0,0
+stitched, stɪtʃ stɪtʃ,1,0
 stitches, stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ stɪtʃ,1,0
 stitching, ˈstɪtʃɪŋ ˈstɪtʃɪŋ ˈstɪtʃ·ɪŋ,0,0
 stith,,0,1
@@ -205,7 +205,7 @@ stockade, stɑːˈkeɪd stɑˈkeɪd,0,0
 stockades, stɑːˈkeɪd stɑˈkeɪd,1,0
 stockbroker, ˈstɑːkˌbroʊkɚ ˈstɑkˌbroʊ·kər,0,0
 stockbrokers, ˈstɑːkˌbroʊkɚ ˈstɑkˌbroʊ·kər,1,0
-stocked, stɑːk stɑːk,0,0
+stocked, stɑːk stɑːk,1,0
 stocker, ˈstɑːkɚ,0,0
 stockholder, ˈstɑːkˌhoʊldɚ ˈstʊkˌhoʊl·dər ˈstɑːkˌhoʊldɚ,0,0
 stockholders, ˈstɑːkˌhoʊldɚ ˈstʊkˌhoʊl·dər ˈstɑːkˌhoʊldɚ,1,0
@@ -214,7 +214,7 @@ stocking, ˈstɑːkɪŋ ˈstɑːkɪŋ ˈstɑk·ɪŋ,0,0
 stockings, ˈstɑːkɪŋ ˈstɑːkɪŋ ˈstɑk·ɪŋ,1,0
 stockman, ˈstɑːkmən,0,0
 stockpile, ˈstɑːkpaɪl ˈstɑkˌpɑɪl,0,0
-stockpiled, ˈstɑːkpaɪl,0,0
+stockpiled, ˈstɑːkpaɪl,1,0
 stockpiles, ˈstɑːkpaɪl ˈstɑkˌpɑɪl,1,0
 stockpiling, ˈstɑːkpaɪlɪŋ,0,0
 stockroom, ˈstɑːkruːm,0,0
@@ -234,7 +234,7 @@ stoked, stoʊkt,0,0
 stoker, ˈstoʊkɚ,0,0
 stokers, ˈstoʊkɚ,1,0
 stokes, stoʊk stoʊk stoʊk,1,0
-stoking, stoʊk stoʊk,0,0
+stoking, stoʊk stoʊk,1,0
 stole, stoʊl stoʊl,0,0
 stolen, ˈstoʊlən ˈstoʊ·lən,0,0
 stolid, ˈstɑːlɪd ˈstɑːlɪd ˈstɑl·ɪd,0,0
@@ -242,8 +242,8 @@ stoma, ˈstoʊmə,0,0
 stomach, ˈstʌmək ˈstʌm·ək ˈstʌm·ək ˈstʌm·ək,0,0
 stomachs, ˈstʌmək ˈstʌm·ək ˈstʌm·ək ˈstʌm·ək,1,0
 stomp, stɑːmp stɑːmp stɑmp,0,0
-stomped, stɑːmp stɑːmp,0,0
-stomping, stɑːmp stɑːmp,0,0
+stomped, stɑːmp stɑːmp,1,0
+stomping, stɑːmp stɑːmp,1,0
 stone, stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn,0,0
 stonecutter,,0,1
 stoned, stoʊnd stoʊnd,0,0
@@ -252,11 +252,11 @@ stoneman,,0,1
 stoner, ˈstoʊnɚ,0,0
 stones, stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn stoʊn,1,0
 stonewall, ˈstoʊnwɑːl ˈstoʊnwɑːl ˈstoʊnˌwɔl,0,0
-stonewalled, ˈstoʊnwɑːl,0,0
-stonewalling, ˈstoʊnwɑːl,0,0
+stonewalled, ˈstoʊnwɑːl,1,0
+stonewalling, ˈstoʊnwɑːl,1,0
 stoneware, ˈstoʊnwer,0,0
 stoney,,0,1
-stoning, stoʊn stoʊn stoʊn,0,0
+stoning, stoʊn stoʊn stoʊn,1,0
 stony, ˈstoʊni ˈstoʊni ˈstoʊ·ni ˈstoʊ·ni,0,0
 stood, stʊd stʊd,0,0
 stooge, stuːdʒ stuːdʒ,0,0
@@ -265,7 +265,7 @@ stool, stuːl stuːl stul stul,0,0
 stools, stuːl stuːl stul stul,1,0
 stoop, stuːp stuːp stup,0,0
 stooped, stuːpt,0,0
-stooping, stuːp stuːp,0,0
+stooping, stuːp stuːp,1,0
 stoops, stuːp stuːp stup,1,0
 stop, stɑːp stɑːp stɑːp stɑːp stɑːp stɑːp stɑːp stɑːp stɑːp stɑːp stɑp stɑp stɑp,0,0
 stopgap, ˈstɑːpɡæp ˈstɑpˈɡæp,0,0
@@ -274,7 +274,7 @@ stoplights, ˈstɑːplaɪt ˈstɑpˌlɑɪt,1,0
 stopover, ˈstɑːpˌoʊvɚ ˈstɑpˌoʊ·vər,0,0
 stopovers, ˈstɑːpˌoʊvɚ ˈstɑpˌoʊ·vər,1,0
 stoppage, ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑp·ɪdʒ,0,0
-stoppages, ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑp·ɪdʒ,0,0
+stoppages, ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑːpɪdʒ ˈstɑp·ɪdʒ,1,0
 stopped,,0,1
 stopper, ˈstɑːpɚ ˈstɑːpɚ ˈstɑːpɚ ˈstɑp·ər,0,0
 stoppers, ˈstɑːpɚ ˈstɑːpɚ ˈstɑːpɚ  -stɑːpɚ ˈstɑp·ər,1,0
@@ -284,7 +284,7 @@ stopwatch," ˈstɑːpwɑːtʃ ˈstɑpˌwɑtʃ, -ˌwɔtʃ",0,0
 stopwatches," ˈstɑːpwɑːtʃ ˈstɑpˌwɑtʃ, -ˌwɔtʃ",1,0
 storage," ˈstɔːrɪdʒ ˈstɔr·ɪdʒ, ˈstoʊr-",0,0
 store," stɔːr stɔːr stɔːr stɔːr stɔr, stoʊr stɔr, stoʊr",0,0
-stored, stɔːr,0,0
+stored, stɔːr,1,0
 storefront," ˈstɔːrfrʌnt ˈstɔrˌfrʌnt, ˈstoʊr-",0,0
 storefronts," ˈstɔːrfrʌnt ˈstɔrˌfrʌnt, ˈstoʊr-",1,0
 storehouse," ˈstɔːrhaʊs ˈstɔrˌhɑʊs, ˈstoʊr-",0,0
@@ -296,10 +296,10 @@ stores," stɔːr stɔːr stɔːr stɔːr stɔːr stɔr, stoʊr stɔr, stoʊr",1,
 storey, ˈstɔːri,0,0
 storied," ˈstɔːrid ˈstɔːrid ˈstɔr·id, ˈstoʊr-",0,0
 stories," ˈstɔːri ˈstɔːri ˈstɔːri ˈstɔːri ˈstɔr·i, ˈstoʊr·i ˈstɔr·i, ˈstoʊr·i ˈstɔr·i, ˈstoʊr·i",1,0
-storing, stɔːr,0,0
+storing, stɔːr,1,0
 stork, stɔːrk stɔrk,0,0
 storm, stɔːrm stɔːrm stɔrm stɔrm,0,0
-stormed, stɔːrm stɔːrm stɔːrm,0,0
+stormed, stɔːrm stɔːrm stɔːrm,1,0
 stormer,,0,1
 storminess,,0,1
 storming, ˈstɔːrmɪŋ,0,0
@@ -324,18 +324,18 @@ stoves, stoʊv stoʊv stoʊv stoʊv,1,0
 stow, stoʊ stoʊ,0,0
 stowaway, ˈstoʊəˌweɪ ˈstoʊ·əˌweɪ,0,0
 stowaways, ˈstoʊəˌweɪ ˈstoʊ·əˌweɪ,1,0
-stowed, stoʊ,0,0
-stowing, stoʊ,0,0
+stowed, stoʊ,1,0
+stowing, stoʊ,1,0
 strack,,0,1
 straddle, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl ˈstræd·əl ˈstræd·əl,0,0
-straddled, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl,0,0
+straddled, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl,1,0
 straddles, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl ˈstræd·əl ˈstræd·əl,1,0
-straddling, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl,0,0
+straddling, ˈstrædəl ˈstrædəl ˈstrædəl ˈstrædəl,1,0
 stradivarius, ˌstrædəˈveriəs,0,0
 strafe, streɪf,0,0
-strafing, streɪf,0,0
+strafing, streɪf,1,0
 straggle, ˈstræɡəl ˈstræɡ·əl,0,0
-straggled, ˈstræɡəl,0,0
+straggled, ˈstræɡəl,1,0
 straggler, ˈstræɡlɚ,0,0
 stragglers, ˈstræɡlɚ,1,0
 straight, streɪt streɪt streɪt streɪt streɪt streɪt streɪt,0,0
@@ -343,8 +343,8 @@ straightaway, ˈstreɪt̬əˌweɪ,0,0
 straightaways, ˈstreɪt̬əˌweɪ,1,0
 straightedge,,0,1
 straighten, ˈstreɪən ˈstreɪən ˈstreɪən ˈstreɪt·ən ˈstreɪt·ən,0,0
-straightened, ˈstreɪən ˈstreɪən ˈstreɪən,0,0
-straightening, ˈstreɪən ˈstreɪən ˈstreɪən,0,0
+straightened, ˈstreɪən ˈstreɪən ˈstreɪən,1,0
+straightening, ˈstreɪən ˈstreɪən ˈstreɪən,1,0
 straightens, ˈstreɪən ˈstreɪən ˈstreɪən ˈstreɪt·ən ˈstreɪt·ən,1,0
 straighter, streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt,1,0
 straightforward, ˌstreɪtˈfɔːrwɚd ˌstreɪtˈfɔːrwɚd ˌstreɪtˈfɔr·wərd ˌstreɪtˈfɔr·wərd,0,0
@@ -352,7 +352,7 @@ straightforwardly, ˌstreɪtˈfɔːrwɚdli ˌstreɪtˈfɔːrwɚdli,0,0
 straights, streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt streɪt,1,0
 strain, streɪn streɪn streɪn streɪn streɪn streɪn streɪn streɪn streɪn streɪn streɪn,0,0
 strained, streɪnd streɪnd streɪnd streɪnd,0,0
-straining, streɪn streɪn streɪn,0,0
+straining, streɪn streɪn streɪn,1,0
 strains,,0,1
 strait, streɪt streɪt,0,0
 straitjacket, ˈstreɪtˌdʒækɪt ˈstreɪtˌdʒækɪt ˈstreɪtˌdʒæk·ɪt,0,0
@@ -371,7 +371,7 @@ strangle, ˈstræŋɡəl ˈstræŋɡəl ˈstræŋ·ɡəl,0,0
 strangled, ˈstræŋɡəld,0,0
 stranglehold, ˈstræŋɡəlhoʊld ˈstræŋɡəlhoʊld,0,0
 strangler, ˈstræŋɡlɚ,0,0
-strangling, ˈstræŋɡəl ˈstræŋɡəl,0,0
+strangling, ˈstræŋɡəl ˈstræŋɡəl,1,0
 strangulation, ˌstræŋɡjəˈleɪʃən,0,0
 strap, stræp stræp stræp stræp,0,0
 strapped, stræpt stræpt,0,0
@@ -402,22 +402,22 @@ strawberries," ˈstrɑːˌberi ˈstrɔˌber·i, -bə·ri",1,0
 strawberry," ˈstrɑːˌberi ˈstrɔˌber·i, -bə·ri",0,0
 straws, strɑː strɑː strɔ strɔ,1,0
 stray, streɪ streɪ streɪ,0,0
-strayed, streɪ streɪ,0,0
-straying, streɪ streɪ,0,0
+strayed, streɪ streɪ,1,0
+straying, streɪ streɪ,1,0
 strays, streɪ streɪ streɪ,1,0
 streak, striːk striːk striːk striːk strik strik strik,0,0
-streaked, striːk striːk striːk,0,0
+streaked, striːk striːk striːk,1,0
 streaker, ˈstriːkɚ,0,0
-streaking, striːk striːk striːk,0,0
+streaking, striːk striːk striːk,1,0
 streaks, striːk striːk striːk striːk striːk strik strik strik,1,0
 stream, striːm striːm striːm striːm striːm strim strim,0,0
-streamed, striːm striːm striːm striːm,0,0
+streamed, striːm striːm striːm striːm,1,0
 streamer, ˈstriːmɚ ˈstriːmɚ ˈstriːmɚ,0,0
 streamers, ˈstriːmɚ ˈstriːmɚ ˈstriːmɚ,1,0
 streaming, ˈstriːmɪŋ ˈstriːmɪŋ ˈstri·mɪŋ,0,0
 streamline, ˈstriːmlaɪn ˈstriːmlaɪn ˈstrimˌlɑɪn ˈstrimˌlɑɪn,0,0
 streamlined, ˈstrim·lɑɪnd ˈstrim·lɑɪnd,0,0
-streamlining, ˈstriːmlaɪn ˈstriːmlaɪn,0,0
+streamlining, ˈstriːmlaɪn ˈstriːmlaɪn,1,0
 streams, striːm striːm striːm striːm striːm striːm strim strim,1,0
 streep,,0,1
 street, striːt strit strit,0,0
@@ -428,8 +428,8 @@ streetwise, ˈstriːtwaɪz,0,0
 streng,,0,1
 strength," streŋθ streŋθ streŋθ streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ",0,0
 strengthen," ˈstreŋθən ˈstreŋk·θən, ˈstreŋ- ˈstreŋk·θən, ˈstreŋ-",0,0
-strengthened, ˈstreŋθən,0,0
-strengthening, ˈstreŋθən,0,0
+strengthened, ˈstreŋθən,1,0
+strengthening, ˈstreŋθən,1,0
 strengthens," ˈstreŋθən ˈstreŋk·θən, ˈstreŋ- ˈstreŋk·θən, ˈstreŋ-",1,0
 strengths," streŋθ streŋθ streŋθ streŋθ streŋθ streŋθ streŋθ streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ streŋkθ, streŋθ",1,0
 strenuous, ˈstrenjuəs ˈstren·ju·əs,0,0
@@ -442,15 +442,15 @@ stress, stres stres stres stres stres stres stres stres stres,0,0
 stressed, strest strest,0,0
 stresses, stres stres stres stres stres stres stres stres stres,1,0
 stressful, ˈstresfəl ˈstres·fəl,0,0
-stressing, stres stres stres stres,0,0
+stressing, stres stres stres stres,1,0
 stressor, ˈstresɚ,0,0
 stressors, ˈstresɚ,1,0
 stretch, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,0,0
-stretched, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,0,0
+stretched, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,1,0
 stretcher, ˈstretʃɚ ˈstretʃ·ər,0,0
 stretchers, ˈstretʃɚ ˈstretʃ·ər,1,0
 stretches, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,1,0
-stretching, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,0,0
+stretching, stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ stretʃ,1,0
 strew, struː stru,0,0
 strewn,,0,1
 strick,,0,1

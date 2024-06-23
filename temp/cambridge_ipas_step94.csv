@@ -6,7 +6,7 @@ typhoons, taɪˈfuːn tɑɪˈfun,1,0
 typhus, ˈtaɪfəs ˈtɑɪ·fəs,0,0
 typical, ˈtɪpɪkəl ˈtɪpɪkəl ˈtɪp·ɪ·kəl ˈtɪp·ɪ·kəl,0,0
 typically, ˈtɪpɪkəli ˈtɪpɪkəli ˈtɪp·ɪ·kli,0,0
-typified, ˈtɪpəfaɪ ˈtɪpəfaɪ,0,0
+typified, ˈtɪpəfaɪ ˈtɪpəfaɪ,1,0
 typifies, ˈtɪpəfaɪ ˈtɪpəfaɪ ˈtɪp·əˌfɑɪ,1,0
 typify, ˈtɪpəfaɪ ˈtɪpəfaɪ ˈtɪp·əˌfɑɪ,0,0
 typing, ˈtaɪpɪŋ,0,0
@@ -16,7 +16,7 @@ typo, ˈtaɪpoʊ ˈtɑɪ·poʊ,0,0
 typographical, ˌtaɪpoʊˈɡræfɪkəl,0,0
 tyrannical, tɪˈrænɪkəl,0,0
 tyrannies, ˈtɪrəni ˈtɪrəni ˈtɪr·ə·ni,1,0
-tyrannized, ˈtɪrənaɪz,0,0
+tyrannized, ˈtɪrənaɪz,1,0
 tyrannosaurus, təˌrænəˈsɔːrəs,0,0
 tyranny, ˈtɪrəni ˈtɪrəni ˈtɪr·ə·ni,0,0
 tyrant, ˈtaɪrənt,0,0
@@ -222,7 +222,7 @@ uncool, ʌnˈkuːl,0,0
 uncooperative, ˌʌnkoʊˈɑːpɚət̬ɪv,0,0
 uncoordinated, ˌʌnkoʊˈɔːrdəneɪt̬ɪd,0,0
 uncork, ʌnˈkɔːrk,0,0
-uncorked, ʌnˈkɔːrk,0,0
+uncorked, ʌnˈkɔːrk,1,0
 uncorrected, ˌʌnkəˈrekt̬ɪd,0,0
 uncorroborated, ˌʌnkəˈrɑːbəreɪt̬ɪd,0,0
 uncounted,,0,1
@@ -230,7 +230,7 @@ uncouple, ʌnˈkʌpəl,0,0
 uncouth, ʌnˈkuːθ ʌnˈkuθ,0,0
 uncover, ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌv·ər,0,0
 uncovered, ʌnˈkʌvɚd ʌnˈkʌvɚd,0,0
-uncovering, ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌvɚ,0,0
+uncovering, ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌvɚ,1,0
 uncovers, ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌvɚ ʌnˈkʌv·ər,1,0
 uncritical, ʌnˈkrɪt̬ɪkəl,0,0
 unctuous, ˈʌŋktʃuəs,0,0
@@ -270,9 +270,9 @@ underdeveloped, ˌʌndədɚˈveləpt -dɚ- -dɚ-,0,0
 underdog, ˈʌndɚdɑːɡ ˈʌn·dərˌdɔɡ,0,0
 underdogs,,0,1
 underestimate, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt ˌʌn·dəˈres·təˌmeɪt,0,0
-underestimated, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt,0,0
+underestimated, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt,1,0
 underestimates, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt ˌʌn·dəˈres·təˌmeɪt,1,0
-underestimating, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt,0,0
+underestimating, ˌʌndɚˈestəmeɪt ˌʌndɚˈestəmeɪt,1,0
 underfoot, ˌʌndɚˈfʊt ˌʌn·dərˈfʊt,0,0
 underfunded, ˌʌndɚˈfʌndɪd,0,0
 undergarment, ˈʌndɚˌɡɑːrmənt,0,0
@@ -291,17 +291,17 @@ underhill,,0,1
 underinsured,,0,1
 underlies, ˌʌndɚˈlaɪ ˌʌn·dərˈlɑɪ,1,0
 underline, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn ˈʌn·dərˌlɑɪn ˈʌn·dərˌlɑɪn,0,0
-underlined, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn,0,0
+underlined, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn,1,0
 underlines, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn ˈʌn·dərˌlɑɪn ˈʌn·dərˌlɑɪn,1,0
 underling, ˈʌndɚlɪŋ,0,0
 underlings, ˈʌndɚlɪŋ,1,0
-underlining, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn,0,0
+underlining, ˌʌndɚˈlaɪn ˌʌndɚˈlaɪn,1,0
 underlying, ˌʌndɚˈlaɪɪŋ ˌʌndɚˈlaɪɪŋ ˌʌndɚˈlaɪɪŋ ˌʌn·dərˈlɑɪ·ɪŋ,0,0
 undermanned, ˌʌndɚˈmænd,0,0
 undermine, ˌʌndɚˈmaɪn ˌʌn·dərˈmɑɪn,0,0
-undermined, ˌʌndɚˈmaɪn,0,0
+undermined, ˌʌndɚˈmaɪn,1,0
 undermines, ˌʌndɚˈmaɪn ˌʌn·dərˈmɑɪn,1,0
-undermining, ˌʌndɚˈmaɪn,0,0
+undermining, ˌʌndɚˈmaɪn,1,0
 underneath, ˌʌndɚˈniːθ ˌʌn·dərˈniθ,0,0
 undernourished," ˌʌndɚˈnɝːɪʃt ˌʌn·dərˈnɜr·ɪʃt, -ˈnʌr·ɪʃt",0,0
 underpaid, ˌʌndɚˈpeɪd ˌʌn·dərˈpeɪd,0,0
@@ -312,14 +312,14 @@ underpaying, ˌʌndɚˈpeɪ -dɚ- -dɚ- -dɚ-,1,0
 underpinning, ˈʌndɚˌpɪnɪŋ,0,0
 underpinnings, ˈʌndɚˌpɪnɪŋ,1,0
 underplay, ˌʌndɚˈpleɪ,0,0
-underplayed, ˌʌndɚˈpleɪ,0,0
+underplayed, ˌʌndɚˈpleɪ,1,0
 underpowered, ˌʌndɚˈpaʊɚd,0,0
 underrate, ˌʌndɚˈreɪt ˌʌn·dərˈreɪt,0,0
 underrated, ˌʌndɚˈreɪt̬ɪd ˌʌn·dərˈreɪt̬·əd,0,0
 underscore," ˌʌndɚˈskɔːr ˈʌn·dərˌskɔr, -ˌskoʊr",0,0
-underscored, ˌʌndɚˈskɔːr,0,0
+underscored, ˌʌndɚˈskɔːr,1,0
 underscores," ˌʌndɚˈskɔːr ˈʌn·dərˌskɔr, -ˌskoʊr",1,0
-underscoring, ˌʌndɚˈskɔːr,0,0
+underscoring, ˌʌndɚˈskɔːr,1,0
 undersea, ˌʌndɚˈsiː,0,0
 underseas,,0,1
 undersecretary, ˌʌndɚˈsekrəteri ˌʌn·dərˈsek·rɪˌter·i,0,0
@@ -340,7 +340,7 @@ understands, ˌʌndɚˈstænd ˌʌndɚˈstænd ˌʌndɚˈstænd ˌʌndɚˈstænd
 understate, ˌʌndɚˈsteɪt ˌʌn·dərˈsteɪt,0,0
 understated, ˌʌndɚˈsteɪt̬ɪd ˌʌn·dərˈsteɪ·t̬ɪd,0,0
 understatement, ˌʌndɚˈsteɪtmənt,0,0
-understating, ˌʌndɚˈsteɪt,0,0
+understating, ˌʌndɚˈsteɪt,1,0
 understood,,0,1
 understudy, ˈʌndɚˌstʌdi ˈʌn·dərˌstʌd·i,0,0
 undertake, ˌʌndɚˈteɪk ˌʌndɚˈteɪk ˌʌndɚˈteɪk ˌʌn·dərˈteɪk,0,0
@@ -410,8 +410,8 @@ unduly, ʌnˈduːli,0,0
 undying, ʌnˈdaɪɪŋ ʌnˈdɑɪ·ɪŋ,0,0
 unearned, ʌnˈɝːnd,0,0
 unearth, ʌnˈɝːθ ʌnˈɝːθ ʌnˈɜrθ ʌnˈɜrθ,0,0
-unearthed, ʌnˈɝːθ ʌnˈɝːθ,0,0
-unearthing, ʌnˈɝːθ ʌnˈɝːθ,0,0
+unearthed, ʌnˈɝːθ ʌnˈɝːθ,1,0
+unearthing, ʌnˈɝːθ ʌnˈɝːθ,1,0
 unearthly, ʌnˈɝːθli ʌnˈɝːθli ʌnˈɜrθ·li ʌnˈɜrθ·li,0,0
 unease,,0,1
 uneasily, ʌnˈiːzəli ʌnˈiːzəli,0,0
@@ -476,8 +476,8 @@ unflattering, ʌnˈflæt̬ɚɪŋ,0,0
 unflinching, ʌnˈflɪntʃɪŋ,0,0
 unfocused, ʌnˈfoʊkəst ʌnˈfoʊkəst ʌnˈfoʊkəst ʌnˈfoʊkəst,0,0
 unfold, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,0,0
-unfolded, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,0,0
-unfolding, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,0,0
+unfolded, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,1,0
+unfolding, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,1,0
 unfolds, ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld ʌnˈfoʊld,1,0
 unforeseeable, ˌʌnfɔːrˈsiːəbəl,0,0
 unforeseen," ˌʌnfɚˈsiːn ˌʌn·fərˈsin, -fɔr-",0,0

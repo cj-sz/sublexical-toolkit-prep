@@ -29,8 +29,8 @@ salinity," səˈlɪnət̬i səˈlɪn·ɪ·t̬i, seɪ-",0,0
 salisbury,,0,1
 saliva, səˈlaɪvə səˈlɑɪ·və,0,0
 salivate, ˈsæləveɪt ˈsæl·əˌveɪt,0,0
-salivated, ˈsæləveɪt,0,0
-salivating, ˈsæləveɪt,0,0
+salivated, ˈsæləveɪt,1,0
+salivating, ˈsæləveɪt,1,0
 sall,,0,1
 salle,,0,1
 sally, ˈsæli,0,0
@@ -48,7 +48,7 @@ salt, sɑːlt sɑːlt sɔlt sɔlt sɔlt,0,0
 salted, ˈsɑːltɪd ˈsɔl·tɪd,0,0
 salter,,0,1
 saltier, ˈsɑːlt̬i ˈsɑːlt̬i ˈsɑːlt̬i ˈsɑːlt̬i ˈsɔl·ti,1,0
-salting, sɑːlt,0,0
+salting, sɑːlt,1,0
 salts, sɑːlt sɑːlt sɑːlt sɑːlt sɑːlt sɔlt sɔlt sɔlt,1,0
 saltwater," ˈsɑːltˌwɔːt̬ɚ ˈsɔltˌwɔ·t̬ər, -ˌwɑt̬·ər",0,0
 salty, ˈsɑːlt̬i ˈsɑːlt̬i ˈsɑːlt̬i ˈsɑːlt̬i ˈsɔl·ti,0,0
@@ -56,15 +56,15 @@ salus,,0,1
 salutary, ˈsæljəteri ˈsæl·jəˌter·i,0,0
 salutatorian, səˌluːtəˈtɔːriən,0,0
 salute, səˈluːt səˈluːt səˈlut səˈlut,0,0
-saluted, səˈluːt səˈluːt,0,0
+saluted, səˈluːt səˈluːt,1,0
 salutes, səˈluːt səˈluːt səˈlut səˈlut,1,0
-saluting, səˈluːt səˈluːt,0,0
+saluting, səˈluːt səˈluːt,1,0
 salvador,,0,1
 salvage, ˈsælvɪdʒ ˈsælvɪdʒ ˈsæl·vɪdʒ,0,0
 salvageable, ˈsælvɪdʒəbəl ˈsælvɪdʒəbəl,0,0
-salvaged, ˈsælvɪdʒ ˈsælvɪdʒ,0,0
+salvaged, ˈsælvɪdʒ ˈsælvɪdʒ,1,0
 salvagers,,0,1
-salvaging, ˈsælvɪdʒ ˈsælvɪdʒ,0,0
+salvaging, ˈsælvɪdʒ ˈsælvɪdʒ,1,0
 salvation, sælˈveɪʃən sælˈveɪʃən sælˈveɪ·ʃən sælˈveɪ·ʃən,0,0
 salve, sæv sæv,0,0
 salves, sæv sæv sæv,1,0
@@ -86,7 +86,7 @@ samoan, səˈmoʊən,0,0
 sampan, ˈsæmpæn,0,0
 sampans, ˈsæmpæn,1,0
 sample, ˈsæmpəl ˈsæmpəl ˈsæmpəl ˈsæmpəl ˈsæm·pəl ˈsæm·pəl,0,0
-sampled, ˈsæmpəl ˈsæmpəl ˈsæmpəl,0,0
+sampled, ˈsæmpəl ˈsæmpəl ˈsæmpəl,1,0
 sampler, ˈsæmplɚ ˈsæmplɚ ˈsæmplɚ ˈsæmplɚ,0,0
 samplers, ˈsæmplɚ ˈsæmplɚ ˈsæmplɚ ˈsæmplɚ,1,0
 samples, ˈsæmpəl ˈsæmpəl ˈsæmpəl ˈsæmpəl ˈsæm·pəl ˈsæm·pəl,1,0
@@ -104,8 +104,8 @@ sanctify, ˈsæŋktəfaɪ ˈsæŋktəfaɪ ˈsæŋk·təˌfɑɪ,0,0
 sanctimonious, ˌsæŋktəˈmoʊniəs ˌsæŋk·təˈmoʊ·ni·əs,0,0
 sanctimony,,0,1
 sanction, ˈsæŋkʃən ˈsæŋkʃən ˈsæŋkʃən ˈsæŋk·ʃən ˈsæŋk·ʃən,0,0
-sanctioned, ˈsæŋkʃən ˈsæŋkʃən,0,0
-sanctioning, ˈsæŋkʃən ˈsæŋkʃən,0,0
+sanctioned, ˈsæŋkʃən ˈsæŋkʃən,1,0
+sanctioning, ˈsæŋkʃən ˈsæŋkʃən,1,0
 sanctions, ˈsæŋkʃən ˈsæŋkʃən ˈsæŋkʃən ˈsæŋk·ʃən ˈsæŋk·ʃən,1,0
 sanctity, ˈsæŋktət̬i ˈsæŋk·tɪ·t̬i,0,0
 sanctuaries, ˈsæŋktʃueri ˈsæŋktʃueri ˈsæŋktʃueri ˈsæŋk·tʃuˌer·i ˈsæŋk·tʃuˌer·i ˈsæŋk·tʃuˌer·i,1,0
@@ -120,12 +120,12 @@ sandbagging,,0,1
 sandbags, ˈsændbæɡ ˈsændˌbæɡ,1,0
 sandbar, ˈsændbɑːr ˈsændˌbɑr,0,0
 sandbox, ˈsændbɑːks ˈsændbɑːks ˈsændbɑːks ˈsænd·bɑks,0,0
-sanded, sænd,0,0
+sanded, sænd,1,0
 sander, ˈsændɚ ˈsændɚ,0,0
 sanders, ˈsændɚ ˈsændɚ,1,0
 sandhill,,0,1
 sandhogs,,0,1
-sanding, sænd,0,0
+sanding, sænd,1,0
 sandman, ˈsænd·mæn,0,1
 sandpaper, ˈsændˌpeɪpɚ ˈsændˌpeɪ·pər,0,0
 sandra,,0,1
@@ -147,7 +147,7 @@ sanhedrin,,0,1
 sanitary, ˈsænəteri ˈsænəteri ˈsæn·ˌter·i,0,0
 sanitation, ˌsænəˈteɪʃən ˌsæn·ɪˈteɪ·ʃən,0,0
 sanitize, ˈsænətaɪz ˈsænətaɪz ˈsæn·ɪˌtɑɪz ˈsæn·ɪˌtɑɪz,0,0
-sanitized, ˈsænətaɪz ˈsænətaɪz,0,0
+sanitized, ˈsænətaɪz ˈsænətaɪz,1,0
 sanity, ˈsænət̬i ˈsænət̬i,0,0
 sank, sæŋk sæŋk,0,0
 sanka,,0,1
@@ -231,7 +231,7 @@ satisfy, ˈsæt̬ɪsfaɪ ˈsæt̬ɪsfaɪ ˈsæt̬·əsˌfɑɪ ˈsæt̬·əsˌfɑ
 satisfying, ˈsæt̬ɪsfaɪɪŋ ˈsæt̬·əsˌfɑɪ·ɪŋ,0,0
 saturate, ˈsætʃəreɪt ˈsætʃəreɪt ˈsætʃ·əˌreɪt ˈsætʃ·əˌreɪt,0,0
 saturated, ˈsætʃəreɪt̬ɪd ˈsætʃəreɪt̬ɪd ˈsætʃəreɪt̬ɪd ˈsætʃəreɪt̬ɪd ˈsætʃ·əˌreɪ·t̬əd ˈsætʃ·əˌreɪ·t̬əd,0,0
-saturating, ˈsætʃəreɪt ˈsætʃəreɪt ˈsætʃəreɪt,0,0
+saturating, ˈsætʃəreɪt ˈsætʃəreɪt ˈsætʃəreɪt,1,0
 saturation, ˌsætʃəˈreɪʃən ˌsætʃəˈreɪʃən ˌsætʃəˈreɪʃən ˌsætʃəˈreɪʃən,0,0
 saturday," ˈsæt̬ɚdeɪ ˈsæt̬·ər·deɪ, -ˌdi",0,0
 saturdays," ˈsæt̬ɚdeɪ ˈsæt̬·ər·deɪ, -ˌdi",1,0
@@ -259,18 +259,18 @@ saute, sɔːˈteɪ sɔˈteɪ,1,0
 sauteed, sɔːˈteɪ,1,0
 sauternes,,0,1
 savage, ˈsævɪdʒ ˈsævɪdʒ ˈsævɪdʒ ˈsæv·ɪdʒ,0,0
-savaged, ˈsævɪdʒ,0,0
+savaged, ˈsævɪdʒ,1,0
 savagely, ˈsævɪdʒli,0,0
 savagery, ˈsævɪdʒri ˈsæv·ɪdʒ·ri,0,0
 savages, ˈsævɪdʒ ˈsævɪdʒ ˈsævɪdʒ ˈsæv·ɪdʒ,1,0
-savaging, ˈsævɪdʒ,0,0
+savaging, ˈsævɪdʒ,1,0
 savanna, səˈvænə səˈvænə səˈvænə,1,0
 savannah, səˈvænə,0,0
 savannas, səˈvænə səˈvænə səˈvænə,1,0
 savant, sævˈɑːnt,0,0
 savants, sævˈɑːnt,1,0
 save, seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv,0,0
-saved, seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv,0,0
+saved, seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv,1,0
 saver, ˈseɪvɚ,0,0
 savers, ˈseɪvɚ  -seɪvɚ,1,0
 saves, seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv seɪv,1,0
@@ -319,20 +319,20 @@ scags,,0,1
 scala,,0,1
 scalable, ˈskeɪləbəl ˈskeɪləbəl,0,0
 scald, skɑːld skɑːld skɑːld skɔld skɔld,0,0
-scalded, skɑːld skɑːld skɑːld,0,0
+scalded, skɑːld skɑːld skɑːld,1,0
 scalding, ˈskɑːldɪŋ ˈskɑːldɪŋ,0,0
 scalds, skɑːld skɑːld skɑːld skɔld skɔld,1,0
 scale, skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl,0,0
-scaled, skeɪl skeɪl,0,0
+scaled, skeɪl skeɪl,1,0
 scales, skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl skeɪl,0,0
-scaling, skeɪl skeɪl,0,0
+scaling, skeɪl skeɪl,1,0
 scallion, ˈskæliən ˈskæl·jən,0,0
 scallions, ˈskæliən ˈskæl·jən,1,0
 scallop," ˈskɑːləp ˈskɑl·əp, ˈskæl-",0,0
 scalloped, ˈskɑːləpt ˈskɑːləpt,0,0
 scallops," ˈskɑːləp ˈskɑl·əp, ˈskæl-",1,0
 scalp, skælp skælp skælp,0,0
-scalped, skælp skælp skælp,0,0
+scalped, skælp skælp skælp,1,0
 scalpel, ˈskælpəl ˈskæl·pəl,0,0
 scalpels, ˈskælpəl ˈskæl·pəl,1,0
 scalper, ˈskælpɚ ˈskæl·pər,0,0
@@ -342,13 +342,13 @@ scalps, skælp skælp skælp,1,0
 scam, skæm skæm,0,0
 scammed, skæm skæm,1,0
 scamper, ˈskæmpɚ ˈskæm·pər,0,0
-scampered, ˈskæmpɚ,0,0
-scampering, ˈskæmpɚ,0,0
+scampered, ˈskæmpɚ,1,0
+scampering, ˈskæmpɚ,1,0
 scams, skæm skæm,1,0
 scan, skæn skæn skæn skæn skæn skæn skæn,0,0
 scandal, ˈskændəl ˈskændəl ˈskændəl ˈskæn·dəl,0,0
 scandalize, ˈskændəlaɪz ˈskæn·dəlˌɑɪz,0,0
-scandalized, ˈskændəlaɪz,0,0
+scandalized, ˈskændəlaɪz,1,0
 scandalous, ˈskændələs,0,0
 scandals, ˈskændəl ˈskændəl ˈskændəl ˈskæn·dəl,1,0
 scandia,,0,1
@@ -385,7 +385,7 @@ scarface,,0,1
 scarfs, skɑːrf skɑrf,1,0
 scarier, ˈskeri ˈskeər·i,1,0
 scariest, ˈskeri ˈskeər·i,1,0
-scaring, sker,0,0
+scaring, sker,1,0
 scarlet, ˈskɑːrlət ˈskɑr·lɪt,0,0
 scarpa,,0,1
 scarred, skɑːrd skɑːrd skɑːrd,0,0
@@ -404,7 +404,7 @@ scattershot, ˈskæt̬ɚʃɑːt,0,0
 scavenge, ˈskævɪndʒ ˈskævɪndʒ ˈskæv·əndʒ,0,0
 scavenger, ˈskævɪndʒɚ ˈskævɪndʒɚ ˈskæv·ən·dʒər,0,0
 scavengers, ˈskævɪndʒɚ ˈskævɪndʒɚ ˈskæv·ən·dʒər,1,0
-scavenging, ˈskævɪndʒ ˈskævɪndʒ,0,0
+scavenging, ˈskævɪndʒ ˈskævɪndʒ,1,0
 scenario," səˈnerioʊ səˈnerioʊ səˈneər·iˌoʊ, -ˈnɑr- səˈneər·iˌoʊ, -ˈnɑr-",0,0
 scenarios," səˈnerioʊ səˈnerioʊ səˈneər·iˌoʊ, -ˈnɑr- səˈneər·iˌoʊ, -ˈnɑr-",1,0
 scene, siːn siːn siːn siːn siːn sin sin sin sin sin sin,0,0
@@ -427,7 +427,7 @@ schelling,,0,1
 schematic, skiːˈmæt̬ɪk skɪˈmæt̬·ɪk,0,0
 schematics, skiːˈmæt̬ɪk skɪˈmæt̬·ɪk,1,0
 scheme, skiːm skiːm skim skim,0,0
-schemed, skiːm,0,0
+schemed, skiːm,1,0
 schemer, ˈskiːmɚ,0,0
 schemes, skiːm skiːm skim skim,1,0
 scheming, ˈskiːmɪŋ,0,0
@@ -445,7 +445,7 @@ schlock, ʃlɑːk ʃlɑk,0,0
 schloss,,0,1
 schmaltz, ʃmɑːlts ʃmɑːlts,0,0
 schmooze, ʃmuːz ʃmuz,0,0
-schmoozing, ʃmuːz,0,0
+schmoozing, ʃmuːz,1,0
 schmuck, ʃmʌk,0,0
 schnabel,,0,1
 schnapps," ʃnæps ʃnɑps, ʃnæps",0,0
@@ -468,7 +468,7 @@ schoolboy, ˈskuːlbɔɪ,0,0
 schoolboys, ˈskuːlbɔɪ,1,0
 schoolchild, ˈskuːltʃaɪld ˈskulˌtʃɑɪld,0,0
 schoolchildren,,0,1
-schooled, skuːl skuːl,0,0
+schooled, skuːl skuːl,1,0
 schooler, ˈhoʊmˌskuːlɚ ˈhoʊmˌskuːlɚ,1,0
 schoolers,,0,1
 schoolgirl, ˈskuːlɡɝːl,0,0

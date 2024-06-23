@@ -68,8 +68,8 @@ couching, kaʊtʃ kaʊtʃ kaʊtʃ kɑʊtʃ,1,0
 cougar, ˈkuːɡɚ ˈkuːɡɚ ˈku·ɡər,0,0
 cougars, ˈkuːɡɚ ˈkuːɡɚ ˈku·ɡər,1,0
 cough, kɑːf kɑːf kɔf,0,0
-coughed, kɑːf kɑːf,0,0
-coughing, kɑːf kɑːf,0,0
+coughed, kɑːf kɑːf,1,0
+coughing, kɑːf kɑːf,1,0
 coughs, kɑːf kɑːf kɔf,1,0
 could," strong kʊd strong kʊd strong kʊd strong kʊd strong kʊd strong kʊd kʊd, kəd",0,0
 coulee,,0,1
@@ -92,30 +92,30 @@ counsels, ˈkaʊnsəl ˈkɑʊn·səl,1,0
 count, kaʊnt kaʊnt kaʊnt kɑʊnt kɑʊnt kɑʊnt,0,0
 countable, ˈkaʊnt̬əbəl ˈkaʊnt̬əbəl ˈkaʊnt̬əbəl,0,0
 countdown, ˈkaʊntdaʊn ˈkaʊntdaʊn ˈkɑʊntˌdɑʊn,0,0
-counted, kaʊnt kaʊnt kaʊnt kaʊnt,0,0
+counted, kaʊnt kaʊnt kaʊnt kaʊnt,1,0
 countenance, ˈkaʊnt̬ənəns ˈkaʊnt̬ənəns ˈkɑʊn·tən·əns,0,0
-countenanced, ˈkaʊnt̬ənəns,0,0
+countenanced, ˈkaʊnt̬ənəns,1,0
 counter, ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkaʊnt̬ɚ ˈkɑʊn·tər ˈkɑʊn·tər,0,0
 counteract, ˌkaʊnt̬ɚˈækt ˌkɑʊn·tərˈækt,0,0
-counteracted, ˌkaʊnt̬ɚˈækt,0,0
-counteracting, ˌkaʊnt̬ɚˈækt,0,0
+counteracted, ˌkaʊnt̬ɚˈækt,1,0
+counteracting, ˌkaʊnt̬ɚˈækt,1,0
 counterattack, ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkɑʊnt·ər·əˌtæk,0,0
-counterattacked, ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk,0,0
-counterattacking, ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk,0,0
+counterattacked, ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk,1,0
+counterattacking, ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk ˌkaʊnt̬ɚəˈtæk,1,0
 counterattacks, ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkaʊnt̬ɚətæk ˈkɑʊnt·ər·əˌtæk,1,0
 counterbalance, ˈkaʊnt̬ɚˌbæləns -ṱɚ-,0,0
 counterclockwise, ˌkaʊnt̬ɚˈklɑːkwaɪz ˌkɑʊn·tərˈklɑkˌwɑɪz,0,0
 counterculture,,0,1
-countered, ˈkaʊnt̬ɚ,0,0
+countered, ˈkaʊnt̬ɚ,1,0
 counterespionage,,0,1
 counterfeit, ˈkaʊnt̬ɚfɪt ˈkɑʊn·tərˌfɪt,0,0
-counterfeited, ˈkaʊnt̬ɚfɪt,0,0
+counterfeited, ˈkaʊnt̬ɚfɪt,1,0
 counterfeiter, ˈkaʊnt̬ɚfɪt̬ɚ,0,0
 counterfeiters, ˈkaʊnt̬ɚfɪt̬ɚ,1,0
 counterfeiting,,0,1
 counterfeits, ˈkaʊnt̬ɚfɪt ˈkɑʊn·tərˌfɪt,1,0
 counterforce, ˈkaʊnt̬ɚfɔːrs ˈkaʊnt̬ɚfɔːrs ˈkaʊnt̬ɚfɔːrs,0,0
-countering, ˈkaʊnt̬ɚ,0,0
+countering, ˈkaʊnt̬ɚ,1,0
 counterinsurgency, ˌkaʊnt̬ɚɪnˈsɝːdʒənsi,0,0
 counterintelligence, ˌkaʊnt̬ɚɪnˈtelədʒəns,0,0
 counterman,,0,1
@@ -144,7 +144,7 @@ counterweights, ˈkaʊnt̬ɚweɪt,1,0
 countess, ˈkaʊnt̬əs,0,0
 countesses, ˈkaʊnt̬əs,1,0
 counties, ˈkaʊnt̬i ˈkɑʊnt·i,1,0
-counting, kaʊnt kaʊnt kaʊnt kaʊnt,0,0
+counting, kaʊnt kaʊnt kaʊnt kaʊnt,1,0
 countless, ˈkaʊntləs ˈkɑʊnt·ləs,0,0
 countries, ˈkʌntri ˈkʌntri ˈkʌntri ˈkʌntri ˈkʌntri ˈkʌn·tri ˈkʌn·tri,1,0
 country, ˈkʌntri ˈkʌntri ˈkʌntri ˈkʌntri ˈkʌn·tri ˈkʌn·tri,0,0
@@ -157,7 +157,7 @@ coup, kuː kuː ku,0,0
 coupe, kuːp kuːp,0,0
 coupes, kuːp kuːp kuːˈpeɪ kuːˈpeɪ,1,0
 couple, ˈkʌpəl ˈkʌpəl ˈkʌp·əl ˈkʌp·əl,0,0
-coupled, ˈkʌpəl ˈkʌpəl,0,0
+coupled, ˈkʌpəl ˈkʌpəl,1,0
 coupler,,0,1
 couplers,,0,1
 couples, ˈkʌpəl ˈkʌpəl ˈkʌp·əl ˈkʌp·əl,1,0
@@ -176,7 +176,7 @@ course," kɔːrs kɔːrs kɔːrs kɔːrs kɔːrs kɔːrs kɔːrs kɔrs, koʊrs k
 courses,,0,1
 coursing, ˈkɔːrsɪŋ,0,0
 court," kɔːrt kɔːrt kɔːrt kɔːrt kɔːrt kɔrt, koʊrt kɔrt, koʊrt kɔrt, koʊrt",0,0
-courted, kɔːrt kɔːrt kɔːrt kɔːrt,0,0
+courted, kɔːrt kɔːrt kɔːrt kɔːrt,1,0
 courteous, ˈkɝːt̬iəs kɜr·t̬i·əs,0,0
 courtesies, ˈkɝːt̬əsi ˈkɝːt̬əsi ˈkɝːt̬əsi ˈkɜr·t̬ə·si,1,0
 courtesy, ˈkɝːt̬əsi ˈkɜr·t̬ə·si,0,0
@@ -184,7 +184,7 @@ courthouse," ˈkɔːrthaʊs ˈkɔrtˌhɑʊs, ˈkoʊrt-",0,0
 courthouses," ˈkɔːrthaʊs ˈkɔrtˌhɑʊs, ˈkoʊrt-",1,0
 courtier, ˈkɔːrt̬iɚ,0,0
 courtiers, ˈkɔːrt̬iɚ,1,0
-courting, kɔːrt kɔːrt kɔːrt kɔːrt,0,0
+courting, kɔːrt kɔːrt kɔːrt kɔːrt,1,0
 courtly, ˈkɔːrtli ˈkɔːrtli,0,0
 courtroom," ˈkɔːrtruːm ˈkɔrt·rum, ˈkoʊrt-, -rʊm",0,0
 courtrooms," ˈkɔːrtruːm ˈkɔrt·rum, ˈkoʊrt-, -rʊm",1,0
@@ -231,7 +231,7 @@ cowboy, ˈkaʊbɔɪ ˈkaʊbɔɪ ˈkɑʊˌbɔɪ,0,0
 cowboys, ˈkaʊbɔɪ ˈkaʊbɔɪ ˈkɑʊˌbɔɪ,1,0
 cowed, kaʊd,0,0
 cower," ˈkaʊɚ ˈkɑʊ·ər, kɑʊər",0,0
-cowering, ˈkaʊɚ,0,0
+cowering, ˈkaʊɚ,1,0
 cowgirl, ˈkaʊɡɝːl,0,0
 cowgirls, ˈkaʊbɔɪ ˈkaʊbɔɪ ˈkɑʊˌbɔɪ,1,0
 cowl, kaʊl kaʊl kaʊl,0,0
@@ -267,7 +267,7 @@ crackhead, ˈkrækhed,0,0
 crackheads,,0,1
 cracking, ˈkrækɪŋ ˈkræk·ɪŋ,0,0
 crackle, ˈkrækəl ˈkræk·əl,0,0
-crackled, ˈkrækəl,0,0
+crackled, ˈkrækəl,1,0
 crackles, ˈkrækəl ˈkræk·əl,1,0
 crackling, ˈkræklɪŋ ˈkræklɪŋ,0,0
 crackpot, ˈkrækpɑːt ˈkrækˌpɑt,0,0
@@ -275,9 +275,9 @@ crackpots, ˈkrækpɑːt ˈkrækˌpɑt,1,0
 cracks, kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk kræk,1,0
 cradle, ˈkreɪdəl ˈkreɪdəl ˈkreɪdəl ˈkreɪ·dəl,0,0
 cradles, ˈkreɪdəl ˈkreɪdəl ˈkreɪdəl ˈkreɪ·dəl,1,0
-cradling, ˈkreɪdəl,0,0
+cradling, ˈkreɪdəl,1,0
 craft, kræft kræft kræft kræft,0,0
-crafted, kræft,0,0
+crafted, kræft,1,0
 crafting, ˈkræftɪŋ ˈkræftɪŋ,0,0
 crafts, kræft kræft kræft kræft,1,0
 craftsman, ˈkræftsmən ˈkræfts·mən,0,0
@@ -292,7 +292,7 @@ crammed, kræmd,0,0
 cramming,,0,1
 cramp, kræmp kræmp,0,0
 cramped, kræmpt kræmpt,0,0
-cramping, kræmp,0,0
+cramping, kræmp,1,0
 crampon, ˈkræmpɑːn,0,0
 crampons, ˈkræmpɑːn,1,0
 cramps,,0,1
@@ -300,7 +300,7 @@ cranberries," ˈkrænberi ˈkrænˌber·i, -bə·ri",1,0
 cranberry," ˈkrænberi ˈkrænˌber·i, -bə·ri",0,0
 crandall,,0,1
 crane, kreɪn kreɪn kreɪn kreɪn,0,0
-craned, kreɪn,0,0
+craned, kreɪn,1,0
 craner,,0,1
 cranes, kreɪn kreɪn kreɪn kreɪn,1,0
 cranial, ˈkreɪniəl,0,0
@@ -317,7 +317,7 @@ crap, kræp kræp kræp,0,0
 crappy, ˈkræpi ˈkræp·i,0,0
 craps,,0,1
 crash, kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ,0,0
-crashed, kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ,0,0
+crashed, kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ,1,0
 crashes, kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ kræʃ,1,0
 crashing, ˈkræʃɪŋ,0,0
 crass, kræs kræs,0,0
@@ -325,9 +325,9 @@ crate, kreɪt kreɪt kreɪt,0,0
 crater, ˈkreɪt̬ɚ ˈkreɪ·t̬ər ˈkreɪ·t̬ər,0,0
 craters, ˈkreɪt̬ɚ ˈkreɪ·t̬ər ˈkreɪ·t̬ər,1,0
 crates, kreɪt kreɪt kreɪt,1,0
-crating, kreɪt kreɪt,0,0
+crating, kreɪt kreɪt,1,0
 crave, kreɪv kreɪv,0,0
-craved, kreɪv,0,0
+craved, kreɪv,1,0
 craven, ˈkreɪvən,0,0
 cravens, ˈkreɪvən,1,0
 craves, kreɪv kreɪv,1,0
@@ -336,9 +336,9 @@ cravings, ˈkreɪvɪŋ ˈkreɪ·vɪŋ,1,0
 craw,,0,1
 crawfish, ˈkrɑːfɪʃ ˈkrɔˌfɪʃ,0,0
 crawl, krɑːl krɑːl krɑːl krɔl,0,0
-crawled, krɑːl krɑːl krɑːl krɑːl,0,0
+crawled, krɑːl krɑːl krɑːl krɑːl,1,0
 crawley,,0,1
-crawling, krɑːl krɑːl krɑːl krɑːl,0,0
+crawling, krɑːl krɑːl krɑːl krɑːl,1,0
 crawls, krɑːl krɑːl krɑːl krɑːl krɔl,1,0
 crawly, ˈkrɑːli,0,0
 cray, kreɪ,0,0
@@ -354,11 +354,11 @@ crazily, ˈkreɪzəli ˈkreɪzəli ˈkreɪzəli,0,0
 craziness, ˈkreɪzinəs ˈkreɪzinəs,0,0
 crazy, ˈkreɪzi ˈkreɪzi ˈkreɪzi ˈkreɪ·zi ˈkreɪ·zi ˈkreɪ·zi,0,0
 creak, kriːk krik,0,0
-creaked, kriːk,0,0
-creaking, kriːk,0,0
+creaked, kriːk,1,0
+creaking, kriːk,1,0
 creaky, ˈkriːki ˈkriːki,0,0
 cream, kriːm kriːm kriːm kriːm kriːm krim krim krim krim,0,0
-creamed, kriːm,0,0
+creamed, kriːm,1,0
 creamer, ˈkriːmɚ ˈkriːmɚ,0,0
 creamery, ˈkriːməri,0,0
 creamier, ˈkriːmi ˈkri·mi,1,0
@@ -369,9 +369,9 @@ crease, kriːs kriːs kriːs kris,0,0
 creases, kriːs kriːs kriːs kris,1,0
 creasy,,0,1
 create, kriˈeɪt kriˈeɪt kriˈeɪt,0,0
-created, kriˈeɪt kriˈeɪt,0,0
+created, kriˈeɪt kriˈeɪt,1,0
 creates, kriˈeɪt kriˈeɪt kriˈeɪt,1,0
-creating, kriˈeɪt kriˈeɪt,0,0
+creating, kriˈeɪt kriˈeɪt,1,0
 creation, kriˈeɪʃən kriˈeɪ·ʃən kriˈeɪ·ʃən,0,0
 creationism, kriˈeɪʃənɪzəm,0,0
 creations, kriˈeɪʃən kriˈeɪʃən kriˈeɪ·ʃən kriˈeɪ·ʃən,1,0
@@ -392,8 +392,8 @@ credible, ˈkredəbəl ˈkred·ə·bəl,0,0
 credibly, ˈkredəbli,0,0
 credit, ˈkredɪt ˈkredɪt ˈkredɪt ˈkredɪt ˈkredɪt ˈkredɪt ˈkred·ɪt ˈkred·ɪt ˈkred·ɪt ˈkred·ɪt ˈkred·ɪt,0,0
 creditable, ˈkredɪt̬əbəl,0,0
-credited, ˈkredɪt ˈkredɪt,0,0
-crediting, ˈkredɪt ˈkredɪt,0,0
+credited, ˈkredɪt ˈkredɪt,1,0
+crediting, ˈkredɪt ˈkredɪt,1,0
 creditor, ˈkredɪt̬ɚ ˈkred·ɪ·t̬ər,0,0
 creditors,,0,1
 credits, ˈkred·ɪts,0,1
@@ -412,7 +412,7 @@ creeps, krips,0,0
 creepy, ˈkriːpi ˈkriːpi ˈkri·pi,0,0
 crees,,0,1
 cremate," ˈkriːmeɪt ˈkri·meɪt, krɪˈmeɪt",0,0
-cremated, ˈkriːmeɪt,0,0
+cremated, ˈkriːmeɪt,1,0
 cremation, krɪˈmeɪʃən,0,0
 crematoria,,0,1
 crematorium," ˌkreməˈtɔːriəm ˌkri·məˈtɔr·i·əm, ˌkrem·ə-, -ˈtoʊr-",0,0
@@ -470,12 +470,12 @@ criminologist, ˌkrɪməˈnɑːlədʒɪst,0,0
 criminologists, ˌkrɪməˈnɑːlədʒɪst,1,0
 criminology, ˌkrɪməˈnɑːlədʒi,0,0
 crimp, krɪmp krɪmp,0,0
-crimped, krɪmp,0,0
-crimping, krɪmp,0,0
+crimped, krɪmp,1,0
+crimping, krɪmp,1,0
 crimson, ˈkrɪmzən ˈkrɪm·zən,0,0
 cringe, krɪndʒ krɪndʒ krɪndʒ krɪndʒ,0,0
-cringed, krɪndʒ krɪndʒ,0,0
-cringing, krɪndʒ krɪndʒ,0,0
+cringed, krɪndʒ krɪndʒ,1,0
+cringing, krɪndʒ krɪndʒ,1,0
 crip,,0,1
 cripple, ˈkrɪpəl ˈkrɪp·əl ˈkrɪp·əl,0,0
 crippled, ˈkrɪpəld ˈkrɪpəld ˈkrɪpəld ˈkrɪpəld,0,0

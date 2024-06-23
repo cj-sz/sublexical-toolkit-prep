@@ -1,11 +1,11 @@
 Word,Pronunciation,Root Word Returned,Missing
-punctuated, ˈpʌŋktuːeɪt ˈpʌŋktuːeɪt,0,0
-punctuating, ˈpʌŋktuːeɪt ˈpʌŋktuːeɪt,0,0
+punctuated, ˈpʌŋktuːeɪt ˈpʌŋktuːeɪt,1,0
+punctuating, ˈpʌŋktuːeɪt ˈpʌŋktuːeɪt,1,0
 punctuation, ˌpʌŋktʃuˈeɪʃən ˌpʌŋk·tʃuˈeɪ·ʃən,0,0
 puncture, ˈpʌŋktʃɚ ˈpʌŋk·tʃər,0,0
-punctured, ˈpʌŋktʃɚ ˈpʌŋktʃɚ,0,0
+punctured, ˈpʌŋktʃɚ ˈpʌŋktʃɚ,1,0
 punctures, ˈpʌŋktʃɚ ˈpʌŋk·tʃər,1,0
-puncturing, ˈpʌŋktʃɚ ˈpʌŋktʃɚ,0,0
+puncturing, ˈpʌŋktʃɚ ˈpʌŋktʃɚ,1,0
 pundit, ˈpʌndɪt ˈpʌndɪt ˈpʌn·dɪt,0,0
 pundits, ˈpʌndɪt ˈpʌndɪt ˈpʌn·dɪt,1,0
 pung,,0,1
@@ -13,7 +13,7 @@ pungent, ˈpʌndʒənt ˈpʌndʒənt ˈpʌn·dʒənt,0,0
 punic,,0,1
 punish, ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌn·ɪʃ,0,0
 punishable, ˈpʌnɪʃəbəl,0,0
-punished, ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌnɪʃ,0,0
+punished, ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌnɪʃ,1,0
 punisher,,0,1
 punishes, ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌnɪʃ ˈpʌn·ɪʃ,1,0
 punishing, ˈpʌnɪʃɪŋ ˈpʌn·ɪ·ʃɪŋ,0,0
@@ -45,7 +45,7 @@ puppy, ˈpʌpi,0,0
 pups, pʌp pʌp,1,0
 pur,,0,1
 purchase, ˈpɝːtʃəs ˈpɜr·tʃəs,0,0
-purchased, ˈpɝːtʃəs,0,0
+purchased, ˈpɝːtʃəs,1,0
 purchaser, ˈpɝːtʃəsɚ,0,0
 purchases, ˈpɝːtʃəs ˈpɜr·tʃəs,1,0
 purchasing,,0,1
@@ -60,15 +60,15 @@ purer, pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr p
 purest, pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr pjʊr,1,0
 purgatory, ˈpɝːɡətɔːri ˈpɝːɡətɔːri,0,0
 purge, pɝːdʒ pɝːdʒ pɝːdʒ pɝːdʒ pɜrdʒ pɜrdʒ,0,0
-purged, pɝːdʒ pɝːdʒ pɝːdʒ pɝːdʒ,0,0
+purged, pɝːdʒ pɝːdʒ pɝːdʒ pɝːdʒ,1,0
 purges, pɝːdʒ pɝːdʒ pɝːdʒ pɝːdʒ pɜrdʒ pɜrdʒ,1,0
 purging, ˈpɝːdʒɪŋ ˈpɝːdʒɪŋ ˈpɝːdʒɪŋ ˈpɝːdʒɪŋ,0,0
 purification, ˌpjʊrəfəˈkeɪʃən ˌpjʊrəfəˈkeɪʃən,0,0
-purified, ˈpjʊrəfaɪ ˈpjʊrəfaɪ,0,0
+purified, ˈpjʊrəfaɪ ˈpjʊrəfaɪ,1,0
 purifier, ˈpjʊrəfaɪɚ,0,0
 purifiers, ˈpjʊrəfaɪɚ,1,0
 purify, ˈpjʊrəfaɪ ˈpjʊrəfaɪ ˈpjʊr·əˌfɑɪ,0,0
-purifying, ˈpjʊrəfaɪ ˈpjʊrəfaɪ,0,0
+purifying, ˈpjʊrəfaɪ ˈpjʊrəfaɪ,1,0
 purim, ˈpʊrɪm,0,0
 purist, ˈpjʊrɪst ˈpjʊr·ɪst,0,0
 purists, ˈpjʊrɪst ˈpjʊr·ɪst,1,0
@@ -78,14 +78,14 @@ puritanism, ˈpjʊrɪt̬ənɪzəm,0,0
 puritans, ˈpjʊrɪt̬ən ˈpjʊrɪt̬ən ˈpjʊr·ɪ·tən,1,0
 purity, ˈpjʊrət̬i ˈpjʊrət̬i ˈpjʊrət̬i ˈpjʊrət̬i,0,0
 purloin, pɚˈlɔɪn,0,0
-purloined, pɚˈlɔɪn,0,0
+purloined, pɚˈlɔɪn,1,0
 purple, ˈpɝːpəl ˈpɝːpəl ˈpɝːpəl ˈpɜr·pəl,0,0
 purples, ˈpɝːpəl ˈpɝːpəl ˈpɝːpəl ˈpɝːpəl ˈpɝːpəl ˈpɜr·pəl,1,0
 purplish, ˈpɝːpəlɪʃ,0,0
 purport, pɝːˈpɔːrt pərˈpɔrt,0,0
 purported, pɝːˈpɔːrt̬ɪd pərˈpɔr·t̬ɪd,0,0
 purportedly, pɝːˈpɔːrt̬ɪdli,0,0
-purporting, pɝːˈpɔːrt,0,0
+purporting, pɝːˈpɔːrt,1,0
 purports, pɝːˈpɔːrt pərˈpɔrt,1,0
 purpose, ˈpɝːpəs ˈpɝːpəs ˈpɝːpəs ˈpɜr·pəs ˈpɜr·pəs ˈpɜr·pəs,0,0
 purposeful, ˈpɝːpəsfəl ˈpɜr·pəs·fəl ˈpɜr·pəs·fəl,0,0
@@ -94,23 +94,23 @@ purposeless, ˈpɝːpəsləs,0,0
 purposely, ˈpɝːpəsli ˈpɜr·pəs·li,0,0
 purposes, ˈpɝːpəs ˈpɝːpəs ˈpɝːpəs ˈpɝːpəs ˈpɝːpəs ˈpɜr·pəs ˈpɜr·pəs ˈpɜr·pəs ˈpɜr·pəs,1,0
 purr, pɝː pɜr,0,0
-purring, pɝː,0,0
+purring, pɝː,1,0
 purrs, pɝː pɜr,1,0
 purse, pɝːs pɝːs pɝːs pɝːs pɜrs pɜrs,0,0
-pursed, pɝːs,0,0
+pursed, pɝːs,1,0
 purser, ˈpɝːsɚ,0,0
 purses, ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑk·ɪtˌbʊk ˈpɑk·ɪtˌbʊk,1,0
 pursuant, pɚˈsuːənt pərˈsuːənt,0,0
 pursue, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pərˈsu pərˈsu pərˈsu pərˈsu pərˈsuː pərˈsuː pərˈsuː,0,0
-pursued, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː,0,0
+pursued, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː,1,0
 pursuer, pɚˈsuːɚ pɚˈsuːɚ,0,0
 pursuers, pɚˈsuːɚ pɚˈsuːɚ,1,0
 pursues, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pərˈsu pərˈsu pərˈsu pərˈsu pərˈsuː pərˈsuː pərˈsuː,1,0
-pursuing, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː,0,0
+pursuing, pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː pɚˈsuː,1,0
 pursuit, pɚˈsuːt pɚˈsuːt pɚˈsuːt pərˈsut pərˈsut pərˈsut,0,0
 pursuits, pɚˈsuːt pɚˈsuːt pɚˈsuːt pərˈsut pərˈsut pərˈsut,1,0
 purulent, ˈpjʊrələnt,0,0
-purveying, pɚˈveɪ,0,0
+purveying, pɚˈveɪ,1,0
 purveyor, pɚˈveɪɚ,0,0
 purveyors, pɚˈveɪɚ,1,0
 purview, ˈpɝːvjuː,0,0
@@ -133,8 +133,8 @@ pussy, ˈpʊsi ˈpʊsi ˈpʊsi ˈpʊs·i,0,0
 pussycat, ˈpʊsikæt ˈpʊsikæt,0,0
 pussycats, ˈpʊsi ˈpʊsi ˈpʊsi ˈpʊs·i,1,0
 pussyfoot, ˈpʊsifʊt ˈpʊs·iˌfʊt,0,0
-pussyfooted, ˈpʊsifʊt,0,0
-pussyfooting, ˈpʊsifʊt,0,0
+pussyfooted, ˈpʊsifʊt,1,0
+pussyfooting, ˈpʊsifʊt,1,0
 put, pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt,0,0
 putative, ˈpjuːt̬ət̬ɪv,0,0
 putdown,,0,1
@@ -143,10 +143,10 @@ putrid, ˈpjuːtrɪd ˈpjuːtrɪd ˈpju·trɪd,0,0
 puts, pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt pʊt,1,0
 putsch, pʊtʃ,0,0
 putt, pʌt pʌt,0,0
-putted, pʌt,0,0
+putted, pʌt,1,0
 putter, ˈpʌt̬ɚ ˈpʌt̬ɚ ˈpʌt̬·ər,0,0
 putterer,,0,1
-puttering, ˈpʌt̬ɚ ˈpʌt̬ɚ,0,0
+puttering, ˈpʌt̬ɚ ˈpʌt̬ɚ,1,0
 putters, ˈpʌt̬ɚ ˈpʌt̬ɚ ˈpʌt̬·ər,1,0
 putting,,0,1
 putts, pʌt pʌt,1,0
@@ -192,8 +192,8 @@ quadrant, ˈkwɑːdrənt ˈkwɑːdrənt ˈkwɑːdrənt ˈkwɑd·rənt,0,0
 quadriceps, ˈkwɑːdrəˌseps,0,0
 quadriplegic, ˌkwɑːdrəˈpliːdʒɪk,0,0
 quadruple," kwɑːˈdruːpəl kwɑˈdru·pəl, -ˈdrʌp·əl",0,0
-quadrupled, kwɑːˈdruːpəl,0,0
-quadrupling, kwɑːˈdruːpəl,0,0
+quadrupled, kwɑːˈdruːpəl,1,0
+quadrupling, kwɑːˈdruːpəl,1,0
 quads, kwɑːd kwɑːd kwɑd,1,0
 quaff, kwæf,0,0
 quagmire," ˈkwæɡmaɪr ˈkwæɡmaɪr ˈkwæɡˌmɑɪər, ˈkwɑɡ-",0,0
@@ -206,7 +206,7 @@ quake, kweɪk kweɪk,0,0
 quaker, ˈkweɪkɚ ˈkweɪ·kər,0,0
 quakers, ˈkweɪkɚ ˈkweɪ·kər,1,0
 quakes, kweɪk kweɪk kweɪk,1,0
-quaking, kweɪk kweɪk,0,0
+quaking, kweɪk kweɪk,1,0
 qual,,0,1
 quale,,0,1
 qualification, ˌkwɑːləfəˈkeɪʃən ˌkwɑːləfəˈkeɪʃən ˌkwɑːləfəˈkeɪʃən ˌkwɑːləfəˈkeɪʃən ˌkwɑl·ə·fɪˈkeɪ·ʃən ˌkwɑl·ə·fɪˈkeɪ·ʃən ˌkwɑl·ə·fɪˈkeɪ·ʃən,0,0
@@ -216,7 +216,7 @@ qualifier, ˈkwɑːləfaɪɚ ˈkwɑːləfaɪɚ ˈkwɑːləfaɪɚ,0,0
 qualifiers, ˈkwɑːləfaɪɚ ˈkwɑːləfaɪɚ ˈkwɑːləfaɪɚ,1,0
 qualifies, ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑl·əˌfɑɪ ˈkwɑl·əˌfɑɪ ˈkwɑl·əˌfɑɪ,1,0
 qualify, ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑl·əˌfɑɪ ˈkwɑl·əˌfɑɪ ˈkwɑl·əˌfɑɪ,0,0
-qualifying, ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ,0,0
+qualifying, ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ ˈkwɑːləfaɪ,1,0
 qualitative, ˈkwɑːləteɪt̬ɪv ˈkwɑːləteɪt̬ɪv ˈkwɑl·ɪˌteɪ·t̬ɪv ˈkwɒlɪˌteɪtɪv ˈkwɒlɪˌteɪtɪv,0,0
 qualitatively, ˈkwɑːləteɪt̬ɪvli ˈkwɑːləteɪt̬ɪvli ˈkwɒlɪˌteɪtɪvli,0,0
 qualities, ˈkwɑːlət̬i ˈkwɑːlət̬i ˈkwɑːlət̬i ˈkwɑːlət̬i ˈkwɑl·ɪ·t̬i ˈkwɑl·ɪ·t̬i ˈkwɑl·ɪ·t̬i,1,0
@@ -228,17 +228,17 @@ quandaries, ˈkwɑːndri ˈkwɑn·dri,1,0
 quandary, ˈkwɑːndri ˈkwɑn·dri,0,0
 quant, kwɑːnt,0,0
 quantifiable, ˌkwɑːnt̬əˈfaɪəbəl,0,0
-quantified, ˈkwɑːnt̬əfaɪ,0,0
+quantified, ˈkwɑːnt̬əfaɪ,1,0
 quantify, ˈkwɑːnt̬əfaɪ ˈkwɑn·təˌfɑɪ,0,0
-quantifying, ˈkwɑːnt̬əfaɪ,0,0
+quantifying, ˈkwɑːnt̬əfaɪ,1,0
 quantitative, ˈkwɑːnt̬əteɪt̬ɪv ˈkwɑn·tɪˌteɪ·t̬ɪv ˈkwɑːntəˌteɪtɪv,0,0
 quantities, ˈkwɑːnt̬ət̬i ˈkwɑn·tɪ·t̬i,1,0
 quantity, ˈkwɑːnt̬ət̬i ˈkwɑn·tɪ·t̬i,0,0
 quantum, ˈkwɑːnt̬əm ˈkwɑn·təm,0,0
 quarantine," ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɑr·ənˌtin, ˈkwɔr-",0,0
-quarantined, ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn,0,0
+quarantined, ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn,1,0
 quarantines," ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɑr·ənˌtin, ˈkwɔr-",1,0
-quarantining, ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn,0,0
+quarantining, ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn ˈkwɔːrəntiːn,1,0
 quark," kwɑːrk kwɑːrk kwɑrk, kwɔrk",0,0
 quarks," kwɑːrk kwɑːrk kwɑrk, kwɔrk",1,0
 quarrel," ˈkwɔːrəl ˈkwɑr·əl, ˈkwɔr-",0,0
@@ -264,7 +264,7 @@ quarts, kwɔːrt kwɔrt,1,0
 quartz, ˈkwɔːrts ˈkwɔrts,0,0
 quasar, ˈkweɪzɑːr,0,0
 quash, kwɑːʃ kwɑːʃ kwɑʃ,0,0
-quashed, kwɑːʃ kwɑːʃ,0,0
+quashed, kwɑːʃ kwɑːʃ,1,0
 quasi," kweɪzaɪ- ˌkweɪ·zɑɪ, ˌkwɑz·i kwɑzi-",1,0
 quasimodo,,0,1
 quaternary, ˈkwɑːt̬ɚneri ˈkwɑːt̬ɚneri,0,0
@@ -281,21 +281,21 @@ queer, kwɪr kwɪr kwɪər,0,0
 queerer, kwɪr kwɪr kwɪr kwɪər,1,0
 queers, kwɪr kwɪr kwɪr kwɪər,1,0
 quell, kwel kwel kwel,0,0
-quelled, kwel,0,0
-quelling, kwel,0,0
+quelled, kwel,1,0
+quelling, kwel,1,0
 quench, kwentʃ kwentʃ kwentʃ kwentʃ,0,0
 quencher,,0,1
 quenches, kwentʃ kwentʃ kwentʃ kwentʃ,1,0
-quenching, kwentʃ kwentʃ kwentʃ,0,0
+quenching, kwentʃ kwentʃ kwentʃ,1,0
 querida,,0,1
-queried, ˈkwɪri,0,0
+queried, ˈkwɪri,1,0
 queries," ˈkwɪri ˈkwɪər·i, ˈkwer·i",1,0
 query," ˈkwɪri ˈkwɪər·i, ˈkwer·i",0,0
 ques,,0,1
 quest, kwest kwest,0,0
 question, ˈkwestʃən ˈkwestʃən ˈkwestʃən ˈkwestʃən ˈkwes·tʃən ˈkwes·tʃən ˈkwes·tʃən ˈkwes·tʃən,0,0
 questionable, ˈkwestʃənəbəl ˈkwes·tʃə·nə·bəl,0,0
-questioned, ˈkwestʃən ˈkwestʃən,0,0
+questioned, ˈkwestʃən ˈkwestʃən,1,0
 questioner, ˈkwestʃənɚ ˈkwes·tʃə·nər,0,0
 questioning, ˈkwestʃənɪŋ,0,0
 questionings,,0,1
@@ -309,12 +309,12 @@ queuing, ˈkjuːɪŋ ˈkjuːɪŋ,0,0
 qui,,0,1
 quibble, ˈkwɪbəl ˈkwɪb·əl,0,0
 quibbles, ˈkwɪbəl ˈkwɪb·əl,1,0
-quibbling, ˈkwɪbəl,0,0
+quibbling, ˈkwɪbəl,1,0
 quiche, kiːʃ kiʃ,0,0
 quick, kwɪk kwɪk kwɪk kwɪk,0,0
 quicken, ˈkwɪkən ˈkwɪkən ˈkwɪk·ən,0,0
-quickened, ˈkwɪkən ˈkwɪkən,0,0
-quickening, ˈkwɪkən ˈkwɪkən,0,0
+quickened, ˈkwɪkən ˈkwɪkən,1,0
+quickening, ˈkwɪkən ˈkwɪkən,1,0
 quickens, ˈkwɪkən ˈkwɪkən ˈkwɪk·ən,1,0
 quicker, kwɪk kwɪk kwɪk kwɪk kwɪk kwɪk kwɪk,1,0
 quickest, kwɪk kwɪk kwɪk kwɪk kwɪk kwɪk kwɪk,1,0
@@ -374,7 +374,7 @@ quitter, ˈkwɪt̬ɚ,0,0
 quitters, ˈkwɪt̬ɚ,1,0
 quitting,,0,1
 quiver, ˈkwɪvɚ ˈkwɪv·ər,0,0
-quivering, ˈkwɪvɚ,0,0
+quivering, ˈkwɪvɚ,1,0
 quixote,,0,1
 quixotic, kwɪkˈsɑːt̬ɪk kwɪkˈsɑt̬·ɪk,0,0
 quiz, kwɪz kwɪz kwɪz,0,0
@@ -390,11 +390,11 @@ quotas, ˈkwoʊt̬ə ˈkwoʊ·t̬ə,1,0
 quotation, kwoʊˈteɪʃən kwoʊˈteɪʃən kwoʊˈteɪʃən kwoʊˈteɪ·ʃən kwoʊˈteɪ·ʃən,0,0
 quotations, kwoʊˈteɪʃən kwoʊˈteɪʃən kwoʊˈteɪʃən kwoʊˈteɪ·ʃən kwoʊˈteɪ·ʃən,1,0
 quote, kwoʊt kwoʊt kwoʊt kwoʊt kwoʊt kwoʊt,0,0
-quoted, kwoʊt kwoʊt kwoʊt,0,0
+quoted, kwoʊt kwoʊt kwoʊt,1,0
 quotes,,0,1
 quoth, kwoʊθ,0,0
 quotient, ˈkwoʊʃənt ˈkwoʊʃənt ˈkwoʊ·ʃənt ˈkwoʊ·ʃənt,0,0
-quoting, kwoʊt kwoʊt kwoʊt,0,0
+quoting, kwoʊt kwoʊt kwoʊt,1,0
 r,,0,1
 ra, aːr ˈeɪ,0,0
 raad,,0,1
@@ -410,7 +410,7 @@ rabies, ˈreɪbiːz ˈreɪ·biz,0,0
 raccoon, rækˈuːn ræˈkun,0,0
 raccoons, rækˈuːn ræˈkun,1,0
 race, reɪs reɪs reɪs reɪs reɪs reɪs reɪs reɪs reɪs,0,0
-raced, reɪs reɪs,0,0
+raced, reɪs reɪs,1,0
 racehorse, ˈreɪshɔːrs ˈreɪsˌhɔrs,0,0
 racehorses, ˈreɪshɔːrs ˈreɪsˌhɔrs,1,0
 racer, ˈreɪsɚ ˈreɪsɚ ˈreɪ·sər,0,0
@@ -452,9 +452,9 @@ radials, ˈreɪdiəl ˈreɪdiəl ˈreɪdiəl,1,0
 radiance, ˈreɪdiəns ˈreɪdiəns ˈreɪ·di·əns ˈreɪ·di·əns,0,0
 radiant, ˈreɪdiənt ˈreɪdiənt ˈreɪ·di·ənt ˈreɪ·di·ənt,0,0
 radiate, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt ˈreɪ·diˌeɪt ˈreɪ·diˌeɪt ˈreɪ·diˌeɪt,0,0
-radiated, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt,0,0
+radiated, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt,1,0
 radiates, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt ˈreɪ·diˌeɪt ˈreɪ·diˌeɪt ˈreɪ·diˌeɪt,1,0
-radiating, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt,0,0
+radiating, ˈreɪdieɪt ˈreɪdieɪt ˈreɪdieɪt,1,0
 radiation, ˌreɪdiˈeɪʃən ˌreɪdiˈeɪʃən ˌreɪ·diˈeɪ·ʃən ˌreɪ·diˈeɪ·ʃən,0,0
 radiator, ˈreɪdieɪt̬ɚ ˈreɪ·diˌeɪ·t̬ər ˈreɪ·diˌeɪ·t̬ər,0,0
 radiators, ˈreɪdieɪt̬ɚ ˈreɪ·diˌeɪ·t̬ər ˈreɪ·diˌeɪ·t̬ər,1,0
@@ -467,7 +467,7 @@ radicals, ˈrædɪkəl ˈrædɪkəl ˈrædɪkəl ˈræd·ɪ·kəl ˈræd·ɪ·k�
 radio, ˈreɪdioʊ ˈreɪdioʊ ˈreɪdioʊ ˈreɪdioʊ ˈreɪ·diˌoʊ ˈreɪ·diˌoʊ ˈreɪ·diˌoʊ,0,0
 radioactive, ˌreɪdioʊˈæktɪv ˌreɪdioʊˈæktɪv ˌreɪ·di·oʊˈæk·tɪv,0,0
 radioactivity, ˌreɪdioʊækˈtɪvət̬i ˌreɪdioʊækˈtɪvət̬i,0,0
-radioed, ˈreɪdioʊ,0,0
+radioed, ˈreɪdioʊ,1,0
 radiological, ˌreɪdiəˈlɑːdʒɪkəl,0,0
 radiologist, ˌreɪdiˈɑːlədʒɪst ˌreɪ·diˈɑl·ə·dʒɪst,0,0
 radiologists, ˌreɪdiˈɑːlədʒɪst ˌreɪ·diˈɑl·ə·dʒɪst,1,0

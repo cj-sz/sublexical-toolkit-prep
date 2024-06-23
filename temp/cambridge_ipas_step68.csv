@@ -36,8 +36,8 @@ poncho, ˈpɑːntʃoʊ ˈpɑn·tʃoʊ,0,0
 ponchos, ˈpɑːntʃoʊ ˈpɑn·tʃoʊ,1,0
 pond, pɑːnd pɑnd,0,0
 ponder, ˈpɑːndɚ ˈpɑn·dər,0,0
-pondered, ˈpɑːndɚ,0,0
-pondering, ˈpɑːndɚ,0,0
+pondered, ˈpɑːndɚ,1,0
+pondering, ˈpɑːndɚ,1,0
 ponderosa,,0,1
 ponderous, ˈpɑːndɚəs ˈpɑːndɚəs ˈpɑn·dər·əs,0,0
 ponders, ˈpɑːndɚ ˈpɑn·dər,1,0
@@ -51,7 +51,7 @@ pontiac,,0,1
 pontiacs,,0,1
 pontiff, ˈpɑːnt̬ɪf ˈpɑn·tɪf,0,0
 pontificate, pɑːnˈtɪfəkeɪt pɑnˈtɪf·ɪˌkeɪt,0,0
-pontificating, pɑːnˈtɪfəkeɪt,0,0
+pontificating, pɑːnˈtɪfəkeɪt,1,0
 pontius,,0,1
 ponton,,0,1
 pontoon, pɑːnˈtuːn pɑːnˈtuːn pɑnˈtun,0,0
@@ -66,7 +66,7 @@ poodles, ˈpuːdəl ˈpu·dəl,1,0
 poof, pʊf,0,0
 pooh, puː,0,0
 pool, puːl puːl puːl puːl puːl puːl puːl pul pul pul pul pul,0,0
-pooled, puːl,0,0
+pooled, puːl,1,0
 pooler,,0,1
 pooling,,0,1
 pools, puːl puːl puːl puːl puːl puːl puːl puːl pul pul pul pul pul,1,0
@@ -101,11 +101,11 @@ populace, ˈpɑp·jə·ləs,0,1
 popular, ˈpɑːpjəlɚ ˈpɑːpjəlɚ ˈpɑp·jə·lər ˈpɑp·jə·lər,0,0
 popularity, ˌpɑːpjəˈlerət̬i,0,0
 popularize, ˈpɑːpjələraɪz ˈpɑːpjələraɪz ˈpɑp·jə·ləˌrɑɪz ˈpɑp·jə·ləˌrɑɪz,0,0
-popularized, ˈpɑːpjələraɪz ˈpɑːpjələraɪz,0,0
+popularized, ˈpɑːpjələraɪz ˈpɑːpjələraɪz,1,0
 popularly, ˈpɑːpjəlɚli ˈpɑːpjəlɚli ˈpɑp·jə·lər·li,0,0
 populate, ˈpɑːpjəleɪt ˈpɑːpjəleɪt ˈpɑːpjəleɪt,0,0
 populated, ˈpɑːpjəleɪt̬ɪd ˈpɑp·jəˌleɪ·t̬ɪd,0,0
-populating, ˈpɑːpjəleɪt ˈpɑːpjəleɪt ˈpɑːpjəleɪt,0,0
+populating, ˈpɑːpjəleɪt ˈpɑːpjəleɪt ˈpɑːpjəleɪt,1,0
 population, ˌpɑːpjəˈleɪʃən ˌpɑːpjəˈleɪʃən ˌpɑp·jəˈleɪ·ʃən ˌpɑp·jəˈleɪ·ʃən,0,0
 populations, ˌpɑːpjəˈleɪʃən ˌpɑːpjəˈleɪʃən ˌpɑp·jəˈleɪ·ʃən ˌpɑp·jəˈleɪ·ʃən,1,0
 populist, ˈpɑːpjəlɪst ˈpɑp·jə·lɪst,0,0
@@ -169,8 +169,8 @@ portraits," ˈpɔːrtrɪt ˈpɔːrtrɪt ˈpɔr·trət, ˈpoʊr- ˈpɔr·trət, �
 portray," pɔːrˈtreɪ pɔrˈtreɪ, poʊr- pɔrˈtreɪ, poʊr-",0,0
 portrayal, pɔːrˈtreɪəl,0,0
 portrayals, pɔːrˈtreɪəl,1,0
-portrayed, pɔːrˈtreɪ pɔːrˈtreɪ,0,0
-portraying, pɔːrˈtreɪ pɔːrˈtreɪ,0,0
+portrayed, pɔːrˈtreɪ pɔːrˈtreɪ,1,0
+portraying, pɔːrˈtreɪ pɔːrˈtreɪ,1,0
 portrays," pɔːrˈtreɪ pɔːrˈtreɪ pɔrˈtreɪ, poʊr- pɔrˈtreɪ, poʊr-",1,0
 ports," pɔːrt pɔːrt pɔːrt pɔːrt pɔːrt pɔrt, poʊrt pɔrt, poʊrt pɔrt, poʊrt",1,0
 portugal, ˈpɔːrtʃəɡəl,0,0
@@ -178,17 +178,17 @@ portuguese, ˌpɔːrtʃəˈɡiːz ˌpɔːrtʃəˈɡiːz,0,0
 pos, ˌpioʊˈes,0,0
 posada,,0,1
 pose, poʊz poʊz poʊz poʊz poʊz poʊz poʊz poʊz,0,0
-posed, poʊz poʊz poʊz poʊz,0,0
+posed, poʊz poʊz poʊz poʊz,1,0
 poseidon, poʊˈsaɪdən,0,0
 poser, ˈpoʊzɚ,0,0
 poses, poʊz poʊz poʊz poʊz poʊz poʊz poʊz poʊz,1,0
 posey, ˈpoʊzi,0,0
 posh, pɑːʃ pɑːʃ pɑʃ,0,0
-posing, poʊz poʊz poʊz poʊz,0,0
+posing, poʊz poʊz poʊz poʊz,1,0
 posit, ˈpɑːzɪt,0,0
-posited, ˈpɑːzɪt,0,0
+posited, ˈpɑːzɪt,1,0
 position, pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən,0,0
-positioned, pəˈzɪʃən,0,0
+positioned, pəˈzɪʃən,1,0
 positioning,,0,1
 positions, pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən pəˈzɪʃ·ən,1,0
 positive, ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑːzət̬ɪv ˈpɑz·ə·t̬ɪv ˈpɑz·ə·t̬ɪv ˈpɑz·ə·t̬ɪv ˈpɑz·ə·t̬ɪv ˈpɑz·ə·t̬ɪv ˈpɑz·ə·t̬ɪv,0,0
@@ -203,7 +203,7 @@ posses, ˈpɑːsi ˈpɑːsi ˈpɑːsi ˈpɑs·i,1,0
 possess, pəˈzes pəˈzes pəˈzes pəˈzes,0,0
 possessed, pəˈzest,0,0
 possesses, pəˈzes pəˈzes pəˈzes pəˈzes,1,0
-possessing, pəˈzes pəˈzes,0,0
+possessing, pəˈzes pəˈzes,1,0
 possession, pəˈzeʃən pəˈzeʃən pəˈzeʃən pəˈzeʃən pəˈzeʃ·ən,0,0
 possessions, pəˈzeʃən pəˈzeʃən pəˈzeʃən pəˈzeʃən pəˈzeʃən pəˈzeʃ·ən pəˈzeʃ·ən,1,0
 possessive, pəˈzesɪv pəˈzesɪv pəˈzesɪv pəˈzes·ɪv pəˈzes·ɪv pəˈzes·ɪv,0,0
@@ -221,7 +221,7 @@ postal, ˈpoʊstəl ˈpoʊ·stəl,0,0
 postcard, ˈpoʊstkɑːrd ˈpoʊstˌkɑrd,0,0
 postcards, ˈpoʊstkɑːrd ˈpoʊstˌkɑrd,1,0
 postdate," ˌpoʊstˈdeɪt ˌpoʊstˈdeɪt poʊsˈdeɪt, ˈpoʊstˈdeɪt",0,0
-postdated, ˌpoʊstˈdeɪt ˌpoʊstˈdeɪt,0,0
+postdated, ˌpoʊstˈdeɪt ˌpoʊstˈdeɪt,1,0
 postdates," ˌpoʊstˈdeɪt ˌpoʊstˈdeɪt poʊsˈdeɪt, ˈpoʊstˈdeɪt",1,0
 postdoctoral, ˌpoʊstˈdɑːktɚəl,0,0
 posted,,0,1
@@ -237,17 +237,17 @@ posting, ˈpoʊstɪŋ ˈpoʊstɪŋ ˈpoʊ·stɪŋ,0,0
 postings, ˈpoʊstɪŋ ˈpoʊstɪŋ ˈpoʊ·stɪŋ,1,0
 postman, ˈpoʊstmən,0,0
 postmark, ˈpoʊstmɑːrk ˈpoʊstˌmɑrk,0,0
-postmarked, ˈpoʊstmɑːrk,0,0
+postmarked, ˈpoʊstmɑːrk,1,0
 postmaster, ˈpoʊstˌmæstɚ ˈpoʊstˌmæs·tər ˈpəʊstˌmæstər,0,0
 postmasters, ˈpoʊstˌmæstɚ ˈpoʊstˌmæs·tər ˈpəʊstˌmæstər,1,0
 postmodern, ˌpoʊstˈmɑːdɚn poʊstˈmɑd·ərn,0,0
 postmortem, ˌpoʊstˈmɔːrt̬əm ˌpoʊstˈmɔːrt̬əm poʊstˈmɔr·t̬əm,1,0
 postnatal, ˌpoʊstˈneɪt̬əl poʊstˈneɪ·təl,0,0
 postpone, poʊstˈpoʊn poʊstˈpoʊn,0,0
-postponed, poʊstˈpoʊn,0,0
+postponed, poʊstˈpoʊn,1,0
 postponement, poʊstˈpoʊnmənt,0,0
 postpones, poʊstˈpoʊn poʊstˈpoʊn,1,0
-postponing, poʊstˈpoʊn,0,0
+postponing, poʊstˈpoʊn,1,0
 posts, poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst poʊst- poʊst poʊst poʊst,1,0
 postscript," ˈpoʊstskrɪpt ˈpoʊstskrɪpt ˈpoʊstˌskrɪpt, ˈpoʊs-",0,0
 posttraumatic,,0,1
@@ -294,12 +294,12 @@ pouches, paʊtʃ paʊtʃ paʊtʃ pɑʊtʃ pɑʊtʃ,1,0
 poultice, ˈpoʊlt̬ɪs,0,0
 poultry, ˈpoʊltri ˈpoʊltri ˈpoʊl·tri,0,0
 pounce, paʊns pɑʊns,0,0
-pounced, paʊns,0,0
-pouncing, paʊns,0,0
+pounced, paʊns,1,0
+pouncing, paʊns,1,0
 pouncy,,0,1
 pound, paʊnd paʊnd paʊnd pɑʊnd pɑʊnd pɑʊnd,0,0
 poundage,,0,1
-pounded, paʊnd,0,0
+pounded, paʊnd,1,0
 pounder,  -paʊndɚ,1,0
 pounders,,0,1
 pounding, ˈpaʊndɪŋ ˈpaʊndɪŋ ˈpɑʊn·dɪŋ,0,0
@@ -311,16 +311,16 @@ pouring,,0,1
 pours, pɔr pɔr pɔr,1,0
 poussin,,0,1
 pout, paʊt pɑʊt,0,0
-pouted, paʊt,0,0
+pouted, paʊt,1,0
 pouter,,0,1
-pouting, paʊt,0,0
+pouting, paʊt,1,0
 pouts, paʊt pɑʊt,1,0
 pouty, ˈpaʊt̬i ˈpaʊt̬i,0,0
 poverty, ˈpɑːvɚt̬i ˈpɑv·ər·t̬i,0,0
 pow, paʊ pɑʊ,0,0
 powder, ˈpaʊdɚ ˈpaʊdɚ ˈpaʊdɚ ˈpɑʊ·dər ˈpɑʊ·dər ˈpɑʊ·dər,0,0
 powdered, ˈpaʊdɚd ˈpɑʊ·dərd,0,0
-powdering, ˈpaʊdɚ,0,0
+powdering, ˈpaʊdɚ,1,0
 powders, ˈpaʊdɚ ˈpaʊdɚ ˈpaʊdɚ ˈpɑʊ·dər ˈpɑʊ·dər ˈpɑʊ·dər,1,0
 powdery, ˈpaʊdɚi ˈpaʊdɚi ˈpɑʊ·də·ri,0,0
 power, ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər ˈpɑʊ·ər,0,0
@@ -330,7 +330,7 @@ powerful, ˈpaʊɚfəl ˈpaʊɚfəl ˈpaʊɚfəl ˈpaʊɚfəl ˈpɑʊ·ər·fəl
 powerfully, ˈpaʊɚfəli ˈpaʊɚfəli,0,0
 powerhouse, ˈpaʊɚhaʊs ˈpɑʊ·ərˌhɑʊs,0,0
 powerhouses, ˈpaʊɚhaʊs ˈpɑʊ·ərˌhɑʊs,1,0
-powering, ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ,0,0
+powering, ˈpaʊɚ ˈpaʊɚ ˈpaʊɚ,1,0
 powerless, ˈpaʊɚləs ˈpɑʊ·ər·ləs,0,0
 powerlessness, ˈpaʊɚləsnəs,0,0
 powers,,0,1
@@ -362,14 +362,14 @@ prague, prɑːɡ,0,0
 prairie, ˈpreri ˈpreər·i,0,0
 prairies, ˈpreri ˈpreər·i,1,0
 praise, preɪz preɪz preɪz preɪz,0,0
-praised, preɪz preɪz,0,0
+praised, preɪz preɪz,1,0
 praises, preɪz preɪz preɪz preɪz,1,0
 praiseworthy, ˈpreɪzˌwɝːði,0,0
-praising, preɪz preɪz,0,0
+praising, preɪz preɪz,1,0
 prance, præns præns præns,0,0
 prancer,,0,1
 prances, præns præns præns,1,0
-prancing, præns præns,0,0
+prancing, præns præns,1,0
 prank, præŋk præŋk,0,0
 pranks, præŋk præŋk,1,0
 prankster, ˈpræŋkstɚ,0,0
@@ -380,24 +380,24 @@ pratfalls, ˈprætfɑːl ˈprætfɑːl,1,0
 prats, præt præt,1,0
 prattle, ˈpræt̬əl,0,0
 prattles, ˈpræt̬əl,1,0
-prattling, ˈpræt̬əl,0,0
+prattling, ˈpræt̬əl,1,0
 prawn, prɑːn,0,0
 prawns, prɑːn,1,0
 praxis, ˈpræksɪs,0,0
 pray, preɪ preɪ preɪ preɪ,0,0
-prayed, preɪ preɪ,0,0
+prayed, preɪ preɪ,1,0
 prayer, prer prer preər,0,0
 prayerful, ˈprerfʊl ˈprerfʊl,0,0
 prayers, prer prer preər,1,0
-praying, preɪ preɪ,0,0
+praying, preɪ preɪ,1,0
 prays, preɪ preɪ preɪ preɪ,1,0
 pre, priː- ˌpri,1,0
 preach, priːtʃ priːtʃ priːtʃ pritʃ pritʃ pritʃ,0,0
-preached, priːtʃ priːtʃ priːtʃ,0,0
+preached, priːtʃ priːtʃ priːtʃ,1,0
 preacher, ˈpriːtʃɚ ˈpri·tʃər,0,0
 preachers, ˈpriːtʃɚ ˈpri·tʃər,1,0
 preaches, priːtʃ priːtʃ priːtʃ pritʃ pritʃ pritʃ,1,0
-preaching, priːtʃ priːtʃ priːtʃ,0,0
+preaching, priːtʃ priːtʃ priːtʃ,1,0
 preachy, ˈpriːtʃi,0,0
 preadolescent,,0,1
 preamble, ˈpriːæmbəl ˈpriːæmbəl ˈpriˌæm·bəl,0,0
@@ -410,7 +410,7 @@ precaution, prɪˈkɑːʃən prɪˈkɔ·ʃən,0,0
 precautionary, prɪˈkɑːʃəneri prɪˈkɔːʃəneri,0,0
 precautions, prɪˈkɑːʃən prɪˈkɔ·ʃən,0,0
 precede, priːˈsiːd prɪˈsid,0,0
-preceded, priːˈsiːd,0,0
+preceded, priːˈsiːd,1,0
 precedence, ˈpresədens ˈpresədens ˈpres·ɪ·dəns,0,0
 precedent, ˈpresədent ˈpresədent ˈpresədent ˈpres·ɪ·dənt,0,0
 precedents, ˈpresədent ˈpresədent ˈpresədent ˈpres·ɪ·dənt,1,0
@@ -424,8 +424,8 @@ precincts, ˈpriːsɪŋkt ˈpri·sɪŋkt ˈpri·sɪŋkt,0,0
 precious, ˈpreʃəs ˈpreʃəs ˈpreʃəs ˈpreʃ·əs ˈpreʃ·əs ˈpreʃ·əs,0,0
 precipice, ˈpresəpɪs ˈpresəpɪs ˈpres·ə·pɪs,0,0
 precipitate, prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪp·ɪˌteɪt priˈsɪp·ɪˌteɪt,0,0
-precipitated, prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪpəteɪt,0,0
-precipitating, prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪpəteɪt,0,0
+precipitated, prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪpəteɪt,1,0
+precipitating, prɪˈsɪpəteɪt prɪˈsɪpəteɪt prɪˈsɪpəteɪt,1,0
 precipitation, priːˌsɪpəˈteɪʃən priːˌsɪpəˈteɪʃən priːˌsɪpəˈteɪʃən prɪˌsɪp·ɪˈteɪ·ʃən prɪˌsɪp·ɪˈteɪ·ʃən,0,0
 precipitous, priːˈsɪpət̬əs priːˈsɪpət̬əs prɪˈsɪp·ɪ·t̬əs,0,0
 precipitously, priːˈsɪpət̬əsli priːˈsɪpət̬əsli,0,0
@@ -434,9 +434,9 @@ precise, prəˈsaɪs prəˈsaɪs prɪˈsɑɪs,0,0
 precisely, prəˈsaɪsli prəˈsaɪsli prəˈsaɪsli prəˈsaɪsli prɪˈsɑɪs·li,0,0
 precision, prəˈsɪʒən prəˈsɪʒən prɪˈsɪʒ·ən,0,0
 preclude, prəˈkluːd prɪˈklud,0,0
-precluded, prəˈkluːd,0,0
+precluded, prəˈkluːd,1,0
 precludes, prəˈkluːd prɪˈklud,1,0
-precluding, prəˈkluːd,0,0
+precluding, prəˈkluːd,1,0
 precocious, prəˈkoʊʃəs prəˈkoʊʃəs prɪˈkoʊ·ʃəs,0,0
 preconceived, ˌpriːkənˈsiːvd ˌpri·kənˈsivd,0,0
 preconception, ˌpriːkənˈsepʃən ˌpri·kənˈsep·ʃən,0,0
@@ -446,7 +446,7 @@ precooked, ˌpriːˈkʊkt,0,0
 precursor," ˌpriːˈkɝːsɚ prɪˈkɜr·sər, ˈpriˌkɜr-",0,0
 precursors," ˌpriːˈkɝːsɚ prɪˈkɜr·sər, ˈpriˌkɜr-",1,0
 predate, ˌpriːˈdeɪt prɪˈdeɪt priˈdeɪt,0,0
-predated, ˌpriːˈdeɪt prɪˈdeɪt,0,0
+predated, ˌpriːˈdeɪt prɪˈdeɪt,1,0
 predates, ˌpriːˈdeɪt prɪˈdeɪt priˈdeɪt,1,0
 predation, prɪˈdeɪʃən,0,0
 predator, ˈpredət̬ɚ ˈpredət̬ɚ ˈpred·ə·t̬ər,0,0
@@ -461,13 +461,13 @@ predetermined, ˌpriːdɪˈtɝːmɪnd,0,0
 predicament, prəˈdɪkəmənt prɪˈdɪk·ə·mənt,0,0
 predicaments, prəˈdɪkəmənt prɪˈdɪk·ə·mənt,1,0
 predicate, ˈpredəkət ˈpred·ɪ·kɪt,0,0
-predicated, ˈpredɪkeɪt ˈpredɪkeɪt,0,0
+predicated, ˈpredɪkeɪt ˈpredɪkeɪt,1,0
 predict, prɪˈdɪkt prɪˈdɪkt,0,0
 predictability, prɪˌdɪktəˈbɪlət̬i,0,0
 predictable, prɪˈdɪktəbəl prɪˈdɪktəbəl prɪˈdɪk·tə·bəl,0,0
 predictably, prɪˈdɪktəbli,0,0
-predicted, prɪˈdɪkt,0,0
-predicting, prɪˈdɪkt,0,0
+predicted, prɪˈdɪkt,1,0
+predicting, prɪˈdɪkt,1,0
 prediction, prɪˈdɪkʃən,0,0
 predictions, prɪˈdɪkʃən,1,0
 predictive, prɪˈdɪktɪv prɪˈdɪktɪv,0,0

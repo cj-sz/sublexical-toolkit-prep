@@ -17,7 +17,7 @@ kindergartner,,0,1
 kindergartners,,0,1
 kindest, kaɪnd kaɪnd kɑɪnd,1,0
 kindle, ˈkɪndəl ˈkɪndəl ˈkɪn·dəl,0,0
-kindled, ˈkɪndəl ˈkɪndəl,0,0
+kindled, ˈkɪndəl ˈkɪndəl,1,0
 kindler,,0,1
 kindling, ˈkɪndlɪŋ ˈkɪnd·lɪŋ,0,0
 kindly, ˈkaɪndli ˈkaɪndli ˈkɑɪnd·li,0,0
@@ -56,10 +56,10 @@ kirks, kɝːk kɝːk,1,0
 kirsch, kɪrʃ,0,0
 kismet, ˈkɪzmet,0,0
 kiss, kɪs kɪs kɪs,0,0
-kissed, kɪs kɪs kɪs,0,0
+kissed, kɪs kɪs kɪs,1,0
 kisser, ˈkɪsɚ ˈkɪsɚ,0,0
 kisses, kɪs kɪs kɪs kɪs,1,0
-kissing, kɪs kɪs kɪs,0,0
+kissing, kɪs kɪs kɪs,1,0
 kit, kɪt kɪt kɪt kɪt kɪt kɪt,0,0
 kitchen, ˈkɪtʃən ˈkɪtʃ·ən,0,0
 kitchener,,0,1
@@ -90,12 +90,12 @@ knapsack, ˈnæpsæk ˈnæpˌsæk,0,0
 knave, neɪv neɪv,0,0
 knaves, neɪv neɪv,1,0
 knead, niːd nid,0,0
-kneading, niːd,0,0
+kneading, niːd,1,0
 knee, niː niː ni,0,0
 kneecap, ˈniːkæp ˈniˌkæp,0,0
 kneecaps, ˈniːkæp ˈniˌkæp,1,0
-kneed, niː,0,0
-kneeing, niː,0,0
+kneed, niː,1,0
+kneeing, niː,1,0
 kneel, niːl nil,0,0
 kneeling, niːl nil,1,0
 knees, niː niː ni,1,0
@@ -110,11 +110,11 @@ knickers, ˈnɪkɚz ˈnɪkɚz ˈnɪk·ərz ˈnɪk·ərz,0,0
 knickknack, ˈnɪkˌnæk,0,0
 knickknacks, ˈnɪkˌnæk,1,0
 knife, naɪf nɑɪf,0,0
-knifed, naɪf,0,0
-knifing, naɪf,0,0
+knifed, naɪf,1,0
+knifing, naɪf,1,0
 knifings,,0,1
 knight, naɪt naɪt naɪt nɑɪt nɑɪt,0,0
-knighted, naɪt,0,0
+knighted, naɪt,1,0
 knighthood, ˈnaɪthʊd,0,0
 knightly, ˈnaɪtli,0,0
 knights, naɪt naɪt naɪt nɑɪt nɑɪt,1,0
@@ -129,8 +129,8 @@ knobby, ˈnɑːbi ˈnɑb·i,0,0
 knobs, nɑːb nɑːb nɑːb nɑːb nɑːb nɑb,1,0
 knock, nɑːk nɑːk nɑːk nɑːk nɑːk nɑk nɑk nɑk nɑk,0,0
 knockdown, ˈnɑːkdaʊn ˈnɑːkdaʊn,0,0
-knocked, nɑːk nɑːk nɑːk nɑːk nɑːk nɑːk,0,0
-knocking, nɑːk nɑːk nɑːk nɑːk nɑːk nɑːk,0,0
+knocked, nɑːk nɑːk nɑːk nɑːk nɑːk nɑːk,1,0
+knocking, nɑːk nɑːk nɑːk nɑːk nɑːk nɑːk,1,0
 knockoff, ˈnɑːkɑːf ˈnɑkˌɔf,0,0
 knockoffs, ˈnɑːkɑːf ˈnɑkˌɔf,1,0
 knockout, ˈnɑːkaʊt ˈnɑːkaʊt ˈnɑːkaʊt ˈnɑkˌɑʊt ˈnɑkˌɑʊt,0,0
@@ -247,7 +247,7 @@ labyrinth, ˈlæbərɪnθ ˈlæbərɪnθ ˈlæbərɪnθ ˈlæb·ə·rɪnθ,0,0
 labyrinthine, ˌlæbəˈrɪnθaɪn,0,0
 lac,,0,1
 lace, leɪs leɪs leɪs leɪs,0,0
-laced, leɪs leɪs,0,0
+laced, leɪs leɪs,1,0
 lacerate, ˈlæsəreɪt ˈlæsəreɪt ˈlæsəreɪt ˈlæs·əˌreɪt,0,0
 laceration, ˌlæsəˈreɪʃən,0,0
 lacerations, ˌlæsəˈreɪʃən,1,0
@@ -255,7 +255,7 @@ laces, leɪs leɪs leɪs leɪs,1,0
 lacey,,0,1
 lack, læk læk,0,1
 lackadaisical, ˌlækəˈdeɪzɪkəl ˌlæk·əˈdeɪ·zɪ·kəl,0,0
-lacked, læk,0,0
+lacked, læk,1,0
 lackey, ˈlæki,0,0
 lackeys, ˈlæki,1,0
 lacking,,0,1
@@ -263,10 +263,10 @@ lackluster, ˈlækˌlʌstɚ ˈlækˌlʌs·tər,0,0
 lacks,,0,1
 laconic, ləˈkɑːnɪk ləˈkɑn·ɪk,0,0
 lacquer, ˈlækɚ ˈlækɚ ˈlæk·ər,0,0
-lacquered, ˈlækɚ,0,0
+lacquered, ˈlækɚ,1,0
 lacrosse, ləˈkrɑːs ləˈkrɔs,0,0
 lactate, ˈlækteɪt,0,0
-lactating, ˈlækteɪt,0,0
+lactating, ˈlækteɪt,1,0
 lactation, lækˈteɪʃən,0,0
 lactic, ˈlæktɪk,0,0
 lactose, ˈlæktoʊs,0,0
@@ -279,9 +279,9 @@ ladies,,0,1
 lading,,0,1
 ladino,,0,1
 ladle, ˈleɪdəl ˈleɪ·dəl,0,0
-ladled, ˈleɪdəl,0,0
+ladled, ˈleɪdəl,1,0
 ladles, ˈleɪdəl ˈleɪ·dəl,1,0
-ladling, ˈleɪdəl,0,0
+ladling, ˈleɪdəl,1,0
 lads,,0,1
 lady, ˈleɪdi ˈleɪdi ˈleɪdi ˈleɪdi ˈleɪ·di ˈleɪ·di ˈleɪ·di ˈleɪ·di,0,0
 ladybird, ˈleɪdibɝːd,0,0
@@ -321,8 +321,8 @@ lam,,0,1
 lama, ˈlɑːmə,0,0
 lamas, ˈlɑːmə,1,0
 lamb, læm læm,0,0
-lambasted, læmˈbæst,0,0
-lambasting, læmˈbæst,0,0
+lambasted, læmˈbæst,1,0
+lambasting, læmˈbæst,1,0
 lambda, ˈlæmdə,0,0
 lambeau,,0,1
 lambert,,0,1
@@ -334,7 +334,7 @@ lamely, ˈleɪmli,0,0
 lament, ləˈment ləˈment,0,0
 lamentable," ləˈment̬əbəl ləˈmen·tə·bəl, ˈlæm·ən·tə-",0,0
 lamented, ləˈment̬ɪd,0,0
-lamenting, ləˈment,0,0
+lamenting, ləˈment,1,0
 laments, ləˈment ləˈment,1,0
 lamer, leɪm leɪm ˈlɑːmeɪ leɪm leɪm,1,0
 lamia,,0,1
@@ -362,7 +362,7 @@ lancer, ˈlænsɚ,0,0
 lancers, ˈlænsɚ,1,0
 lancet, ˈlænsɪt,0,0
 lancets, ˈlænsɪt ˈlænsɪt,1,0
-lancing, læns,0,0
+lancing, læns,1,0
 land, lænd lænd lænd lænd lænd lænd lænd,0,0
 landau,,0,1
 landed, ˈlændɪd ˈlæn·dɪd,0,0
@@ -388,11 +388,11 @@ landowners, ˈlændˌoʊnɚ ˈlændˌoʊ·nər,1,0
 lands, lænd lænd lænd lænd lænd lænd lænd lænd,1,0
 landsat,,0,1
 landscape, ˈlændskeɪp ˈlændskeɪp ˈlændskeɪp,0,0
-landscaped, ˈlændskeɪp,0,0
+landscaped, ˈlændskeɪp,1,0
 landscaper,,0,1
 landscapers,,0,1
 landscapes, ˈlændskeɪp ˈlændskeɪp ˈlændskeɪp,1,0
-landscaping, ˈlændskeɪp,0,0
+landscaping, ˈlændskeɪp,1,0
 landslide, ˈlændslaɪd ˈlændslaɪd ˈlændˌslɑɪd ˈlændˌslɑɪd,0,0
 landslides, ˈlændslaɪd ˈlændslaɪd ˈlændˌslɑɪd ˈlændˌslɑɪd,1,0
 landsman,,0,1
@@ -406,8 +406,8 @@ language, ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæ�
 languages, ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋɡwɪdʒ ˈlæŋ·ɡwɪdʒ ˈlæŋ·ɡwɪdʒ ˈlæŋ·ɡwɪdʒ,1,0
 languid, ˈlæŋɡwɪd ˈlæŋ·ɡwɪd,0,0
 languish, ˈlæŋɡwɪʃ ˈlæŋ·ɡwɪʃ,0,0
-languished, ˈlæŋɡwɪʃ,0,0
-languishing, ˈlæŋɡwɪʃ,0,0
+languished, ˈlæŋɡwɪʃ,1,0
+languishing, ˈlæŋɡwɪʃ,1,0
 lanier,,0,1
 lank, læŋk,0,0
 lanky, ˈlæŋki ˈlæŋ·ki,0,0
@@ -434,7 +434,7 @@ laps, læp læp læp læp læp,1,0
 lapse, læps læps læps læps,0,0
 lapsed, læpst læpst,0,0
 lapses, læps læps læps læps,1,0
-lapsing, læps,0,0
+lapsing, læps,1,0
 laptop, ˈlæptɑːp,0,0
 laptops, ˈlæptɑːp,1,0
 lar,,0,1
@@ -472,7 +472,7 @@ lascivious, ləˈsɪviəs ləˈsɪv·i·əs,0,0
 laser, ˈleɪzɚ ˈleɪ·zər,0,0
 lasers, ˈleɪzɚ ˈleɪ·zər,1,0
 lash, læʃ læʃ læʃ læʃ læʃ,0,0
-lashed, læʃ læʃ læʃ,0,0
+lashed, læʃ læʃ læʃ,1,0
 lashes, læʃ læʃ læʃ læʃ læʃ,1,0
 lashing, ˈlæʃɪŋ ˈlæʃɪŋ,0,0
 lashings,,0,1
@@ -480,6 +480,6 @@ lass, læs,0,0
 lassie, læs,1,0
 lasso," ˈlæsoʊ ˈlæs·oʊ, læˈsu",0,0
 last, læst læst læst læst,0,0
-lasted, læst læst,0,0
+lasted, læst læst,1,0
 lasting, ˈlæstɪŋ ˈlæs·tɪŋ,0,0
 lastly, ˈlæstli,0,0

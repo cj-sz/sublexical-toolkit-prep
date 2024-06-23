@@ -14,18 +14,18 @@ dotty, ˈdɑːt̬i,0,0
 doty,,0,1
 doub,,0,1
 double, ˈdʌbəl ˈdʌbəl ˈdʌb·əl ˈdʌb·əl ˈdʌb·əl,0,0
-doubled, ˈdʌbəl,0,0
+doubled, ˈdʌbəl,1,0
 doubles, ˈdʌb·əlz,0,0
 doublespeak, ˈdʌbəlspiːk,0,0
 doubletree,,0,1
-doubling, ˈdʌbəl,0,0
+doubling, ˈdʌbəl,1,0
 doubly, ˈdʌbli ˈdʌb·li,0,0
 doubt, daʊt dɑʊt,0,0
 doubted,,0,1
 doubter, ˈdaʊt̬ɚ,0,0
 doubters, ˈdaʊt̬ɚ,1,0
 doubtful, ˈdaʊtfəl ˈdaʊtfəl ˈdɑʊt·fəl,0,0
-doubting, daʊt daʊt,0,0
+doubting, daʊt daʊt,1,0
 doubtless, ˈdaʊtləs ˈdɑʊt·ləs,0,0
 doubts, daʊt daʊt daʊt daʊt daʊt daʊt dɑʊt,1,0
 doucet,,0,1
@@ -41,7 +41,7 @@ douma,,0,1
 dour," dʊr dʊər, dɑʊər",0,0
 douse," daʊs daʊs dɑʊs, dɑʊz dɑʊs, dɑʊz",0,0
 doused,,0,1
-dousing, daʊs daʊs,0,0
+dousing, daʊs daʊs,1,0
 dove, dʌv dʌv dʌv,0,0
 dover, ˈdoʊvɚ ˈdoʊvɚ,0,0
 doves, dʌv dʌv dʌv,1,0
@@ -67,14 +67,14 @@ downgrade, ˌdaʊnˈɡreɪd ˈdɑʊnˌɡreɪd ˈdaʊnɡreɪd ˈdaʊnɡreɪd,0,0
 downgraded,,0,1
 downgrades, ˌdaʊnˈɡreɪd ˈdɑʊnˌɡreɪd ˈdaʊnɡreɪd ˈdaʊnɡreɪd,1,0
 downhill, ˌdaʊnˈhɪl ˈdɑʊnˈhɪl ˈdɑʊnˈhɪl,0,0
-downing, daʊn daʊn daʊn,0,0
+downing, daʊn daʊn daʊn,1,0
 download, ˈdaʊnloʊd ˈdɑʊnˌloʊd ˈdaʊnˌləʊd,0,0
 downloaded,,0,1
-downloading, ˈdaʊnloʊd,0,0
+downloading, ˈdaʊnloʊd,1,0
 downloads, ˈdaʊnloʊd ˈdɑʊnˌloʊd ˈdaʊnˌləʊd,1,0
 downplay, ˌdaʊnˈpleɪ ˈdɑʊnˌpleɪ,0,0
 downplayed,,0,1
-downplaying, ˌdaʊnˈpleɪ,0,0
+downplaying, ˌdaʊnˈpleɪ,1,0
 downpour," ˈdaʊnpɔːr ˈdɑʊnˌpɔr, -ˌpoʊr",0,0
 downpours," ˈdaʊnpɔːr ˈdɑʊnˌpɔr, -ˌpoʊr",1,0
 downrange,,0,1
@@ -109,11 +109,11 @@ doyen, ˈdɔɪen,0,0
 doze, doʊz doʊz doʊz,0,0
 dozed,,0,1
 dozen, ˈdʌzən ˈdʌz·ən,0,0
-dozens, ˈdʌzən ˈdʌz·ən,0,0
+dozens, ˈdʌzən ˈdʌz·ən,1,0
 dozes, doʊz doʊz doʊz,1,0
 dozier, ˈdoʊzi ˈdoʊzi,1,0
-dozing, doʊz,0,0
-dr, ˈdɑk·tər,0,0
+dozing, doʊz,1,0
+dr, ˈdɑk·tər,1,0
 drab, dræb dræb,0,0
 drabble,,0,1
 drabs,,0,1
@@ -125,7 +125,7 @@ draft, dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dr�
 drafted, dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft,1,0
 draftee, ˌdræfˈt̬iː dræfˈti,0,0
 draftees, ˌdræfˈt̬iː dræfˈti,1,0
-drafting, dræft dræft dræft,0,0
+drafting, dræft dræft dræft,1,0
 drafts, dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft dræft,1,0
 draftsman, ˈdræftsmən ˈdræftsmən,0,0
 draftsmen, ˈdræftsmən ˈdræftsmən,1,0
@@ -158,7 +158,7 @@ dramatist," ˈdræmət̬ɪst ˈdrɑ·mə·t̬ɪst, ˈdræm·ə-",0,0
 dramatization," ˌdræmət̬əˈzeɪʃən ˌdræmət̬əˈzeɪʃən ˌdrɑ·mə·t̬əˈzeɪ·ʃən, ˈdræm·ə-",0,0
 dramatize," ˈdræmətaɪz ˈdræmətaɪz ˈdrɑ·məˌtɑɪz, ˈdræm·ə- ˈdrɑ·məˌtɑɪz, ˈdræm·ə-",0,0
 dramatized," ˈdræmətaɪz ˈdræmətaɪz ˈdrɑ·məˌtɑɪz, ˈdræm·ə- ˈdrɑ·məˌtɑɪz, ˈdræm·ə-",1,0
-dramatizing, ˈdræmətaɪz ˈdræmətaɪz,0,0
+dramatizing, ˈdræmətaɪz ˈdræmətaɪz,1,0
 drams, dræm,1,0
 drang,,0,1
 drank, dræŋk dræŋk,0,0
@@ -190,7 +190,7 @@ dread, dred dred,0,0
 dreaded, ˈdredɪd ˈdredɪd,0,0
 dreadful, ˈdredfəl ˈdredfəl ˈdredfəl ˈdred·fəl,0,0
 dreadfully, ˈdredfəli ˈdredfəli,0,0
-dreading, dred dred,0,0
+dreading, dred dred,1,0
 dreadnought,,0,1
 dreads,,0,1
 dream, driːm driːm drim drim drim,0,0
@@ -206,13 +206,13 @@ dreamworld,,0,1
 dreamy, ˈdriːmi ˈdriːmi ˈdri·mi,0,0
 dreary, ˈdrɪri ˈdrɪər·i,0,0
 dredge, dredʒ dredʒ dredʒ dredʒ,0,0
-dredged, dredʒ dredʒ dredʒ,0,0
+dredged, dredʒ dredʒ dredʒ,1,0
 dredges, dredʒ dredʒ dredʒ dredʒ,1,0
-dredging, dredʒ dredʒ dredʒ,0,0
+dredging, dredʒ dredʒ dredʒ,1,0
 dregs, dreɡz dreɡz dreɡz dreɡz,0,0
 drench, drentʃ drentʃ drentʃ,0,0
-drenched, drentʃ drentʃ,0,0
-drenching, drentʃ drentʃ,0,0
+drenched, drentʃ drentʃ,1,0
+drenching, drentʃ drentʃ,1,0
 dresden,,0,1
 dress, dres dres dres dres,0,0
 dressed, drest drest drest,0,0
@@ -229,7 +229,7 @@ dressy, ˈdresi ˈdresi ˈdres·i,0,0
 drew, druː dru,0,0
 drey, dreɪ,0,0
 dribble, ˈdrɪbəl ˈdrɪbəl ˈdrɪbəl ˈdrɪb·əl ˈdrɪb·əl ˈdrɪb·əl,0,0
-dribbled, ˈdrɪbəl ˈdrɪbəl ˈdrɪbəl,0,0
+dribbled, ˈdrɪbəl ˈdrɪbəl ˈdrɪbəl,1,0
 dribbles, ˈdrɪbəl ˈdrɪbəl ˈdrɪbəl ˈdrɪbəl ˈdrɪb·əl ˈdrɪb·əl ˈdrɪb·əl,1,0
 dribbling, ˈdrɪbəlɪŋ ˈdrɪbəlɪŋ,0,0
 dribs,,0,1
@@ -238,17 +238,17 @@ drier, ˈdraɪɚ ˈdrɑɪ·ər,0,0
 dries, drɑɪz,0,0
 driest, ˈdraɪəst,0,0
 drift, drɪft drɪft drɪft drɪft,0,0
-drifted, drɪft drɪft,0,0
+drifted, drɪft drɪft,1,0
 drifter, ˈdrɪftɚ ˈdrɪftɚ ˈdrɪftɚ ˈdrɪf·tər,0,0
 drifters, ˈdrɪftɚ ˈdrɪftɚ ˈdrɪftɚ ˈdrɪf·tər,1,0
 drifting, ˈdrɪft̬ɪŋ ˈdrɪft̬ɪŋ,0,0
 drifts, drɪft drɪft drɪft drɪft drɪft drɪft,1,0
 driftwood, ˈdrɪftwʊd ˈdrɪft·wʊd,0,0
 drill, drɪl drɪl drɪl drɪl drɪl,0,0
-drilled, drɪl drɪl drɪl,0,0
+drilled, drɪl drɪl drɪl,1,0
 driller,,0,1
 drillers,,0,1
-drilling, drɪl drɪl drɪl,0,0
+drilling, drɪl drɪl drɪl,1,0
 drills, drɪl drɪl drɪl drɪl drɪl,1,0
 drink, drɪŋk drɪŋk drɪŋk drɪŋk,0,0
 drinkable, ˈdrɪŋkəbəl ˈdrɪŋkəbəl,0,0
@@ -271,7 +271,7 @@ driveway, ˈdraɪvweɪ ˈdrɑɪvˌweɪ,0,0
 driveways, ˈdraɪvweɪ ˈdrɑɪvˌweɪ,1,0
 driving, ˈdraɪvɪŋ ˈdrɑɪ·vɪŋ,0,0
 drizzle, ˈdrɪzəl ˈdrɪzəl ˈdrɪz·əl,0,0
-drizzling, ˈdrɪzəl ˈdrɪzəl,0,0
+drizzling, ˈdrɪzəl ˈdrɪzəl,1,0
 drizzly, ˈdrɪzli,0,0
 drogue,,0,1
 droll, droʊl droʊl,0,0
@@ -280,9 +280,9 @@ drone, droʊn droʊn droʊn droʊn droʊn,0,0
 drones, droʊn droʊn droʊn droʊn droʊn,1,0
 droning, ˈdroʊnɪŋ ˈdroʊnɪŋ,0,0
 drool, druːl drul drul,0,0
-drooling, druːl,0,0
+drooling, druːl,1,0
 droop, druːp druːp drup,0,0
-drooped, druːp druːp,0,0
+drooped, druːp druːp,1,0
 drooping, ˈdruːpɪŋ,0,0
 droopy, ˈdruːpi,0,0
 drop, drɑːp drɑːp drɑːp drɑːp drɑːp drɑːp drɑp drɑp drɑp,0,0
@@ -303,7 +303,7 @@ drove, droʊv droʊv,0,0
 drover, ˈdroʊvɚ,0,0
 droves, droʊvz,0,0
 drown, draʊn draʊn drɑʊn drɑʊn,0,0
-drowned, draʊn draʊn,0,0
+drowned, draʊn draʊn,1,0
 drowning, ˈdraʊnɪŋ,0,0
 drownings, ˈdraʊnɪŋ,1,0
 drowns, draʊn draʊn drɑʊn drɑʊn,1,0
@@ -343,7 +343,7 @@ druze,,0,1
 dry, draɪ draɪ draɪ draɪ draɪ draɪ draɪ draɪ drɑɪ drɑɪ drɑɪ drɑɪ drɑɪ drɑɪ,0,0
 dryer, ˈdraɪɚ ˈdraɪɚ ˈdrɑɪ·ər,0,0
 dryers, ˈdraɪɚ ˈdraɪɚ ˈdrɑɪ·ər,1,0
-drying, draɪ draɪ,0,0
+drying, draɪ draɪ,1,0
 dryness, ˈdraɪnəs ˈdraɪnəs ˈdraɪnəs ˈdraɪnəs ˈdraɪnəs ˈdraɪnəs ˈdrɑɪ·nəs,0,0
 drywall, ˈdraɪwɑːl,0,0
 du,,0,1
@@ -364,7 +364,7 @@ duce,,0,1
 duchess, ˈdʌtʃes ˈdʌtʃ·əs,0,0
 duchy, ˈdʌtʃi,0,0
 duck, dʌk dʌk dʌk dʌk dʌk,0,0
-ducked, dʌk dʌk dʌk dʌk,0,0
+ducked, dʌk dʌk dʌk dʌk,1,0
 ducker,,0,1
 ducking, ˈdʌkɪŋ,0,0
 duckling, ˈdʌklɪŋ,0,0
@@ -408,7 +408,7 @@ dulcet, ˈdʌlsət,0,0
 dulcimer, ˈdʌlsəmɚ,0,0
 dulcinea,,0,1
 dull, dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl,0,0
-dulled, dʌl dʌl dʌl,0,0
+dulled, dʌl dʌl dʌl,1,0
 duller, dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl,1,0
 dullest, dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl dʌl,1,0
 dullness, ˈdʌlnəs ˈdʌlnəs,0,0
@@ -431,7 +431,7 @@ dumbstruck," ˌdʌmˈfaʊndɪd ˈdʌmˌfɑʊn·dɪd, dʌmˈfɑʊn-",1,0
 dummies, ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌm·i ˈdʌm·i,1,0
 dummy, ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌmi ˈdʌm·i ˈdʌm·i,0,0
 dump, dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp,0,0
-dumped, dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp,0,0
+dumped, dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp dʌmp,1,0
 dumper, ˈdʌmpɚ ˈdʌmpɚ,0,0
 dumping, ˈdʌmpɪŋ ˈdʌmpɪŋ,0,0
 dumpling, ˈdʌmplɪŋ ˈdʌmplɪŋ ˈdʌmplɪŋ ˈdʌmp·lɪŋ,0,0
@@ -449,7 +449,7 @@ dung, dʌŋ dʌŋ,0,0
 dungeon, ˈdʌndʒən ˈdʌn·dʒən,0,0
 dungeons, ˈdʌndʒən ˈdʌn·dʒən,1,0
 dunk, dʌŋk dʌŋk dʌŋk dʌŋk dʌŋk dʌŋk,0,0
-dunked, dʌŋk dʌŋk dʌŋk,0,0
+dunked, dʌŋk dʌŋk dʌŋk,1,0
 dunker,,0,1
 dunkirk, ˈdʌnkɝːk,0,0
 dunkle,,0,1
@@ -463,14 +463,14 @@ duo, ˈduːoʊ ˈdu·oʊ,0,0
 duodenal, ˌduːəˈdiːnəl,0,0
 duodenum, ˌduːəˈdiːnəm,0,0
 dupe, duːp dup,0,0
-duped, duːp,0,0
+duped, duːp,1,0
 duper, ˌsuːpɚˈduːpɚ ˌsuːpɚˈduːpɚ,1,0
 dupes, duːp dup,1,0
 duplex, ˈduːpleks ˈduːpleks ˈdu·pleks ˈduːpleks,0,0
 duplicate, ˈduːpləkeɪt ˈdu·plɪˌkeɪt ˈduːplɪkeɪt ˈduːplɪkeɪt ˈduːplɪkeɪt,0,0
-duplicated, ˈduːpləkeɪt,0,0
+duplicated, ˈduːpləkeɪt,1,0
 duplicates, ˈduːpləkeɪt ˈduːpləkət ˈdu·plɪˌkeɪt ˈdu·plɪ·kət ˈduːplɪkeɪt ˈduːplɪkeɪt ˈduːplɪkeɪt ˈduːplɪkɪt,1,0
-duplicating, ˈduːpləkeɪt,0,0
+duplicating, ˈduːpləkeɪt,1,0
 duplication, ˌduːpləˈkeɪʃən ˌduːpləˈkeɪʃən,0,0
 duplications,,0,1
 duplicitous, duːˈplɪsət̬əs,0,0

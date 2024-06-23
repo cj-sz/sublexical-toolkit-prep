@@ -23,9 +23,9 @@ nucleus, ˈnuːkliəs ˈnuːkliəs ˈnu·kli·əs ˈnu·kli·əs ˈnu·kli·əs 
 nude, nuːd nuːd nuːd nud,0,0
 nudes, nuːd nuːd nuːd nuːd nud nud,1,0
 nudge, nʌdʒ nʌdʒ nʌdʒ nʌdʒ,0,0
-nudged, nʌdʒ nʌdʒ nʌdʒ,0,0
+nudged, nʌdʒ nʌdʒ nʌdʒ,1,0
 nudges, nʌdʒ nʌdʒ nʌdʒ nʌdʒ,1,0
-nudging, nʌdʒ nʌdʒ nʌdʒ,0,0
+nudging, nʌdʒ nʌdʒ nʌdʒ,1,0
 nudist, ˈnuːdɪst ˈnu·dɪst,0,0
 nudity, ˈnuːdət̬i ˈnu·dɪ·t̬i,0,0
 nugget, ˈnʌɡɪt ˈnʌɡɪt ˈnʌɡɪt ˈnʌɡ·ɪt,0,0
@@ -35,16 +35,16 @@ nuisances, ˈnuːsəns ˈnuːsəns ˈnu·səns ˈnuːsəns,1,0
 nuke, nuːk nuːk nuːk nuk nuk,0,0
 nukes, nuːk nuːk nuːk nuk nuk,1,0
 nullification, ˌnʌləfəˈkeɪʃən ˌnʌləfəˈkeɪʃən,0,0
-nullified, ˈnʌləfaɪ ˈnʌləfaɪ,0,0
+nullified, ˈnʌləfaɪ ˈnʌləfaɪ,1,0
 nullifies, ˈnʌləfaɪ ˈnʌləfaɪ ˈnʌl·əˌfɑɪ,1,0
 nullify, ˈnʌləfaɪ ˈnʌləfaɪ ˈnʌl·əˌfɑɪ,0,0
 numb, nʌm nʌm nʌm nʌm,0,0
-numbed, nʌm,0,0
+numbed, nʌm,1,0
 number, ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ ˈnʌmbɚ,0,0
-numbered, ˈnʌmbɚ ˈnʌmbɚ,0,0
+numbered, ˈnʌmbɚ ˈnʌmbɚ,1,0
 numbering,,0,1
 numbers,,0,1
-numbing, nʌm,0,0
+numbing, nʌm,1,0
 numbness, ˈnʌmnəs,0,0
 numeral, ˈnuːmərəl ˈnu·mər·əl,0,0
 numerals, ˈnuːmərəl ˈnu·mər·əl,1,0
@@ -61,16 +61,16 @@ nuns, nʌn nʌn,1,0
 nuptial," ˈnʌpʃəl ˈnʌp·ʃəl, -tʃəl",0,0
 nuptials," ˈnʌpʃəlz ˈnʌp·ʃəlz, -tʃəlz",0,0
 nurse, nɝːs nɝːs nɜrs,0,0
-nursed, nɝːs nɝːs nɝːs nɝːs nɝːs nɝːs nɝːs,0,0
+nursed, nɝːs nɝːs nɝːs nɝːs nɝːs nɝːs nɝːs,1,0
 nurseries, ˈnɝːsɚi ˈnɝːsɚi ˈnɝːsɚi ˈnɜr·sər·i ˈnɜr·sər·i ˈnɜr·sər·i,1,0
 nursery, ˈnɝːsɚi ˈnɝːsɚi ˈnɝːsɚi ˈnɜr·sər·i ˈnɜr·sər·i ˈnɜr·sər·i,0,0
 nurses, nɝːs nɝːs nɜrs,1,0
 nursing, ˈnɝːsɪŋ ˈnɜr·sɪŋ,0,0
 nurture, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɜr·tʃər,0,0
-nurtured, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ,0,0
+nurtured, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ,1,0
 nurturer,,0,1
 nurtures, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɜr·tʃər,1,0
-nurturing, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ,0,0
+nurturing, ˈnɝːtʃɚ ˈnɝːtʃɚ ˈnɝːtʃɚ,1,0
 nut, nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt nʌt,0,0
 nutcracker, ˈnʌtˌkrækɚ ˈnʌtˌkræk·ər,0,0
 nutcrackers, ˈnʌtˌkrækɚ ˈnʌtˌkræk·ər,1,0
@@ -90,7 +90,7 @@ nutters, ˈnʌt̬ɚ,1,0
 nutty, ˈnʌt̬i ˈnʌt̬i ˈnʌt̬i ˈnʌt̬·i ˈnʌt̬·i,0,0
 nuzzle, ˈnʌzəl ˈnʌz·əl,0,0
 nuzzles, ˈnʌzəl ˈnʌz·əl,1,0
-nuzzling, ˈnʌzəl,0,0
+nuzzling, ˈnʌzəl,1,0
 nye,,0,1
 nyet,,0,1
 nylon, ˈnaɪlɑːn ˈnɑɪ·lɑn ˈnɑɪ·lɑn,0,0
@@ -125,8 +125,8 @@ oberon,,0,1
 obese, oʊˈbiːs oʊˈbis,0,0
 obesity, oʊˈbiːsət̬i,0,0
 obey, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,0,0
-obeyed, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,0,0
-obeying, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,0,0
+obeyed, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,1,0
+obeying, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,1,0
 obeys, oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ oʊˈbeɪ,1,0
 obfuscate, ˈɑːbfəskeɪt ˈɑːbfəskeɪt ˈɑːbfəskeɪt,0,0
 obfuscation, ˌɑːbfəˈskeɪʃən ˌɑːbfəˈskeɪʃən ˌɑːbfəˈskeɪʃən,0,0
@@ -136,8 +136,8 @@ obits, oʊˈbɪtʃueri oʊˈbɪtʃ·uˌer·i,1,0
 obituaries, oʊˈbɪtʃueri oʊˈbɪtʃ·uˌer·i,1,0
 obituary, oʊˈbɪtʃueri oʊˈbɪtʃ·uˌer·i,0,0
 object," ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt",0,0
-objected, əbˈdʒekt,0,0
-objecting, əbˈdʒekt,0,0
+objected, əbˈdʒekt,1,0
+objecting, əbˈdʒekt,1,0
 objection, əbˈdʒekʃən əbˈdʒek·ʃən,0,0
 objectionable, əbˈdʒekʃənəbəl əbˈdʒek·ʃə·nə·bəl,0,0
 objections, əbˈdʒekʃən əbˈdʒek·ʃən,1,0
@@ -147,14 +147,14 @@ objectives," əbˈdʒektɪv əbˈdʒek·tɪv, ɑb- əbˈdʒek·tɪv, ɑb-",1,0
 objectivity," ˌɑːbdʒekˈtɪvət̬i ˌɑb·dʒekˈtɪv·ɪ·t̬i, -dʒɪk-",0,0
 objector, əbˈdʒektɚ,0,0
 objectors, əbˈdʒektɚ,1,0
-objects," ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt",0,0
+objects," ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑːbdʒɪkt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt ˈɑb·dʒɪkt, -dʒekt",1,0
 oblate,,0,1
 obligate, ˈɑːblɪɡeɪt ˈɑb·ləˌɡeɪt,0,0
 obligated,,0,1
 obligates, ˈɑːblɪɡeɪt ˈɑb·ləˌɡeɪt,1,0
 obligating, ˈɑːblɪɡeɪt ˈɑb·ləˌɡeɪt,1,0
 obligation, ˌɑːbləˈɡeɪʃən ˌɑːbləˈɡeɪʃən ˌɑb·ləˈɡeɪ·ʃən,0,0
-obligations, ˌɑːbləˈɡeɪʃən ˌɑːbləˈɡeɪʃən ˌɑb·ləˈɡeɪ·ʃən,0,0
+obligations, ˌɑːbləˈɡeɪʃən ˌɑːbləˈɡeɪʃən ˌɑb·ləˈɡeɪ·ʃən,1,0
 obligatory," əˈblɪɡətɔːri əˈblɪɡətɔːri əˈblɪɡ·əˌtɔr·i, -ˌtoʊr·i əˈblɪɡəˌtɔri",0,0
 oblige, əˈblaɪdʒ əˈblaɪdʒ əˈblɑɪdʒ əˈblɑɪdʒ,0,0
 obliged,,0,1
@@ -164,9 +164,9 @@ obligingly, əˈblaɪdʒɪŋli,0,0
 oblique," oʊˈbliːk oʊˈbliːk oʊˈbliːk oʊˈblik, ə- oʊˈblik, ə-",0,0
 obliquely, oʊˈbliːkˌli oʊˈbliːkˌli,0,0
 obliterate," əˈblɪt̬əreɪt əˈblɪt̬əreɪt əˈblɪt̬·əˌreɪt, oʊ-",0,0
-obliterated, əˈblɪt̬əreɪt əˈblɪt̬əreɪt,0,0
+obliterated, əˈblɪt̬əreɪt əˈblɪt̬əreɪt,1,0
 obliterates," əˈblɪt̬əreɪt əˈblɪt̬əreɪt əˈblɪt̬·əˌreɪt, oʊ-",1,0
-obliterating, əˈblɪt̬əreɪt əˈblɪt̬əreɪt,0,0
+obliterating, əˈblɪt̬əreɪt əˈblɪt̬əreɪt,1,0
 obliteration, əˌblɪt̬əˈreɪʃən,0,0
 oblivion, əˈblɪviən əˈblɪviən əˈblɪviən əˈblɪv·i·ən əˈblɪv·i·ən,0,0
 oblivious, əˈblɪviəs əˈblɪv·i·əs,0,0
@@ -178,9 +178,9 @@ obscenely, əbˈsiːnli əbˈsiːnli,0,0
 obscenities," əbˈsenət̬i əbˈsenət̬i əbˈsen·ɪ·t̬i, ɑb-",1,0
 obscenity," əbˈsenət̬i əbˈsenət̬i əbˈsen·ɪ·t̬i, ɑb-",0,0
 obscure," əbˈskjʊr əbˈskjʊr əbˈskjʊr, ɑb- əbˈskjʊr, ɑb-",0,0
-obscured, əbˈskjʊr əbˈskjʊr,0,0
+obscured, əbˈskjʊr əbˈskjʊr,1,0
 obscures," əbˈskjʊr əbˈskjʊr əbˈskjʊr, ɑb- əbˈskjʊr, ɑb-",1,0
-obscuring, əbˈskjʊr əbˈskjʊr,0,0
+obscuring, əbˈskjʊr əbˈskjʊr,1,0
 obscurity," əbˈskjʊrət̬i əbˈskjʊrət̬i əbˈskjʊr·ɪ·t̬i, ɑb- əbˈskjʊr·ɪ·t̬i, ɑb-",0,0
 obsequious," əbˈsiːkwiəs əbˈsi·kwi·əs, ɑb-",0,0
 observable, əbˈzɝːvəbəl əbˈzɜr·və·bəl,0,0
@@ -191,15 +191,15 @@ observations, ˌɑːbzɚˈveɪʃən ˌɑːbzɚˈveɪʃən ˌɑːbzɚˈveɪʃən 
 observatories," əbˈzɝːvətɔːri əbˈzɜr·vəˌtɔr·i, -ˌtoʊr·i",1,0
 observatory," əbˈzɝːvətɔːri əbˈzɜr·vəˌtɔr·i, -ˌtoʊr·i",0,0
 observe, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɜrv əbˈzɜrv əbˈzɜrv əbˈzɜrv əbˈzɜrv,0,0
-observed, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv,0,0
+observed, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv,1,0
 observer, əbˈzɝːvɚ əbˈzɜr·vər,0,0
 observers, əbˈzɝːvɚ əbˈzɜr·vər,1,0
 observes, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɜrv əbˈzɜrv əbˈzɜrv əbˈzɜrv əbˈzɜrv,1,0
-observing, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv,0,0
+observing, əbˈzɝːv əbˈzɝːv əbˈzɝːv əbˈzɝːv,1,0
 obsess, əbˈses,0,0
 obsessed," əbˈsest əbˈsest, ɑb-",0,0
 obsesses, əbˈses,1,0
-obsessing, əbˈses,0,0
+obsessing, əbˈses,1,0
 obsession," əbˈseʃən əbˈseʃ·ən, ɑb-",0,0
 obsessional, əbˈsesɪv əbˈsesɪv,1,0
 obsessions," əbˈseʃən əbˈseʃ·ən, ɑb-",1,0
@@ -218,14 +218,14 @@ obstetrics," ɑːbˈstetrɪks əbˈste·trɪks, ɑb-",0,0
 obstinacy, ˈɑːbstənəsi,0,0
 obstinate, ˈɑːbstənət ˈɑːbstənət ˈɑb·stə·nət ˈɑb·stə·nət,0,0
 obstruct," əbˈstrʌkt əbˈstrʌkt əbˈstrʌkt, ɑb-",0,0
-obstructed, əbˈstrʌkt əbˈstrʌkt,0,0
-obstructing, əbˈstrʌkt əbˈstrʌkt,0,0
+obstructed, əbˈstrʌkt əbˈstrʌkt,1,0
+obstructing, əbˈstrʌkt əbˈstrʌkt,1,0
 obstruction," əbˈstrʌkʃən əbˈstrʌkʃən əbˈstrʌkʃən əbˈstrʌk·ʃən, ɑb-",0,0
 obstructions," əbˈstrʌkʃən əbˈstrʌkʃən əbˈstrʌkʃən əbˈstrʌk·ʃən, ɑb-",1,0
 obstructs," əbˈstrʌkt əbˈstrʌkt əbˈstrʌkt, ɑb-",1,0
 obtain," əbˈteɪn əbˈteɪn əbˈteɪn, ɑb-",0,0
-obtained, əbˈteɪn əbˈteɪn,0,0
-obtaining, əbˈteɪn əbˈteɪn,0,0
+obtained, əbˈteɪn əbˈteɪn,1,0
+obtaining, əbˈteɪn əbˈteɪn,1,0
 obtains," əbˈteɪn əbˈteɪn əbˈteɪn, ɑb-",1,0
 obtrude, əbˈtruːd,0,0
 obtrusive," əbˈtruːsɪv əbˈtru·sɪv, ɑb-, -zɪv",0,0
@@ -236,7 +236,7 @@ obviously, ˈɑːbviəsli ˈɑb·vi·əs·li,0,0
 occasion, əˈkeɪʒən əˈkeɪʒən əˈkeɪʒən əˈkeɪ·ʒən əˈkeɪ·ʒən,0,0
 occasional, əˈkeɪʒənəl əˈkeɪ·ʒə·nəl,0,0
 occasionally, əˈkeɪʒənəli əˈkeɪ·ʒə·nəl·i,0,0
-occasioned, əˈkeɪʒən,0,0
+occasioned, əˈkeɪʒən,1,0
 occasions, əˈkeɪʒən əˈkeɪʒən əˈkeɪʒən əˈkeɪʒən əˈkeɪ·ʒən əˈkeɪ·ʒən,1,0
 occident,,0,1
 occidental, ˌɑːksəˈdent̬əl,0,0
@@ -252,7 +252,7 @@ occupations, ˌɑːkjəˈpeɪʃən ˌɑːkjəˈpeɪʃən ˌɑːkjəˈpeɪʃən �
 occupied, ˈɑːkjəpaɪd ˈɑːkjəpaɪd ˈɑːkjəpaɪd ˈɑk·jəˌpɑɪd ˈɑk·jəˌpɑɪd,0,0
 occupies, ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑk·jəˌpɑɪ ˈɑk·jəˌpɑɪ,1,0
 occupy, ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑk·jəˌpɑɪ ˈɑk·jəˌpɑɪ,0,0
-occupying, ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑːkjəpaɪ,0,0
+occupying, ˈɑːkjəpaɪ ˈɑːkjəpaɪ ˈɑːkjəpaɪ,1,0
 occur, əˈkɝː əˈkɝː əˈkɜr əˈkɜr,0,0
 occurred,,0,1
 occurrence, əˈkɝːəns əˈkɝːəns əˈkɜr·əns əˈkɜr·əns,0,0
@@ -328,7 +328,7 @@ offenses," əˈfens əˈfens əˈfens ˈɔ·fens, ˈɑf·ens",1,0
 offensive, əˈfensɪv əˈfensɪv əˈfensɪv əˈfensɪv əˈfen·sɪv,0,0
 offensively, əˈfensɪvli əˈfensɪvli əˈfensɪvli,0,0
 offer," ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɔ·fər, ˈɑf·ər ˈɔ·fər, ˈɑf·ər",0,0
-offered, ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ,0,0
+offered, ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ,1,0
 offering," ˈɑːfɚɪŋ ˈɔ·fər·ɪŋ, ˈɑf·ər-",0,0
 offerings," ˈɑːfɚɪŋ ˈɔ·fər·ɪŋ, ˈɑf·ər-",1,0
 offers," ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɑːfɚ ˈɔ·fər, ˈɑf·ər ˈɔ·fər, ˈɑf·ər",1,0
@@ -342,9 +342,9 @@ officialdom, əˈfɪʃəldəm,0,0
 officially, əˈfɪʃəli əˈfɪʃəli əˈfɪʃəli,0,0
 officials, əˈfɪʃəl əˈfɪʃəl əˈfɪʃəl əˈfɪʃəl əˈfɪʃ·əl,1,0
 officiate, əˈfɪʃieɪt əˈfɪʃ·iˌeɪt,0,0
-officiated, əˈfɪʃieɪt,0,0
+officiated, əˈfɪʃieɪt,1,0
 officiates, əˈfɪʃieɪt əˈfɪʃ·iˌeɪt,1,0
-officiating, əˈfɪʃieɪt,0,0
+officiating, əˈfɪʃieɪt,1,0
 offing,,0,1
 offline, ˌɑːfˈlaɪn ˈɒfˈlaɪn,0,0
 offs, ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɑːf ɔf ɔf ɔf ɔf ɔf,1,0
@@ -361,7 +361,7 @@ oftener,,0,1
 oftentimes, ˈɑːfəntaɪmz,0,0
 og,,0,1
 ogle, ˈoʊɡəl ˈoʊ·ɡəl,0,0
-ogled, ˈoʊɡəl,0,0
+ogled, ˈoʊɡəl,1,0
 ogre, ˈoʊɡɚ ˈoʊɡɚ ˈoʊ·ɡər,0,0
 ogress,,0,1
 oh, oʊ oʊ oʊ oʊ,0,0
@@ -370,11 +370,11 @@ ohm, oʊm oʊm,0,0
 ohms, oʊm oʊm,1,0
 oi, ɔɪ,0,0
 oil, ɔɪl ɔɪl ɔɪl ɔɪl ɔɪl ɔɪl ɔɪl,0,0
-oiled, ɔɪl,0,0
+oiled, ɔɪl,1,0
 oiler,,0,1
 oilers,,0,1
 oilfields, ˈɔɪlfiːld,1,0
-oiling, ɔɪl,0,0
+oiling, ɔɪl,1,0
 oilman, ˈɔɪlmən,0,0
 oilmen, ˈɔɪlmən,1,0
 oils,,0,1

@@ -10,10 +10,10 @@ pavlov,,0,1
 pavlovian,,0,1
 pavone,,0,1
 paw, pɑː pɑː pɔ,0,0
-pawed, pɑː pɑː,0,0
-pawing, pɑː pɑː,0,0
+pawed, pɑː pɑː,1,0
+pawing, pɑː pɑː,1,0
 pawn, pɑːn pɑːn pɔn,0,0
-pawned, pɑːn,0,0
+pawned, pɑːn,1,0
 pawnee,,0,1
 pawnees,,0,1
 pawns, pɑːn pɑːn pɑːn pɔn,1,0
@@ -67,7 +67,7 @@ peacock, ˈpiːkɑːk ˈpiːkɑːk ˈpiˌkɑk,0,0
 peacocks, ˈpiːkɑːk ˈpiːkɑːk ˈpiˌkɑk,1,0
 peak, piːk piːk piːk pik,0,0
 peaked, piːkt piːkt piːkt ˈpi·kəd,0,0
-peaking, piːk,0,0
+peaking, piːk,1,0
 peaks, piːk piːk piːk pik,1,0
 peal, piːl pil,0,0
 peanut," ˈpiːnʌt ˈpi·nət, -ˌnʌt",0,0
@@ -90,7 +90,7 @@ pebbles, ˈpebəl ˈpeb·əl,1,0
 pecan," pɪːˈkɑːn pɪˈkɑn, -ˈkæn, ˈpi·kæn",0,0
 pecans," pɪːˈkɑːn pɪˈkɑn, -ˈkæn, ˈpi·kæn",1,0
 peck, pek pek pek pek,0,0
-pecking, pek pek pek,0,0
+pecking, pek pek pek,1,0
 pecksniffian,,0,1
 pectoral, ˈpektɔːrəl,0,0
 pectoris, ænˈdʒaɪnə,1,0
@@ -106,11 +106,11 @@ pedalled,,0,1
 pedals, ˈpedəl ˈpedəl ˈped·əl,1,0
 pedantic, pedˈæntɪk pɪˈdænt·ɪk,0,0
 peddle, ˈpedəl ˈpedəl ˈped·əl,0,0
-peddled, ˈpedəl ˈpedəl,0,0
+peddled, ˈpedəl ˈpedəl,1,0
 peddler, ˈpedlɚ ˈpedlɚ,0,0
 peddlers, ˈpedlɚ ˈpedlɚ ˈpedlɚ,1,0
 peddles, ˈpedəl ˈpedəl ˈped·əl,1,0
-peddling, ˈpedəl ˈpedəl,0,0
+peddling, ˈpedəl ˈpedəl,1,0
 pedestal, ˈpedəstəl ˈped·ə·stəl,0,0
 pedestals, ˈpedəstəl ˈped·ə·stəl,1,0
 pedestrian, pəˈdestriən pəˈdes·tri·ən,0,0
@@ -129,25 +129,25 @@ pedophilia,,0,1
 pedro,,0,1
 pee, piː pi,0,0
 peebles,,0,1
-peed, piː,0,0
-peeing, piː,0,0
+peed, piː,1,0
+peeing, piː,1,0
 peek, piːk pik pik,0,0
-peeked, piːk piːk,0,0
-peeking, piːk piːk,0,0
+peeked, piːk piːk,1,0
+peeking, piːk piːk,1,0
 peeks, piːk piːk piːk pik pik,1,0
 peel, piːl piːl piːl pil pil pil,0,0
 peele,,0,1
-peeled, piːl piːl piːl,0,0
+peeled, piːl piːl piːl,1,0
 peeler, ˈpiːlɚ ˈpi·lər,0,0
 peelers, ˈpiːlɚ ˈpi·lər,1,0
-peeling, piːl piːl piːl,0,0
+peeling, piːl piːl piːl,1,0
 peels, piːl piːl piːl pil pil pil,1,0
 peep, piːp piːp piːp pip pip,0,0
-peeped, piːp piːp piːp,0,0
-peeping, piːp piːp piːp,0,0
+peeped, piːp piːp piːp,1,0
+peeping, piːp piːp piːp,1,0
 peeps, piːps,0,0
 peer, pɪr pɪər,0,0
-peered, pɪr,0,0
+peered, pɪr,1,0
 peering,,0,1
 peerless, ˈpɪrləs ˈpɪər·ləs,0,0
 peers, pɪr pɪər,1,0
@@ -178,8 +178,8 @@ peller,,0,1
 pellet, ˈpelət ˈpelət ˈpelət ˈpel·ət,0,0
 pellets, ˈpelət ˈpelət ˈpelət ˈpel·ət,1,0
 pelt, pelt pelt pelt,0,0
-pelted, pelt pelt,0,0
-pelting, pelt pelt,0,0
+pelted, pelt pelt,1,0
+pelting, pelt pelt,1,0
 pelts, pelt pelt pelt pelt,1,0
 pelvic, ˈpelvɪk,0,0
 pelvis, ˈpelvɪs ˈpel·vɪs,0,0
@@ -187,9 +187,9 @@ pembroke,,0,1
 pen, pen pen pen pen pen pen pen pen,0,0
 penal, ˈpiːnəl ˈpiːnəl ˈpi·nəl,0,0
 penalize," ˈpiːnəlaɪz ˈpiːnəlaɪz ˈpi·nəlˌɑɪz, ˈpen·əl-",0,0
-penalized, ˈpiːnəlaɪz ˈpiːnəlaɪz,0,0
+penalized, ˈpiːnəlaɪz ˈpiːnəlaɪz,1,0
 penalizes," ˈpiːnəlaɪz ˈpiːnəlaɪz ˈpi·nəlˌɑɪz, ˈpen·əl-",1,0
-penalizing, ˈpiːnəlaɪz ˈpiːnəlaɪz,0,0
+penalizing, ˈpiːnəlaɪz ˈpiːnəlaɪz,1,0
 penalties, ˈpenəlti ˈpenəlti ˈpenəlti ˈpenəlti ˈpen·əl·ti ˈpen·əl·ti,1,0
 penalty, ˈpenəlti ˈpenəlti ˈpenəlti ˈpenəlti ˈpen·əl·ti ˈpen·əl·ti,0,0
 penance, ˈpenəns ˈpen·əns,0,0
@@ -205,7 +205,7 @@ pendulous, ˈpendʒələs,0,0
 pendulum, ˈpendʒələm ˈpendʒələm ˈpen·dʒə·ləm ˈpen·dʒə·ləm,0,0
 penelope,,0,1
 penetrate, ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpen·ɪˌtreɪt ˈpen·ɪˌtreɪt,0,0
-penetrated, ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt,0,0
+penetrated, ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt,1,0
 penetrates, ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpenətreɪt ˈpen·ɪˌtreɪt ˈpen·ɪˌtreɪt,1,0
 penetrating, ˈpenətreɪt̬ɪŋ ˈpenətreɪt̬ɪŋ ˈpen·ɪˌtreɪ·t̬ɪŋ ˈpen·ɪˌtreɪ·t̬ɪŋ ˈpen·ɪˌtreɪ·t̬ɪŋ,0,0
 penetration, ˌpenəˈtreɪʃən ˌpenəˈtreɪʃən ˌpenəˈtreɪʃən,0,0
@@ -278,9 +278,9 @@ peptide, ˈpeptaɪd ˈpep·tɑɪd,0,0
 peptides, ˈpeptaɪd ˈpep·tɑɪd,1,0
 per," strong pɝː pɜr, pər",0,0
 perceive, pɚ- pɚ- pərˈsiv pərˈsiv,0,0
-perceived, pɚ- pɚ-,0,0
+perceived, pɚ- pɚ-,1,0
 perceives, pɚ- pɚ- pərˈsiv pərˈsiv,1,0
-perceiving, pɚ- pɚ-,0,0
+perceiving, pɚ- pɚ-,1,0
 percent, pɚˈsent pɚˈsent pərˈsent,0,0
 percentage, pɚˈsent̬ɪdʒ pɚˈsent̬ɪdʒ pərˈsen·tɪdʒ pərˈsen·tɪdʒ,0,0
 percentages, pɚˈsent̬ɪdʒ pɚˈsent̬ɪdʒ pərˈsen·tɪdʒ pərˈsen·tɪdʒ,1,0
@@ -294,12 +294,12 @@ perceptive, pɚˈseptɪv pərˈsep·tɪv,0,0
 perceptual, pɚˈseptʃuəl,0,0
 perch, pɝːtʃ pɜrtʃ,0,0
 perchance, pɚˈtʃæns,0,0
-perched, pɝːtʃ pɝːtʃ,0,0
+perched, pɝːtʃ pɝːtʃ,1,0
 perches,,0,1
 perchloric,,0,1
 percolate, ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɜr·kəˌleɪt,0,0
-percolated, ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɝːkəleɪt,0,0
-percolating, ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɝːkəleɪt,0,0
+percolated, ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɝːkəleɪt,1,0
+percolating, ˈpɝːkəleɪt ˈpɝːkəleɪt ˈpɝːkəleɪt,1,0
 percolator, ˈpɝːkəleɪt̬ɚ ˈpɜr·kəˌleɪ·t̬ər,0,0
 percussion, pɚˈkʌʃən pərˈkʌʃ·ən,0,0
 percussionist, pɚˈkʌʃənɪst,0,0
@@ -316,8 +316,8 @@ perennials, pəˈreniəl pəˈren·i·əl,1,0
 peres,,0,1
 perestroika, ˌperəˈstrɔɪkə ˌper·əˈstrɔɪ·kə,0,0
 perfect, ˈpɝːfekt ˈpɝːfekt ˈpɝːfekt ˈpɝːfekt ˈpɝːfekt ˈpɜr·fɪkt ˈpɜr·fɪkt ˈpɜr·fɪkt ˈpɜr·fɪkt,0,0
-perfected, pɝːˈfekt,0,0
-perfecting, pɝːˈfekt,0,0
+perfected, pɝːˈfekt,1,0
+perfecting, pɝːˈfekt,1,0
 perfection, pɚˈfekʃən pərˈfek·ʃən pərˈfek·ʃən,0,0
 perfectionism, pɚˈfekʃənɪzəm,0,0
 perfectionist, pɚˈfekʃənɪst pərˈfek·ʃə·nɪst,0,0
@@ -326,17 +326,17 @@ perfectly, ˈpɝːfektli ˈpɝːfektli ˈpɜr·fɪkt·li ˈpɜr·fɪkt·li,0,0
 perfidy, ˈpɝːfədi,0,0
 perforate, ˈpɝːfəreɪt,0,0
 perforated, ˈpɝːfəreɪt̬ɪd ˈpɜr·fəˌreɪ·t̬ɪd,0,0
-perforating, ˈpɝːfəreɪt,0,0
+perforating, ˈpɝːfəreɪt,1,0
 perforation, ˈpɝːfəˈreɪʃən ˈpɝːfəˈreɪʃən,0,0
 perforations, ˈpɝːfəˈreɪʃən ˈpɝːfəˈreɪʃən,1,0
 perforce, pɚˈfɔːrs,0,0
 perform, pɚˈfɔːrm pɚˈfɔːrm pərˈfɔrm pərˈfɔrm pərˈfɔrm,0,0
 performance, pɚˈfɔːrməns pɚˈfɔːrməns pərˈfɔr·məns pərˈfɔr·məns,0,0
 performances, pɚˈfɔːrməns pɚˈfɔːrməns pɚˈfɔːrməns pɚˈfɔːrməns pərˈfɔr·məns pərˈfɔr·məns,1,0
-performed, pɚˈfɔːrm pɚˈfɔːrm pɚˈfɔːrm,0,0
+performed, pɚˈfɔːrm pɚˈfɔːrm pɚˈfɔːrm,1,0
 performer, pɚˈfɔːrmɚ pɚˈfɔːrmɚ pɚˈfɔːrmɚ,0,0
 performers, pɚˈfɔːrmɚ pɚˈfɔːrmɚ pɚˈfɔːrmɚ,1,0
-performing, pɚˈfɔːrm pɚˈfɔːrm pɚˈfɔːrm,0,0
+performing, pɚˈfɔːrm pɚˈfɔːrm pɚˈfɔːrm,1,0
 performs, pɚˈfɔːrm pɚˈfɔːrm pɚˈfɔːrm pərˈfɔrm pərˈfɔrm pərˈfɔrm,1,0
 perfume," ˈpɝːfjuːm ˈpɝːfjuːm ˈpɜr·fjum, pərˈfjum",0,0
 perfumed, ˈpɝːfjuːmd,0,0
@@ -373,12 +373,12 @@ perjure, ˈpɜr·dʒər,0,1
 perjured, ˈpɝːdʒɚd,0,0
 perjurer, ˈpɝːdʒɚɚ,0,0
 perjures,,0,1
-perjuring, ˈpɝːdʒɚ,0,0
+perjuring, ˈpɝːdʒɚ,1,0
 perjury, ˈpɝːdʒɚi ˈpɜr·dʒə·ri,0,0
 perk, pɝːk pɝːk pɜrk,0,0
-perked, pɝːk,0,0
+perked, pɝːk,1,0
 perkin,,0,1
-perking, pɝːk,0,0
+perking, pɝːk,1,0
 perks, pɝːk pɝːk pɜrk,1,0
 perky, ˈpɝːki ˈpɜr·ki,0,0
 perle,,0,1
@@ -388,9 +388,9 @@ permanently, ˈpɝːmənəntli,0,0
 permeability, ˌpɝːmiəˈbɪlət̬i,0,0
 permeable, ˈpɝːmiəbəl ˈpɜr·mi·ə·bəl,0,0
 permeate, ˈpɝːmieɪt ˈpɜr·miˌeɪt,0,0
-permeated, ˈpɝːmieɪt,0,0
+permeated, ˈpɝːmieɪt,1,0
 permeates, ˈpɝːmieɪt ˈpɜr·miˌeɪt,1,0
-permeating, ˈpɝːmieɪt,0,0
+permeating, ˈpɝːmieɪt,1,0
 permissible, pɚˈmɪsəbəl,0,0
 permission, pɚˈmɪʃən pərˈmɪʃ·ən,0,0
 permissive, pɚˈmɪsɪv pɚˈmɪsɪv pərˈmɪs·ɪv,0,0
@@ -407,16 +407,16 @@ pernod,,0,1
 peroxide, pəˈrɑːksaɪd pəˈrɑkˌsɑɪd,0,0
 perpendicular, ˌpɝːpənˈdɪkjuːlɚ ˌpɝːpənˈdɪkjuːlɚ ˌpər·pənˈdɪk·jə·lər ˌpər·pənˈdɪk·jə·lər,0,0
 perpetrate, ˈpɝːpətreɪt ˈpɜr·pɪˌtreɪt,0,0
-perpetrated, ˈpɝːpətreɪt,0,0
-perpetrating, ˈpɝːpətreɪt,0,0
+perpetrated, ˈpɝːpətreɪt,1,0
+perpetrating, ˈpɝːpətreɪt,1,0
 perpetrator, ˈpɝːpətreɪt̬ɚ,0,0
 perpetrators, ˈpɝːpətreɪt̬ɚ,1,0
 perpetual, pɚˈpetʃuəl pɚˈpetʃuəl pərˈpetʃ·u·əl,0,0
 perpetually, pɚˈpetʃuəli,0,0
 perpetuate, pɚˈpetʃueɪt pərˈpetʃ·uˌeɪt,0,0
-perpetuated, pɚˈpetʃueɪt,0,0
+perpetuated, pɚˈpetʃueɪt,1,0
 perpetuates, pɚˈpetʃueɪt pərˈpetʃ·uˌeɪt,1,0
-perpetuating, pɚˈpetʃueɪt,0,0
+perpetuating, pɚˈpetʃueɪt,1,0
 perpetuation, ˌpɚpetʃuˈeɪʃən,0,0
 perpetuity, ˌpɜr·pɪˈtu·ɪ·t̬i,0,1
 perplex, pɚˈpleks pərˈpleks,0,0
@@ -429,9 +429,9 @@ perryman,,0,1
 pers,,0,1
 perse,,0,1
 persecute, ˈpɝːsɪkjuːt ˈpɜr·sɪˌkjut,0,0
-persecuted, ˈpɝːsɪkjuːt,0,0
+persecuted, ˈpɝːsɪkjuːt,1,0
 persecutes, ˈpɝːsɪkjuːt ˈpɜr·sɪˌkjut,1,0
-persecuting, ˈpɝːsɪkjuːt,0,0
+persecuting, ˈpɝːsɪkjuːt,1,0
 persecution, ˌpɝːsəˈkjuːʃən,0,0
 persecutions, ˌpɝːsəˈkjuːʃən,1,0
 persecutor, ˈpɝːsəkjuːt̬ɚ,0,0
@@ -440,7 +440,7 @@ perses,,0,1
 perseus,,0,1
 perseverance, ˌpɝːsəˈvɪrəns ˌpɝːsəˈvɪrəns,0,0
 persevere, ˌpɝːsəˈvɪr ˌpɝːsəˈvɪr ˌpɜr·səˈvɪər,0,0
-persevered, ˌpɝːsəˈvɪr ˌpɝːsəˈvɪr,0,0
+persevered, ˌpɝːsəˈvɪr ˌpɝːsəˈvɪr,1,0
 perseveres, ˌpɝːsəˈvɪr ˌpɝːsəˈvɪr ˌpɜr·səˈvɪər,1,0
 persevering, ˌpɝːsəˈvɪrɪŋ ˌpɝːsəˈvɪrɪŋ,0,0
 persia, ˈpɝːʒə,0,0
@@ -448,11 +448,11 @@ persian, ˈpɝːʒən,0,0
 persians, ˈpɝːʒən,1,0
 persis,,0,1
 persist," pɚˈsɪst pɚˈsɪst pərˈsɪst, -ˈzɪst",0,0
-persisted, pɚˈsɪst pɚˈsɪst,0,0
+persisted, pɚˈsɪst pɚˈsɪst,1,0
 persistence," pɚˈsɪstəns pərˈsɪs·təns, -ˈzɪs-",0,0
 persistent," pɚˈsɪstənt pɚˈsɪstənt pərˈsɪs·tənt, -ˈzɪs-",0,0
 persistently, pɚˈsɪstəntli pɚˈsɪstəntli,0,0
-persisting, pɚˈsɪst pɚˈsɪst,0,0
+persisting, pɚˈsɪst pɚˈsɪst,1,0
 persists," pɚˈsɪst pɚˈsɪst pərˈsɪst, -ˈzɪst",1,0
 person, ˈpɝːsən ˈpɝːsən ˈpɝːsən ˈpɜr·sən ˈpɜr·sən,0,0
 persona, pɚˈsoʊnə pərˈsoʊ·nə pərˈsoʊ·nə,0,0
@@ -465,7 +465,7 @@ personality, ˌpɝːsənˈælət̬i ˌpɝːsənˈælət̬i ˌpɜr·səˈnæl·ɪ
 personalize, ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz,0,0
 personalized, ˈpɝːsənəlaɪzd,0,0
 personalizes, ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz ˈpɜr·sə·nəlˌɑɪz,1,0
-personalizing, ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz,0,0
+personalizing, ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz ˈpɝːsənəlaɪz,1,0
 personally, ˈpɝːsənəli ˈpɝːsənəli ˈpɝːsənəli ˈpɜr·sə·nəl·i ˈpɜr·sə·nəl·i ˈpɜr·sə·nəl·i,0,0
 personals,,0,1
 personification, pɚˌsɑːnəfəˈkeɪʃən pɚˌsɑːnəfəˈkeɪʃən pərˌsɑn·ə·fɪˈkeɪ·ʃən,0,0
@@ -479,7 +479,7 @@ perspectives, pɚˈspektɪv pɚˈspektɪv pɚˈspektɪv pɚˈspektɪv pɚˈspekt
 perspicacious, ˌpɝːspɪˈkeɪʃəs,0,0
 perspiration, ˌpɝːspəˈreɪʃən,0,0
 perspire, pɚˈspaɪɚ pərˈspɑɪər,0,0
-perspiring, pɚˈspaɪɚ,0,0
+perspiring, pɚˈspaɪɚ,1,0
 persuade, pɚˈsweɪd pərˈsweɪd,0,0
-persuaded, pɚˈsweɪd,0,0
+persuaded, pɚˈsweɪd,1,0
 persuades, pɚˈsweɪd pərˈsweɪd,1,0

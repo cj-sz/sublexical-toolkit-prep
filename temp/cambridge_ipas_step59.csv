@@ -3,8 +3,8 @@ mush, mʌʃ mʌʃ mʌʃ mʌʃ,0,0
 musher, ˈmʌʃɚ,0,0
 mushers,,0,1
 mushroom," ˈmʌʃruːm ˈmʌʃruːm ˈmʌʃ·rum, -rʊm",0,0
-mushroomed, ˈmʌʃruːm,0,0
-mushrooming, ˈmʌʃruːm,0,0
+mushroomed, ˈmʌʃruːm,1,0
+mushrooming, ˈmʌʃruːm,1,0
 mushrooms," ˈmʌʃruːm ˈmʌʃruːm ˈmʌʃ·rum, -rʊm",1,0
 mushy, ˈmʌʃi ˈmʌʃi,0,0
 music, ˈmjuːzɪk ˈmjuːzɪk ˈmjuːzɪk ˈmju·zɪk,0,0
@@ -18,7 +18,7 @@ musicians, mjuːˈzɪʃən mjʊˈzɪʃ·ən,1,0
 musicianship, mjuːˈzɪʃənʃɪp,0,0
 musicologist, ˌmjuːzɪˈkɑːlədʒɪst,0,0
 musics,,0,1
-musing, mjuːz,0,0
+musing, mjuːz,1,0
 musings, ˈmjuːzɪŋz,0,0
 musk, mʌsk mʌsk,0,0
 musket, ˈmʌskɪt ˈmʌs·kɪt,0,0
@@ -46,8 +46,8 @@ mustangs, ˈmʌstæŋ,1,0
 mustard, ˈmʌstɚd ˈmʌstɚd ˈmʌstɚd ˈmʌs·tərd,0,0
 mustards,,0,1
 muster, ˈmʌstɚ ˈmʌstɚ ˈmʌs·tər ˈmʌs·tər,0,0
-mustered, ˈmʌstɚ ˈmʌstɚ,0,0
-mustering, ˈmʌstɚ ˈmʌstɚ,0,0
+mustered, ˈmʌstɚ ˈmʌstɚ,1,0
+mustering, ˈmʌstɚ ˈmʌstɚ,1,0
 musters, ˈmʌstɚ ˈmʌstɚ ˈmʌs·tər ˈmʌs·tər,1,0
 musty, ˈmʌsti ˈmʌs·ti,0,0
 mutable, ˈmjuːt̬əbəl,0,0
@@ -55,8 +55,8 @@ mutagen,,0,1
 mutant, ˈmjuːtənt ˈmjuːtənt ˈmju·t̬ənt,0,0
 mutants, ˈmjuːtənt ˈmjuːtənt ˈmju·t̬ənt,1,0
 mutate, mjuːˈteɪt mjuːˈteɪt ˈmju·teɪt,0,0
-mutated, mjuːˈteɪt mjuːˈteɪt,0,0
-mutating, mjuːˈteɪt mjuːˈteɪt,0,0
+mutated, mjuːˈteɪt mjuːˈteɪt,1,0
+mutating, mjuːˈteɪt mjuːˈteɪt,1,0
 mutation, mjuːˈteɪʃən mjuːˈteɪʃən mjuˈteɪ·ʃən,0,0
 mutations, mjuːˈteɪʃən mjuːˈteɪʃən mjuˈteɪ·ʃən,1,0
 mute, mjuːt mjuːt mjut,0,0
@@ -64,20 +64,20 @@ muted, ˈmjuːt̬ɪd ˈmjuːt̬ɪd ˈmjuːt̬ɪd ˈmju·t̬ɪd ˈmju·t̬ɪd,0,0
 mutes, mjuːt mjuːt mjuːt mjut,1,0
 muth,,0,1
 mutilate, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt ˈmju·təlˌeɪt,0,0
-mutilated, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,0,0
-mutilating, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,0,0
+mutilated, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,1,0
+mutilating, ˈmjuːt̬əleɪt ˈmjuːt̬əleɪt,1,0
 mutilation, ˌmjuːt̬əlˈeɪʃən ˌmjuːt̬əlˈeɪʃən,0,0
 mutilations, ˌmjuːt̬əlˈeɪʃən ˌmjuːt̬əlˈeɪʃən,1,0
 mutineer, ˌmjuːtənˈɪr,0,0
 mutineers, ˌmjuːtənˈɪr,1,0
-muting, mjuːt mjuːt mjuːt mjuːt,0,0
-mutinied, ˈmjuːtəni,0,0
+muting, mjuːt mjuːt mjuːt mjuːt,1,0
+mutinied, ˈmjuːtəni,1,0
 mutinies, ˈmjuːtəni ˈmju·tən·i,1,0
 mutinous, ˈmjuːtənəs ˈmjuːtənəs,0,0
 mutiny, ˈmjuːtəni ˈmju·tən·i,0,0
 mutt, mʌt mʌt mʌt,0,0
 mutter, ˈmʌt̬ɚ ˈmʌt̬·ər,0,0
-muttered, ˈmʌt̬ɚ,0,0
+muttered, ˈmʌt̬ɚ,1,0
 muttering, ˈmʌt̬ɚɪŋ ˈmʌt̬ɚɪŋ,0,0
 mutterings, ˈmʌt̬ɚrɪŋz,0,0
 mutters, ˈmʌt̬ɚ ˈmʌt̬·ər,1,0
@@ -88,7 +88,7 @@ mutuality, ˌmjuːtʃuˈælət̬i ˌmjuːtʃuˈælət̬i,0,0
 mutually, ˈmjuːtʃuəli ˈmju·tʃu·ə·li,0,0
 muzak, ˈmjuːzæk,0,0
 muzzle, ˈmʌzəl ˈmʌzəl ˈmʌzəl ˈmʌz·əl ˈmʌz·əl,0,0
-muzzled, ˈmʌzəl ˈmʌzəl,0,0
+muzzled, ˈmʌzəl ˈmʌzəl,1,0
 muzzles, ˈmʌzəl ˈmʌzəl ˈmʌzəl ˈmʌz·əl ˈmʌz·əl,1,0
 muzzy, ˈmʌzi,0,0
 my, maɪ maɪ maɪ mɑɪ,0,0
@@ -114,7 +114,7 @@ mystic, ˈmɪstɪk ˈmɪs·tɪk,0,0
 mystical, ˈmɪstɪkəl ˈmɪstɪkəl,0,0
 mysticism, ˈmɪstəsɪzəm ˈmɪs·təˌsɪz·əm,0,0
 mystics, ˈmɪstɪk ˈmɪs·tɪk,1,0
-mystified, ˈmɪstəfaɪ,0,0
+mystified, ˈmɪstəfaɪ,1,0
 mystifies, ˈmɪstəfaɪ ˈmɪs·təˌfɑɪ,1,0
 mystify, ˈmɪstəfaɪ ˈmɪs·təˌfɑɪ,0,0
 mystifying, ˈmɪstəfaɪɪŋ,0,0
@@ -148,8 +148,8 @@ nags, næɡ næɡ,1,0
 nah," næː næ, nɑ",0,0
 naik,,0,1
 nail, neɪl neɪl neɪl neɪl,0,0
-nailed, neɪl neɪl neɪl neɪl,0,0
-nailing, neɪl neɪl neɪl neɪl,0,0
+nailed, neɪl neɪl neɪl neɪl,1,0
+nailing, neɪl neɪl neɪl neɪl,1,0
 nails, neɪl neɪl neɪl neɪl,1,0
 naira,,0,1
 nairobi,,0,1
@@ -160,14 +160,14 @@ naivete, naɪˈiːvət̬i,1,0
 naked, ˈneɪkɪd ˈneɪkɪd ˈneɪkɪd ˈneɪ·kɪd,0,0
 nam,,0,1
 name, neɪm neɪm neɪm neɪm neɪm neɪm,0,0
-named, neɪm neɪm neɪm,0,0
+named, neɪm neɪm neɪm,1,0
 nameless, ˈneɪmləs ˈneɪm·ləs,0,0
 namely, ˈneɪmli ˈneɪm·li,0,0
 nameplate, ˈneɪmpleɪt,0,0
 nameplates, ˈneɪmpleɪt,1,0
 names, neɪm neɪm neɪm neɪm neɪm neɪm neɪm neɪm neɪm,1,0
 namesake, ˈneɪmseɪk ˈneɪmˌseɪk,0,0
-naming, neɪm neɪm neɪm,0,0
+naming, neɪm neɪm neɪm,1,0
 nan, næn nɑːn,0,0
 nana, ˈnænə,0,0
 nance, ˈnænsi,1,0
@@ -207,17 +207,17 @@ narcotic, nɑːrˈkɑːt̬ɪk nɑːrˈkɑːt̬ɪk nɑrˈkɑt̬·ɪk,0,0
 narcotics, nɑːrˈkɑːt̬ɪk nɑːrˈkɑːt̬ɪk nɑrˈkɑt̬·ɪk,1,0
 nard,,0,1
 narrate," nəˈreɪt ˈnær·eɪt, næˈreɪt",0,0
-narrated, nəˈreɪt,0,0
+narrated, nəˈreɪt,1,0
 narration, nerˈeɪʃən nerˈeɪʃən næˈreɪ·ʃən næˈreɪʃən,0,0
 narrative, ˈnerət̬ɪv ˈnerət̬ɪv ˈnær·ə·t̬ɪv,0,0
 narratives, ˈnerət̬ɪv ˈnerət̬ɪv ˈnær·ə·t̬ɪv,1,0
 narrator, ˈnereɪt̬ɚ ˈnær·eɪ·t̬ər,0,0
 narrators, ˈnereɪt̬ɚ ˈnær·eɪ·t̬ər,1,0
 narrow, ˈneroʊ ˈneroʊ ˈneroʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ,0,0
-narrowed, ˈneroʊ ˈneroʊ,0,0
+narrowed, ˈneroʊ ˈneroʊ,1,0
 narrower, ˈneroʊ ˈneroʊ ˈneroʊ ˈneroʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ,1,0
 narrowest, ˈneroʊ ˈneroʊ ˈneroʊ ˈneroʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ ˈnær·oʊ,1,0
-narrowing, ˈneroʊ ˈneroʊ,0,0
+narrowing, ˈneroʊ ˈneroʊ,1,0
 narrowly, ˈneroʊli ˈneroʊli ˈneroʊli ˈnær·ə·li,0,0
 narrowness, ˈneroʊnəs ˈneroʊnəs ˈneroʊnəs,0,0
 narrows, ˈneroʊz ˈneroʊz,0,0
@@ -246,7 +246,7 @@ nationalists, ˈnæʃənəlɪst ˈnæʃənəlɪst ˈnæʃ·ə·nəl·ɪst,1,0
 nationalities, ˌnæʃənˈælət̬i ˌnæʃənˈælət̬i ˌnæʃ·əˈnæl·ɪ·t̬i,1,0
 nationality, ˌnæʃənˈælət̬i ˌnæʃənˈælət̬i ˌnæʃ·əˈnæl·ɪ·t̬i,0,0
 nationalization, ˌnæʃənələˈzeɪʃən ˌnæʃənələˈzeɪʃən,0,0
-nationalized, ˈnæʃənəlaɪz,0,0
+nationalized, ˈnæʃənəlaɪz,1,0
 nationally, ˈnæʃənəli,0,0
 nationals, ˈnæʃənəl ˈnæʃ·ə·nəl,1,0
 nations, ˈneɪʃən ˈneɪʃən ˈneɪ·ʃən ˈneɪ·ʃən,1,0
@@ -257,7 +257,7 @@ nativist, ˈneɪt̬ɪvɪst,0,0
 nativity, nəˈtɪvət̬i nəˈtɪvət̬i,0,1
 nato, ˈneɪt̬oʊ ˈneɪ·t̬oʊ,0,0
 natter, ˈnæt̬ɚ,0,0
-nattering, ˈnæt̬ɚ,0,0
+nattering, ˈnæt̬ɚ,1,0
 nattily, ˈnæt̬əli,0,0
 natty, ˈnæt̬i,0,0
 natural, ˈnætʃɚəl ˈnætʃɚəl ˈnætʃɚəl ˈnætʃɚəl ˈnætʃɚəl ˈnætʃɚəl ˈnætʃ·ər·əl ˈnætʃ·ər·əl ˈnætʃ·ər·əl ˈnætʃ·ər·əl ˈnætʃ·ər·əl,0,0
@@ -265,7 +265,7 @@ naturalist, ˈnætʃɚəlɪst ˈnætʃɚəlɪst ˈnætʃ·ər·ə·lɪst,0,0
 naturalistic, ˌnætʃɚrəˈlɪst̬ɪk ˌnætʃɚrəˈlɪst̬ɪk,0,0
 naturalists, ˈnætʃɚəlɪst ˈnætʃɚəlɪst ˈnætʃ·ər·ə·lɪst,1,0
 naturalization, ˌnætʃɚrələˈzeɪʃən ˌnætʃərələˈzeɪʃən,0,0
-naturalized, ˈnætʃɚrəlaɪz,0,0
+naturalized, ˈnætʃɚrəlaɪz,1,0
 naturally, ˈnætʃɚəli ˈnætʃɚəli ˈnætʃɚəli ˈnætʃɚəli ˈnætʃ·ər·ə·li ˈnætʃ·ər·ə·li ˈnætʃ·ər·ə·li,0,0
 nature, ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪtʃɚ ˈneɪ·tʃər ˈneɪ·tʃər ˈneɪ·tʃər ˈneɪ·tʃər,0,0
 natured,  -neɪtʃɚd,1,0
@@ -289,9 +289,9 @@ navel, ˈneɪvəl ˈneɪ·vəl,0,0
 navies, ˈneɪvi ˈneɪvi ˈneɪ·vi,1,0
 navigable, ˈnævəɡəbəl ˈnævəɡəbəl ˈnæv·ɪ·ɡə·bəl,0,0
 navigate, ˈnævəɡeɪt ˈnævəɡeɪt ˈnæv·ɪˌɡeɪt,0,0
-navigated, ˈnævəɡeɪt ˈnævəɡeɪt,0,0
+navigated, ˈnævəɡeɪt ˈnævəɡeɪt,1,0
 navigates, ˈnævəɡeɪt ˈnævəɡeɪt ˈnæv·ɪˌɡeɪt,1,0
-navigating, ˈnævəɡeɪt ˈnævəɡeɪt,0,0
+navigating, ˈnævəɡeɪt ˈnævəɡeɪt,1,0
 navigation, ˌnævəˈɡeɪʃən ˌnævəˈɡeɪʃən,0,0
 navigational, ˌnævəˈɡeɪʃənəl ˌnævəˈɡeɪʃənəl,0,0
 navigator, ˈnævəɡeɪt̬ɚ ˈnæv·ɪˌɡeɪ·t̬ər,0,0
@@ -313,10 +313,10 @@ neanderthals," niːˈændɚˌtɑːl niːˈændɚˌtɑːl niːˈændɚˌtɑːl ni
 neapolitan, ˌniːəˈpɑːlət̬ən,0,0
 near, nɪr nɪr nɪr nɪər,0,0
 nearby, ˌnɪrˈbaɪ ˈnɪərˈbɑɪ,0,0
-neared, nɪr,0,0
+neared, nɪr,1,0
 nearer, nɪr nɪr nɪr nɪr nɪr nɪr nɪr- nɪər,1,0
 nearest, nɪr nɪr nɪr nɪr nɪr nɪr nɪr- nɪər,1,0
-nearing, nɪr,0,0
+nearing, nɪr,1,0
 nearly, ˈnɪrli ˈnɪər·li,0,0
 nears, nɪr nɪr nɪr nɪr nɪr nɪr nɪr- nɪər,1,0
 nearsighted, ˌnɪrˈsaɪt̬ɪd ˈnɪərˌsɑɪ·t̬ɪd,0,0
@@ -334,9 +334,9 @@ nebulous, ˈnebjələs ˈneb·jə·ləs,0,0
 necessarily," ˈnesəserɪli ˌnes·əˈseər·ə·li, ̠-ˈser-",0,0
 necessary, ˈnesəseri ˈnesəseri ˈnes·əˌser·i ˈnes·əˌser·i,0,0
 necessitate, nəˈsesəteɪt nəˈses·ɪˌteɪt,0,0
-necessitated, nəˈsesəteɪt,0,0
+necessitated, nəˈsesəteɪt,1,0
 necessitates, nəˈsesəteɪt nəˈses·ɪˌteɪt,1,0
-necessitating, nəˈsesəteɪt,0,0
+necessitating, nəˈsesəteɪt,1,0
 necessities, nəˈsesət̬i nəˈsesət̬i nəˈses·ɪ·t̬i,1,0
 necessity, nəˈsesət̬i nəˈsesət̬i nəˈses·ɪ·t̬i,0,0
 neck, nek nek nek nek nek nek nek nek,0,0
@@ -360,16 +360,16 @@ needed, ˈniːdɪd,0,0
 needful, ˈniːdfəl ˈniːdfəl,0,0
 needham,,0,1
 neediest, ˈniːdi ˈniːdi ˈniːdi ˈnid·i,1,0
-needing, niːd niːd niːd niːd niːd niːd niːd,0,0
+needing, niːd niːd niːd niːd niːd niːd niːd,1,0
 needle, ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl,0,0
-needled, ˈniːdəl,0,0
+needled, ˈniːdəl,1,0
 needleman,,0,1
 needlepoint, ˈniːdəlpɔɪnt ˈniːdəlpɔɪnt,0,0
 needles, ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈniːdəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl ˈni·dəl,1,0
 needless, ˈniːdləs ˈnid·ləs,0,0
 needlessly, ˈniːdləsli,0,0
 needlework, ˈniːdəlwɝːk,0,0
-needling, ˈniːdəl,0,0
+needling, ˈniːdəl,1,0
 needs, nidz,0,0
 needy, ˈniːdi ˈniːdi ˈnid·i,0,0
 neer,,0,1
@@ -377,9 +377,9 @@ neet, niːt niːt,0,0
 nefarious, nəˈferiəs,0,0
 neg, neɡ,0,0
 negate," nɪˈɡeɪt nɪˈɡeɪt, ˈneɡ·eɪt",0,0
-negated, nɪˈɡeɪt,0,0
+negated, nɪˈɡeɪt,1,0
 negates," nɪˈɡeɪt nɪˈɡeɪt, ˈneɡ·eɪt",1,0
-negating, nɪˈɡeɪt,0,0
+negating, nɪˈɡeɪt,1,0
 negation, nɪˈɡeɪʃən nɪˈɡeɪʃən nɪˈɡeɪʃən nɪˈɡeɪʃən,0,0
 negative, ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv ˈneɡət̬ɪv,0,0
 negatively, ˈneɡət̬ɪvli ˈneɡət̬ɪvli ˈneɡət̬ɪvli ˈneɡət̬ɪvli ˈneɡ·ə·t̬ɪv·li ˈneɡ·ə·t̬ɪv·li ˈneɡ·ə·t̬ɪv·li,0,0
@@ -389,7 +389,7 @@ negativity, ˌneɡəˈtɪvət̬i,0,0
 neglect, nɪˈɡlekt nɪˈɡlekt,0,0
 neglected, nɪˈɡlektɪd,0,0
 neglectful, nɪˈɡlektfəl,0,0
-neglecting, nɪˈɡlekt nɪˈɡlekt,0,0
+neglecting, nɪˈɡlekt nɪˈɡlekt,1,0
 neglects, nɪˈɡlekt nɪˈɡlekt nɪˈɡlekt,1,0
 negligence, ˈneɡlədʒəns,0,0
 negligent, ˈneɡlədʒənt ˈneɡ·lɪ·dʒənt,0,0
@@ -399,7 +399,7 @@ negotiable," nəˈɡoʊʃiə nəˈɡoʊʃiə nəˈɡoʊʃiə nɪˈɡoʊ·ʃə·b
 negotiate, nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nɪˈɡoʊ·ʃiˌeɪt nɪˈɡoʊ·ʃiˌeɪt,0,0
 negotiated,,0,1
 negotiates, nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nɪˈɡoʊ·ʃiˌeɪt nɪˈɡoʊ·ʃiˌeɪt,1,0
-negotiating, nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt,0,0
+negotiating, nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt nəˈɡoʊʃieɪt,1,0
 negotiation, nəˌɡoʊʃiˈeɪʃən nɪˌɡoʊ·ʃiˈeɪ·ʃən,0,0
 negotiations, nəˌɡoʊʃiˈeɪʃən nɪˌɡoʊ·ʃiˈeɪ·ʃən,1,0
 negotiator, nɪˈɡoʊʃieɪt̬ɚ nɪˈɡoʊ·ʃiˌeɪ·t̬ər,0,0
@@ -462,12 +462,12 @@ nervousness, ˈnɝːvəsnəs ˈnɜr·vəs·nəs,0,0
 nervy, ˈnɝːvi,0,0
 ness,  -nəs,1,0
 nest, nest nest nest nest nest,0,0
-nested, nest nest nest,0,0
+nested, nest nest nest,1,0
 nester,,0,1
 nesters,,0,1
 nesting, ˈnestɪŋ ˈnestɪŋ,0,0
 nestle, ˈnesəl ˈnesəl ˈnes·əl,0,0
-nestled, ˈnesəl ˈnesəl,0,0
+nestled, ˈnesəl ˈnesəl,1,0
 nestor,,0,1
 nests, nest nest nest nest nest,1,0
 net, net net net net,0,0

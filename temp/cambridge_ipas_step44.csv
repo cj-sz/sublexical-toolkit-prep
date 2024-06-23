@@ -14,8 +14,8 @@ hovel," ˈhɑːvəl ˈhʌv·əl, ˈhɑv-",0,0
 hovels," ˈhɑːvəl ˈhʌv·əl, ˈhɑv-",1,0
 hover," ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌv·ər, ˈhɑv- ˈhʌv·ər, ˈhɑv-",0,0
 hovercraft, ˈhɑːvɚkræft,0,0
-hovered, ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ,0,0
-hovering, ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ,0,0
+hovered, ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ,1,0
+hovering, ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ,1,0
 hovers," ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌvɚ ˈhʌv·ər, ˈhɑv- ˈhʌv·ər, ˈhɑv-",1,0
 how, haʊ haʊ haʊ haʊ hɑʊ hɑʊ,0,0
 howdy, ˈhaʊdi ˈhɑʊd·i,0,0
@@ -24,7 +24,7 @@ however, ˌhaʊˈevɚ ˌhaʊˈevɚ ˌhaʊˈevɚ ˌhaʊˈevɚ hɑʊˈev·ər hɑ�
 howitzer, ˈhaʊɪtsɚ,0,0
 howitzers, ˈhaʊɪtsɚ,1,0
 howl, haʊl haʊl haʊl hɑʊl,0,0
-howled, haʊl haʊl haʊl,0,0
+howled, haʊl haʊl haʊl,1,0
 howler, ˈhaʊlɚ ˈhaʊlɚ,0,0
 howling, ˈhaʊlɪŋ ˈhaʊlɪŋ ˈhaʊlɪŋ ˈhaʊlɪŋ,0,0
 howls, haʊl haʊl haʊl hɑʊl,1,0
@@ -47,15 +47,15 @@ hucksters, ˈhʌkstɚ ˈhʌk·stər,1,0
 hud, hʌd hʌd,0,0
 huddle, ˈhʌdəl ˈhʌdəl ˈhʌdəl ˈhʌd·əl,0,0
 huddled, ˈhʌdəld ˈhʌdəld ˈhʌdəld,0,0
-huddling, ˈhʌdəl ˈhʌdəl ˈhʌdəl,0,0
+huddling, ˈhʌdəl ˈhʌdəl ˈhʌdəl,1,0
 hudson,,0,1
 hue, hjuː hjuː hju,0,0
 huerta,,0,1
 hues, hjuː hjuː hju,1,0
 huff, hʌf hʌf,0,0
-huffed, hʌf,0,0
+huffed, hʌf,1,0
 huffer,,0,1
-huffing, hʌf,0,0
+huffing, hʌf,1,0
 huffs, hʌf hʌf hʌf,1,0
 huffy, ˈhʌfi,0,0
 hug, hʌɡ hʌɡ hʌɡ hʌɡ,0,0
@@ -92,14 +92,14 @@ humanities, hjuˈmæn·ɪ·t̬iz,0,1
 humanity, hjuːˈmænət̬i hjuːˈmænət̬i hjuːˈmænət̬i hjuˈmæn·ɪ·t̬i hjuˈmæn·ɪ·t̬i,0,0
 humanize, ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhju·məˌnɑɪz,0,0
 humanizes, ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhju·məˌnɑɪz,1,0
-humanizing, ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhjuːmənaɪz,0,0
+humanizing, ˈhjuːmənaɪz ˈhjuːmənaɪz ˈhjuːmənaɪz,1,0
 humankind, ˌhjuːmənˈkaɪnd ˈhju·mənˌkɑɪnd,0,0
 humanly, ˈhju·mən·li,0,1
 humanness,,0,1
 humanoid, ˈhjuːmənɔɪd,0,0
 humans, ˈhjuːmən ˈhjuːmən ˈhju·mən,1,0
 humble, ˈhʌmbəl ˈhʌmbəl ˈhʌmbəl ˈhʌm·bəl ˈhʌm·bəl,0,0
-humbled, ˈhʌmbəl,0,0
+humbled, ˈhʌmbəl,1,0
 humbles, ˈhʌmbəl ˈhʌmbəl ˈhʌmbəl ˈhʌm·bəl ˈhʌm·bəl,1,0
 humblest, ˈhʌmbəl ˈhʌmbəl ˈhʌmbəl ˈhʌm·bəl ˈhʌm·bəl,1,0
 humbling, ˈhʌmbəlɪŋ,0,0
@@ -137,7 +137,7 @@ humorously, ˈhjuːmərəsli,0,0
 humour, ˈhjuːmɚ ˈhjuːmɚ,0,0
 hump, hʌmp hʌmp hʌmp hʌmp,0,0
 humpback,,0,1
-humped, hʌmp hʌmp,0,0
+humped, hʌmp hʌmp,1,0
 humph, hʌmf,0,0
 humpty,,0,1
 hums, hʌm hʌm hʌm hʌm hʌm hʌm,1,0
@@ -179,9 +179,9 @@ huntsman, ˈhʌntsmən ˈhʌntsmən,0,0
 hurdle, ˈhɝːdəl ˈhɝːdəl ˈhɜr·dəl ˈhɜr·dəl,0,0
 hurdler," ˈhɝːdlɚ ˈhɜrd·lər, -əl·ər",0,0
 hurdles,,0,1
-hurdling, ˈhɝːdəl,0,0
+hurdling, ˈhɝːdəl,1,0
 hurl, hɝːl ˈhɜrl,0,0
-hurled, hɝːl hɝːl,0,0
+hurled, hɝːl hɝːl,1,0
 hurley, ˈhɝːli ˈhɝːli,0,0
 hurling, ˈhɝːlɪŋ,0,0
 hurlock,,0,1
@@ -195,13 +195,13 @@ hurried," ˈhɝːid ˈhɜr·id, ˈhʌr·id",0,0
 hurriedly, ˈhɝːidli,0,0
 hurries," ˈhɝːi ˈhɜr·i, ˈhʌ·ri",1,0
 hurry," ˈhɝːi ˈhɜr·i, ˈhʌ·ri",0,0
-hurrying, ˈhɝːi,0,0
+hurrying, ˈhɝːi,1,0
 hurst,,0,1
 hurt, hɝːt hɝːt hɝːt hɜrt hɜrt hɜrt,0,0
 hurtful, ˈhɝːtfəl ˈhɜrt·fəl,0,0
 hurting, hɝːt hɝːt hɝːt hɜrt hɜrt hɜrt,1,0
 hurtle, ˈhɝːt̬əl ˈhɜr·t̬əl,0,0
-hurtling, ˈhɝːt̬əl,0,0
+hurtling, ˈhɝːt̬əl,1,0
 hurts, hɝːt hɝːt hɝːt hɜrt hɜrt hɜrt,1,0
 husband, ˈhʌzbənd ˈhʌz·bənd,0,0
 husbandry, ˈhʌzbəndri ˈhʌzbəndri,0,0
@@ -216,11 +216,11 @@ hussar,,0,1
 hussy, ˈhʌsi,0,0
 hustings, ˈhʌstɪŋz ˈhʌstɪŋz,0,0
 hustle, ˈhʌsəl ˈhʌsəl ˈhʌs·əl ˈhʌs·əl ˈhʌs·əl,0,0
-hustled, ˈhʌsəl ˈhʌsəl,0,0
+hustled, ˈhʌsəl ˈhʌsəl,1,0
 hustler, ˈhʌslɚ ˈhʌslɚ ˈhʌs·lər,0,0
 hustlers, ˈhʌslɚ ˈhʌslɚ ˈhʌs·lər,1,0
 hustles, ˈhʌsəl ˈhʌsəl ˈhʌsəl ˈhʌs·əl ˈhʌs·əl ˈhʌs·əl,1,0
-hustling, ˈhʌsəl ˈhʌsəl,0,0
+hustling, ˈhʌsəl ˈhʌsəl,1,0
 hut, hʌt hʌt,0,0
 hutch, hʌtʃ hʌtʃ hʌtʃ hʌtʃ,0,0
 huts, hʌt hʌt,1,0
@@ -272,7 +272,7 @@ hymnal, ˈhɪmnəl ˈhɪm·nəl,0,0
 hymnals, ˈhɪmnəl ˈhɪm·nəl,1,0
 hymns, hɪm hɪm,1,0
 hype, haɪp hɑɪp,0,0
-hyped, haɪp,0,0
+hyped, haɪp,1,0
 hyper, ˈhaɪpɚ ˈhɑɪ·pər,0,0
 hyperactive, ˌhaɪpɚˈæktɪv ˌhɑɪ·pəˈræk·tɪv,0,0
 hyperactivity, ˌhaɪpɚækˈtɪvət̬i,0,0
@@ -300,14 +300,14 @@ hyphenate, ˈhaɪfəneɪt,0,0
 hyphenated, ˈhaɪfəneɪt̬ɪd,0,0
 hyphenates, ˈhaɪfəneɪt,1,0
 hyphenation, ˌhaɪfənˈeɪʃən,0,0
-hyping, haɪp,0,0
+hyping, haɪp,1,0
 hypnosis, hɪpˈnoʊsɪs hɪpˈnoʊ·sɪs,0,0
 hypnotic, hɪpˈnɑːt̬ɪk hɪpˈnɑːt̬ɪk hɪpˈnɑt̬·ɪk,0,0
 hypnotics,,0,1
 hypnotism, ˈhɪpnətɪzəm ˈhɪp·nəˌtɪz·əm,0,0
 hypnotist, ˈhɪpnətɪst,0,0
 hypnotize, ˈhɪpnətaɪz ˈhɪpnətaɪz ˈhɪp·nəˌtɑɪz,0,0
-hypnotized, ˈhɪpnətaɪz ˈhɪpnətaɪz,0,0
+hypnotized, ˈhɪpnətaɪz ˈhɪpnətaɪz,1,0
 hypnotizes, ˈhɪpnətaɪz ˈhɪpnətaɪz ˈhɪp·nəˌtɑɪz,1,0
 hypo, ˈhaɪpoʊ ˈhaɪpoʊ,0,0
 hypochondria, ˌhaɪpoʊˈkɑːndriə ˌhɑɪ·pəˈkɑn·dri·ə,0,0
@@ -325,7 +325,7 @@ hypothermia," ˌhaɪpoʊˈθɝːmiə ˌhɑɪ·pəˈθɜr·mi·ə, -poʊ-",0,0
 hypotheses,,0,1
 hypothesis, haɪˈpɑːθəsɪs hɑɪˈpɑθ·ə·sɪs,0,0
 hypothesize, haɪˈpɑːθəsaɪz hɑɪˈpɑθ·əˌsɑɪz,0,0
-hypothesized, haɪˈpɑːθəsaɪz,0,0
+hypothesized, haɪˈpɑːθəsaɪz,1,0
 hypothetical, ˌhaɪpəˈθet̬ɪkəl ˌhɑɪ·pəˈθet̬·ɪ·kəl,0,0
 hypothetically, ˌhaɪpəˈθet̬ɪkəli,0,0
 hypoxia, haɪˈpɑːksiə haɪˈpɑːksiə,0,0
@@ -381,7 +381,7 @@ idealists," aɪˈdiːəlɪst ɑɪˈdil·ɪst, -ˈdi·ə·lɪst",1,0
 idealize," aɪˈdiːəlaɪz ɑɪˈdil·ɑɪz, -ˈdi·əˌlɑɪz",0,0
 idealized, aɪˈdiːəlaɪzd,0,0
 idealizes," aɪˈdiːəlaɪz ɑɪˈdil·ɑɪz, -ˈdi·əˌlɑɪz",1,0
-idealizing, aɪˈdiːəlaɪz,0,0
+idealizing, aɪˈdiːəlaɪz,1,0
 ideally, aɪˈdiːəli,0,0
 ideals," aɪˈdiːəl ɑɪˈdil, --ˈdi·əl",1,0
 ideas, aɪˈdiːə aɪˈdiːə aɪˈdiːə aɪˈdiːə aɪˈdiːə ɑɪˈdi·ə ɑɪˈdi·ə ɑɪˈdi·ə ɑɪˈdi·ə,1,0
@@ -391,11 +391,11 @@ identical, aɪˈdent̬əkəl ɑɪˈden·tɪ·kəl,0,0
 identifiable, aɪˌdent̬əˈfaɪəbəl ɑɪˌden·təˈfɑɪ·ə·bəl,0,0
 identification, aɪˌdent̬əfəˈkeɪʃən aɪˌdent̬əfəˈkeɪʃən ɑɪˌdent·ə·fɪˈkeɪ·ʃən ɑɪˌdent·ə·fɪˈkeɪ·ʃən,0,0
 identifications, aɪˌdent̬əfəˈkeɪʃən aɪˌdent̬əfəˈkeɪʃən ɑɪˌdent·ə·fɪˈkeɪ·ʃən ɑɪˌdent·ə·fɪˈkeɪ·ʃən,1,0
-identified, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ,0,0
+identified, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ,1,0
 identifier,,0,1
 identifies, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ ɑɪˈdent·əˌfɑɪ,1,0
 identify, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ ɑɪˈdent·əˌfɑɪ,0,0
-identifying, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ,0,0
+identifying, aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ aɪˈdent̬əfaɪ,1,0
 identities, aɪˈdent̬ət̬i aɪˈdent̬ət̬i aɪˈdent̬ət̬i ɑɪˈden·tɪ·t̬i ɑɪˈden·tɪ·t̬i,1,0
 identity, aɪˈdent̬ət̬i aɪˈdent̬ət̬i aɪˈdent̬ət̬i ɑɪˈden·tɪ·t̬i ɑɪˈden·tɪ·t̬i,0,0
 ideological, ˌaɪdiəˈlɑːdʒɪkəl,0,0
@@ -415,19 +415,19 @@ idiotic, ˌɪdiˈɑːt̬ɪk,0,0
 idiotically, ˌɪdiˈɑːt̬ɪkəli,0,0
 idiots, ˈɪdiət ˈɪd·i·ət,1,0
 idle, ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈɑɪ·dəl ˈɑɪ·dəl,0,0
-idled, ˈaɪdəl,0,0
+idled, ˈaɪdəl,1,0
 idleness, ˈaɪdəlnəs ˈaɪdəlnəs ˈaɪdəlnəs,0,0
 idler, ˈaɪdəlɚ,0,0
 idles, ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈaɪdəl ˈɑɪ·dəl ˈɑɪ·dəl,1,0
-idling, ˈaɪdəl,0,0
+idling, ˈaɪdəl,1,0
 idly, ˈaɪdli ˈaɪdli,0,0
 ido,,0,1
 idol, ˈaɪdəl ˈaɪdəl ˈɑɪ·dəl ˈɑɪ·dəl,0,0
 idolatry, aɪˈdɑːlətri aɪˈdɑːlətri,0,0
 idolize, ˈaɪdəlaɪz ˈɑɪ·dəlˌɑɪz,0,0
-idolized, ˈaɪdəlaɪz,0,0
+idolized, ˈaɪdəlaɪz,1,0
 idolizes, ˈaɪdəlaɪz ˈɑɪ·dəlˌɑɪz,1,0
-idolizing, ˈaɪdəlaɪz,0,0
+idolizing, ˈaɪdəlaɪz,1,0
 idols, ˈaɪdəl ˈaɪdəl ˈɑɪ·dəl ˈɑɪ·dəl,1,0
 ids, ɪd ˌaɪˈdiː ˌaɪˈdiː ˈɑɪˈdi,1,0
 idyll, ˈɪdəl,0,0
@@ -438,9 +438,9 @@ ifs, ɪf ɪf ɪf ɪf ɪf ɪf ɪf ɪf ɪf ɪf ɪf ɪf,1,0
 igloo, ˈɪɡluː ˈɪɡ·lu,0,0
 igneous, ˈɪɡniəs ˈɪɡ·ni·əs,0,0
 ignite, ɪɡˈnaɪt ɪɡˈnaɪt ɪɡˈnɑɪt,0,0
-ignited, ɪɡˈnaɪt ɪɡˈnaɪt,0,0
+ignited, ɪɡˈnaɪt ɪɡˈnaɪt,1,0
 ignites, ɪɡˈnaɪt ɪɡˈnaɪt ɪɡˈnɑɪt,1,0
-igniting, ɪɡˈnaɪt ɪɡˈnaɪt,0,0
+igniting, ɪɡˈnaɪt ɪɡˈnaɪt,1,0
 ignition, ɪɡˈnɪʃən ɪɡˈnɪʃən ɪɡˈnɪʃ·ən ɪɡˈnɪʃ·ən,0,0
 ignoble, ɪɡˈnoʊbəl,0,0
 ignominious, ˌɪɡnəˈmɪniəs ˌɪɡ·nəˈmɪn·i·əs,0,0
@@ -449,9 +449,9 @@ ignoramus, ˌɪɡnəˈreɪməs,0,0
 ignorance, ˈɪɡnɚəns,0,0
 ignorant, ˈɪɡnɚənt ˈɪɡnɚənt ˈɪɡ·nər·ənt,0,0
 ignore," ɪɡˈnɔːr ɪɡˈnɔr, -ˈnoʊr",0,0
-ignored, ɪɡˈnɔːr,0,0
+ignored, ɪɡˈnɔːr,1,0
 ignores," ɪɡˈnɔːr ɪɡˈnɔr, -ˈnoʊr",1,0
-ignoring, ɪɡˈnɔːr,0,0
+ignoring, ɪɡˈnɔːr,1,0
 iguana, ɪˈɡwɑːnə ɪˈɡwɑ·nə,0,0
 iguanas, ɪˈɡwɑːnə ɪˈɡwɑ·nə,1,0
 ike,,0,1

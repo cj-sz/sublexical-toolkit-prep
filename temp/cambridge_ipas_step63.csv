@@ -2,13 +2,13 @@ Word,Pronunciation,Root Word Returned,Missing
 outta, ˈaʊt̬ə ˈɑʊ·t̬ə,0,0
 outtake, ˈaʊtteɪk,0,0
 outtakes, ˈaʊtteɪk,1,0
-outvoted, ˌaʊtˈvoʊt,0,0
+outvoted, ˌaʊtˈvoʊt,1,0
 outward, ˈaʊtwɚd ˈaʊtwɚd ˈaʊtwɚd ˈɑʊt·wərd,0,0
 outwardly, ˈaʊtwɚdli,0,0
 outwards, ˈaʊtwɚdz,0,0
 outweigh, ˌaʊtˈweɪ ˌɑʊtˈweɪ,0,0
-outweighed, ˌaʊtˈweɪ,0,0
-outweighing, ˌaʊtˈweɪ,0,0
+outweighed, ˌaʊtˈweɪ,1,0
+outweighing, ˌaʊtˈweɪ,1,0
 outweighs, ˌaʊtˈweɪ ˌɑʊtˈweɪ,1,0
 outwit, ˌaʊtˈwɪt ˌɑʊtˈwɪt,0,0
 outwitted, ˌaʊtˈwɪt ˌɑʊtˈwɪt,1,0
@@ -34,8 +34,8 @@ overbearing, ˌoʊvɚˈberɪŋ ˌoʊ·vərˈbeər·ɪŋ,0,0
 overbill,,0,1
 overblown, ˌoʊvɚˈbloʊn ˈoʊ·vərˈbloʊn,0,0
 overboard," ˈoʊvɚbɔːrd ˈoʊ·vərˌbɔrd, -ˌboʊrd",0,0
-overbooked, ˌoʊvɚˈbʊk,0,0
-overbooking, ˌoʊvɚˈbʊk,0,0
+overbooked, ˌoʊvɚˈbʊk,1,0
+overbooking, ˌoʊvɚˈbʊk,1,0
 overbuilt,,0,1
 overburden, ˌoʊvɚˈbɝːdən,0,0
 overburdened, ˌoʊ·vərˈbɜr·dənd,0,0
@@ -43,7 +43,7 @@ overby,,0,1
 overcame,,0,1
 overcast," ˈoʊvɚkæst ˈoʊ·vərˌkæst, ˌoʊ·vərˈkæst",0,0
 overcharge, ˌoʊvɚˈtʃɑːrdʒ,0,0
-overcharged, ˌoʊvɚˈtʃɑːrdʒ,0,0
+overcharged, ˌoʊvɚˈtʃɑːrdʒ,1,0
 overcharges, ˌoʊvɚˈtʃɑːrdʒ,1,0
 overcharging,,0,1
 overcoat, ˈoʊvɚkoʊt ˈoʊ·vərˌkoʊt,0,0
@@ -54,8 +54,8 @@ overcoming,,0,1
 overconfidence, ˌoʊvɚˈkɑːnfədəns,0,0
 overconfident, ˌoʊvɚˈkɑːnfədənt,0,0
 overcook, ˌoʊvɚˈkʊk ˌoʊvɚˈkʊk,0,0
-overcooked, ˌoʊvɚˈkʊk ˌoʊvɚˈkʊk,0,0
-overcooking, ˌoʊvɚˈkʊk ˌoʊvɚˈkʊk,0,0
+overcooked, ˌoʊvɚˈkʊk ˌoʊvɚˈkʊk,1,0
+overcooking, ˌoʊvɚˈkʊk ˌoʊvɚˈkʊk,1,0
 overcrowd, ˌoʊvɚˈkraʊd,0,0
 overcrowded, ˌoʊvɚˈkraʊdɪd ˌoʊ·vərˈkrɑʊ·dɪd,0,0
 overcrowding, ˌoʊvɚˈkraʊdɪŋ,0,0
@@ -66,9 +66,9 @@ overdoes, ˌoʊvɚˈduː ˌoʊ·vərˈdu,1,0
 overdoing, ˌoʊvɚˈduː ˌoʊ·vərˈdu,1,0
 overdone, ˌoʊvɚˈdʌn ˌoʊ·vərˈdʌn,0,0
 overdose, ˈoʊvɚdoʊs ˈoʊvɚdoʊs ˈoʊ·vərˌdoʊs,0,0
-overdosed, ˈoʊvɚdoʊs ˈoʊvɚdoʊs,0,0
+overdosed, ˈoʊvɚdoʊs ˈoʊvɚdoʊs,1,0
 overdoses, ˈoʊvɚdoʊs ˈoʊvɚdoʊs ˈoʊ·vərˌdoʊs,1,0
-overdosing, ˈoʊvɚdoʊs ˈoʊvɚdoʊs,0,0
+overdosing, ˈoʊvɚdoʊs ˈoʊvɚdoʊs,1,0
 overdraft, ˈoʊvɚdræft ˈəʊvərˌdræft,0,0
 overdrawn, ˌoʊvɚˈdrɑːn ˌoʊ·vərˈdrɔn,0,0
 overdress,,0,1
@@ -79,9 +79,9 @@ overeat, ˌoʊvɚˈiːt ˌoʊ·vərˈit,0,0
 overeating, ˌoʊvɚˈiːt̬ɪŋ,0,0
 overemphasized, ˌoʊvɚˈemfəsaɪz,1,0
 overestimate, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊ·vərˈes·təˌmeɪt,0,0
-overestimated, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt,0,0
+overestimated, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt,1,0
 overestimates, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊ·vərˈes·təˌmeɪt,1,0
-overestimating, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt,0,0
+overestimating, ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt ˌoʊvɚˈestəmeɪt,1,0
 overexcite, ˌoʊvɚɪkˈsaɪt,0,0
 overexcited, ˌoʊvɚɪkˈsaɪt̬ɪd ˌoʊvɚɪkˈsaɪt̬ɪd,0,0
 overexpose, ˌoʊvɚɪkˈspoʊz ˌoʊvɚɪkˈspoʊz ˌoʊvɚɪkˈspoʊz,0,0
@@ -95,15 +95,15 @@ overfill,,0,1
 overfishing, ˌoʊvɚˈfɪʃɪŋ,0,0
 overflight, ˈoʊvɚflaɪt,0,0
 overflow, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊ·vərˈfloʊ,0,0
-overflowed, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ,0,0
-overflowing, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ,0,0
+overflowed, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ,1,0
+overflowing, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ,1,0
 overflows, ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊvɚˈfloʊ ˌoʊ·vərˈfloʊ,1,0
 overgrown, ˌoʊvɚˈɡroʊn ˌoʊvɚˈɡroʊn ˌoʊvɚˈɡroʊn ˌoʊ·vərˈɡroʊn ˌoʊ·vərˈɡroʊn,0,0
 overhang, ˌoʊvɚˈhæŋ ˌoʊvɚˈhæŋ ˌoʊ·vərˈhæŋ,0,0
 overhanging, ˈoʊvɚˈhæŋɪŋ,0,0
 overhaul, oʊvɚˈhɑːl oʊvɚˈhɑːl oʊvɚˈhɑːl ˌoʊ·vərˈhɔl,0,0
-overhauled, oʊvɚˈhɑːl oʊvɚˈhɑːl oʊvɚˈhɑːl,0,0
-overhauling, oʊvɚˈhɑːl oʊvɚˈhɑːl oʊvɚˈhɑːl,0,0
+overhauled, oʊvɚˈhɑːl oʊvɚˈhɑːl oʊvɚˈhɑːl,1,0
+overhauling, oʊvɚˈhɑːl oʊvɚˈhɑːl oʊvɚˈhɑːl,1,0
 overhead, ˈoʊvɚhed ˈoʊ·vərˌhed,0,0
 overheads,,0,1
 overhear, ˌoʊvɚˈhɪr ˌoʊ·vərˈhɪər,0,0
@@ -127,12 +127,12 @@ overlay, ˌoʊvɚˈleɪ,0,0
 overlays, ˌoʊvɚˈleɪ ˌoʊvɚˈleɪ,1,0
 overload, ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊ·vərˈloʊd ˌoʊ·vərˈloʊd,0,0
 overloaded, ˌoʊvɚˈloʊdɪd,0,0
-overloading, ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd,0,0
+overloading, ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd,1,0
 overloads, ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊvɚˈloʊd ˌoʊ·vərˈloʊd ˌoʊ·vərˈloʊd,1,0
 overlock,,0,1
 overlook, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊ·vərˈlʊk ˌoʊ·vərˈlʊk ˌoʊ·vərˈlʊk,0,0
-overlooked, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk,0,0
-overlooking, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk,0,0
+overlooked, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk,1,0
+overlooking, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk,1,0
 overlooks, ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊvɚˈlʊk ˌoʊ·vərˈlʊk ˌoʊ·vərˈlʊk ˌoʊ·vərˈlʊk,1,0
 overlord, ˈoʊvɚlɔːrd,0,0
 overlords, ˈoʊvɚlɔːrd,1,0
@@ -149,8 +149,8 @@ overpay, ˌoʊvɚˈpeɪ ˌoʊvɚˈpeɪ,0,0
 overpaying, ˌoʊvɚˈpeɪ ˌoʊvɚˈpeɪ,1,0
 overpayment, ˌoʊvɚˈpeɪmənt,0,0
 overplay, ˌoʊvɚˈpleɪ,0,0
-overplayed, ˌoʊvɚˈpleɪ,0,0
-overplaying, ˌoʊvɚˈpleɪ,0,0
+overplayed, ˌoʊvɚˈpleɪ,1,0
+overplaying, ˌoʊvɚˈpleɪ,1,0
 overpopulate,,0,1
 overpopulated, ˌoʊvɚˈpɑːpjəleɪt̬ɪd ˌoʊ·vərˈpɑp·jəˌleɪ·t̬ɪd,0,0
 overpopulation, ˌoʊvɚˌpɑːpjəˈleɪʃən,0,0
@@ -162,8 +162,8 @@ overprice,,0,1
 overpriced, ˌoʊvɚˈpraɪst ˌoʊ·vərˈprɑɪst,0,0
 overpricing,,0,1
 overproduce, ˌoʊvɚprəˈduːs ˌəʊvərprəˈduːs,0,0
-overproduced, ˌoʊvɚprəˈduːs,0,0
-overproducing, ˌoʊvɚprəˈduːs,0,0
+overproduced, ˌoʊvɚprəˈduːs,1,0
+overproducing, ˌoʊvɚprəˈduːs,1,0
 overproduction, ˌoʊvɚprəˈdʌkʃən,0,0
 overprotect,,0,1
 overprotected,,0,1
@@ -173,11 +173,11 @@ overran, ˌoʊvɚˈræn ˌoʊ·vərˈræn,0,0
 overrate, ˌoʊvɚˈreɪt,0,0
 overrated, ˌoʊvɚˈreɪt̬ɪd ˌoʊ·vərˈreɪ·t̬ɪd,0,0
 overreach, ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ,0,0
-overreached, ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ,0,0
-overreaching, ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ,0,0
+overreached, ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ,1,0
+overreaching, ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ ˌoʊvɚˈriːtʃ,1,0
 overreact, ˌoʊvɚriˈækt ˌoʊ·vər·riˈækt,0,0
-overreacted, ˌoʊvɚriˈækt,0,0
-overreacting, ˌoʊvɚriˈækt,0,0
+overreacted, ˌoʊvɚriˈækt,1,0
+overreacting, ˌoʊvɚriˈækt,1,0
 overreaction, ˌoʊvɚriˈækʃən,0,0
 overreacts, ˌoʊvɚriˈækt ˌoʊ·vər·riˈækt,1,0
 overridden,,0,1
@@ -187,9 +187,9 @@ overriding, ˌoʊvɚˈraɪdɪŋ ˌoʊ·vərˈrɑɪ·dɪŋ,0,0
 overripe, ˌoʊvɚˈraɪp,0,0
 overrode,,0,1
 overrule, ˌoʊvɚˈruːl ˌoʊ·vərˈrul,0,0
-overruled, ˌoʊvɚˈruːl,0,0
+overruled, ˌoʊvɚˈruːl,1,0
 overrules, ˌoʊvɚˈruːl ˌoʊ·vərˈrul,1,0
-overruling, ˌoʊvɚˈruːl,0,0
+overruling, ˌoʊvɚˈruːl,1,0
 overrun, ˌoʊvɚˈrʌn ˌoʊvɚˈrʌn ˌoʊ·vərˈrʌn,0,0
 overrunning,,0,1
 overruns, ˌoʊvɚˈrʌn ˌoʊvɚˈrʌn ˌoʊ·vərˈrʌn,1,0
@@ -207,17 +207,17 @@ oversell, ˌoʊvɚˈsel,0,0
 overselling, ˌoʊvɚˈsel,1,0
 oversensitive, ˌoʊvɚˈsensət̬ɪv ˌoʊvɚˈsensət̬ɪv,0,0
 overshadow, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ ˌoʊ·vərˈʃæd·oʊ,0,0
-overshadowed, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ,0,0
-overshadowing, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ,0,0
+overshadowed, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ,1,0
+overshadowing, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ,1,0
 overshadows, ˌoʊvɚˈʃædoʊ ˌoʊvɚˈʃædoʊ ˌoʊ·vərˈʃæd·oʊ,1,0
 overshoot, ˌoʊvɚˈʃuːt ˌoʊ·vərˈʃut,0,0
 overshooting, ˌoʊvɚˈʃuːt ˌoʊ·vərˈʃut,1,0
 overshot,,0,1
 oversight, ˈoʊvɚsaɪt ˈoʊvɚsaɪt ˈoʊ·vərˌsɑɪt ˈoʊ·vərˌsɑɪt,0,0
 oversimplification, ˌoʊvɚˌsɪmpləfəˈkeɪʃən,0,0
-oversimplified, ˌoʊvɚˈsɪmpləfaɪ,0,0
+oversimplified, ˌoʊvɚˈsɪmpləfaɪ,1,0
 oversimplify, ˌoʊvɚˈsɪmpləfaɪ ˌoʊ·vərˈsɪm·pləˌfɑɪ,0,0
-oversimplifying, ˌoʊvɚˈsɪmpləfaɪ,0,0
+oversimplifying, ˌoʊvɚˈsɪmpləfaɪ,1,0
 oversized, ˈoʊ·vərˌsɑɪzd,0,0
 oversleep, ˌoʊvɚˈsliːp ˌoʊ·vərˈslip,0,0
 overslept,,0,1
@@ -227,17 +227,17 @@ overspending, ˌoʊvɚˈspendɪŋ,0,0
 overspent,,0,1
 overstaffed, ˌoʊvɚˈstæft ˌəʊvərˈstæft,0,0
 overstate, ˌoʊvɚˈsteɪt ˌoʊ·vərˈsteɪt,0,0
-overstated, ˌoʊvɚˈsteɪt,0,0
+overstated, ˌoʊvɚˈsteɪt,1,0
 overstatement, ˌoʊvɚˈsteɪtmənt,0,0
 overstates, ˌoʊvɚˈsteɪt ˌoʊ·vərˈsteɪt,1,0
-overstating, ˌoʊvɚˈsteɪt,0,0
+overstating, ˌoʊvɚˈsteɪt,1,0
 overstay, ˌoʊvɚˈsteɪ,0,0
-overstayed, ˌoʊvɚˈsteɪ,0,0
+overstayed, ˌoʊvɚˈsteɪ,1,0
 overstep, ˌoʊvɚˈstep ˌoʊ·vərˈstep,0,0
 overstepped, ˌoʊvɚˈstep ˌoʊ·vərˈstep,1,0
 overstepping, ˌoʊvɚˈstep ˌoʊ·vərˈstep,1,0
 overstock, ˌoʊvɚˈstɑːk,0,0
-overstocked, ˌoʊvɚˈstɑːk,0,0
+overstocked, ˌoʊvɚˈstɑːk,1,0
 overstuff,,0,1
 overstuffed, ˌoʊvɚˈstʌft ˌoʊvɚˈstʌft,0,0
 overt, oʊˈvɝːt oʊˈvɜrt,0,0
@@ -246,7 +246,7 @@ overtaken,,0,1
 overtakes, ˌoʊvɚˈteɪk ˌoʊvɚˈteɪk ˌoʊvɚˈteɪk ˌoʊ·vərˈteɪk ˌoʊ·vərˈteɪk,1,0
 overtaking,,0,1
 overtax, ˌoʊvɚˈtæks ˌoʊvɚˈtæks,0,0
-overtaxed, ˌoʊvɚˈtæks ˌoʊvɚˈtæks,0,0
+overtaxed, ˌoʊvɚˈtæks ˌoʊvɚˈtæks,1,0
 overthrew,,0,1
 overthrow, ˌoʊvɚˈθroʊ ˌoʊvɚˈθroʊ ˌoʊ·vərˈθroʊ,0,0
 overthrowing, ˌoʊvɚˈθroʊ ˌoʊvɚˈθroʊ ˌoʊ·vərˈθroʊ,1,0
@@ -262,25 +262,25 @@ overtraining,,0,1
 overture," ˈoʊvɚtʃɚ ˈoʊvɚtʃɚ ˈoʊ·vər·tʃər, -ˌtʃʊr ˈoʊ·vər·tʃər, -ˌtʃʊr",0,0
 overtures," ˈoʊvɚtʃɚ ˈoʊvɚtʃɚ ˈoʊ·vər·tʃər, -ˌtʃʊr ˈoʊ·vər·tʃər, -ˌtʃʊr",1,0
 overturn, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊ·vərˈtɜrn ˌoʊ·vərˈtɜrn,0,0
-overturned, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn,0,0
-overturning, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn,0,0
+overturned, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn,1,0
+overturning, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn,1,0
 overturns, ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊvɚˈtɝːn ˌoʊ·vərˈtɜrn ˌoʊ·vərˈtɜrn,1,0
 overuse, ˌoʊvɚˈjuːz ˌoʊ·vərˈjuz,0,0
-overused, ˌoʊvɚˈjuːz,0,0
-overusing, ˌoʊvɚˈjuːz,0,0
-overvalued, ˌoʊvɚˈvæljuː,0,0
+overused, ˌoʊvɚˈjuːz,1,0
+overusing, ˌoʊvɚˈjuːz,1,0
+overvalued, ˌoʊvɚˈvæljuː,1,0
 overview, ˈoʊvɚvjuː ˈoʊ·vərˌvju,0,0
 overviews, ˈoʊvɚvjuː ˈoʊ·vərˌvju,1,0
 overweight, ˌoʊvɚˈweɪt ˌoʊvɚˈweɪt ˈoʊ·vərˈweɪt,0,0
 overweighted,,0,1
 overwhelm," ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊ·vərˈhwelm, -ˈwelm ˌoʊ·vərˈhwelm, -ˈwelm",0,0
-overwhelmed, ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm,0,0
+overwhelmed, ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm,1,0
 overwhelming," ˌoʊvɚˈwelmɪŋ ˌoʊvɚˈwelmɪŋ ˌoʊ·vərˈhwel·mɪŋ, -ˈwel·mɪŋ",0,0
 overwhelmingly, ˌoʊvɚˈwelmɪŋli,0,0
 overwhelms," ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊvɚˈwelm ˌoʊ·vərˈhwelm, -ˈwelm ˌoʊ·vərˈhwelm, -ˈwelm",1,0
 overwork, ˌoʊvɚˈwɝːk ˌoʊ·vərˈwɜrk,0,0
 overworked, ˌoʊvɚˈwɝːkt ˌoʊvɚˈwɝːkt,0,0
-overworking, ˌoʊvɚˈwɝːk,0,0
+overworking, ˌoʊvɚˈwɝːk,1,0
 overworks, ˌoʊvɚˈwɝːk ˌoʊ·vərˈwɜrk,1,0
 overwrite, ˌoʊvɚˈraɪt ˌoʊvɚˈraɪt,0,0
 overwrites, ˌoʊvɚˈraɪt ˌoʊvɚˈraɪt,1,0
@@ -294,7 +294,7 @@ ovulations,,0,1
 ovum, ˈoʊvəm ˈoʊ·vəm,0,0
 ow, aʊ ɑʊ,0,0
 owe, oʊ oʊ oʊ oʊ,0,0
-owed, oʊ oʊ,0,0
+owed, oʊ oʊ,1,0
 owes, oʊ oʊ oʊ oʊ,1,0
 owing, ˈoʊɪŋ,0,0
 owl, aʊl aʊl ɑʊl,0,0
@@ -304,7 +304,7 @@ owned,  -oʊnd,1,0
 owner, ˈoʊnɚ,0,0
 owners, ˈoʊnɚ,1,0
 ownership, ˈoʊnɚʃɪp ˈoʊ·nərˌʃɪp,0,0
-owning, oʊn oʊn oʊn oʊn,0,0
+owning, oʊn oʊn oʊn oʊn,1,0
 owns, oʊn oʊn oʊn oʊn oʊn oʊn,1,0
 ox, ɑːks ɑks,0,0
 oxbow,,0,1
@@ -316,14 +316,14 @@ oxidants,,0,1
 oxidation, ˌɑːksəˈdeɪʃən ˌɑk·sɪˈdeɪ·ʃən ˌɑk·sɪˈdeɪ·ʃən,0,0
 oxide, ˈɑːksaɪd ˈɑk·sɑɪd,0,0
 oxides, ˈɑːksaɪd ˈɑk·sɑɪd,1,0
-oxidized, ˈɑːksədaɪz ˈɑːksədaɪz,0,0
+oxidized, ˈɑːksədaɪz ˈɑːksədaɪz,1,0
 oxidizer,,0,1
-oxidizing, ˈɑːksədaɪz ˈɑːksədaɪz,0,0
+oxidizing, ˈɑːksədaɪz ˈɑːksədaɪz,1,0
 oxman,,0,1
 oxy,,0,1
 oxygen, ˈɑːksɪdʒən ˈɑk·sɪ·dʒən,0,0
 oxygenate, ˈɑːksɪdʒəneɪt ˈɑk·sɪ·dʒəˌneɪt,0,0
-oxygenated, ˈɑːksɪdʒəneɪt,0,0
+oxygenated, ˈɑːksɪdʒəneɪt,1,0
 oxymoron," ˌɑːksɪˈmɔːrɑːn ˌɑk·sɪˈmɔr·ɑn, -ˈmoʊr-",0,0
 oxytocin, ˌɑːksɪˈtoʊsɪn,0,0
 oy, ɔɪ ɔɪ,0,0
@@ -340,7 +340,7 @@ pablum,,0,1
 pac, pæk pæk,0,0
 paca,,0,1
 pace, peɪs peɪs peɪs peɪs,0,0
-paced, peɪs peɪs peɪs,0,0
+paced, peɪs peɪs peɪs,1,0
 pacemaker, ˈpeɪsˌmeɪkɚ ˈpeɪsˌmeɪkɚ ˈpeɪsˌmeɪ·kər,0,0
 pacemakers, ˈpeɪsˌmeɪkɚ ˈpeɪsˌmeɪkɚ ˈpeɪsˌmeɪ·kər,1,0
 pacer,,0,1
@@ -352,14 +352,14 @@ pacific, pəˈsɪfɪk,0,0
 pacifica,,0,1
 pacification, ˌpæsəfəˈkeɪʃən,0,0
 pacifico,,0,1
-pacified, ˈpæsəfaɪ ˈpæsəfaɪ,0,0
+pacified, ˈpæsəfaɪ ˈpæsəfaɪ,1,0
 pacifier, ˈpæsəfaɪɚ ˈpæsəfaɪɚ ˈpæs·əˌfɑɪ·ər,0,0
 pacifiers, ˈpæsəfaɪɚ ˈpæsəfaɪɚ ˈpæs·əˌfɑɪ·ər,1,0
 pacifism, ˈpæsəfɪzəm ˈpæs·əˌfɪz·əm,0,0
 pacifist, ˈpæsəfɪst,0,0
 pacifists, ˈpæsəfɪst,1,0
 pacify, ˈpæsəfaɪ ˈpæsəfaɪ ˈpæs·əˌfɑɪ ˈpæs·əˌfɑɪ,0,0
-pacing, peɪs peɪs peɪs,0,0
+pacing, peɪs peɪs peɪs,1,0
 pack, pæk pæk pæk pæk pæk pæk pæk pæk,0,0
 package, ˈpækɪdʒ ˈpækɪdʒ ˈpækɪdʒ ˈpækɪdʒ ˈpækɪdʒ ˈpæk·ɪdʒ ˈpæk·ɪdʒ,0,0
 packaged, ˈpækɪdʒd,0,0
@@ -383,13 +383,13 @@ padded, ˈpædɪd ˈpædɪd ˈpædɪd,0,0
 paddies, ˈpædi ˈpædi,1,0
 padding, ˈpædɪŋ ˈpædɪŋ,0,0
 paddle, ˈpædəl ˈpædəl ˈpædəl ˈpæd·əl ˈpæd·əl,0,0
-paddled, ˈpædəl ˈpædəl ˈpædəl ˈpædəl,0,0
+paddled, ˈpædəl ˈpædəl ˈpædəl ˈpædəl,1,0
 paddles, ˈpædəl ˈpædəl ˈpædəl ˈpæd·əl ˈpæd·əl,1,0
-paddling, ˈpædəl ˈpædəl ˈpædəl ˈpædəl,0,0
+paddling, ˈpædəl ˈpædəl ˈpædəl ˈpædəl,1,0
 paddock, ˈpædək ˈpædək ˈpædək,0,0
 paddy, ˈpædi,0,0
 padlock, ˈpædlɑːk ˈpædˌlɑk,0,0
-padlocked, ˈpædlɑːk,0,0
+padlocked, ˈpædlɑːk,1,0
 padlocks, ˈpædlɑːk ˈpædˌlɑk,1,0
 padre, ˈpɑːdri,0,0
 padres, ˈpɑːdri,1,0
@@ -401,11 +401,11 @@ page, peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ,0,
 pageant, ˈpædʒənt ˈpædʒənt ˈpædʒənt ˈpædʒ·ənt,0,0
 pageantry, ˈpædʒəntri,0,0
 pageants, ˈpædʒənt ˈpædʒənt ˈpædʒənt ˈpædʒ·ənt,1,0
-paged, peɪdʒ peɪdʒ,0,0
+paged, peɪdʒ peɪdʒ,1,0
 pager, ˈpeɪdʒɚ ˈpeɪ·dʒər,0,0
 pagers, ˈpeɪdʒɚ ˈpeɪ·dʒər,1,0
 pages, peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ peɪdʒ,1,0
-paging, peɪdʒ peɪdʒ,0,0
+paging, peɪdʒ peɪdʒ,1,0
 pagoda, pəˈɡoʊdə pəˈɡoʊ·də,0,0
 pagodas, pəˈɡoʊdə pəˈɡoʊ·də,1,0
 pah,,0,1
@@ -429,7 +429,7 @@ paint, peɪnt peɪnt,0,0
 paintball, ˈpeɪntbɑːl,0,0
 paintbrush, ˈpeɪntbrʌʃ ˈpeɪntˌbrʌʃ,0,0
 paintbrushes, ˈpeɪntbrʌʃ ˈpeɪntˌbrʌʃ,1,0
-painted, peɪnt peɪnt peɪnt,0,0
+painted, peɪnt peɪnt peɪnt,1,0
 painter, ˈpeɪnt̬ɚ ˈpeɪnt̬ɚ ˈpeɪn·tər,0,0
 painterly, ˈpeɪntɚli,0,0
 painters, ˈpeɪnt̬ɚ ˈpeɪnt̬ɚ ˈpeɪn·tər,1,0
@@ -460,7 +460,7 @@ palatial, pəˈleɪʃəl pəˈleɪ·ʃəl,0,0
 palatine, ˈpælətaɪn,0,0
 palazzo, pəˈlɑːtsoʊ,0,0
 pale, peɪl peɪl peɪl,0,0
-paled, peɪl,0,0
+paled, peɪl,1,0
 paleontologist,,0,1
 paleontologists,,0,1
 paleontology," ˌpeɪ·li·ənˈtɑl·ə·dʒi, ˌpæl·i-",0,0

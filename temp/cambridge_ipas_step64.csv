@@ -8,7 +8,7 @@ palomino, ˌpæləˈmiːnoʊ,0,0
 palpable, ˈpælpəbəl ˈpæl·pə·bəl,0,0
 palpitate, ˈpælpəteɪt,0,0
 palpitates, ˈpælpəteɪt,1,0
-palpitating, ˈpælpəteɪt,0,0
+palpitating, ˈpælpəteɪt,1,0
 palpitation, ˌpælpəˈteɪʃən ˌpæl·pəˈteɪ·ʃənz,0,0
 palpitations, ˌpælpəˈteɪʃən ˌpælpəˈteɪʃən ˌpæl·pəˈteɪ·ʃənz,1,0
 pals, pæl pæl pæl,1,0
@@ -18,7 +18,7 @@ pam,,0,1
 pampas, ˈpæmpəs,0,0
 pamper, ˈpæmpɚ ˈpæm·pər,0,0
 pampered, ˈpæmpɚd,0,0
-pampering, ˈpæmpɚ,0,0
+pampering, ˈpæmpɚ,1,0
 pampers, ˈpæmpɚ ˈpæm·pər,1,0
 pamphlet, ˈpæmflət ˈpæm·flɪt,0,0
 pamphlets, ˈpæmflət ˈpæm·flɪt,1,0
@@ -54,7 +54,7 @@ pangs, pæŋ pæŋ,1,0
 panhandle, ˈpænˌhændəl ˈpænˌhæn·dəl,0,0
 panhandler, ˈpænˌhændlɚ,0,0
 panhandlers, ˈpænˌhændlɚ,1,0
-panhandling, ˈpænˌhændəl,0,0
+panhandling, ˈpænˌhændəl,1,0
 panic, ˈpænɪk ˈpæn·ɪk ˈpæn·ɪk,0,0
 panicked,,0,1
 panicking,,0,1
@@ -77,7 +77,7 @@ pantheon, ˈpænθiɑːn ˈpænθiɑːn ˈpænθiɑːn,0,0
 panther, ˈpænθɚ ˈpæn·θər,0,0
 panthers, ˈkuːɡɚ ˈkuːɡɚ ˈku·ɡər,1,0
 panties, ˈpænt̬iz ˈpæn·tiz,0,0
-panting, pænt,0,0
+panting, pænt,1,0
 pantomime, ˈpænt̬əmaɪm ˈpænt̬əmaɪm ˈpæn·təˌmɑɪm,0,0
 pantry, ˈpæntri ˈpæn·tri,0,0
 pants, pænts pænts pænts pænts pænts,0,0
@@ -102,8 +102,8 @@ paperback, ˈpeɪpɚbæk ˈpeɪ·pərˌbæk,0,0
 paperbacks, ˈpeɪpɚbæk ˈpeɪ·pərˌbæk,1,0
 paperboy,,0,1
 paperboys,,0,1
-papered, ˈpeɪpɚ,0,0
-papering, ˈpeɪpɚ,0,0
+papered, ˈpeɪpɚ,1,0
+papering, ˈpeɪpɚ,1,0
 paperless, ˈpeɪpɚləs,0,0
 papermaking,,0,1
 papers, ˈpeɪ·pərz,0,0
@@ -120,16 +120,16 @@ parable, ˈperəbəl ˈpær·ə·bəl,0,0
 parables, ˈperəbəl ˈpær·ə·bəl,1,0
 parabolic, ˌperəˈbɑːlɪk,0,0
 parachute, ˈperəʃuːt ˈpær·əˌʃut,0,0
-parachuted, ˈperəʃuːt ˈperəʃuːt ˈperəʃuːt,0,0
+parachuted, ˈperəʃuːt ˈperəʃuːt ˈperəʃuːt,1,0
 parachutes, ˈperəʃuːt ˈpær·əˌʃut,1,0
-parachuting, ˈperəʃuːt ˈperəʃuːt ˈperəʃuːt,0,0
+parachuting, ˈperəʃuːt ˈperəʃuːt ˈperəʃuːt,1,0
 parada,,0,1
 parade, pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd,0,0
-paraded, pəˈreɪd pəˈreɪd,0,0
+paraded, pəˈreɪd pəˈreɪd,1,0
 parades, pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd pəˈreɪd,1,0
 paradigm, ˈperədaɪm ˈpær·əˌdɑɪm,0,0
 paradigms, ˈperədaɪm ˈpær·əˌdɑɪm,1,0
-parading, pəˈreɪd pəˈreɪd,0,0
+parading, pəˈreɪd pəˈreɪd,1,0
 paradise," ˈperədaɪs ˈpær·əˌdɑɪs, -ˌdɑɪz ˈpær·əˌdɑɪs, -ˌdɑɪz",0,0
 paradox, ˈperədɑːks ˈpær·əˌdɑks,0,0
 paradoxes, ˈperədɑːks ˈpær·əˌdɑks,1,0
@@ -146,7 +146,7 @@ parakeets, ˈperəkiːt ˈpær·əˌkit,1,0
 paralegal, ˌperəˈliːɡəl,0,0
 paralegals, ˌperəˈliːɡəl,1,0
 parallel," ˈperəlel ˈperəlel ˈperəlel ˈpær·əˌlel, -ləl ˈpær·əˌlel, -ləl",0,0
-paralleled, ˈperəlel,0,0
+paralleled, ˈperəlel,1,0
 parallelism," ˈperəlelˌɪzəm ˈpær·ə·lelˌɪz·əm, -ləˌlɪz·əm",0,0
 parallels," ˈperəlel ˈperəlel ˈperəlel ˈperəlel ˈperəlel ˈpær·əˌlel, -ləl ˈpær·əˌlel, -ləl",1,0
 paralysis, pəˈræləsɪs pəˈræləsɪs pəˈræl·ə·sɪs,0,0
@@ -169,7 +169,7 @@ paranormal, ˌperəˈnɔːrməl,0,0
 parapet, ˈperəpet,0,0
 paraphernalia," ˌperəfɚˈneɪljə ˌpær·ə·fərˈneɪl·jə, -fə-",0,0
 paraphrase, ˈperəfreɪz ˈpær·əˌfreɪz,0,0
-paraphrasing, ˈperəfreɪz,0,0
+paraphrasing, ˈperəfreɪz,1,0
 paraplegia, ˌperəˈpliːdʒə,0,0
 paraplegic, ˌperəˈpliːdʒɪk ˌpær·əˈpli·dʒɪk,0,0
 parasite, ˈperəsaɪt ˈperəsaɪt ˈpær·əˌsɑɪt ˈpær·əˌsɑɪt,0,0
@@ -180,7 +180,7 @@ paratrooper, ˈperˌtruːpɚ ˈpær·əˌtru·pər,0,0
 paratroopers, ˈperˌtruːpɚ ˈpær·əˌtru·pər,1,0
 paratroops, ˈperətruːps,0,0
 parboil, ˈpɑːrbɔɪl,0,0
-parboiling, ˈpɑːrbɔɪl,0,0
+parboiling, ˈpɑːrbɔɪl,1,0
 parc,,0,1
 parcel, ˈpɑːrsəl ˈpɑːrsəl ˈpɑr·səl ˈpɑr·səl,0,0
 parceled,,0,1
@@ -191,11 +191,11 @@ parcher,,0,1
 parchment, ˈpɑːrtʃmənt ˈpɑːrtʃmənt ˈpɑrtʃ·mənt,0,0
 pardo,,0,1
 pardon, ˈpɑːrdən ˈpɑːrdən ˈpɑr·dən ˈpɑr·dən,0,0
-pardoned, ˈpɑːrdən ˈpɑːrdən,0,0
-pardoning, ˈpɑːrdən ˈpɑːrdən,0,0
+pardoned, ˈpɑːrdən ˈpɑːrdən,1,0
+pardoning, ˈpɑːrdən ˈpɑːrdən,1,0
 pardons, ˈpɑːrdən ˈpɑːrdən ˈpɑr·dən ˈpɑr·dən,1,0
 pare, per per peər,0,0
-pared, per per,0,0
+pared, per per,1,0
 parent," ˈperənt ˈperənt ˈpeər·ənt, ˈpær- ˈpeər·ənt, ˈpær-",0,0
 parentage," ˈperəntɪdʒ ˈpeər·ən·tɪdʒ, ˈpær-",0,0
 parental, pəˈrentəl,0,0
@@ -235,7 +235,7 @@ parks, pɑːrk pɑːrk pɑːrk pɑːrk pɑrk,1,0
 parkway, ˈpɑːrkweɪ ˈpɑrkˌweɪ,0,0
 parlance, ˈpɑːrləns,0,0
 parlay, ˈpɑːrleɪ,0,0
-parlayed, ˈpɑːrleɪ,0,0
+parlayed, ˈpɑːrleɪ,1,0
 parlays, ˈpɑːrleɪ,1,0
 parley, ˈpɑːrli,0,0
 parliament, ˈpɑːrləmənt ˈpɑːrləmənt ˈpɑr·lə·mənt ˈpɑr·lə·mənt,0,0
@@ -250,13 +250,13 @@ parochial, pəˈroʊkiəl pəˈroʊkiəl pəˈroʊ·ki·əl pəˈroʊ·ki·əl,0
 parodies, ˈperədi ˈperədi ˈpær·ə·di,1,0
 parody, ˈperədi ˈperədi ˈpær·ə·di,0,0
 parole, pəˈroʊl pəˈroʊl,0,0
-paroled, pəˈroʊl,0,0
+paroled, pəˈroʊl,1,0
 parolee,,0,1
 parolees,,0,1
 paroles, pəˈroʊl pəˈroʊl,1,0
 parquet, pɑːrˈkeɪ pɑrˈkeɪ,0,0
 parr,,0,1
-parried, ˈperi ˈperi,0,0
+parried, ˈperi ˈperi,1,0
 parrot, ˈperət ˈpær·ət,0,0
 parrots, ˈperət ˈpær·ət,1,0
 parry, ˈperi ˈperi,0,0
@@ -266,7 +266,7 @@ parsec,,0,1
 parser,,0,1
 parsifal,,0,1
 parsimonious, ˌpɑːrsəˈmoʊniəs ˌpɑːrsəˈmoʊniəs,0,0
-parsing, pɑːrs pɑːrs pɑːrs pɑːrs,0,0
+parsing, pɑːrs pɑːrs pɑːrs pɑːrs,1,0
 parsley, ˈpɑːrsli ˈpɑr·sli,0,0
 parson, ˈpɑːrsən,0,0
 parsonage, ˈpɑːrsənɪdʒ,0,0
@@ -284,7 +284,7 @@ partially, ˈpɑːrʃəli,0,0
 participant, pɑːrˈtɪsəpənt pɑrˈtɪs·ə·pənt,0,0
 participants, pɑːrˈtɪsəpənt pɑrˈtɪs·ə·pənt,1,0
 participate, pɑːrˈtɪsəpeɪt pɑrˈtɪs·əˌpeɪt,0,0
-participated, pɑːrˈtɪsəpeɪt,0,0
+participated, pɑːrˈtɪsəpeɪt,1,0
 participates, pɑːrˈtɪsəpeɪt pɑrˈtɪs·əˌpeɪt,1,0
 participating,,0,1
 participation, pɑːrˌtɪsəˈpeɪʃən,0,0
@@ -298,13 +298,13 @@ particularly," pɚˈtɪkjəlɚli pərˈtɪk·jə·lər·li, pəˈtɪk-",0,0
 particulars," pərˈtɪk·jə·lərz, pəˈtɪk-",0,0
 particulate," pɑːrˈtɪkjələt pərˈtɪk·jə·lɪt, pɑr-",0,0
 particulates," pɑːrˈtɪkjələt pərˈtɪk·jə·lɪt, pɑr-",1,0
-partied, ˈpɑːrt̬i,0,0
+partied, ˈpɑːrt̬i,1,0
 parties, ˈpɑːrt̬i ˈpɑːrt̬i ˈpɑːrt̬i ˈpɑːrt̬i ˈpɑr·t̬i ˈpɑr·t̬i ˈpɑr·t̬i ˈpɑr·t̬i,1,0
 parting, ˈpɑːrt̬ɪŋ ˈpɑr·t̬ɪŋ,0,0
 partisan," ˈpɑːrt̬əzən ˈpɑr·t̬ə·zən, -sən",0,0
 partisans," ˈpɑːrt̬əzən ˈpɑr·t̬ə·zən, -sən",1,0
 partition, pɑːrˈtɪʃən pɑːrˈtɪʃən pɑrˈtɪʃ·ən pɑrˈtɪʃ·ən pɑrˈtɪʃ·ən,0,0
-partitioned, pɑːrˈtɪʃən pɑːrˈtɪʃən,0,0
+partitioned, pɑːrˈtɪʃən pɑːrˈtɪʃən,1,0
 partitions, pɑːrˈtɪʃən pɑːrˈtɪʃən pɑrˈtɪʃ·ən pɑrˈtɪʃ·ən pɑrˈtɪʃ·ən,1,0
 partly, ˈpɑːrtli,0,0
 partner, ˈpɑːrtnɚ ˈpɑːrtnɚ ˈpɑːrtnɚ ˈpɑːrtnɚ ˈpɑrt·nər ˈpɑrt·nər ˈpɑrt·nər ˈpɑrt·nər,0,0
@@ -333,7 +333,7 @@ passages, ˈpæsɪdʒ ˈpæsɪdʒ ˈpæsɪdʒ ˈpæsɪdʒ ˈpæsɪdʒ ˈpæsɪd�
 passageway,,0,1
 passbook, ˈpæsbʊk ˈpæsbʊk,0,0
 passe, pæsˈeɪ pæˈseɪ,1,0
-passed, pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs,0,0
+passed, pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs pæs,1,0
 passel,,0,1
 passenger, ˈpæsəndʒɚ ˈpæs·ən·dʒər,0,0
 passengers, ˈpæsəndʒɚ ˈpæsəndʒɚ ˈpæs·ən·dʒər,1,0
@@ -359,14 +359,14 @@ past, pæst pæst pæst pæst pæst pæst,0,0
 pasta," ˈpɑːstə ˈpɑ·stə, ˈpæs·tə",0,0
 pastas,,0,1
 paste, peɪst peɪst peɪst peɪst,0,0
-pasted, peɪst peɪst peɪst,0,0
+pasted, peɪst peɪst peɪst,1,0
 pastel, pæsˈtel pæsˈtel pæsˈtel,0,0
 pastels, pæsˈtel pæsˈtel pæsˈtel,1,0
 pastes, peɪst peɪst peɪst peɪst peɪst,1,0
 pasteur,,0,1
 pasteurize, ˈpæstʃəraɪz ˈpæs·tʃəˌrɑɪz,0,0
 pasteurized, ˈpæstʃəraɪzd,0,0
-pasteurizing, ˈpæstʃəraɪz,0,0
+pasteurizing, ˈpæstʃəraɪz,1,0
 pastiche, pɑːˈstiːʃ,0,0
 pastime, ˈpæstaɪm ˈpæsˌtɑɪm,0,0
 pastimes, ˈpæstaɪm ˈpæsˌtɑɪm,1,0
@@ -384,9 +384,9 @@ pat, pæt pæt,0,0
 patagonia,,0,1
 patagonian,,0,1
 patch, pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ,0,0
-patched, pætʃ pætʃ pætʃ,0,0
+patched, pætʃ pætʃ pætʃ,1,0
 patches, pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ pætʃ,1,0
-patching, pætʃ pætʃ pætʃ,0,0
+patching, pætʃ pætʃ pætʃ,1,0
 patchwork, ˈpætʃwɝːk ˈpætʃwɝːk ˈpætʃˌwɜrk,0,0
 patchy, ˈpætʃi ˈpætʃi ˈpætʃ·i ˈpætʃ·i,0,0
 pate, peɪt peɪt,0,0
@@ -395,7 +395,7 @@ patella, pəˈtelə,0,0
 patent, ˈpætənt ˈpætənt ˈpæt·ənt,0,0
 patentable,,0,1
 patented,,0,1
-patenting, ˈpætənt,0,0
+patenting, ˈpætənt,1,0
 patently, ˈpætəntli,0,0
 patents, ˈpætənt ˈpætənt ˈpæt·ənt,1,0
 pater, ˈpɑːt̬ɚ,0,0
@@ -450,7 +450,7 @@ patron, ˈpeɪtrən ˈpeɪtrən ˈpeɪ·trən ˈpeɪ·trən,0,0
 patronage," ˈpætrənɪdʒ ˈpætrənɪdʒ ˈpætrənɪdʒ ˈpeɪ·trə·nɪdʒ, ˈpæ-",0,0
 patroness, ˈpeɪtrənɪs ˈpeɪtrənɪs,0,0
 patronize," ˈpeɪtrənaɪz ˈpeɪtrənaɪz ˈpeɪ·trəˌnɑɪz, ˈpæ- ˈpeɪtrənaɪz ˈpeɪtrənaɪz ˈpeɪtrənaɪz",0,0
-patronized, ˈpeɪtrənaɪz ˈpeɪtrənaɪz,0,0
+patronized, ˈpeɪtrənaɪz ˈpeɪtrənaɪz,1,0
 patronizing, ˈpeɪtrənaɪzɪŋ ˈpeɪtrənaɪzɪŋ,0,0
 patrons, ˈpeɪtrən ˈpeɪtrən ˈpeɪ·trən ˈpeɪ·trən,1,0
 patronymic, ˌpætrəˈnɪmɪk,0,0
@@ -476,9 +476,9 @@ paunchy, ˈpɑːntʃi,0,0
 pauper, ˈpɑːpɚ ˈpɔ·pər,0,0
 paupers, ˈpɑːpɚ ˈpɔ·pər,1,0
 pause, pɑːz pɑːz pɑːz pɑːz pɔz,0,0
-paused, pɑːz pɑːz,0,0
+paused, pɑːz pɑːz,1,0
 pauses, pɑːz pɑːz pɑːz pɑːz pɔz,1,0
-pausing, pɑːz pɑːz,0,0
+pausing, pɑːz pɑːz,1,0
 pave, peɪv peɪv,0,0
-paved, peɪv,0,0
+paved, peɪv,1,0
 pavement, ˈpeɪvmənt ˈpeɪvmənt ˈpeɪv·mənt,0,0

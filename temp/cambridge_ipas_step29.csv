@@ -7,7 +7,7 @@ durst,,0,1
 dusk, dʌsk dʌsk,0,0
 dust, dʌst dʌst,0,0
 dustbin, ˈdʌstbɪn ˈdʌstbɪn,0,0
-dusted, dʌst dʌst,0,0
+dusted, dʌst dʌst,1,0
 duster, ˈdʌstɚ ˈdʌstɚ ˈdʌstɚ ˈdʌstɚ,0,0
 dusters, ˈdʌstɚ ˈdʌstɚ ˈdʌstɚ ˈdʌstɚ,1,0
 dusting, ˈdʌstɪŋ ˈdʌstɪŋ,0,0
@@ -24,8 +24,8 @@ duty, ˈduːt̬i ˈduːt̬i ˈduːti ˈduːti ˈduːti ˈduːti,0,0
 dux, dʌks,0,0
 dvorak,,0,1
 dwarf, dwɔːrf dwɔːrf dwɔrf dwɔrf,0,0
-dwarfed, dwɔːrf,0,0
-dwarfing, dwɔːrf,0,0
+dwarfed, dwɔːrf,1,0
+dwarfing, dwɔːrf,1,0
 dwarfism, ˈdwɔːrfɪzəm,0,0
 dwarfs, dwɔːrf dwɔːrf dwɔrf dwɔrf,1,0
 dwarves,,0,1
@@ -40,7 +40,7 @@ dwells, dwel dwel,1,0
 dwelt,,0,1
 dwight,,0,1
 dwindle, ˈdwɪndəl ˈdwɪn·dəl,0,0
-dwindled, ˈdwɪndəl,0,0
+dwindled, ˈdwɪndəl,1,0
 dwindles, ˈdwɪndəl ˈdwɪn·dəl,1,0
 dwindling, ˈdwɪndəlɪŋ,0,0
 dye, daɪ dɑɪ,0,0
@@ -89,18 +89,18 @@ earliest,,0,1
 earls, ɝːl,1,0
 early, ˈɝːli ˈɝːli ˈɜr·li,0,0
 earmark, ˈɪrmɑːrk ˈɪər·mɑrk,0,0
-earmarked, ˈɪrmɑːrk,0,0
+earmarked, ˈɪrmɑːrk,1,0
 earmarks, ˈɪrmɑːrk ˈɪər·mɑrk,1,0
 earmuff,,0,1
 earmuffs, ˈɪrmʌfs ˈɪərˌmʌfs,0,0
 earn, ɝːn ɝːn ɜrn,0,0
-earned, ɝːn ɝːn,0,0
+earned, ɝːn ɝːn,1,0
 earner, ˈɝːnɚ ˈɜr·nər,0,0
 earners, ˈɝːnɚ ˈɜr·nər,1,0
 earnest, ˈɝːnɪst ˈɜr·nəst,0,0
 earnestly, ˈɝːnɪstli,0,0
 earnestness, ˈɝːnɪstnəs,0,0
-earning, ɝːn ɝːn,0,0
+earning, ɝːn ɝːn,1,0
 earnings, ˈɝːnɪŋz ˈɝːnɪŋz ˈɜr·nɪŋz,0,0
 earns, ɝːn ɝːn ɜrn,1,0
 earphone, ˈɪrfoʊn,0,0
@@ -127,7 +127,7 @@ earthworms, ˈɝːθwɝːm ˈɜrθ·wɜrm,1,0
 earthy, ˈɝːθi ˈɝːθi ˈɜr·θi ˈɜr·θi,0,0
 earwax, ˈɪrwæks,0,0
 ease, iːz iːz iz iz,0,0
-eased, iːz iːz,0,0
+eased, iːz iːz,1,0
 easel, ˈiːzəl ˈi·zəl,0,0
 easement, ˈiːzmənt,0,0
 eases, iːz iːz iːz iːz iz iz iz,1,0
@@ -162,8 +162,8 @@ eaves, ivz,0,0
 eavesdrop, ˈiːvzdrɑːp ˈiːvzdrɑːp ˈiːvzdrɑːp ˈivzˌdrɑp,0,0
 eavesdropping, ˈiːvzdrɑːpɪŋ ˈiːvzdrɑːpɪŋ ˈiːvzdrɑːpɪŋ,0,0
 ebb, eb eb eb,0,0
-ebbed, eb eb,0,0
-ebbing, eb eb,0,0
+ebbed, eb eb,1,0
+ebbing, eb eb,1,0
 ebbs, eb eb eb eb,1,0
 ebenezer,,0,1
 ebony, ˈebəni ˈebəni ˈebəni ˈeb·ə·ni,0,0
@@ -178,17 +178,17 @@ echelons, ˈeʃəlɑːn ˈeʃəlɑːn,1,0
 echidna, iːˈkɪdnə,0,0
 echinacea, ˌekəˈneɪʃə,0,0
 echo, ˈekoʊ ˈekoʊ ˈek·oʊ ˈek·oʊ,0,0
-echoed, ˈekoʊ ˈekoʊ,0,0
+echoed, ˈekoʊ ˈekoʊ,1,0
 echoes,,0,1
-echoing, ˈekoʊ ˈekoʊ,0,0
+echoing, ˈekoʊ ˈekoʊ,1,0
 echolocation, ˌekoʊloʊˈkeɪʃən,0,0
 echos,,0,1
 eclectic," ekˈlektɪk ɪˈklek·tɪk, ekˈlek-",0,0
 eclipse, ɪˈklɪps ɪˈklɪps ɪˈklɪps,0,0
-eclipsed, ɪˈklɪps ɪˈklɪps,0,0
+eclipsed, ɪˈklɪps ɪˈklɪps,1,0
 eclipses, ɪˈklɪps ɪˈklɪps ɪˈklɪps ɪˈklɪps ɪˈklɪps,1,0
-eclipsing, ɪˈklɪps ɪˈklɪps,0,0
-eco, iːkoʊ-,0,0
+eclipsing, ɪˈklɪps ɪˈklɪps,1,0
+eco, iːkoʊ-,1,0
 ecole,,0,1
 ecological, ˌiːkəˈlɑːdʒɪkəl,0,0
 ecologically, ˌiːkəˈlɑːdʒɪkəli,0,0
@@ -203,7 +203,7 @@ economies, iˈkɑːnəmi iˈkɑːnəmi ɪˈkɑn·ə·mi ɪˈkɑn·ə·mi,1,0
 economist, iˈkɑːnəmɪst ɪˈkɑn·ə·məst,0,0
 economists, iˈkɑːnəmɪst ɪˈkɑn·ə·məst,1,0
 economize, iˈkɑːnəmaɪz ɪˈkɑn·əˌmɑɪz,0,0
-economizing, iˈkɑːnəmaɪz,0,0
+economizing, iˈkɑːnəmaɪz,1,0
 economy, iˈkɑːnəmi iˈkɑːnəmi ɪˈkɑn·ə·mi ɪˈkɑn·ə·mi,0,0
 ecosystem," ˈiːkoʊˌsɪstəm ˈiːkoʊˌsɪstəm ˈi·koʊˌsɪs·təm, ˈek·oʊ-",0,0
 ecosystems," ˈiːkoʊˌsɪstəm ˈiːkoʊˌsɪstəm ˈi·koʊˌsɪs·təm, ˈek·oʊ-",1,0
@@ -242,7 +242,7 @@ edifying, ˈedəfaɪɪŋ,0,0
 edinburgh, ˈedɪnbɚə,0,0
 edison,,0,1
 edit, ˈedɪt ˈedɪt ˈed·ət ˈed·ət,0,0
-edited, ˈedɪt ˈedɪt,0,0
+edited, ˈedɪt ˈedɪt,1,0
 edith,,0,1
 editing, ˈedɪt̬ɪŋ,0,0
 edition, ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃ·ən,0,0
@@ -250,8 +250,8 @@ editions, ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃən ɪˈdɪʃ·ən,1,0
 editor, ˈedɪt̬ɚ ˈed·ət̬·ər,0,0
 editorial," ˌedəˈtɔːriəl ˌedəˈtɔːriəl ˌed·əˈtɔr·i·əl, -ˈtoʊr-",0,0
 editorialize, ˌedəˈtɔːriəlaɪz,0,0
-editorialized, ˌedəˈtɔːriəlaɪz,0,0
-editorializing, ˌedəˈtɔːriəlaɪz,0,0
+editorialized, ˌedəˈtɔːriəlaɪz,1,0
+editorializing, ˌedəˈtɔːriəlaɪz,1,0
 editorially, ˌedəˈtɔːriəli ˌedəˈtɔːriəli,0,0
 editorials," ˌedəˈtɔːriəl ˌedəˈtɔːriəl ˌed·əˈtɔr·i·əl, -ˈtoʊr-",1,0
 editors, ˈedɪt̬ɚ ˈed·ət̬·ər,1,0
@@ -260,7 +260,7 @@ edits, ˈedɪt ˈedɪt ˈed·ət ˈed·ət,1,0
 educate, ˈedʒəkeɪt ˈedʒ·əˌkeɪt,0,0
 educated, ˈedʒəkeɪt̬ɪd,0,0
 educates, ˈedʒəkeɪt ˈedʒ·əˌkeɪt,1,0
-educating, ˈedʒəkeɪt,0,0
+educating, ˈedʒəkeɪt,1,0
 education, ˌedʒəˈkeɪʃən ˌedʒ·əˈkeɪ·ʃən ˌedʒ·əˈkeɪ·ʃən,0,0
 educational, ˌedʒəˈkeɪʃənəl ˌedʒ·əˈkeɪ·ʃən·əl ˌedjʊˈkeɪʃənəl ˌedjʊˈkeɪʃənəl,0,0
 educationally, ˌedʒəˈkeɪʃənəli,0,0
@@ -277,8 +277,8 @@ eerie, ˈɪri ˈɪr·i,0,0
 eerily, ˈɪrəli,0,0
 efface, ɪˈfeɪs,0,0
 effect, əˈfekt əˈfekt ɪˈfekt ɪˈfekt,0,0
-effected, əˈfekt,0,0
-effecting, əˈfekt,0,0
+effected, əˈfekt,1,0
+effecting, əˈfekt,1,0
 effective, əˈfektɪv əˈfektɪv əˈfektɪv əˈfektɪv ɪˈfek·tɪv ɪˈfek·tɪv,0,0
 effectively, əˈfektɪvli əˈfektɪvli ɪˈfek·tɪv·li ɪˈfek·tɪv·li,0,0
 effectiveness, əˈfektɪvnəs əˈfektɪvnəs ɪˈfek·tɪv·nəs,0,0
@@ -288,7 +288,7 @@ effervescent, ˌefɚˈvesənt ˌefɚˈvesənt,0,0
 effete, ɪˈfiːt ɪˈfiːt,0,0
 efficacious, ˌefəˈkeɪʃəs ˌefəˈkeɪʃəs,0,0
 efficacy, ˈefəkəsi ˈefəkəsi ˈef·ɪ·kə·si,0,0
-efficiencies, ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃ·ən·si,0,0
+efficiencies, ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃ·ən·si,1,0
 efficiency, ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃənsi ɪˈfɪʃ·ən·si,0,0
 efficient, ɪˈfɪʃənt ɪˈfɪʃənt ɪˈfɪʃ·ənt,0,0
 efficiently, ɪˈfɪʃəntli,0,0
@@ -353,23 +353,23 @@ either," ˈiːðɚ ˈi·ðər, ˈɑɪ-",0,0
 ejaculate, iˈdʒækjəleɪt iˈdʒækjəleɪt ɪˈdʒæk·jəˌleɪt ɪˈdʒæk·jəˌleɪt,0,0
 ejaculation, iˌdʒækjəˈleɪʃən iˌdʒækjəˈleɪʃən,0,0
 eject, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt ɪˈdʒekt ɪˈdʒekt,0,0
-ejected, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,0,0
-ejecting, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,0,0
+ejected, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,1,0
+ejecting, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt,1,0
 ejection, iˈdʒekʃən,0,0
 ejects, iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt iˈdʒekt ɪˈdʒekt ɪˈdʒekt,1,0
 eke,,0,1
 eking,,0,1
 el,,0,1
 elaborate, iˈlæbɚət ɪˈlæb·ə·rət,0,0
-elaborated, iˈlæbəreɪt,0,0
+elaborated, iˈlæbəreɪt,1,0
 elaborately, iˈlæbɚətli,0,0
 elaborates, iˈlæbɚət ɪˈlæb·ə·rət,1,0
-elaborating, iˈlæbəreɪt,0,0
+elaborating, iˈlæbəreɪt,1,0
 elaboration, iˌlæbəˈreɪʃən,0,0
 elaine,,0,1
 elan, eɪˈlɑːn,1,0
 eland,,0,1
-elapsed, iˈlæps,0,0
+elapsed, iˈlæps,1,0
 elastic, iˈlæstɪk iˈlæstɪk ɪˈlæs·tɪk ɪˈlæs·tɪk,0,0
 elasticity, ˌilæsˈtɪsət̬i ˌilæsˈtɪsət̬i,0,0
 elastomer,,0,1
@@ -378,8 +378,8 @@ elated, iˈleɪt̬ɪd ɪˈleɪt̬·əd,0,0
 elating, iˈleɪt̬ɪŋ,0,0
 elation, iˈleɪʃən,0,0
 elbow, ˈelboʊ ˈelboʊ ˈelboʊ ˈel·boʊ,0,0
-elbowed, ˈelboʊ ˈelboʊ,0,0
-elbowing, ˈelboʊ ˈelboʊ,0,0
+elbowed, ˈelboʊ ˈelboʊ,1,0
+elbowing, ˈelboʊ ˈelboʊ,1,0
 elbows, ˈelboʊ ˈelboʊ ˈelboʊ ˈel·boʊ,1,0
 elder, ˈeldɚ ˈeldɚ ˈeldɚ ˈel·dər ˈel·dər,0,0
 elderly, ˈeldɚli ˈel·dər·li,0,0
@@ -390,8 +390,8 @@ eldritch, ˈeldrɪtʃ,0,0
 eleanor,,0,1
 elect, ɪˈlekt ɪˈlekt,0,0
 electability,,0,1
-elected, iˈlekt iˈlekt,0,0
-electing, iˈlekt iˈlekt,0,0
+elected, iˈlekt iˈlekt,1,0
+electing, iˈlekt iˈlekt,1,0
 election, ɪˈlekʃən ɪˈlek·ʃən,0,0
 electioneering, ɪˌlekʃəˈnɪrɪŋ,0,0
 elections, ɪˈlekʃən ɪˈlek·ʃən,1,0
@@ -409,7 +409,7 @@ electricians, ˌɪlekˈtrɪʃən ɪˌlekˈtrɪʃ·ən,1,0
 electricity, ɪˌlekˈtrɪsət̬i ɪˌlekˈtrɪs·ət̬·i,0,0
 electrics, iˈlektrɪks,0,0
 electrification, iˌlektrəfəˈkeɪʃən,0,0
-electrified, iˈlektrəfaɪ iˈlektrəfaɪ,0,0
+electrified, iˈlektrəfaɪ iˈlektrəfaɪ,1,0
 electrifies, iˈlektrəfaɪ iˈlektrəfaɪ ɪˈlek·trəˌfɑɪ ɪˈlek·trəˌfɑɪ,1,0
 electrify, iˈlektrəfaɪ iˈlektrəfaɪ ɪˈlek·trəˌfɑɪ ɪˈlek·trəˌfɑɪ,0,0
 electrifying, iˈlektrəfaɪɪŋ,0,0
@@ -417,7 +417,7 @@ electro, iˈlektroʊ,0,0
 electrocardiogram, iˌlektrəˈkɑːrdiəɡræm,0,0
 electrochemical, iˌlektroʊˈkemɪkəl ɪˌlek·troʊˈkem·ɪ·kəl,0,0
 electrocute, iˈlektrəkjuːt ɪˈlek·trəˌkjut,0,0
-electrocuted, iˈlektrəkjuːt,0,0
+electrocuted, iˈlektrəkjuːt,1,0
 electrocution, iˌlektrəˈkjuːʃən,0,0
 electrocutions, iˌlektrəˈkjuːʃən,1,0
 electrode, iˈlektroʊd ɪˈlekˌtroʊd,0,0
@@ -434,7 +434,7 @@ electronics, iˌlekˈtrɑːnɪks ɪˌlekˈtrɑn·ɪks,0,0
 electrons, iˈlektrɑːn ɪˈlek·trɑn,1,0
 electrophoresis,,0,1
 electroplate, iˈlektroʊpleɪt,0,0
-electroplating, iˈlektroʊpleɪt,0,0
+electroplating, iˈlektroʊpleɪt,1,0
 electroshock,,0,1
 electrostatic, iˌlektroʊˈstæt̬ɪk ɪˌlek·troʊˈstæt̬·ɪk,0,0
 elects, ɪˈlekt ɪˈlekt ɪˈlekt ɪˈlekt ɪˈlekt,1,0
@@ -453,7 +453,7 @@ elephants, ˈeləfənt ˈel·ə·fənt,1,0
 elevate, ˈeləveɪt ˈeləveɪt ˈel·əˌveɪt ˈel·əˌveɪt,0,0
 elevated, ˈeləveɪt̬ɪd ˈeləveɪt̬ɪd ˈeləveɪt̬ɪd ˈeləveɪt̬ɪd,0,0
 elevates, ˈeləveɪt ˈeləveɪt ˈeləveɪt ˈel·əˌveɪt ˈel·əˌveɪt,1,0
-elevating, ˈeləveɪt ˈeləveɪt ˈeləveɪt,0,0
+elevating, ˈeləveɪt ˈeləveɪt ˈeləveɪt,1,0
 elevation, ˌeləˈveɪʃən ˌeləˈveɪʃən ˌeləˈveɪʃən ˌeləˈveɪʃən ˌel·əˈveɪ·ʃən,0,0
 elevations, ˌeləˈveɪʃən ˌeləˈveɪʃən ˌeləˈveɪʃən ˌeləˈveɪʃən ˌel·əˈveɪ·ʃən,1,0
 elevator, ˈeləveɪt̬ɚ ˈeləveɪt̬ɚ ˈel·əˌveɪ·t̬ər,0,0
@@ -465,16 +465,16 @@ elf, elf elf,0,0
 elfin, ˈelfɪn,0,0
 eli,,0,1
 elicit, iˈlɪsɪt iˈlɪsɪt ɪˈlɪs·ɪt,0,0
-elicited, iˈlɪsɪt iˈlɪsɪt,0,0
-eliciting, iˈlɪsɪt iˈlɪsɪt,0,0
+elicited, iˈlɪsɪt iˈlɪsɪt,1,0
+eliciting, iˈlɪsɪt iˈlɪsɪt,1,0
 elicits, iˈlɪsɪt iˈlɪsɪt ɪˈlɪs·ɪt,1,0
 eligibility, ˌelədʒəˈbɪlət̬i,0,0
 eligible, ˈelədʒəbəl ˈelədʒəbəl ˈel·ɪ·dʒə·bəl ˈel·ɪ·dʒə·bəl,0,0
 elijah,,0,1
 eliminate, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt ɪˈlɪm·əˌneɪt,0,0
-eliminated, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,0,0
+eliminated, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,1,0
 eliminates, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt ɪˈlɪm·əˌneɪt,1,0
-eliminating, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,0,0
+eliminating, iˈlɪməneɪt iˈlɪməneɪt iˈlɪməneɪt,1,0
 elimination, iˌlɪməˈneɪʃən,0,0
 eliminations,,0,1
 elisha,,0,1

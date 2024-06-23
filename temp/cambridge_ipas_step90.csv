@@ -25,10 +25,10 @@ teer,,0,1
 tees, tiː tiː tiː ti,1,0
 teet,,0,1
 teeter, ˈtiːt̬ɚ ˈti·t̬ər,0,0
-teetering, ˈtiːt̬ɚ,0,0
+teetering, ˈtiːt̬ɚ,1,0
 teeth, tiːθ tiθ,0,0
 teethe, tiːð tið,0,0
-teething, tiːð,0,0
+teething, tiːð,1,0
 teetotaler, ˌtiːˈtoʊt̬əlɚ,0,0
 teflon, ˈteflɑːn ˈtef·lɑn,0,0
 teheran,,0,1
@@ -46,7 +46,7 @@ telegenic, ˌteləˈdʒenɪk,0,0
 telegram, ˈteləɡræm ˈtel·əˌɡræm,0,0
 telegrams, ˈteləɡræm ˈtel·əˌɡræm,1,0
 telegraph, ˈteləɡræf ˈtel·əˌɡræf,0,0
-telegraphed, ˈteləɡræf ˈteləɡræf,0,0
+telegraphed, ˈteləɡræf ˈteləɡræf,1,0
 telemarketer,,0,1
 telemarketers,,0,1
 telemarketing, ˈteləˌmɑːrkət̬ɪŋ ˈtel·əˌmɑr·kɪ·t̬ɪŋ,0,0
@@ -55,10 +55,10 @@ telepath,,0,1
 telepathic, ˌteləˈpæθɪk,0,0
 telepathy, təˈlepəθi təˈlep·ə·θi,0,0
 telephone, ˈteləfoʊn ˈtel·əˌfoʊn,0,0
-telephoned, ˈteləfoʊn,0,0
+telephoned, ˈteləfoʊn,1,0
 telephones, ˈteləfoʊn ˈtel·əˌfoʊn,1,0
 telephonic, ˌteləˈfɑːnɪk,0,0
-telephoning, ˈteləfoʊn,0,0
+telephoning, ˈteləfoʊn,1,0
 telephoto,,0,1
 teleport, ˈteləpɔːrt,0,0
 teleprompter, ˈteləˌprɑːmptɚ,0,0
@@ -71,11 +71,11 @@ televangelist, ˌtelɪˈvændʒəlɪst,0,0
 televangelists, ˌtelɪˈvændʒəlɪst,1,0
 televise, ˈteləvaɪz ˈtel·əˌvɑɪz,0,0
 televised, ˈteləvaɪzd,0,0
-televising, ˈteləvaɪz,0,0
+televising, ˈteləvaɪz,1,0
 television, ˈteləvɪʒən ˈtel·əˌvɪʒ·ən ˈtel·əˌvɪʒ·ən,0,0
 televisions, ˈteləvɪʒən ˈtel·əˌvɪʒ·ən ˈtel·əˌvɪʒ·ən,1,0
 telex, ˈteleks,0,0
-telexed, ˈteleks,0,0
+telexed, ˈteleks,1,0
 telfer,,0,1
 telford,,0,1
 tell, tel tel tel tel tel tel tel tel,0,0
@@ -103,7 +103,7 @@ temperate, ˈtempɚət ˈtempɚət ˈtempɚət ˈtem·pər·ət,0,0
 temperature," ˈtempɚətʃɚ ˈtempɚətʃɚ ˈtem·pər·ə·tʃər, -ˌtʃʊr ˈtem·pər·ə·tʃər, -ˌtʃʊr",0,0
 temperatures," ˈtempɚətʃɚ ˈtempɚətʃɚ ˈtempɚətʃɚ ˈtem·pər·ə·tʃər, -ˌtʃʊr ˈtem·pər·ə·tʃər, -ˌtʃʊr",1,0
 tempered, ˈtempɚd ˈtempɚd ˈtempɚd,0,0
-tempering, ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ,0,0
+tempering, ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ,1,0
 tempers, ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ ˈtempɚ ˈtem·pər ˈtem·pər ˈtem·pər,1,0
 tempest, ˈtempɪst ˈtem·pəst,0,0
 tempestuous, temˈpestʃuəs temˈpestʃuəs temˈpes·tʃu·əs,0,0
@@ -125,7 +125,7 @@ temps, temp temp,1,0
 tempt, tempt tempt,0,0
 temptation, tempˈteɪʃən tempˈteɪʃən tempˈteɪ·ʃən,0,0
 temptations, tempˈteɪʃən tempˈteɪʃən tempˈteɪ·ʃən,1,0
-tempted, tempt tempt,0,0
+tempted, tempt tempt,1,0
 tempting, ˈtemptɪŋ,0,0
 temptress, ˈtemptrɪs,0,0
 tempts, tempt tempt tempt,1,0
@@ -139,18 +139,18 @@ tenant, ˈtenənt ˈten·ənt,0,0
 tenants, ˈtenənt ˈten·ənt,1,0
 tench,,0,1
 tend, tend tend tend tend,0,0
-tended, tend tend,0,0
+tended, tend tend,1,0
 tendencies, ˈtendənsi ˈtendənsi ˈtendənsi ˈten·dən·si,1,0
 tendency, ˈtendənsi ˈtendənsi ˈtendənsi ˈten·dən·si,0,0
 tendentious, tenˈdenʃəs,0,0
 tender, ˈtendɚ ˈtendɚ ˈtendɚ ˈtendɚ ˈtendɚ ˈten·dər ˈten·dər ˈten·dər ˈten·dər,0,0
-tendered, ˈtendɚ ˈtendɚ ˈtendɚ,0,0
+tendered, ˈtendɚ ˈtendɚ ˈtendɚ,1,0
 tendering,,0,1
 tenderloin, ˈtendɚlɔɪn,0,0
 tenderly, ˈtendɚli,0,0
 tenderness, ˈtendɚnəs ˈtendɚnəs ˈtendɚnəs ˈtendɚnəs,0,0
 tenders, ˈtendɚ ˈtendɚ ˈtendɚ ˈtendɚ ˈtendɚ ˈtendɚ ˈten·dər ˈten·dər ˈten·dər ˈten·dər,1,0
-tending, tend tend,0,0
+tending, tend tend,1,0
 tendon, ˈtendən ˈten·dən,0,0
 tendons, ˈtendən ˈten·dən,1,0
 tends, tend tend tend tend tend tend,1,0
@@ -194,18 +194,18 @@ terabytes, ˈterəbaɪt ˈterəbaɪt,1,0
 tercel,,0,1
 teriyaki, terɪˈjæki,0,0
 term, tɝːm tɝːm tɝːm tɝːm tɝːm tɝːm tɜrm tɜrm tɜrm tɜrm,0,0
-termed, tɝːm,0,0
+termed, tɝːm,1,0
 terminal, ˈtɝːmənəl ˈtɝːmənəl ˈtɝːmənəl ˈtɜr·mə·nəl ˈtɜr·mə·nəl ˈtɜr·mə·nəl,0,0
 terminally, ˈtɝːmənəli ˈtɝːmənəli ˈtɜr·mə·nəl·i,0,0
 terminals, ˈtɝːmənəl ˈtɝːmənəl ˈtɝːmənəl ˈtɜr·mə·nəl ˈtɜr·mə·nəl ˈtɜr·mə·nəl,1,0
 terminate, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt ˈtɜr·məˌneɪt ˈtɜr·məˌneɪt,0,0
-terminated, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt,0,0
+terminated, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt,1,0
 terminates, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt ˈtɜr·məˌneɪt ˈtɜr·məˌneɪt,1,0
-terminating, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt,0,0
+terminating, ˈtɝːməneɪt ˈtɝːməneɪt ˈtɝːməneɪt,1,0
 termination, ˌtɝːməˈneɪʃən ˌtɝːməˈneɪʃən,0,0
 terminations, ˌtɝːməˈneɪʃən ˌtɝːməˈneɪʃən,1,0
 terminator, ˈtɝːməneɪt̬ɚ ˈtɝːməneɪt̬ɚ,0,0
-terming, tɝːm,0,0
+terming, tɝːm,1,0
 terminology, ˌtɝːməˈnɑːlədʒi ˌtɜr·məˈnɑl·ə·dʒi,0,0
 termite, ˈtɝːmaɪt ˈtɜr·mɑɪt,0,0
 termites, ˈtɝːmaɪt ˈtɜr·mɑɪt,1,0
@@ -240,9 +240,9 @@ terrorist, ˈterɚɪst,0,0
 terroristic,,0,1
 terrorists, ˈterɚɪst,1,0
 terrorize, ˈterəraɪz,0,0
-terrorized, ˈterəraɪz,0,0
+terrorized, ˈterəraɪz,1,0
 terrorizes, ˈterəraɪz,1,0
-terrorizing, ˈterəraɪz,0,0
+terrorizing, ˈterəraɪz,1,0
 terrors, ˈterɚ ˈterɚ ˈterɚ ˈter·ər ˈter·ər,1,0
 terry, ˈteri,0,0
 terse, tɝːs tɜrs,0,0
@@ -255,17 +255,17 @@ test, test test test test test test test test,0,0
 testa, ˈtestə,0,0
 testament, ˈtestəmənt ˈtestəmənt ˈtes·tə·mənt ˈtes·tə·mənt,0,0
 testaments, ˈtestəmənt ˈtestəmənt ˈtes·tə·mənt ˈtes·tə·mənt,1,0
-tested, test test test test test test test,0,0
+tested, test test test test test test test,1,0
 tester, ˈtestɚ ˈtestɚ ˈtes·tər ˈtes·tər,0,0
 testers, ˈtestɚ ˈtestɚ ˈtes·tər ˈtes·tər,1,0
 testes,,0,1
 testicle, ˈtestɪkəl ˈtes·tɪ·kəl,0,0
 testicles, ˈtestɪkəl ˈtes·tɪ·kəl,1,0
 testicular, tesˈtɪkjəlɚ,0,0
-testified, ˈtestəfaɪ ˈtestəfaɪ,0,0
+testified, ˈtestəfaɪ ˈtestəfaɪ,1,0
 testifies, ˈtestəfaɪ ˈtestəfaɪ ˈtes·təˌfɑɪ,1,0
 testify, ˈtestəfaɪ ˈtestəfaɪ ˈtes·təˌfɑɪ,0,0
-testifying, ˈtestəfaɪ ˈtestəfaɪ,0,0
+testifying, ˈtestəfaɪ ˈtestəfaɪ,1,0
 testimonial, ˌtestəˈmoʊniəl ˌtestəˈmoʊniəl,0,0
 testimonials, ˌtestəˈmoʊniəl ˌtestəˈmoʊniəl,1,0
 testimonies, ˈtestəmoʊni ˈtestəmoʊni ˈtes·təˌmoʊ·ni,1,0
@@ -290,9 +290,9 @@ texas, ˈteksəs,0,0
 text, tekst tekst tekst tekst tekst,0,0
 textbook, ˈtekstbʊk ˈtekstˌbʊk,0,0
 textbooks, ˈtekstbʊk ˈtekstˌbʊk,1,0
-texted, tekst,0,0
+texted, tekst,1,0
 textile," ˈtekstaɪl ˈteks·tɑɪl, ·tɪl",0,0
-textiles," ˈtekstaɪl ˈteks·tɑɪl, ·tɪl",0,0
+textiles," ˈtekstaɪl ˈteks·tɑɪl, ·tɪl",1,0
 texting, ˈtekstɪŋ ˈtekstɪŋ,0,0
 texts, tekst tekst tekst tekst tekst tekst,1,0
 texture, ˈtekstʃɚ ˈtekstʃɚ ˈtekstʃɚ ˈtekstʃɚ ˈtekstʃɚ ˈtekstʃɚ ˈtekstʃɚ ˈteks·tʃər ˈteks·tʃər ˈteks·tʃər,0,0
@@ -311,10 +311,10 @@ thames,,0,1
 than," strong ðæn strong ðæn ðæn, ðən ðæn, ðən",0,0
 thane, θeɪn θeɪn,0,0
 thank, θæŋk θæŋk θæŋk,0,0
-thanked, θæŋk,0,0
+thanked, θæŋk,1,0
 thankful, ˈθæŋkfəl ˈθæŋk·fəl,0,0
 thankfully, ˈθæŋkfəli,0,0
-thanking, θæŋk,0,0
+thanking, θæŋk,1,0
 thankless, ˈθæŋkləs ˈθæŋk·ləs,0,0
 thanks, θæŋks θæŋks,0,0
 thanksgiving, ˌθæŋksˈɡɪvɪŋ ˌθæŋksˈɡɪv·ɪŋ,0,0
@@ -325,8 +325,8 @@ thatch, θætʃ,0,0
 thatched, θætʃt,0,0
 thatcher, ˈθætʃɚ,0,0
 thaw, θɑː θɑː θɔ,0,0
-thawed, θɑː θɑː,0,0
-thawing, θɑː θɑː,0,0
+thawed, θɑː θɑː,1,0
+thawing, θɑː θɑː,1,0
 thaws, θɑː θɑː θɑː θɔ,1,0
 the," strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː strong ðiː ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði ðə, ði",0,0
 theater, ˈθiːət̬ɚ ˈθiːət̬ɚ ˈθi·ə·t̬ər ˈθi·ə·t̬ər,0,0
@@ -368,9 +368,9 @@ theories," ˈθɪri ˈθɪri ˈθɪər·i, ˈθi·ə·ri",1,0
 theorist," ˈθiːɚɪst ˈθɪər·ɪst, ˈθi·ər·ɪst",0,0
 theorists," ˈθiːɚɪst ˈθɪər·ɪst, ˈθi·ər·ɪst",1,0
 theorize, ˈθɪraɪz ˈθi·əˌrɑɪz,0,0
-theorized, ˈθɪraɪz,0,0
+theorized, ˈθɪraɪz,1,0
 theorizes, ˈθɪraɪz ˈθi·əˌrɑɪz,1,0
-theorizing, ˈθɪraɪz,0,0
+theorizing, ˈθɪraɪz,1,0
 theory," ˈθɪri ˈθɪər·i, ˈθi·ə·ri",0,0
 therapeutic, ˌθerəˈpjuːt̬ɪk ˌθerəˈpjuːt̬ɪk ˌθer·əˈpju·t̬ɪk,0,0
 therapeutically, ˌθerəˈpjuːt̬ɪkəli,0,0
@@ -411,7 +411,7 @@ thew, θjuː,0,0
 they, ðeɪ ðeɪ ðeɪ ðeɪ ðeɪ,0,0
 thick, θɪk θɪk θɪk θɪk θɪk θɪk θɪk θɪk θɪk,0,0
 thicken, ˈθɪkən ˈθɪk·ən,0,0
-thickened, ˈθɪkən,0,0
+thickened, ˈθɪkən,1,0
 thickener, ˈθɪkənɚ,0,0
 thickening, ˈθɪkənɪŋ ˈθɪkənɪŋ ˈθɪkənɪŋ,0,0
 thickens, ˈθɪkən ˈθɪk·ən,1,0

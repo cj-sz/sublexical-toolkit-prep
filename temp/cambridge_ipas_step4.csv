@@ -11,16 +11,16 @@ amphitheatre, ˈæmfəˌθiːət̬ɚ ˈæmfəˌθiːət̬ɚ,0,0
 amphora, ˈæmfɚə,0,0
 ample, ˈæmpəl ˈæmpəl ˈæm·pəl,0,0
 amplification, ˌæmpləfəˈkeɪʃən ˌæmpləfəˈkeɪʃən,0,0
-amplified, ˈæmpləfaɪ ˈæmpləfaɪ,0,0
+amplified, ˈæmpləfaɪ ˈæmpləfaɪ,1,0
 amplifier, ˈæmpləfaɪɚ ˈæm·pləˌfɑɪ·ər,0,0
 amplifiers, ˈæmpləfaɪɚ ˈæm·pləˌfɑɪ·ər,1,0
 amplifies, ˈæmpləfaɪ ˈæmpləfaɪ ˈæm·pləˌfɑɪ ˈæm·pləˌfɑɪ,1,0
 amplify, ˈæmpləfaɪ ˈæmpləfaɪ ˈæm·pləˌfɑɪ ˈæm·pləˌfɑɪ,0,0
-amplifying, ˈæmpləfaɪ ˈæmpləfaɪ,0,0
+amplifying, ˈæmpləfaɪ ˈæmpləfaɪ,1,0
 amplitude, ˈæmplətuːd ˈæmplətuːd ˈæm·plɪˌtud ˈæm·plɪˌtud ˈæm·plɪˌtud,0,0
 amply, ˈæmpli,0,0
 amputate, ˈæmpjəteɪt ˈæm·pjəˌteɪt,0,0
-amputated, ˈæmpjəteɪt,0,0
+amputated, ˈæmpjəteɪt,1,0
 amputation, ˌæmpjəˈteɪʃən,0,0
 amputations, ˌæmpjəˈteɪʃən,1,0
 amputee, ˌæmpjəˈtiː,0,0
@@ -94,8 +94,8 @@ ancestral, ænˈsestrəl,0,0
 ancestry, ˈænsestri,0,0
 anchor, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋ·kər ˈæŋ·kər ˈæŋ·kər,0,0
 anchorage, ˈæŋkɚɪdʒ ˈæŋkɚɪdʒ,0,0
-anchored, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ,0,0
-anchoring, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ,0,0
+anchored, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ,1,0
+anchoring, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ,1,0
 anchorman, ˈæŋkɚmæn ˈæŋkɚmæn ˈæŋ·kərˌmæn,0,0
 anchormen, ˈæŋkɚmæn ˈæŋkɚmæn ˈæŋ·kərˌmæn,1,0
 anchors, ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋkɚ ˈæŋ·kər ˈæŋ·kər ˈæŋ·kər,1,0
@@ -149,8 +149,8 @@ angeline,,0,1
 angelique,,0,1
 angels, ˈeɪndʒəl ˈeɪndʒəl ˈeɪndʒəl ˈeɪndʒəl ˈeɪn·dʒəl ˈeɪn·dʒəl,1,0
 anger, ˈæŋɡɚ ˈæŋ·ɡər,0,0
-angered, ˈæŋɡɚ,0,0
-angering, ˈæŋɡɚ,0,0
+angered, ˈæŋɡɚ,1,0
+angering, ˈæŋɡɚ,1,0
 angers, ˈæŋɡɚ ˈæŋ·ɡər,1,0
 angina, ænˈdʒaɪnə,0,0
 angiogram, ˈændʒiəɡræm,0,0
@@ -161,7 +161,7 @@ angler, ˈæŋɡlɚ,0,0
 anglers, ˈæŋɡlɚ,1,0
 angles, ˈæŋɡəl ˈæŋɡəl ˈæŋɡəl ˈæŋɡəl ˈæŋɡəl ˈæŋ·ɡəl ˈæŋ·ɡəl ˈæŋ·ɡəl ˈæŋ·ɡəl,1,0
 anglican, ˈæŋɡlɪkən ˈæŋ·ɡlɪ·kən,0,0
-anglicized, ˈæŋɡləsaɪz,0,0
+anglicized, ˈæŋɡləsaɪz,1,0
 angling, ˈæŋɡlɪŋ ˈæŋ·ɡlɪŋ,0,0
 anglo, ˈæŋɡloʊ æŋɡloʊ- ˈæŋ·ɡloʊ ˌæŋ·ɡloʊ,0,0
 anglophile, ˈæŋɡləfaɪl,0,0
@@ -213,29 +213,29 @@ annas,,0,1
 anne,,0,1
 annex," ænˈeks əˈneks, ˈæn·eks",0,0
 annexation, ˌænekˈseɪʃən,0,0
-annexed, ænˈeks,0,0
+annexed, ænˈeks,1,0
 annexes," ænˈeks əˈneks, ˈæn·eks",1,0
-annexing, ænˈeks,0,0
+annexing, ænˈeks,1,0
 annie,,0,1
 annihilate, əˈnaɪəleɪt əˈnaɪəleɪt əˈnɑɪ·əˌleɪt,0,0
-annihilated, əˈnaɪəleɪt əˈnaɪəleɪt,0,0
-annihilating, əˈnaɪəleɪt əˈnaɪəleɪt,0,0
+annihilated, əˈnaɪəleɪt əˈnaɪəleɪt,1,0
+annihilating, əˈnaɪəleɪt əˈnaɪəleɪt,1,0
 annihilation, əˌnaɪəˈleɪʃən əˌnaɪəˈleɪʃən,0,0
 anniversaries, ˌænəˈvɝːsɚi ˌæn·əˈvɜr·sə·ri,1,0
 anniversary, ˌænəˈvɝːsɚi ˌæn·əˈvɜr·sə·ri,0,0
 anno,,0,1
 annotate, ˈænəteɪt ˈænəteɪt ˈæn·əˌteɪt,0,0
-annotated, ˈænəteɪt ˈænəteɪt,0,0
-annotating, ˈænəteɪt ˈænəteɪt,0,0
+annotated, ˈænəteɪt ˈænəteɪt,1,0
+annotating, ˈænəteɪt ˈænəteɪt,1,0
 annotations, ˌænəˈteɪʃən ˌænəˈteɪʃən,1,0
 announce, əˈnaʊns əˈnaʊns əˈnɑʊns,0,0
-announced, əˈnaʊns əˈnaʊns,0,0
+announced, əˈnaʊns əˈnaʊns,1,0
 announcement, əˈnaʊnsmənt əˈnaʊnsmənt,0,0
 announcements, əˈnaʊnsmənt əˈnaʊnsmənt,1,0
 announcer, əˈnaʊnsɚ əˈnɑʊn·sər,0,0
 announcers, əˈnaʊnsɚ əˈnɑʊn·sər,1,0
 announces, əˈnaʊns əˈnaʊns əˈnɑʊns,1,0
-announcing, əˈnaʊns əˈnaʊns,0,0
+announcing, əˈnaʊns əˈnaʊns,1,0
 annoy, əˈnɔɪ əˈnɔɪ,0,0
 annoyance, əˈnɔɪəns əˈnɔɪəns,0,0
 annoyances,,0,1
@@ -269,8 +269,8 @@ another, əˈnʌðɚ əˈnʌðɚ əˈnʌð·ər əˈnʌð·ər,0,0
 anschluss,,0,1
 answer, ˈænsɚ ˈænsɚ ˈæn·sər ˈæn·sər ˈæn·sər,0,0
 answerable,,0,1
-answered, ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ,0,0
-answering, ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ,0,0
+answered, ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ,1,0
+answering, ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ,1,0
 answers, ˈænsɚ ˈænsɚ ˈænsɚ ˈænsɚ ˈæn·sər ˈæn·sər ˈæn·sər,1,0
 ant, ænt ænt,0,0
 antacid, ˌænˈtæsɪd æntˈæs·ɪd,0,0
@@ -280,8 +280,8 @@ antagonist, ænˈtæɡənɪst ænˈtæɡənɪst ænˈtæɡənɪst ænˈtæɡ·ə
 antagonistic, ænˌtæɡənˈɪstɪk ænˌtæɡ·əˈnɪs·tɪk,0,0
 antagonists, ænˈtæɡənɪst ænˈtæɡənɪst ænˈtæɡənɪst ænˈtæɡ·ə·nɪst,1,0
 antagonize, ænˈtæɡənaɪz ænˈtæɡ·əˌnɑɪz,0,0
-antagonized, ænˈtæɡənaɪz,0,0
-antagonizing, ænˈtæɡənaɪz,0,0
+antagonized, ænˈtæɡənaɪz,1,0
+antagonizing, ænˈtæɡənaɪz,1,0
 antarctic,,0,1
 antarctica, ænˈtɑːrktɪkə,0,0
 antares,,0,1
@@ -320,9 +320,9 @@ antibodies, ˈænt̬iˌbɑːdi ˈænt·iˌbɑd·i,1,0
 antibody, ˈænt̬iˌbɑːdi ˈænt·iˌbɑd·i,0,0
 antic, ˈæntɪk,0,0
 anticipate, ænˈtɪsəpeɪt ænˈtɪsəpeɪt ænˈtɪs·əˌpeɪt,0,0
-anticipated, ænˈtɪsəpeɪt ænˈtɪsəpeɪt,0,0
+anticipated, ænˈtɪsəpeɪt ænˈtɪsəpeɪt,1,0
 anticipates, ænˈtɪsəpeɪt ænˈtɪsəpeɪt ænˈtɪs·əˌpeɪt,1,0
-anticipating, ænˈtɪsəpeɪt ænˈtɪsəpeɪt,0,0
+anticipating, ænˈtɪsəpeɪt ænˈtɪsəpeɪt,1,0
 anticipation, ænˌtɪsəˈpeɪʃən ænˌtɪs·əˈpeɪ·ʃən,0,0
 anticipations,,0,1
 anticipatory,,0,1
@@ -415,7 +415,7 @@ aphorisms, ˈæfɚɪzəm ˈæf·əˌrɪz·əm,1,0
 aphrodisiac, ˌæfrəˈdɪzˈdiːʒæk,0,0
 aphrodite, ˌæfrəˈdaɪt̬i,0,0
 apiece, əˈpiːs əˈpis,0,0
-aping, eɪp,0,0
+aping, eɪp,1,0
 aplenty, əˈplent̬i,0,0
 aplomb, əˈplɑːm,0,0
 apnea, ˈæpniə,0,0
@@ -433,9 +433,9 @@ apologising, əˈpɑːlədʒaɪz əˈpɑl·əˌdʒɑɪz,1,0
 apologist, əˈpɑːlədʒɪst,0,0
 apologists, əˈpɑːlədʒɪst,1,0
 apologize, əˈpɑːlədʒaɪz əˈpɑl·əˌdʒɑɪz,0,0
-apologized, əˈpɑːlədʒaɪz,0,0
+apologized, əˈpɑːlədʒaɪz,1,0
 apologizes, əˈpɑːlədʒaɪz əˈpɑl·əˌdʒɑɪz,1,0
-apologizing, əˈpɑːlədʒaɪz,0,0
+apologizing, əˈpɑːlədʒaɪz,1,0
 apology, əˈpɑːlədʒi əˈpɑːlədʒi əˈpɑl·ə·dʒi,0,0
 apoplectic, ˌæpəˈplektɪk,0,0
 apoplexy, ˈæpəpleksi ˈæpəpleksi,0,0
@@ -463,19 +463,19 @@ apparently," əˈperəntli əˈperəntli əˈperəntli əˈpær·ənt·li, -ˈpe
 apparition, ˌæpəˈrɪʃən ˌæp·əˈrɪʃ·ən,0,0
 apparitions, ˌæpəˈrɪʃən ˌæp·əˈrɪʃ·ən,1,0
 appeal, əˈpiːl əˈpiːl əˈpiːl əˈpiːl əˈpil əˈpil əˈpil,0,0
-appealed, əˈpiːl əˈpiːl əˈpiːl əˈpiːl,0,0
+appealed, əˈpiːl əˈpiːl əˈpiːl əˈpiːl,1,0
 appealing, əˈpiːlɪŋ əˈpiːlɪŋ əˈpi·lɪŋ,0,0
 appeals, əˈpiːl əˈpiːl əˈpiːl əˈpiːl əˈpil əˈpil əˈpil,1,0
 appear, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪər əˈpɪər əˈpɪər əˈpɪər,0,0
 appearance, əˈpɪrəns əˈpɪrəns əˈpɪrəns əˈpɪrəns əˈpɪər·əns əˈpɪər·əns əˈpɪər·əns,0,0
 appearances, əˈpɪər·ən·səz,0,0
-appeared, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr,0,0
-appearing, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr,0,0
+appeared, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr,1,0
+appearing, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr,1,0
 appears, əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪr əˈpɪər əˈpɪər əˈpɪər əˈpɪər,1,0
 appease, əˈpiːz əˈpiːz əˈpiz,0,0
-appeased, əˈpiːz əˈpiːz,0,0
+appeased, əˈpiːz əˈpiːz,1,0
 appeasement, əˈpiːzmənt əˈpiz·mənt əˈpiz·mənt,0,0
-appeasing, əˈpiːz əˈpiːz,0,0
+appeasing, əˈpiːz əˈpiːz,1,0
 appel,,0,1
 appellate, əˈpelət əˈpel·ət,0,0
 appellation, ˌæpəˈleɪʃən,0,0

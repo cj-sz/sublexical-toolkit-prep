@@ -1,6 +1,6 @@
 Word,Pronunciation,Root Word Returned,Missing
 blames, bleɪm bleɪm bleɪm bleɪm bleɪm bleɪm,1,0
-blaming, bleɪm bleɪm bleɪm,0,0
+blaming, bleɪm bleɪm bleɪm,1,0
 blan,,0,1
 blanc,,0,1
 blanca,,0,1
@@ -15,39 +15,39 @@ blandness, ˈblændnəs,0,0
 blank, blæŋk blæŋk blæŋk blæŋk blæŋk,0,0
 blanked,,0,1
 blanket, ˈblæŋkɪt ˈblæŋ·kɪt,0,0
-blanketed, ˈblæŋkɪt,0,0
-blanketing, ˈblæŋkɪt,0,0
+blanketed, ˈblæŋkɪt,1,0
+blanketing, ˈblæŋkɪt,1,0
 blankets, ˈblæŋkɪt ˈblæŋ·kɪt,1,0
 blanking,,0,1
 blankly, ˈblæŋkli ˈblæŋkli ˈblæŋk·li,0,0
 blanks, blæŋk blæŋk blæŋk blæŋk blæŋk,1,0
 blare, bler bleər,0,0
-blared, bler,0,0
+blared, bler,1,0
 blares, bler bleər,1,0
-blaring, bler,0,0
+blaring, bler,1,0
 blase, ˌblɑːˈzeɪ blɑˈzeɪ,1,0
 blasphemous, ˈblæsfəməs ˈblæs·fə·məs,0,0
 blasphemy, ˈblæsfəmi,0,0
 blast, blæst blæst blæst blæst blæst,0,0
 blasted, ˈblæsstɪd ˈblæsstɪd ˈblæsstɪd,0,0
 blaster, ˈblæstɚ ˈblæstɚ ˈblæstɚ,0,0
-blasting, blæst blæst blæst,0,0
+blasting, blæst blæst blæst,1,0
 blastoff, ˈblæstˌɔf,0,0
 blasts, blæst blæst blæst blæst blæst,1,0
 blatant, ˈbleɪtənt ˈbleɪ·tənt,0,0
 blatantly, ˈbleɪtəntli,0,0
 blather, ˈblæðɚ,0,0
 blaze, bleɪz bleɪz bleɪz bleɪz bleɪz bleɪz,0,0
-blazed, bleɪz bleɪz bleɪz,0,0
+blazed, bleɪz bleɪz bleɪz,1,0
 blazer, ˈbleɪzɚ ˈbleɪ·zər,0,0
 blazers, ˈbleɪzɚ ˈbleɪ·zər,1,0
 blazes, bleɪz bleɪz bleɪz bleɪz bleɪz bleɪz bleɪz,1,0
 blazing, ˈbleɪzɪŋ ˈbleɪzɪŋ,0,0
 bleach, bliːtʃ blitʃ,0,0
-bleached, bliːtʃ,0,0
+bleached, bliːtʃ,1,0
 bleacher, ˈbliːtʃɚz ˈbli·tʃərz,1,0
 bleachers, ˈbliːtʃɚz ˈbli·tʃərz,0,0
-bleaching, bliːtʃ,0,0
+bleaching, bliːtʃ,1,0
 bleak, bliːk bliːk bliːk blik blik,0,0
 bleaker, bliːk bliːk bliːk blik blik,1,0
 bleakest, bliːk bliːk bliːk blik blik,1,0
@@ -58,15 +58,15 @@ bleed, bliːd bliːd bliːd bliːd blid,0,0
 bleeding, ˈbliːdɪŋ ˈbliːdɪŋ,0,0
 bleeds, bliːd bliːd bliːd bliːd blid,1,0
 bleep, bliːp bliːp blip,0,0
-bleeping, bliːp bliːp bliːp,0,0
+bleeping, bliːp bliːp bliːp,1,0
 blemish, ˈblemɪʃ ˈblemɪʃ ˈblem·ɪʃ ˈblem·ɪʃ,0,0
-blemished, ˈblemɪʃ,0,0
+blemished, ˈblemɪʃ,1,0
 blemishes, ˈblemɪʃ ˈblemɪʃ ˈblem·ɪʃ ˈblem·ɪʃ,1,0
 blend, blend blend blend,0,0
 blended, ˈblendɪd,0,0
 blender, ˈblendɚ ˈblendɚ ˈblendɚ ˈblen·dər,0,0
 blenders, ˈblendɚ ˈblendɚ ˈblendɚ ˈblen·dər,1,0
-blending, blend blend blend,0,0
+blending, blend blend blend,1,0
 blends, blend blend blend,1,0
 blenheim,,0,1
 bless, bles bles,0,0
@@ -80,11 +80,11 @@ blest,,0,1
 bleu,,0,1
 blew, bluː blu,0,0
 blight, blaɪt blaɪt blɑɪt blɑɪt,0,0
-blighted, blaɪt,0,0
+blighted, blaɪt,1,0
 blimp, blɪmp blɪmp,0,0
 blimps, blɪmp blɪmp,1,0
 blind, blaɪnd blaɪnd blaɪnd blaɪnd blɑɪnd blɑɪnd,0,0
-blinded, blaɪnd blaɪnd,0,0
+blinded, blaɪnd blaɪnd,1,0
 blinder, ˈblaɪndɚ,0,0
 blinders,,0,1
 blindfold, ˈblaɪndfoʊld ˈblɑɪndˌfoʊld,0,0
@@ -94,9 +94,9 @@ blindly, ˈblaɪndli ˈblaɪndli,0,0
 blindness, ˈblaɪndnəs,0,0
 blinds, blaɪnd blaɪnd blaɪnd blaɪnd blaɪnd blaɪnd blaɪnd blaɪnd blɑɪnd blɑɪnd,1,0
 blindside, ˈblaɪndsaɪd,0,0
-blindsided, ˈblaɪndsaɪd,0,0
+blindsided, ˈblaɪndsaɪd,1,0
 blink, blɪŋk blɪŋk blɪŋk blɪŋk,0,0
-blinked, blɪŋk blɪŋk,0,0
+blinked, blɪŋk blɪŋk,1,0
 blinking, ˈblɪŋkɪŋ,0,0
 blinks, blɪŋk blɪŋk blɪŋk blɪŋk,1,0
 blip, blɪp blɪp blɪp blɪp,0,0
@@ -126,9 +126,9 @@ blobs, blɑːb blɑːb blɑːb blɑb,1,0
 bloc, blɑːk blɑk,0,0
 block, blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑːk blɑk blɑk blɑk blɑk blɑk,0,0
 blockade, blɑːˈkeɪd blɑˈkeɪd,0,0
-blockaded, blɑːˈkeɪd,0,0
+blockaded, blɑːˈkeɪd,1,0
 blockades, blɑːˈkeɪd blɑˈkeɪd,1,0
-blockading, blɑːˈkeɪd,0,0
+blockading, blɑːˈkeɪd,1,0
 blockage, ˈblɑːkɪdʒ,0,0
 blockages, ˈblɑːkɪdʒ,1,0
 blockbuster, ˈblɑːkˌbʌstɚ ˈblɑkˌbʌs·tər,0,0
@@ -180,7 +180,7 @@ bloodsucking,,0,1
 bloodthirsty, ˈblʌdˌθɝːsti ˈblʌdˌθɜr·sti,0,0
 bloody, ˈblʌdi ˈblʌd·i ˈblʌd·i,0,0
 bloom, bluːm bluːm blum,0,0
-bloomed, bluːm bluːm,0,0
+bloomed, bluːm bluːm,1,0
 bloomer, ˈbluːmɚ ˈbluːmɚ,0,0
 bloomers,,0,1
 blooming, ˈbluːmɪŋ,0,0
@@ -188,8 +188,8 @@ blooms, bluːm bluːm bluːm bluːm blum,1,0
 blooper, ˈbluːpɚ ˈbluːpɚ ˈblu·pər,0,0
 bloopers, ˈbluːpɚ ˈbluːpɚ ˈblu·pər,1,0
 blossom, ˈblɑːsəm ˈblɑːsəm ˈblɑs·əm,0,0
-blossomed, ˈblɑːsəm ˈblɑːsəm,0,0
-blossoming, ˈblɑːsəm ˈblɑːsəm,0,0
+blossomed, ˈblɑːsəm ˈblɑːsəm,1,0
+blossoming, ˈblɑːsəm ˈblɑːsəm,1,0
 blossoms, ˈblɑːsəm ˈblɑːsəm ˈblɑs·əm,1,0
 blot, blɑːt blɑt blɑt,0,0
 blotch, blɑːtʃ blɑtʃ,0,0
@@ -225,8 +225,8 @@ blowup, ˈbloʊˌʌp,0,0
 blowy, ˈbloʊi,0,0
 blubber, ˈblʌbɚ ˈblʌb·ər,0,0
 bludgeon, ˈblʌdʒən ˈblʌdʒən ˈblʌdʒ·ən,0,0
-bludgeoned, ˈblʌdʒən ˈblʌdʒən,0,0
-bludgeoning, ˈblʌdʒən ˈblʌdʒən,0,0
+bludgeoned, ˈblʌdʒən ˈblʌdʒən,1,0
+bludgeoning, ˈblʌdʒən ˈblʌdʒən,1,0
 blue, bluː bluː bluː bluː blu,0,0
 bluebeard,,0,1
 bluebell, ˈbluːbel ˈbluːbel ˈbluːbel,0,0
@@ -251,19 +251,19 @@ bluestone, ˈbluːstoʊn ˈbluːstoʊn,0,0
 bluesy, ˈbluːzi,0,0
 bluey, ˈbluːi,0,0
 bluff, blʌf blʌf,0,0
-bluffed, blʌf blʌf,0,0
+bluffed, blʌf blʌf,1,0
 bluffer, blʌf blʌf blʌf,1,0
-bluffing, blʌf blʌf,0,0
+bluffing, blʌf blʌf,1,0
 bluffs, blʌf blʌf blʌf,1,0
 bluing,,0,1
 bluish, ˈbluːɪʃ,0,0
 blume,,0,1
 blunder, ˈblʌndɚ ˈblʌn·dər,0,0
-blundered, ˈblʌndɚ ˈblʌndɚ,0,0
+blundered, ˈblʌndɚ ˈblʌndɚ,1,0
 blundering, ˈblʌndɚɪŋ,0,0
 blunders, ˈblʌndɚ ˈblʌn·dər,1,0
 blunt, blʌnt blʌnt blʌnt blʌnt,0,0
-blunted, blʌnt blʌnt,0,0
+blunted, blʌnt blʌnt,1,0
 bluntly, ˈblʌntli,0,0
 bluntness, ˈblʌntnəs,0,0
 blunts, blʌnt blʌnt blʌnt blʌnt,1,0
@@ -278,18 +278,18 @@ blurt,,0,1
 blurted,,0,1
 blurts,,0,1
 blush, blʌʃ blʌʃ,0,0
-blushed, blʌʃ,0,0
+blushed, blʌʃ,1,0
 blushes, blʌʃ blʌʃ,1,0
-blushing, blʌʃ,0,0
+blushing, blʌʃ,1,0
 bluster, ˈblʌstɚ ˈblʌstɚ ˈblʌs·tər,0,0
-blustering, ˈblʌstɚ ˈblʌstɚ,0,0
+blustering, ˈblʌstɚ ˈblʌstɚ,1,0
 blustery, ˈblʌst̬ɚi ˈblʌs·tə·ri,0,0
 blvd,,0,1
 bo, ˌbiːˈoʊ,0,0
 boa, ˈboʊə ˈboʊə,0,0
 boar," bɔːr bɔr, boʊr",0,0
 board," bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔrd, boʊrd bɔrd, boʊrd bɔrd, boʊrd bɔrd, boʊrd bɔrd, boʊrd bɔrd, boʊrd",0,0
-boarded, bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd,0,0
+boarded, bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd bɔːrd,1,0
 boarder," ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔrd·ər, ˈboʊrd-",0,0
 boarders," ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔːrdɚ ˈbɔrd·ər, ˈboʊrd-",1,0
 boarding, ˈbɔːrdɪŋ ˈbɔːrdɪŋ ˈbɔːrdɪŋ ˈbɔːrdɪŋ,0,0
@@ -301,9 +301,9 @@ boardwalk," ˈbɔːrdwɑːk ˈbɔrdˌwɔk, ˈboʊrd-",0,0
 boardwalks," ˈbɔːrdwɑːk ˈbɔrdˌwɔk, ˈboʊrd-",1,0
 boas, ˈboʊə ˈboʊə,1,0
 boast, boʊst boʊst boʊst boʊst,0,0
-boasted, boʊst boʊst,0,0
+boasted, boʊst boʊst,1,0
 boastful, ˈboʊstfəl ˈboʊst·fəl,0,0
-boasting, boʊst boʊst,0,0
+boasting, boʊst boʊst,1,0
 boasts, boʊst boʊst boʊst boʊst,1,0
 boat, boʊt boʊt boʊt,0,0
 boaters, ˈboʊt̬ɚ,1,0
@@ -321,7 +321,7 @@ bobbie,,0,1
 bobbin, ˈbɑːbɪn ˈbɑːbɪn,0,0
 bobbing,,0,1
 bobble, ˈbɑːbəl ˈbɑːbəl ˈbɑːbəl,0,0
-bobbling, ˈbɑːbəl ˈbɑːbəl,0,0
+bobbling, ˈbɑːbəl ˈbɑːbəl,1,0
 bobby, ˈbɑːbi,0,0
 bobcat, ˈbɑːbˌkæt ˈbɑbˌkæt,0,0
 bobcats, ˈbɑːbˌkæt ˈbɑbˌkæt,1,0
@@ -360,7 +360,7 @@ bogeymen, ˈboʊɡimæn,1,0
 bogged,,0,1
 bogging,,0,1
 boggle, ˈbɑːɡəl ˈbɑːɡəl ˈbɑɡ·əl,0,0
-boggled, ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl,0,0
+boggled, ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl,1,0
 boggles, ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑːɡəl ˈbɑɡ·əl,1,0
 boggling, ˈbɑːɡəlɪŋ,0,0
 bogie, ˈboʊɡi ˈboʊɡi ˈboʊɡi ˈboʊɡi,0,0
@@ -402,21 +402,21 @@ bolshevik," ˈboʊlʃəvɪk ˈboʊl·ʃəˌvɪk, ˈbɔl-",0,0
 bolsheviks," ˈboʊlʃəvɪk ˈboʊl·ʃəˌvɪk, ˈbɔl-",1,0
 bolshevism, ˈboʊlʃəvɪzəm,0,0
 bolster, ˈboʊlstɚ ˈboʊl·stər,0,0
-bolstered, ˈboʊlstɚ,0,0
-bolstering, ˈboʊlstɚ,0,0
+bolstered, ˈboʊlstɚ,1,0
+bolstering, ˈboʊlstɚ,1,0
 bolsters, ˈboʊlstɚ ˈboʊl·stər,1,0
 bolt, boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt,0,0
-bolted, boʊlt boʊlt boʊlt boʊlt,0,0
-bolting, boʊlt boʊlt boʊlt boʊlt,0,0
+bolted, boʊlt boʊlt boʊlt boʊlt,1,0
+bolting, boʊlt boʊlt boʊlt boʊlt,1,0
 bolts, boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt boʊlt,1,0
 bolus, ˈboʊləs ˈboʊləs,0,0
 bom,,0,1
 bomb, bɑːm bɑːm bɑːm bɑːm bɑːm bɑm bɑm,0,0
 bombard," bɑːmˈbɑːrd bɑmˈbɑrd, bəm-",0,0
-bombarded, bɑːmˈbɑːrd,0,0
+bombarded, bɑːmˈbɑːrd,1,0
 bombardier, ˌbɑːmbəˈdɪr ˌbɑːmbəˈdɪr,0,0
 bombardiers, ˌbɑːmbəˈdɪr ˌbɑːmbəˈdɪr,1,0
-bombarding, bɑːmˈbɑːrd,0,0
+bombarding, bɑːmˈbɑːrd,1,0
 bombardment, bɑːmˈbɑːrdmənt bɑːmˈbɑːrdmənt,0,0
 bombardments, bɑːmˈbɑːrdmənt bɑːmˈbɑːrdmənt,1,0
 bombast, ˈbɑːmbæst,0,0
@@ -452,7 +452,7 @@ bong, bɑːŋ bɑːŋ,0,0
 bongo, ˈbɑːŋɡoʊ ˌdrʌm,0,0
 bongos, ˈbɑːŋɡoʊ ˌdrʌm,1,0
 bonier, ˈboʊni ˈboʊni ˈboʊni ˈboʊ·ni ˈboʊ·ni,1,0
-boning, boʊn boʊn,0,0
+boning, boʊn boʊn,1,0
 bonita,,0,1
 bonito, bəˈniːt̬oʊ bəˈniːt̬oʊ,0,0
 bonjour,,0,1

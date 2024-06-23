@@ -1,25 +1,25 @@
 Word,Pronunciation,Root Word Returned,Missing
 consultation, ˌkɑːnsʌlˈteɪʃən ˌkɑːnsʌlˈteɪʃən ˌkɑn·səlˈteɪ·ʃən ˌkɑn·səlˈteɪ·ʃən,0,0
 consultations, ˌkɑːnsʌlˈteɪʃən ˌkɑːnsʌlˈteɪʃən ˌkɑn·səlˈteɪ·ʃən ˌkɑn·səlˈteɪ·ʃən,1,0
-consulted, kənˈsʌlt kənˈsʌlt,0,0
+consulted, kənˈsʌlt kənˈsʌlt,1,0
 consulting, kənˈsʌlt̬ɪŋ -ṱɪŋ,0,0
 consults, kənˈsʌlt kənˈsʌlt kənˈsʌlt kənˈsʌlt,1,0
 consume, kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm kənˈsum kənˈsum kənˈsum kənˈsum kənˈsuːm kənˈsuːm,0,0
-consumed, kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm,0,0
+consumed, kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm,1,0
 consumer, kənˈsuːmɚ kənˈsu·mər,0,0
 consumerism, kənˈsuːmɚɪzəm kənˈsuːmɚɪzəm kənˈsu·məˌrɪz·əm,0,0
 consumers, kənˈsuːmɚ kənˈsu·mər,1,0
 consumes, kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm kənˈsuːm kənˈsum kənˈsum kənˈsum kənˈsum kənˈsuːm kənˈsuːm,1,0
 consuming, kənˈsuːmɪŋ,0,0
 consummate," ˈkɑːnsəmət ˈkɑn·sə·mət, kənˈsʌm·ət",0,0
-consummated, ˈkɑːnsəmeɪt ˈkɑːnsəmeɪt,0,0
+consummated, ˈkɑːnsəmeɪt ˈkɑːnsəmeɪt,1,0
 consummates," ˈkɑːnsəmət ˈkɑn·sə·mət, kənˈsʌm·ət",1,0
-consummating, ˈkɑːnsəmeɪt ˈkɑːnsəmeɪt,0,0
+consummating, ˈkɑːnsəmeɪt ˈkɑːnsəmeɪt,1,0
 consummation, ˌkɑːnsəˈmeɪʃən ˌkɑːnsəˈmeɪʃən,0,0
 consumption, kənˈsʌmpʃən kənˈsʌmpʃən kənˈsʌmpʃən kənˈsʌmpʃən kənˈsʌmp·ʃən kənˈsʌmp·ʃən,0,0
 contact, ˈkɑːntækt ˈkɑːntækt ˈkɑːntækt ˈkɑːntækt ˈkɑːntækt ˈkɑːntækt ˈkɑːntækt ˈkɑn·tækt ˈkɑn·tækt ˈkɑn·tækt ˈkɑn·tækt,0,0
-contacted, ˈkɑːntækt ˈkɑːntækt,0,0
-contacting, ˈkɑːntækt ˈkɑːntækt,0,0
+contacted, ˈkɑːntækt ˈkɑːntækt,1,0
+contacting, ˈkɑːntækt ˈkɑːntækt,1,0
 contacts,,0,1
 contagion, kənˈteɪdʒən kənˈteɪdʒən kənˈteɪdʒən,0,0
 contagious, kənˈteɪdʒəs kənˈteɪdʒəs kənˈteɪdʒəs kənˈteɪ·dʒəs kənˈteɪ·dʒəs,0,0
@@ -35,13 +35,13 @@ contaminants, kənˈtæmənənt kənˈtæm·ə·nənt,1,0
 contaminate, kənˈtæməneɪt kənˈtæm·əˌneɪt,0,0
 contaminated, kənˈtæməneɪt̬ɪd,0,0
 contaminates, kənˈtæməneɪt kənˈtæm·əˌneɪt,1,0
-contaminating, kənˈtæməneɪt,0,0
+contaminating, kənˈtæməneɪt,1,0
 contamination, kənˌtæməˈneɪʃən,0,0
 conte,,0,1
 contemplate, ˈkɑːnt̬əmpleɪt ˈkɑnt·əmˌpleɪt,0,0
-contemplated, ˈkɑːnt̬əmpleɪt,0,0
+contemplated, ˈkɑːnt̬əmpleɪt,1,0
 contemplates, ˈkɑːnt̬əmpleɪt ˈkɑnt·əmˌpleɪt,1,0
-contemplating, ˈkɑːnt̬əmpleɪt,0,0
+contemplating, ˈkɑːnt̬əmpleɪt,1,0
 contemplation, ˌkɑːnt̬əmˈpleɪʃən,0,0
 contemplative, kənˈtemplət̬ɪv,0,0
 contemporaneously, kənˌtempəˈreɪniəsli,0,0
@@ -52,10 +52,10 @@ contemptible, kənˈtemptəbəl kənˈtem·tə·bəl,0,0
 contemptuous, kənˈtemptʃuəs kənˈtem·tʃə·wəs,0,0
 contemptuously, kənˈtemptʃuəsli,0,0
 contend, kənˈtend kənˈtend kənˈtend kənˈtend,0,0
-contended, kənˈtend kənˈtend,0,0
+contended, kənˈtend kənˈtend,1,0
 contender, kənˈtendɚ kənˈten·dər,0,0
 contenders, kənˈtendɚ kənˈten·dər,1,0
-contending, kənˈtend kənˈtend,0,0
+contending, kənˈtend kənˈtend,1,0
 contends, kənˈtend kənˈtend kənˈtend kənˈtend,1,0
 content, kənˈtent kənˈtent,0,0
 contented, kənˈtent̬ɪd,0,0
@@ -68,8 +68,8 @@ contest, ˈkɑːntest ˈkɑːntest ˈkɑn·test,0,0
 contestable, kənˈtest̬əbəl kənˈtest̬əbəl,0,0
 contestant, kənˈtest̬ənt kənˈtest̬ənt,0,0
 contestants, kənˈtest̬ənt kənˈtest̬ənt,1,0
-contested, kənˈtest kənˈtest kənˈtest,0,0
-contesting, kənˈtest kənˈtest kənˈtest,0,0
+contested, kənˈtest kənˈtest kənˈtest,1,0
+contesting, kənˈtest kənˈtest kənˈtest,1,0
 contests, ˈkɑːntest ˈkɑːntest ˈkɑn·test,1,0
 context, ˈkɑːntekst ˈkɑːntekst ˈkɑn·tekst ˈkɑn·tekst,0,0
 contexts, ˈkɑːntekst ˈkɑːntekst ˈkɑːntekst ˈkɑn·tekst ˈkɑn·tekst,1,0
@@ -111,8 +111,8 @@ contraception, ˌkɑːntrəˈsepʃən ˌkɑn·trəˈsep·ʃən,0,0
 contraceptive, ˌkɑːntrəˈseptɪv ˌkɑn·trəˈsep·tɪv,0,0
 contraceptives, ˌkɑːntrəˈseptɪv ˌkɑn·trəˈsep·tɪv,1,0
 contract, ˈkɑːntrækt ˈkɑn·trækt,0,0
-contracted, kənˈtrækt kənˈtrækt kənˈtrækt kənˈtrækt,0,0
-contracting, kənˈtrækt kənˈtrækt kənˈtrækt kənˈtrækt,0,0
+contracted, kənˈtrækt kənˈtrækt kənˈtrækt kənˈtrækt,1,0
+contracting, kənˈtrækt kənˈtrækt kənˈtrækt kənˈtrækt,1,0
 contraction, kənˈtrækʃən kənˈtrækʃən kənˈtrækʃən kənˈtrækʃən kənˈtræk·ʃən kənˈtræk·ʃən kənˈtræk·ʃən,0,0
 contractions, kənˈtrækʃən kənˈtrækʃən kənˈtrækʃən kənˈtrækʃən kənˈtræk·ʃən kənˈtræk·ʃən kənˈtræk·ʃən,1,0
 contractor, ˈkɑːntræktɚ ˈkɑːntræktɚ ˈkɑn·træk·tər,0,0
@@ -121,8 +121,8 @@ contracts, ˈkɑːntrækt ˈkɑːntrækt ˈkɑn·trækt,1,0
 contractual, kənˈtræktʃuəl,0,0
 contractually, kənˈtræktʃuəli kənˈtræktjuəli,0,0
 contradict, ˌkɑːntrəˈdɪkt ˌkɑn·trəˈdɪkt,0,0
-contradicted, ˌkɑːntrəˈdɪkt,0,0
-contradicting, ˌkɑːntrəˈdɪkt,0,0
+contradicted, ˌkɑːntrəˈdɪkt,1,0
+contradicting, ˌkɑːntrəˈdɪkt,1,0
 contradiction, ˌkɑːntrəˈdɪkʃən ˌkɑn·trəˈdɪk·ʃən,0,0
 contradictions, ˌkɑːntrəˈdɪkʃən ˌkɑːntrəˈdɪkʃən ˌkɑn·trəˈdɪk·ʃən,1,0
 contradictory, ˌkɑːntrəˈdɪktɚi,0,0
@@ -132,16 +132,16 @@ contraptions, kənˈtræpʃən kənˈtræp·ʃən,1,0
 contrariness, kənˈtrerinəs,0,0
 contrary, ˈkɑnˌtrer·i,0,1
 contrast, ˈkɑːntræst ˈkɑn·træst ˈkɑn·træst,0,0
-contrasted, kənˈtræst kənˈtræst,0,0
+contrasted, kənˈtræst kənˈtræst,1,0
 contrasting," kənˈtræstɪŋ kənˈtræs·tɪŋ, ˈkɑnˌtræs·tɪŋ",0,0
 contrasts, ˈkɑːntræst ˈkɑn·træst ˈkɑn·træst,1,0
 contravene, ˌkɑːntrəˈviːn,0,0
 contravention, ˌkɑːntrəˈvenʃən,0,0
 contretemps, ˈkɑːntrətɑː,0,0
 contribute," kənˈtrɪbjuːt kənˈtrɪbjuːt kənˈtrɪb·jut, -jət kənˈtrɪb·jut, -jət",0,0
-contributed, kənˈtrɪbjuːt kənˈtrɪbjuːt,0,0
+contributed, kənˈtrɪbjuːt kənˈtrɪbjuːt,1,0
 contributes," kənˈtrɪbjuːt kənˈtrɪbjuːt kənˈtrɪb·jut, -jət kənˈtrɪb·jut, -jət",1,0
-contributing, kənˈtrɪbjuːt kənˈtrɪbjuːt,0,0
+contributing, kənˈtrɪbjuːt kənˈtrɪbjuːt,1,0
 contribution, ˌkɑːntrɪˈbjuːʃən ˌkɑn·trəˈbju·ʃən,0,0
 contributions, ˌkɑːntrɪˈbjuːʃən ˌkɑn·trəˈbju·ʃən,1,0
 contributor, kənˈtrɪbjət̬ɚ kənˈtrɪbjət̬ɚ kənˈtrɪb·jə·t̬ər,0,0
@@ -173,13 +173,13 @@ convalescent, ˌkɑːnvəˈlesənt ˌkɑn·vəˈles·ənt ˌkɑn·vəˈles·ənt
 convection, kənˈvekʃən kenˈvek·ʃən,0,0
 convective,,0,1
 convene, kənˈviːn kənˈvin,0,0
-convened, kənˈviːn,0,0
+convened, kənˈviːn,1,0
 convenes, kənˈviːn kənˈvin,1,0
 convenience, kənˈviːniəns kənˈviːniəns kənˈviːniəns kənˈvin·jəns kənˈvin·jəns,0,0
 conveniences, kənˈviːniəns kənˈviːniəns kənˈviːniəns kənˈviːniəns kənˈviːniəns kənˈvin·jəns kənˈvin·jəns,1,0
 convenient, kənˈviːniənt kənˈviːniənt kənˈvin·jənt kənˈvin·jənt,0,0
 conveniently, kənˈviːniəntli kənˈviːniəntli kənˈviːniəntli,0,0
-convening, kənˈviːn,0,0
+convening, kənˈviːn,1,0
 convent," ˈkɑːnvənt ˈkɑn·vent, -vənt",0,0
 convention, kənˈvenʃən kənˈvenʃən kənˈvenʃən kənˈvenʃən kənˈvenʃən kənˈven·ʃən kənˈven·ʃən kənˈven·ʃən kənˈven·ʃən kənˈven·ʃən,0,0
 conventional, kənˈvenʃənəl kənˈvenʃənəl kənˈven·ʃə·nəl kənˈven·ʃə·nəl,0,0
@@ -191,17 +191,17 @@ converge, kənˈvɝːdʒ kənˈvɝːdʒ kənˈvɝːdʒ kənˈvɜrdʒ,0,0
 converged,,0,1
 convergence, kənˈvɝːdʒəns,0,0
 convergent, kənˈvɝːdʒənt kənˈvɝːdʒənt kənˈvɜr·dʒənt,0,0
-converging, kənˈvɝːdʒ kənˈvɝːdʒ kənˈvɝːdʒ,0,0
+converging, kənˈvɝːdʒ kənˈvɝːdʒ kənˈvɝːdʒ,1,0
 conversant, kənˈvɜr·sənt,0,1
 conversation, ˌkɑːnvɚˈseɪʃən ˌkɑn·vərˈseɪ·ʃən ˌkɑn·vərˈseɪ·ʃən,0,0
 conversational, ˌkɑːnvɚˈseɪʃənəl,0,0
 conversationalist, ˌkɑːnvɚˈseɪʃənəlɪst,0,0
 conversations, ˌkɑːnvɚˈseɪʃən ˌkɑn·vərˈseɪ·ʃən ˌkɑn·vərˈseɪ·ʃən,1,0
 converse, ˈkɑːnvɝːs ˈkɑn·vɜrs,0,0
-conversed, kənˈvɝːs,0,0
+conversed, kənˈvɝːs,1,0
 conversely," ˈkɑːnvɝːsli kənˈvɜrs·li, ˈkɑn·vɜrs·li",0,0
 converses,,0,1
-conversing, kənˈvɝːs,0,0
+conversing, kənˈvɝːs,1,0
 conversion, kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən,0,0
 conversions, kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən kənˈvɝːʒən,1,0
 convert, kənˈvɝːt kənˈvɝːt kənˈvɝːt kənˈvɜrt kənˈvɜrt,0,0
@@ -210,18 +210,18 @@ converter, kənˈvɝːt̬ɚ,0,0
 converters, kənˈvɝːt̬ɚ,1,0
 convertible, kənˈvɝːt̬əbəl kənˈvɝːt̬əbəl kənˈvɜr·t̬ə·bəl kənˈvɜr·t̬ə·bəl,0,0
 convertibles, kənˈvɝːt̬əbəl kənˈvɝːt̬əbəl kənˈvɜr·t̬ə·bəl kənˈvɜr·t̬ə·bəl,1,0
-converting, kənˈvɝːt kənˈvɝːt kənˈvɝːt,0,0
+converting, kənˈvɝːt kənˈvɝːt kənˈvɝːt,1,0
 converts, kənˈvɝːt kənˈvɝːt kənˈvɝːt kənˈvɜrt kənˈvɜrt,1,0
 convex," ˈkɑːnveks kɑnˈveks, kən-",0,0
 convey, kənˈveɪ kənˈveɪ kənˈveɪ kənˈveɪ,0,0
 conveyance, kənˈveɪəns kənˈveɪəns kənˈveɪəns kənˈveɪəns kənˈveɪəns kənˈveɪəns,0,0
-conveyed, kənˈveɪ kənˈveɪ,0,0
-conveying, kənˈveɪ kənˈveɪ,0,0
+conveyed, kənˈveɪ kənˈveɪ,1,0
+conveying, kənˈveɪ kənˈveɪ,1,0
 conveyor,,0,1
 conveys, kənˈveɪ kənˈveɪ kənˈveɪ kənˈveɪ,1,0
 convict, kənˈvɪkt kənˈvɪkt,0,0
 convicted, kənˈvɪktɪd,0,0
-convicting, kənˈvɪkt,0,0
+convicting, kənˈvɪkt,1,0
 conviction, kənˈvɪkʃən kənˈvɪkʃən kənˈvɪkʃən kənˈvɪk·ʃən kənˈvɪk·ʃən,0,0
 convictions, kənˈvɪkʃən kənˈvɪkʃən kənˈvɪkʃən kənˈvɪk·ʃən kənˈvɪk·ʃən,1,0
 convicts, kənˈvɪkt kənˈvɪkt,1,0
@@ -256,7 +256,7 @@ cookware, ˈkʊkwer,0,0
 cool, kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl,0,0
 coolant, ˈkuːlənt,0,0
 coolants, ˈkuːlənt,1,0
-cooled, kuːl kuːl kuːl,0,0
+cooled, kuːl kuːl kuːl,1,0
 cooler, ˈkuːlɚ ˈkuːlɚ ˈkuːlɚ ˈku·lər,0,0
 coolers, ˈkuːlɚ ˈkuːlɚ ˈkuːlɚ ˈkuːlɚ ˈkuːlɚ ˈkuːlɚ ˈku·lər,1,0
 coolest, kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl kuːl,1,0
@@ -276,9 +276,9 @@ cooped,,0,1
 cooper, ˈkuːpɚ,0,0
 cooperage,,0,1
 cooperate, koʊˈɑːpəreɪt koʊˈɑp·əˌreɪt,0,0
-cooperated, koʊˈɑːpəreɪt,0,0
+cooperated, koʊˈɑːpəreɪt,1,0
 cooperates, koʊˈɑːpəreɪt koʊˈɑp·əˌreɪt,1,0
-cooperating, koʊˈɑːpəreɪt,0,0
+cooperating, koʊˈɑːpəreɪt,1,0
 cooperation, koʊˌɑːpəˈreɪʃən,0,0
 cooperative, koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑp·ər·ə·t̬ɪv koʊˈɑp·ər·ə·t̬ɪv,0,0
 cooperatives, koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑːpɚət̬ɪv koʊˈɑp·ər·ə·t̬ɪv koʊˈɑp·ər·ə·t̬ɪv,1,0
@@ -286,7 +286,7 @@ coopers, ˈkuːpɚ,1,0
 coordinate, koʊˈɔːrdəneɪt koʊˈɔːrdəneɪt koʊˈɔr·dənˌeɪt,0,0
 coordinated, koʊˈɔːrdəneɪt̬ɪd koʊˈɔːrdəneɪt̬ɪd koʊˈɔːrdəneɪt̬ɪd koʊˈɔr·dənˌeɪ·t̬ɪd,0,0
 coordinates,,0,1
-coordinating, koʊˈɔːrdəneɪt koʊˈɔːrdəneɪt,0,0
+coordinating, koʊˈɔːrdəneɪt koʊˈɔːrdəneɪt,1,0
 coordination, koʊˌɔːrdənˈeɪʃən koʊˌɔːrdənˈeɪʃən koʊˌɔːrdənˈeɪʃən koʊˌɔr·dənˈeɪ·ʃən koʊˌɔr·dənˈeɪ·ʃən,0,0
 coordinator, koʊˈɔːrdəneɪt̬ɚ,0,0
 coordinators, koʊˈɔːrdəneɪt̬ɚ,1,0
@@ -297,12 +297,12 @@ coots, kuːt kuːt,1,0
 cop, kɑːp kɑp,0,0
 copa,,0,1
 cope, koʊp koʊp,0,0
-coped, koʊp,0,0
+coped, koʊp,1,0
 copenhagen, ˌkoʊpənˈheɪɡən,0,0
 copernican,,0,1
 copernicus,,0,1
 copes, koʊp koʊp,1,0
-copied, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi,0,0
+copied, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi,1,0
 copier, ˈkɑːpiɚ kɑp·i·ər,0,0
 copiers, ˈkɑːpiɚ kɑp·i·ər,1,0
 copies, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑp·i,1,0
@@ -327,7 +327,7 @@ copy, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑp·i,0,0
 copycat, ˈkɑːpikæt ˈkɑːpikæt ˈkɑp·iˌkæt ˈkɑp·iˌkæt ˈkɑːpi-,0,0
 copycats, ˈkɑːpikæt ˈkɑːpikæt ˈkɑp·iˌkæt ˈkɑp·iˌkæt ˈkɑːpi-,1,0
 copycatting, ˈkɑːpiˌkæt̬ɪŋ,0,0
-copying, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi,0,0
+copying, ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi ˈkɑːpi,1,0
 copyright, ˈkɑːpiraɪt ˈkɑp·iˌrɑɪt,0,0
 copyrighted, ˈkɑːpiraɪt ˈkɑp·iˌrɑɪt,1,0
 copyrights, ˈkɑːpiraɪt ˈkɑp·iˌrɑɪt,1,0
@@ -365,7 +365,7 @@ corinth,,0,1
 corinthian, kəˈrɪnθiən,0,0
 cork, kɔːrk kɔːrk kɔrk,0,0
 corker, ˈkɔːrkɚ,0,0
-corking, kɔːrk,0,0
+corking, kɔːrk,1,0
 corks, kɔːrk kɔːrk kɔrk,1,0
 corkscrew, ˈkɔːrkskruː ˈkɔrkˌskru,0,0
 corky, ˈkɔːrki ˈkɔːrki,0,0
@@ -383,7 +383,7 @@ cornell,,0,1
 corner, ˈkɔːrnɚ ˈkɔːrnɚ ˈkɔːrnɚ ˈkɔr·nər ˈkɔr·nər ˈkɔr·nər,0,0
 cornerback, ˈkɔːrnɚbæk,0,0
 cornered,  -kɔːrnɚd,1,0
-cornering, ˈkɔːrnɚ ˈkɔːrnɚ,0,0
+cornering, ˈkɔːrnɚ ˈkɔːrnɚ,1,0
 corners, ˈkɔːrnɚ ˈkɔːrnɚ ˈkɔːrnɚ ˈkɔːrnɚ ˈkɔr·nər ˈkɔr·nər ˈkɔr·nər,1,0
 cornerstone, ˈkɔːrnɚstoʊn ˈkɔːrnɚstoʊn ˈkɔr·nərˌstoʊn ˈkɔr·nərˌstoʊn,0,0
 cornerstones, ˈkɔːrnɚstoʊn ˈkɔːrnɚstoʊn ˈkɔr·nərˌstoʊn ˈkɔr·nərˌstoʊn,1,0
@@ -430,8 +430,8 @@ corral, kəˈræl kəˈræl,0,0
 corralled,,0,1
 corralling,,0,1
 correct, kəˈrekt kəˈrekt kəˈrekt,0,0
-corrected, kəˈrekt kəˈrekt kəˈrekt,0,0
-correcting, kəˈrekt kəˈrekt kəˈrekt,0,0
+corrected, kəˈrekt kəˈrekt kəˈrekt,1,0
+correcting, kəˈrekt kəˈrekt kəˈrekt,1,0
 correction, kəˈrekʃən kəˈrekʃən kəˈrekʃən kəˈrek·ʃən,0,0
 correctional, kəˈrekʃənəl,0,0
 corrections, kəˈrek·ʃənz,0,0
@@ -441,13 +441,13 @@ correctness, kəˈrektnəs kəˈrektnəs,0,0
 corrects, kəˈrekt kəˈrekt kəˈrekt kəˈrekt,1,0
 corregidor,,0,1
 correlate, ˈkɔːrəleɪt,0,0
-correlated, ˈkɔːrəleɪt,0,0
+correlated, ˈkɔːrəleɪt,1,0
 correlates, ˈkɔːrəleɪt,1,0
-correlating, ˈkɔːrəleɪt,0,0
+correlating, ˈkɔːrəleɪt,1,0
 correlation," ˌkɔːrəˈleɪʃən ˌkɔr·əˈleɪ·ʃən, ˌkɑr-",0,0
 corrente,,0,1
 correspond," ˌkɔːrəˈspɑːnd ˌkɔːrəˈspɑːnd ˌkɔr·əˈspɑnd, ˌkɑr- ˌkɔr·əˈspɑnd, ˌkɑr-",0,0
-corresponded, ˌkɔːrəˈspɑːnd ˌkɔːrəˈspɑːnd,0,0
+corresponded, ˌkɔːrəˈspɑːnd ˌkɔːrəˈspɑːnd,1,0
 correspondence," ˌkɔːrəˈspɑːndəns ˌkɔːrəˈspɑːndəns ˌkɔːrəˈspɑːndəns ˌkɔr·əˈspɑn·dəns, ˌkɑr-",0,0
 correspondent," ˌkɔːrəˈspɑːndənt ˌkɔːrəˈspɑːndənt ˌkɔr·əˈspɑn·dənt, ˌkɑr- ˌkɔr·əˈspɑn·dənt, ˌkɑr-",0,0
 correspondents," ˌkɔːrəˈspɑːndənt ˌkɔːrəˈspɑːndənt ˌkɔr·əˈspɑn·dənt, ˌkɑr- ˌkɔr·əˈspɑn·dənt, ˌkɑr-",1,0
@@ -458,21 +458,21 @@ corridor," ˈkɔːrədɚ ˈkɔːrədɚ ˈkɔr·əd·ər, ˈkɑr-, -əˌdɔr ˈk�
 corridors," ˈkɔːrədɚ ˈkɔːrədɚ ˈkɔr·əd·ər, ˈkɑr-, -əˌdɔr ˈkɔr·əd·ər, ˈkɑr-, -əˌdɔr",1,0
 corrie, ˈkɔːri,0,0
 corroborate, kəˈrɑːbəreɪt kəˈrɑb·əˌreɪt,0,0
-corroborated, kəˈrɑːbəreɪt,0,0
+corroborated, kəˈrɑːbəreɪt,1,0
 corroborates, kəˈrɑːbəreɪt kəˈrɑb·əˌreɪt,1,0
 corroborating, kəˈrɑːbəreɪt̬ɪŋ,0,0
 corroboration, kəˌrɑːbəˈreɪʃən,0,0
 corroborative, kəˈrɑːbəreɪt̬ɪŋ,1,0
 corrode, kəˈroʊd kəˈroʊd,0,0
-corroded, kəˈroʊd,0,0
+corroded, kəˈroʊd,1,0
 corrodes, kəˈroʊd kəˈroʊd,1,0
 corrosion, kəˈroʊʒən,0,0
 corrosive, kəˈroʊsɪv kəˈroʊsɪv,0,0
 corrugated," ˈkɔːrəɡeɪt̬ɪd ˈkɔr·əˌɡeɪ·t̬ɪd, ˈkɑr-",0,0
 corrupt, kəˈrʌpt kəˈrʌpt kəˈrʌpt kəˈrʌpt kəˈrʌpt,0,0
-corrupted, kəˈrʌpt kəˈrʌpt,0,0
+corrupted, kəˈrʌpt kəˈrʌpt,1,0
 corruptible, kəˈrʌptəbəl,0,0
-corrupting, kəˈrʌpt kəˈrʌpt,0,0
+corrupting, kəˈrʌpt kəˈrʌpt,1,0
 corruption, kəˈrʌpʃən kəˈrʌpʃən kəˈrʌpʃən,0,0
 corruptions, kəˈrʌpʃən kəˈrʌpʃən kəˈrʌpʃən,1,0
 corruptly, kəˈrʌptli,0,0

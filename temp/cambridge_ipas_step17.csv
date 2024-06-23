@@ -1,11 +1,11 @@
 Word,Pronunciation,Root Word Returned,Missing
-clashed, klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ,0,0
+clashed, klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ,1,0
 clashes, klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ,1,0
-clashing, klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ,0,0
+clashing, klæʃ klæʃ klæʃ klæʃ klæʃ klæʃ,1,0
 clasp, klæsp klæsp,0,0
-clasped, klæsp,0,0
+clasped, klæsp,1,0
 class, klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs,0,0
-classed, klæs,0,0
+classed, klæs,1,0
 classes, klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs klæs,1,0
 classic, ˈklæsɪk ˈklæsɪk ˈklæsɪk ˈklæsɪk ˈklæsɪk ˈklæs·ɪk ˈklæs·ɪk ˈklæs·ɪk,0,0
 classical, ˈklæsɪkəl ˈklæsɪkəl ˈklæsɪkəl ˈklæsɪkəl ˈklæs·ɪ·kəl ˈklæs·ɪ·kəl,0,0
@@ -18,7 +18,7 @@ classifications, ˌklæsəfəˈkeɪʃən ˌklæsəfəˈkeɪʃən ˌklæs·ə·f�
 classified, ˈklæsəfaɪd ˈklæs·əˌfɑɪd,0,0
 classifies, ˈklæsəfaɪ ˈklæsəfaɪ ˈklæs·əˌfɑɪ ˈklæs·əˌfɑɪ,1,0
 classify, ˈklæsəfaɪ ˈklæsəfaɪ ˈklæs·əˌfɑɪ ˈklæs·əˌfɑɪ,0,0
-classifying, ˈklæsəfaɪ ˈklæsəfaɪ,0,0
+classifying, ˈklæsəfaɪ ˈklæsəfaɪ,1,0
 classless, ˈklæsləs ˈklæsləs,0,0
 classmate, ˈklæsmeɪt ˈklæsˌmeɪt,0,0
 classmates, ˈklæsmeɪt ˈklæsˌmeɪt,1,0
@@ -27,7 +27,7 @@ classroom," ˈklæsruːm ˈklæsˌrum, -ˌrʊm",0,0
 classrooms," ˈklæsruːm ˈklæsruːm ˈklæsruːm ˈklæsˌrum, -ˌrʊm",1,0
 classy, ˈklæsi,0,0
 clatter, ˈklæt̬ɚ ˈklæt̬·ər,0,0
-clattering, ˈklæt̬ɚ,0,0
+clattering, ˈklæt̬ɚ,1,0
 claudius,,0,1
 claus,,0,1
 clause, klɑːz klɑːz klɔz klɔz,0,0
@@ -38,7 +38,7 @@ clavichord, ˈklævɪkɔːrd,0,0
 clavicle, ˈklævɪkəl,0,0
 claw, klɑː klɑː klɑː klɑː klɔ klɔ,0,0
 clawed, klɑːd,0,0
-clawing, klɑː,0,0
+clawing, klɑː,1,0
 claws, klɑː klɑː klɑː klɑː klɔ klɔ,1,0
 claxon,,0,1
 clay, kleɪ kleɪ kleɪ,0,0
@@ -46,7 +46,7 @@ clayman,,0,1
 claymore,,0,1
 clays,,0,1
 clean, kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn klin klin klin klin klin klin,0,0
-cleaned, kliːn kliːn kliːn,0,0
+cleaned, kliːn kliːn kliːn,1,0
 cleaner, ˈkliːnɚ ˈkliːnɚ ˈkli·nər ˈkli·nər ˈkli·nər,0,0
 cleaners,,0,1
 cleanest, kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn klin klin klin klin klin klin,1,0
@@ -56,7 +56,7 @@ cleanly, ˈkliːnli ˈkliːnli ˈkliːnli,0,0
 cleanness, ˈkliːnnəs,0,0
 cleans, kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn kliːn klin klin klin klin klin klin,1,0
 cleanse, klenz klenz klenz,0,0
-cleansed, klenz klenz,0,0
+cleansed, klenz klenz,1,0
 cleanser, ˈklenzɚ ˈklen·zər,0,0
 cleansers, ˈklenzɚ ˈklen·zər,1,0
 cleansing, ˈklenzɪŋ,0,0
@@ -88,7 +88,7 @@ clement, ˈklemənt,0,0
 clementine, ˈkleməntiːn,0,0
 clements,,0,1
 clench, klentʃ klentʃ,0,0
-clenched, klentʃ,0,0
+clenched, klentʃ,1,0
 clenches, klentʃ klentʃ,1,0
 cleopatra,,0,1
 clergy, ˈklɝːdʒi ˈklɜr·dʒi,0,0
@@ -109,9 +109,9 @@ cliche," kliːˈʃeɪ kliːˈʃeɪ kliˈʃeɪ, klɪ-",1,0
 cliched, kliːˈʃeɪd,1,0
 cliches," kliːˈʃeɪ kliːˈʃeɪ kliˈʃeɪ, klɪ-",1,0
 click, klɪk klɪk klɪk klɪk klɪk klɪk,0,0
-clicked, klɪk klɪk klɪk klɪk klɪk,0,0
+clicked, klɪk klɪk klɪk klɪk klɪk,1,0
 clicker, ˈklɪkɚ,0,0
-clicking, klɪk klɪk klɪk klɪk klɪk,0,0
+clicking, klɪk klɪk klɪk klɪk klɪk,1,0
 clicks, klɪk klɪk klɪk klɪk klɪk klɪk klɪk,1,0
 client, ˈklaɪənt ˈklaɪənt ˈklɑɪ·ənt,0,0
 clientele," ˌkliːɑːnˈtel ˌklɑɪ·ənˈtel, ˌkli·ɑn-",0,0
@@ -127,20 +127,20 @@ climates, ˈklaɪmət ˈklaɪmət ˈklɑɪ·mət ˈklɑɪ·mət,1,0
 climatic," klaɪˈmæt̬ɪk klɑɪˈmæt̬·ɪk, klə-",0,0
 climatologists, ˌklaɪməˈtɑːlədʒɪst,1,0
 climax, ˈklaɪmæks ˈklaɪmæks ˈklɑɪ·mæks,0,0
-climaxed, ˈklaɪmæks ˈklaɪmæks,0,0
+climaxed, ˈklaɪmæks ˈklaɪmæks,1,0
 climaxes, ˈklaɪmæks ˈklaɪmæks ˈklɑɪ·mæks,1,0
 climb, klaɪm klaɪm klaɪm klaɪm klaɪm klaɪm klɑɪm klɑɪm klɑɪm,0,0
-climbed, klaɪm klaɪm klaɪm klaɪm klaɪm klaɪm,0,0
+climbed, klaɪm klaɪm klaɪm klaɪm klaɪm klaɪm,1,0
 climber, ˈklaɪmɚ ˈklaɪmɚ ˈklɑɪ·mər,0,0
 climbers, ˈklaɪmɚ ˈklaɪmɚ ˈklɑɪ·mər,1,0
 climbing, ˈklaɪmɪŋ,0,0
 climbs, klaɪm klaɪm klaɪm klaɪm klaɪm klaɪm klɑɪm klɑɪm klɑɪm,1,0
 climes, klaɪmz,1,0
 clinch, klɪntʃ klɪntʃ,0,0
-clinched, klɪntʃ klɪntʃ,0,0
+clinched, klɪntʃ klɪntʃ,1,0
 clincher, ˈklɪntʃɚ ˈklɪn·tʃər,0,0
 clinches, klɪntʃ klɪntʃ klɪntʃ,1,0
-clinching, klɪntʃ klɪntʃ,0,0
+clinching, klɪntʃ klɪntʃ,1,0
 cline, klaɪn,0,0
 cling, klɪŋ klɪŋ klɪŋ klɪŋ,0,0
 clinger,,0,1
@@ -169,16 +169,16 @@ clitoris, ˈklɪt̬ɚɪs ˈklɪt̬·ər·əs,0,0
 clive,,0,1
 cliver,,0,1
 cloak, kloʊk kloʊk kloʊk kloʊk,0,0
-cloaked, kloʊk,0,0
-cloaking, kloʊk,0,0
+cloaked, kloʊk,1,0
+cloaking, kloʊk,1,0
 cloakroom," ˈkloʊkruːm ˈkloʊkruːm ˈkloʊkˌrum, -ˌrʊm",0,0
 clobber, ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑb·ər ˈklɑb·ər,0,0
-clobbered, ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ,0,0
-clobbering, ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ,0,0
+clobbered, ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ,1,0
+clobbering, ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ ˈklɑːbɚ,1,0
 clock, klɑːk klɑk,0,0
-clocked, klɑːk klɑːk klɑːk,0,0
+clocked, klɑːk klɑːk klɑːk,1,0
 clockers,,0,1
-clocking, klɑːk klɑːk klɑːk,0,0
+clocking, klɑːk klɑːk klɑːk,1,0
 clocks, klɑːk klɑːk klɑːk klɑːk klɑːk klɑk,1,0
 clockwise, ˈklɑːkwaɪz ˈklɑkˌwɑɪz,0,0
 clockwork, ˈklɑːkwɝːk ˈklɑkˌwɜrk,0,0
@@ -190,7 +190,7 @@ cloister, ˈklɔɪstɚ ˈklɔɪ·stər,0,0
 cloistered, ˈklɔɪstɚd ˈklɔɪstɚd,0,0
 cloisters, ˈklɔɪstɚ ˈklɔɪ·stər,1,0
 clone, kloʊn kloʊn kloʊn kloʊn,0,0
-cloned, kloʊn,0,0
+cloned, kloʊn,1,0
 clones, kloʊn kloʊn kloʊn kloʊn,1,0
 cloning, ˈkloʊnɪŋ ˈkloʊ·nɪŋ,0,0
 clos,,0,1
@@ -224,9 +224,9 @@ clotted,,0,1
 clotting, ˈklɑːt̬ɪŋ,0,0
 cloud, klaʊd klaʊd klɑʊd klɑʊd klɑʊd,0,0
 cloudburst, ˈklaʊdbɝːst ˈklɑʊdˌbɜrst,0,0
-clouded, klaʊd klaʊd,0,0
+clouded, klaʊd klaʊd,1,0
 cloudiness,,0,1
-clouding, klaʊd klaʊd,0,0
+clouding, klaʊd klaʊd,1,0
 cloudless, ˈklaʊdləs ˈklɑʊd·ləs,0,0
 clouds, klaʊd klaʊd klaʊd klɑʊd klɑʊd klɑʊd,1,0
 cloudy, ˈklaʊdi ˈklaʊdi ˈklɑʊ·di,0,0
@@ -236,7 +236,7 @@ clover, ˈkloʊvɚ ˈkloʊ·vər,0,0
 cloverleaf, ˈkloʊvɚˌliːf ˈkloʊ·vərˌlif,0,0
 cloves, kloʊv kloʊv kloʊv kloʊv,1,0
 clown, klaʊn klaʊn klɑʊn klɑʊn,0,0
-clowning, klaʊn,0,0
+clowning, klaʊn,1,0
 clowns, klaʊn klaʊn klɑʊn klɑʊn,1,0
 cloy, klɔɪ,0,0
 cloying, ˈklɔɪɪŋ ˈklɔɪɪŋ,0,0
@@ -248,7 +248,7 @@ clubhouse, ˈklʌbhaʊs ˈklʌbhaʊs ˈklʌbhaʊs,0,0
 clubhouses, ˈklʌbhaʊs ˈklʌbhaʊs ˈklʌbhaʊs,1,0
 clubs, klʌbz,0,0
 cluck, klʌk klʌk klʌk klʌk,0,0
-clucking, klʌk klʌk klʌk,0,0
+clucking, klʌk klʌk klʌk,1,0
 clucks, klʌk klʌk klʌk klʌk,1,0
 clue, kluː klu,0,0
 clued, kluː klu,1,0
@@ -256,7 +256,7 @@ clueless, ˈkluːləs,0,0
 clues, kluː klu,1,0
 clum,,0,1
 clump, klʌmp klʌmp klʌmp klʌmp,0,0
-clumping, klʌmp klʌmp,0,0
+clumping, klʌmp klʌmp,1,0
 clumps, klʌmp klʌmp klʌmp klʌmp,1,0
 clumpy,,0,1
 clumsily, ˈklʌmzəli ˈklʌmzəli,0,0
@@ -269,41 +269,41 @@ clunkers,,0,1
 clunks, klʌŋk klʌŋk,1,0
 clunky, ˈklʌŋki ˈklʌŋki ˈklʌŋki,0,0
 cluster, ˈklʌstɚ ˈklʌstɚ ˈklʌs·tər,0,0
-clustered, ˈklʌstɚ,0,0
-clustering, ˈklʌstɚ,0,0
+clustered, ˈklʌstɚ,1,0
+clustering, ˈklʌstɚ,1,0
 clusters, ˈklʌstɚ ˈklʌstɚ ˈklʌs·tər,1,0
 clutch, klʌtʃ klʌtʃ,0,0
-clutched, klʌtʃ,0,0
+clutched, klʌtʃ,1,0
 clutches, ˈklʌtʃ·əz ˈklʌtʃ·əz,0,1
-clutching, klʌtʃ,0,0
+clutching, klʌtʃ,1,0
 clutter, ˈklʌt̬ɚ ˈklʌt̬·ər,0,0
 cluttered, ˈklʌt̬ɚd,0,0
-cluttering, ˈklʌt̬ɚ,0,0
+cluttering, ˈklʌt̬ɚ,1,0
 clydesdale,,0,1
 co," koʊ- koʊ koʊ ˌsiːˈoʊ ˌsiːˈoʊ koʊ ˈkʌm·pə·ni, koʊ",0,0
 coach, koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ,0,0
-coached, koʊtʃ koʊtʃ koʊtʃ,0,0
+coached, koʊtʃ koʊtʃ koʊtʃ,1,0
 coaches, koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ koʊtʃ,1,0
 coaching, ˈkoʊtʃɪŋ ˈkoʊtʃɪŋ,0,0
 coachman,,0,1
 coagulate, koʊˈæɡjəleɪt koʊˈæɡ·jəˌleɪt,0,0
-coagulating, koʊˈæɡjəleɪt,0,0
+coagulating, koʊˈæɡjəleɪt,1,0
 coagulation, koʊˌæɡjəˈleɪʃən,0,0
 coal, koʊl koʊl,0,0
 coalesce, koʊəˈles ˌkoʊ·əˈles,0,0
-coalesced, koʊəˈles,0,0
+coalesced, koʊəˈles,1,0
 coalescence, koʊəˈlesəns koʊəˈlesəns,0,0
-coalescing, koʊəˈles,0,0
+coalescing, koʊəˈles,1,0
 coalition, koʊəˈlɪʃən ˌkoʊ·əˈlɪʃ·ən,0,0
 coalitions, koʊəˈlɪʃən ˌkoʊ·əˈlɪʃ·ən,1,0
 coals, koʊl koʊl,1,0
 coarse," kɔːrs kɔːrs kɔrs, koʊrs kɔrs, koʊrs",0,0
 coast, koʊst koʊst,0,0
 coastal, ˈkoʊstəl ˈkoʊ·stəl,0,0
-coasted, koʊst koʊst koʊst,0,0
+coasted, koʊst koʊst koʊst,1,0
 coaster, ˈkoʊstɚ ˈkoʊstɚ ˈkoʊ·stər,0,0
 coasters, ˈkoʊstɚ ˈkoʊstɚ ˈkoʊ·stər,1,0
-coasting, koʊst koʊst koʊst,0,0
+coasting, koʊst koʊst koʊst,1,0
 coastline, ˈkoʊstlaɪn ˈkoʊstˌlɑɪn,0,0
 coastlines, ˈkoʊstlaɪn ˈkoʊstˌlɑɪn,1,0
 coasts, koʊst koʊst koʊst koʊst koʊst,1,0
@@ -319,7 +319,7 @@ coauthored, koʊˈɑːθɚ,1,0
 coauthoring, koʊˈɑːθɚ,1,0
 coauthors, koʊˈɑːθɚ,1,0
 coax, koʊks koʊks koʊks,0,0
-coaxed, koʊks koʊks,0,0
+coaxed, koʊks koʊks,1,0
 coaxes, koʊks koʊks koʊks,1,0
 coaxial, ˌkoʊˈæksiəl ˌkoʊˈæksiəl,0,0
 coaxing, ˈkoʊksɪŋ,0,0
@@ -352,7 +352,7 @@ cocked, kɑːkt,0,0
 cocker,,0,1
 cockeyed, ˌkɑːkˈaɪd ˌkɑːkˈaɪd ˌkɑːkˈaɪd ˈkɑkˌɑɪd,0,0
 cockiness,,0,1
-cocking, kɑːk kɑːk,0,0
+cocking, kɑːk kɑːk,1,0
 cockle, ˈkɑːkəl,0,0
 cockles, ˈkɑːkəl,1,0
 cockney, ˈkɑːkni ˈkɑːkni,0,0
@@ -374,15 +374,15 @@ cocoons, kəˈkuːn kəˈkuːn kəˈkun kəˈkun,1,0
 cod, kɑːd kɑd,0,0
 coda, ˈkoʊdə ˈkoʊdə ˈkoʊdə,0,0
 coddle, ˈkɑːdəl ˈkɑːdəl kɑd·əl,0,0
-coddled, ˈkɑːdəl ˈkɑːdəl,0,0
-coddling, ˈkɑːdəl ˈkɑːdəl,0,0
+coddled, ˈkɑːdəl ˈkɑːdəl,1,0
+coddling, ˈkɑːdəl ˈkɑːdəl,1,0
 code, koʊd koʊd koʊd koʊd koʊd koʊd koʊd koʊd koʊd,0,0
 coded, ˈkoʊdɪd,0,0
 coder, ˈkoʊdɚ ˈkoʊdɚ,0,0
 codes, koʊd koʊd koʊd koʊd koʊd koʊd koʊd koʊd koʊd,1,0
 codify," ˈkɑːdəfaɪ ˈkɑd·əˌfɑɪ, ˈkoʊd- ˈkɑː-",0,0
-codifying, ˈkɑːdəfaɪ,0,0
-coding, koʊd koʊd koʊd,0,0
+codifying, ˈkɑːdəfaɪ,1,0
+coding, koʊd koʊd koʊd,1,0
 coe,,0,1
 coed, ˈkoʊ·ed,0,0
 coeds, ˈkoʊ·ed,1,0
@@ -392,8 +392,8 @@ coefficients, ˌkoʊɪˈfɪʃənt ˌkoʊ·ɪˈfɪʃ·ənt ˌkoʊ·ɪˈfɪʃ·ən
 coelacanth,,0,1
 coenzyme, ˌkoʊˈenzaɪm koʊˈen·zɑɪm,0,0
 coerce, koʊˈɝːs koʊˈɜrs,0,0
-coerced, koʊˈɝːs,0,0
-coercing, koʊˈɝːs,0,0
+coerced, koʊˈɝːs,1,0
+coercing, koʊˈɝːs,1,0
 coercion, koʊˈɝːʃən,0,0
 coercive, koʊˈɝːsɪv,0,0
 coexist, ˌkoʊɪɡˈzɪst ˌkoʊ·ɪɡˈzɪst,0,0
@@ -419,7 +419,7 @@ cognitive," ˈkɑːɡnət̬ɪv kɑɡ·nə·t̬ɪv, -nə·tɪv",0,0
 cognizance,,0,1
 cognizant, ˈkɑːɡnɪzənt,0,0
 cohabitation, koʊˌhæbəˈteɪʃən,0,0
-cohabiting, koʊˈhæbɪt,0,0
+cohabiting, koʊˈhæbɪt,1,0
 cohen,,0,1
 coherence, koʊˈhɪrəns koʊˈhɪər·əns,0,0
 coherent, koʊˈhɪrənt koʊˈhɪrənt koʊˈhɪər·ənt koʊˈhɪər·ənt,0,0
@@ -434,21 +434,21 @@ cohosts,,0,1
 coif,,0,1
 coil, kɔɪl kɔɪl kɔɪl kɔɪl kɔɪl,0,0
 coiled, kɔɪld,0,0
-coiling, kɔɪl,0,0
+coiling, kɔɪl,1,0
 coils, kɔɪl kɔɪl kɔɪl kɔɪl kɔɪl,1,0
 coin, kɔɪn kɔɪn kɔɪn,0,0
 coinage, ˈkɔɪnɪdʒ ˈkɔɪnɪdʒ ˈkɔɪ·nɪdʒ ˈkɔɪ·nɪdʒ,0,0
 coincide, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd ˌkoʊ·ənˈsɑɪd,0,0
-coincided, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd,0,0
+coincided, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd,1,0
 coincidence," koʊˈɪnsɪdəns koʊˈɪnsɪdəns koʊˈɪn·sɪ·dəns, -səˌdens",0,0
 coincidences," koʊˈɪnsɪdəns koʊˈɪnsɪdəns koʊˈɪn·sɪ·dəns, -səˌdens",1,0
 coincident, koʊˈɪnsɪdənt,0,0
 coincidental, koʊˌɪnsəˈdent̬əl,0,0
 coincidentally, koʊˌɪnsəˈdent̬əli,0,0
 coincides, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd ˌkoʊ·ənˈsɑɪd,1,0
-coinciding, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd,0,0
-coined, kɔɪn kɔɪn,0,0
-coining, kɔɪn kɔɪn,0,0
+coinciding, ˌkoʊɪnˈsaɪd ˌkoʊɪnˈsaɪd,1,0
+coined, kɔɪn kɔɪn,1,0
+coining, kɔɪn kɔɪn,1,0
 coins, kɔɪn kɔɪn kɔɪn kɔɪn,1,0
 coit,,0,1
 coitus, ˈkɔɪt̬əs,0,0
@@ -477,8 +477,8 @@ colin,,0,1
 coliseum, ˌkɑːləˈsiːəm,0,0
 coll,,0,1
 collaborate, kəˈlæbəreɪt kəˈlæbəreɪt kəˈlæb·əˌreɪt kəˈlæb·əˌreɪt,0,0
-collaborated, kəˈlæbəreɪt kəˈlæbəreɪt,0,0
-collaborating, kəˈlæbəreɪt kəˈlæbəreɪt,0,0
+collaborated, kəˈlæbəreɪt kəˈlæbəreɪt,1,0
+collaborating, kəˈlæbəreɪt kəˈlæbəreɪt,1,0
 collaboration, kəˌlæbəˈreɪʃən kəˌlæbəˈreɪʃən,0,0
 collaborationist, kəˌlæbəˈreɪʃənɪst,0,0
 collaborations, kəˌlæbəˈreɪʃən kəˌlæbəˈreɪʃən,1,0

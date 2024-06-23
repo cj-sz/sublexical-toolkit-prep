@@ -24,7 +24,7 @@ cherie,,0,1
 cherish, ˈtʃerɪʃ ˈtʃerɪʃ ˈtʃer·ɪʃ,0,0
 cherished, ˈtʃer·ɪʃt,0,0
 cherishes, ˈtʃerɪʃ ˈtʃerɪʃ ˈtʃer·ɪʃ,1,0
-cherishing, ˈtʃerɪʃ ˈtʃerɪʃ,0,0
+cherishing, ˈtʃerɪʃ ˈtʃerɪʃ,1,0
 cherokee,,0,1
 cherokees,,0,1
 cherries, ˈtʃeri ˈtʃer·i,1,0
@@ -53,9 +53,9 @@ chevrolets,,0,1
 chevron, ˈʃevrən,0,0
 chevy,,0,1
 chew, tʃuː tʃuː tʃu,0,0
-chewed, tʃuː tʃuː,0,0
+chewed, tʃuː tʃuː,1,0
 chewer,,0,1
-chewing, tʃuː tʃuː,0,0
+chewing, tʃuː tʃuː,1,0
 chews, tʃuː tʃuː tʃu,1,0
 chewy, ˈtʃuːi ˈtʃu·i,0,0
 cheyenne, ˌʃaɪˈen,0,0
@@ -82,8 +82,8 @@ chickens, ˈtʃɪkɪn ˈtʃɪkɪn ˈtʃɪk·ən ˈtʃɪk·ən,1,0
 chicks, tʃɪk tʃɪk tʃɪk,1,0
 chico,,0,1
 chide, tʃaɪd tʃɑɪd,0,0
-chided, tʃaɪd,0,0
-chiding, tʃaɪd,0,0
+chided, tʃaɪd,1,0
+chiding, tʃaɪd,1,0
 chief, tʃiːf tʃiːf tʃif tʃif,0,0
 chiefly, ˈtʃiːfli ˈtʃif·li,0,0
 chiefs, tʃiːf tʃiːf tʃif tʃif,1,0
@@ -118,7 +118,7 @@ chillingly, ˈtʃɪlɪŋli,0,0
 chills, tʃɪl tʃɪl,1,0
 chilly, ˈtʃɪli ˈtʃɪli ˈtʃɪl·i,0,0
 chime, tʃaɪm tʃɑɪm,0,0
-chimed, tʃaɪm,0,0
+chimed, tʃaɪm,1,0
 chimera," kaɪˈmerə, kaɪˈmɪrə kaɪˈmerə, kaɪˈmɪrə kaɪˈmerə, kaɪˈmɪrə kaɪˈmerə, kaɪˈmɪrə",0,0
 chimes,,0,1
 chimney, ˈtʃɪmni ˈtʃɪmni ˈtʃɪm·ni,0,0
@@ -152,7 +152,7 @@ chiropractic, ˌkaɪəroʊˈpræktɪk ˌkɑɪ·rəˈpræk·tɪk,0,0
 chiropractor, ˈkaɪroʊpræktɚ ˈkɑɪ·rəˌpræk·tər,0,0
 chiropractors, ˈkaɪroʊpræktɚ ˈkɑɪ·rəˌpræk·tər,1,0
 chirp, tʃɝːp tʃɝːp tʃɜrp,0,0
-chirping, tʃɝːp tʃɝːp,0,0
+chirping, tʃɝːp tʃɝːp,1,0
 chirps, tʃɝːp tʃɝːp tʃɜrp,1,0
 chirpy, ˈtʃɝːpi,0,0
 chisel, ˈtʃɪzəl ˈtʃɪz·əl,0,0
@@ -177,7 +177,7 @@ chlordane,,0,1
 chloride, ˈklɔːraɪd,0,0
 chlorinate," ˈklɔːrəneɪt ˈklɔr·əˌneɪt, ˈkloʊr-",0,0
 chlorinated, ˈklɔːrəneɪt̬ɪd,0,0
-chlorinating, ˈklɔːrəneɪt,0,0
+chlorinating, ˈklɔːrəneɪt,1,0
 chlorine," ˈklɔːriːn ˈklɔr·in, ˈkloʊr-",0,0
 chloroform, ˈklɔːrəfɔːrm,0,0
 chlorophyll," ˈklɔːrəfɪl ˈklɔr·əˌfɪl, ˈkloʊr-",0,0
@@ -195,13 +195,13 @@ chok,,0,1
 choke, tʃoʊk tʃoʊk tʃoʊk tʃoʊk,0,0
 choked, tʃoʊkt,0,0
 chokes, tʃoʊk tʃoʊk tʃoʊk tʃoʊk,1,0
-choking, tʃoʊk tʃoʊk tʃoʊk tʃoʊk,0,0
+choking, tʃoʊk tʃoʊk tʃoʊk tʃoʊk,1,0
 cholera, ˈkɑːlɚə ˈkɑl·ər·ə,0,0
 choleric, kəˈlerɪk,0,0
 cholesterol, kəˈlestərɑːl kəˈles·təˌrɔl,0,0
 cholla,,0,1
 chomp," tʃɑːmp tʃɑmp, tʃɔmp",0,0
-chomping, tʃɑːmp,0,0
+chomping, tʃɑːmp,1,0
 chon,,0,1
 chook, tʃʊk,0,0
 choose, tʃuːz tʃuz,0,0
@@ -227,12 +227,12 @@ choreograph, ˈkɔːriəɡræf ˈkɔːriəɡræf,0,0
 choreographed, ˈkɔːriəɡræft ˈkɔːriəɡræft,0,0
 choreographer, ˌkɔːriˈɑːɡrəfɚ,0,0
 choreographers, ˌkɔːriˈɑːɡrəfɚ,1,0
-choreographing, ˈkɔːriəɡræf ˈkɔːriəɡræf,0,0
+choreographing, ˈkɔːriəɡræf ˈkɔːriəɡræf,1,0
 choreography," ˌkɔːriˈɑːɡrəfi ˌkɔr·iˈɑɡ·rə·fi, ˌkoʊr-",0,0
 chores," tʃɔːr tʃɔr, tʃoʊr tʃɔr, tʃoʊr",1,0
 chortle, ˈtʃɔːrt̬əl ˈtʃɔr·t̬əl,0,0
 chortles, ˈtʃɔːrt̬əl ˈtʃɔr·t̬əl,1,0
-chortling, ˈtʃɔːrt̬əl,0,0
+chortling, ˈtʃɔːrt̬əl,1,0
 chorus," ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr-",0,0
 choruses," ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔːrəs ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr- ˈkɔr·əs, ˈkoʊr-",1,0
 chose, tʃoʊz tʃoʊz,0,0
@@ -245,7 +245,7 @@ choy,,0,1
 christ, kraɪst krɑɪst,0,0
 christen, ˈkrɪsən ˈkrɪsən ˈkrɪsən ˈkrɪs·ən ˈkrɪs·ən ˈkrɪs·ən,0,0
 christendom, ˈkrɪsəndəm,0,0
-christened, ˈkrɪsən ˈkrɪsən ˈkrɪsən,0,0
+christened, ˈkrɪsən ˈkrɪsən ˈkrɪsən,1,0
 christening, ˈkrɪsənɪŋ,0,0
 christian, ˈkrɪstʃən ˈkrɪstʃən ˈkrɪs·tʃən,0,0
 christianity, ˌkrɪstʃiˈænət̬i ˌkrɪs·tʃiˈæn·ɪ·t̬i,0,0
@@ -265,11 +265,11 @@ chromosomes, ˈkroʊməsoʊm ˈkroʊ·məˌsoʊm,1,0
 chronic, ˈkrɑːnɪk ˈkrɑːnɪk ˈkrɑn·ɪk,0,0
 chronically, ˈkrɑːnɪkəli,0,0
 chronicle, ˈkrɑːnɪkəl ˈkrɑːnɪkəl ˈkrɑn·ɪ·kəl,0,0
-chronicled, ˈkrɑːnɪkəl,0,0
+chronicled, ˈkrɑːnɪkəl,1,0
 chronicler, ˈkrɑːnɪklɚ,0,0
 chroniclers, ˈkrɑːnɪklɚ,1,0
 chronicles, ˈkrɑːnɪkəl ˈkrɑːnɪkəl ˈkrɑn·ɪ·kəl,1,0
-chronicling, ˈkrɑːnɪkəl,0,0
+chronicling, ˈkrɑːnɪkəl,1,0
 chronological, ˌkrɑːnəˈlɑːdʒɪkəl,0,0
 chronologically, ˌkrɒnəˈlɑːdʒɪkəli,0,0
 chronologies, krəˈnɑːlədʒi krəˈnɑl·ə·dʒi,1,0
@@ -282,13 +282,13 @@ chryslers,,0,1
 chubb,,0,1
 chubby, ˈtʃʌbi ˈtʃʌb·i,0,0
 chuck, tʃʌk tʃʌk tʃʌk tʃʌk,0,0
-chucked, tʃʌk tʃʌk,0,0
+chucked, tʃʌk tʃʌk,1,0
 chuckie, tʃʌk tʃʌk tʃʌk tʃʌk,1,0
-chucking, tʃʌk tʃʌk,0,0
+chucking, tʃʌk tʃʌk,1,0
 chuckle, ˈtʃʌkəl ˈtʃʌk·əl,0,0
-chuckled, ˈtʃʌkəl,0,0
+chuckled, ˈtʃʌkəl,1,0
 chuckles, ˈtʃʌkəl ˈtʃʌk·əl,1,0
-chuckling, ˈtʃʌkəl,0,0
+chuckling, ˈtʃʌkəl,1,0
 chug, tʃʌɡ tʃʌɡ tʃʌɡ tʃʌɡ,0,0
 chugged, tʃʌɡ tʃʌɡ tʃʌɡ tʃʌɡ,1,0
 chugging, ˈtʃʌɡɪŋ,0,0
@@ -312,7 +312,7 @@ churchmen, ˈtʃɝːtʃmən,1,0
 churchyard, ˈtʃɝːtʃjɑːrd ˌtʃɜrtʃˌjɑrd,0,0
 churlish, ˈtʃɝːlɪʃ ˈtʃɜr·lɪʃ,0,0
 churn, tʃɝːn tʃɝːn tʃɝːn tʃɝːn tʃɜrn tʃɜrn,0,0
-churned, tʃɝːn tʃɝːn tʃɝːn tʃɝːn,0,0
+churned, tʃɝːn tʃɝːn tʃɝːn tʃɝːn,1,0
 churning,,0,1
 churns, tʃɝːn tʃɝːn tʃɝːn tʃɝːn tʃɜrn tʃɜrn,1,0
 chute, ʃuːt ʃuːt ʃut ʃut,0,0
@@ -351,9 +351,9 @@ cipher, ˈsaɪfɚ ˈsaɪfɚ ˈsaɪfɚ ˈsɑɪ·fər ˈsɑɪ·fər,0,0
 circa, ˈsɝːkə ˈsɜr·kə,0,0
 circadian, sɝːˈkeɪdiən,0,0
 circle, ˈsɝːkəl ˈsɝːkəl ˈsɜr·kəl ˈsɜr·kəl,0,0
-circled, ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl,0,0
+circled, ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl,1,0
 circles, ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl ˈsɜr·kəl ˈsɜr·kəl,1,0
-circling, ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl,0,0
+circling, ˈsɝːkəl ˈsɝːkəl ˈsɝːkəl,1,0
 circuit, ˈsɝːkɪt ˈsɝːkɪt ˈsɝːkɪt ˈsɝːkɪt ˈsɜr·kət ˈsɜr·kət ˈsɜr·kət ˈsɜr·kət ˈsɜr·kət ˈsɜr·kət ˈsɜr·kət,0,0
 circuitous, sɝːˈkjuːət̬əs sərˈkju·ɪ·t̬əs,0,0
 circuitry, ˈsɝːkɪtri ˈsɜr·kə·tri,0,0
@@ -361,18 +361,18 @@ circuits, ˈsɝːkɪt ˈsɝːkɪt ˈsɝːkɪt ˈsɝːkɪt ˈsɜr·kət ˈsɜr·k
 circular, ˈsɝːkjəlɚ ˈsɝːkjəlɚ ˈsɜr·kjə·lər ˈsɜr·kjə·lər,0,0
 circulars, ˈsɝːkjəlɚ ˈsɝːkjəlɚ ˈsɜr·kjə·lər ˈsɜr·kjə·lər,1,0
 circulate, ˈsɝːkjəleɪt ˈsɝːkjəleɪt ˈsɜr·kjəˌleɪt ˈsɜr·kjəˌleɪt,0,0
-circulated, ˈsɝːkjəleɪt ˈsɝːkjəleɪt,0,0
+circulated, ˈsɝːkjəleɪt ˈsɝːkjəleɪt,1,0
 circulates, ˈsɝːkjəleɪt ˈsɝːkjəleɪt ˈsɜr·kjəˌleɪt ˈsɜr·kjəˌleɪt,1,0
-circulating, ˈsɝːkjəleɪt ˈsɝːkjəleɪt,0,0
+circulating, ˈsɝːkjəleɪt ˈsɝːkjəleɪt,1,0
 circulation, ˌsɝːkjəˈleɪʃən ˌsɝːkjəˈleɪʃən ˌsɝːkjəˈleɪʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən,0,0
 circulations, ˌsɝːkjəˈleɪʃən ˌsɝːkjəˈleɪʃən ˌsɝːkjəˈleɪʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən ˌsɜr·kjəˈlei·ʃən,1,0
 circulatory," ˈsɝːkjələtɔːri ˈsɜr·kjə·ləˌtɔr·i, -ˌtoʊr·i",0,0
 circumcise, ˈsɝːkəmsaɪz ˈsɝːkəmsaɪz ˈsɜr·kəmˌsɑɪz,0,0
-circumcised, ˈsɝːkəmsaɪz ˈsɝːkəmsaɪz,0,0
+circumcised, ˈsɝːkəmsaɪz ˈsɝːkəmsaɪz,1,0
 circumcision, ˌsɝːkəmˈsɪʒən,0,0
 circumference, sɚˈkʌmfɚəns sɚˈkʌmfɚəns sərˈkəm·fər·əns sərˈkəm·fər·əns sərˈkəm·fər·əns,0,0
 circumnavigate, ˌsɝːkəmˈnævəɡeɪt ˌsɝːkəmˈnævəɡeɪt ˌsɝːkəmˈnævəɡeɪt ˌsɜr·kəmˈnæv·ɪˌɡeɪt,0,0
-circumscribed, ˈsɝːkəmskraɪb ˈsɝːkəmskraɪb,0,0
+circumscribed, ˈsɝːkəmskraɪb ˈsɝːkəmskraɪb,1,0
 circumspect, ˈsɝːkəmspekt,0,0
 circumspection, ˌsɝːkəmˈspekʃən,0,0
 circumstance, ˈsɝːkəmstæns ˈsɝːkəmstæns ˈsɜr·kəmˌstæns,0,0
@@ -380,8 +380,8 @@ circumstances,,0,1
 circumstantial, ˌsɝːkəmˈstænʃəl ˌsɜr·kəmˈstæn·ʃəl,0,0
 circumstantially, ˌsɝːkəmˈstænʃəli,0,0
 circumvent, ˌsɝːkəmˈvent ˌsɜr·kəmˈvent,0,0
-circumvented, ˌsɝːkəmˈvent,0,0
-circumventing, ˌsɝːkəmˈvent,0,0
+circumvented, ˌsɝːkəmˈvent,1,0
+circumventing, ˌsɝːkəmˈvent,1,0
 circumvents, ˌsɝːkəmˈvent ˌsɜr·kəmˈvent,1,0
 circus, ˈsɝːkəs ˈsɝːkəs ˈsɝːkəs ˈsɝːkəs ˈsɜr·kəs ˈsɜr·kəs,0,0
 circuses, ˈsɝːkəs ˈsɝːkəs ˈsɝːkəs ˈsɝːkəs ˈsɜr·kəs ˈsɜr·kəs,1,0
@@ -394,10 +394,10 @@ citadel, ˈsɪt̬ədel ˈsɪt̬ədel,0,0
 citation, saɪˈteɪʃən saɪˈteɪʃən saɪˈteɪʃən sɑɪˈteɪ·ʃən sɑɪˈteɪ·ʃən,0,0
 citations, saɪˈteɪʃən saɪˈteɪʃən saɪˈteɪʃən sɑɪˈteɪ·ʃən sɑɪˈteɪ·ʃən,1,0
 cite, saɪt saɪt saɪt saɪt sɑɪt sɑɪt sɑɪt sɑɪt,0,0
-cited, saɪt saɪt saɪt saɪt,0,0
+cited, saɪt saɪt saɪt saɪt,1,0
 cites, saɪt saɪt saɪt saɪt sɑɪt sɑɪt sɑɪt sɑɪt,1,0
 cities, ˈsɪt̬i ˈsɪt̬i ˈsɪt̬i ˈsɪt̬i ˈsɪt̬i ˈsɪt̬·i ˈsɪṱ- ˈsɪṱ-,1,0
-citing, saɪt saɪt saɪt saɪt,0,0
+citing, saɪt saɪt saɪt saɪt,1,0
 citizen, ˈsɪt̬əzən ˈsɪt̬·ə·zən ˈsɪt̬·ə·zən,0,0
 citizenry, ˈsɪt̬·ə·zən·ri,0,1
 citizens, ˈsɪt̬əzən ˈsɪt̬·ə·zən ˈsɪt̬·ə·zən,1,0
@@ -425,8 +425,8 @@ clack, klæk klæk,0,0
 clad, klæd klæd,0,0
 claim, kleɪm kleɪm kleɪm kleɪm kleɪm kleɪm kleɪm,0,0
 claimants, ˈkleɪmənt ˈkleɪmənt ˈkleɪmənt ˈkleɪmənt ˈkleɪmənt,1,0
-claimed, kleɪm kleɪm kleɪm kleɪm kleɪm,0,0
-claiming, kleɪm kleɪm kleɪm kleɪm kleɪm,0,0
+claimed, kleɪm kleɪm kleɪm kleɪm kleɪm,1,0
+claiming, kleɪm kleɪm kleɪm kleɪm kleɪm,1,0
 claims, kleɪm kleɪm kleɪm kleɪm kleɪm kleɪm kleɪm kleɪm,1,0
 clair,,0,1
 claire,,0,1
@@ -434,7 +434,7 @@ clairvoyance, ˌklerˈvɔɪəns,0,0
 clairvoyant, ˌklerˈvɔɪənt,0,0
 clam, klæm klæm,0,0
 clamber," ˈklæmbɚ ˈklæm·bər, -ər",0,0
-clambered, ˈklæmbɚ,0,0
+clambered, ˈklæmbɚ,1,0
 clammed,,0,1
 clammy, ˈklæmi ˈklæm·i,0,0
 clamor, ˈklæmɚ ˈklæm·ər,0,0
@@ -443,8 +443,8 @@ clamoring, ˈklæmɚ ˈklæm·ər,1,0
 clamour, ˈklæmɚ,0,0
 clamp, klæmp klæmp,0,0
 clampdown, ˈklæmpdaʊn,0,0
-clamped, klæmp klæmp klæmp,0,0
-clamping, klæmp klæmp klæmp,0,0
+clamped, klæmp klæmp klæmp,1,0
+clamping, klæmp klæmp klæmp,1,0
 clamps, klæmp klæmp,1,0
 clams, klæm klæm,1,0
 clamshell,,0,1
@@ -452,9 +452,9 @@ clan, klæn klæn klæn,0,0
 clandestine, klænˈdestɪn klænˈdes·tən,0,0
 clandestinely, klænˈdestɪnli,0,0
 clang, klæŋ klæŋ,0,0
-clanging, klæŋ,0,0
+clanging, klæŋ,1,0
 clank, klæŋk klæŋk,0,0
-clanking, klæŋk,0,0
+clanking, klæŋk,1,0
 clannish, ˈklænɪʃ,0,0
 clans, klæn klæn klæn,1,0
 clap, klæp klæp klæp klæp klæp klæp klæp,0,0
@@ -472,7 +472,7 @@ clarifications, ˌklerəfəˈkeɪʃən,1,0
 clarified, ˈklerəfaɪ ˈklerəfaɪ ˈklær·əˌfɑɪ,1,0
 clarifies, ˈklerəfaɪ ˈklerəfaɪ ˈklær·əˌfɑɪ,1,0
 clarify, ˈklerəfaɪ ˈklerəfaɪ ˈklær·əˌfɑɪ,0,0
-clarifying, ˈklerəfaɪ ˈklerəfaɪ,0,0
+clarifying, ˈklerəfaɪ ˈklerəfaɪ,1,0
 clarinet, ˌklerɪˈnet ˌklær·əˈnet,0,0
 clarinetist, ˌklerɪˈnet̬ɪst,0,0
 clarion,,0,1

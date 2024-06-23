@@ -1,11 +1,11 @@
 Word,Pronunciation,Root Word Returned,Missing
 magnificent, mæɡˈnɪfəsənt mæɡˈnɪf·ə·sənt,0,0
 magnificently, mæɡˈnɪfəsəntli,0,0
-magnified, ˈmæɡnəfaɪ ˈmæɡnəfaɪ,0,0
+magnified, ˈmæɡnəfaɪ ˈmæɡnəfaɪ,1,0
 magnifier, ˈmæɡnɪfaɪɚ,0,0
 magnifies, ˈmæɡnəfaɪ ˈmæɡnəfaɪ ˈmæɡ·nəˌfɑɪ ˈmæɡ·nəˌfɑɪ,1,0
 magnify, ˈmæɡnəfaɪ ˈmæɡnəfaɪ ˈmæɡ·nəˌfɑɪ ˈmæɡ·nəˌfɑɪ,0,0
-magnifying, ˈmæɡnəfaɪ ˈmæɡnəfaɪ,0,0
+magnifying, ˈmæɡnəfaɪ ˈmæɡnəfaɪ,1,0
 magnitude, ˈmæɡnətuːd ˈmæɡ·nəˌtud ˈmæɡ·nəˌtud ˈmæɡ·nəˌtud,0,0
 magnolia, mæɡˈnoʊliə mæɡˈnoʊliə mæɡˈnoʊl·jə,0,0
 magnolias, mæɡˈnoʊliə mæɡˈnoʊliə mæɡˈnoʊl·jə,1,0
@@ -29,7 +29,7 @@ mail, meɪl meɪl meɪl meɪl,0,0
 mailbag, ˈmeɪlbæɡ ˈmeɪlbæɡ,0,0
 mailbox, ˈmeɪlbɑːks ˈmeɪlbɑːks ˈmeɪlbɑːks ˈmeɪlˌbɑks ˈmeɪlˌbɑks,0,0
 mailboxes, ˈmeɪlbɑːks ˈmeɪlbɑːks ˈmeɪlbɑːks ˈmeɪlˌbɑks ˈmeɪlˌbɑks,1,0
-mailed, meɪl,0,0
+mailed, meɪl,1,0
 mailer,,0,1
 mailers,,0,1
 mailing,,0,1
@@ -38,8 +38,8 @@ mailman," ˈmeɪlmæn ˈmeɪlˌmæn, -mən",0,0
 mailmen," ˈmeɪlmæn ˈmeɪlˌmæn, -mən",1,0
 mails, meɪl meɪl meɪl meɪl meɪl,1,0
 maim, meɪm meɪm,0,0
-maimed, meɪm,0,0
-maiming, meɪm,0,0
+maimed, meɪm,1,0
+maiming, meɪm,1,0
 main, meɪn meɪn,0,0
 maine, meɪn,0,0
 mainframe, ˈmeɪnfreɪm ˈmeɪnˌfreɪm,0,0
@@ -54,8 +54,8 @@ mainstay, ˈmeɪnˌsteɪ,0,1
 mainstays,,0,1
 mainstream, ˈmeɪnstriːm ˈmeɪnstriːm ˈmeɪnˌstrim,0,0
 maintain, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,0,0
-maintained, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,0,0
-maintaining, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,0,0
+maintained, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
+maintaining, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintains, meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn meɪnˈteɪn,1,0
 maintenance, ˈmeɪntənəns ˈmeɪntənəns ˈmeɪntənəns ˈmeɪn·tən·əns ˈmeɪn·tən·əns,0,0
 maire,,0,1
@@ -118,8 +118,8 @@ malformation, ˌmælfɔːrˈmeɪʃən,0,0
 malformations, ˌmælfɔːrˈmeɪʃən,1,0
 malformed, ˌmælˈfɔːrmd,0,0
 malfunction, ˌmælˈfʌŋkʃən mælˈfʌŋk·ʃən ˌmælˈfʌŋkʃən,0,0
-malfunctioned, ˌmælˈfʌŋkʃən,0,0
-malfunctioning, ˌmælˈfʌŋkʃən,0,0
+malfunctioned, ˌmælˈfʌŋkʃən,1,0
+malfunctioning, ˌmælˈfʌŋkʃən,1,0
 malfunctions, ˌmælˈfʌŋkʃən mælˈfʌŋk·ʃən ˌmælˈfʌŋkʃən,1,0
 mali, ˈmɑːli,0,0
 malice, ˈmælɪs ˈmæl·ɪs,0,0
@@ -128,7 +128,7 @@ maliciously, məˈlɪʃəsli,0,0
 malign, məˈlaɪn məˈlɑɪn,0,0
 malignancy, məˈlɪɡnənsi məˈlɪɡnənsi məˈlɪɡ·nən·si,0,0
 malignant, məˈlɪɡnənt məˈlɪɡnənt məˈlɪɡ·nənt,0,0
-maligned, məˈlaɪn,0,0
+maligned, məˈlaɪn,1,0
 malik,,0,1
 maline,,0,1
 malkin,,0,1
@@ -146,10 +146,10 @@ malo,,0,1
 malpractice, ˌmælˈpræktɪs mælˈpræk·tɪs,0,0
 malt, mɑːlt mɑːlt mɑːlt mɔlt,0,0
 malta, ˈmɑːltə,0,0
-malted, mɑːlt,0,0
+malted, mɑːlt,1,0
 maltese, ˌmɑːlˈtiːz,0,0
-malting, mɑːlt,0,0
-maltreated, ˌmælˈtriːt,0,0
+malting, mɑːlt,1,0
+maltreated, ˌmælˈtriːt,1,0
 maltreatment, ˌmælˈtriːtmənt,0,0
 malts, mɑːlt mɑːlt mɑːlt mɔlt,1,0
 malvin,,0,1
@@ -171,14 +171,14 @@ man, mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn mæn,
 mana,,0,1
 manage, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmæn·ɪdʒ ˈmæn·ɪdʒ,0,0
 manageable, ˈmænədʒəbəl ˈmæn·ɪdʒ·ə·bəl,0,0
-managed, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,0,0
+managed, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,1,0
 management, ˈmænədʒmənt ˈmænədʒmənt ˈmæn·ɪdʒ·mənt ˈmæn·ɪdʒ·mənt,0,0
 managements,,0,1
 manager, ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmæn·ɪ·dʒər,0,0
 managerial, ˌmænəˈdʒɪriəl,0,0
 managers, ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmænədʒɚ ˈmæn·ɪ·dʒər,1,0
 manages, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmæn·ɪdʒ ˈmæn·ɪdʒ,1,0
-managing, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,0,0
+managing, ˈmænədʒ ˈmænədʒ ˈmænədʒ ˈmænədʒ,1,0
 manatee, ˌmænəˈtiː,0,0
 manatees, ˌmænəˈtiː,1,0
 manchester, ˈmæntʃestɚ,0,0
@@ -188,7 +188,7 @@ mandala,,0,1
 mandarin, ˈmændɚɪn ˈmændɚɪn,0,0
 mandarins, ˈmændɚɪn ˈmændɚɪn ˈmændɚɪn,1,0
 mandate, ˈmændeɪt ˈmændeɪt ˈmæn·deɪt,0,0
-mandated, ˈmændeɪt ˈmændeɪt,0,0
+mandated, ˈmændeɪt ˈmændeɪt,1,0
 mandates, ˈmændeɪt ˈmændeɪt ˈmæn·deɪt,1,0
 mandatory," ˈmændətɔːri ˈmæn·dəˌtɔr·i, -ˌtoʊr·i ˈmændəˌtɔri",0,0
 mandi,,0,1
@@ -215,14 +215,14 @@ manger, ˈmeɪndʒɚ ˈmeɪn·dʒər,0,0
 mangle, ˈmæŋɡəl ˈmæŋɡəl ˈmæŋ·ɡəl,0,0
 mangled, ˈmæŋɡəld ˈmæŋɡəld,0,0
 mangles, ˈmæŋɡəl ˈmæŋɡəl ˈmæŋ·ɡəl,1,0
-mangling, ˈmæŋɡəl ˈmæŋɡəl,0,0
+mangling, ˈmæŋɡəl ˈmæŋɡəl,1,0
 mango, ˈmæŋɡoʊ ˈmæŋ·ɡoʊ,0,0
 mangoes,,0,1
 mangold, ˈmæŋɡəlˌwɝːzəl,1,0
 mangrove, ˈmæŋɡroʊv,0,0
 mangy, ˈmeɪndʒi ˈmeɪndʒi ˈmeɪn·dʒi ˈmeɪn·dʒi,0,0
 manhandle, ˌmænˈhændəl ˌmænˈhændəl ˈmænˌhæn·dəl,0,0
-manhandled, ˌmænˈhændəl ˌmænˈhændəl,0,0
+manhandled, ˌmænˈhændəl ˌmænˈhændəl,1,0
 manhattan, mænˈhæt̬ən,0,0
 manhole, ˈmænhoʊl ˈmænˌhoʊl,0,0
 manhood, ˈmænhʊd ˈmænhʊd ˈmænhʊd ˈmænhʊd ˈmænhʊd ˈmænˌhʊd ˈmænˌhʊd,0,0
@@ -239,7 +239,7 @@ manicurist, ˈmænəkjʊrɪst,0,0
 manifest, ˈmænəfest ˈmænəfest ˈmæn·əˌfest,0,0
 manifestation," ˌmænəfesˈteɪʃən ˌmænəfesˈteɪʃən ˌmæn·ə·fəˈsteɪ·ʃən, -ˌfesˈteɪ-",0,0
 manifestations," ˌmænəfesˈteɪʃən ˌmænəfesˈteɪʃən ˌmæn·ə·fəˈsteɪ·ʃən, -ˌfesˈteɪ-",1,0
-manifested, ˈmænəfest ˈmænəfest,0,0
+manifested, ˈmænəfest ˈmænəfest,1,0
 manifesting, ˈmænəfestɪŋ,0,0
 manifestly, ˈmænəfestli,0,0
 manifesto, ˌmænəˈfestoʊ ˌmæn·əˈfes·toʊ,0,0
@@ -248,9 +248,9 @@ manifold, ˈmænəfoʊld ˈmæn·əˌfoʊld,0,0
 manila, məˈnɪlə məˈnɪl·ə,0,0
 manilla,,0,1
 manipulate, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪp·jəˌleɪt məˈnɪp·jəˌleɪt,0,0
-manipulated, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt,0,0
+manipulated, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt,1,0
 manipulates, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪp·jəˌleɪt məˈnɪp·jəˌleɪt,1,0
-manipulating, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt,0,0
+manipulating, məˈnɪpjəleɪt məˈnɪpjəleɪt məˈnɪpjəleɪt,1,0
 manipulation, məˌnɪpjəˈleɪʃən məˌnɪpjəˈleɪʃən məˌnɪp·jəˈleɪ·ʃən məˌnɪp·jəˈleɪ·ʃən,0,0
 manipulations, məˌnɪpjəˈleɪʃən məˌnɪpjəˈleɪʃən məˌnɪp·jəˈleɪ·ʃən məˌnɪp·jəˈleɪ·ʃən,1,0
 manipulative," məˈnɪpjələt̬ɪv məˈnɪp·jə·lə·t̬ɪv, -ˌleɪ·t̬ɪv",0,0
@@ -296,10 +296,10 @@ manual, ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmæn·ju·əl ˈmæn·
 manually, ˈmænjuəli ˈmænjuəli ˈmænjuəli,0,0
 manuals, ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmænjuəl ˈmæn·ju·əl ˈmæn·ju·əl,1,0
 manufacture, ˌmænjəˈfæktʃɚ ˌmænjəˈfæktʃɚ ˌmæn·jəˈfæk·tʃər ˌmæn·jəˈfæk·tʃər,0,0
-manufactured, ˌmænjəˈfæktʃɚ ˌmænjəˈfæktʃɚ,0,0
+manufactured, ˌmænjəˈfæktʃɚ ˌmænjəˈfæktʃɚ,1,0
 manufacturer, ˌmænjəˈfæktʃɚɚ,0,0
 manufacturers, ˌmænjəˈfæktʃɚɚ,1,0
-manufactures, ˌmænjəˈfæktʃɚ ˌmænjəˈfæktʃɚ ˌmæn·jəˈfæk·tʃər ˌmæn·jəˈfæk·tʃər,0,0
+manufactures, ˌmænjəˈfæktʃɚ ˌmænjəˈfæktʃɚ ˌmæn·jəˈfæk·tʃər ˌmæn·jəˈfæk·tʃər,1,0
 manufacturing, ˌmænjəˈfæktʃɚɪŋ ˌmæn·jəˈfæk·tʃər·ɪŋ,0,0
 manure," məˈnʊr məˈnʊr, -ˈnjʊr",0,0
 manus, ˈmeɪnəs,0,0
@@ -339,11 +339,11 @@ marcella,,0,1
 marcello,,0,1
 march, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑrtʃ mɑrtʃ,0,0
 marchand,,0,1
-marched, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,0,0
+marched, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,1,0
 marcher, ˈmɑːrtʃɚ,0,0
 marchers, ˈmɑːrtʃɚ,1,0
 marches, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑrtʃ mɑrtʃ mɑrtʃ,1,0
-marching, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,0,0
+marching, mɑːrtʃ mɑːrtʃ mɑːrtʃ mɑːrtʃ,1,0
 marchioness, ˌmɑːrʃənˈes,0,0
 marchman,,0,1
 marco,,0,1
@@ -360,9 +360,9 @@ marge, ˈmɑːrdʒɚɪn ˈmɑr·dʒə·rɪn,1,0
 margin, ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn,0,0
 marginal, ˈmɑːrdʒɪnəl ˈmɑːrdʒɪnəl ˈmɑr·dʒɪ·nəl,0,0
 marginalize, ˈmɑːrdʒɪnəlaɪz,0,0
-marginalized, ˈmɑːrdʒɪnəlaɪz,0,0
+marginalized, ˈmɑːrdʒɪnəlaɪz,1,0
 marginalizes, ˈmɑːrdʒɪnəlaɪz,1,0
-marginalizing, ˈmɑːrdʒɪnəlaɪz,0,0
+marginalizing, ˈmɑːrdʒɪnəlaɪz,1,0
 marginally, ˈmɑːrdʒɪnəli,0,0
 margins, ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑːrdʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn ˈmɑr·dʒɪn,1,0
 marguerite, ˌmɑːrɡəˈriːt ˌmɑːrɡəˈriːt,0,0
@@ -404,7 +404,7 @@ markers, ˈmɑːrkɚ ˈmɑːrkɚ ˈmɑːrkɚ ˈmɑr·kər ˈmɑr·kər,1,0
 market, ˈmɑːrkɪt ˈmɑːrkɪt ˈmɑːrkɪt ˈmɑːrkɪt ˈmɑr·kɪt ˈmɑr·kɪt ˈmɑr·kɪt ˈmɑr·kɪt,0,0
 marketability, ˌmɑːrkɪt̬əˈbɪlət̬i,0,0
 marketable, ˈmɑːrkɪt̬əbəl ˈmɑr·kɪ·t̬ə·bəl,0,0
-marketed, ˈmɑːrkɪt,0,0
+marketed, ˈmɑːrkɪt,1,0
 marketeer, ˌmɑːrkəˈtɪr,0,0
 marketeers, ˌmɑːrkəˈtɪr,1,0
 marketer, ˈmɑːrkət̬ɚ,0,0
@@ -442,7 +442,7 @@ marring,,0,1
 marron, məˈroʊn məˈroʊn,0,0
 marrow, ˈmeroʊ ˈmeroʊ ˈmær·oʊ,0,0
 marry, ˈmeri ˈmeri ˈmeri ˈmær·i ˈmær·i,0,0
-marrying, ˈmeri ˈmeri ˈmeri,0,0
+marrying, ˈmeri ˈmeri ˈmeri,1,0
 mars, mɑːrz mɑːrz mɑrz,0,0
 marsala, mɑːrˈsɑːlɑː,0,0
 marse,,0,1

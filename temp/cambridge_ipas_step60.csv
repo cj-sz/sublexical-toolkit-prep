@@ -20,15 +20,15 @@ neurosurgery, ˌnʊroʊˈsɝːdʒəri,0,0
 neurotic, nʊˈrɑːt̬ɪk nʊˈrɑt̬·ɪk,0,0
 neuter, ˈnuːt̬ɚ ˈnu·t̬ər,0,0
 neutered, ˈnuːt̬ɚd,0,0
-neutering, ˈnuːt̬ɚ ˈnuːt̬ɚ,0,0
+neutering, ˈnuːt̬ɚ ˈnuːt̬ɚ,1,0
 neutral, ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnu·trəl ˈnu·trəl ˈnu·trəl ˈnu·trəl,0,0
 neutralist,,0,1
 neutrality, nuːˈtrælət̬i nuˈtræl·ɪ·t̬i,0,0
 neutralization, ˌnuːtrələˈzeɪʃən ˌnuːtrələˈzeɪʃən ˌnuːtrələˈzeɪʃən ˌnuːtrələˈzeɪʃən ˌnu·trə·lɪˈzeɪ·ʃən ˌnu·trə·lɪˈzeɪ·ʃən,0,0
 neutralize, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnu·trəˌlɑɪz ˈnu·trəˌlɑɪz,0,0
-neutralized, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz,0,0
+neutralized, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz,1,0
 neutralizes, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnu·trəˌlɑɪz ˈnu·trəˌlɑɪz,1,0
-neutralizing, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz,0,0
+neutralizing, ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz ˈnuːtrəlaɪz,1,0
 neutrally, ˈnuːtrəli ˈnuːtrəli,0,0
 neutrals, ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnuːtrəl ˈnu·trəl ˈnu·trəl ˈnu·trəl ˈnu·trəl,1,0
 neutrino, nuːˈtriːnoʊ nuˈtri·noʊ,0,0
@@ -103,9 +103,9 @@ niacin, ˈnaɪəsɪn,0,0
 niagara, naɪˈæɡərə,0,0
 nib, nɪb,0,0
 nibble, ˈnɪbəl ˈnɪbəl ˈnɪb·əl ˈnɪb·əl,0,0
-nibbled, ˈnɪbəl ˈnɪbəl,0,0
+nibbled, ˈnɪbəl ˈnɪbəl,1,0
 nibbles,,0,1
-nibbling, ˈnɪbəl ˈnɪbəl,0,0
+nibbling, ˈnɪbəl ˈnɪbəl,1,0
 nibs,,0,1
 nicaragua, ˌnɪkərˈæɡˈrɑːɡwə,0,0
 nicaraguan, ˌnɪkərəˈrɑːɡwən,0,0
@@ -120,14 +120,14 @@ nicety, ˈnaɪsət̬i ˈnaɪsət̬i,0,0
 niche, nɪtʃ nɪtʃ nɪtʃ nɪtʃ nɪtʃ nɪtʃ nɪtʃ nɪtʃ,0,0
 nicholas,,0,1
 nick, nɪk nɪk nɪk,0,0
-nicked, nɪk nɪk nɪk nɪk,0,0
+nicked, nɪk nɪk nɪk nɪk,1,0
 nickel, ˈnɪkəl ˈnɪkəl ˈnɪkəl ˈnɪk·əl ˈnɪk·əl,0,0
 nickelodeon,,0,1
 nickels, ˈnɪkəl ˈnɪkəl ˈnɪkəl ˈnɪk·əl ˈnɪk·əl,1,0
 nickey,,0,1
 nickle,,0,1
 nickname, ˈnɪkneɪm ˈnɪkˌneɪm,0,0
-nicknamed, ˈnɪkneɪm,0,0
+nicknamed, ˈnɪkneɪm,1,0
 nicknames, ˈnɪkneɪm ˈnɪkˌneɪm,1,0
 nicks, nɪk nɪk nɪk nɪk,1,0
 nicky,,0,1
@@ -226,7 +226,7 @@ nitrous,,0,1
 nitta,,0,1
 nitty, ˌnɪt̬iˈɡrɪt̬i ˈnɪt̬·iˈɡrɪt̬·i,1,0
 nix, nɪks nɪks,0,0
-nixed, nɪks,0,0
+nixed, nɪks,1,0
 nixon,,0,1
 no, noʊ noʊ noʊ noʊ,0,0
 noa,,0,1
@@ -276,9 +276,9 @@ nome,,0,1
 nomenclature, ˈnoʊmenkleɪtʃɚ ˈnoʊ·mənˌkleɪ·tʃər,0,0
 nominal, ˈnɑːmənəl ˈnɑːmənəl ˈnɑːmənəl ˈnɑm·ə·nəl ˈnɑm·ə·nəl,0,0
 nominate, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑm·əˌneɪt ˈnɑm·əˌneɪt,0,0
-nominated, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt,0,0
+nominated, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt,1,0
 nominates, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑm·əˌneɪt ˈnɑm·əˌneɪt,1,0
-nominating, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt,0,0
+nominating, ˈnɑːməneɪt ˈnɑːməneɪt ˈnɑːməneɪt,1,0
 nomination, ˌnɑːməˈneɪʃən ˌnɑːməˈneɪʃən,0,0
 nominations, ˌnɑːməˈneɪʃən ˌnɑːməˈneɪʃən,1,0
 nominee, ˌnɑːməˈniː ˌnɑːməˈniː ˌnɑm·əˈni,0,0
@@ -378,8 +378,8 @@ normal, ˈnɔːrməl ˈnɔr·məl,0,0
 normalcy, nɔːrˈmælət̬i nɔrˈmæl·ɪ·t̬i,1,0
 normality, nɔːrˈmælət̬i nɔrˈmæl·ɪ·t̬i,0,0
 normalize, ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔr·məˌlɑɪz,0,0
-normalized, ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔːrməlaɪz,0,0
-normalizing, ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔːrməlaɪz,0,0
+normalized, ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔːrməlaɪz,1,0
+normalizing, ˈnɔːrməlaɪz ˈnɔːrməlaɪz ˈnɔːrməlaɪz,1,0
 normally, ˈnɔːrməli ˈnɔːrməli ˈnɔr·mə·li,0,0
 norman, ˈnɔːrmən,0,0
 normandy,,0,1
@@ -412,7 +412,7 @@ nosed,  -noʊzd,1,0
 nosedive, ˈnoʊzdaɪv ˈnoʊzdaɪv ˈnoʊzˌdɑɪv,0,0
 noses, noʊz noʊz noʊz noʊz noʊz,1,0
 nosiness, ˈnoʊzinəs,0,0
-nosing, noʊz noʊz,0,0
+nosing, noʊz noʊz,1,0
 nostalgia," nɑːˈstældʒə nɑˈstæl·dʒə, nə-",0,0
 nostalgic, nɑːˈstældʒɪk,0,0
 nostradamus,,0,1
@@ -428,7 +428,7 @@ notary, ˈnoʊt̬ɚi,0,0
 notation, noʊˈteɪʃən noʊˈteɪ·ʃən noʊˈteɪ·ʃən,0,0
 notations, noʊˈteɪʃən noʊˈteɪ·ʃən noʊˈteɪ·ʃən,1,0
 notch, nɑːtʃ nɑːtʃ nɑːtʃ nɑtʃ nɑtʃ,0,0
-notched, nɑːtʃ,0,0
+notched, nɑːtʃ,1,0
 notches, nɑːtʃ nɑːtʃ nɑːtʃ nɑtʃ nɑtʃ,1,0
 note, noʊt noʊt noʊt noʊt noʊt noʊt noʊt noʊt noʊt noʊt noʊt,0,0
 notebook, ˈnoʊtbʊk ˈnoʊtbʊk ˈnoʊtˌbʊk ˈnoʊtˌbʊk,0,0
@@ -443,16 +443,16 @@ nothings, ˈnʌθɪŋ ˈnʌθɪŋ ˈnʌθɪŋ ˈnʌθɪŋ ˈnʌθɪŋ ˈnʌθɪ�
 notice, ˈnoʊt̬ɪs ˈnoʊt̬ɪs ˈnoʊ·t̬ɪs,0,0
 noticeable, ˈnoʊt̬ɪsəbəl ˈnoʊ·t̬ɪ·sə·bəl,0,0
 noticeably, ˈnoʊt̬ɪsəbli,0,0
-noticed, ˈnoʊt̬ɪs ˈnoʊt̬ɪs,0,0
+noticed, ˈnoʊt̬ɪs ˈnoʊt̬ɪs,1,0
 notices,,0,1
-noticing, ˈnoʊt̬ɪs ˈnoʊt̬ɪs,0,0
+noticing, ˈnoʊt̬ɪs ˈnoʊt̬ɪs,1,0
 notification, ˌnoʊt̬əfəˈkeɪʃən ˌnoʊt̬əfəˈkeɪʃən,0,0
 notifications, ˌnoʊt̬əfəˈkeɪʃən ˌnoʊt̬əfəˈkeɪʃən,1,0
-notified, ˈnoʊt̬əfaɪ,0,0
+notified, ˈnoʊt̬əfaɪ,1,0
 notifies, ˈnoʊt̬əfaɪ ˈnoʊ·t̬ɪˌfɑɪ,1,0
 notify, ˈnoʊt̬əfaɪ ˈnoʊ·t̬ɪˌfɑɪ,0,0
-notifying, ˈnoʊt̬əfaɪ,0,0
-noting, noʊt noʊt,0,0
+notifying, ˈnoʊt̬əfaɪ,1,0
+noting, noʊt noʊt,1,0
 notion, ˈnoʊʃən ˈnoʊ·ʃən,0,0
 notions,,0,1
 notochord, ˈnoʊt̬əkɔːrd ˈnoʊt̬əkɔːrd,0,0
@@ -464,7 +464,7 @@ notwithstanding," ˌnɑːtwɪðˈstændɪŋ ˌnɑt·wɪθˈstæn·dɪŋ, -wɪð-
 noun, naʊn nɑʊn,0,0
 nouns, naʊn nɑʊn,1,0
 nourish," ˈnɝːɪʃ ˈnɝːɪʃ ˈnɜr·ɪʃ, ˈnʌr·ɪʃ",0,0
-nourished, ˈnɝːɪʃ ˈnɝːɪʃ,0,0
+nourished, ˈnɝːɪʃ ˈnɝːɪʃ,1,0
 nourishes," ˈnɝːɪʃ ˈnɝːɪʃ ˈnɜr·ɪʃ, ˈnʌr·ɪʃ",1,0
 nourishing, ˈnɝːɪʃɪŋ,0,0
 nourishment, ˈnɝːɪʃmənt,0,0

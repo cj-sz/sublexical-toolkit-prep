@@ -32,7 +32,7 @@ fringes, frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ frɪndʒ
 frisbee, ˈfrɪzbi ˈfrɪz·bi,0,0
 frisco,,0,1
 frisk, frɪsk frɪsk frɪsk frɪsk,0,0
-frisked, frɪsk frɪsk,0,0
+frisked, frɪsk frɪsk,1,0
 frisky, ˈfrɪski ˈfrɪs·ki,0,0
 frist,,0,1
 fritter, ˈfrɪt̬ɚ ˈfrɪt̬·ər,0,0
@@ -57,7 +57,7 @@ fronds, frɑːnd frɑnd,1,0
 front, frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt frʌnt,0,0
 frontage, ˈfrʌnt̬ɪdʒ ˈfrʌn·tɪdʒ,0,0
 frontal, ˈfrʌnt̬əl ˈfrʌnt̬əl ˈfrʌn·təl,0,0
-fronted, frʌnt frʌnt frʌnt frʌnt,0,0
+fronted, frʌnt frʌnt frʌnt frʌnt,1,0
 frontier, frʌnˈtɪr frʌnˈtɪr frʌnˈtɪər frʌnˈtɪər,0,0
 frontiers, frʌnˈtɪr frʌnˈtɪr frʌnˈtɪər frʌnˈtɪər,1,0
 fronting, ˈfrʌnt̬ɪŋ,0,0
@@ -73,8 +73,8 @@ frosty, ˈfrɑːsti ˈfrɑːsti ˈfrɔ·sti ˈfrɔ·sti,0,0
 froth, frɑːθ frɑːθ frɔθ,0,0
 frothy, ˈfrɑːθi ˈfrɑːθi,0,0
 frown, fraʊn frɑʊn,0,0
-frowned, fraʊn,0,0
-frowning, fraʊn,0,0
+frowned, fraʊn,1,0
+frowning, fraʊn,1,0
 frowns, fraʊn frɑʊn,1,0
 froze, froʊz froʊz,0,0
 frozen, ˈfroʊzən ˈfroʊ·zən,0,0
@@ -84,7 +84,7 @@ fruit, fruːt fruːt fruːt frut frut frut,0,0
 fruitcake, ˈfruːtkeɪk ˈfruːtkeɪk ˈfrutˌkeɪk ˈfrutˌkeɪk,0,0
 fruitcakes, ˈfruːtkeɪk ˈfruːtkeɪk ˈfrutˌkeɪk ˈfrutˌkeɪk,1,0
 fruitful, ˈfruːtfəl ˈfruːtfəl ˈfrut·fəl,0,0
-fruiting, fruːt,0,0
+fruiting, fruːt,1,0
 fruition, fruːˈɪʃən fruˈɪʃ·ən,0,0
 fruitless, ˈfruːtləs ˈfrut·ləs,0,0
 fruitlessly, ˈfruːtləsli,0,0
@@ -102,7 +102,7 @@ frustrations, frʌsˈtreɪʃən frʌsˈtreɪʃən frʌˈstreɪ·ʃən frʌˈstre
 fry, fraɪ frɑɪ,0,0
 fryer, ˈfraɪɚ ˈfraɪɚ,0,0
 fryers, ˈfraɪɚ ˈfraɪɚ,1,0
-frying, fraɪ,0,0
+frying, fraɪ,1,0
 fu,,0,1
 fuchsias, ˈfjuːʃə ˈfjuːʃə,1,0
 fuck, fʌk,0,0
@@ -112,8 +112,8 @@ fuckers, ˈfʌkɚ,1,0
 fucking, ˈfʌkɪŋ,0,0
 fucks, fʌk,1,0
 fudge, fʌdʒ fʌdʒ fʌdʒ,0,0
-fudged, fʌdʒ,0,0
-fudging, fʌdʒ,0,0
+fudged, fʌdʒ,1,0
+fudging, fʌdʒ,1,0
 fudgy,,0,1
 fuel," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",0,0
 fueled," ˈfjuːəl ˈfjuːəl ˈfju·əl, fjul",1,0
@@ -144,16 +144,16 @@ fully," ˈfʊli ˈfʊli ˈfʊl·i, -li ˈfʊl·i, -li",0,0
 fulminate, ˈfʊlməneɪt,0,0
 fulsome, ˈfʊlsəm,0,0
 fumble, ˈfʌmbəl ˈfʌmbəl ˈfʌmbəl ˈfʌm·bəl ˈfʌm·bəl,0,0
-fumbled, ˈfʌmbəl ˈfʌmbəl ˈfʌmbəl,0,0
+fumbled, ˈfʌmbəl ˈfʌmbəl ˈfʌmbəl,1,0
 fumbles, ˈfʌmbəl ˈfʌmbəl ˈfʌmbəl ˈfʌm·bəl ˈfʌm·bəl,1,0
 fumbling, ˈfʌmblɪŋ,0,0
 fume, fjuːm fjum,0,0
-fumed, fjuːm,0,0
+fumed, fjuːm,1,0
 fumes, fjuːmz fjumz,0,0
 fumigate, ˈfjuːməɡeɪt ˈfju·mɪˌɡeɪt,0,0
-fumigating, ˈfjuːməɡeɪt,0,0
+fumigating, ˈfjuːməɡeɪt,1,0
 fumigation, ˌfjuːməˈɡeɪʃən,0,0
-fuming, fjuːm,0,0
+fuming, fjuːm,1,0
 fun, fʌn fʌn fʌn,0,0
 function, ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋk·ʃən ˈfʌŋk·ʃən ˈfʌŋk·ʃən,0,0
 functional, ˈfʌŋkʃənəl ˈfʌŋkʃənəl ˈfʌŋkʃənəl ˈfʌŋkʃənəl ˈfʌŋkʃənəl ˈfʌŋk·ʃə·nəl,0,0
@@ -161,7 +161,7 @@ functionality, ˌfʌŋkʃənˈælət̬i ˌfʌŋkʃənˈæləti ˌfʌŋkʃənˈæ
 functionally, ˈfʌŋkʃənəli ˈfʌŋkʃənəli,0,0
 functionaries, ˈfʌŋkʃəneri ˈfʌŋkʃəneri,1,0
 functionary, ˈfʌŋkʃəneri ˈfʌŋkʃəneri,0,0
-functioned, ˈfʌŋkʃən,0,0
+functioned, ˈfʌŋkʃən,1,0
 functioning, ˈfʌŋkʃənɪŋ ˈfʌŋkʃənɪŋ,0,0
 functions, ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋkʃən ˈfʌŋk·ʃən ˈfʌŋk·ʃən ˈfʌŋk·ʃən,1,0
 fund, fʌnd fʌnd,0,0
@@ -171,7 +171,7 @@ fundamentalist, ˌfʌndəˈment̬əlɪst,0,0
 fundamentalists, ˌfʌndəˈment̬əlɪst,1,0
 fundamentally, ˌfʌndəˈment̬əli,0,0
 fundamentals, ˌfʌndəˈment̬əlz,0,0
-funded, fʌnd,0,0
+funded, fʌnd,1,0
 funding, ˈfʌndɪŋ ˈfʌn·dɪŋ,0,0
 fundraiser, ˈfʌndˌreɪzɚ,0,0
 fundraisers, ˈfʌndˌreɪzɚ,1,0
@@ -204,14 +204,14 @@ furious, ˈfʊriəs ˈfʊriəs ˈfjʊər·i·əs ˈfjʊər·i·əs,0,0
 furiously, ˈfjʊriəsli ˈfjʊriəsli ˈfjʊr·i·əs·li ˈfjʊr·i·əs·li,0,0
 furlong, ˈfɝːlɑːŋ ˈfɜr·lɔŋ,0,0
 furlough, ˈfɝːloʊ ˈfɝːloʊ ˈfɜr·loʊ,0,0
-furloughed, ˈfɝːloʊ ˈfɝːloʊ,0,0
+furloughed, ˈfɝːloʊ ˈfɝːloʊ,1,0
 furloughs, ˈfɝːloʊ ˈfɝːloʊ ˈfɜr·loʊ,1,0
 furnace, ˈfɝːnɪs ˈfɝːnɪs ˈfɜr·nəs,0,0
 furnaces, ˈfɝːnɪs ˈfɝːnɪs ˈfɜr·nəs,1,0
 furnish, ˈfɝːnɪʃ ˈfɜr·nɪʃ ˈfɜr·nɪʃ,0,0
 furnished, ˈfɝːnɪʃt ˈfɜr·nɪʃt,0,0
 furnishes, ˈfɝːnɪʃ ˈfɜr·nɪʃ ˈfɜr·nɪʃ,1,0
-furnishing, ˈfɝːnɪʃ,0,0
+furnishing, ˈfɝːnɪʃ,1,0
 furnishings, ˈfɝːnɪʃɪŋz ˈfɜr·nɪ·ʃɪŋz,0,0
 furniture, ˈfɝːnɪtʃɚ ˈfɜr·nɪ·tʃər,0,0
 furor," ˈfjʊrɔːr ˈfjʊr·ɔr, -oʊr, -ər",0,0
@@ -223,8 +223,8 @@ furry," ˈfɝːi ˈfɝːi ˈfɜr·i, ˈfʌr·i",0,0
 furs, fɝː fɝː fɝː fɜr,1,0
 further, ˈfɝːðɚ ˈfɜr·ðər ˈfɜr·ðər,0,0
 furtherance, ˈfɝːðɚəns,0,0
-furthered, ˈfɝːðɚ,0,0
-furthering, ˈfɝːðɚ,0,0
+furthered, ˈfɝːðɚ,1,0
+furthering, ˈfɝːðɚ,1,0
 furthermore," ˈfɝːðɚmɔːr ˈfɜr·ðərˌmɔr, -ˌmoʊr",0,0
 furthers, ˈfɝːðɚ ˈfɝːðɚ ˈfɝːðɚ ˈfɜr·ðər ˈfɜr·ðər,1,0
 furthest, ˈfɝːðɪst ˈfɜr·ðəst ˈfɜr·ðəst,0,0
@@ -235,12 +235,12 @@ fuse, fjuːz fjuːz fjuz fjuz,0,0
 fused, fjuːzd,0,0
 fuselage," ˈfjuːzəlɑːʒ ˈfju·səˌlɑʒ, -zə-",0,0
 fuses, fjuːz fjuːz fjuz fjuz,1,0
-fusing, fjuːz fjuːz fjuːz fjuːz fjuːz,0,0
+fusing, fjuːz fjuːz fjuːz fjuːz fjuːz,1,0
 fusion, ˈfjuːʒən ˈfju·ʒən,0,0
 fuss, fʌs fʌs fʌs,0,0
-fussed, fʌs,0,0
+fussed, fʌs,1,0
 fusses, fʌs fʌs fʌs fʌs,1,0
-fussing, fʌs,0,0
+fussing, fʌs,1,0
 fussy, ˈfʌsi ˈfʌsi ˈfʌsi ˈfʌs·i ˈfʌs·i,0,0
 futile," ˈfjuːt̬əl ˈfjut̬·əl, ˈfju·tɑɪl",0,0
 futility, fjuːˈtɪlət̬i,0,0
@@ -289,12 +289,12 @@ gail,,0,1
 gaillard,,0,1
 gaily, ˈɡeɪli ˈɡeɪli ˈɡeɪli ˈɡeɪ·li,0,0
 gain, ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn,0,0
-gained, ɡeɪn ɡeɪn ɡeɪn,0,0
+gained, ɡeɪn ɡeɪn ɡeɪn,1,0
 gainer, ˈɡeɪnɚ,0,0
 gainers, -nɚz,0,0
 gainful, ˈɡeɪnfəl,0,0
 gainfully, ˈɡeɪnfəli,0,0
-gaining, ɡeɪn ɡeɪn ɡeɪn,0,0
+gaining, ɡeɪn ɡeɪn ɡeɪn,1,0
 gains, ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn ɡeɪn,1,0
 gainsay, ˌɡeɪnˈseɪ,0,0
 gait, ɡeɪt ɡeɪt ɡeɪt,0,0
@@ -333,7 +333,7 @@ galling, ˈɡɑːlɪŋ ˈɡɔ·lɪŋ,0,0
 gallon, ˈɡælən ˈɡælən ˈɡæl·ən,0,0
 gallons, ˈɡælən ˈɡælən ˈɡæl·ən,1,0
 gallop, ˈɡæləp ˈɡæləp ˈɡæl·əp,0,0
-galloped, ˈɡæləp ˈɡæləp,0,0
+galloped, ˈɡæləp ˈɡæləp,1,0
 galloping, ˈɡæləpɪŋ ˈɡæl·ə·pɪŋ,0,0
 gallow,,0,1
 galloway, ˈɡæləweɪ ˈɡæləweɪ,0,0
@@ -350,13 +350,13 @@ galt,,0,1
 galvanic, ɡælˈvænɪk ɡælˈvænɪk,0,0
 galvanize, ˈɡælvənaɪz ˈɡæl·vəˌnɑɪz,0,0
 galvanized, ˈɡælvənaɪzd,0,0
-galvanizing, ˈɡælvənaɪz,0,0
+galvanizing, ˈɡælvənaɪz,1,0
 gamba,,0,1
 gambia,,0,1
 gambit, ˈɡæmbɪt ˈɡæmbɪt ˈɡæmbɪt ˈɡæm·bɪt,0,0
 gambits, ˈɡæmbɪt ˈɡæmbɪt ˈɡæmbɪt ˈɡæm·bɪt,1,0
 gamble, ˈɡæmbəl ˈɡæmbəl ˈɡæm·bəl ˈɡæm·bəl,0,0
-gambled, ˈɡæmbəl ˈɡæmbəl,0,0
+gambled, ˈɡæmbəl ˈɡæmbəl,1,0
 gambler, ˈɡæmblɚ ˈɡæm·blər ˈɡæm·blər,0,0
 gamblers, ˈɡæmblɚ ˈɡæm·blər ˈɡæm·blər,1,0
 gambles, ˈɡæmbəl ˈɡæmbəl ˈɡæm·bəl ˈɡæm·bəl,1,0
@@ -435,18 +435,18 @@ garment, ˈɡɑːrmənt ˈɡɑr·mənt,0,0
 garments, ˈɡɑːrmənt ˈɡɑr·mənt,1,0
 garn,,0,1
 garner, ˈɡɑːrnɚ ˈɡɑr·nər,0,0
-garnered, ˈɡɑːrnɚ,0,0
+garnered, ˈɡɑːrnɚ,1,0
 garnet, ˈɡɑːrnət ˈɡɑr·nət,0,0
 garnett,,0,1
 garnish, ˈɡɑːrnɪʃ ˈɡɑːrnɪʃ ˈɡɑr·nɪʃ,0,0
-garnished, ˈɡɑːrnɪʃ ˈɡɑːrnɪʃ,0,0
+garnished, ˈɡɑːrnɪʃ ˈɡɑːrnɪʃ,1,0
 garnishment, ˈɡɑːrnɪʃmənt,0,0
 garon,,0,1
 garret, ˈɡerət ˈɡær·ət,0,0
 garrets, ˈɡerət ˈɡær·ət,1,0
 garrick,,0,1
 garrison, ˈɡerəsən ˈɡær·ə·sən,0,0
-garrisoned, ˈɡerɪsən,0,0
+garrisoned, ˈɡerɪsən,1,0
 garrulous," ˈɡerələs ˈɡær·ə·ləs, ˈɡær·jə-",0,0
 garston,,0,1
 garten,,0,1
@@ -460,7 +460,7 @@ gascon,,0,1
 gaseous," ˈɡæsiəs ˈɡæs·i·əs, ˈɡæʃ·əs",0,0
 gases, ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs ɡæs,1,0
 gash, ɡæʃ ɡæʃ,0,0
-gashed, ɡæʃ,0,0
+gashed, ɡæʃ,1,0
 gashes, ɡæʃ ɡæʃ,1,0
 gasification, ˌɡæsəfəˈkeɪʃən,0,0
 gasket, ˈɡæskɪt ˈɡæs·kət,0,0
@@ -469,8 +469,8 @@ gaskin,,0,1
 gaslight, ˈɡæslaɪt,0,0
 gasoline," ˈɡæsəliːn ˈɡæs·əˌlin, ˌɡæs·əˈlin",0,0
 gasp, ɡæsp ɡæsp ɡæsp,0,0
-gasped, ɡæsp ɡæsp,0,0
-gasping, ɡæsp ɡæsp,0,0
+gasped, ɡæsp ɡæsp,1,0
+gasping, ɡæsp ɡæsp,1,0
 gasps, ɡæsp ɡæsp ɡæsp,1,0
 gassed,,0,1
 gasser,,0,1

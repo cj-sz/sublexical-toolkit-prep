@@ -2,9 +2,9 @@ Word,Pronunciation,Root Word Returned,Missing
 beloved, bɪˈlʌvɪd -ˈlʌvd,0,0
 below, bɪˈloʊ bɪˈloʊ bɪˈloʊ bɪˈloʊ,0,0
 belt, belt belt belt belt belt belt belt belt,0,0
-belted, belt belt belt,0,0
+belted, belt belt belt,1,0
 belter, ˈbelt̬ɚ ˈbelt̬ɚ,0,0
-belting, belt belt belt,0,0
+belting, belt belt belt,1,0
 belton,,0,1
 belts, belt belt belt belt belt belt belt belt,1,0
 beltway, ˈbeltweɪ ˈbeltˌweɪ,0,0
@@ -12,7 +12,7 @@ beluga, bəˈluːɡə bəˈluːɡə bəˈluːɡə,0,0
 belvedere, ˈbelvədɪr,0,0
 belying, bɪˈlaɪɪŋ bɪˈlɑɪ·ɪŋ,0,0
 bemoan, bɪˈmoʊn,0,0
-bemoaning, bɪˈmoʊn,0,0
+bemoaning, bɪˈmoʊn,1,0
 bemused, bɪˈmjuːzd bɪˈmjuzd,0,0
 bemusement, bɪˈmjuːzmənt,0,0
 ben, ben,0,0
@@ -72,12 +72,12 @@ benzene, ˈbenziːn ˈben·zin,0,0
 benzine,,0,1
 beowulf,,0,1
 bequeath," bɪˈkwiːð bɪˈkwiθ, -ˈkwið",0,0
-bequeathed, bɪˈkwiːð,0,0
+bequeathed, bɪˈkwiːð,1,0
 bequest, bɪˈkwest bɪˈkwest,0,0
 bequests, bɪˈkwest bɪˈkwest,1,0
 berate, bɪˈreɪt bɪˈreɪt,0,0
-berated, bɪˈreɪt,0,0
-berating, bɪˈreɪt,0,0
+berated, bɪˈreɪt,1,0
+berating, bɪˈreɪt,1,0
 berber, ˈbɝːbɚ ˈbɝːbɚ,0,0
 bere,,0,1
 bereaved, bɪˈriːvd bɪˈrivd,0,0
@@ -127,19 +127,19 @@ besetting, bɪˈset bɪˈset,1,0
 beside, bɪˈsaɪd bɪˈsaɪd bɪˈsɑɪd,0,0
 besides, bɪˈsaɪdz bɪˈsɑɪdz,0,0
 besiege, bɪˈsiːdʒ bɪˈsiːdʒ bɪˈsiːdʒ bɪˈsidʒ bɪˈsidʒ,0,0
-besieged, bɪˈsiːdʒ bɪˈsiːdʒ bɪˈsiːdʒ,0,0
+besieged, bɪˈsiːdʒ bɪˈsiːdʒ bɪˈsiːdʒ,1,0
 bespeak, bɪˈspiːk,0,0
 bespeaks, bɪˈspiːk,1,0
 bespectacled, bɪˈspektəkəld,0,0
 bess,,0,1
 best, best best,0,0
-bested, best,0,0
+bested, best,1,0
 bester,,0,1
 bestial," ˈbestiəl ˈbes·tʃəl, ˈbis-",0,0
 bestiality, ˌbestiˈælət̬i ˌbestiˈælət̬i,0,0
 bestow, bɪˈstoʊ bɪˈstoʊ,0,0
-bestowed, bɪˈstoʊ,0,0
-bestowing, bɪˈstoʊ,0,0
+bestowed, bɪˈstoʊ,1,0
+bestowing, bɪˈstoʊ,1,0
 bestows, bɪˈstoʊ bɪˈstoʊ,1,0
 bestseller, ˌbestˈselɚ,0,0
 bestsellers, ˌbestˈselɚ,1,0
@@ -159,14 +159,14 @@ betide, bɪˈtaɪd,0,0
 betray, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,0,0
 betrayal, bɪˈtreɪ·əl,0,0
 betrayals, bɪˈtreɪ·əl,1,0
-betrayed, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,0,0
-betraying, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,0,0
+betrayed, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,1,0
+betraying, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,1,0
 betrays, bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ bɪˈtreɪ,1,0
 bets, bet bet bet bet,1,0
 betta,,0,1
 better, ˈbet̬ɚ ˈbet̬ɚ ˈbet̬·ər ˈbet̬·ər,0,0
-bettered, ˈbet̬ɚ ˈbet̬ɚ,0,0
-bettering, ˈbet̬ɚ ˈbet̬ɚ,0,0
+bettered, ˈbet̬ɚ ˈbet̬ɚ,1,0
+bettering, ˈbet̬ɚ ˈbet̬ɚ,1,0
 betterment, ˈbet̬ɚmənt,0,0
 betters, ˈbet̬ɚz,0,0
 betting, ˈbet̬ɪŋ ˈbeṱ-,0,0
@@ -217,7 +217,7 @@ bicep, ˈbaɪsep,0,0
 biceps, ˈbaɪseps ˈbɑɪ·seps,0,0
 bick,,0,1
 bicker, ˈbɪkɚ ˈbɪk·ər,0,0
-bickered, ˈbɪkɚ,0,0
+bickered, ˈbɪkɚ,1,0
 bickering, ˈbɪkɚɪŋ,0,0
 bicuspid,,0,1
 bicuspids,,0,1
@@ -243,7 +243,7 @@ biff, bɪf,0,0
 bifocal, ˌbaɪˈfoʊkəl,0,0
 bifocals," ˌbaɪˈfoʊkəlz ˈbɑɪˌfoʊ·kəlz, bɑɪˈfoʊ-",0,0
 bifurcate, ˈbaɪfɚkeɪt,0,0
-bifurcated, ˈbaɪfɚkeɪt,0,0
+bifurcated, ˈbaɪfɚkeɪt,1,0
 bifurcation, ˌbaɪfɚˈkeɪʃən ˌbaɪfɚˈkeɪʃən,0,0
 big, bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ bɪɡ,0,0
 bigfoot, ˈbɪɡfʊt,0,0
@@ -264,11 +264,11 @@ bigots, ˈbɪɡət ˈbɪɡ·ət,1,0
 bigwig, ˈbɪɡwɪɡ ˈbɪɡˌwɪɡ,0,0
 bigwigs, ˈbɪɡwɪɡ ˈbɪɡˌwɪɡ,1,0
 bike, baɪk baɪk bɑɪk bɑɪk,0,0
-biked, baɪk baɪk,0,0
+biked, baɪk baɪk,1,0
 biker, ˈbaɪkɚ ˈbaɪkɚ ˈbɑɪ·kər,0,0
 bikers, ˈbaɪkɚ ˈbaɪkɚ ˈbɑɪ·kər,1,0
 bikes, ˈbaɪsəkəl ˈbɑɪ·sɪ·kəl,1,0
-biking, baɪk baɪk,0,0
+biking, baɪk baɪk,1,0
 bikini, bəˈkiːni bəˈki·ni,0,0
 bikinis, bəˈkiːni bəˈki·ni,1,0
 bilateral, ˌbaɪˈlæt̬ɚəl bɑɪˈlæt̬·ər·əl,0,0
@@ -285,7 +285,7 @@ billable,,0,1
 billard,,0,1
 billboard," ˈbɪlbɔːrd ˈbɪlbɔːrd ˈbɪlˌbɔrd, -ˌboʊrd",0,0
 billboards," ˈbɪlbɔːrd ˈbɪlbɔːrd ˈbɪlˌbɔrd, -ˌboʊrd",1,0
-billed, bɪl bɪl bɪl,0,0
+billed, bɪl bɪl bɪl,1,0
 billet, ˈbɪlət,0,0
 billets, ˈbɪlət,1,0
 billfold, ˈbɪlfoʊld ˈbɪlˌfoʊld,0,0
@@ -301,8 +301,8 @@ billions, ˈbɪljən ˈbɪljən ˈbɪljən ˈbɪljən ˈbɪl·jən ˈbɪljən,1,
 billionth, ˈbɪljənθ,0,0
 billon,,0,1
 billow, ˈbɪloʊ ˈbɪl·oʊ,0,0
-billowed, ˈbɪloʊ,0,0
-billowing, ˈbɪloʊ,0,0
+billowed, ˈbɪloʊ,1,0
+billowing, ˈbɪloʊ,1,0
 billows, ˈbɪloʊ ˈbɪl·oʊ,1,0
 bills, bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl bɪl,1,0
 billy, ˈbɪli ˈbɪli,0,0
@@ -373,7 +373,7 @@ birdbrain, ˈbɝːdbreɪn,0,0
 birdcage, ˈbɝːdkeɪdʒ,0,0
 birdhouse, ˈbɝːdhaʊs,0,0
 birdie, ˈbɝːdi ˈbɝːdi ˈbɝːdi ˈbɜr·di,0,0
-birdied, ˈbɝːdi,0,0
+birdied, ˈbɝːdi,1,0
 birdies, ˈbɝːdi ˈbɝːdi ˈbɝːdi ˈbɜr·di,1,0
 birdman,,0,1
 birds, bɝːd bɝːd bɝːd bɝːd bɜrd bɜrd,1,0
@@ -413,7 +413,7 @@ bit, bɪt bɪt bɪt bɪt bɪt bɪt bɪt bɪt bɪt bɪt bɪt,0,0
 bitch, bɪtʃ bɪtʃ bɪtʃ bɪtʃ bɪtʃ bɪtʃ,0,0
 bitches, bɪtʃ bɪtʃ bɪtʃ bɪtʃ bɪtʃ bɪtʃ,1,0
 bitchiness, ˈbɪtʃinəs,0,0
-bitching, bɪtʃ,0,0
+bitching, bɪtʃ,1,0
 bitchy, ˈbɪtʃi,0,0
 bite, baɪt baɪt baɪt baɪt baɪt bɑɪt bɑɪt bɑɪt bɑɪt,0,0
 biter, ˈbaɪt̬ɚ,0,0
@@ -446,9 +446,9 @@ blackbird, ˈblækbɝːd,0,0
 blackbirds, ˈblækbɝːd,1,0
 blackboard," ˈblækbɔːrd ˈblækˌbɔrd, -ˌboʊrd",0,0
 blackboards," ˈblækbɔːrd ˈblækˌbɔrd, -ˌboʊrd",1,0
-blacked, blæk blæk,0,0
+blacked, blæk blæk,1,0
 blacken, ˈblækən ˈblækən ˈblæk·ən,0,0
-blackened, ˈblækən ˈblækən ˈblækən,0,0
+blackened, ˈblækən ˈblækən ˈblækən,1,0
 blackens, ˈblækən ˈblækən ˈblækən ˈblæk·ən,1,0
 blacker, blæk blæk blæk blæk blæk blæk blæk blæk,1,0
 blackest, blæk blæk blæk blæk blæk blæk blæk blæk,1,0
@@ -456,11 +456,11 @@ blackfoot,,0,1
 blackie,,0,1
 blackjack, ˈblækdʒæk ˈblækdʒæk,0,0
 blacklist, ˈblæklɪst ˈblækˌlɪst,0,0
-blacklisted, ˈblæklɪst,0,0
-blacklisting, ˈblæklɪst,0,0
+blacklisted, ˈblæklɪst,1,0
+blacklisting, ˈblæklɪst,1,0
 blackmail, ˈblækmeɪl ˈblækˌmeɪl,0,0
-blackmailed, ˈblækmeɪl,0,0
-blackmailing, ˈblækmeɪl,0,0
+blackmailed, ˈblækmeɪl,1,0
+blackmailing, ˈblækmeɪl,1,0
 blackman,,0,1
 blackness, ˈblæknəs ˈblæknəs ˈblæk·nəs,0,0
 blackout, ˈblækaʊt ˈblækaʊt ˈblækaʊt ˈblæk·ɑʊt ˈblæk·ɑʊt,0,0
@@ -480,5 +480,5 @@ blain,,0,1
 blair,,0,1
 blake,,0,1
 blame, bleɪm bleɪm,0,0
-blamed, bleɪm bleɪm bleɪm,0,0
+blamed, bleɪm bleɪm bleɪm,1,0
 blameless, ˈbleɪmləs ˈbleɪm·ləs,0,0

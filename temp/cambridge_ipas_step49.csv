@@ -1,5 +1,5 @@
 Word,Pronunciation,Root Word Returned,Missing
-jiggling, ˈdʒɪɡəl,0,0
+jiggling, ˈdʒɪɡəl,1,0
 jigs, dʒɪɡ dʒɪɡ dʒɪɡ,1,0
 jigsaw, ˈdʒɪɡsɑː ˈdʒɪɡsɑː ˈdʒɪɡsɑː,0,0
 jihad, dʒəˈhɑːd dʒəˈhɑːd dʒəˈhɑːd dʒɪˈhɑd,0,0
@@ -23,7 +23,7 @@ jitterbugging,,0,1
 jitters, ˈdʒɪt̬ɚz ˈdʒɪt̬·ərz,0,0
 jittery, ˈdʒɪt̬ɚi ˈdʒɪt̬ɚi,0,0
 jive, dʒaɪv dʒaɪv dʒɑɪv,0,0
-jiving, dʒaɪv dʒaɪv,0,0
+jiving, dʒaɪv dʒaɪv,1,0
 jo,,0,1
 joan,,0,1
 job, dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑb dʒɑb dʒɑb dʒɑb dʒɑb dʒɑb,0,0
@@ -34,7 +34,7 @@ jobs, dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑːb dʒɑb dʒ�
 jobson,,0,1
 jock, dʒɑːk dʒɑːk dʒɑk,0,0
 jockey, ˈdʒɑːki ˈdʒɑːki ˈdʒɑk·i,0,0
-jockeying, ˈdʒɑːki,0,0
+jockeying, ˈdʒɑːki,1,0
 jockeys, ˈdʒɑːki ˈdʒɑːki ˈdʒɑk·i,1,0
 jocks,,0,1
 jocular, ˈdʒɑːkjəlɚ ˈdʒɑːkjəlɚ ˈdʒɑk·jə·lər,0,0
@@ -58,10 +58,10 @@ johns, ˈdʒɑːn ˈdʒɑːn ˈdʒɑn,1,0
 johnson,,0,1
 joie,,0,1
 join, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,0,0
-joined, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,0,0
+joined, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,1,0
 joiner, ˈdʒɔɪnɚ ˈdʒɔɪnɚ ˈdʒɔɪnɚ -nɚ -nɚ,0,0
 joinery, ˈdʒɔɪnɚi,0,0
-joining, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,0,0
+joining, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,1,0
 joins, dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn dʒɔɪn,1,0
 joint, dʒɔɪnt dʒɔɪnt,0,0
 jointed, ˈdʒɔɪnt̬ɪd ˈdʒɔɪnt̬ɪd,0,0
@@ -71,20 +71,20 @@ joist, dʒɔɪst,0,0
 joists, dʒɔɪst,1,0
 jojoba, həˈhoʊbə,0,0
 joke, dʒoʊk dʒoʊk dʒoʊk dʒoʊk,0,0
-joked, dʒoʊk dʒoʊk,0,0
+joked, dʒoʊk dʒoʊk,1,0
 joker, ˈdʒoʊkɚ ˈdʒoʊkɚ ˈdʒoʊkɚ ˈdʒoʊ·kər ˈdʒoʊ·kər,0,0
 jokers, ˈdʒoʊkɚ ˈdʒoʊkɚ ˈdʒoʊkɚ ˈdʒoʊ·kər ˈdʒoʊ·kər,1,0
 jokes, dʒoʊk dʒoʊk dʒoʊk dʒoʊk,1,0
 jokester, ˈdʒoʊkstɚ,0,0
-joking, dʒoʊk dʒoʊk,0,0
+joking, dʒoʊk dʒoʊk,1,0
 jokingly, ˈdʒoʊkɪŋli,0,0
 jollier, ˈdʒɑːli ˈdʒɑːli ˈdʒɑːli ˈdʒɑl·i,1,0
 jollies,,0,1
 jolliest, ˈdʒɑːli ˈdʒɑːli ˈdʒɑːli ˈdʒɑl·i,1,0
 jolly, ˈdʒɑːli ˈdʒɑːli ˈdʒɑːli ˈdʒɑl·i,0,0
 jolt, dʒoʊlt dʒoʊlt dʒoʊlt,0,0
-jolted, dʒoʊlt dʒoʊlt dʒoʊlt,0,0
-jolting, dʒoʊlt dʒoʊlt dʒoʊlt,0,0
+jolted, dʒoʊlt dʒoʊlt dʒoʊlt,1,0
+jolting, dʒoʊlt dʒoʊlt dʒoʊlt,1,0
 jolts, dʒoʊlt dʒoʊlt dʒoʊlt dʒoʊlt,1,0
 jonah,,0,1
 jonathan, ˈdʒɑːnəθən,0,0
@@ -101,7 +101,7 @@ joshua,,0,1
 josie,,0,1
 joss,,0,1
 jostle, ˈdʒɑːsəl ˈdʒɑs·əl,0,0
-jostled, ˈdʒɑːsəl,0,0
+jostled, ˈdʒɑːsəl,1,0
 jostling, ˈdʒɑːslɪŋ ˈdʒɑːslɪŋ,0,0
 jot, dʒɑːt dʒɑt,0,0
 jotted, dʒɑːt dʒɑːt dʒɑt,1,0
@@ -116,12 +116,12 @@ journalistically, ˌdʒɝːnəˈlɪstɪkəli,0,0
 journalists, ˈdʒɝːnəlɪst ˈdʒɜr·nəl·əst,1,0
 journals, ˈdʒɝːnəl ˈdʒɝːnəl ˈdʒɜr·nəl ˈdʒɜr·nəl,1,0
 journey, ˈdʒɝːni ˈdʒɝːni ˈdʒɝːni ˈdʒɜr·ni,0,0
-journeyed, ˈdʒɝːni,0,0
-journeying, ˈdʒɝːni,0,0
+journeyed, ˈdʒɝːni,1,0
+journeying, ˈdʒɝːni,1,0
 journeyman, ˈdʒɝːnimən ˈdʒɝːnimən,0,0
 journeys, ˈdʒɝːni ˈdʒɝːni ˈdʒɝːni ˈdʒɜr·ni,1,0
 joust, dʒaʊst dʒaʊst,0,0
-jousting, dʒaʊst dʒaʊst,0,0
+jousting, dʒaʊst dʒaʊst,1,0
 jovial, ˈdʒoʊviəl ˈdʒoʊ·vi·əl,0,0
 jovian,,0,1
 jowl, dʒaʊl,0,0
@@ -146,14 +146,14 @@ judaism," ˈdʒuːdeɪɪzəm ˈdʒu·diˌɪz·əm, -deɪˌɪz-",0,0
 judas, ˈdʒuːdəs,0,0
 jude,,0,1
 judge, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,0,0
-judged, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,0,0
+judged, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,1,0
 judgement,,0,1
 judgemental, dʒʌdʒˈment̬əl dʒʌdʒˈmen·təl,1,0
 judgements,,0,1
 judges, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,1,0
 judgeship,,0,1
 judgeships,,0,1
-judging, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,0,0
+judging, dʒʌdʒ dʒʌdʒ dʒʌdʒ dʒʌdʒ,1,0
 judgment, ˈdʒʌdʒmənt ˈdʒʌdʒmənt ˈdʒʌdʒmənt ˈdʒʌdʒ·mənt ˈdʒʌdʒ·mənt ˈdʒʌdʒ·mənt,0,0
 judgmental, dʒʌdʒˈment̬əl dʒʌdʒˈmen·təl,0,0
 judgments, ˈdʒʌdʒmənt ˈdʒʌdʒmənt ˈdʒʌdʒmənt ˈdʒʌdʒmənt ˈdʒʌdʒ·mənt ˈdʒʌdʒ·mənt ˈdʒʌdʒ·mənt,1,0
@@ -167,7 +167,7 @@ judy,,0,1
 jug, dʒʌɡ dʒʌɡ dʒʌɡ dʒʌɡ dʒʌɡ,0,0
 juggernaut, ˈdʒʌɡɚnɑːt ˈdʒʌɡɚnɑːt,0,0
 juggle, ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡ·əl,0,0
-juggled, ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡəl,0,0
+juggled, ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡəl,1,0
 juggler, ˈdʒʌɡlɚ ˈdʒʌɡ·lər,0,0
 jugglers, ˈdʒʌɡlɚ ˈdʒʌɡ·lər,1,0
 juggles, ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡəl ˈdʒʌɡ·əl,1,0
@@ -194,14 +194,14 @@ julio,,0,1
 julius,,0,1
 july," dʒʊˈlaɪ dʒʊˈlɑɪ, dʒə-",0,0
 jumble, ˈdʒʌmbəl ˈdʒʌmbəl ˈdʒʌm·bəl,0,0
-jumbled, ˈdʒʌmbəl,0,0
+jumbled, ˈdʒʌmbəl,1,0
 jumbo, ˈdʒʌmboʊ ˈdʒʌm·boʊ ˈdʒʌm·boʊ,0,0
 jumbos, ˈdʒʌmboʊ ˈdʒʌm·boʊ ˈdʒʌm·boʊ,1,0
 jump, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,0,0
-jumped, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,0,0
+jumped, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,1,0
 jumper, ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌm·pər ˈdʒʌm·pər ˈdʒʌm·pər,0,0
 jumpers, ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌmpɚ ˈdʒʌm·pər ˈdʒʌm·pər ˈdʒʌm·pər,1,0
-jumping, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,0,0
+jumping, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,1,0
 jumps, dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp dʒʌmp,1,0
 jumpsuit, ˈdʒʌmpsuːt,0,0
 jumpsuits, ˈdʒʌmpsuːt,1,0
@@ -219,13 +219,13 @@ juniors, ˈdʒuːnjɚ ˈdʒuːnjɚ ˈdʒuːnjɚ ˈdʒuːnjɚ ˈdʒuːnjɚ ˈdʒu
 juniper, ˈdʒuːnəpɚ,0,0
 junipers, ˈdʒuːnəpɚ,1,0
 junk, dʒʌŋk dʒʌŋk dʒʌŋk dʒʌŋk dʒʌŋk,0,0
-junked, dʒʌŋk,0,0
+junked, dʒʌŋk,1,0
 junker,,0,1
 junket, ˈdʒʌŋkɪt ˈdʒʌŋ·kɪt,0,0
 junkets, ˈdʒʌŋkɪt ˈdʒʌŋ·kɪt,1,0
 junkie, ˈdʒʌŋki ˈdʒʌŋki ˈdʒʌŋ·ki ˈdʒʌŋ·ki,0,0
 junkies, ˈdʒʌŋki ˈdʒʌŋki ˈdʒʌŋ·ki ˈdʒʌŋ·ki,1,0
-junking, dʒʌŋk,0,0
+junking, dʒʌŋk,1,0
 junky, ˈdʒʌŋki ˈdʒʌŋki ˈdʒʌŋ·ki ˈdʒʌŋ·ki,1,0
 junkyard, ˈdʒʌŋkjɑːrd ˈdʒʌŋkˌjɑrd,0,0
 junkyards, ˈdʒʌŋkjɑːrd ˈdʒʌŋkˌjɑrd,1,0
@@ -258,7 +258,7 @@ justifications, ˌdʒʌstəfəˈkeɪʃən,1,0
 justified, ˈdʒʌstəfaɪd,0,0
 justifies, ˈdʒʌstəfaɪ ˈdʒʌstəfaɪ ˈdʒʌs·təˌfɑɪ,1,0
 justify, ˈdʒʌstəfaɪ ˈdʒʌs·təˌfɑɪ,0,0
-justifying, ˈdʒʌstəfaɪ ˈdʒʌstəfaɪ,0,0
+justifying, ˈdʒʌstəfaɪ ˈdʒʌstəfaɪ,1,0
 justly, ˈdʒʌstli ˈdʒʌst·li ˈdʒʌst·li,0,0
 justo,,0,1
 jut, dʒʌt dʒʌt,0,0
@@ -268,8 +268,8 @@ jutting, ˈdʒʌt̬ɪŋ,0,0
 juvenile," ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒu·vəˌnɑɪl, -nəl",0,0
 juveniles," ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒuːvənəl ˈdʒu·vəˌnɑɪl, -nəl",1,0
 juxtapose, ˌdʒʌkstəˈpoʊz ˌdʒʌk·stəˈpoʊz,0,0
-juxtaposed, ˌdʒʌkstəˈpoʊz,0,0
-juxtaposing, ˌdʒʌkstəˈpoʊz,0,0
+juxtaposed, ˌdʒʌkstəˈpoʊz,1,0
+juxtaposing, ˌdʒʌkstəˈpoʊz,1,0
 juxtaposition, ˌdʒʌkstəpəˈzɪʃən,0,0
 k,,0,1
 ka,,0,1
@@ -430,10 +430,10 @@ kibbutz," kɪˈbʊts kɪˈbʊts, -ˈbuts",0,0
 kick, kɪk kɪk kɪk,0,0
 kickback, ˈkɪkbæk ˈkɪkˌbæk,0,0
 kickbacks, ˈkɪkbæk ˈkɪkˌbæk,1,0
-kicked, kɪk kɪk kɪk,0,0
+kicked, kɪk kɪk kɪk,1,0
 kicker, ˈkɪkɚ ˈkɪkɚ ˈkɪk·ər ˈkɪk·ər,0,0
 kickers, ˈkɪkɚ ˈkɪkɚ ˈkɪk·ər ˈkɪk·ər,1,0
-kicking, kɪk kɪk kɪk,0,0
+kicking, kɪk kɪk kɪk,1,0
 kickoff, ˈkɪkɑːf ˈkɪkɑːf ˈkɪkˌɔf,0,0
 kicks,,0,1
 kid, kɪd kɪd kɪd kɪd kɪd kɪd kɪd,0,0
@@ -461,7 +461,7 @@ kiev,,0,1
 kiki,,0,1
 kiley,,0,1
 kill, kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl,0,0
-killed, kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl,0,0
+killed, kɪl kɪl kɪl kɪl kɪl kɪl kɪl kɪl,1,0
 killer, ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪl·ər ˈkɪl·ər ˈkɪl·ər,0,0
 killers, ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪlɚ ˈkɪl·ər ˈkɪl·ər ˈkɪl·ər,1,0
 killing, ˈkɪlɪŋ,0,0

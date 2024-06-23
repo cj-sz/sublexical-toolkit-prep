@@ -8,7 +8,7 @@ workaholics," ˌwɝːkəˈhɑːlɪk ˌwɜr·kəˈhɔ·lɪk, -ˈhɑl·ɪk",1,0
 workbench, ˈwɝːkbentʃ ˈwɜrkˌbentʃ,0,0
 workday, ˈwɝːkdeɪ ˈwɜrkˌdeɪ,0,0
 workdays, ˈwɝːkdeɪ ˈwɜrkˌdeɪ,1,0
-worked, wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk,0,0
+worked, wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk wɝːk,1,0
 worker, ˈwɝːkɚ ˈwɝːkɚ ˈwɝːkɚ ˈwɜr·kər,0,0
 workers,,0,1
 workfare, ˈwɝːkfer ˈwɜrkˌfer,0,0
@@ -51,7 +51,7 @@ worry," ˈwɝːi ˈwɝːi ˈwɝːi ˈwɜr·i, ˈwʌr·i",0,0
 worrying, ˈwɝːiɪŋ,0,0
 worse, wɝːs wɜrs,0,0
 worsen, ˈwɝːsən,0,0
-worsened, ˈwɝːsən,0,0
+worsened, ˈwɝːsən,1,0
 worsening, ˈwɝːsənɪŋ,0,0
 worsens, ˈwɝːsən,1,0
 worship, ˈwɝːʃɪp ˈwɝːʃɪp ˈwɝːʃɪp ˈwɜr·ʃɪp ˈwɜr·ʃɪp ˈwɜr·ʃɪp,0,0
@@ -80,19 +80,19 @@ worts,,0,1
 would," strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd strong wʊd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd wʊd, wəd",0,0
 wound, wuːnd wuːnd wɑʊnd,0,0
 wounded, ˈwuːndɪd ˈwuːndɪd,0,0
-wounding, wuːnd wuːnd waʊnd,0,0
+wounding, wuːnd wuːnd waʊnd,1,0
 wounds, wuːnd wuːnd wɑʊnd,1,0
 wove, woʊv woʊv,0,0
 woven, ˈwoʊvən ˈwoʊ·vən,0,0
 wow, waʊ wɑʊ,0,0
-wowed, waʊ,0,0
-wowing, waʊ,0,0
+wowed, waʊ,1,0
+wowing, waʊ,1,0
 wows, waʊ wɑʊ,1,0
 wrack, ræk,0,0
 wracked,,0,1
 wracking, ˈnɝːvˌrækɪŋ ˈnɜrv ˌræk·ɪŋ,1,0
 wrangle, ˈræŋɡəl ˈræŋ·ɡəl,0,0
-wrangled, ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl,0,0
+wrangled, ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl ˈræŋɡəl,1,0
 wrangler, ˈræŋɡlɚ ˈræŋɡlɚ ˈræŋɡlɚ,0,0
 wranglers, ˈræŋɡlɚ ˈræŋɡlɚ ˈræŋɡlɚ,1,0
 wrangling, ˈræŋɡəlɪŋ ˈræŋɡəlɪŋ,0,0
@@ -105,8 +105,8 @@ wraps, ræp ræp ræp ræp,1,0
 wrath, rɑːθ ræθ,0,0
 wray,,0,1
 wreak, riːk rik,0,0
-wreaked, riːk,0,0
-wreaking, riːk,0,0
+wreaked, riːk,1,0
+wreaking, riːk,1,0
 wreaks, riːk rik,1,0
 wreath, riːθ riθ,0,0
 wreaths, riːθ riθ,1,0
@@ -114,18 +114,18 @@ wreck, rek rek rek,0,0
 wreckage, ˈrekɪdʒ ˈrekɪdʒ ˈrek·ɪdʒ,0,0
 wrecked, rekt rekt rekt,0,0
 wrecker, ˈrekɚ,0,0
-wrecking, rek rek,0,0
+wrecking, rek rek,1,0
 wrecks, ˈʃɪprek ˈʃɪpˌrek,1,0
 wren, ren ren,0,0
 wrench, rentʃ rentʃ rentʃ rentʃ rentʃ,0,0
-wrenched, rentʃ rentʃ rentʃ,0,0
+wrenched, rentʃ rentʃ rentʃ,1,0
 wrenches, rentʃ rentʃ rentʃ rentʃ rentʃ,1,0
 wrenching, ˈrentʃɪŋ ˈren·tʃɪŋ,0,0
 wrest, rest rest rest,0,0
-wrested, rest rest,0,0
-wresting, rest rest,0,0
+wrested, rest rest,1,0
+wresting, rest rest,1,0
 wrestle, ˈresəl ˈres·əl,0,0
-wrestled, ˈresəl,0,0
+wrestled, ˈresəl,1,0
 wrestler, ˈreslɚ,0,0
 wrestlers, ˈreslɚ,1,0
 wrestles, ˈresəl ˈres·əl,1,0
@@ -143,7 +143,7 @@ wringing, rɪŋ rɪŋ rɪŋ rɪŋ,1,0
 wrinkle, ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋ·kəl,0,0
 wrinkled, ˈrɪŋkəld ˈrɪŋkəld,0,0
 wrinkles, ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋ·kəl,1,0
-wrinkling, ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl,0,0
+wrinkling, ˈrɪŋkəl ˈrɪŋkəl ˈrɪŋkəl,1,0
 wrist, rɪst rɪst,0,0
 wrists, rɪst rɪst,1,0
 wristwatch," ˈrɪstwɑːtʃ ˈrɪst·wɑtʃ, -wɔtʃ",0,0
@@ -155,7 +155,7 @@ writer, ˈraɪt̬ɚ ˈrɑɪ·t̬ər,0,0
 writers, ˈraɪt̬ɚ ˈrɑɪ·t̬ər,1,0
 writes, raɪt raɪt raɪt raɪt raɪt raɪt raɪt rɑɪt rɑɪt rɑɪt rɑɪt,1,0
 writhe, raɪð raɪð rɑɪð,0,0
-writhing, raɪð raɪð,0,0
+writhing, raɪð raɪð,1,0
 writing, ˈraɪt̬ɪŋ ˈraɪt̬ɪŋ ˈraɪt̬ɪŋ ˈraɪt̬ɪŋ ˈraɪt̬ɪŋ ˈrɑɪ·t̬ɪŋ ˈrɑɪ·t̬ɪŋ ˈrɑɪ·t̬ɪŋ,0,0
 writings, ˈrɑɪ·t̬ɪŋz,0,0
 writs, rɪt rɪt rɪt,1,0
@@ -165,7 +165,7 @@ wrongdoer, ˈrɑːŋˌduːɚ,0,0
 wrongdoers, ˈrɑːŋˌduːɚ,1,0
 wrongdoing, ˈrɑːŋˌduːɪŋ ˈrɔŋˌdu·ɪŋ,0,0
 wrongdoings, ˈrɑːŋˌduːɪŋ ˈrɔŋˌdu·ɪŋ,1,0
-wronged, rɑːŋ,0,0
+wronged, rɑːŋ,1,0
 wrongful, ˈrɑːŋfəl ˈrɔŋ·fəl,0,0
 wrongfully, ˈrɑːŋfəli,0,0
 wrongly, ˈrɑːŋli ˈrɔŋ·li,0,0
@@ -194,9 +194,9 @@ xenon, ˈzenɑːn,0,0
 xenophobia, ˌzenəˈfoʊbiə,0,0
 xenophobic, ˌzenəˈfoʊbɪk,0,0
 xerox, ˈzɪrɑːks ˈzɪər·ɑks,0,0
-xeroxed, ˈzɪrɑːks,0,0
+xeroxed, ˈzɪrɑːks,1,0
 xeroxes, ˈzɪrɑːks ˈzɪrɑːks ˈzɪər·ɑks,1,0
-xeroxing, ˈzɪrɑːks,0,0
+xeroxing, ˈzɪrɑːks,1,0
 xi, saɪ,0,0
 xu, suː,0,0
 xylophone, ˈzaɪləfoʊn ˈzɑɪ·ləˌfoʊn,0,0
@@ -221,10 +221,10 @@ yan,,0,1
 yang, jæŋ,0,0
 yangtze,,0,1
 yank, jæŋk jæŋk jæŋk,0,0
-yanked, jæŋk jæŋk,0,0
+yanked, jæŋk jæŋk,1,0
 yankee, ˈjæŋki ˈjæŋki ˈjæŋ·ki,0,0
 yankees, ˈjæŋki ˈjæŋki ˈjæŋ·ki,1,0
-yanking, jæŋk jæŋk,0,0
+yanking, jæŋk jæŋk,1,0
 yanks, jæŋk jæŋk jæŋk jæŋk,1,0
 yap, jæp jæp jæp jæp,0,0
 yaps, jæp jæp jæp jæp,1,0
@@ -241,7 +241,7 @@ yarns, jɑːrn jɑːrn jɑrn jɑrn,1,0
 yarrow, ˈjeroʊ,0,0
 yaw, jɑː,0,0
 yawn, jɑːn jɔn,0,0
-yawned, jɑːn,0,0
+yawned, jɑːn,1,0
 yawner,,0,1
 yawning, ˈjɑːnɪŋ ˈjɑːnɪŋ,0,0
 yawns, jɑːn jɑːn jɔn,1,0
@@ -257,7 +257,7 @@ yearlings, ˈjɪrlɪŋ,1,0
 yearlong, ˈjɪrlɑːŋ ˈjɪərˈlɔŋ,0,0
 yearly, ˈjɪrli,0,0
 yearn, jɝːn jɜrn,0,0
-yearned, jɝːn,0,0
+yearned, jɝːn,1,0
 yearning, ˈjɝːnɪŋ,0,0
 yearnings, ˈjɝːnɪŋ,1,0
 yearns, jɝːn jɜrn,1,0
@@ -268,15 +268,15 @@ yeasts, jiːst jist,1,0
 yee,,0,1
 yeh, jeə,0,0
 yell, jel jel,0,0
-yelled, jel,0,0
-yelling, jel,0,0
+yelled, jel,1,0
+yelling, jel,1,0
 yellow, ˈjeloʊ ˈjel·oʊ,0,0
-yellowing, ˈjeloʊ,0,0
+yellowing, ˈjeloʊ,1,0
 yellows, ˈjeloʊ ˈjel·oʊ,1,0
 yellowstone,,0,1
 yells, jel jel,1,0
 yelp, jelp jelp jelp,0,0
-yelping, jelp jelp,0,0
+yelping, jelp jelp,1,0
 yemen, ˈjemən,0,0
 yen, jen jen jen,0,0
 yeo,,0,1
@@ -296,7 +296,7 @@ yew, juː juː,0,0
 yi,,0,1
 yiddish, ˈjɪdɪʃ,0,0
 yield, jiːld jiːld jiːld jiːld jild jild jild jild jild,0,0
-yielded, jiːld jiːld jiːld jiːld,0,0
+yielded, jiːld jiːld jiːld jiːld,1,0
 yielding, ˈjiːldɪŋ ˈjiːldɪŋ,0,0
 yields, jiːld jiːld jiːld jiːld jild jild jild jild jild,1,0
 yikes, jaɪks,0,0
@@ -311,7 +311,7 @@ yoga, ˈjoʊɡə ˈjoʊɡə ˈjoʊ·ɡə,0,0
 yogi, ˈjoʊɡi,0,0
 yogurt, ˈjoʊɡɚt ˈjoʊ·ɡərt,0,0
 yoke, joʊk joʊk joʊk joʊk joʊk joʊk,0,0
-yoked, joʊk joʊk,0,0
+yoked, joʊk joʊk,1,0
 yokel, ˈjoʊkəl ˈjoʊ·kəl,0,0
 yokes, joʊk joʊk joʊk joʊk joʊk joʊk,1,0
 yokohama,,0,1
@@ -460,7 +460,7 @@ zombie, ˈzɑːmbi ˈzɑːmbi ˈzɑːmbi ˈzɑm·bi ˈzɑm·bi,0,0
 zombies, ˈzɑːmbi ˈzɑːmbi ˈzɑːmbi ˈzɑm·bi ˈzɑm·bi,1,0
 zona,,0,1
 zone, zoʊn zoʊn zoʊn zoʊn,0,0
-zoned, zoʊn,0,0
+zoned, zoʊn,1,0
 zones, zoʊn zoʊn zoʊn zoʊn,1,0
 zoning, ˈzoʊnɪŋ ˈzoʊ·nɪŋ,0,0
 zoo, zuː zuː zu,0,0

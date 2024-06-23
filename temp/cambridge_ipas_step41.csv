@@ -49,9 +49,9 @@ halloween," ˌhæloʊˈiːn ˌhæl·əˈwin, ˌhɑ·lə-",0,0
 hallows, ˈhæloʊ ˈhæloʊ,1,0
 halls, hɑːl hɑːl hɑːl hɑːl hɔl hɔl hɔl,1,0
 hallucinate, həˈluːsəneɪt həˈluːsəneɪt həˈlu·səˌneɪt,0,0
-hallucinated, həˈluːsəneɪt həˈluːsəneɪt,0,0
+hallucinated, həˈluːsəneɪt həˈluːsəneɪt,1,0
 hallucinates, həˈluːsəneɪt həˈluːsəneɪt həˈlu·səˌneɪt,1,0
-hallucinating, həˈluːsəneɪt həˈluːsəneɪt,0,0
+hallucinating, həˈluːsəneɪt həˈluːsəneɪt,1,0
 hallucination, həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən,0,0
 hallucinations, həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən həˌluːsəˈneɪʃən,1,0
 hallucinatory, həˈluːsɪnətɔːri həˈluːsɪnətɔːri həˈluːsɪnətɔːri,0,0
@@ -62,13 +62,13 @@ halo, ˈheɪloʊ ˈheɪloʊ ˈheɪ·loʊ,0,0
 halogen, ˈhælədʒen ˈhæl·ə·dʒən,0,0
 halos, ˈheɪloʊ ˈheɪloʊ ˈheɪ·loʊ,1,0
 halt, hɑːlt hɔlt,0,0
-halted, hɑːlt,0,0
+halted, hɑːlt,1,0
 halter, ˈhɑːlt̬ɚ ˈhɑːlt̬ɚ,0,0
 halting, ˈhɑːlt̬ɪŋ ˈhɔl·tɪŋ,0,0
 haltingly, ˈhɑːlt̬ɪŋli,0,0
 halts, hɑːlt hɑːlt hɔlt,1,0
 halve, hæv hæv hæv,0,0
-halved, hæv hæv,0,0
+halved, hæv hæv,1,0
 halves, hævz hævz hævz hævz,0,0
 ham, hæm hæm hæm hæm hæm hæm,0,0
 hamada,,0,1
@@ -90,7 +90,7 @@ hammersmith,,0,1
 hammock, ˈhæmək ˈhæm·ək,0,0
 hammocks, ˈhæmək ˈhæm·ək,1,0
 hamper, ˈhæmpɚ ˈhæm·pər,0,0
-hampered, ˈhæmpɚ,0,0
+hampered, ˈhæmpɚ,1,0
 hampers, ˈhæmpɚ ˈhæm·pər,1,0
 hampshire, ˈhæmpʃɚ,0,0
 hams, hæm hæm hæm hæm hæm hæm,1,0
@@ -113,8 +113,8 @@ handclasp,,0,1
 handcraft, ˈhændkræft ˈhændkræft,0,0
 handcrafted, ˈhændkræftɪd ˈhændkræftɪd,0,0
 handcuff, ˈhændkʌf,0,0
-handcuffed, ˈhændkʌf,0,0
-handcuffing, ˈhændkʌf,0,0
+handcuffed, ˈhændkʌf,1,0
+handcuffing, ˈhændkʌf,1,0
 handcuffs, ˈhændkʌfs ˈhændˌkʌfs,0,0
 handed, -hændɪd -hændɪd,1,0
 handedness, ˈhændɪdnəs,0,0
@@ -135,14 +135,14 @@ handicrafts, ˈhændikræft,1,0
 handier, ˈhændi ˈhændi ˈhæn·di ˈhæn·di,1,0
 handiest, ˈhændi ˈhændi ˈhæn·di ˈhæn·di,1,0
 handily, ˈhændəli ˈhændəli,0,0
-handing, hænd hænd,0,0
+handing, hænd hænd,1,0
 handiwork, ˈhændiwɝːk ˈhændiwɝːk ˈhæn·diˌwɜrk ˈhæn·diˌwɜrk,0,0
 handkerchief," ˈhæŋkɚtʃiːf ˈhæŋ·kər·tʃəf, -tʃɪf, -ˌtʃif",0,0
 handkerchiefs," ˈhæŋkɚtʃiːf ˈhæŋ·kər·tʃəf, -tʃɪf, -ˌtʃif",1,0
 handle, ˈhændəl ˈhændəl ˈhændəl ˈhæn·dəl ˈhæn·dəl,0,0
 handlebar, ˈhændəlbɑːr,0,0
 handlebars, ˈhæn·dəlˌbɑrz,0,0
-handled, ˈhændəl ˈhændəl ˈhændəl ˈhændəl ˈhændəl,0,0
+handled, ˈhændəl ˈhændəl ˈhændəl ˈhændəl ˈhændəl,1,0
 handler," ˈhændlɚ ˈhændlɚ ˈhændlɚ ˈhænd·lər, ˈhæn·dəl·ər",0,0
 handlers," ˈhændlɚ ˈhændlɚ ˈhændlɚ ˈhænd·lər, ˈhæn·dəl·ər",1,0
 handles, ˈhændəl ˈhændəl ˈhændəl ˈhæn·dəl ˈhæn·dəl,1,0
@@ -207,7 +207,7 @@ haphazard, ˌhæpˈhæzɚd hæpˈhæz·ərd,0,0
 haphazardly, ˌhæpˈhæzɚdli,0,0
 hapless, ˈhæpləs ˈhæp·ləs,0,0
 happen, ˈhæpən ˈhæpən ˈhæp·ən ˈhæp·ən ˈhæp·ən,0,0
-happened, ˈhæpən ˈhæpən ˈhæpən,0,0
+happened, ˈhæpən ˈhæpən ˈhæpən,1,0
 happening, ˈhæpənɪŋ ˈhæpənɪŋ ˈhæp·ə·nɪŋ,0,0
 happenings, ˈhæpənɪŋ ˈhæpənɪŋ ˈhæp·ə·nɪŋ,1,0
 happens, ˈhæpən ˈhæpən ˈhæpən ˈhæp·ən ˈhæp·ən ˈhæp·ən,1,0
@@ -219,14 +219,14 @@ happiness, ˈhæpinəs ˈhæp·i·nəs,0,0
 happy, ˈhæpi ˈhæpi ˈhæpi ˈhæpi ˈhæp·i ˈhæp·i ˈhæp·i ˈhæp·i,0,0
 hapsburg,,0,1
 harangue, həˈræŋ həˈræŋ,0,0
-harangued, həˈræŋ,0,0
-haranguing, həˈræŋ,0,0
+harangued, həˈræŋ,1,0
+haranguing, həˈræŋ,1,0
 harass," həˈræs həˈræs, ˈhær·əs",0,0
 harassed, həˈræst,0,0
 harasser, həˈræsɚ,0,0
 harassers,,0,1
 harasses," həˈræs həˈræs, ˈhær·əs",1,0
-harassing, həˈræs,0,0
+harassing, həˈræs,1,0
 harassment," həˈræsmənt həˈræs·mənt, ˈhær·əs·mənt",0,0
 harbinger, ˈhɑːrbɪndʒɚ,0,0
 harbingers, ˈhɑːrbɪndʒɚ,1,0
@@ -268,7 +268,7 @@ hare, her heər,0,0
 harebrained, ˈherbreɪnd ˈheərˌbreɪnd,0,0
 harem," ˈherəm ˈhær·əm, ˈheər-",0,0
 hares, her heər,1,0
-haring, her,0,0
+haring, her,1,0
 hark, hɑːrk hɑrk,0,0
 harken,,0,1
 harkens,,0,1
@@ -279,11 +279,11 @@ harling,,0,1
 harlot, ˈhɑːrlət,0,0
 harm, hɑːrm hɑrm,0,0
 harman,,0,1
-harmed, hɑːrm,0,0
+harmed, hɑːrm,1,0
 harmel,,0,1
 harmer,,0,1
 harmful, ˈhɑːrmfəl,0,0
-harming, hɑːrm,0,0
+harming, hɑːrm,1,0
 harmless, ˈhɑːrmləs ˈhɑrm·ləs,0,0
 harmlessly, ˈhɑːrmləsli,0,0
 harmonia,,0,1
@@ -295,14 +295,14 @@ harmonious, hɑːrˈmoʊniəs hɑːrˈmoʊniəs hɑːrˈmoʊniəs hɑrˈmoʊ·ni
 harmoniously, hɑːrˈmoʊniəsli hɑːrˈmoʊniəsli hɑːrˈmoʊniəsli,0,0
 harmonium, hɑːrˈmoʊniəm,0,0
 harmonize, ˈhɑːrmənaɪz ˈhɑːrmənaɪz ˈhɑr·məˌnɑɪz ˈhɑr·məˌnɑɪz,0,0
-harmonizing, ˈhɑːrmənaɪz ˈhɑːrmənaɪz,0,0
+harmonizing, ˈhɑːrmənaɪz ˈhɑːrmənaɪz,1,0
 harmony, ˈhɑːrməni ˈhɑːrməni ˈhɑr·mə·ni ˈhɑr·mə·ni ˈhɑr·mə·ni,0,0
 harms, hɑːrm hɑrm,1,0
 harn,,0,1
 harness, ˈhɑːrnəs ˈhɑr·nəs,0,0
-harnessed, ˈhɑːrnəs ˈhɑːrnəs,0,0
+harnessed, ˈhɑːrnəs ˈhɑːrnəs,1,0
 harnesses, ˈhɑːrnəs ˈhɑr·nəs,1,0
-harnessing, ˈhɑːrnəs ˈhɑːrnəs,0,0
+harnessing, ˈhɑːrnəs ˈhɑːrnəs,1,0
 harold,,0,1
 harp, hɑːrp hɑrp,0,0
 harped, hɑːrp hɑrp,1,0
@@ -334,7 +334,7 @@ hartford, ˈhɑːrtfɚd,0,0
 harts, hɑːrt,1,0
 harvard,,0,1
 harvest, ˈhɑːrvəst ˈhɑr·vəst,0,0
-harvested, ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst,0,0
+harvested, ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst ˈhɑːrvəst,1,0
 harvester, ˈhɑːrvəstɚ ˈhɑːrvəstɚ,0,0
 harvesters, ˈhɑːrvəstɚ ˈhɑːrvəstɚ,1,0
 harvesting, ˈhɑːrvəstɪŋ ˈhɑːrvəstɪŋ ˈhɑːrvəstɪŋ ˈhɑːrvəstɪŋ ˈhɑːrvəstɪŋ,0,0
@@ -351,15 +351,15 @@ hasidic, həˈsɪdɪk,0,0
 hasidim,,0,1
 hassel,,0,1
 hassle, ˈhæsəl ˈhæs·əl,0,0
-hassled, ˈhæsəl,0,0
+hassled, ˈhæsəl,1,0
 hassles, ˈhæsəl ˈhæs·əl,1,0
-hassling, ˈhæsəl,0,0
+hassling, ˈhæsəl,1,0
 hast, hæst,0,0
 hasta,,0,1
 haste, heɪst heɪst,0,0
 hasten, ˈheɪsən ˈheɪsən ˈheɪsən ˈheɪ·sən,0,0
-hastened, ˈheɪsən ˈheɪsən ˈheɪsən,0,0
-hastening, ˈheɪsən ˈheɪsən ˈheɪsən,0,0
+hastened, ˈheɪsən ˈheɪsən ˈheɪsən,1,0
+hastening, ˈheɪsən ˈheɪsən ˈheɪsən,1,0
 hastens, ˈheɪsən ˈheɪsən ˈheɪsən ˈheɪsən ˈheɪ·sən,1,0
 hastily, ˈheɪstəli,0,0
 hasting, hæst,1,0
@@ -368,14 +368,14 @@ hasty, ˈheɪsti,0,0
 hat, hæt hæt hæt,0,0
 hatch, hætʃ hætʃ hætʃ hætʃ,0,0
 hatchback, ˈhætʃbæk ˈhætʃˌbæk,0,0
-hatched, hætʃ hætʃ,0,0
+hatched, hætʃ hætʃ,1,0
 hatcher,,0,1
 hatcheries, ˈhætʃɚi,1,0
 hatchery, ˈhætʃɚi,0,0
 hatches, hætʃ hætʃ hætʃ hætʃ,1,0
 hatchet, ˈhætʃɪt ˈhætʃ·ɪt,0,0
 hatchets, ˈhætʃɪt ˈhætʃ·ɪt,1,0
-hatching, hætʃ hætʃ,0,0
+hatching, hætʃ hætʃ,1,0
 hate, heɪt heɪt,0,0
 hated, ˈheɪt̬ɪd,0,0
 hateful, ˈheɪtfəl ˈheɪt·fəl,0,0
@@ -383,7 +383,7 @@ hater, ˈheɪt̬ɚ ˈheɪt̬ɚ,0,0
 haters, ˈheɪt̬ɚ ˈheɪt̬ɚ  -heɪt̬ɚ,1,0
 hates, heɪt heɪt,1,0
 hath, hæθ,0,0
-hating, heɪt,0,0
+hating, heɪt,1,0
 hatred, ˈheɪtrɪd ˈheɪ·trɪd,0,0
 hatreds,,0,1
 hats, hæt hæt hæt,1,0
@@ -392,7 +392,7 @@ hattery,,0,1
 hau,,0,1
 haughty, ˈhɑːt̬i ˈhɔ·t̬i,0,0
 haul, hɑːl hɑːl hɑːl hɔl hɔl,0,0
-hauled, hɑːl hɑːl hɑːl,0,0
+hauled, hɑːl hɑːl hɑːl,1,0
 hauler, ˈhɑːlɚ,0,0
 haulers, ˈhɑːlɚ,1,0
 hauling,,0,1
@@ -421,12 +421,12 @@ hawaiian, həˈwaɪən həˈwaɪən,0,0
 hawaiians,,0,1
 hawing, ˈhiːhɑː,1,0
 hawk, hɑːk hɑːk hɔk,0,0
-hawked, hɑːk,0,0
+hawked, hɑːk,1,0
 hawker, ˈhɑːkɚ,0,0
 hawkers, ˈhɑːkɚ,1,0
 hawkey,,0,1
 hawkeye, ˈhɑːkaɪ,1,0
-hawking, hɑːk,0,0
+hawking, hɑːk,1,0
 hawkins,,0,1
 hawks, hɑːk hɑːk hɔk,1,0
 hawthorn, ˈhɑːθɔːrn,0,0

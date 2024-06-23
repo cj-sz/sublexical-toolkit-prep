@@ -1,7 +1,7 @@
 Word,Pronunciation,Root Word Returned,Missing
-increased, ɪnˈkriːs,0,0
+increased, ɪnˈkriːs,1,0
 increases," ɪnˈkriːs ˈɪnkriːs ɪnˈkris, ˈɪn·kris",1,0
-increasing, ɪnˈkriːs,0,0
+increasing, ɪnˈkriːs,1,0
 increasingly, ɪnˈkriːsɪŋli ɪnˈkri·sɪŋ·li,0,0
 incredible, ɪnˈkredəbəl ɪnˈkredəbəl ɪnˈkred·ə·bəl ɪnˈkred·ə·bəl,0,0
 incredibly, ɪnˈkredəbli ɪnˈkredəbli ɪnˈkred·ə·bli ɪnˈkred·ə·bli,0,0
@@ -14,11 +14,11 @@ increments," ˈɪŋkrəmənt ˈɪn·krə·mənt, ˈɪŋ-",1,0
 incriminate, ɪnˈkrɪməneɪt ɪnˈkrɪm·əˌneɪt,0,0
 incriminating, ɪnˈkrɪməneɪt̬ɪŋ,0,0
 incubate," ˈɪŋkjəbeɪt ˈɪŋkjəbeɪt ˈɪŋ·kjəˌbeɪt, ˈɪn-",0,0
-incubating, ˈɪŋkjəbeɪt ˈɪŋkjəbeɪt,0,0
+incubating, ˈɪŋkjəbeɪt ˈɪŋkjəbeɪt,1,0
 incubation, ˌɪŋkjəˈbeɪʃən ˌɪŋkjəˈbeɪʃən,0,0
 incubator, ˈɪŋkjəbeɪt̬ɚ ˈɪŋkjəbeɪt̬ɚ,0,0
 incubators, ˈɪŋkjəbeɪt̬ɚ ˈɪŋkjəbeɪt̬ɚ,1,0
-inculcated, ˈɪŋkʌlkeɪt,0,0
+inculcated, ˈɪŋkʌlkeɪt,1,0
 incumbent, ɪnˈkʌmbənt ɪnˈkʌm·bənt,0,0
 incumbents, ɪnˈkʌmbənt ɪnˈkʌmbənt ɪnˈkʌm·bənt,1,0
 incur, ɪnˈkɝː ɪnˈkɜr,0,0
@@ -45,7 +45,7 @@ indelible, ɪnˈdeləbəl ɪnˈdeləbəl ɪnˈdel·ə·bəl,0,0
 indelibly, ɪnˈdeləbli ɪnˈdeləbli,0,0
 indelicate, ɪnˈdeləkət ɪnˈdel·ɪ·kət,0,0
 indemnification, ɪnˌdemnəfəˈkeɪʃən ɪnˌdemnəfəˈkeɪʃən,0,0
-indemnified, ɪnˈdemnəfaɪ ɪnˈdemnəfaɪ,0,0
+indemnified, ɪnˈdemnəfaɪ ɪnˈdemnəfaɪ,1,0
 indemnify, ɪnˈdemnəfaɪ ɪnˈdemnəfaɪ ɪnˈdemnɪfaɪ ɪnˈdemnɪfaɪ,0,0
 indemnity, ɪnˈdemnət̬i ɪnˈdem·nɪ·t̬i,0,0
 indent, ɪnˈdent ɪnˈdent ɪnˈdent,0,0
@@ -64,16 +64,16 @@ index, ˈɪndeks ˈɪndeks ˈɪndeks ˈɪndeks ˈɪn·deks ˈɪn·deks,0,0
 indexed,,0,1
 indexer,,0,1
 indexes,,0,1
-indexing, ˈɪndeks ˈɪndeks,0,0
+indexing, ˈɪndeks ˈɪndeks,1,0
 india, ˈɪndiə,0,0
 indian, ˈɪndiən ˈɪndiən ˈɪn·di·ən ˈɪn·di·ən,0,0
 indiana, ˌɪndiˈænə,0,0
 indianapolis, ˌɪndiəˈnæpəlɪs,0,0
 indians, ˈɪndiən ˈɪndiən ˈɪn·di·ən ˈɪn·di·ən,1,0
 indicate, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪn·dɪˌkeɪt,0,0
-indicated, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt,0,0
+indicated, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt,1,0
 indicates, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪn·dɪˌkeɪt,1,0
-indicating, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt,0,0
+indicating, ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt ˈɪndəkeɪt,1,0
 indication, ˌɪndəˈkeɪʃən ˌɪndəˈkeɪʃən,0,0
 indications, ˌɪndəˈkeɪʃən ˌɪndəˈkeɪʃən,1,0
 indicative, ɪnˈdɪkət̬ɪv ɪnˈdɪk·ə·t̬ɪv,0,0
@@ -81,8 +81,8 @@ indicator, ˈɪndəkeɪt̬ɚ ˈɪndəkeɪt̬ɚ ˈɪndəkeɪt̬ɚ ˈɪn·dɪˌke�
 indicators, ˈɪndəkeɪt̬ɚ ˈɪndəkeɪt̬ɚ ˈɪndəkeɪt̬ɚ ˈɪn·dɪˌkeɪt̬·ər,1,0
 indices, ˈɪndəsiːz ˈɪn·dəˌsiz,0,0
 indict, ɪnˈdaɪt ɪnˈdɑɪt,0,0
-indicted, ɪnˈdaɪt,0,0
-indicting, ɪnˈdaɪt,0,0
+indicted, ɪnˈdaɪt,1,0
+indicting, ɪnˈdaɪt,1,0
 indictment, ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdɑɪt·mənt ɪnˈdɑɪt·mənt,0,0
 indictments, ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdaɪt̬mənt ɪnˈdɑɪt·mənt ɪnˈdɑɪt·mənt,1,0
 indie, ˈɪndi ˈɪn·di,0,0
@@ -124,7 +124,7 @@ individually, ˌɪndəˈvɪdʒuəli ˌɪndəˈvɪdʒuəli,0,0
 individuals, ˌɪndəˈvɪdʒuəl ˌɪndəˈvɪdʒuəl ˌɪn·dəˈvɪdʒ·u·əl,1,0
 indivisible, ˌɪndɪˈvɪzəbəl ˌɪn·dəˈvɪz·ə·bəl,0,0
 indochina,,0,1
-indoctrinated, ɪnˈdɑːktrəneɪt,0,0
+indoctrinated, ɪnˈdɑːktrəneɪt,1,0
 indoctrination, ɪnˌdɑːktrəˈneɪʃən,0,0
 indolent, ˈɪndələnt ˈɪn·dəl·ənt,0,0
 indomitable, ɪnˈdɑːmət̬əbəl ɪnˈdɑm·ɪ·t̬ə·bəl,0,0
@@ -137,20 +137,20 @@ induced,  -ɪnduːst,1,0
 inducement, ɪnˈduːsmənt,0,0
 inducements, ɪnˈduːsmənt,1,0
 induces, ɪnˈduːs ɪnˈduːs ɪnˈduːs ɪnˈdus ɪnˈdus,1,0
-inducing, ɪnˈduːs ɪnˈduːs ɪnˈduːs,0,0
+inducing, ɪnˈduːs ɪnˈduːs ɪnˈduːs,1,0
 induct, ɪnˈdʌkt ɪnˈdʌkt,0,0
-inducted, ɪnˈdʌkt,0,0
+inducted, ɪnˈdʌkt,1,0
 inductee, ɪnˈdʌkt ɪnˈdʌkt,1,0
 induction, ɪnˈdʌkʃən ɪnˈdʌkʃən ɪnˈdʌkʃən ɪnˈdʌkʃən ɪnˈdʌkʃən ɪnˈdʌkʃən,0,0
 inductive, ɪnˈdʌktɪv,0,0
 inductor,,0,1
 indulge, ɪnˈdʌldʒ ɪnˈdʌldʒ ɪnˈdʌldʒ,0,0
-indulged, ɪnˈdʌldʒ ɪnˈdʌldʒ,0,0
+indulged, ɪnˈdʌldʒ ɪnˈdʌldʒ,1,0
 indulgence, ɪnˈdʌldʒəns ɪnˈdʌldʒəns ɪnˈdʌldʒəns ɪnˈdʌl·dʒəns,0,0
 indulgences, ɪnˈdʌldʒəns ɪnˈdʌldʒəns ɪnˈdʌldʒəns ɪnˈdʌl·dʒəns,1,0
 indulgent, ɪnˈdʌldʒənt,0,0
 indulges, ɪnˈdʌldʒ ɪnˈdʌldʒ ɪnˈdʌldʒ,1,0
-indulging, ɪnˈdʌldʒ ɪnˈdʌldʒ,0,0
+indulging, ɪnˈdʌldʒ ɪnˈdʌldʒ,1,0
 indus,,0,1
 industrial, ɪnˈdʌstriəl ɪnˈdʌstriəl ɪnˈdʌs·tri·əl ɪnˈdʌs·tri·əl,0,0
 industrialist, ɪnˈdʌstriəlɪst ɪnˈdʌs·tri·ə·lɪst,0,0
@@ -223,7 +223,7 @@ infatuates,,0,1
 infatuation, ɪnˌfætʃuˈeɪʃən,0,0
 infect, ɪnˈfekt ɪnˈfekt ɪnˈfekt ɪnˈfekt ɪnˈfekt,0,0
 infected, ɪnˈfekt̬ɪd ɪnˈfekt̬ɪd ɪnˈfekt̬ɪd,0,0
-infecting, ɪnˈfekt ɪnˈfekt ɪnˈfekt ɪnˈfekt,0,0
+infecting, ɪnˈfekt ɪnˈfekt ɪnˈfekt ɪnˈfekt,1,0
 infection, ɪnˈfekʃən ɪnˈfekʃən,0,0
 infections, ɪnˈfekʃən ɪnˈfekʃən,1,0
 infectious, ɪnˈfekʃəs ɪnˈfekʃəs ɪnˈfekʃəs ɪnˈfek·ʃəs ɪnˈfek·ʃəs,0,0
@@ -243,7 +243,7 @@ infertility, ˌɪnfɚˈtɪlət̬i,0,0
 infest, ɪnˈfest ɪnˈfest ɪnˈfest ɪnˈfest,0,0
 infestation, ˌɪnfesˈteɪʃən,0,0
 infestations, ˌɪnfesˈteɪʃən,1,0
-infested, ɪnˈfest,0,0
+infested, ɪnˈfest,1,0
 infests, ɪnˈfest ɪnˈfest ɪnˈfest ɪnˈfest,1,0
 infidel, ˈɪnfədel,0,0
 infidelities, ˌɪnfəˈdelət̬i ˌɪn·fəˈdel·ɪ·t̬i,1,0
@@ -254,8 +254,8 @@ infielder, ˈɪnˌfiːldɚ ˈɪnˌfil·dər,0,0
 infielders, ˈɪnˌfiːldɚ ˈɪnˌfil·dər,1,0
 infighting, ˈɪnˌfaɪt̬ɪŋ ˈɪnˌfɑɪt̬·ɪŋ,0,0
 infiltrate," ˈɪnfɪltreɪt ˈɪnfɪltreɪt ɪnˈfɪlˌtreɪt, ˈɪn·fɪl- ɪnˈfɪlˌtreɪt, ˈɪn·fɪl-",0,0
-infiltrated, ˈɪnfɪltreɪt ˈɪnfɪltreɪt,0,0
-infiltrating, ˈɪnfɪltreɪt ˈɪnfɪltreɪt,0,0
+infiltrated, ˈɪnfɪltreɪt ˈɪnfɪltreɪt,1,0
+infiltrating, ˈɪnfɪltreɪt ˈɪnfɪltreɪt,1,0
 infiltration, ˌɪnfɪlˈtreɪʃən ˌɪnfɪlˈtreɪʃən ˌɪnfɪlˈtreɪʃən,0,0
 infiltrator, ˈɪnfɪltreɪt̬ɚ,0,0
 infiltrators, ˈɪnfɪltreɪt̬ɚ,1,0
@@ -272,7 +272,7 @@ infirmity, ɪnˈfɝːmət̬i ɪnˈfɜr·mɪ·t̬i,0,0
 inflame, ɪnˈfleɪm ɪnˈfleɪm ɪnˈfleɪm,0,0
 inflamed, ɪnˈfleɪmd ɪnˈfleɪmd,0,0
 inflames, ɪnˈfleɪm ɪnˈfleɪm ɪnˈfleɪm,1,0
-inflaming, ɪnˈfleɪm ɪnˈfleɪm,0,0
+inflaming, ɪnˈfleɪm ɪnˈfleɪm,1,0
 inflammable, ɪnˈflæməbəl ɪnˈflæməbəl ɪnˈflæm·ə·bəl,0,0
 inflammation, ˌɪnfləˈmeɪʃən,0,0
 inflammatory," ɪnˈflæmətɔːri ɪnˈflæmətɔːri ɪnˈflæm·əˌtɔr·i, -ˌtoʊr·i",0,0
@@ -280,7 +280,7 @@ inflatable, ɪnˈfleɪt̬əbəl ɪnˈfleɪ·t̬ə·bəl,0,0
 inflate, ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt,0,0
 inflated, ɪnˈfleɪt̬ɪd,0,0
 inflates, ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt,1,0
-inflating, ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt,0,0
+inflating, ɪnˈfleɪt ɪnˈfleɪt ɪnˈfleɪt,1,0
 inflation, ɪnˈfleɪʃən ɪnˈfleɪʃən ɪnˈfleɪʃən ɪnˈfleɪʃən ɪnˈfleɪ·ʃən,0,0
 inflationary, ɪnˈfleɪʃəneri,0,0
 inflection, ɪnˈflekʃən ɪnˈflekʃən ɪnˈflek·ʃən ɪnˈflek·ʃən,0,0
@@ -288,15 +288,15 @@ inflections, ɪnˈflekʃən ɪnˈflekʃən ɪnˈflek·ʃən ɪnˈflek·ʃən,1,0
 inflexibility, ɪnˌfleksəˈbɪlət̬i ɪnˌflek·səˈbɪl·ɪ·t̬i ɪnˌflek·səˈbɪl·ɪ·t̬i,0,0
 inflexible, ɪnˈfleksəbəl ɪnˈflek·sə·bəl ɪnˈflek·sə·bəl,0,0
 inflict, ɪnˈflɪkt ɪnˈflɪkt,0,0
-inflicted, ɪnˈflɪkt,0,0
-inflicting, ɪnˈflɪkt,0,0
+inflicted, ɪnˈflɪkt,1,0
+inflicting, ɪnˈflɪkt,1,0
 infliction, ɪnˈflɪkʃən,0,0
 inflicts, ɪnˈflɪkt ɪnˈflɪkt,1,0
 inflow, ˈɪnfloʊ,0,0
 influence, ˈɪnfluəns ˈɪnˌflu·əns,0,0
-influenced, ˈɪnfluəns,0,0
+influenced, ˈɪnfluəns,1,0
 influences, ˈɪnfluəns ˈɪnˌflu·əns,1,0
-influencing, ˈɪnfluəns,0,0
+influencing, ˈɪnfluəns,1,0
 influential, ˌɪnfluˈenʃəl ˌɪn·fluˈen·ʃəl,0,0
 influenza, ˌɪnfluˈenzə ˌɪn·fluˈen·zə,0,0
 influx, ˈɪnflʌks ˈɪn·flʌks,0,0
@@ -315,7 +315,7 @@ informative, ɪnˈfɔːrmət̬ɪv ɪnˈfɔr·mə·t̬ɪv,0,0
 informed, ɪnˈfɔːrmd,0,0
 informer, ɪnˈfɔːrmɚ ɪnˈfɔr·mər,0,0
 informers, ɪnˈfɔːrmɚ ɪnˈfɔr·mər,1,0
-informing, ɪnˈfɔːrm,0,0
+informing, ɪnˈfɔːrm,1,0
 informs, ɪnˈfɔːrm ɪnˈfɔrm,1,0
 infotainment, ɪnfoʊˈteɪnmənt,0,0
 infra,,0,1
@@ -327,18 +327,18 @@ infrastructures, ˈɪnfrəˌstrʌktʃɚ ˈɪn·frəˌstrʌk·tʃər,1,0
 infrequent, ɪnˈfriːkwənt ɪnˈfri·kwənt,0,0
 infrequently, ɪnˈfriːkwəntli,0,0
 infringe, ɪnˈfrɪndʒ ɪnˈfrɪndʒ,0,0
-infringed, ɪnˈfrɪndʒ,0,0
+infringed, ɪnˈfrɪndʒ,1,0
 infringement, ɪnˈfrɪndʒmənt ɪnˈfrɪndʒmənt,0,0
 infringes, ɪnˈfrɪndʒ ɪnˈfrɪndʒ,1,0
-infringing, ɪnˈfrɪndʒ,0,0
+infringing, ɪnˈfrɪndʒ,1,0
 infuriate, ɪnˈfjʊrieɪt ɪnˈfjʊər·iˌeɪt,0,0
-infuriated, ɪnˈfjʊrieɪt,0,0
+infuriated, ɪnˈfjʊrieɪt,1,0
 infuriates, ɪnˈfjʊrieɪt ɪnˈfjʊər·iˌeɪt,1,0
 infuriating, ɪnˈfjʊrieɪt̬ɪŋ ɪnˈfjʊər·iˌeɪ·t̬ɪŋ,0,0
 infuse, ɪnˈfjuːz ɪnˈfjuːz ɪnˈfjuz,0,0
-infused, ɪnˈfjuːz ɪnˈfjuːz,0,0
+infused, ɪnˈfjuːz ɪnˈfjuːz,1,0
 infuses, ɪnˈfjuːz ɪnˈfjuːz ɪnˈfjuz,1,0
-infusing, ɪnˈfjuːz ɪnˈfjuːz,0,0
+infusing, ɪnˈfjuːz ɪnˈfjuːz,1,0
 infusion, ɪnˈfjuːʒən ɪnˈfjuːʒən ɪnˈfju·ʒən,0,0
 infusions, ɪnˈfjuːʒən ɪnˈfjuːʒən ɪnˈfju·ʒən,1,0
 ing,  -ɪŋ,1,0
@@ -347,8 +347,8 @@ ingenue, ˈænʒənuː,1,0
 ingenuity, ˌɪndʒəˈnjuːət̬i ˌɪn·dʒəˈnu·ɪ·t̬i,0,0
 ingenuous, ɪnˈdʒenjuəs,0,0
 ingest, ɪnˈdʒest ɪnˈdʒest,0,0
-ingested, ɪnˈdʒest,0,0
-ingesting, ɪnˈdʒest,0,0
+ingested, ɪnˈdʒest,1,0
+ingesting, ɪnˈdʒest,1,0
 ingestion, ɪnˈʤestʃən,0,0
 ingle,,0,1
 ingles,,0,1
@@ -364,26 +364,26 @@ inhabit, ɪnˈhæbɪt ɪnˈhæb·ət,0,0
 inhabitant, ɪnˈhæbɪtənt ɪnˈhæb·ɪ·t̬ənt,0,0
 inhabitants, ɪnˈhæbɪtənt ɪnˈhæb·ɪ·t̬ənt,1,0
 inhabited, ɪnˈhæbɪt ɪnˈhæb·ət,1,0
-inhabiting, ɪnˈhæbɪt,0,0
+inhabiting, ɪnˈhæbɪt,1,0
 inhabits, ɪnˈhæbɪt ɪnˈhæb·ət,1,0
 inhalation, ˌɪnhəˈleɪʃən,0,0
 inhale, ɪnˈheɪl ɪnˈheɪl ɪnˈheɪl,0,0
-inhaled, ɪnˈheɪl ɪnˈheɪl,0,0
+inhaled, ɪnˈheɪl ɪnˈheɪl,1,0
 inhaler, ɪnˈheɪlɚ ɪnˈheɪ·lər,0,0
 inhalers, ɪnˈheɪlɚ ɪnˈheɪ·lər,1,0
-inhaling, ɪnˈheɪl ɪnˈheɪl,0,0
+inhaling, ɪnˈheɪl ɪnˈheɪl,1,0
 inherent," ɪnˈhɪrənt ɪnˈhɪər·ənt, -ˈher-",0,0
 inherently, ɪnˈhɪrəntli,0,0
 inherit, ɪnˈherɪt ɪnˈherɪt ɪnˈherɪt ɪnˈher·ət ɪnˈher·ət,0,0
 inheritable, ɪnˈherɪt̬əbəl ɪnˈherɪt̬əbəl,0,0
 inheritance, ɪnˈherɪtəns ɪnˈherɪtəns ɪnˈher·ɪ·t̬əns ɪnˈher·ɪ·t̬əns,0,0
 inherited,,0,1
-inheriting, ɪnˈherɪt ɪnˈherɪt ɪnˈherɪt,0,0
+inheriting, ɪnˈherɪt ɪnˈherɪt ɪnˈherɪt,1,0
 inheritor, ɪnˈherɪt̬ɚ,0,0
 inherits, ɪnˈherɪt ɪnˈherɪt ɪnˈherɪt ɪnˈher·ət ɪnˈher·ət,1,0
 inhibit, ɪnˈhɪbɪt ɪnˈhɪbɪt ɪnˈhɪb·ɪt,0,0
 inhibited, ɪnˈhɪbət̬ɪd ɪnˈhɪb·ə·t̬ɪd,0,0
-inhibiting, ɪnˈhɪbɪt ɪnˈhɪbɪt,0,0
+inhibiting, ɪnˈhɪbɪt ɪnˈhɪbɪt,1,0
 inhibition," ˌɪnhɪˈbɪʃən ˌɪnhɪˈbɪʃən ˌɪn·həˈbɪʃ·ən, ˌɪn·ə-",0,0
 inhibitions," ˌɪnhɪˈbɪʃən ˌɪnhɪˈbɪʃən ˌɪn·həˈbɪʃ·ən, ˌɪn·ə-",1,0
 inhibitor, ɪnˈhɪbɪt̬ɚ,0,0
@@ -400,19 +400,19 @@ initial, ɪˈnɪʃəl ɪˈnɪʃ·əl,0,0
 initialed, ɪˈnɪʃəl ɪˈnɪʃ·əl,1,0
 initialing, ɪˈnɪʃəl ɪˈnɪʃ·əl,1,0
 initialize, ɪˈnɪʃəlaɪz,0,0
-initialized, ɪˈnɪʃəlaɪz,0,0
+initialized, ɪˈnɪʃəlaɪz,1,0
 initially, ɪˈnɪʃəli,0,0
 initials, ɪˈnɪʃəl ɪˈnɪʃ·əl,1,0
 initiate, ɪˈnɪʃieɪt ɪˈnɪʃieɪt ɪˈnɪʃ·iˌeɪt ɪˈnɪʃ·iˌeɪt,0,0
-initiated, ɪˈnɪʃieɪt ɪˈnɪʃieɪt,0,0
+initiated, ɪˈnɪʃieɪt ɪˈnɪʃieɪt,1,0
 initiates, ɪˈnɪʃieɪt ɪˈnɪʃieɪt ɪˈnɪʃ·iˌeɪt ɪˈnɪʃ·iˌeɪt,1,0
-initiating, ɪˈnɪʃieɪt ɪˈnɪʃieɪt,0,0
+initiating, ɪˈnɪʃieɪt ɪˈnɪʃieɪt,1,0
 initiation, ɪˌnɪʃiˈeɪʃən ɪˌnɪʃiˈeɪʃən ɪˌnɪʃ·iˈeɪ·ʃən ɪˌnɪʃ·iˈeɪ·ʃən,0,0
 initiative," ɪˈnɪʃət̬ɪv ɪˈnɪʃət̬ɪv ɪˈnɪʃ·ə·t̬ɪv, ɪˈnɪʃ·i·ə- ɪˈnɪʃ·ə·t̬ɪv, ɪˈnɪʃ·i·ə-",0,0
 initiatives," ɪˈnɪʃət̬ɪv ɪˈnɪʃət̬ɪv ɪˈnɪʃət̬ɪv ɪˈnɪʃət̬ɪv ɪˈnɪʃ·ə·t̬ɪv, ɪˈnɪʃ·i·ə- ɪˈnɪʃ·ə·t̬ɪv, ɪˈnɪʃ·i·ə-",1,0
 inject, ɪnˈdʒekt ɪnˈdʒekt ɪnˈdʒekt ɪnˈdʒekt,0,0
-injected, ɪnˈdʒekt ɪnˈdʒekt,0,0
-injecting, ɪnˈdʒekt ɪnˈdʒekt,0,0
+injected, ɪnˈdʒekt ɪnˈdʒekt,1,0
+injecting, ɪnˈdʒekt ɪnˈdʒekt,1,0
 injection, ɪnˈdʒekʃən ɪnˈdʒekʃən ɪnˈdʒek·ʃən,0,0
 injections, ɪnˈdʒekʃən ɪnˈdʒekʃən ɪnˈdʒek·ʃən,1,0
 injector,,0,1
@@ -426,7 +426,7 @@ injure, ˈɪndʒɚ ˈɪn·dʒər,0,0
 injured, ˈɪndʒɚd ˈɪndʒɚd ˈɪn·dʒərd,0,0
 injures, ˈɪndʒɚ ˈɪn·dʒər,1,0
 injuries, ˈɪndʒəri ˈɪn·dʒə·ri,1,0
-injuring, ˈɪndʒɚ,0,0
+injuring, ˈɪndʒɚ,1,0
 injurious, ɪnˈdʒʊriəs,0,0
 injury, ˈɪndʒəri ˈɪn·dʒə·ri,0,0
 injustice, ɪnˈdʒʌstɪs ɪnˈdʒʌs·tɪs,0,0
@@ -459,9 +459,9 @@ innocents, ˈɪnəsənt ˈɪnəsənt ˈɪnəsənt ˈɪnəsənt ˈɪn·ə·sənt,
 innoculation,,0,1
 innocuous, ɪˈnɑːkjuəs ɪˈnɑk·ju·əs,0,0
 innovate, ˈɪnəveɪt ˈɪn·əˌveɪt ˈɪnəveɪt,0,0
-innovated, ˈɪnəveɪt,0,0
+innovated, ˈɪnəveɪt,1,0
 innovates, ˈɪnəveɪt ˈɪn·əˌveɪt ˈɪnəveɪt,1,0
-innovating, ˈɪnəveɪt,0,0
+innovating, ˈɪnəveɪt,1,0
 innovation, ˌɪnəˈveɪʃən ˌɪnəˈveɪʃən ˌɪn·əˈveɪ·ʃən,0,0
 innovations, ˌɪnəˈveɪʃən ˌɪnəˈveɪʃən ˌɪn·əˈveɪ·ʃən,1,0
 innovative, ˈɪnəveɪt̬ɪv ˈɪn·əˌveɪ·t̬ɪv ˈɪnəveɪtɪv,0,0
@@ -473,7 +473,7 @@ innuendoes,,0,1
 innuendos, ˌɪnjuˈendoʊ ˌɪn·juˈen·doʊ,1,0
 innumerable, ɪˈnuːmɚəbəl ɪˈnu·mər·ə·bəl,0,0
 inoculate, ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt ɪˈnɑk·jəˌleɪt,0,0
-inoculated, ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt,0,0
+inoculated, ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt ɪˈnɑːkjəleɪt,1,0
 inoculation, ɪˌnɑːkjəˈleɪʃən ɪˌnɑːkjəˈleɪʃən ɪˌnɑːkjəˈleɪʃən,0,0
 inoculations, ɪˌnɑːkjəˈleɪʃən ɪˌnɑːkjəˈleɪʃən ɪˌnɑːkjəˈleɪʃən,1,0
 inoffensive, ˌɪnəˈfensɪv ˌɪn·əˈfen·sɪv,0,0

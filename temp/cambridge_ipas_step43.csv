@@ -5,7 +5,7 @@ hips, hɪp hɪp hɪp hɪp,1,0
 hipster, ˈhɪpstɚ,0,0
 hipsters,,0,1
 hire, haɪr haɪr hɑɪər,0,0
-hired, haɪr haɪr,0,0
+hired, haɪr haɪr,1,0
 hires, haɪr haɪr hɑɪər,1,0
 hiring, ˈhaɪrɪŋ ˈhaɪrɪŋ,0,0
 hiro,,0,1
@@ -17,10 +17,10 @@ hispanic, hɪˈspænɪk hɪˈspæn·ɪk,0,0
 hispanics, hɪˈspænɪk hɪˈspæn·ɪk,1,0
 hispaniola,,0,1
 hiss, hɪs hɪs hɪs,0,0
-hissed, hɪs hɪs,0,0
+hissed, hɪs hɪs,1,0
 hisself,,0,1
 hisses, hɪs hɪs hɪs,1,0
-hissing, hɪs hɪs,0,0
+hissing, hɪs hɪs,1,0
 histamine, ˈhɪstəmiːn,0,0
 histology, hɪˈstɑːlədʒi hɪˈstɑːlədʒi hɪˈstɑːlədʒi,0,0
 historian," hɪˈstɔːriən hɪˈstɔr·i·ən, -ˈstoʊr-",0,0
@@ -38,12 +38,12 @@ hitch, hɪtʃ hɪtʃ hɪtʃ hɪtʃ,0,0
 hitched,,0,1
 hitches, hɪtʃ hɪtʃ hɪtʃ hɪtʃ hɪtʃ,1,0
 hitchhike, ˈhɪtʃhaɪk ˈhɪtʃˌhɑɪk,0,0
-hitchhiked, ˈhɪtʃhaɪk,0,0
+hitchhiked, ˈhɪtʃhaɪk,1,0
 hitchhiker, ˈhɪtʃhaɪkɚ,0,0
 hitchhikers, ˈhɪtʃhaɪkɚ,1,0
 hitchhikes, ˈhɪtʃhaɪk ˈhɪtʃˌhɑɪk,1,0
-hitchhiking, ˈhɪtʃhaɪk,0,0
-hitching, hɪtʃ hɪtʃ,0,0
+hitchhiking, ˈhɪtʃhaɪk,1,0
+hitching, hɪtʃ hɪtʃ,1,0
 hither, ˈhɪðɚ ˈhɪð·ər,0,0
 hitherto, ˌhɪðɚˈtuː ˈhɪð·ərˌtu,0,0
 hitler,,0,1
@@ -60,7 +60,7 @@ ho, hoʊ,0,0
 hoagie, ˈhoʊɡi,0,0
 hoagy,,0,1
 hoard," hɔːrd hɔːrd hɔrd, hoʊrd",0,0
-hoarded, hɔːrd hɔːrd,0,0
+hoarded, hɔːrd hɔːrd,1,0
 hoarding, ˈhɔːrdɪŋ ˈhɔːrdɪŋ ˈhɔːrdɪŋ ˈhɔːrdɪŋ,0,0
 hoards," hɔːrd hɔːrd hɔrd, hoʊrd",1,0
 hoarse," hɔːrs hɔrs, hoʊrs",0,0
@@ -73,9 +73,9 @@ hobbies, ˈhɑːbi ˈhɑb·i,1,0
 hobbing,,0,1
 hobbit, ˈhɑːbɪt,0,0
 hobble, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl ˈhɑb·əl,0,0
-hobbled, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl,0,0
+hobbled, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl,1,0
 hobbles, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl ˈhɑb·əl,1,0
-hobbling, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl,0,0
+hobbling, ˈhɑːbəl ˈhɑːbəl ˈhɑːbəl,1,0
 hobby, ˈhɑːbi ˈhɑb·i,0,0
 hobbyist, ˈhɑːbiɪst,0,0
 hobbyists, ˈhɑːbiɪst,1,0
@@ -89,7 +89,7 @@ hoc,,0,1
 hoch,,0,1
 hock, hɑːk hɑːk hɑːk hɑk,0,1
 hockey, ˈhɑːki ˈhɑːki ˈhɑk·i,0,0
-hocking, hɑːk,0,0
+hocking, hɑːk,1,0
 hocus, ˌhoʊkəsˈpoʊkəs ˌhoʊkəsˈpoʊkəs ˌhoʊ·kəˈspoʊ·kəs,1,0
 hodge,,0,1
 hodgepodge, ˈhɑːdʒpɑːdʒ ˈhɑdʒ·pɑdʒ,0,0
@@ -107,8 +107,8 @@ hogwash," ˈhɑːɡwɑːʃ ˈhɑɡ·wɑʃ, ˈhɔɡ·wɔʃ",0,0
 hoho,,0,1
 hoi,,0,1
 hoist, hɔɪst hɔɪst,0,0
-hoisted, hɔɪst hɔɪst,0,0
-hoisting, hɔɪst hɔɪst,0,0
+hoisted, hɔɪst hɔɪst,1,0
+hoisting, hɔɪst hɔɪst,1,0
 hoists, hɔɪst hɔɪst hɔɪst,1,0
 hoke,,0,1
 hokey, ˈhoʊki ˈhoʊ·ki,0,0
@@ -128,7 +128,7 @@ holds, hoʊld hoʊld hoʊld hoʊld hoʊld hoʊld hoʊld hoʊld hoʊld hoʊld ho�
 holdup, ˈhoʊldʌp ˈhoʊldʌp ˈhoʊldˌʌp ˈhoʊldˌʌp,0,0
 holdups, ˈhoʊldʌp ˈhoʊldˌʌp ˈhoʊldˌʌp,0,0
 hole, hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl,0,0
-holed, hoʊl,0,0
+holed, hoʊl,1,0
 holes, hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl hoʊl,1,0
 holgate,,0,1
 holiday, ˈhɑːlədeɪ ˈhɑːlədeɪ ˈhɑːlədeɪ ˈhɑl·ɪˌdeɪ ˈhɑl·ɪˌdeɪ,0,0
@@ -136,7 +136,7 @@ holidays, ˈhɑːlədeɪ ˈhɑl·ɪˌdeɪ ˈhɑl·ɪˌdeɪ,0,0
 holier, ˈhoʊli ˈhoʊli ˈhoʊ·li ˈhoʊ·li,1,0
 holiest, ˈhoʊli ˈhoʊli ˈhoʊ·li ˈhoʊ·li,1,0
 holiness, ˈhoʊlinəs ˈhoʊ·li·nəs ˈhoʊ·li·nəs,0,0
-holing, hoʊl,0,0
+holing, hoʊl,1,0
 holistic, hoʊlˈɪstɪk hoʊˈlɪs·tɪk hoʊˈlɪs·tɪk,0,0
 holl,,0,1
 holland, ˈhɑːlənd ˈhɑːlənd,0,0
@@ -144,8 +144,8 @@ hollander,,0,1
 hollanders,,0,1
 hollands,,0,1
 holler, ˈhɑːlɚ ˈhɑl·ər,0,0
-hollered, ˈhɑːlɚ,0,0
-hollering, ˈhɑːlɚ,0,0
+hollered, ˈhɑːlɚ,1,0
+hollering, ˈhɑːlɚ,1,0
 hollers, ˈhɑːlɚ ˈhɑl·ər,1,0
 hollies, ˈhɑːli ˈhɑl·i,1,0
 hollo,,0,1
@@ -203,7 +203,7 @@ homesick, ˈhoʊmsɪk ˈhoʊmˌsɪk,0,0
 homesickness, ˈhoʊmsɪknəs,0,0
 homespun, ˈhoʊmspʌn ˈhoʊmˌspʌn,0,0
 homestead, ˈhoʊmsted ˈhoʊmsted ˈhoʊm·sted,0,0
-homesteaded, ˈhoʊmsted,0,0
+homesteaded, ˈhoʊmsted,1,0
 homesteader, ˈhoʊmˌstedɚ,0,0
 homesteaders, ˈhoʊmˌstedɚ,1,0
 homestretch,,0,1
@@ -241,7 +241,7 @@ honduran, hɑːnˈdʊrən,0,0
 hondurans, hɑːnˈdʊrən,1,0
 honduras, hɑːnˈdʊrəs,0,0
 hone, hoʊn hoʊn hoʊn hoʊn,0,0
-honed, hoʊn hoʊn,0,0
+honed, hoʊn hoʊn,1,0
 hones, hoʊn hoʊn hoʊn hoʊn,1,0
 honest, ˈɑːnɪst ˈɑn·əst,0,0
 honestly, ˈɑːnɪstli ˈɑn·əst·li ˈɑn·əst·li,0,0
@@ -252,7 +252,7 @@ honeybees, ˈhʌnibiː ˈhʌn·iˌbi,1,0
 honeycomb, ˈhʌnikoʊm ˈhʌnikoʊm ˈhʌnikoʊm ˈhʌn·iˌkoʊm,0,0
 honeydew, ˈhʌniduː ˈhʌniduː,0,0
 honeymoon, ˈhʌnimuːn ˈhʌnimuːn ˈhʌn·iˌmun ˈhʌn·iˌmun,0,0
-honeymooned, ˈhʌnimuːn,0,0
+honeymooned, ˈhʌnimuːn,1,0
 honeymooners, ˈhʌnimuːnɚz,0,0
 honeymoons, ˈhʌnimuːn ˈhʌnimuːn ˈhʌn·iˌmun ˈhʌn·iˌmun,1,0
 honeys, ˈhʌni ˈhʌni ˈhʌn·i ˈhʌn·i,1,0
@@ -260,9 +260,9 @@ honeysuckle, ˈhʌniˌsʌkəl ˈhʌn·iˌsʌk·əl,0,0
 honeysuckles, ˈhʌniˌsʌkəl ˈhʌn·iˌsʌk·əl,1,0
 hong,,0,1
 hongkong,,0,1
-honing, hoʊn hoʊn,0,0
+honing, hoʊn hoʊn,1,0
 honk," hɑːŋk hɑːŋk hɑŋk, hɔŋk",0,0
-honking, hɑːŋk hɑːŋk,0,0
+honking, hɑːŋk hɑːŋk,1,0
 honks," hɑːŋk hɑːŋk hɑŋk, hɔŋk",1,0
 honky, ˈhɑːŋki,0,0
 honolulu, ˌhɑːnəˈluːluː,0,0
@@ -280,7 +280,7 @@ honors, ˈɑn·ərz ˈɑn·ərz,0,0
 honour, ˈɑːnɚ ˈɑːnɚ ˈɑːnɚ ˈɑːnɚ,0,0
 honourable, ˈɑːnɚəbəl,0,0
 honourably, ˈɑːnɚəbli,0,0
-honoured, ˈɑːnɚ ˈɑːnɚ ˈɑːnɚ,0,0
+honoured, ˈɑːnɚ ˈɑːnɚ ˈɑːnɚ,1,0
 hoo,,0,1
 hooch, huːtʃ,0,0
 hood, hʊd hʊd hʊd hʊd hʊd hʊd hʊd hʊd,0,0
@@ -289,16 +289,16 @@ hoodlum," ˈhuːdləm ˈhud·ləm, ˈhʊd-",0,0
 hoodlums," ˈhuːdləm ˈhud·ləm, ˈhʊd-",1,0
 hoods, hʊd hʊd hʊd hʊd hʊd hʊd  -hʊd hʊd hʊd,1,0
 hoodwink, ˈhʊdwɪŋk ˈhʊdˌwɪŋk,0,0
-hoodwinked, ˈhʊdwɪŋk,0,0
+hoodwinked, ˈhʊdwɪŋk,1,0
 hooey, ˈhuːi,0,0
 hoof," huːf hʊf, huf",0,0
-hoofed, huːf,0,0
+hoofed, huːf,1,0
 hoofs," huːf hʊf, huf",1,0
 hook, hʊk hʊk hʊk hʊk hʊk hʊk,0,0
 hooked, hʊkt hʊkt hʊkt hʊkt,0,0
 hooker, ˈhʊkɚ ˈhʊkɚ ˈhʊk·ər,0,0
 hookers, ˈhʊkɚ ˈhʊkɚ ˈhʊk·ər,1,0
-hooking, hʊk hʊk hʊk hʊk,0,0
+hooking, hʊk hʊk hʊk hʊk,1,0
 hooks, hʊk hʊk hʊk hʊk hʊk hʊk,1,0
 hookup, ˈhʊkˌʌp,0,0
 hookups, ˈhʊkˌʌp,1,0
@@ -318,7 +318,7 @@ hooray," həˈreɪ hʊˈreɪ, hə-",0,0
 hoosier, ˈhuːʒiɚ,0,0
 hoosiers,,0,1
 hoot, huːt huːt hut hut,0,0
-hooted, huːt huːt,0,0
+hooted, huːt huːt,1,0
 hooter, ˈhuːt̬ɚ ˈhuːt̬ɚ,0,0
 hooters, ˈhuːt̬ɚ,0,0
 hoots, huːt huːt hut hut,1,0
@@ -326,7 +326,7 @@ hoover, ˈhuːvɚ ˈhu·vər,0,0
 hooves," huːvz hʊvz, huvz",0,0
 hop, hɑːp hɑːp hɑːp hɑp,0,0
 hope, hoʊp hoʊp,0,0
-hoped, hoʊp,0,0
+hoped, hoʊp,1,0
 hopeful, ˈhoʊpfəl ˈhoʊpfəl ˈhoʊp·fəl,0,0
 hopefully, ˈhoʊpfəli ˈhoʊpfəli ˈhoʊp·fə·li,0,0
 hopefulness, ˈhoʊpfəlnəs,0,0
@@ -336,7 +336,7 @@ hopelessly, ˈhoʊpləsli ˈhoʊ·pləs·li,0,0
 hopelessness, ˈhoʊpləsnəs ˈhoʊpləsnəs,0,0
 hopes, hoʊp hoʊp,1,0
 hopi,,0,1
-hoping, hoʊp,0,0
+hoping, hoʊp,1,0
 hopped,,0,1
 hopper, ˈhɑːpɚ,0,0
 hoppers, ˈhɑːpɚ,1,0
@@ -405,10 +405,10 @@ horticulture, ˈhɔːrt̬əkʌltʃɚ ˈhɔr·t̬ɪˌkʌl·tʃər,0,0
 horticulturist, ˌhɔːrt̬əˈkʌltʃərɪst,0,0
 hose, hoʊz hoʊz hoʊz hoʊz,0,0
 hosea,,0,1
-hosed, hoʊz,0,0
+hosed, hoʊz,1,0
 hoses, hoʊz hoʊz hoʊz hoʊz,1,0
 hosiery, ˈhoʊʒɚi,0,0
-hosing, hoʊz,0,0
+hosing, hoʊz,1,0
 hospice, ˈhɑːspɪs ˈhɑs·pəs,0,0
 hospitable," hɑːˈspɪt̬əbəl hɑːˈspɪt̬əbəl ˈhɑs·pɪ·t̬ə·bəl, hɑsˈpɪt̬·ə·bəl",0,0
 hospital, ˈhɑːspɪt̬əl ˈhɑsˌpɪ·t̬əl,0,0
@@ -416,13 +416,13 @@ hospitality, ˌhɑːspɪˈtælət̬i ˌhɑːspɪˈtælət̬i ˌhɑːspɪˈtælə
 hospitalization, ˈhɑːspɪt̬ələˈzeɪʃən,0,0
 hospitalizations,,0,1
 hospitalize, ˈhɑːspɪt̬əlaɪz ˈhɑsˌpɪ·t̬əlˌɑɪz,0,0
-hospitalized, ˈhɑːspɪt̬əlaɪz,0,0
+hospitalized, ˈhɑːspɪt̬əlaɪz,1,0
 hospitals, ˈhɑːspɪt̬əl ˈhɑsˌpɪ·t̬əl,1,0
 hoss,,0,1
 host, hoʊst hoʊst hoʊst hoʊst hoʊst hoʊst hoʊst hoʊst hoʊst hoʊst,0,0
 hostage, ˈhɑːstɪdʒ ˈhɑs·tɪdʒ,0,0
 hostages, ˈhɑːstɪdʒ ˈhɑs·tɪdʒ,1,0
-hosted, hoʊst hoʊst hoʊst hoʊst,0,0
+hosted, hoʊst hoʊst hoʊst hoʊst,1,0
 hostel, ˈhɑːstəl ˈhɑːstəl ˈhɑːstəl ˈhɑs·təl,0,0
 hostels, ˈhɑːstəl ˈhɑːstəl ˈhɑːstəl ˈhɑs·təl,1,0
 hostess, ˈhoʊstɪs ˈhoʊstɪs,0,0
@@ -458,8 +458,8 @@ hotter,,0,1
 hottest,,0,1
 hough,,0,1
 hound, haʊnd hɑʊnd,0,0
-hounded, haʊnd,0,0
-hounding, haʊnd,0,0
+hounded, haʊnd,1,0
+hounding, haʊnd,1,0
 hounds, haʊnd hɑʊnd,1,0
 hour, aʊr aʊr aʊr ɑʊər ɑʊər ɑʊər,0,0
 hourglass, ˈaʊrɡlæs ˈɑʊərˌɡlæs,0,0
@@ -470,7 +470,7 @@ houseboat, ˈhaʊsboʊt ˈhɑʊsˌboʊt,0,0
 houseboats, ˈhaʊsboʊt ˈhɑʊsˌboʊt,1,0
 housebroken, ˈhaʊsˌbroʊkən ˈhaʊsˌbroʊkən ˈhɑʊsˌbroʊ·kən,0,0
 housecleaning,,0,1
-housed, haʊz,0,0
+housed, haʊz,1,0
 houseful, ˈhaʊsfʊl,0,0
 houseguest, ˈhaʊsɡest,0,0
 household, ˈhaʊshoʊld ˈhɑʊs·hoʊld,0,0

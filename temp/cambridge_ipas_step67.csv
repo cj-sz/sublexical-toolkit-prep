@@ -1,5 +1,5 @@
 Word,Pronunciation,Root Word Returned,Missing
-pissing, pɪs pɪs,0,0
+pissing, pɪs pɪs,1,0
 pistachio, pɪˈstæʃioʊ pɪˈstæʃioʊ pəˈstæʃ·iˌoʊ pəˈstæʃ·iˌoʊ,0,0
 pistachios, pɪˈstæʃioʊ pɪˈstæʃioʊ pəˈstæʃ·iˌoʊ pəˈstæʃ·iˌoʊ,1,0
 pistil, ˈpɪstɪl ˈpɪs·təl,0,0
@@ -17,7 +17,7 @@ pitchers, ˈpɪtʃɚ ˈpɪtʃɚ ˈpɪtʃɚ ˈpɪtʃ·ər ˈpɪtʃ·ər,1,0
 pitches, pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ,1,0
 pitchfork, ˈpɪtʃfɔːrk ˈpɪtʃˌfɔrk,0,0
 pitchforks, ˈpɪtʃfɔːrk ˈpɪtʃˌfɔrk,1,0
-pitching, pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ,0,0
+pitching, pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ pɪtʃ,1,0
 pitchman, ˈpɪtʃmən,0,0
 pitchmen,,0,1
 pitfall, ˈpɪtfɑːl ˈpɪtˌfɔl,0,0
@@ -25,7 +25,7 @@ pitfalls, ˈpɪtfɑːl ˈpɪtˌfɔl,1,0
 pith, pɪθ,0,0
 pithy, ˈpɪθi ˈpɪθi ˈpɪθ·i,0,0
 pitiable, ˈpɪt̬iəbəl,0,0
-pitied, ˈpɪt̬i,0,0
+pitied, ˈpɪt̬i,1,0
 pitiful, ˈpɪt̬ifəl ˈpɪt̬ifəl ˈpɪt̬·ɪ·fəl,0,0
 pitifully, ˈpɪt̬ifəli ˈpɪt̬ifəli,0,0
 pitiless, ˈpɪt̬iləs ˈpɪt̬iləs ˈpɪt·ɪ·ləs,0,0
@@ -36,7 +36,7 @@ pitted, ˈpɪt̬ɪd ˈpɪt̬ɪd ˈpɪt̬·ɪd ˈpɪt̬·ɪd,0,0
 pitting,,0,1
 pituitary, pɪˈtuːəteri,0,0
 pity, ˈpɪt̬i ˈpɪt̬i ˈpɪt̬·i ˈpɪt̬·i,0,0
-pitying, ˈpɪt̬i,0,0
+pitying, ˈpɪt̬i,1,0
 pius,,0,1
 pivot, ˈpɪvət ˈpɪvət ˈpɪvət ˈpɪv·ət,0,0
 pivotal, ˈpɪvət̬əl ˈpɪv·ə·t̬əl,0,0
@@ -54,11 +54,11 @@ pizzeria, ˌpiːtsəˈriːə,0,0
 placard," ˈplækɑːrd ˈplæk·ɑrd, -ərd",0,0
 placards," ˈplækɑːrd ˈplæk·ɑrd, -ərd",1,0
 placate," ˈpleɪkeɪt ˈpleɪ·keɪt, ˈplæk·eɪt",0,0
-placating, ˈpleɪkeɪt,0,0
+placating, ˈpleɪkeɪt,1,0
 place, pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs pleɪs,0,0
 placebo, pləˈsiːboʊ pləˈsiːboʊ pləˈsi·boʊ,0,0
 placebos, pləˈsiːboʊ pləˈsiːboʊ pləˈsi·boʊ,1,0
-placed, pleɪs pleɪs pleɪs pleɪs pleɪs,0,0
+placed, pleɪs pleɪs pleɪs pleɪs pleɪs,1,0
 placement, ˈpleɪsmənt ˈpleɪsmənt ˈpleɪsmənt ˈpleɪs·mənt ˈpleɪs·mənt ˈpleɪs·mənt,0,0
 placements, ˈpleɪsmənt ˈpleɪsmənt ˈpleɪsmənt ˈpleɪs·mənt ˈpleɪs·mənt ˈpleɪs·mənt,1,0
 placenta, pləˈsent̬ə pləˈsen·tə,0,0
@@ -68,11 +68,11 @@ placid, ˈplæsɪd ˈplæs·ɪd,0,0
 placing,,0,1
 plagiarism, ˈpleɪdʒɚɪzəm,0,0
 plagiarize, ˈpleɪdʒəraɪz ˈpleɪ·dʒəˌrɑɪz,0,0
-plagiarized, ˈpleɪdʒəraɪz,0,0
+plagiarized, ˈpleɪdʒəraɪz,1,0
 plague, pleɪɡ pleɪɡ pleɪɡ,0,0
-plagued, pleɪɡ pleɪɡ,0,0
+plagued, pleɪɡ pleɪɡ,1,0
 plagues, pleɪɡ pleɪɡ pleɪɡ pleɪɡ pleɪɡ,1,0
-plaguing, pleɪɡ pleɪɡ,0,0
+plaguing, pleɪɡ pleɪɡ,1,0
 plaid, plæd plæd plæd,0,0
 plain, pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn,0,0
 plainclothes," ˈpleɪnˈkloʊz, -ˈkloʊðz",0,0
@@ -87,7 +87,7 @@ plaintively, ˈpleɪnt̬ɪvli,0,0
 plait," pleɪt pleɪt, plæt",0,0
 plan, plæn plæn plæn plæn plæn plæn plæn,0,0
 plane, pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn pleɪn,0,0
-planed, pleɪn,0,0
+planed, pleɪn,1,0
 planeload,,0,1
 planeloads,,0,1
 planer,,0,1
@@ -110,7 +110,7 @@ plantain, ˈplæntɪn ˈplæntɪn ˈplæntɪn plæn·tən,0,0
 plantains, ˈplæntɪn ˈplæntɪn ˈplæntɪn plæn·tən,1,0
 plantation, plænˈteɪʃən plænˈteɪʃən plænˈteɪ·ʃən,0,0
 plantations, plænˈteɪʃən plænˈteɪʃən plænˈteɪ·ʃən,1,0
-planted, plænt plænt plænt plænt plænt plænt,0,0
+planted, plænt plænt plænt plænt plænt plænt,1,0
 planter, ˈplænt̬ɚ ˈplænt̬ɚ ˈplænt̬ɚ ˈplæn·tər ˈplæn·tər,0,0
 planters, ˈplænt̬ɚ ˈplænt̬ɚ ˈplænt̬ɚ ˈplæn·tər ˈplæn·tər,1,0
 planting, ˈplænt̬ɪŋ,0,0
@@ -129,7 +129,7 @@ plasticizer,,0,1
 plastics,,0,1
 plate, pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt pleɪt,0,0
 plateau, plætˈoʊ plætˈoʊ plæˈtoʊ plæˈtoʊ plæˈtəʊ,0,0
-plateaued, plætˈoʊ,0,0
+plateaued, plætˈoʊ,1,0
 plated,  -pleɪt̬ɪd,1,0
 platelet, ˈpleɪtlət ˈpleɪt·lɪt,0,0
 platelets, ˈpleɪtlət ˈpleɪt·lɪt,1,0
@@ -156,7 +156,7 @@ playa,,0,1
 playback, ˈpleɪbæk ˈpleɪˌbæk,0,0
 playbook, ˈpleɪbʊk ˈpleɪbʊk,0,0
 playboy, ˈpleɪbɔɪ ˈpleɪˌbɔɪ,0,0
-played, pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ,0,0
+played, pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ,1,0
 player, ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪ·ər ˈpleɪ·ər ˈpleɪ·ər,0,0
 players, ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪɚ ˈpleɪ·ər ˈpleɪ·ər ˈpleɪ·ər,1,0
 playful, ˈpleɪfəl ˈpleɪ·fəl,0,0
@@ -166,7 +166,7 @@ playground, ˈpleɪɡraʊnd ˈpleɪɡraʊnd ˈpleɪˌɡrɑʊnd,0,0
 playgrounds, ˈpleɪɡraʊnd ˈpleɪɡraʊnd ˈpleɪˌɡrɑʊnd,1,0
 playhouse, ˈpleɪhaʊs ˈpleɪhaʊs ˈpleɪˌhɑʊs ˈpleɪˌhɑʊs,0,0
 playhouses, ˈpleɪhaʊs ˈpleɪhaʊs ˈpleɪˌhɑʊs ˈpleɪˌhɑʊs,1,0
-playing, pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ,0,0
+playing, pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ pleɪ,1,0
 playmate, ˈpleɪmeɪt ˈpleɪˌmeɪt,0,0
 playmates, ˈpleɪmeɪt ˈpleɪˌmeɪt,1,0
 playoff, ˈpleɪɑːf ˈpleɪɑːf ˈpleɪˌɔf,0,0
@@ -208,9 +208,9 @@ plebeians,,0,1
 plebiscite, ˈplebəsaɪt,0,0
 pled, pled pled,0,0
 pledge, pledʒ pledʒ,0,0
-pledged, pledʒ,0,0
+pledged, pledʒ,1,0
 pledges, pledʒ pledʒ,1,0
-pledging, pledʒ,0,0
+pledging, pledʒ,1,0
 pleiades, ˈplaɪədiːz ˈplaɪədiːz,0,0
 pleistocene, ˈplaɪstoʊsiːn ˈplaɪstoʊsiːn,0,0
 plenary," ˈpliːnəri ˈpli·nə·ri, ˈplen·ə- ˈplenəri",0,0
@@ -224,7 +224,7 @@ plexiglas, ˈpleksiɡlæs,0,0
 plexiglass,,0,1
 plexus, ˈpleksəs,0,0
 pliable, ˈplaɪəbəl ˈplaɪəbəl ˈplɑɪ·ə·bəl,0,0
-plied, plaɪ plaɪ plaɪ,0,0
+plied, plaɪ plaɪ plaɪ,1,0
 pliers, ˈplaɪɚz ˈplɑɪ·ərz,0,0
 plies, plaɪ plaɪ plaɪ plɑɪ,1,0
 plight, plaɪt plɑɪt,0,0
@@ -256,9 +256,9 @@ plowshares, ˈplaʊʃer,1,0
 ploy, plɔɪ plɔɪ,0,0
 ploys, plɔɪ plɔɪ,1,0
 pluck, plʌk plʌk plʌk plʌk plʌk plʌk plʌk plʌk plʌk,0,0
-plucked, plʌk plʌk plʌk plʌk plʌk plʌk,0,0
+plucked, plʌk plʌk plʌk plʌk plʌk plʌk,1,0
 plucker,,0,1
-plucking, plʌk plʌk plʌk plʌk plʌk plʌk,0,0
+plucking, plʌk plʌk plʌk plʌk plʌk plʌk,1,0
 plucks, plʌk plʌk plʌk plʌk plʌk plʌk plʌk plʌk plʌk,1,0
 plucky, ˈplʌki ˈplʌk·i,0,0
 plug, plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ,0,0
@@ -268,7 +268,7 @@ plugs, plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ plʌɡ pl�
 plum, plʌm plʌm plʌm,0,0
 plumage, ˈpluːmɪdʒ ˈplu·mɪdʒ,0,0
 plumb, plʌm plʌm plʌm,0,0
-plumbed, plʌm plʌm plʌm,0,0
+plumbed, plʌm plʌm plʌm,1,0
 plumber, ˈplʌmɚ ˈplʌm·ər,0,0
 plumbers, ˈplʌmɚ ˈplʌm·ər,1,0
 plumbing, ˈplʌmɪŋ ˈplʌmɪŋ ˈplʌm·ɪŋ,0,0
@@ -276,17 +276,17 @@ plume, pluːm pluːm plum plum,0,0
 plumes, pluːm pluːm pluːm plum plum,1,0
 plummer,,0,1
 plummet, ˈplʌmɪt ˈplʌm·ɪt,0,0
-plummeted, ˈplʌmɪt,0,0
-plummeting, ˈplʌmɪt,0,0
+plummeted, ˈplʌmɪt,1,0
+plummeting, ˈplʌmɪt,1,0
 plummets, ˈplʌmɪt ˈplʌm·ɪt,1,0
 plump, plʌmp plʌmp plʌmp,0,0
-plumped, plʌmp,0,0
+plumped, plʌmp,1,0
 plums, plʌm plʌm plʌm,1,0
 plunder, ˈplʌndɚ ˈplʌndɚ ˈplʌn·dər,0,0
-plundered, ˈplʌndɚ ˈplʌndɚ,0,0
-plundering, ˈplʌndɚ ˈplʌndɚ,0,0
+plundered, ˈplʌndɚ ˈplʌndɚ,1,0
+plundering, ˈplʌndɚ ˈplʌndɚ,1,0
 plunge, plʌndʒ plʌndʒ plʌndʒ plʌndʒ plʌndʒ,0,0
-plunged, plʌndʒ plʌndʒ,0,0
+plunged, plʌndʒ plʌndʒ,1,0
 plunger, ˈplʌndʒɚ ˈplʌndʒɚ ˈplʌn·dʒər,0,0
 plunges, plʌndʒ plʌndʒ plʌndʒ plʌndʒ plʌndʒ,1,0
 plunging, ˈplʌndʒɪŋ,0,0
@@ -306,7 +306,7 @@ plutonian,,0,1
 plutonic,,0,1
 plutonium, pluːˈtoʊniəm pluˈtoʊ·ni·əm,0,0
 ply, plaɪ plaɪ plɑɪ,0,0
-plying, plaɪ plaɪ plaɪ,0,0
+plying, plaɪ plaɪ plaɪ,1,0
 plymouth,,0,1
 plywood, ˈplaɪwʊd ˈplɑɪˌwʊd,0,0
 pm, ˌpiːˈem ˌpiːˈem ˌpiːˈem ˌpiːˈem ˈpiˈem,0,0
@@ -316,7 +316,7 @@ pneumonia, nuːˈmoʊnjə nʊˈmoʊn·jə,0,0
 pneumonic, nuːˈmɑːnɪk,0,0
 po, ˌpiːˈoʊ ˌpiːˈoʊ,0,0
 poach, poʊtʃ poʊtʃ poʊtʃ poʊtʃ poʊtʃ poʊtʃ,0,0
-poached, poʊtʃ poʊtʃ poʊtʃ poʊtʃ,0,0
+poached, poʊtʃ poʊtʃ poʊtʃ poʊtʃ,1,0
 poacher, ˈpoʊtʃɚ ˈpoʊtʃɚ,0,0
 poachers, ˈpoʊtʃɚ ˈpoʊtʃɚ,1,0
 poaching, ˈpoʊtʃɪŋ ˈpoʊtʃɪŋ ˈpoʊtʃɪŋ ˈpoʊtʃɪŋ,0,0
@@ -324,9 +324,9 @@ pock, pɑːk pɑːk,0,0
 pocket, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑk·ɪt ˈpɑk·ɪt ˈpɑk·ɪt ˈpɑk·ɪt,0,0
 pocketbook, ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑk·ɪtˌbʊk ˈpɑk·ɪtˌbʊk,0,0
 pocketbooks, ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑːkɪtbʊk ˈpɑk·ɪtˌbʊk ˈpɑk·ɪtˌbʊk,1,0
-pocketed, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt,0,0
+pocketed, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt,1,0
 pocketful, ˈpɑːkɪtfʊl,0,0
-pocketing, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt,0,0
+pocketing, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt,1,0
 pockets, ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑːkɪt ˈpɑk·ɪt ˈpɑk·ɪt ˈpɑk·ɪt ˈpɑk·ɪt,1,0
 pockmark, ˈpɑːkmɑːrk ˈpɑkˌmɑrk,0,0
 pocks, pɑːk pɑːk,1,0
@@ -370,17 +370,17 @@ pointy, ˈpɔɪnt̬i,0,0
 poise, pɔɪz pɔɪz,0,0
 poised, pɔɪzd pɔɪzd pɔɪzd pɔɪzd pɔɪzd,0,0
 poison, ˈpɔɪzən ˈpɔɪ·zən,0,0
-poisoned, ˈpɔɪzən ˈpɔɪzən ˈpɔɪzən ˈpɔɪzən,0,0
+poisoned, ˈpɔɪzən ˈpɔɪzən ˈpɔɪzən ˈpɔɪzən,1,0
 poisoning, ˈpɔɪzənɪŋ,0,0
 poisonings,,0,1
 poisonous, ˈpɔɪzənəs ˈpɔɪzənəs ˈpɔɪzənəs,0,0
 poisons, ˈpɔɪzən ˈpɔɪ·zən,1,0
 poke, poʊk poʊk poʊk poʊk poʊk,0,0
-poked, poʊk poʊk poʊk,0,0
+poked, poʊk poʊk poʊk,1,0
 poker, ˈpoʊkɚ ˈpoʊkɚ ˈpoʊ·kər ˈpoʊ·kər,0,0
 pokes, poʊk poʊk poʊk poʊk poʊk,1,0
 pokey,,0,1
-poking, poʊk poʊk poʊk,0,0
+poking, poʊk poʊk poʊk,1,0
 poky, ˈpoʊki ˈpoʊki ˈpoʊki,0,0
 pol,,0,1
 polack,,0,1
@@ -392,7 +392,7 @@ polarization, ˌpoʊlɚəˈzeɪʃən ˌpoʊlɚəˈzeɪʃən ˌpoʊlɚəˈzeɪʃ�
 polarize, ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊ·ləˌrɑɪz ˈpoʊ·ləˌrɑɪz,0,0
 polarized, ˈpoʊləraɪzd ˈpoʊləraɪzd ˈpoʊləraɪzd,0,0
 polarizes, ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊ·ləˌrɑɪz ˈpoʊ·ləˌrɑɪz,1,0
-polarizing, ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊləraɪz,0,0
+polarizing, ˈpoʊləraɪz ˈpoʊləraɪz ˈpoʊləraɪz,1,0
 polaroid, ˈpoʊlərɔɪd ˈpoʊlərɔɪd ˈpoʊ·ləˌrɔɪd,0,0
 polaroids, ˈpoʊlərɔɪd ˈpoʊlərɔɪd ˈpoʊ·ləˌrɔɪd,0,0
 pole, poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl,0,0
@@ -402,7 +402,7 @@ polemic, pəˈlemɪk pəˈlem·ɪk,0,0
 polemics, pəˈlemɪk pəˈlem·ɪk,1,0
 poles, poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl poʊl,1,0
 police, pəˈliːs pəˈliːs pəˈlis,0,0
-policed, pəˈliːs pəˈliːs,0,0
+policed, pəˈliːs pəˈliːs,1,0
 policeman, pəˈliːsmən,0,0
 policemen, pəˈliːsmən,1,0
 polices, pəˈliːs pəˈliːs pəˈlis,1,0
@@ -417,7 +417,7 @@ poling,,0,1
 polio, ˈpoʊlioʊ ˈpoʊ·liˌoʊ,0,0
 polish, ˈpɑːlɪʃ ˈpɑl·ɪʃ ˈpɑl·ɪʃ,0,0
 polished, ˈpɑːlɪʃt ˈpɑːlɪʃt ˈpɑːlɪʃt ˈpɑl·ɪʃt ˈpɑl·ɪʃt,0,0
-polishing, ˈpɑːlɪʃ,0,0
+polishing, ˈpɑːlɪʃ,1,0
 politburo,,0,1
 polite, pəˈlaɪt pəˈlaɪt pəˈlɑɪt,0,0
 politely, pəˈlaɪtli pəˈlaɪtli,0,0
@@ -428,7 +428,7 @@ politically, pəˈlɪt̬əkəli,0,0
 politician, ˌpɑːləˈtɪʃən ˌpɑl·əˈtɪʃ·ən,0,0
 politicians, ˌpɑːləˈtɪʃən ˌpɑl·əˈtɪʃ·ən,1,0
 politicize, pəˈlɪt̬əsaɪz pəˈlɪt̬·əˌsɑɪz,0,0
-politicized, pəˈlɪt̬əsaɪz,0,0
+politicized, pəˈlɪt̬əsaɪz,1,0
 politicking, ˈpɑːlətɪkɪŋ,0,0
 politico,,0,1
 politicos,,0,1
@@ -444,10 +444,10 @@ polled, poʊld,0,0
 pollen, ˈpɑːlən ˈpɑl·ən,0,0
 pollens,,0,1
 pollinate, ˈpɑːləneɪt ˈpɑl·əˌneɪt,0,0
-pollinated, ˈpɑːləneɪt,0,0
+pollinated, ˈpɑːləneɪt,1,0
 pollinates, ˈpɑːləneɪt ˈpɑl·əˌneɪt,1,0
 pollination, ˌpɑːləˈneɪʃən,0,0
-polling, poʊl poʊl,0,0
+polling, poʊl poʊl,1,0
 pollock,,0,1
 polloi,,0,1
 polls, poʊlz,0,0
@@ -459,7 +459,7 @@ polluted, pəˈluːt̬ɪd pəˈluːt̬ɪd,0,0
 polluter, pəˈluːt̬ɚ pəˈlu·t̬ər,0,0
 polluters, pəˈluːt̬ɚ pəˈlu·t̬ər,1,0
 pollutes, pəˈluːt pəˈlut,1,0
-polluting, pəˈluːt,0,0
+polluting, pəˈluːt,1,0
 pollution, pəˈluːʃən pəˈlu·ʃən,0,0
 pollux,,0,1
 polly,,0,1

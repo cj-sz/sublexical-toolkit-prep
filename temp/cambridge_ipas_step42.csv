@@ -1,10 +1,10 @@
 Word,Pronunciation,Root Word Returned,Missing
 headline, ˈhedlaɪn ˈhed·lɑɪn,0,0
-headlined, ˈhedlaɪn ˈhedlaɪn,0,0
+headlined, ˈhedlaɪn ˈhedlaɪn,1,0
 headliner, ˈhedˌlaɪnɚ,0,0
 headliners, ˈhedˌlaɪnɚ,1,0
 headlines, ˈhedlaɪn ˈhed·lɑɪn,1,0
-headlining, ˈhedlaɪn ˈhedlaɪn,0,0
+headlining, ˈhedlaɪn ˈhedlaɪn,1,0
 headlong, ˈhedlɑːŋ ˈhedlɑːŋ ˈhedˈlɔŋ ˈhedˈlɔŋ,0,0
 headman, ˈhedmæn,0,0
 headmaster," ˈhedˌmæstɚ ˈhedˌmæs·tər, ˌhedˈmæs-",0,0
@@ -31,7 +31,7 @@ headwind, ˈhedwɪnd ˈhedˌwɪnd,0,0
 headwinds, ˈhedwɪnd ˈhedˌwɪnd,1,0
 heady, ˈhedi ˈhed·i,0,0
 heal, hiːl hiːl hil,0,0
-healed, hiːl hiːl,0,0
+healed, hiːl hiːl,1,0
 healer, -lɚ ˈhi·lər,0,0
 healers, -lɚ ˈhi·lər,1,0
 healing, ˈhiːlɪŋ ˈhiːlɪŋ,0,0
@@ -95,7 +95,7 @@ heathers, ˈheðɚ,1,0
 heating, ˈhiːt̬ɪŋ ˈhit ˌweɪv,0,0
 heats, hiːt hiːt hiːt hiːt hiːt,1,0
 heave, hiːv hiːv hiːv hiːv hiv hiv hiv,0,0
-heaved, hiːv hiːv hiːv hiːv,0,0
+heaved, hiːv hiːv hiːv hiːv,1,0
 heaven, ˈhevən ˈhevən ˈhev·ən ˈhev·ən,0,0
 heavenly, ˈhevənli ˈhevənli ˈhev·ən·li,0,0
 heavens, ˈhev·ənz,0,1
@@ -115,16 +115,16 @@ hebrews, ˈhiːbruː ˈhiːbruː,1,0
 hecht,,0,1
 heck, hek hek,0,0
 heckle, ˈhekəl ˈhek·əl,0,0
-heckled, ˈhekəl,0,0
+heckled, ˈhekəl,1,0
 heckler, ˈheklɚ,0,0
 hecklers, ˈheklɚ,1,0
-heckling, ˈhekəl,0,0
+heckling, ˈhekəl,1,0
 hectare, ˈhekter,0,0
 hectares, ˈhekter,1,0
 hectic, ˈhektɪk ˈhek·tɪk,0,0
 hector, ˈhektɚ,0,0
 hedge, hedʒ hedʒ hedʒ hedʒ hedʒ,0,0
-hedged, hedʒ hedʒ,0,0
+hedged, hedʒ hedʒ,1,0
 hedgehog, ˈhedʒhɑːɡ,0,0
 hedgehogs, ˈhedʒhɑːɡ,1,0
 hedger,,0,1
@@ -134,11 +134,11 @@ hedonism, ˈhidənɪzəm,0,0
 hedonistic, ˌhiːdənˈɪstɪk,0,0
 hee, ˈhiːhɑː,1,0
 heed, hiːd hid,0,0
-heeded, hiːd,0,0
-heeding, hiːd,0,0
+heeded, hiːd,1,0
+heeding, hiːd,1,0
 heel, hiːl hiːl hiːl hiːl hiːl hiːl hil hil hil hil,0,0
-heeled, hiːl hiːl,0,0
-heeling, hiːl hiːl,0,0
+heeled, hiːl hiːl,1,0
+heeling, hiːl hiːl,1,0
 heels, hiːl hiːl hiːl hiːl hiːl hiːl hil hil hil hil,1,0
 heer,,0,1
 heft, heft heft,0,0
@@ -151,8 +151,8 @@ heifer, ˈhefɚ ˈhef·ər,0,0
 heifers, ˈhefɚ ˈhef·ər,1,0
 height, haɪt haɪt hɑɪt hɑɪt,0,0
 heighten, ˈhaɪt̬ən ˈhɑɪt·ən,0,0
-heightened, ˈhaɪt̬ən,0,0
-heightening, ˈhaɪt̬ən,0,0
+heightened, ˈhaɪt̬ən,1,0
+heightening, ˈhaɪt̬ən,1,0
 heightens, ˈhaɪt̬ən ˈhɑɪt·ən,1,0
 heights, hɑɪts,0,0
 heil,,0,1
@@ -194,7 +194,7 @@ helminth,,0,1
 helms, helm helm helm helm,1,0
 helmsman, ˈhelmzmən,0,0
 help, help help help help help help help help,0,0
-helped, help help help help help help,0,0
+helped, help help help help help help,1,0
 helper, ˈhelpɚ ˈhel·pər,0,0
 helpers, ˈhelpɚ ˈhel·pər,1,0
 helpful, ˈhelpfəl ˈhelp·fəl,0,0
@@ -251,8 +251,8 @@ hepburn,,0,1
 her," strong hɝː strong hɝː hɜr, hər hɜr, hər",0,0
 hera, ˈhɪrə,0,0
 herald, ˈherəld ˈher·əld,0,0
-heralded, ˈherəld,0,0
-heralding, ˈherəld,0,0
+heralded, ˈherəld,1,0
+heralding, ˈherəld,1,0
 heraldry, ˈherəldri,0,0
 heralds, ˈherəld ˈher·əld,1,0
 herb," ɝːb ɜrb, hɜrb",0,0
@@ -269,10 +269,10 @@ herbs," ɝːb ɜrb, hɜrb",1,0
 herculean," ˌhɝːkjuˈliːən ˌhɜr·kjəˈli·ən, hərˈkju·li·ən",0,0
 hercules,,0,1
 herd, hɝːd hɝːd hɜrd,0,0
-herded, hɝːd hɝːd,0,0
+herded, hɝːd hɝːd,1,0
 herder, ˈhɝːdɚ,0,0
 herders, ˈhɝːdɚ,1,0
-herding, hɝːd hɝːd,0,0
+herding, hɝːd hɝːd,1,0
 herds, hɝːd hɝːd hɜrd,1,0
 here, hɪr hɪr hɪr hɪr hɪr hɪər hɪər,0,0
 hereabout, ˌhɪrəˈbaʊt,0,0
@@ -331,9 +331,9 @@ hesitancy, ˈhezətənsi,0,0
 hesitant, ˈhezətənt,0,0
 hesitantly, ˈhezətəntli,0,0
 hesitate, ˈhezəteɪt ˈhez·ɪˌteɪt,0,0
-hesitated, ˈhezəteɪt,0,0
+hesitated, ˈhezəteɪt,1,0
 hesitates, ˈhezəteɪt ˈhez·ɪˌteɪt,1,0
-hesitating, ˈhezəteɪt,0,0
+hesitating, ˈhezəteɪt,1,0
 hesitation, ˌhezəˈteɪʃən,0,0
 hesitations, ˌhezəˈteɪʃən,1,0
 hessian, ˈhesiən,0,0
@@ -394,8 +394,8 @@ highlander, ˈhaɪləndɚ,0,0
 highlanders, ˈhaɪləndɚ,1,0
 highlands, ˈhaɪləndz ˈhɑɪ·ləndz,0,0
 highlight, ˈhaɪlaɪt ˈhɑɪˌlɑɪt ˈhɑɪˌlɑɪt,0,0
-highlighted, ˈhaɪlaɪt,0,0
-highlighting, ˈhaɪlaɪt,0,0
+highlighted, ˈhaɪlaɪt,1,0
+highlighting, ˈhaɪlaɪt,1,0
 highlights, ˈhaɪlaɪt ˈhɑɪˌlɑɪt ˈhɑɪˌlɑɪt,1,0
 highly, ˈhaɪli ˈhaɪli ˈhaɪli ˈhɑɪ·li ˈhɑɪ·li,0,0
 highness,,0,1
@@ -405,14 +405,14 @@ hight,,0,1
 highway, ˈhaɪweɪ ˈhɑɪˌweɪ,0,0
 highways, ˈhaɪweɪ ˈhɑɪˌweɪ,1,0
 hijack, ˈhaɪdʒæk ˈhaɪdʒæk ˈhɑɪˌdʒæk ˈhɑɪˌdʒæk,0,0
-hijacked, ˈhaɪdʒæk ˈhaɪdʒæk,0,0
+hijacked, ˈhaɪdʒæk ˈhaɪdʒæk,1,0
 hijacker, ˈhaɪdʒækɚ ˈhɑɪˌdʒæk·ər,0,0
 hijackers, ˈhaɪdʒækɚ ˈhɑɪˌdʒæk·ər,1,0
 hijacking, ˈhaɪdʒækɪŋ ˈhaɪdʒækɪŋ,0,0
 hijackings, ˈhaɪdʒæk ˈhaɪdʒæk ˈhɑɪˌdʒæk ˈhɑɪˌdʒæk,1,0
 hijinks,,0,1
 hike, haɪk haɪk hɑɪk hɑɪk,0,0
-hiked, haɪk haɪk,0,0
+hiked, haɪk haɪk,1,0
 hiker, ˈhaɪkɚ ˈhɑɪ·kər,0,0
 hikers, ˈhaɪkɚ ˈhɑɪ·kər,1,0
 hikes, haɪk haɪk hɑɪk hɑɪk,1,0
@@ -444,8 +444,8 @@ himself," hɪmˈself hɪmˈself hɪmˈself hɪmˈself, ɪm- hɪmˈself, ɪm- hɪ
 hinch,,0,1
 hind, haɪnd hɑɪnd,0,0
 hinder, ˈhɪndɚ ˈhɪn·dər,0,0
-hindered, ˈhɪndɚ,0,0
-hindering, ˈhɪndɚ,0,0
+hindered, ˈhɪndɚ,1,0
+hindering, ˈhɪndɚ,1,0
 hinders, ˈhɪndɚ ˈhɪn·dər,1,0
 hindi, ˈhɪndi,0,0
 hindquarters, ˌhaɪndˈkwɔːrt̬ɚz ˈhɑɪndˌkwɔr·t̬ərz,0,0
@@ -465,10 +465,10 @@ hinged, hɪndʒd,0,0
 hinges, hɪndʒ ˈhɪndʒ,1,0
 hingle,,0,1
 hint, hɪnt hɪnt hɪnt hɪnt hɪnt hɪnt,0,0
-hinted, hɪnt,0,0
+hinted, hɪnt,1,0
 hinterland," ˈhɪnt̬ɚlænd ˈhɪn·tərˌlænd, -lənd",0,0
 hinterlands,,0,1
-hinting, hɪnt,0,0
+hinting, hɪnt,1,0
 hints, hɪnt hɪnt hɪnt hɪnt hɪnt hɪnt,1,0
 hip, hɪp hɪp hɪp,0,0
 hipbone,,0,1

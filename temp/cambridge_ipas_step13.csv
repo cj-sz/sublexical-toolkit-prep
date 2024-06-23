@@ -1,5 +1,5 @@
 Word,Pronunciation,Root Word Returned,Missing
-burping, bɝːp bɝːp,0,0
+burping, bɝːp bɝːp,1,0
 burr, bɝː bɝː bɝː,0,0
 burrito, bəˈriːt̬oʊ bəˈrit̬·oʊ,0,0
 burritos, bəˈriːt̬oʊ bəˈrit̬·oʊ,1,0
@@ -8,7 +8,7 @@ burros,,0,1
 burroughs,,0,1
 burrow," ˈbɝːoʊ ˈbɜr·oʊ, ˈbʌr·oʊ",0,0
 burrower,,0,1
-burrowing, ˈbɝːoʊ ˈbɝːoʊ ˈbɝːoʊ,0,0
+burrowing, ˈbɝːoʊ ˈbɝːoʊ ˈbɝːoʊ,1,0
 burrows," ˈbɝːoʊ ˈbɜr·oʊ, ˈbʌr·oʊ",1,0
 burry,,0,1
 burse,,0,1
@@ -19,7 +19,7 @@ burt,,0,1
 burton,,0,1
 burundi, bʊˈrʊndi,0,0
 bury, ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈber·i ˈber·i ˈber·i,0,0
-burying, ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi,0,0
+burying, ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi ˈberi,1,0
 bus, bʌs bʌs bʌs,0,0
 busboy, ˈbʌsbɔɪ ˈbʌsˌbɔɪ,0,0
 busboys, ˈbʌsbɔɪ ˈbʌsˌbɔɪ,1,0
@@ -74,8 +74,8 @@ but," strong bʌt bʌt, bət",0,0
 butane,,0,1
 butch, bʊtʃ,0,0
 butcher, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃ·ər ˈbʊtʃ·ər,0,0
-butchered, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ,0,0
-butchering, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ,0,0
+butchered, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ,1,0
+butchering, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ,1,0
 butchers, ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃɚ ˈbʊtʃ·ər ˈbʊtʃ·ər,1,0
 butchery, ˈbʊtʃɚi ˈbʊtʃɚi ˈbʊtʃɚi ˈbʊtʃɚi,0,0
 butler, ˈbʌtlɚ ˈbʌt·lər,0,0
@@ -92,24 +92,24 @@ buttered, ˈbʌt̬ɚd,0,0
 butterfat, ˈbʌt̬ɚfæt,0,0
 butterflies, ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬·ərˌflɑɪ,1,0
 butterfly, ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬ɚflaɪ ˈbʌt̬·ərˌflɑɪ,0,0
-buttering, ˈbʌt̬ɚ,0,0
+buttering, ˈbʌt̬ɚ,1,0
 buttermilk, ˈbʌt̬ɚmɪlk ˈbʌt̬·ərˌmɪlk,0,0
 butters, ˈbʌt̬ɚz,0,0
 butterscotch, ˈbʌt̬ɚskɑːtʃ ˈbʌt̬·ərˌskɑtʃ,0,0
 buttery, ˈbʌt̬ɚi,0,0
-butting, bʌt,0,0
+butting, bʌt,1,0
 buttock, ˈbʌt̬ək ˈbʌt̬·ək,0,0
 buttocks, ˈbʌt̬ək ˈbʌt̬·ək,1,0
 button, ˈbʌtən ˈbʌtən ˈbʌtən ˈbʌtən ˈbʌt·ən ˈbʌt·ən ˈbʌt·ən,0,0
-buttoned, ˈbʌt̬ən,0,0
+buttoned, ˈbʌt̬ən,1,0
 buttonhole, ˈbʌtənhoʊl ˈbʌtənhoʊl ˈbʌt·ənˌhoʊl,0,0
-buttonholed, ˈbʌt̬ənhoʊl,0,0
+buttonholed, ˈbʌt̬ənhoʊl,1,0
 buttonholes, ˈbʌtənhoʊl ˈbʌtənhoʊl ˈbʌt·ənˌhoʊl,1,0
 buttons, ˈbʌtən ˈbʌtən ˈbʌtən ˈbʌtən ˈbʌt·ən ˈbʌt·ən ˈbʌt·ən,1,0
 buttress, ˈbʌtrəs ˈbʌ·trəs,0,0
-buttressed, ˈbʌtrəs ˈbʌtrəs,0,0
+buttressed, ˈbʌtrəs ˈbʌtrəs,1,0
 buttresses, ˈbʌtrəs ˈbʌ·trəs,1,0
-buttressing, ˈbʌtrəs ˈbʌtrəs,0,0
+buttressing, ˈbʌtrəs ˈbʌtrəs,1,0
 butts, bʌt bʌt bʌt bʌt bʌt bʌt bʌt bʌt bʌt,1,0
 buxom, ˈbʌksəm,0,0
 buy, baɪ baɪ baɪ bɑɪ bɑɪ,0,0
@@ -125,7 +125,7 @@ buzzards, ˈbʌzɚd ˈbʌzɚd ˈbʌz·ərd,1,0
 buzzed, bʌzd bʌzd,0,0
 buzzer, ˈbʌzɚ ˈbʌz·ər,0,0
 buzzes, bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz,1,0
-buzzing, bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz,0,0
+buzzing, bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz bʌz,1,0
 buzzword, ˈbʌzwɝːd ˈbʌzˌwɜrd,0,0
 buzzwords, ˈbʌzwɝːd ˈbʌzˌwɜrd,1,0
 buzzy, ˈbʌzi ˈbʌzi,0,0
@@ -138,9 +138,9 @@ bylaws, ˈbaɪlɑː ˈbaɪlɑː -lɑː -lɑː,1,0
 byline, ˈbaɪlaɪn ˈbaɪlaɪn ˈbɑɪˌlɑɪn,0,0
 bylines, ˈbaɪlaɪn ˈbaɪlaɪn ˈbɑɪˌlɑɪn,1,0
 bypass, ˈbaɪpæs ˈbaɪpæs ˈbɑɪˌpæs,0,0
-bypassed, ˈbaɪpæs ˈbaɪpæs,0,0
+bypassed, ˈbaɪpæs ˈbaɪpæs,1,0
 bypasses, ˈbaɪpæs ˈbaɪpæs ˈbɑɪˌpæs,1,0
-bypassing, ˈbaɪpæs ˈbaɪpæs,0,0
+bypassing, ˈbaɪpæs ˈbaɪpæs,1,0
 byproduct," ˈbɑɪˌprɑd·əkt, -ʌkt",0,0
 byproducts," ˈbɑɪˌprɑd·əkt, -ʌkt",1,0
 byron,,0,1
@@ -193,7 +193,7 @@ cachet, kæʃˈeɪ kæˈʃeɪ,0,0
 caching, kæʃ kæʃ kæʃ,1,0
 cacique,,0,1
 cackle, ˈkækəl ˈkækəl ˈkæk·əl,0,0
-cackling, ˈkækəl ˈkækəl,0,0
+cackling, ˈkækəl ˈkækəl,1,0
 cacophony, kəˈkɑːfəni,0,0
 cacti,,0,1
 cactus, ˈkæktəs ˈkæk·təs,0,0
@@ -226,7 +226,7 @@ caffeine," ˈkæfiːn kæˈfin, ˈkæf·in",0,0
 caftan, ˈkæftæn,0,0
 caftans, ˈkæftæn,1,0
 cage, keɪdʒ keɪdʒ keɪdʒ,0,0
-caged, keɪdʒ,0,0
+caged, keɪdʒ,1,0
 cages, keɪdʒ keɪdʒ keɪdʒ,1,0
 cagey, ˈkeɪdʒi ˈkeɪ·dʒi,0,0
 cahill,,0,1
@@ -240,8 +240,8 @@ cairo, ˈkaɪroʊ,0,0
 caisson, ˈkeɪsən ˈkeɪsən,0,0
 caissons,,0,1
 cajole, kəˈdʒoʊl kəˈdʒoʊl,0,0
-cajoled, kəˈdʒoʊl,0,0
-cajoling, kəˈdʒoʊl,0,0
+cajoled, kəˈdʒoʊl,1,0
+cajoling, kəˈdʒoʊl,1,0
 cajun, ˈkeɪdʒən ˈkeɪ·dʒən,0,0
 cajuns, ˈkeɪdʒən ˈkeɪ·dʒən,1,0
 cake, keɪk keɪk keɪk keɪk,0,0
@@ -279,7 +279,7 @@ calgary, ˈkælɡəri,0,0
 calgon,,0,1
 caliber, ˈkæləbɚ ˈkæləbɚ ˈkæl·ə·bər ˈkæl·ə·bər,0,0
 calibrate, ˈkæləbreɪt ˈkæləbreɪt ˈkæl·əˌbreɪt,0,0
-calibrated, ˈkæləbreɪt ˈkæləbreɪt,0,0
+calibrated, ˈkæləbreɪt ˈkæləbreɪt,1,0
 calibration, ˌkæləˈbreɪʃən ˌkæləˈbreɪʃən,0,0
 calico, ˈkæləkoʊ ˈkæləkoʊ ˈkæləkoʊ ˈkæl·ɪˌkoʊ,0,0
 calif," ˈkeɪlɪf ˈkeɪ·ləf, ˈkæl-",1,0
@@ -293,7 +293,7 @@ call, kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɔl
 calla,,0,1
 callan,,0,1
 callas,,0,1
-called, kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl,0,0
+called, kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl,1,0
 caller, ˈkɑːlɚ ˈkɑːlɚ ˈkɔ·lər,0,0
 callers, ˈkɑːlɚ ˈkɑːlɚ ˈkɔ·lər,1,0
 calles,,0,1
@@ -310,10 +310,10 @@ callow, ˈkæloʊ,0,0
 calls, kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɑːl kɔl kɔl kɔl kɔl kɔl kɔl kɔl kɔl kɔl kɔl,1,0
 callus, ˈkæləs ˈkæl·əs,0,0
 calm," kɑːm kɑːm kɑːm kɑm, kɑlm kɑm, kɑlm",0,0
-calmed, kɑːm kɑːm,0,0
+calmed, kɑːm kɑːm,1,0
 calmer," kɑːm kɑːm kɑːm kɑːm kɑm, kɑlm kɑm, kɑlm",1,0
 calmest," kɑːm kɑːm kɑːm kɑːm kɑm, kɑlm kɑm, kɑlm",1,0
-calming, kɑːm kɑːm,0,0
+calming, kɑːm kɑːm,1,0
 calmly, ˈkɑːmli ˈkɑːmli,0,0
 calmness, ˈkɑːmnəs ˈkɑːmnəs,0,0
 calms," kɑːm kɑːm kɑːm kɑːm kɑm, kɑlm kɑm, kɑlm",1,0
@@ -325,7 +325,7 @@ calumet,,0,1
 calvary, ˈkælvəri ˈkælvəri,0,0
 calves, kævz kævz,0,0
 calvin,,0,1
-calving, kæv,0,0
+calving, kæv,1,0
 calvinist, ˈkælvənɪst ˈkælvənɪst,0,0
 calypso, kəˈlɪpsoʊ kəˈlɪp·soʊ,0,0
 calypsos, kəˈlɪpsoʊ kəˈlɪp·soʊ,1,0
@@ -356,17 +356,17 @@ camino,,0,1
 camorra,,0,1
 camouflage," ˈkæməflɑːʒ ˈkæməflɑːʒ ˈkæməflɑːʒ ˈkæm·əˌflɑʒ, -ˌflɑdʒ ˈkæm·əˌflɑʒ, -ˌflɑdʒ",0,0
 camouflaged, ˈkæməflɑːʒd ˈkæməflɑːʒd ˈkæməflɑːʒd,0,0
-camouflaging, ˈkæməflɑːʒ ˈkæməflɑːʒ ˈkæməflɑːʒ,0,0
+camouflaging, ˈkæməflɑːʒ ˈkæməflɑːʒ ˈkæməflɑːʒ,1,0
 camp, kæmp kæmp kæmp kæmp kæmp kæmp kæmp kæmp,0,0
 campaign, kæmˈpeɪn kæmˈpeɪn kæmˈpeɪn,0,0
-campaigned, kæmˈpeɪn kæmˈpeɪn,0,0
+campaigned, kæmˈpeɪn kæmˈpeɪn,1,0
 campaigner, ˌkæmˈpeɪnɚ,0,0
 campaigners, ˌkæmˈpeɪnɚ,1,0
-campaigning, kæmˈpeɪn kæmˈpeɪn,0,0
+campaigning, kæmˈpeɪn kæmˈpeɪn,1,0
 campaigns, kæmˈpeɪn kæmˈpeɪn kæmˈpeɪn,1,0
 campanella,,0,1
 campbell,,0,1
-camped, kæmp kæmp,0,0
+camped, kæmp kæmp,1,0
 camper, ˈkæmpɚ ˈkæmpɚ ˈkæmpɚ ˈkæm·pər ˈkæm·pər,0,0
 campers, ˈkæmpɚ ˈkæmpɚ ˈkæmpɚ ˈkæm·pər ˈkæm·pər,1,0
 campesinos,,0,1
@@ -452,7 +452,7 @@ cannery, ˈkænɚi,0,0
 cannibal, ˈkænəbəl ˈkæn·ə·bəl,0,0
 cannibalism, ˈkænəbəlɪzəm,0,0
 cannibalize, ˈkænəbəlaɪz,0,0
-cannibalizing, ˈkænəbəlaɪz,0,0
+cannibalizing, ˈkænəbəlaɪz,1,0
 cannibals, ˈkænəbəl ˈkæn·ə·bəl,1,0
 canning, ˈkænɪŋ ˈkænɪŋ,0,0
 cannister,,0,1
@@ -468,7 +468,7 @@ canola, kəˈnoʊlə kəˈnoʊlə,0,0
 canon, ˈkænən ˈkænən ˈkænən ˈkænən ˈkænən ˈkænən ˈkæn·ən ˈkæn·ən,0,0
 canonical, kəˈnɑːnɪkəl kəˈnɑːnɪkəl kəˈnɑːnɪkəl,0,0
 canonize, ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz,0,0
-canonized, ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz,0,0
+canonized, ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz ˈkænənaɪz,1,0
 canons, ˈkænən ˈkænən ˈkænən ˈkænən ˈkænən ˈkænən ˈkæn·ən ˈkæn·ən,1,0
 canopy, ˈkænəpi ˈkænəpi ˈkænəpi ˈkænəpi ˈkæn·ə·pi,0,0
 cans,,0,1

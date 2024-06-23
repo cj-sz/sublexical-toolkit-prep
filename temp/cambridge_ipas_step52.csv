@@ -35,7 +35,7 @@ licensure, ˈlaɪsənʃɚ,0,0
 licentious, laɪˈsenʃəs,0,0
 lichen, ˈlaɪkən ˈlɑɪ·kən,0,0
 lick, lɪk lɪk lɪk lɪk lɪk,0,0
-licked, lɪk lɪk lɪk,0,0
+licked, lɪk lɪk lɪk,1,0
 licker, ˈɑːrsˌlɪkɚ,1,0
 lickety, ˌlɪkət̬iˈsplɪt,1,0
 licking, ˈlɪkɪŋ ˈlɪkɪŋ ˈlɪk·ɪŋ,0,0
@@ -80,7 +80,7 @@ lifestyles, ˈlaɪfstaɪl ˈlaɪfstaɪl ˈlɑɪfˌstɑɪl,1,0
 lifetime, ˈlaɪftaɪm ˈlɑɪfˌtɑɪm,0,0
 lifetimes, ˈlaɪftaɪm ˈlɑɪfˌtɑɪm,1,0
 lift, lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft,0,0
-lifted, lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft,0,0
+lifted, lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft lɪft,1,0
 lifter, ˈweɪtˌlɪftɚ,1,0
 lifters, ˈweɪtˌlɪftɚ,1,0
 lifting,,0,1
@@ -93,8 +93,8 @@ ligation, laɪˈɡeɪʃən lɑɪˈɡeɪ·ʃən,0,0
 light, laɪt laɪt lɑɪt lɑɪt lɑɪt lɑɪt,0,0
 lighted, ˈlaɪt̬ɪd,0,0
 lighten, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlɑɪ·tən ˈlɑɪ·tən ˈlɑɪ·tən,0,0
-lightened, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən,0,0
-lightening, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən,0,0
+lightened, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən,1,0
+lightening, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən,1,0
 lightens, ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlaɪt̬ən ˈlɑɪ·tən ˈlɑɪ·tən ˈlɑɪ·tən,1,0
 lighter, ˈlaɪt̬ɚ ˈlaɪt̬ɚ ˈlɑɪ·t̬ər,0,0
 lighters, ˈlaɪt̬ɚ ˈlaɪt̬ɚ ˈlɑɪ·t̬ər,1,0
@@ -115,7 +115,7 @@ lignite,,0,1
 likable, ˈlaɪkəbəl ˈlɑɪ·kə·bəl,0,0
 like, laɪk laɪk laɪk lɑɪk lɑɪk lɑɪk,0,0
 likeable, ˈlaɪkəbəl,0,0
-liked, laɪk laɪk laɪk laɪk,0,0
+liked, laɪk laɪk laɪk laɪk,1,0
 likelier,,0,1
 likeliest,,0,1
 likelihood, ˈlaɪklihʊd ˈlɑɪk·liˌhʊd,0,0
@@ -169,8 +169,8 @@ limos, ˈlɪmoʊ,1,0
 limousine," ˌlɪməˈziːn ˌlɪməˈziːn ˌlɪm·əˈzin, ˈlɪm·əˌzin",0,0
 limousines," ˌlɪməˈziːn ˌlɪməˈziːn ˌlɪm·əˈzin, ˈlɪm·əˌzin",1,0
 limp, lɪmp lɪmp lɪmp,0,0
-limped, lɪmp lɪmp,0,0
-limping, lɪmp lɪmp,0,0
+limped, lɪmp lɪmp,1,0
+limping, lɪmp lɪmp,1,0
 limps, lɪmp lɪmp lɪmp,1,0
 lin,,0,1
 lina,,0,1
@@ -201,7 +201,7 @@ lineup, ˈlɑɪnˌʌp ˈlɑɪnˌʌp,0,0
 lineups, ˈlɑɪnˌʌp ˈlɑɪnˌʌp,1,0
 ling,,0,1
 linger, ˈlɪŋɡɚ ˈlɪŋ·ɡər,0,0
-lingered, ˈlɪŋɡɚ,0,0
+lingered, ˈlɪŋɡɚ,1,0
 lingerie," ˌlɑːnʒəˈreɪ ˌlɑn·dʒəˈreɪ, ˌlɑ̃·ʒə-, -ˈri",0,0
 lingering, ˈlɪŋɡɚɪŋ,0,0
 lingers, ˈlɪŋɡɚ ˈlɪŋ·ɡər,1,0
@@ -219,9 +219,9 @@ linings, ˈlaɪnɪŋ ˈlɑɪ·nɪŋ,1,0
 link, lɪŋk lɪŋk lɪŋk lɪŋk lɪŋk lɪŋk,0,0
 linkage, ˈlɪŋkɪdʒ ˈlɪŋ·kɪdʒ,0,0
 linkages, ˈlɪŋkɪdʒ ˈlɪŋ·kɪdʒ,1,0
-linked, lɪŋk lɪŋk lɪŋk,0,0
+linked, lɪŋk lɪŋk lɪŋk,1,0
 linker,,0,1
-linking, lɪŋk lɪŋk lɪŋk,0,0
+linking, lɪŋk lɪŋk lɪŋk,1,0
 links, lɪŋks lɪŋks,0,0
 linkup,,0,1
 linkups,,0,1
@@ -250,15 +250,15 @@ lips, lɪp lɪp lɪp lɪp lɪp lɪp lɪp,1,0
 lipstick, ˈlɪpstɪk ˈlɪpˌstɪk,0,0
 lipsticks, ˈlɪpstɪk ˈlɪpˌstɪk,1,0
 liquefaction, ˌlɪkwɪˈfækʃən,0,0
-liquefied, ˈlɪkwəfaɪ ˈlɪkwəfaɪ,0,0
+liquefied, ˈlɪkwəfaɪ ˈlɪkwəfaɪ,1,0
 liquefy, ˈlɪkwəfaɪ ˈlɪkwəfaɪ ˈlɪk·wəˌfɑɪ,0,0
 liqueur," lɪˈkjʊr lɪˈkɜr, -ˈkjʊr, -ˈkʊr",0,0
 liqueurs," lɪˈkjʊr lɪˈkɜr, -ˈkjʊr, -ˈkʊr",1,0
 liquid, ˈlɪkwɪd ˈlɪkwɪd ˈlɪk·wɪd,0,0
 liquidate, ˈlɪkwədeɪt ˈlɪkwədeɪt ˈlɪk·wɪˌdeɪt ˈlɪk·wɪˌdeɪt,0,0
-liquidated, ˈlɪkwədeɪt ˈlɪkwədeɪt,0,0
+liquidated, ˈlɪkwədeɪt ˈlɪkwədeɪt,1,0
 liquidates, ˈlɪkwədeɪt ˈlɪkwədeɪt ˈlɪk·wɪˌdeɪt ˈlɪk·wɪˌdeɪt,1,0
-liquidating, ˈlɪkwədeɪt ˈlɪkwədeɪt,0,0
+liquidating, ˈlɪkwədeɪt ˈlɪkwədeɪt,1,0
 liquidation, ˌlɪkwəˈdeɪʃən,0,0
 liquidator, ˈlɪkwədeɪt̬ɚ -ṱɚ,0,0
 liquidators, ˈlɪkwədeɪt̬ɚ -ṱɚ,1,0
@@ -275,17 +275,17 @@ lish,,0,1
 lisle, laɪl,0,0
 lisp, lɪsp lɪsp,0,0
 list, lɪst lɪst lɪst,0,0
-listed, lɪst lɪst lɪst lɪst,0,0
+listed, lɪst lɪst lɪst lɪst,1,0
 listen, ˈlɪsən ˈlɪs·ən,0,0
-listened, ˈlɪsən,0,0
+listened, ˈlɪsən,1,0
 listener, ˈlɪsənɚ,0,0
 listeners, ˈlɪsənɚ,1,0
-listening, ˈlɪsən,0,0
+listening, ˈlɪsən,1,0
 listens, ˈlɪsən ˈlɪs·ən,1,0
 lister, ˈeɪlɪstɚ,1,0
 listeria, lɪˈstɪriə,0,0
 listing, ˈlɪstɪŋ ˈlɪs·tɪŋ,0,0
-listings, ˈlɪstɪŋ ˈlɪs·tɪŋ,0,0
+listings, ˈlɪstɪŋ ˈlɪs·tɪŋ,1,0
 listless, ˈlɪstləs ˈlɪst·ləs,0,0
 listlessly, ˈlɪstləsli,0,0
 lists, lɪst lɪst lɪst,1,0
@@ -316,8 +316,8 @@ lithuanians, ˌlɪθjuˈeɪniən,1,0
 litigant, ˈlɪt̬əɡənt ˈlɪṱ-,0,0
 litigants, ˈlɪt̬əɡənt ˈlɪṱ-,1,0
 litigate, ˈlɪt̬əɡeɪt ˈlɪt̬·ɪˌɡeɪt ˈlɪṱ-,0,0
-litigated, ˈlɪt̬əɡeɪt,0,0
-litigating, ˈlɪt̬əɡeɪt,0,0
+litigated, ˈlɪt̬əɡeɪt,1,0
+litigating, ˈlɪt̬əɡeɪt,1,0
 litigation, ˌlɪt̬əˈɡeɪʃən ˌlɪt̬·ɪˈɡeɪ·ʃən ˌlɪṱ-,0,0
 litigations,,0,1
 litigator, ˈlɪt̬əɡeɪt̬ɚ,0,0
@@ -326,7 +326,7 @@ litigious, lɪˈtɪdʒəs,0,0
 litmus, ˈlɪtməs ˈlɪt·məs,0,0
 lits,,0,1
 litter, ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬·ər ˈlɪt̬·ər,0,0
-littered, ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ,0,0
+littered, ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ,1,0
 littering, ˈlɪt̬ɚɪŋ,0,0
 litters, ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬ɚ ˈlɪt̬·ər ˈlɪt̬·ər,1,0
 little, ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬·əl ˈlɪt̬·əl ˈlɪt̬·əl ˈlɪt̬·əl,0,0
@@ -336,7 +336,7 @@ littlest, ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬əl ˈlɪt̬ə
 liturgy, ˈlɪt̬ɚdʒi ˈlɪt̬·ər·dʒi,0,0
 livable, ˈlɪvəbəl ˈlɪvəbəl ˈlɪv·ə·bəl,0,0
 live, lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv,0,0
-lived, lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv,0,0
+lived, lɪv lɪv lɪv lɪv lɪv lɪv lɪv lɪv,1,0
 livelier, ˈlaɪvli ˈlaɪvli ˈlɑɪv·li,1,0
 liveliest, ˈlaɪvli ˈlaɪvli ˈlɑɪv·li,1,0
 livelihood, ˈlaɪvlihʊd ˈlɑɪv·liˌhʊd,0,0
@@ -378,18 +378,18 @@ loafers, ˈloʊfɚ ˈloʊfɚ ˈloʊ·fər,1,0
 loafs, loʊf loʊf loʊf,1,0
 loam, loʊm,0,0
 loan, loʊn loʊn loʊn,0,0
-loaned, loʊn,0,0
-loaning, loʊn,0,0
+loaned, loʊn,1,0
+loaning, loʊn,1,0
 loans, loʊn loʊn loʊn loʊn,1,0
 loath," loʊθ, loʊð",0,1
 loathe, loʊð loʊð,0,0
-loathed, loʊð,0,0
+loathed, loʊð,1,0
 loathing, ˈloʊðɪŋ,0,0
 loathsome, ˈloʊðsəm,0,0
 loaves, loʊvz loʊvz,0,0
 lob, lɑːb lɑːb lɑb,0,0
 lobbed,,0,1
-lobbied, ˈlɑːbi,0,0
+lobbied, ˈlɑːbi,1,0
 lobbies, ˈlɑːbi ˈlɑ·bi ˈlɑ·bi,1,0
 lobbing,,0,1
 lobby, ˈlɑːbi ˈlɑ·bi ˈlɑ·bi,0,0
@@ -416,9 +416,9 @@ localized, ˈloʊkəlaɪzd,0,0
 locally, ˈloʊkəli,0,0
 locals, ˈloʊkəl ˈloʊkəl ˈloʊ·kəl ˈloʊ·kəl,1,0
 locate," loʊˈkeɪt loʊˈkeɪt ˈloʊ·keɪt, loʊˈkeɪt ˈloʊ·keɪt, loʊˈkeɪt",0,1
-located, loʊˈkeɪt loʊˈkeɪt loʊˈkeɪt,0,0
+located, loʊˈkeɪt loʊˈkeɪt loʊˈkeɪt,1,0
 locates,,0,1
-locating, loʊˈkeɪt loʊˈkeɪt loʊˈkeɪt,0,0
+locating, loʊˈkeɪt loʊˈkeɪt loʊˈkeɪt,1,0
 location, loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪ·ʃən,0,0
 locations, loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪʃən loʊˈkeɪ·ʃən loʊˈkeɪ·ʃən,1,0
 locator, loʊˈkeɪt̬ɚ loʊˈkeɪt̬ɚ,0,0
@@ -426,12 +426,12 @@ locators, loʊˈkeɪt̬ɚ loʊˈkeɪt̬ɚ,1,0
 loch, lɑːk,0,0
 loci, ˈloʊsaɪ,0,0
 lock, lɑːk lɑːk lɑːk lɑːk lɑːk lɑːk lɑːk lɑk lɑk lɑk,0,0
-locked, lɑːk lɑːk lɑːk,0,0
+locked, lɑːk lɑːk lɑːk,1,0
 locker, ˈlɑːkɚ ˈlɑ·kər,0,0
 lockers, ˈlɑːkɚ ˈlɑ·kər,1,0
 locket, ˈlɑːkɪt ˈlɑk·ɪt,0,0
 lockets, ˈlɑːkɪt ˈlɑk·ɪt,1,0
-locking, lɑːk lɑːk lɑːk,0,0
+locking, lɑːk lɑːk lɑːk,1,0
 lockout, ˈlɑːkaʊt ˈlɑkˌɑʊt,0,0
 lockouts, ˈlɑːkaʊt ˈlɑkˌɑʊt,1,0
 locks,,0,1
@@ -448,7 +448,7 @@ lode, loʊd,0,0
 loden,,0,1
 lodestone, ˈloʊdstoʊn,0,0
 lodge, lɑːdʒ lɑːdʒ lɑːdʒ lɑdʒ lɑdʒ lɑdʒ,0,1
-lodged, lɑːdʒ lɑːdʒ lɑːdʒ lɑːdʒ,0,0
+lodged, lɑːdʒ lɑːdʒ lɑːdʒ lɑːdʒ,1,0
 lodgepole,,0,1
 lodges,,0,1
 lodging, ˈlɑːdʒɪŋ,0,0
