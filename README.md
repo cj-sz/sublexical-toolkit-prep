@@ -4,35 +4,37 @@ This repository contains code and files for updating inputs to the Sublexical To
 
 Primary functionality is contained in and described by `inputprep.ipynb`.
 
-### Key Files
+### Key Result
 
-`inputprep.ipynb`: contains the key functionality of the word prep. Trims the CMU dictionary, converts pronunciations to their potential IPA formats and compares and contrasts these potential pronunciations with pronunciations obtained from the Cambridge dictionary. Outputs `cmu_ipa_cambridge.csv`, the main result of the analysis (described below).
+`cmu_ipa_cambridge.csv`
 
-`cmu_ipa_cambridge.csv`: the main, key result. Contains the following columns:
+*CMU Word*: A word from the trimmed list of CMU words. Some of these will be junk (like "aa", for instance) and will need to be filtered out by hand as they are examined. If a word appears twice in this column (and therefore has two separate entries), that means the CMU dictionary provided more than one valid pronunciation for the word.
 
-*CMU Word*: a word from the trimmed CMU dictionary. Duplicates can exist (see *Alternate Pronunciation*)
+*CMU IPAs*: A list of all possible IPA transcriptions of the pronunciation for the word provided by the CMU dictionary. Note that these are NOT alternate pronunciations; sometimes, there is more than one way to represent a phoneme in the IPA format (see `transcriptions.csv`), and this list includes all valid combinations of such representations. Again, if there is a valid alternate pronunciation for a word, that pronunciation would show up in a separate row entry for the word.
 
-*CMU IPAs*: a list of strings containing all possible IPA transcriptions of the pronunciation provided for the word by the CMU dictionary.
+*Cambridge IPAs*: A list, possibly empty, of all IPA pronunciations for the given word returned by the Cambridge dictionary (if any).
 
-*Cambridge IPAs*: a list, possibly empty, of pronunciations returned for the word through a query to the Cambridge dictionary. If the list is empty, the word was missing from the Cambridge dictionary. Existing pronunciations are provided in IPA format.
+*CMU (Toolkit)*: A list of all pronunciations in *CMU IPAs* translated to the Toolkit pronunciation format. Trimmed to remove duplicates.
 
-*Matched Pronunciations (IPA)*: a possibly empty list of all possible pronunciations returned both by the CMU dictionary transcription and the Cambridge dictionary. Indicates the pronunciations where the two dictionaries agree.
+*Cambridge (Toolkit)*: A list of all pronunciations in *Cambridge IPAs* translated to the Toolkit pronunciation format. Trimmed to remove duplicates, and empty if *Cambridge IPAs* is empty for this word.
 
-*Matched Pronunciations (Toolkit)*: a list not necessarily the same length as the list in *Matched Pronunciations (IPA)* consisting of all such matched pronunciations converted to the format used as input in the Sublexical Toolkit, and trimmed to remove duplicates.
+*Matched Pronunciations (IPA)*: A list, possibly empty, of all matched IPA pronunciations from the *CMU IPAs* list and the *Cambridge IPAs* list. 
 
-*Pronunciation Matches*: a listof one-indexed pairs indicating the indices of the matched pronunciations. For instance, if two matched pronunciations were found, and one was the first pronunciation of the CMU dictionary matched with the second of the Cambridge, and the second match was the second pronunciation of the CMU dictionary matched with the third of Cambridge, this list would be [(1,2), (2, 3)]. This list is not necessarily the same length as *Matched Pronunciations (Toolkit)* but is guaranteed to be the same length as *Matched Pronunciations (IPA)*.
+*Matched Pronunciations (Toolkit)*: A list of all pronunciations in *Matched Pronunciations (IPA)* translated to Toolkit format. Trimmed to remove duplicates, and empty if *Matched Pronunciations (IPA)* is empty.
 
-*Alternate Pronunciation*: An integer. 1 if the word is present for at least the second time in the CMU dictionary. If it is, this means the CMU dictionary identified more than one valid pronunciation for the word, and the word appears more than once in the *CMU Word* column.
+*Pronunciation Matches*: A list of tuples indicating which (if any) CMU IPA from *CMU IPAs* matched which Cambridge IPA from *Cambridge IPAs* in the format of "(cmu_ipa_number, matched_cambridge_ipa_number)".
 
-*Root From Cambridge*: An integer. Sometimes, when querying the conjugation of a word (often this happens for part of speech or tense), Cambridge returns the root of the word (as an example see the entry for the word "abandoning" in `cmu_ipa_cambridge.csv`). In this case, the provided pronunciations are the pronunciations for the root word. None of the pronunciations will match the CMU dictionary pronunciation, and before input to the Toolkit these will need to be examined manually. The entry for this column is 1 if this is the case and 0 otherwise.
+*Alternate Pronunciation*: 1 if this is a word that had other valid pronunciations present in the CMU dictionary. 0 otherwise.
 
-NOTE: I've temporarily removed this column from the output, as some things need to be fixed in `get-cambridge.ipynb` (some edge cases).
+*Root From Cambridge*: Sometimes, querying the Cambridge dictionary for the conjugate of a word only returns information on the root of the word. For instance, see the word "abandoning" on line 17; the entries in *Cambridge IPAs* correspond to the pronunciation of the word "abandon," rather than "abandoning." This column will be 1 if this was the case, and 0 otherwise; this occurred 15,960 times.
 
-*Missing From Cambridge*: An integer. 1 if the word was missing from the Cambridge dictionary, and 0 otherwise.
+*Missing From Cambridge*: 1 if the word wasn't present at all in the Cambridge dictionary (meaning nothing at all was returned from the query). This was true for 8,248 words.
 
-`get-cambridge.ipynb`: details the process for obtaining all pronunciations from the Cambridge dictionary. The outputs of this file have already been produced, so it does not need to be run again (and takes several hours to complete if so).
+*Top Pronunciation (ALL)*: 1 if this row corresponds to the top pronunciation for a word (i.e. was the first pronunciation provided for the word in the CMU dictionary), REGARDLESS of whether or not the word had alternate valid pronunciations present in the dictionary. For example, this row is 1 for the first pronunciation provided for "record" to indicate it is the top pronunciation for record (see line 38,616), and is ALSO 1 for "abandon" on line 15, which is only present once.
 
-`cambridge_ipas.csv`: the primary output of `get-cambridge.ipynb`. Contains, for all words present in both the trimmed CMU dictionary list and the Cambridge dictionary, words and their potential pronunciations as given by the Cambridge dictionary. If multiple pronunciations are possible, they are space-separated.
+This can be used for filtering if we, say, want to include only the top pronunciation for all words that do have valid alternate pronunciations, plus words that don't (i.e. words that only appeared once in the CMU dictionary) as a possible filter to obtain only one entry per word (and include all words).
+
+*Top Pronunciation (ALT ONLY)*: 1 if this row corresponds to the top pronunciation for a word that does have other valid alternate pronunciations; an example where this would be the case is the first pronunciation provided for the word "record" (see line 38,616); notice that it is 0 for the two subsequent pronunciations provided (indicating that they were not the top pronunciation for the word). Since this column is only for words with alternate pronunciations present, it is also 0 for words that only appear once, like "abandon."
 
 ### Acknowledgements
 
