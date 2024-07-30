@@ -38,6 +38,7 @@ filtered_df = df[(df['CMU IPAs'].apply(len) > 0) &
 
 print("Filtered df")
 print(filtered_df.shape)
+filtered_df.to_csv("no_matches_present_both.csv")
 
 filtered_words = filtered_df['CMU Word'].tolist()
 
